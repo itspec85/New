@@ -697,9 +697,6 @@ https://ucdn.beetv.kz/bpk-tv/000005450/tve/index.m3u8
 #EXTINF:-1 tvg-id="caspian-news" tvg-name="Caspian News" tvg-logo="https://iptvx.one/picons/caspian-news.png" group-title="Казахстан", Caspian News
 #EXTGRP:Казахстан
 https://ucdn.beetv.kz/bpk-tv/000004646/tve/index.m3u8
-#EXTINF:-1 tvg-id="kazakhstan" tvg-name="Qazaqstan" tvg-logo="http://epg.one/img/2569.png" group-title="Казахстан", Qazaqstan
-#EXTGRP:Казахстан
-https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv_720/playlist.m3u8
 #EXTINF:-1 tvg-id="kazakhstan" tvg-name="Qazaqstan HD" tvg-logo="http://epg.one/img/2569.png" group-title="Казахстан", Qazaqstan HD
 #EXTGRP:Казахстан
 https://edge05.beetv.kz/btv/SWM/Qazaqstan_HD/Qazaqstan_HD_1080p_5000kbps.m3u8
