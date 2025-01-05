@@ -368,7 +368,7 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIAK_6.m3u8
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIAK_7.m3u8
 #EXTINF:-1 tvg-id="rtr-planeta-eu" tvg-name="Россия РТР" tvg-logo="http://epg.one/img/2547.png" group-title="Россия", Россия РТР
 #EXTGRP:Россия
-http://45.159.74.13:80/RTRPlaneta/tracks-v1a1/mono.m3u8
+https://streaming.televizor-24-tochka.ru/live/211.m3u8
 #EXTINF:-1 tvg-id="sts" tvg-shift="+1" tvg-name="СТС -1" tvg-logo="http://epg.one/img/79.png" group-title="Россия", СТС -1
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
