@@ -2582,7 +2582,7 @@ http://185.23.80.28:8080/START/index.m3u8?token=test
 http://88.218.242.237:8000/play/a00d
 #EXTINF:-1 tvg-id="start-turan" tvg-name="Старт Туран" tvg-logo="https://avatars.mds.yandex.net/i?id=b5b8bf67427623e5cc497c3754e0c67fc3bb1ef9-5858861-images-thumbs&n=13" group-title="Спорт", Старт Туран
 #EXTGRP:Спорт
-https://ucdn.beetv.kz/bpk-tv/000008487/tve/index.m3u8
+
 #EXTINF:-1 tvg-id="ufc" tvg-name="Удар HD" tvg-logo="http://epg.one/img/2480.png" group-title="Спорт", Удар HD
 #EXTGRP:Спорт
 https://strm.yandex.ru/kal/udar/udar0.m3u8
@@ -2663,10 +2663,10 @@ https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 tvg-id="inhockey-kz" tvg-name="InHockey" tvg-logo="https://iptvx.one/picons/inhockey-kz.png" group-title="Спорт", InHockey
 #EXTGRP:Спорт
-https://ucdn.beetv.kz/bpk-tv/000007832/tve/index.m3u8
+
 #EXTINF:-1 tvg-id="insport-kz" tvg-name="InSport HD KZ" tvg-logo="http://epg.one/img/6130.png" group-title="Спорт", InSport HD KZ
 #EXTGRP:Спорт
-https://ucdn.beetv.kz/bpk-tv/000006983/tve/index.m3u8
+
 #EXTINF:-1 tvg-id="inter-it" tvg-name="Inter TV" tvg-logo="https://avatars.mds.yandex.net/get-entity_search/2327455/428329030/S104x104FitScale_2x" group-title="Спорт", Inter TV
 #EXTGRP:Спорт
 https://open.http.mp.streamamg.com/p/3001560/sp/300156000/playManifest/entryId/0_xmkk2kjr/flavorIds/0_zlbr85f8,0_zlbr85f8,0_noewhew2/format/applehttp/protocol/https/a.m3u8
