@@ -2498,7 +2498,7 @@ https://fs2.persik.by/Ekranizacii13/index.m3u8
 https://fs2.persik.by/Horror_Movies_2/index.m3u8
 #EXTINF:-1 tvg-id="belarus5" tvg-name="Беларусь 5 HD" tvg-logo="http://epg.one/img/2541.png" group-title="Спорт", Беларусь 5 HD
 #EXTGRP:Спорт
-http://93.189.224.246:52900/play/a005/index.m3u8
+https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="box-tv" tvg-name="Бокс ТВ" tvg-logo="http://epg.one/img/2285.png" group-title="Спорт", Бокс ТВ
 #EXTGRP:Спорт
 http://stream01.vnet.am/BoksTv/mono.m3u8
@@ -2531,13 +2531,13 @@ http://213.226.137.140:81/tl/l304/mpegts
 https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8
 #EXTINF:-1 tvg-id="match-premier" tvg-name="Матч! Премьер" tvg-logo="http://epg.one/img/2250.png" group-title="Спорт", Матч! Премьер
 #EXTGRP:Спорт
-http://s7.merlive.am/matchpremier/index.m3u8
+http://s1.merlive.am/matchpremier/index.m3u8
 #EXTINF:-1 tvg-id="match-premier" tvg-name="Матч! Премьер HD" tvg-logo="http://epg.one/img/2250.png" group-title="Спорт", Матч! Премьер HD
 #EXTGRP:Спорт
-http://194.26.229.213/TUDN_NashFutHD/index.m3u8?token=Panda
+http://185.37.150.40:8092/Nash_futbol_HD/playlist.m3u8
 #EXTINF:-1 tvg-id="match-nash-sport" tvg-name="Матч! Страна" tvg-logo="http://epg.one/img/2042.png" group-title="Спорт", Матч! Страна
 #EXTGRP:Спорт
-http://s5.merlive.am/matchstrana/index.m3u8
+http://s1.merlive.am/match-strana/index.m3u8
 #EXTINF:-1 tvg-id="match-nash-sport" tvg-name="Матч! Страна HD" tvg-logo="http://epg.one/img/2042.png" group-title="Спорт", Матч! Страна HD
 #EXTGRP:Спорт
 http://213.226.137.140:81/tl/l73/mpegts
