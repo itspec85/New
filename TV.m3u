@@ -1919,10 +1919,10 @@ http://130.193.73.10:8937/play/a02k
 http://158.101.194.132:8080/channel/d178d72/index.m3u8?q=5656d7c7c902657d3491c0330b58ec0e
 #EXTINF:-1 tvg-id="kinojam1" tvg-name="KinoJam 1 HD" tvg-logo="http://epg.one/img/4466.png" group-title="Кино", KinoJam 1 HD
 #EXTGRP:Кино
-http://46.17.41.254:2020/channel/1469cc2d/index.m3u8?q=d41a27c3e8f49739095fb18ad6a0b0a3
+http://46.17.41.254:2020/channel/1469cc2d/index.m3u8?q=c9a4efc12540f7d0eb46417ddc618c8b
 #EXTINF:-1 tvg-id="kinojam2" tvg-name="KinoJam 2 HD" tvg-logo="http://epg.one/img/4467.png" group-title="Кино", KinoJam 2 HD
 #EXTGRP:Кино
-http://46.17.41.254:2020/channel/1469cc2e/index.m3u8?q=d41a27c3e8f49739095fb18ad6a0b0a3
+http://46.17.41.254:2020/channel/1469cc2e/index.m3u8?q=c9a4efc12540f7d0eb46417ddc618c8b
 #EXTINF:-1 tvg-id="kinoliving" tvg-name="KinoLiving" tvg-logo="http://epg.one/img/9123.png" group-title="Кино", KinoLiving
 #EXTGRP:Кино
 http://109.200.130.123:7537/play/a02k
@@ -1973,10 +1973,10 @@ http://88.218.242.237:8000/play/a00x
 http://158.101.194.132:8080/channel/n1ab22a96/index.m3u8?q=5656d7c7c902657d3491c0330b58ec0e
 #EXTINF:-1 tvg-id="vip-comedy-cee" tvg-name="Viasat Kino Comedy HD" tvg-logo="http://epg.one/img/8880.png" group-title="Кино", Viasat Kino Comedy HD
 #EXTGRP:Кино
-https://wowza5.leisertv.com/live/vipcomedyhd.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="tv1000-worldkino" tvg-name="Viasat World Kino" tvg-logo="http://epg.one/img/8883.png" group-title="Кино", Viasat World Kino
 #EXTGRP:Кино
-https://wowza1.leisertv.com/live/tv1000russiakino.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="tv1000" tvg-name="Viju TV1000" tvg-logo="http://epg.one/img/127.png" group-title="Кино", Viju TV1000
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000003747/tve/index.m3u8
@@ -1991,7 +1991,7 @@ https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Novella_HD.smil/playlist.
 https://ucdn.beetv.kz/bpk-tv/000003748/tve/index.m3u8
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino" tvg-name="Viju TV1000 Русское HD" tvg-logo="http://epg.one/img/267.png" group-title="Кино", Viju TV1000 Русское HD
 #EXTGRP:Кино
-http://45.143.108.104/TV1000RU_HD/index.m3u8
+http://stream2.cinerama.uz/1059/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="tv1000-action" tvg-name="Viju TV1000 Action" tvg-logo="http://epg.one/img/125.png" group-title="Кино", Viju TV1000 Action
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000003910/tve/index.m3u8
