@@ -2546,34 +2546,34 @@ http://213.226.137.140:81/tl/l73/mpegts
 http://194.143.148.28:8080/MatchFutbol1/mpegts
 #EXTINF:-1 tvg-id="match-football1" tvg-name="Матч! Футбол 1 HD" tvg-logo="http://epg.one/img/2044.png" group-title="Спорт", Матч! Футбол 1 HD
 #EXTGRP:Спорт
-http://194.26.229.213/matc-futbol-1/index.m3u8?token=Panda
+http://tv.streams.baikal-telecom.net:8080/MatchFutbol1/mpegts
 #EXTINF:-1 tvg-id="match-football2" tvg-name="Матч! Футбол 2" tvg-logo="http://epg.one/img/1042.png" group-title="Спорт", Матч! Футбол 2
 #EXTGRP:Спорт
 http://tv.ttk.mx:9111
 #EXTINF:-1 tvg-id="match-football2" tvg-name="Матч! Футбол 2 HD" tvg-logo="http://epg.one/img/1042.png" group-title="Спорт", Матч! Футбол 2 HD
 #EXTGRP:Спорт
-http://194.26.229.213/matc-futbol-2/index.m3u8?token=Panda
+http://arbiter.bolshoe.tv/?path=abr2/NTVplusfut2HD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MS83LzIwMjUgNzo1ODo1OSBBTSZoYXNoX3ZhbHVlPUN5MG5oK3NuSGNlSG5TRjRua0RtVlE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
 #EXTINF:-1 tvg-id="match-football3" tvg-name="Матч! Футбол 3" tvg-logo="http://epg.one/img/2005.png" group-title="Спорт", Матч! Футбол 3
 #EXTGRP:Спорт
 http://185.57.68.33/110/mpegts
 #EXTINF:-1 tvg-id="match-football3" tvg-name="Матч! Футбол 3 HD" tvg-logo="http://epg.one/img/2005.png" group-title="Спорт", Матч! Футбол 3 HD
 #EXTGRP:Спорт
-http://194.26.229.213/matc-futbol-3/index.m3u8?token=Panda
+http://flu.ttk.mx:90/Football_3HD/mono.m3u8?token=hs06e
 #EXTINF:-1 tvg-id="mir-basketbola" tvg-name="Мир Баскетбола" tvg-logo="https://app.playlistbox.com/icon/Wjm281v9VYqwzx9za6MREnk3GBgNLKQX.png" group-title="Спорт", Мир Баскетбола
 #EXTGRP:Спорт
 http://213.226.137.140:81/tl/l423/mpegts
 #EXTINF:-1 tvg-id="mir-basketbola" tvg-name="Мир Баскетбола HD" tvg-logo="https://app.playlistbox.com/icon/Wjm281v9VYqwzx9za6MREnk3GBgNLKQX.png" group-title="Спорт", Мир Баскетбола HD
 #EXTGRP:Спорт
-http://88.218.242.237:8000/play/a00e
+
 #EXTINF:-1 tvg-id="okko-sport" tvg-name="Окко Спорт HD" tvg-logo="http://epg.one/img/7895.png" group-title="Спорт", Окко Спорт HD
 #EXTGRP:Спорт
-http://158.101.214.187:8080/channel/79f39dd7/index.m3u8?q=b8633cb8eb71b49cb814d6ae70ae0c27
+http://158.101.214.187:8080/channel/79f39dd7/index.m3u8?q=443d5edac354972a97f67425879f54e1
 #EXTINF:-1 tvg-id="okko-football" tvg-name="Окко Футбол HD" tvg-logo="http://epg.one/img/9325.png" group-title="Спорт", Окко Футбол HD
 #EXTGRP:Спорт
-http://158.101.214.187:8080/channel/n2388d82c/index.m3u8?q=b8633cb8eb71b49cb814d6ae70ae0c27
+http://158.101.214.187:8080/channel/n2388d82c/index.m3u8?q=443d5edac354972a97f67425879f54e1
 #EXTINF:-1 tvg-id="sportivny" tvg-name="Спортивный HD" tvg-logo="http://epg.one/img/4678.png" group-title="Спорт", Спортивный HD
 #EXTGRP:Спорт
-http://46.17.41.254:2020/channel/57179f4a/index.m3u8?q=d41a27c3e8f49739095fb18ad6a0b0a3
+http://46.17.41.254:2020/channel/57179f4a/index.m3u8?q=c9a4efc12540f7d0eb46417ddc618c8b
 #EXTINF:-1 tvg-id="start" tvg-name="Старт HD" tvg-logo="http://epg.one/img/2530.png" group-title="Спорт", Старт HD
 #EXTGRP:Спорт
 http://185.23.80.28:8080/START/index.m3u8?token=test
@@ -2589,9 +2589,12 @@ https://strm.yandex.ru/kal/udar/udar0.m3u8
 #EXTINF:-1 tvg-id="football-ru" tvg-name="Футбол" tvg-logo="http://epg.one/img/2782.png" group-title="Спорт", Футбол
 #EXTGRP:Спорт
 http://185.23.80.28:8080/Football/index.m3u8?token=test
+#EXTINF:-1 tvg-id="footbolny" tvg-name="Футбольный HD" tvg-logo="http://epg.one/img/4679.png" group-title="Спорт", Футбольный HD
+#EXTGRP:Спорт
+http://46.17.41.254:2020/channel/46f9f05/index.m3u8?q=c9a4efc12540f7d0eb46417ddc618c8b
 #EXTINF:-1 tvg-id="xokkejny" tvg-name="Хоккейный HD" tvg-logo="http://epg.one/img/4605.png" group-title="Спорт", Хоккейный HD
 #EXTGRP:Спорт
-http://46.17.41.254:2020/channel/n6e6bc50d/index.m3u8?q=d41a27c3e8f49739095fb18ad6a0b0a3
+http://46.17.41.254:2020/channel/n6e6bc50d/index.m3u8?q=c9a4efc12540f7d0eb46417ddc618c8b
 #EXTINF:-1 tvg-name="beIN Sports 1 HD TR" tvg-logo="http://epg.one/img/5092.png" group-title="Спорт", beIN Sports 1 HD TR
 #EXTGRP:Спорт
 http://65.21.85.175:8000/play/a034/index.m3u8?token=livetv
