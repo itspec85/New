@@ -2670,9 +2670,6 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 tvg-id="insport-kz" tvg-name="InSport HD KZ" tvg-logo="http://epg.one/img/6130.png" group-title="Спорт", InSport HD KZ
 #EXTGRP:Спорт
 
-#EXTINF:-1 tvg-id="inter-it" tvg-name="Inter TV" tvg-logo="https://avatars.mds.yandex.net/get-entity_search/2327455/428329030/S104x104FitScale_2x" group-title="Спорт", Inter TV
-#EXTGRP:Спорт
-https://open.http.mp.streamamg.com/p/3001560/sp/300156000/playManifest/entryId/0_xmkk2kjr/flavorIds/0_zlbr85f8,0_zlbr85f8,0_noewhew2/format/applehttp/protocol/https/a.m3u8
 #EXTINF:-1 tvg-id="kxl" tvg-name="KHL" tvg-logo="http://epg.one/img/2048.png" group-title="Спорт", KHL
 #EXTGRP:Спорт
 https://strm.yandex.ru/kal/khl_belarus/khl_belarus0.m3u8
@@ -2780,7 +2777,7 @@ http://globalstreamz.xyz:3050/edwhite43@yahoo.com/bK5HuUT6uk/601454
 https://stream1.cinerama.uz/1004/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="viasat-sport" tvg-name="Viju+ Sport" tvg-logo="http://epg.one/img/2055.png" group-title="Спорт", Viju+ Sport
 #EXTGRP:Спорт
-http://45.159.74.13:80/AutoPlus/tracks-v1a1/mono.m3u8
+http://213.226.137.140:81/tl/l97/mpegts
 #EXTINF:-1 tvg-id="viasat-sport" tvg-name="Viju+ Sport HD" tvg-logo="http://epg.one/img/2055.png" group-title="Спорт", Viju+ Sport HD
 #EXTGRP:Спорт
 https://ucdn.beetv.kz/bpk-tv/000000135/tve/index.m3u8
