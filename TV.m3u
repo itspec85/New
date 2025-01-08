@@ -921,7 +921,7 @@ http://194.158.218.123:8880/ZdorovoeTV/index.m3u8
 http://185.23.80.28:8080/ZooTV/index.m3u8?token=test
 #EXTINF:-1 tvg-id="istoria" tvg-name="История" tvg-logo="http://epg.one/img/1036.png" group-title="Познавательные", История
 #EXTGRP:Познавательные
-http://109.200.130.123:7537/play/a025
+http://31.148.48.15/Istoriya/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Каббала ТВ" tvg-logo="https://avatars.mds.yandex.net/i?id=b43ee481a3793ca6cb91f29af3547fd0-3920892-images-thumbs&n=13" group-title="Познавательные", Каббала ТВ
 #EXTGRP:Познавательные
 http://edge3.uk.kab.tv/live/tvrus-rus-high/chunks.m3u8
@@ -948,7 +948,7 @@ https://live-3.otcnet.ru/congresstv-multi/index.m3u8
 https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="kto-est-kto" tvg-name="Кто есть кто" tvg-logo="http://epg.one/img/2456.png" group-title="Познавательные", Кто есть кто
 #EXTGRP:Познавательные
-http://s7.merlive.am/ktoestkto/index.m3u8
+https://wowza4.leisertv.com/live/ktoyestkto.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="mir-uvlecheniy" tvg-name="Кто куда" tvg-logo="http://epg.one/img/2467.png" group-title="Познавательные", Кто куда
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000001377/tve/index.m3u8
@@ -966,10 +966,10 @@ http://46.46.143.222:1935/live/mp4:ldpr.stream_480p/playlist.m3u8
 https://fl1001.bozztv.com/ushba3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="moya-planeta" tvg-name="Моя Планета" tvg-logo="http://epg.one/img/675.png" group-title="Познавательные", Моя Планета
 #EXTGRP:Познавательные
-http://194.143.148.28:8080/Moya_Planeta/mpegts
+http://stream1.cinerama.uz/1247/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="morskoy" tvg-name="Моя Стихия" tvg-logo="http://epg.one/img/2028.png" group-title="Познавательные", Моя Стихия
 #EXTGRP:Познавательные
-rtmp://5.182.229.90//7349
+http://130.193.73.10:8937/play/a02f
 #EXTINF:-1 tvg-id="muzhskoy" tvg-name="Мужской" tvg-logo="http://epg.one/img/2444.png" group-title="Познавательные", Мужской
 #EXTGRP:Познавательные
 http://195.26.83.96:7007/play/11/index.m3u8
@@ -1133,7 +1133,7 @@ http://185.50.148.2:7703/PSIHOLOGIYA21/index.m3u8
 http://185.23.80.28:8080/VashUspex/index.m3u8?token=uspeh
 #EXTINF:-1 tvg-name="Царьград ТВ" tvg-logo="https://avatars.mds.yandex.net/i?id=56bd2b7e87256b22cf8a436f893296c28b7417fd-9289427-images-thumbs&n=13" group-title="Познавательные", Царьград ТВ
 #EXTGRP:Познавательные
-http://46.17.41.254:2020/channel/n75e0f82c/index.m3u8?q=d41a27c3e8f49739095fb18ad6a0b0a3
+http://46.17.41.254:2020/channel/n75e0f82c/index.m3u8?q=c9a4efc12540f7d0eb46417ddc618c8b
 #EXTINF:-1 tvg-id="centralnoye-tv" tvg-name="Центральное телевидение" tvg-logo="http://epg.one/img/2400.png" group-title="Познавательные", Центральное телевидение
 #EXTGRP:Познавательные
 http://stream01.vnet.am/Channel_129/mono.m3u8
@@ -1176,7 +1176,7 @@ http://45.159.74.14:80/AnimalPlanet/tracks-v1a2/mono.m3u8
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-id="big-planet" tvg-name="Big Planet" tvg-logo="http://epg.one/img/7623.png" group-title="Познавательные", Big Planet
 #EXTGRP:Познавательные
-http://109.200.130.123:7537/play/a02j
+http://88.218.242.237:8000/play/a00k
 #EXTINF:-1 tvg-id="bloomberg" tvg-name="Bloomberg TV USA" tvg-logo="https://avatars.mds.yandex.net/i?id=9bdd7c5b9b6a9fa55348eada7a515346ada82991-12371687-images-thumbs&n=13" group-title="Познавательные", Bloomberg TV USA
 #EXTGRP:Познавательные
 https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
@@ -1224,7 +1224,7 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_
 http://213.226.137.140:81/tl/l98/mpegts
 #EXTINF:-1 tvg-id="eda-hd" tvg-name="FoodTime" tvg-logo="http://epg.one/img/7635.png" group-title="Познавательные", FoodTime
 #EXTGRP:Познавательные
-http://46.17.41.254:2020/channel/n723486ec/index.m3u8?q=d41a27c3e8f49739095fb18ad6a0b0a3
+http://46.17.41.254:2020/channel/n723486ec/index.m3u8?q=c9a4efc12540f7d0eb46417ddc618c8b
 #EXTINF:-1 tvg-id="fox-news-us" tvg-name="FOX NEWS CHANNEL FHD" tvg-logo="http://epg.one/img/6683.png" group-title="Познавательные", FOX NEWS CHANNEL FHD
 #EXTGRP:Познавательные
 http://stream2.cinerama.uz/1252/tracks-v1a1/mono.m3u8
@@ -1255,6 +1255,9 @@ https://iptv.prosto.tv/ch87/video.m3u8?secret=3fwh601f
 #EXTINF:-1 tvg-id="h2" tvg-name="History2" tvg-logo="http://epg.one/img/2356.png" group-title="Познавательные", History2
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000002722/tve/index.m3u8
+#EXTINF:-1 tvg-id="h2" tvg-name="History2 (резерв)" tvg-logo="http://epg.one/img/2356.png" group-title="Познавательные", History2 (резерв)
+#EXTGRP:Познавательные
+http://chiburator.monster:8000/play/aloxy0jsp_gga_a6m_tO2tm50ysfvPRfODn1ASD56QA/ts
 #EXTINF:-1 tvg-id="id-xtra-eu" tvg-name="Investigation Discovery" tvg-logo="http://epg.one/img/2507.png" group-title="Познавательные", Investigation Discovery
 #EXTGRP:Познавательные
 http://45.159.74.14:80/InvestigationDiscovery/tracks-v1a2/mono.m3u8
@@ -1263,7 +1266,7 @@ http://45.159.74.14:80/InvestigationDiscovery/tracks-v1a2/mono.m3u8
 https://api.alpaca.t62a.com/hls/9104/stream0.m3u8
 #EXTINF:-1 tvg-name="Joy Cook" tvg-logo="https://avatars.mds.yandex.net/i?id=043e31866c7daa727950b94dba80993b2e892e1d-9859478-images-thumbs&n=13" group-title="Познавательные", Joy Cook
 #EXTGRP:Познавательные
-http://158.101.194.132:8080/channel/11d5c6d6/index.m3u8?q=5656d7c7c902657d3491c0330b58ec0e
+http://chiburator.monster:8000/play/aloxy0jsp_gga_a6m_tO2g6kQZL_FG5G43Jaw7YFbrEmD8VXK8jT_mntI9ry1mjp/ts
 #EXTINF:-1 tvg-id="kosmohd" tvg-name="Kosmo" tvg-logo="https://avatars.mds.yandex.net/i?id=4a3b038e961d47a56150e11962ccdc07291eaf2a-12146588-images-thumbs&n=13" group-title="Познавательные", Kosmo
 #EXTGRP:Познавательные
 https://fs2.persik.by/Kosmo7/index.m3u8
