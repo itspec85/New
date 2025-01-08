@@ -1,3 +1,4 @@
+
 #EXTM3U url-tvg="https://iptvx.one/EPG_NOARCH"
 #EXTINF:-1 tvg-id="domashny" tvg-shift="+1" tvg-name="Домашний -1" tvg-logo="http://epg.one/img/304.png" group-title="Россия", Домашний -1
 #EXTGRP:Россия
@@ -2472,6 +2473,9 @@ https://fs2.persik.by/Seriali/index.m3u8
 #EXTINF:-1 tvg-name="Persik TV Топ кино" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Топ кино
 #EXTGRP:Кинозал ТЕСТ
 https://fs2.persik.by/TopKino/index.m3u8
+#EXTINF:-1 tvg-name="Persik TV Триллер" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Триллер
+#EXTGRP:Кинозал ТЕСТ
+https://fs2.persik.by/Triller1/index.m3u8
 #EXTINF:-1 tvg-name="Persik TV Триллеры" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Триллеры
 #EXTGRP:Кинозал ТЕСТ
 https://fs2.persik.by/Trillery_2/index.m3u8
@@ -3042,6 +3046,9 @@ https://fs2.persik.by/Russkij_Rock3/index.m3u8
 #EXTINF:-1 tvg-name="Persik TV Рэп" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Музыка", Persik TV Рэп
 #EXTGRP:Музыка
 http://fs2.persik.by/Rap2/index.m3u8
+#EXTINF:-1 tvg-name="Persik TV Best Clips" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Музыка", Persik TV Best Clips
+#EXTGRP:Музыка
+https://fs2.persik.by/Best_clips1/index.m3u8
 #EXTINF:-1 tvg-name="Persik TV Concerts" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Музыка", Persik TV Concerts
 #EXTGRP:Музыка
 https://fs2.persik.by/Concerts4/index.m3u8
@@ -3057,6 +3064,12 @@ https://fs2.persik.by/Hits5/index.m3u8
 #EXTINF:-1 tvg-name="Persik TV Pop" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Музыка", Persik TV Pop
 #EXTGRP:Музыка
 https://fs2.persik.by/Pop4/index.m3u8
+#EXTINF:-1 tvg-name="Persik TV Pop-Rock" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Музыка", Persik TV Pop-Rock
+#EXTGRP:Музыка
+https://fs2.persik.by/Pop_Rock3/index.m3u8
+#EXTINF:-1 tvg-name="Persik TV Synthwave" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Музыка", Persik TV Synthwave
+#EXTGRP:Музыка
+http://fs2.persik.by/Synthwave/index.m3u8
 #EXTINF:-1 tvg-name="Persik TV Techno" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Музыка", Persik TV Techno
 #EXTGRP:Музыка
 https://fs2.persik.by/Techno3/index.m3u8
