@@ -2254,6 +2254,27 @@ http://chiburator.monster:8000/play/FhMxjc-hSujU6-0cO0JLWyMD2usNd8owWWKNeKGz_25P
 #EXTINF:-1 tvg-name="Чебур ТВ - Series" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4W1SoEamZbaZe00SwfV6LgguXBilQY7tXjYbkfVK3Efn.png" group-title="Кинозал ТЕСТ", Чебур ТВ - Series
 #EXTGRP:Кинозал ТЕСТ
 http://chiburator.monster:8000/play/FhMxjc-hSujU6-0cO0JLW-c2ggT2aDv8FvPKcylC1KdEXkLAqdElLCZrmwvzpSIM/ts
+#EXTINF:-1 tvg-id="bcu-cosmo" tvg-name="BCU Cosmo HD" tvg-logo="http://epg.one/img/8880.png" group-title="Кинозал ТЕСТ", BCU Cosmo HD
+#EXTGRP:Кинозал ТЕСТ
+http://ronaldo.tvfor.pro/WWiumlcYxe/l6i55j264w9187bml44emph2
+#EXTINF:-1 tvg-id="bcu-criminal" tvg-name="BCU Criminal HD" tvg-logo="http://epg.one/img/8880.png" group-title="Кинозал ТЕСТ", BCU Criminal HD
+#EXTGRP:Кинозал ТЕСТ
+http://ronaldo.tvfor.pro/PUyDTRDUbe/l6i55j264w9187bml44emph2
+#EXTINF:-1 tvg-id="bcu-filmystic" tvg-name="BCU FilMystic HD" tvg-logo="http://epg.one/img/8880.png" group-title="Кинозал ТЕСТ", BCU FilMystic HD
+#EXTGRP:Кинозал ТЕСТ
+http://ronaldo.tvfor.pro/uTOLclPPwX/l6i55j264w9187bml44emph2
+#EXTINF:-1 tvg-id="bcu-media" tvg-name="BCU Media HD" tvg-logo="http://epg.one/img/8880.png" group-title="Кинозал ТЕСТ", BCU Media HD
+#EXTGRP:Кинозал ТЕСТ
+http://ronaldo.tvfor.pro/kbZcDwSdQY/l6i55j264w9187bml44emph2
+#EXTINF:-1 tvg-id="bcu-reality" tvg-name="BCU Reality HD" tvg-logo="http://epg.one/img/8880.png" group-title="Кинозал ТЕСТ", BCU Reality HD
+#EXTGRP:Кинозал ТЕСТ
+http://ronaldo.tvfor.pro/SyhlUwtZuz/l6i55j264w9187bml44emph2
+#EXTINF:-1 tvg-id="bcu-survival" tvg-name="BCU Survival HD" tvg-logo="http://epg.one/img/8880.png" group-title="Кинозал ТЕСТ", BCU Survival HD
+#EXTGRP:Кинозал ТЕСТ
+http://ronaldo.tvfor.pro/CgRafBOZhs/l6i55j264w9187bml44emph2
+#EXTINF:-1 tvg-id="bcu-trumotion" tvg-name="BCU TruMotion HD" tvg-logo="http://epg.one/img/8880.png" group-title="Кинозал ТЕСТ", BCU TruMotion HD
+#EXTGRP:Кинозал ТЕСТ
+http://ronaldo.tvfor.pro/FwvUiLwcqW/l6i55j264w9187bml44emph2
 #EXTINF:-1 tvg-name="Persik TV Александра Бортич" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Александра Бортич
 #EXTGRP:Кинозал ТЕСТ
 https://fs2.persik.by/Bortich3/index.m3u8
