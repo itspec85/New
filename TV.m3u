@@ -938,9 +938,6 @@ https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3
 #EXTINF:-1 tvg-id="kluch" tvg-name="Ключ HD" tvg-logo="http://epg.one/img/9156.png" group-title="Познавательные", Ключ HD
 #EXTGRP:Познавательные
 http://185.23.80.28:8080/Klyuch/index.m3u8?token=test
-#EXTINF:-1 tvg-name="Колобок ТВ - Женский стендап" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JFe_DgkmyPrwSdQthM3WPaY5yIqnLVUIw7nN46C0Uk7V.png" group-title="Познавательные", Колобок ТВ - Женский стендап
-#EXTGRP:Познавательные
-http://chiburator.monster:8000/play/FhMxjc-hSujU6-0cO0JLW8Qol2MhxNrCOKgRyeD6CpXqUyUpLmbTGcyTVsBhOnP4/ts
 #EXTINF:-1 tvg-id="kongresstv" tvg-name="Конгресс ТВ HD" tvg-logo="http://epg.one/img/9078.png" group-title="Познавательные", Конгресс ТВ HD
 #EXTGRP:Познавательные
 https://live-3.otcnet.ru/congresstv-multi/index.m3u8
@@ -1140,22 +1137,22 @@ http://46.17.41.254:2020/channel/n75e0f82c/index.m3u8?q=c9a4efc12540f7d0eb46417d
 http://stream01.vnet.am/Channel_129/mono.m3u8
 #EXTINF:-1 tvg-name="Чебур ТВ - ДОКУ Живая Планета" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JNzw1mUEMq0Ut2Gy8yW2RVbgnNtx88vATSd14wmprb2vH0hTWgEJgyTvOusvfqDzjA.png" group-title="Познавательные", Чебур ТВ - ДОКУ Живая Планета
 #EXTGRP:Познавательные
-http://chiburator.monster:8000/play/FhMxjc-hSujU6-0cO0JLW8ly0Gea5e9tZFyfXMpWi5HWWBi07_Kqd67grpVrN4kN/ts
+
 #EXTINF:-1 tvg-name="Чебур ТВ - ДОКУ Планета Динозавров" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JIEu5j2saA6zuJrA1MN9xvZRwIOPoJMk94Nh8jP5oABt.png" group-title="Познавательные", Чебур ТВ - ДОКУ Планета Динозавров
 #EXTGRP:Познавательные
-http://chiburator.monster:8000/play/FhMxjc-hSujU6-0cO0JLW2utShe84rcyLqi1e-Km1ixoBQyoblnSuBldDZIlmDcm/ts
+
 #EXTINF:-1 tvg-name="Чебур ТВ - ДОКУ Science" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JOTKUnmpue1OF90omUZAxzsPvpx-NUEO_U1ywcb8l5J-.png" group-title="Познавательные", Чебур ТВ - ДОКУ Science
 #EXTGRP:Познавательные
-http://chiburator.monster:8000/play/FhMxjc-hSujU6-0cO0JLW9J0luL7q0aTpY9csuzroJcp9KMplWKifr7JEuMqVinR/ts
+
 #EXTINF:-1 tvg-name="Чебур ТВ - ДОКУ Univerce" tvg-logo="https://i.postimg.cc/9MV5mprx/image-18.png" group-title="Познавательные", Чебур ТВ - ДОКУ Univerce
 #EXTGRP:Познавательные
-http://chiburator.monster:8000/play/FhMxjc-hSujU6-0cO0JLW4XmRuf7x8uqKTOUWMauzjTk_hOSBQj_GMa-36Q9rfv7/ts
+
 #EXTINF:-1 tvg-name="Чебур ТВ - Непутёвые Заметки" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JI_Yv5YX9tEgHvE5w4hF-CbD9AIXOEb6HQ7IpefUVZzu.png" group-title="Познавательные", Чебур ТВ - Непутёвые Заметки
 #EXTGRP:Познавательные
-http://chiburator.monster:8000/play/FhMxjc-hSujU6-0cO0JLW6ibBB0YQyMs8TiuxCRDbxHETjZDdyI9WTcWWzx2Etys/ts
+
 #EXTINF:-1 tvg-name="Чебур ТВ - Comedy Mix" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JMIzvXvliwoxSLQ_WsX1b-gGUqCjdBQnYRtGLjPvYtKN.png" group-title="Познавательные", Чебур ТВ - Comedy Mix
 #EXTGRP:Познавательные
-http://chiburator.monster:8000/play/FhMxjc-hSujU6-0cO0JLW7oGZracct88xSCs5-9V6MtHethdUDjbWTpyskY_8PDG/ts
+
 #EXTINF:-1 tvg-name="Что? Где? Когда?" tvg-logo="https://avatars.mds.yandex.net/i?id=9ff2b07eabc425c0fdfbb2e0cef9cd22d8bf948a-12569903-images-thumbs&n=13" group-title="Познавательные", Что? Где? Когда?
 #EXTGRP:Познавательные
 #EXTVLCOPT:http-user-agent=goodgame
@@ -1433,10 +1430,10 @@ https://ucdn.beetv.kz/bpk-tv/000000781/tve/index.m3u8
 http://109.200.130.123:7537/play/a024
 #EXTINF:-1 tvg-name="Колобок ТВ - Элвин и бурундуки" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JN24Vvk0YNaGNn9i_Il6ZAwN_5qDr-jtsdzMJk-jhZ7V.png" group-title="Детские", Колобок ТВ - Элвин и бурундуки
 #EXTGRP:Детские
-http://chiburator.monster:8000/play/FhMxjc-hSujU6-0cO0JLW_djWvAVDTWT0HBOcWJWwSWN36zhLXsdGtOjdy_D4bpt/ts
+
 #EXTINF:-1 tvg-name="Колобок ТВ - Cartoons" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JMmMjzegd2q0_GPOij6gjo-Y8aq4WspeTiRqg39aiV49.png" group-title="Детские", Колобок ТВ - Cartoons
 #EXTGRP:Детские
-http://chiburator.monster:8000/play/FhMxjc-hSujU6-0cO0JLW1LG2jbVs-nmYxfusM6-1kRfR_vfIqRx3EHCj2MaLMt4/ts
+
 #EXTINF:-1 tvg-id="liova" tvg-name="Лёва HD" tvg-logo="http://epg.one/img/7990.png" group-title="Детские", Лёва HD
 #EXTGRP:Детские
 https://edge05.beetv.kz/btv/SWM/leva/leva_1080p_5000kbps.m3u8
@@ -1512,22 +1509,22 @@ http://178.124.179.122:8088/Malish/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000000048/tve/index.m3u8
 #EXTINF:-1 tvg-name="Чебур ТВ - Анимешки" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JA3cBcZgX7NIBXdUThRlgN98h_kGq5QAslyPP1AS3Fxs.png" group-title="Детские", Чебур ТВ - Анимешки
 #EXTGRP:Детские
-http://chiburator.monster:8000/play/FhMxjc-hSujU6-0cO0JLW_mwrxxpDJnVt8YpMzjU17RqIcpaRJdnrt_kMguegt3U/ts
+
 #EXTINF:-1 tvg-name="Чебур ТВ - Карапуз" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4et_Zs6_cxO2pERQlqePtYMY3GdQeoi077O9kTLmXc3p.png" group-title="Детские", Чебур ТВ - Карапуз
 #EXTGRP:Детские
-http://chiburator.monster:8000/play/FhMxjc-hSujU6-0cO0JLW5h_VmJ95WA3lMs-LDUELf_rZVQYY5S_xsNRDahvftkr/ts
+
 #EXTINF:-1 tvg-name="Чебур ТВ - Мультики" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4Vz2bvuK0yHjvUBEW25iDT0_Tn6n8C2u7fqgCxBC3NaQJpe15hofcon1L0qPFjP0bA.png" group-title="Детские", Чебур ТВ - Мультики
 #EXTGRP:Детские
-http://chiburator.monster:8000/play/FhMxjc-hSujU6-0cO0JLWzkCGWOwehamOlN_KjXc-yNUuHtc1cPd6PgATuskp2qy/ts
+
 #EXTINF:-1 tvg-name="Чебур ТВ - МультЭпоха СССР" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4Q5n0ms11hDHFtBaGVO57B71q_0m6_n_p1MoocEk5ZUO.png" group-title="Детские", Чебур ТВ - МультЭпоха СССР
 #EXTGRP:Детские
-http://chiburator.monster:8000/play/FhMxjc-hSujU6-0cO0JLW4G5ogT7_27e_YGsb4ApLPfmDc96jinhamZ47j7CkmnO/ts
+
 #EXTINF:-1 tvg-name="Чебур ТВ - Физ-Мульт Привет" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4ROeH9eyhbpkEL_QiEFJaNd3XpsQtrb8ZyWnPS5iJ3A2AbYvjTiBDxYjlk7utHFFiw.png" group-title="Детские", Чебур ТВ - Физ-Мульт Привет
 #EXTGRP:Детские
-http://chiburator.monster:8000/play/FhMxjc-hSujU6-0cO0JLW6WldWp3FpThwdtGZ0rvDL034Ymjr39e6eNFpakkAzjK/ts
+
 #EXTINF:-1 tvg-name="Чебур ТВ - MultSeries" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JPV7afPE6A1yy-wqNgwkK9a6M4f8Yjx3OHWh0R4UkgMd.png" group-title="Детские", Чебур ТВ - MultSeries
 #EXTGRP:Детские
-http://chiburator.monster:8000/play/FhMxjc-hSujU6-0cO0JLWxyIW8YkqCcko6BzcZ3PrLYX231-ZKAc0F63K9Vz-feJ/ts
+
 #EXTINF:-1 tvg-name="Чип и Дейл" tvg-logo="https://i.postimg.cc/BvqS8HVV/1.png" group-title="Детские", Чип и Дейл
 #EXTGRP:Детские
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
@@ -2019,52 +2016,52 @@ https://ucdn.beetv.kz/bpk-tv/000000868/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000004375/tve/index.m3u8
 #EXTINF:-1 tvg-name="Колобок ТВ - Гусар" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JKQysc8xXedzUXDl6SDRuImXRizT-vXD-iHydc17uzYV.png" group-title="Кинозал ТЕСТ", Колобок ТВ - Гусар
 #EXTGRP:Кинозал ТЕСТ
-http://chiburator.monster:8000/play/FhMxjc-hSujU6-0cO0JLW5jZwFoWDQjzGjzkUAJJZsvoXc1Simc041S7pTCV8xw6/ts
+
 #EXTINF:-1 tvg-name="Колобок ТВ - Боевик" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JEGZsj_xvV6Q5yVjMuyUWDu7i9x4wQRbFpFAaNkslujj.png" group-title="Кинозал ТЕСТ", Колобок ТВ - Боевик
 #EXTGRP:Кинозал ТЕСТ
-http://chiburator.monster:8000/play/FhMxjc-hSujU6-0cO0JLW2plyeRL_LtHvoJIktVV0wmYK_ECUHPSoijgvyINkgUC/ts
+
 #EXTINF:-1 tvg-name="Колобок ТВ - Друзья" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JKztpjnQRyLiwnp2eAsFYbJw_XwZik5o3u9EAEaRZZd7.png" group-title="Кинозал ТЕСТ", Колобок ТВ - Друзья
 #EXTGRP:Кинозал ТЕСТ
-http://chiburator.monster:8000/play/FhMxjc-hSujU6-0cO0JLWygjWIXFM6iDRBy2he7EF6HG4WKNqSTDTYys7RMU8SQD/ts
+
 #EXTINF:-1 tvg-name="Колобок ТВ - Жуки" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JJL9fsi1h_rHhddlrEhKE5Yk8MkyIwXBg89tFmQ4mWtK.png" group-title="Кинозал ТЕСТ", Колобок ТВ - Жуки
 #EXTGRP:Кинозал ТЕСТ
-http://chiburator.monster:8000/play/FhMxjc-hSujU6-0cO0JLW0yGAH_9I61wo4P2BkQVGavVmnEQZERLqrNi9-nIx0lm/ts
+
 #EXTINF:-1 tvg-name="Колобок ТВ - Комедия" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JJdyqF6Er3ZcJjbvfyeSH9G6Mr6rtF8JKgMg20JKIg5c.png" group-title="Кинозал ТЕСТ", Колобок ТВ - Комедия
 #EXTGRP:Кинозал ТЕСТ
-http://chiburator.monster:8000/play/FhMxjc-hSujU6-0cO0JLW-_RSG3tSIMEL_4woit6sXJ4vLNy4sONEK2lZsHDM7Q9/ts
+
 #EXTINF:-1 tvg-name="Колобок ТВ - Сверхъестественное" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JKAXTvdbd7sTVZjXRaNdiU2kFXmFmtIOH51--oSgGHdD.png" group-title="Кинозал ТЕСТ", Колобок ТВ - Сверхъестественное
 #EXTGRP:Кинозал ТЕСТ
-http://chiburator.monster:8000/play/FhMxjc-hSujU6-0cO0JLW-aitoIhQNOJBTHvKtzFChhav-OdKpK91Y6rse8_1sZI/ts
+
 #EXTINF:-1 tvg-name="Колобок ТВ - Секс в большом городе" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JEjR0iwbCL_AXwyah00AlSaMJeDq5fcCRo-HuSxf4eqb.png" group-title="Кинозал ТЕСТ", Колобок ТВ - Секс в большом городе
 #EXTGRP:Кинозал ТЕСТ
-http://chiburator.monster:8000/play/FhMxjc-hSujU6-0cO0JLW_DuFeNlQqX4mwhOyPJlTPGlMxt477FfX4mWKDo7_bwL/ts
+
 #EXTINF:-1 tvg-name="Колобок ТВ - СССР Зарубежье" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JGKrhaGoDSiR1O9eShdRiZXo1D9Q7ateFNsi70sIvrbb.png" group-title="Кинозал ТЕСТ", Колобок ТВ - СССР Зарубежье
 #EXTGRP:Кинозал ТЕСТ
-http://chiburator.monster:8000/play/FhMxjc-hSujU6-0cO0JLW7ZFQC3TwNtpQe-aL2epViyPoQxAhuJ5pwTMvl3-6nHk/ts
+
 #EXTINF:-1 tvg-name="Колобок ТВ - Ужасы" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JLzavt88117l-rRLKqNgnGFnBk_TInSnmyTBYznO-x8m.png" group-title="Кинозал ТЕСТ", Колобок ТВ - Ужасы
 #EXTGRP:Кинозал ТЕСТ
-http://chiburator.monster:8000/play/FhMxjc-hSujU6-0cO0JLW3ELcosmO0WepekBr8QwYffK5LQCWLLHd4PV9FVjJyE-/ts
+
 #EXTINF:-1 tvg-name="Колобок ТВ - Фантастика" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JBusRUvnSHNcD4t33ufXRNaR5FhSj9hW4D_yUaqiMH-J.png" group-title="Кинозал ТЕСТ", Колобок ТВ - Фантастика
 #EXTGRP:Кинозал ТЕСТ
-http://chiburator.monster:8000/play/FhMxjc-hSujU6-0cO0JLW4WyI1g3Zya9K34EaKIDvTAWfs_IYN9pzndAdHC7bKah/ts
+
 #EXTINF:-1 tvg-name="Колобок ТВ - Crime" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JGZG2AueOIj8XldVKdGLn66H5lR_JbNKIU922XMt1Q2R.png" group-title="Кинозал ТЕСТ", Колобок ТВ - Crime
 #EXTGRP:Кинозал ТЕСТ
-http://chiburator.monster:8000/play/FhMxjc-hSujU6-0cO0JLW5tN6fF6HAdsssWqOmEXc7eGyN1GUNZySXbt1UM_xW3B/ts
+
 #EXTINF:-1 tvg-name="Колобок ТВ - Detective" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JAS52D-4OIHsTtHLVvJW267-gkuLbOeSIt29Js2DhWwt.png" group-title="Кинозал ТЕСТ", Колобок ТВ - Detective
 #EXTGRP:Кинозал ТЕСТ
-http://chiburator.monster:8000/play/FhMxjc-hSujU6-0cO0JLWwtzOmftGgNz2B83a_cSY7qRo6V1ncKBr_xTQwkFxVCK/ts
+
 #EXTINF:-1 tvg-name="Колобок ТВ - Melodrama" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JBOAkYcWJPZHVJbLBMcEtRwZtzPAtlEwr0mxig8AF153.png" group-title="Кинозал ТЕСТ", Колобок ТВ - Melodrama
 #EXTGRP:Кинозал ТЕСТ
-http://chiburator.monster:8000/play/FhMxjc-hSujU6-0cO0JLWyNA1gPK9LsDX4Zn0LyMoPsvZjqCJ_mhM3b2RB9RJBiS/ts
+
 #EXTINF:-1 tvg-name="Колобок ТВ - New Films" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JJDOiz8vOENRysg5_gHyeacehXSaER2AcC2n67zgHL2-.png" group-title="Кинозал ТЕСТ", Колобок ТВ - New Films
 #EXTGRP:Кинозал ТЕСТ
-http://chiburator.monster:8000/play/FhMxjc-hSujU6-0cO0JLW0KvmrNmeer8NbiI7fOJPG9OcqJB6YbivhVJOroy9wgQ/ts
+
 #EXTINF:-1 tvg-name="Колобок ТВ - Ru Serials New" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JOWpb5NUhHZC7al0fZv31rtODBnewZ6IjRKkFLOpb_q8.png" group-title="Кинозал ТЕСТ", Колобок ТВ - Ru Serials New
 #EXTGRP:Кинозал ТЕСТ
-http://chiburator.monster:8000/play/FhMxjc-hSujU6-0cO0JLW2IEn1wli1mxPWsESkkC0un0_899rcL5AGJ-J-gkCUbm/ts
+
 #EXTINF:-1 tvg-name="Колобок ТВ - Thriller" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JC6TcyVsDN0W9g2Fx54CYLZz-YfYF2lBkDxrGHcsMjOr.png" group-title="Кинозал ТЕСТ", Колобок ТВ - Thriller
 #EXTGRP:Кинозал ТЕСТ
-http://chiburator.monster:8000/play/FhMxjc-hSujU6-0cO0JLW80JE62YHd90lgJ4vA1qgYx4eeBRjPW-SqON-CnN4vJu/ts
+
 #EXTINF:-1 tvg-name="Сити Эдем - КиноДетектив" tvg-logo="https://www.cityeden.info/logotv/logotip_kinodetektiv.png" group-title="Кинозал ТЕСТ", Сити Эдем - КиноДетектив
 #EXTGRP:Кинозал ТЕСТ
 https://v2.catcast.tv/content/41327/index.m3u8
@@ -2088,172 +2085,172 @@ https://autopilot.catcast.tv/content/34246/index.m3u8
 https://autopilot.catcast.tv/content/46209/index.m3u8
 #EXTINF:-1 tvg-name="Чебур ТВ - Армагеддон" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4VUg3dWgm_7pa6DXu7J32FAmKuC5HDcPx57tczYKEoRkhJ7hYLrTV-XrsuleiMjM1Q.png" group-title="Кинозал ТЕСТ", Чебур ТВ - Армагеддон
 #EXTGRP:Кинозал ТЕСТ
-http://chiburator.monster:8000/play/FhMxjc-hSujU6-0cO0JLW4CtDZGbw708380oZqaAHdQkESAfY_4F0rG_49gzllcE/ts
+
 #EXTINF:-1 tvg-name="Чебур ТВ - Балабол" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4e9-fk5mGL1Nwi_ANXaBHtrHHkMdTFnSz2aSZKkoSpf9r1nYSYmeF6EeMrdzrRa0Vg.png" group-title="Кинозал ТЕСТ", Чебур ТВ - Балабол
 #EXTGRP:Кинозал ТЕСТ
-http://chiburator.monster:8000/play/FhMxjc-hSujU6-0cO0JLW2rYlxjWjsp0b7mazjhlc0fnkmqfSo5tMyZGFGWxCpJS/ts
+
 #EXTINF:-1 tvg-name="Чебур ТВ - Биография" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4fKDsQVLtOrpr-gfXOdn1sRonT8VRvS5p6PVja5ghq1od0OBCoYMFPVRiNykRm63oA.png" group-title="Кинозал ТЕСТ", Чебур ТВ - Биография
 #EXTGRP:Кинозал ТЕСТ
-http://chiburator.monster:8000/play/FhMxjc-hSujU6-0cO0JLWwmiZhSAAsililyRs1BJMIaWWY6b7im-h3w0R6FjccmY/ts
+
 #EXTINF:-1 tvg-name="Чебур ТВ - Блокбастер" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4f3M3ygRywHezI0_r8IL71NLmhC6TfexS_ja7tjM0uVn.png" group-title="Кинозал ТЕСТ", Чебур ТВ - Блокбастер
 #EXTGRP:Кинозал ТЕСТ
-http://chiburator.monster:8000/play/FhMxjc-hSujU6-0cO0JLW4zKQJRc5x1Qyno_y8j4VDOpZmlMoTHNImLrkjvn3d7n/ts
+
 #EXTINF:-1 tvg-name="Чебур ТВ - Боевичок" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JKvxuV_hEPMzL2xD7JPbDK5QdLpyyqI5eIHSFvDnhnXW.png" group-title="Кинозал ТЕСТ", Чебур ТВ - Боевичок
 #EXTGRP:Кинозал ТЕСТ
-http://chiburator.monster:8000/play/FhMxjc-hSujU6-0cO0JLW4Vs4EiOD-ffrd6NdEu4hfBGUvnjFQa4WoSMcXzpVVVd/ts
+
 #EXTINF:-1 tvg-name="Чебур ТВ - Вестерн" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4U2U6EOOI-tGEdBASpUmKfpnQtYRMazjihJdGlKD-i4-y8DzP_0l9tERsfMhe81HOg.png" group-title="Кинозал ТЕСТ", Чебур ТВ - Вестерн
 #EXTGRP:Кинозал ТЕСТ
-http://chiburator.monster:8000/play/FhMxjc-hSujU6-0cO0JLW99irMspjxB3lWpsOto81EeX5jDTeLn24NdFiqM4ogN1/ts
+
 #EXTINF:-1 tvg-name="Чебур ТВ - Военный" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4bO2112XGu9RCwjtRVeZKR4vK7UICICcnUcHk1noUNjU550E5lSBHq1rRs8LruevSQ.png" group-title="Кинозал ТЕСТ", Чебур ТВ - Военный
 #EXTGRP:Кинозал ТЕСТ
-http://chiburator.monster:8000/play/FhMxjc-hSujU6-0cO0JLWzs-vjKKOeaJHGpp0vPnaIywmoCPIB-Xdp8rHni7qg3g/ts
+
 #EXTINF:-1 tvg-name="Чебур ТВ - Детектив" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4WON29ha8vb76FiNlFHGpDsHxzKexgZBOfTTFCqUVYzeFOWIAX0EaIENYzem1NxsDQ.png" group-title="Кинозал ТЕСТ", Чебур ТВ - Детектив
 #EXTGRP:Кинозал ТЕСТ
-http://chiburator.monster:8000/play/FhMxjc-hSujU6-0cO0JLW_uQTRgczpYdcBE6ivKjMHkzCqWdgUGHizXVS9Tjcb-o/ts
+
 #EXTINF:-1 tvg-name="Чебур ТВ - Драма" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4aQsetxtHNdXVJlNBYTu9-Fs1j9AdEllKt7HBNZsL3VoPXGkpfDulpFrVSrkaQ9XPw.png" group-title="Кинозал ТЕСТ", Чебур ТВ - Драма
 #EXTGRP:Кинозал ТЕСТ
-http://chiburator.monster:8000/play/FhMxjc-hSujU6-0cO0JLW8qenprG6_ru34vH3OJnsEEqGAkbqbDMJjEc4m0R3FXd/ts
+
 #EXTINF:-1 tvg-name="Чебур ТВ - Зита-Гита" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JBYOshdQb_iZ4n87lr5iLyNMhJaMf8524svPFKn2qmup.png" group-title="Кинозал ТЕСТ", Чебур ТВ - Зита-Гита
 #EXTGRP:Кинозал ТЕСТ
-http://chiburator.monster:8000/play/FhMxjc-hSujU6-0cO0JLW7ikU0c4hj4m77IrS11Sysy2Fg-Za2ZnfQPd9dKm2tXZ/ts
+
 #EXTINF:-1 tvg-name="Чебур ТВ - История" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4WHE3WbITX-b5jn5ri5qKAOVdCw33L6oWphFGa8vmWCMvJcss88NmCndAOj32jkrbw.png" group-title="Кинозал ТЕСТ", Чебур ТВ - История
 #EXTGRP:Кинозал ТЕСТ
-http://chiburator.monster:8000/play/FhMxjc-hSujU6-0cO0JLW0bojjt1G4eEV7YHqJdLBWNrEWyVUuT9PBYHILcgpR1L/ts
+
 #EXTINF:-1 tvg-name="Чебур ТВ - Каменская" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JNk3OtPCYkXBi7nFXK7BlTTPANJIHTXwFTT6ZMk6iwas.png" group-title="Кинозал ТЕСТ", Чебур ТВ - Каменская
 #EXTGRP:Кинозал ТЕСТ
-http://chiburator.monster:8000/play/FhMxjc-hSujU6-0cO0JLW_8qkrmHWFntzvtBq_FT_SidgA9ZPebQ3j75fQ3zDnRh/ts
+
 #EXTINF:-1 tvg-name="Чебур ТВ - Каратист" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JNar4TnGwuOBbQExCxVp1Pjxe7GmLPLp5ttIPc9SNsyQ.png" group-title="Кинозал ТЕСТ", Чебур ТВ - Каратист
 #EXTGRP:Кинозал ТЕСТ
-http://chiburator.monster:8000/play/FhMxjc-hSujU6-0cO0JLW8IrACxm_rcMb_Mtptzj-aRkKKCpyadtoeM69HGzzPX2/ts
+
 #EXTINF:-1 tvg-name="Чебур ТВ - Кино Панорама MAX" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4QH7s2UlHPhXyTHH-5L7-6j4KZOyysSpj5VGB6zBq9tN.png" group-title="Кинозал ТЕСТ", Чебур ТВ - Кино Панорама MAX
 #EXTGRP:Кинозал ТЕСТ
-http://chiburator.monster:8000/play/FhMxjc-hSujU6-0cO0JLWzGeMZxahexram0Ouh_XiJawaHDwYefBHMvIrRds7w1D/ts
+
 #EXTINF:-1 tvg-name="Чебур ТВ - Космос" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4WLpOb_gNEU8RUXiKqSuoMSZfWFYG82RHgABGoFs0XFDpv2cAKkUEFOB2I9WOO23FQ.png" group-title="Кинозал ТЕСТ", Чебур ТВ - Космос
 #EXTGRP:Кинозал ТЕСТ
-http://chiburator.monster:8000/play/FhMxjc-hSujU6-0cO0JLW_vh3FFfMHXVsrGTWha1Sc1IlwN3cfnPugxoYWzERB9D/ts
+
 #EXTINF:-1 tvg-name="Чебур ТВ - Криминал" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4UZb8cLdmb-cts8xVep3LLw_gtkwNZ4CoVaUTrxfssQzD2WNWea0nMln5AxmtYYdgw.png" group-title="Кинозал ТЕСТ", Чебур ТВ - Криминал
 #EXTGRP:Кинозал ТЕСТ
-http://chiburator.monster:8000/play/FhMxjc-hSujU6-0cO0JLW6upWHTdJW7bMWAWF_18oTeV3-ffW3u74OuLHbYYTOjJ/ts
+
 #EXTINF:-1 tvg-name="Чебур ТВ - Матрица" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JNMwinpA1jCdlVwsQCy7I7b_YP81yXzqUN0haq8C7P8w.png" group-title="Кинозал ТЕСТ", Чебур ТВ - Матрица
 #EXTGRP:Кинозал ТЕСТ
-http://chiburator.monster:8000/play/FhMxjc-hSujU6-0cO0JLW3zGOZIaPiooxRfZo137qzHEYhMLG1v3Z9joU9mmN14y/ts
+
 #EXTINF:-1 tvg-name="Чебур ТВ - Мелодрама" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4WRdO86Yvnv3d0Dh6y2AmPTAmK4WpbOq8VV2sBmh29HvKAR73JCOWQgeBYkRKb-njg.png" group-title="Кинозал ТЕСТ", Чебур ТВ - Мелодрама
 #EXTGRP:Кинозал ТЕСТ
-http://chiburator.monster:8000/play/FhMxjc-hSujU6-0cO0JLW3s1I6ykkKrgR2IrWT_-WmZuAaMnnbACSEidRF3maijy/ts
+
 #EXTINF:-1 tvg-name="Чебур ТВ - Мистика" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4SUbPoa2RkRjHTjPCGGahfLEBJXO4mvcEHGzkvPqSYGN.png" group-title="Кинозал ТЕСТ", Чебур ТВ - Мистика
 #EXTGRP:Кинозал ТЕСТ
-http://chiburator.monster:8000/play/FhMxjc-hSujU6-0cO0JLWz8Zoa59xzZ8yq8OTqHQohDyfTwD5jOJbnwT5nU4qyhJ/ts
+
 #EXTINF:-1 tvg-name="Чебур ТВ - Мюзикл" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4Rd7Hx4qygvG9U3KaVPPOcGI6ep91LvMwRmz3IZn_96VrPVIp9GhE4ndXQ195sE7IQ.png" group-title="Кинозал ТЕСТ", Чебур ТВ - Мюзикл
 #EXTGRP:Кинозал ТЕСТ
-http://chiburator.monster:8000/play/FhMxjc-hSujU6-0cO0JLW807PfazGqzlROB-A6D3miqQnwlxeNlhqSGwve8sqXjK/ts
+
 #EXTINF:-1 tvg-name="Чебур ТВ - На Краю Вселенной" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JLOVkeba9fFY9O4F3a1nNLR-kMA0-Xfg1yrc7uQc9weB.png" group-title="Кинозал ТЕСТ", Чебур ТВ - На Краю Вселенной
 #EXTGRP:Кинозал ТЕСТ
-http://chiburator.monster:8000/play/FhMxjc-hSujU6-0cO0JLW6YcB2m3E_MLhkFG-86iLHjN7YGh2H8NlcOoa6dPIGkF/ts
+
 #EXTINF:-1 tvg-name="Чебур ТВ - Назад в СССР" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4bHalzv9u6ViitXThD7a6JLYfKp1BGWaaz_j63hoOVB9XSuZALIYUAA5DvJg43xaTA.png" group-title="Кинозал ТЕСТ", Чебур ТВ - Назад в СССР
 #EXTGRP:Кинозал ТЕСТ
-http://chiburator.monster:8000/play/FhMxjc-hSujU6-0cO0JLW2AGX0BolSCYzdyHw70s49dXL82pdkH7xxgxRUEoIy3u/ts
+
 #EXTINF:-1 tvg-name="Чебур ТВ - Наше Детство СССР" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JLRRh6WUgtxKcj7SiM_mwfKJSVs__HNZA5Q39ofPbijq.png" group-title="Кинозал ТЕСТ", Чебур ТВ - Наше Детство СССР
 #EXTGRP:Кинозал ТЕСТ
-http://chiburator.monster:8000/play/FhMxjc-hSujU6-0cO0JLW5EGqzv-p92gZIdFmzoi4sfgqN2Ha1-tIVOZPqL4Nm_0/ts
+
 #EXTINF:-1 tvg-name="Чебур ТВ - Новинки" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4RQPbOmuh6yyq-HGFmyhHj9gYjKEWEK1BmjkaOp8ZVy9AJgvDddQmpNrmXIW2B4vHg.png" group-title="Кинозал ТЕСТ", Чебур ТВ - Новинки
 #EXTGRP:Кинозал ТЕСТ
-http://chiburator.monster:8000/play/FhMxjc-hSujU6-0cO0JLW_lklTuG3dc37yhQo2spXKVVE1cmVFFofMnne6u6QCoY/ts
+
 #EXTINF:-1 tvg-name="Чебур ТВ - Приключения" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4c8L7MQUE3LPgqB99u8A3z-qdm6Wpn1QTbbIjdZNPjSvd4jynXddP0Mn_eenz7IXVw.png" group-title="Кинозал ТЕСТ", Чебур ТВ - Приключения
 #EXTGRP:Кинозал ТЕСТ
-http://chiburator.monster:8000/play/FhMxjc-hSujU6-0cO0JLW7lB_xCZhHWc1GxZPhoBKZGq1J415KgZL_urSUBiN8z4/ts
+
 #EXTINF:-1 tvg-name="Чебур ТВ - Пришельцы" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4QXQUoaHJrulmFtIl0yHxMQpbpG9roWxAEnrbiG3EVqSmZkHK7xdgfvYVW-3nJa7Ww.png" group-title="Кинозал ТЕСТ", Чебур ТВ - Пришельцы
 #EXTGRP:Кинозал ТЕСТ
-http://chiburator.monster:8000/play/FhMxjc-hSujU6-0cO0JLWwg4cyrMYxYq_vzecKmmvDBnr7Y27-N2HLI20Co6Xeio/ts
+
 #EXTINF:-1 tvg-name="Чебур ТВ - Россия 90-00" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JIxKqsJTDRFS0dJpxxGJSVWSCb-MwR2r4-YSvCf3O3f-.png" group-title="Кинозал ТЕСТ", Чебур ТВ - Россия 90-00
 #EXTGRP:Кинозал ТЕСТ
-http://chiburator.monster:8000/play/FhMxjc-hSujU6-0cO0JLW1hxIBevFx-IHVUaKO5JeCGkU-3GRJ8aj8lB11tqkQ11/ts
+
 #EXTINF:-1 tvg-name="Чебур ТВ - Семейное" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4azYAvI4nkwSLNUFfArso2SzQIB6j9q3-WkJVqEOkv2THAFVIEskWa_rgA7aVlM7Lg.png" group-title="Кинозал ТЕСТ", Чебур ТВ - Семейное
 #EXTGRP:Кинозал ТЕСТ
-http://chiburator.monster:8000/play/FhMxjc-hSujU6-0cO0JLW2ppmscku_NuvFiyTur7ZFK4_98UKS2REHyHDl3hzqKf/ts
+
 #EXTINF:-1 tvg-name="Чебур ТВ - Смешной" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4eDlFoSSIeglOCjOwaPGiilfNxu0w6oph_Qwf_-tAvfsmnJEmFeSMn_-MZsIUPlGgw.png" group-title="Кинозал ТЕСТ", Чебур ТВ - Смешной
 #EXTGRP:Кинозал ТЕСТ
-http://chiburator.monster:8000/play/FhMxjc-hSujU6-0cO0JLW5ktbjFFB5fnZRivK0v26VxS4blir769_4UXgMBHIOI-/ts
+
 #EXTINF:-1 tvg-name="Чебур ТВ - Спортивный" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4byhnh_PhScSpvFOFUDi7WVEQF0R3T3JoPwnJ01_rZriIGhSSvnbD_27Yi2MOF7Jkw.png" group-title="Кинозал ТЕСТ", Чебур ТВ - Спортивный
 #EXTGRP:Кинозал ТЕСТ
-http://chiburator.monster:8000/play/FhMxjc-hSujU6-0cO0JLW-HN1idNm0_6_N_K21SupFGx3mpqbv2Qr8Z3KYClzh7s/ts
+
 #EXTINF:-1 tvg-name="Чебур ТВ - СССР 20-е" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4R4sMPd-BD-0zy6F0HFKAvXZgctw3FoayrNTUDsLl9Hg.png" group-title="Кинозал ТЕСТ", Чебур ТВ - СССР 20-е
 #EXTGRP:Кинозал ТЕСТ
-http://chiburator.monster:8000/play/FhMxjc-hSujU6-0cO0JLW_LdjkRYImwihK9DHTv2UZtouqGctuoX-GRuQrVsVMzH/ts
+
 #EXTINF:-1 tvg-name="Чебур ТВ - СССР 30-е" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4ZAXUAUsK8-LWxwTzAC5a_8Ws9liYkBM1sVocr9F3ezz.png" group-title="Кинозал ТЕСТ", Чебур ТВ - СССР 30-е
 #EXTGRP:Кинозал ТЕСТ
-http://chiburator.monster:8000/play/FhMxjc-hSujU6-0cO0JLWzgZYExMOWB3TL2M4tcp0ISkynHZLf0I585SV8aBcPxo/ts
+
 #EXTINF:-1 tvg-name="Чебур ТВ - СССР 40-е" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JNbIVm0lCD5-q99Agw58A_PWD9LGgnsEt6zRbqXYNZgz.png" group-title="Кинозал ТЕСТ", Чебур ТВ - СССР 40-е
 #EXTGRP:Кинозал ТЕСТ
-http://chiburator.monster:8000/play/FhMxjc-hSujU6-0cO0JLW-_pQPjoFpjIGtH-pzJS1ky58yd7dKib9gw3b9nxJXFm/ts
+
 #EXTINF:-1 tvg-name="Чебур ТВ - СССР 50-е" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JEYvlN0QWdSt4Pr1ODBXol1ViB7IyWZazmbYu-EqY2hK.png" group-title="Кинозал ТЕСТ", Чебур ТВ - СССР 50-е
 #EXTGRP:Кинозал ТЕСТ
-http://chiburator.monster:8000/play/FhMxjc-hSujU6-0cO0JLW71NbGea-VIPqFpkwMfBuzYEnApjlhuOJiuIGc8cUWaC/ts
+
 #EXTINF:-1 tvg-name="Чебур ТВ - СССР 60-е" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4UajGAM9tJIxpDsgSrc0FhpCwcIIY29Us3FJ9ApHzqRk.png" group-title="Кинозал ТЕСТ", Чебур ТВ - СССР 60-е
 #EXTGRP:Кинозал ТЕСТ
-http://chiburator.monster:8000/play/FhMxjc-hSujU6-0cO0JLW4Qgv1gHm1GVJrx5JizO_4DmeCusPV7AwUu3SlNKWBW4/ts
+
 #EXTINF:-1 tvg-name="Чебур ТВ - СССР 70-е" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4ZxPzfr1Sai9y4uCwz5oog9R1a5r8PT7Tmu7GOwlF6z6.png" group-title="Кинозал ТЕСТ", Чебур ТВ - СССР 70-е
 #EXTGRP:Кинозал ТЕСТ
-http://chiburator.monster:8000/play/FhMxjc-hSujU6-0cO0JLW8ATY68SQPNmW9KJG3QZGb_IRddXv6OWVBQbttlHy_OR/ts
+
 #EXTINF:-1 tvg-name="Чебур ТВ - СССР 80-е" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4Uev0254ICugl1EnWsFZgW7_ITVUkoDDoSMfvx-DX8gt.png" group-title="Кинозал ТЕСТ", Чебур ТВ - СССР 80-е
 #EXTGRP:Кинозал ТЕСТ
-http://chiburator.monster:8000/play/FhMxjc-hSujU6-0cO0JLWwjjfDyth4_QykOpA6MDlTJf5ggmLmrVM_n2m0E1zgD6/ts
+
 #EXTINF:-1 tvg-name="Чебур ТВ - СССР 90-е" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4cbV7TlUoMJvmfPitMsn5ji482FzWAk2wl84g7pJLqKK.png" group-title="Кинозал ТЕСТ", Чебур ТВ - СССР 90-е
 #EXTGRP:Кинозал ТЕСТ
-http://chiburator.monster:8000/play/FhMxjc-hSujU6-0cO0JLW4idC5Mp7t6gWFVr_eOE9hCjAe4H9DrNLLedGUDVjJe8/ts
+
 #EXTINF:-1 tvg-name="Чебур ТВ - СССР Нетленка" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4eZ5jLOVM49FB9Ah3Bd43nE0HExAnN7vEJv0k-9rgLet.png" group-title="Кинозал ТЕСТ", Чебур ТВ - СССР Нетленка
 #EXTGRP:Кинозал ТЕСТ
-http://chiburator.monster:8000/play/FhMxjc-hSujU6-0cO0JLW4CPUIQ2zrXXjhcfNqkPQgK4Unel8GG2oQP2inPh4c3X/ts
+
 #EXTINF:-1 tvg-name="Чебур ТВ - СССР Сериал" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JPEPF0zMNQeXQ3ExI8__mERJKeiDf00O7OIZth_ylHV0.png" group-title="Кинозал ТЕСТ", Чебур ТВ - СССР Сериал
 #EXTGRP:Кинозал ТЕСТ
-http://chiburator.monster:8000/play/FhMxjc-hSujU6-0cO0JLW2D8EOd2Ckks8q7Kj36JMd3mZXAxbr1W3PKrnxJCX89c/ts
+
 #EXTINF:-1 tvg-name="Чебур ТВ - Стрелялки" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4RlsuMRWZNajBlR4HBZBe1ZEpn06Mzpeowi422antEuBSISULq0qGNBeDgPsyGMpGQ.png" group-title="Кинозал ТЕСТ", Чебур ТВ - Стрелялки
 #EXTGRP:Кинозал ТЕСТ
-http://chiburator.monster:8000/play/FhMxjc-hSujU6-0cO0JLW6gwpZ6OIMgP3o5yrWySw02fpr-LCyUQw4PdHy3EHn3L/ts
+
 #EXTINF:-1 tvg-name="Чебур ТВ - Супергерои" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4cEf8cKs3lwPzvGH0C3Eo2SZilvULOGm4-n7q0YUJQIA9Qw9oZ4k2oMk_fVORTHJDw.png" group-title="Кинозал ТЕСТ", Чебур ТВ - Супергерои
 #EXTGRP:Кинозал ТЕСТ
-http://chiburator.monster:8000/play/FhMxjc-hSujU6-0cO0JLW8XcmotPAo7pd_iPRVN-ZSv8DrVLTUc8sluPX2M6JVZX/ts
+
 #EXTINF:-1 tvg-name="Чебур ТВ - Триллер" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4beCBQFaIQrq5HB-441dP7MeZra3qzdAeX6_GUgOMWPwZfDKGnH_P8O_MgbuCSxbAA.png" group-title="Кинозал ТЕСТ", Чебур ТВ - Триллер
 #EXTGRP:Кинозал ТЕСТ
-http://chiburator.monster:8000/play/FhMxjc-hSujU6-0cO0JLW8XjbxLQ7OFmgNNXNxfQqzT-EZI0-E1C7CPrGEDt0uiF/ts
+
 #EXTINF:-1 tvg-name="Чебур ТВ - Ужастики" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4e5q2NmdlfnC2AZ0kYuFkcwkP87YXJ277AK3VOhIiD-pYfqdiaTwKSyf56l8DVaiAg.png" group-title="Кинозал ТЕСТ", Чебур ТВ - Ужастики
 #EXTGRP:Кинозал ТЕСТ
-http://chiburator.monster:8000/play/FhMxjc-hSujU6-0cO0JLW54xK7yY9Zax1OVFuPdB5GFOR5BqIyIw2OGxDuYXThNF/ts
+
 #EXTINF:-1 tvg-name="Чебур ТВ - Фантазия" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4Xq_7pU_0RiO7MmXrIAtsleCTeZkbRKnsWSAp7VB1O1__phZcmrLvueR5BSPVVYEbw.png" group-title="Кинозал ТЕСТ", Чебур ТВ - Фантазия
 #EXTGRP:Кинозал ТЕСТ
-http://chiburator.monster:8000/play/FhMxjc-hSujU6-0cO0JLW1BBOhRKD3lczjUEeMBKKIfBYaO8Dsmlj35Pu5bPqe3P/ts
+
 #EXTINF:-1 tvg-name="Чебур ТВ - Фантастика" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4ZEodpeXoaAYoZR_2HWLAcNd4Bo9l9zPZtQorbjW8P9SYMW6JNhKeQRsSqpNH5DAlQ.png" group-title="Кинозал ТЕСТ", Чебур ТВ - Фантастика
 #EXTGRP:Кинозал ТЕСТ
-http://chiburator.monster:8000/play/FhMxjc-hSujU6-0cO0JLWxGtZ0lf7-rbpTKk1kjtr7SVpb9YgISzNtRN_6hPNnWR/ts
+
 #EXTINF:-1 tvg-name="Чебур ТВ - ХБ" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JF-WC56q1MdaWTTTeZO_gM31snP5Rv3CR5Gbzppj33Aa.png" group-title="Кинозал ТЕСТ", Чебур ТВ - ХБ
 #EXTGRP:Кинозал ТЕСТ
-http://chiburator.monster:8000/play/FhMxjc-hSujU6-0cO0JLW1iCTC-X4EhqWpmoBZw-pGjeAHL8iVufkFXb7mKdLvDa/ts
+
 #EXTINF:-1 tvg-name="Чебур ТВ - Чебурашкин MIX" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4X4KabS69GJdR36GZWLPlZK1wPVPoQ1BBRS1E28XYuVC.png" group-title="Кинозал ТЕСТ", Чебур ТВ - Чебурашкин MIX
 #EXTGRP:Кинозал ТЕСТ
-http://chiburator.monster:8000/play/FhMxjc-hSujU6-0cO0JLW_uepjrK2raZE68VMfR2pXmZDrqSJ7xZfTyqwugeTj7B/ts
+
 #EXTINF:-1 tvg-name="Чебур ТВ - Шеф" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4fqdJSh18TAOwCwgjKwb3fIADVdneiwzw4IXKep-9qB2eIdj8cVlDwyoEHCuyyfB3w.png" group-title="Кинозал ТЕСТ", Чебур ТВ - Шеф
 #EXTGRP:Кинозал ТЕСТ
-http://chiburator.monster:8000/play/FhMxjc-hSujU6-0cO0JLWwbPfHaF-Zw6JFq86x6miRzt3n87fXolfPQo_-BngHho/ts
+
 #EXTINF:-1 tvg-name="Чебур ТВ - 4k Films" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4bwozHgFG7pKFUfq_nbz6zPnzFdOhaRdwCLnqRPlooOqNfXkQlVXV9PMXM3_PlLVAQ.png" group-title="Кинозал ТЕСТ", Чебур ТВ - 4k Films
 #EXTGRP:Кинозал ТЕСТ
-http://chiburator.monster:8000/play/FhMxjc-hSujU6-0cO0JLW5RRLEQi8iXEfiYSRhQcC39uMUr_INOewiGKIYcmeIsC/ts
+
 #EXTINF:-1 tvg-name="Чебур ТВ - Action" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4VlecogC3iZWzNq-CBY97HFQqFCKYF62t-TQMD_Nf_sY7nZv7S0v5D6X0Msw-nV7Dg.png" group-title="Кинозал ТЕСТ", Чебур ТВ - Action
 #EXTGRP:Кинозал ТЕСТ
-http://chiburator.monster:8000/play/FhMxjc-hSujU6-0cO0JLWxLmZ-27pxTaEI6uL9L9yr_Qry8D9LAJ4ZLfkxXxMu0L/ts
+
 #EXTINF:-1 tvg-name="Чебур ТВ - RU Кино" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4Xzg-mQ0cSM5VdhfymXrWbSMgLTLCBGgU53ESG2vy-UOAnrsYd2la0XwLQ4kNiCqrw.png" group-title="Кинозал ТЕСТ", Чебур ТВ - RU Кино
 #EXTGRP:Кинозал ТЕСТ
-http://chiburator.monster:8000/play/FhMxjc-hSujU6-0cO0JLW6n-ZTxKJzCgmBzqLnlx7ZnehJUjj-M29v6hx9C6CGTr/ts
+
 #EXTINF:-1 tvg-name="Чебур ТВ - RU Комедия" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4WlrEF-kqzlimHuCPADhVCIgyOZ6TTNuWBGCucorAWPN.png" group-title="Кинозал ТЕСТ", Чебур ТВ - RU Комедия
 #EXTGRP:Кинозал ТЕСТ
-http://chiburator.monster:8000/play/FhMxjc-hSujU6-0cO0JLW2echFb5NvyVXvCBaGJhMj6ZPv0p22RaFg3w8nsNq0AN/ts
+
 #EXTINF:-1 tvg-name="Чебур ТВ - RU Мелодрама" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4TRCejsQd5hAm7IVYOL0PAsIW57hTkZnucgBJOuK3FeQ.png" group-title="Кинозал ТЕСТ", Чебур ТВ - RU Мелодрама
 #EXTGRP:Кинозал ТЕСТ
-http://chiburator.monster:8000/play/FhMxjc-hSujU6-0cO0JLW9P3EbyJF_scYB8u7-FW1DWctsAr9FrIOwPW_KdHW-s7/ts
+
 #EXTINF:-1 tvg-name="Чебур ТВ - RU Сериал" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4YC7c0RhLmC1b1nBol_pgb978vsppgE0-fe10eGmaY8jDDDzKVooKg6HSQhv5GQl9Q.png" group-title="Кинозал ТЕСТ", Чебур ТВ - RU Сериал
 #EXTGRP:Кинозал ТЕСТ
-http://chiburator.monster:8000/play/FhMxjc-hSujU6-0cO0JLWyMD2usNd8owWWKNeKGz_25PvcvjEtroZLjyhBWWn4Wf/ts
+
 #EXTINF:-1 tvg-name="Чебур ТВ - Series" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4W1SoEamZbaZe00SwfV6LgguXBilQY7tXjYbkfVK3Efn.png" group-title="Кинозал ТЕСТ", Чебур ТВ - Series
 #EXTGRP:Кинозал ТЕСТ
-http://chiburator.monster:8000/play/FhMxjc-hSujU6-0cO0JLW-c2ggT2aDv8FvPKcylC1KdEXkLAqdElLCZrmwvzpSIM/ts
+
 #EXTINF:-1 tvg-id="bcu-cosmo" tvg-name="BCU Cosmo HD" tvg-logo="http://epg.one/img/6176.png" group-title="Кинозал ТЕСТ", BCU Cosmo HD
 #EXTGRP:Кинозал ТЕСТ
 
@@ -2886,13 +2883,13 @@ http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-name="Чебур ТВ - Ретро 1980" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JM0_53Fn4D02y1Z--LGV4zrRPh16C0AdxfPWSCns-l2nkk1Gy8Q1ZgrwNHosONNpYQ.png" group-title="Музыка", Чебур ТВ - Ретро 1980
 #EXTGRP:Музыка
-http://chiburator.monster:8000/play/FhMxjc-hSujU6-0cO0JLW4M_Bn6Mda5MGuoIGnyHW4kQj8AuozbvmQKYpNGl9gOo/ts
+
 #EXTINF:-1 tvg-name="Чебур ТВ - Top Hit Indie" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JFD__m7g1Xe6qeEmVTqtriQjKIco-SalTaFLILeQ9wtP.png" group-title="Музыка", Чебур ТВ - Top Hit Indie
 #EXTGRP:Музыка
-http://chiburator.monster:8000/play/FhMxjc-hSujU6-0cO0JLW5Z1M8T8NzFkBon6EwUSL1OP4A-UcV544oxC1X9qPSvW/ts
+
 #EXTINF:-1 tvg-name="Чебур ТВ - Top Hit Rock" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JN3CoagGNckWyar0Ew01dxrJyDbthNke3DZSr09TlCDu.png" group-title="Музыка", Чебур ТВ - Top Hit Rock
 #EXTGRP:Музыка
-http://chiburator.monster:8000/play/FhMxjc-hSujU6-0cO0JLWxNJwUbi_ALPnYQVmwD8vuEHIyOj6awnw0wHH8bwIimX/ts
+
 #EXTINF:-1 tvg-id="shanson-tv" tvg-name="Шансон TB" tvg-logo="http://epg.one/img/2278.png" group-title="Музыка", Шансон TB
 #EXTGRP:Музыка
 http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
