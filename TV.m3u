@@ -646,7 +646,7 @@ https://abaitv-stream.qazcdn.com/abaitv/abaitv_720/chunks.m3u8
 https://ucdn.beetv.kz/bpk-tv/000001510/tve/index.m3u8
 #EXTINF:-1 tvg-id="aqjaiyq" tvg-name="Aqjaiyq" tvg-logo="https://avatars.mds.yandex.net/i?id=f65c5e739a7add52f5632f6699ed4967-4429678-images-thumbs&n=13" group-title="Казахстан", Aqjaiyq
 #EXTGRP:Казахстан
-http://stream.kaztrk.kz/regional/oraltv/index.m3u8
+https://ucdn.beetv.kz/bpk-tv/000001689/tve/index.m3u8
 #EXTINF:-1 tvg-id="aqtobe" tvg-name="Aqtobe" tvg-logo="https://avatars.mds.yandex.net/i?id=2af894691b2f94daca2cb916838f3288c32d7974-4369663-images-thumbs&n=13" group-title="Казахстан", Aqtobe
 #EXTGRP:Казахстан
 http://stream.kaztrk.kz/regional/aktobetv/index.m3u8
@@ -2574,10 +2574,10 @@ http://194.143.148.28:8080/MatchFutbol1/mpegts
 http://tv.streams.baikal-telecom.net:8080/MatchFutbol1/mpegts
 #EXTINF:-1 tvg-id="match-football2" tvg-name="Матч! Футбол 2" tvg-logo="http://epg.one/img/1042.png" group-title="Спорт", Матч! Футбол 2
 #EXTGRP:Спорт
-http://tv.ttk.mx:9111
+http://live.admuspeh.my/8022/index.m3u8?token=TestuspehTva
 #EXTINF:-1 tvg-id="match-football2" tvg-name="Матч! Футбол 2 HD" tvg-logo="http://epg.one/img/1042.png" group-title="Спорт", Матч! Футбол 2 HD
 #EXTGRP:Спорт
-http://arbiter.bolshoe.tv/?path=abr2/NTVplusfut2HD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MS83LzIwMjUgNzo1ODo1OSBBTSZoYXNoX3ZhbHVlPUN5MG5oK3NuSGNlSG5TRjRua0RtVlE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://live.admuspeh.my/8237/index.m3u8?token=iptv50na50
 #EXTINF:-1 tvg-id="match-football3" tvg-name="Матч! Футбол 3" tvg-logo="http://epg.one/img/2005.png" group-title="Спорт", Матч! Футбол 3
 #EXTGRP:Спорт
 http://185.57.68.33/110/mpegts
