@@ -811,7 +811,7 @@ https://ucdn.beetv.kz/bpk-tv/000001213/tve/index.m3u8
 http://v4.proofix.ru:80/8tv-europe/index.m3u8
 #EXTINF:-1 tvg-id="texno-24" tvg-name="24 Техно" tvg-logo="http://epg.one/img/2762.png" group-title="Познавательные", 24 Техно
 #EXTGRP:Познавательные
-https://stream1.cinerama.uz/1037/tracks-v1a1/mono.m3u8
+http://46.17.41.254:2020/channel/n26da4e77/index.m3u8?q=c9a4efc12540f7d0eb46417ddc618c8b
 #EXTINF:-1 tvg-id="365-dnej" tvg-name="365 дней ТВ" tvg-logo="http://epg.one/img/2423.png" group-title="Познавательные", 365 дней ТВ
 #EXTGRP:Познавательные
 http://93.189.224.24/365dney/index.m3u8
