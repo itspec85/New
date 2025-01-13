@@ -2806,7 +2806,7 @@ http://213.226.137.140:81/tl/l97/mpegts
 #EXTINF:-1 tvg-id="viasat-sport" tvg-name="Viju+ Sport HD" tvg-logo="http://epg.one/img/2055.png" group-title="Спорт", Viju+ Sport HD
 #EXTGRP:Спорт
 https://ucdn.beetv.kz/bpk-tv/000000135/tve/index.m3u8
-#EXTINF:-1 tvg-name="World Poker Tour USA" tvg-logo="https://u7.uidownload.com/vector/181/349/vector-wpt-eps-svg.jpg" group-title="Спорт", World Poker Tour USA
+#EXTINF:-1 tvg-name="World Poker Tour USA" tvg-logo="https://avatars.mds.yandex.net/i?id=bc2003e45785f22c83853338865075e9c9638944-9877580-images-thumbs&n=13" group-title="Спорт", World Poker Tour USA
 #EXTGRP:Спорт
 http://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
 #EXTINF:-1 tvg-name="X-Stream" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00296.png" group-title="Спорт", X-Stream
