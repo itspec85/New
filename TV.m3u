@@ -1558,6 +1558,9 @@ http://88.218.242.237:8000/play/a00b
 #EXTINF:-1 tvg-id="gulli-girl" tvg-name="Gulli" tvg-logo="http://epg.one/img/810.png" group-title="Детские", Gulli
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000000284/tve/index.m3u8
+#EXTINF:-1 tvg-name="IPTVPLAY МультСказки" tvg-logo="https://i.ibb.co/0ccNSdV/image-16.png" group-title="Детские", IPTVPLAY МультСказки
+#EXTGRP:Детские
+http://92.53.64.197:5050/IPTVPLAYMultSkazki.tv/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 tvg-id="nick-jr" tvg-name="Nick Jr" tvg-logo="http://epg.one/img/917.png" group-title="Детские", Nick Jr
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000000449/tve/index.m3u8
@@ -2083,6 +2086,24 @@ https://autopilot.catcast.tv/content/34246/index.m3u8
 #EXTINF:-1 tvg-name="Сити Эдем - ТелеНовелла" tvg-logo="https://www.cityeden.info/logotv/logotip_telenovella.png" group-title="Кинозал ТЕСТ", Сити Эдем - ТелеНовелла
 #EXTGRP:Кинозал ТЕСТ
 https://autopilot.catcast.tv/content/46209/index.m3u8
+#EXTINF:-1 tvg-name="IPTVPLAY Ведьмак" tvg-logo="https://i.ibb.co/0ccNSdV/image-16.png" group-title="Кинозал ТЕСТ", IPTVPLAY Ведьмак
+#EXTGRP:Кинозал ТЕСТ
+http://92.53.64.197:5050/IPTVPLAYVEDMAK.tv/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 tvg-name="IPTVPLAY Десятое Королевство" tvg-logo="https://i.ibb.co/0ccNSdV/image-16.png" group-title="Кинозал ТЕСТ", IPTVPLAY Десятое Королевство
+#EXTGRP:Кинозал ТЕСТ
+http://92.53.64.197:5050/IPTVPLAY10KOROLEVSTVO.tv/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 tvg-name="IPTVPLAY Память" tvg-logo="https://i.ibb.co/0ccNSdV/image-16.png" group-title="Кинозал ТЕСТ", IPTVPLAY Память
+#EXTGRP:Кинозал ТЕСТ
+http://92.53.64.197:5050/IPTVPLAYPAMYAT.tv/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 tvg-name="IPTVPLAY Ужастик" tvg-logo="https://i.ibb.co/0ccNSdV/image-16.png" group-title="Кинозал ТЕСТ", IPTVPLAY Ужастик
+#EXTGRP:Кинозал ТЕСТ
+http://92.53.64.197:5050/IPTVPLAYUZHASTIK.tv/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 tvg-name="IPTVPLAY Фантастика" tvg-logo="https://i.ibb.co/0ccNSdV/image-16.png" group-title="Кинозал ТЕСТ", IPTVPLAY Фантастика
+#EXTGRP:Кинозал ТЕСТ
+http://92.53.64.197:5050/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 tvg-name="IPTVPLAY Promo" tvg-logo="https://i.ibb.co/0ccNSdV/image-16.png" group-title="Кинозал ТЕСТ", IPTVPLAY Promo
+#EXTGRP:Кинозал ТЕСТ
+http://92.53.64.197:5050/IPTVPLAYPROMO.tv/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 tvg-name="Чебур ТВ - Армагеддон" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4VUg3dWgm_7pa6DXu7J32FAmKuC5HDcPx57tczYKEoRkhJ7hYLrTV-XrsuleiMjM1Q.png" group-title="Кинозал ТЕСТ", Чебур ТВ - Армагеддон
 #EXTGRP:Кинозал ТЕСТ
 
