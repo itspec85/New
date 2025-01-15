@@ -853,7 +853,7 @@ https://wowza4.leisertv.com/live/voprosyiotvety.stream/playlist.m3u8
 http://130.193.73.10:8937/play/a03p
 #EXTINF:-1 tvg-id="glazami-turista" tvg-name="Глазами туриста HD" tvg-logo="http://epg.one/img/2508.png" group-title="Познавательные", Глазами туриста HD
 #EXTGRP:Познавательные
-https://stream1.cinerama.uz/1423/tracks-v1a1/mono.m3u8
+http://91.205.199.3/glazamituristahd/index.m3u8
 #EXTINF:-1 tvg-id="dialogi-o-rybalke" tvg-name="Диалоги о рыбалке" tvg-logo="http://epg.one/img/2627.png" group-title="Познавательные", Диалоги о рыбалке
 #EXTGRP:Познавательные
 http://130.193.73.10:8937/play/a04q
@@ -1225,10 +1225,10 @@ http://213.226.137.140:81/tl/l98/mpegts
 http://46.17.41.254:2020/channel/n723486ec/index.m3u8?q=c9a4efc12540f7d0eb46417ddc618c8b
 #EXTINF:-1 tvg-id="fox-news-us" tvg-name="FOX NEWS CHANNEL FHD" tvg-logo="http://epg.one/img/6683.png" group-title="Познавательные", FOX NEWS CHANNEL FHD
 #EXTGRP:Познавательные
-http://stream2.cinerama.uz/1252/tracks-v1a1/mono.m3u8
+http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
 #EXTINF:-1 tvg-id="france-24" tvg-name="France 24" tvg-logo="http://epg.one/img/2133.png" group-title="Познавательные", France 24
 #EXTGRP:Познавательные
-http://stream2.cinerama.uz/1241/tracks-v1a1/mono.m3u8
+https://ucdn.beetv.kz/bpk-tv/000000290/tve/index.m3u8
 #EXTINF:-1 tvg-id="gags-network" tvg-name="Gags Network" tvg-logo="http://epg.one/img/3551.png" group-title="Познавательные", Gags Network
 #EXTGRP:Познавательные
 http://95.67.12.82:9069
@@ -1696,7 +1696,7 @@ http://185.50.148.2:7711/Kinosvidanie/index.m3u8
 http://193.242.190.6:8099/85/index.m3u8
 #EXTINF:-1 tvg-id="kinoseria" tvg-name="Киносерия" tvg-logo="http://epg.one/img/799.png" group-title="Кино", Киносерия
 #EXTGRP:Кино
-https://stream1.cinerama.uz/1235/tracks-v1a1/mono.m3u8
+http://91.205.199.3:80/roos-kinoseria/manifest.m3u8
 #EXTINF:-1 tvg-id="kinouzhas" tvg-name="Киноужас" tvg-logo="http://epg.one/img/2493.png" group-title="Кино", Киноужас
 #EXTGRP:Кино
 http://213.226.137.140:81/tl/l415/mpegts
