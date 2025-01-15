@@ -2574,7 +2574,7 @@ http://31.148.48.15/Match_Igra/index.m3u8
 http://213.226.137.140:81/tl/l304/mpegts
 #EXTINF:-1 tvg-id="match-planeta" tvg-name="Матч! Планета" tvg-logo="http://epg.one/img/2043.png" group-title="Спорт", Матч! Планета
 #EXTGRP:Спорт
-https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8
+https://ucdn.beetv.kz/bpk-tv/000001695/tve/index.m3u8
 #EXTINF:-1 tvg-id="match-premier" tvg-name="Матч! Премьер" tvg-logo="http://epg.one/img/2250.png" group-title="Спорт", Матч! Премьер
 #EXTGRP:Спорт
 http://s1.merlive.am/matchpremier/index.m3u8
@@ -2631,7 +2631,7 @@ http://88.218.242.237:8000/play/a00d
 
 #EXTINF:-1 tvg-id="ufc" tvg-name="Удар HD" tvg-logo="http://epg.one/img/2480.png" group-title="Спорт", Удар HD
 #EXTGRP:Спорт
-https://strm.yandex.ru/kal/udar/udar0.m3u8
+https://ucdn.beetv.kz/bpk-tv/000007802/tve/index.m3u8
 #EXTINF:-1 tvg-id="football-ru" tvg-name="Футбол" tvg-logo="http://epg.one/img/2782.png" group-title="Спорт", Футбол
 #EXTGRP:Спорт
 http://185.23.80.28:8080/Football/index.m3u8?token=test
@@ -2718,13 +2718,13 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 
 #EXTINF:-1 tvg-id="kxl" tvg-name="KHL" tvg-logo="http://epg.one/img/2048.png" group-title="Спорт", KHL
 #EXTGRP:Спорт
-https://strm.yandex.ru/kal/khl_belarus/khl_belarus0.m3u8
+http://178.124.152.238:8088/khl
 #EXTINF:-1 tvg-id="kxl" tvg-name="KHL (резерв)" tvg-logo="http://epg.one/img/2048.png" group-title="Спорт", KHL (резерв)
 #EXTGRP:Спорт
 http://stream01.vnet.am/Channel_113/mono.m3u8
 #EXTINF:-1 tvg-id="kxl-hd" tvg-name="KHL Prime HD" tvg-logo="http://epg.one/img/1038.png" group-title="Спорт", KHL Prime HD
 #EXTGRP:Спорт
-https://strm.yandex.ru/kal/khl_prime_belarus/khl_prime_belarus0.m3u8
+http://194.143.148.28:8080/KHL_HD/mpegts
 #EXTINF:-1 tvg-id="kxl-hd" tvg-name="KHL Prime HD (резерв)" tvg-logo="http://epg.one/img/1038.png" group-title="Спорт", KHL Prime HD (резерв)
 #EXTGRP:Спорт
 http://213.226.137.140:81/tl/l67/mpegts
