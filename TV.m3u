@@ -3511,7 +3511,7 @@ http://s84942.cdn.ngenix.net/hls/CH_R28_OTT_DV_BLAG_GOROD24/variant.m3u8
 http://www.gtk.tv/hls/gtyar.m3u8
 #EXTINF:-1 tvg-id="grozny" tvg-name="Грозный" tvg-logo="http://epg.one/img/2169.png" group-title="Региональные РФ", Грозный
 #EXTGRP:Региональные РФ
-https://edge-tv-ll.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/720-3.m3u8
+https://balancer.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/1.m3u8
 #EXTINF:-1 tvg-id="tv-guberniya" tvg-name="Губерния" tvg-logo="https://epg.one/img/2306.png" group-title="Региональные РФ", Губерния
 #EXTGRP:Региональные РФ
 https://s68149.cdn.ngenix.net/s68149-media-origin/lvs/tvgub/tracks-v1a1/mono.m3u8
