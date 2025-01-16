@@ -700,7 +700,7 @@ https://ucdn.beetv.kz/bpk-tv/000005450/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000004646/tve/index.m3u8
 #EXTINF:-1 tvg-id="kazakhstan" tvg-name="Qazaqstan HD" tvg-logo="http://epg.one/img/2569.png" group-title="Казахстан", Qazaqstan HD
 #EXTGRP:Казахстан
-https://edge05.beetv.kz/btv/SWM/Qazaqstan_HD/Qazaqstan_HD_1080p_5000kbps.m3u8
+https://ucdn.beetv.kz/bpk-tv/000004208/tve/index.m3u8
 #EXTINF:-1 tvg-id="qazaqstan-int" tvg-name="Qazaqstan International" tvg-logo="https://iptvx.one/picons/qazaqstan-int.png" group-title="Казахстан", Qazaqstan International
 #EXTGRP:Казахстан
 https://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8
@@ -718,7 +718,7 @@ http://stream.kaztrk.kz/regional/kostanaytv/index.m3u8
 https://otv.wotom.net/ksk/stream.m3u8
 #EXTINF:-1 tvg-id="ktk-kz" tvg-name="КТК" tvg-logo="http://epg.one/img/2570.png" group-title="Казахстан", КТК
 #EXTGRP:Казахстан
-https://edge05.beetv.kz/btv/SWM/SWM_KTK/SWM_KTK_1080p_5000kbps.m3u8
+https://ucdn.beetv.kz/bpk-tv/000000672/tve/index.m3u8
 #EXTINF:-1 tvg-id="qyzyljar" tvg-name="Qyzyljar" tvg-logo="https://avatars.mds.yandex.net/i?id=00a7490e0ef21c9524daccc66716bdb8e256ac82-5870034-images-thumbs&n=13" group-title="Казахстан", Qyzyljar
 #EXTGRP:Казахстан
 https://ucdn.beetv.kz/bpk-tv/000003249/tve/index.m3u8
@@ -763,7 +763,7 @@ https://ucdn.beetv.kz/bpk-tv/000001514/tve/index.m3u8
 http://stream.kaztrk.kz/regional/karagandytv/index.m3u8
 #EXTINF:-1 tvg-id="7kanal-kz" tvg-name="Седьмой канал KZ" tvg-logo="http://epg.one/img/2572.png" group-title="Казахстан", Седьмой канал KZ
 #EXTGRP:Казахстан
-https://edge05.beetv.kz/btv/SWM/SWM_7/SWM_7_576p_2000kbps.m3u8
+https://stream.tv7.kz/hls/stream.m3u8
 #EXTINF:-1 tvg-id="semei" tvg-name="Semei" tvg-logo="https://avatars.mds.yandex.net/i?id=5c86362e245a4b0792ca0d6fd92361ba-5008775-images-thumbs&n=13" group-title="Казахстан", Semei
 #EXTGRP:Казахстан
 https://ucdn.beetv.kz/bpk-tv/000003250/tve/index.m3u8
@@ -802,7 +802,7 @@ https://ucdn.beetv.kz/bpk-tv/000003604/tve/index.m3u8
 https://592f1881b3d5f.streamlock.net:1443/santraltv_742/santraltv_742/chunklist_w2070697692.m3u8
 #EXTINF:-1 tvg-id="xabar" tvg-name="Хабар KZ" tvg-logo="http://epg.one/img/2576.png" group-title="Казахстан", Хабар KZ
 #EXTGRP:Казахстан
-https://edge05.beetv.kz/btv/SWM/Khabar_HD/Khabar_HD_1080p_5000kbps.m3u8
+https://ucdn.beetv.kz/bpk-tv/000004211/tve/index.m3u8
 #EXTINF:-1 tvg-id="hit-tv" tvg-name="Hit TV KZ" tvg-logo="https://avatars.mds.yandex.net/i?id=63987aa3ae765cb7928145eb56a43371b08e982f3b880f20-12646988-images-thumbs&n=13" group-title="Казахстан", Hit TV KZ
 #EXTGRP:Казахстан
 https://ucdn.beetv.kz/bpk-tv/000001213/tve/index.m3u8
@@ -1536,7 +1536,7 @@ http://stv.mediacdn.ru/live/cdn/ani/playlist_sdhigher.m3u8
 http://158.101.194.132:8080/channel/6baef281/index.m3u8?q=5656d7c7c902657d3491c0330b58ec0e
 #EXTINF:-1 tvg-id="balapan" tvg-name="Balapan" tvg-logo="https://iptvx.one/picons/balapan.png" group-title="Детские", Balapan
 #EXTGRP:Детские
-https://edge05.beetv.kz/btv/SWM/Balapan_HD/Balapan_HD_576p_2000kbps.m3u8
+https://ucdn.beetv.kz/bpk-tv/000005178/tve/index.m3u8
 #EXTINF:-1 tvg-id="cartoon-classics" tvg-name="Cartoon Classics" tvg-logo="http://epg.one/img/9183.png" group-title="Детские", Cartoon Classics
 #EXTGRP:Детские
 http://88.218.242.237:8000/play/a00f
