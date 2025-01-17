@@ -2808,7 +2808,7 @@ https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 http://95.67.12.82:9067
 #EXTINF:-1 tvg-id="trt-3-hd" tvg-name="TRT Spor" tvg-logo="http://epg.one/img/6525.png" group-title="Спорт", TRT Spor
 #EXTGRP:Спорт
-https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?app=web&platform=trtspor&dfp_paln=AQzzBGQE4pj5Ubzf9JU5-3TrM2dgpd1Z7G-M6pCkK5kQCOfsC_rrDJ3O97DjwARsqZtAKnv6Kr8_ljtBArdxT45hV17OcAANaWX1xjIv3y64R_XC-lT1c4jGxVyRAxWttN-kUYuvz71xNfi8nAuk4a3c9oP_w_271un1EljK9HwOKspGTPGojXurSI5woycT4oidG5AO922uRvkxTXtqMeKpu7z2C_zi7VRCtF6I6Ft9r-H4UA4XKhgQly2bR4KCWcu2DbLGMrCWXFgqx5AWEEfW3xCjRQXxobjLnb0rIB9HF73vJVsRLJ9_OfKX-9WJc2wK39op6JhUt9Pw9O1Hm7ApSbuk_qzxlHZLDTCzmgSLExr-XiqupCL1ETkODcXKmlwsr_1ueF-OYejKn0w61qQqzSRioLjfSbkg5j24H8Z-8YyDeuR8lNrFIlSMLACgBLoianpbhnkIv4MSWik0KvvxDmlbevUwc0G-SIdjET9-7iEjBkdZ8yZIKKP1_ELYjQhiblvqIGtG8uyxaOruYsbODBMbIpOxUSH9Bw44nvFKTXp_lsU1R9YeRaFggjLSmuKFU2TVW24Qs0NwGj3jvGDfKfvlzv7Fkou3t7pCON0t4rF2IC6rOQ1oh5cinueynQC4Jz3uCeJfxm5HeMJ5W7CQH_EC3fsg_O1VywLx91G_OjAyg5qgaBIk8Xv934ZyBEA0jDI6nviLn2wYPzL7BWKZ6l2Gr3bLsfuQ68MCKe-U-PUWyM42u_GJgfHDCnJVP2L2z_DNiPySZq6f4PVouBrmD3jpvxYpHJx42uPJB9DawIYNvbTAk4A0yxW60Q1hpfMzeNlA1tX7Zb6DfoNrRn8jO0ZifufqXhIFD9t-odcX7lTgE6Was8O60s5E5k5adpPi1azkAERoFirYunstGlcuRHfqu_ciIdLriN4bWMyuVGoycJ-hbUoNbMSHEXoH9JBYYXujnfnzHgcH87rFSARTsiOwJkcyDYH3l1s790fNsQHh-MblSHCUUr2mv7AGLxs4Fsxa-arHj2pLMdCbqONypJpfeGsxTBmr9FeqFlH2iNmhlsPTutwm1SVcnJcfc3_ZQfA0qZWicDpNsHhYr-Zps8FT
+https://trt.daioncdn.net/trtspor-yildiz/master.m3u8
 #EXTINF:-1 tvg-name="TRT Spor Yıldız HD TR" tvg-logo="https://avatars.mds.yandex.net/i?id=77533306975b478f6c6a55552905c4e548954d99-4387356-images-thumbs&n=13" group-title="Спорт", TRT Spor Yıldız HD TR
 #EXTGRP:Спорт
 http://stream.tvcdn.net/spor/trt-spor-yildiz.m3u8
