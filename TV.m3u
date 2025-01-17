@@ -1249,13 +1249,13 @@ http://178.219.128.68:64889/HGTVHD
 https://ucdn.beetv.kz/bpk-tv/000001000/tve/index.m3u8
 #EXTINF:-1 tvg-id="history" tvg-name="History (резерв)" tvg-logo="http://epg.one/img/1394.png" group-title="Познавательные", History (резерв)
 #EXTGRP:Познавательные
-https://iptv.prosto.tv/ch87/video.m3u8?secret=3fwh601f
+http://65.21.85.175:8000/play/a01s/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="h2" tvg-name="History2" tvg-logo="http://epg.one/img/2356.png" group-title="Познавательные", History2
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000002722/tve/index.m3u8
 #EXTINF:-1 tvg-id="h2" tvg-name="History2 (резерв)" tvg-logo="http://epg.one/img/2356.png" group-title="Познавательные", History2 (резерв)
 #EXTGRP:Познавательные
-http://chiburator.monster:8000/play/aloxy0jsp_gga_a6m_tO2tm50ysfvPRfODn1ASD56QA/ts
+
 #EXTINF:-1 tvg-id="id-xtra-eu" tvg-name="Investigation Discovery" tvg-logo="http://epg.one/img/2507.png" group-title="Познавательные", Investigation Discovery
 #EXTGRP:Познавательные
 http://45.159.74.14:80/InvestigationDiscovery/tracks-v1a2/mono.m3u8
@@ -1291,7 +1291,7 @@ https://flussonic.salomtv.uz/NatGeoWildHD/video.m3u8
 https://ucdn.beetv.kz/bpk-tv/000000034/tve/index.m3u8
 #EXTINF:-1 tvg-id="national-geographic" tvg-name="National Geographic (резерв)" tvg-logo="http://epg.one/img/102.png" group-title="Познавательные", National Geographic (резерв)
 #EXTGRP:Познавательные
-https://flussonic.salomtv.uz/NationalGeographic/video.m3u8
+http://stream01.vnet.am/NationalGeographic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ocean-tv" tvg-name="OCEAN-TV" tvg-logo="http://epg.one/img/55.png" group-title="Познавательные", OCEAN-TV
 #EXTGRP:Познавательные
 http://46.17.41.254:2020/channel/6b6eb54c/index.m3u8?q=c9a4efc12540f7d0eb46417ddc618c8b
@@ -1369,7 +1369,7 @@ http://213.226.137.140:81/tl/l95/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000006482/tve/index.m3u8
 #EXTINF:-1 tvg-id="viasat-nature" tvg-name="Viju Nature (резерв)" tvg-logo="http://epg.one/img/765.png" group-title="Познавательные", Viju Nature (резерв)
 #EXTGRP:Познавательные
-http://195.26.83.96:7013/play/37/index.m3u8
+http://213.226.137.140:81/tl/l96/mpegts
 #EXTINF:-1 tvg-id="viasat-nature-history-hd" tvg-name="Viju+ Planet HD" tvg-logo="http://epg.one/img/2012.png" group-title="Познавательные", Viju+ Planet HD
 #EXTGRP:Познавательные
 http://130.193.73.10:8937/play/a01l
