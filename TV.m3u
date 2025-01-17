@@ -2808,10 +2808,10 @@ https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 http://95.67.12.82:9067
 #EXTINF:-1 tvg-id="trt-3-hd" tvg-name="TRT Spor" tvg-logo="http://epg.one/img/6525.png" group-title="Спорт", TRT Spor
 #EXTGRP:Спорт
-https://trt.daioncdn.net/trtspor-yildiz/master.m3u8
+https://cdn403.canlitv.vin/trtspor.m3u8?tkn=i4P-CBM1khD5cHlN_-Uu0g&tms=1737117993&hst=www.canlitv.vin&ip=185.241.9.15
 #EXTINF:-1 tvg-name="TRT Spor Yıldız HD TR" tvg-logo="https://avatars.mds.yandex.net/i?id=77533306975b478f6c6a55552905c4e548954d99-4387356-images-thumbs&n=13" group-title="Спорт", TRT Spor Yıldız HD TR
 #EXTGRP:Спорт
-http://stream.tvcdn.net/spor/trt-spor-yildiz.m3u8
+
 #EXTINF:-1 tvg-name="Türkmenistan Sport" tvg-logo="https://avatars.mds.yandex.net/i?id=da678a9d544adb3ed0e3fe916af1b74d_l-5288772-images-thumbs&n=13" group-title="Спорт", Türkmenistan Sport
 #EXTGRP:Спорт
 http://217.174.225.146/hls/ch004_720/index.m3u8
