@@ -1264,7 +1264,7 @@ http://45.159.74.14:80/InvestigationDiscovery/tracks-v1a2/mono.m3u8
 https://api.alpaca.t62a.com/hls/9104/stream0.m3u8
 #EXTINF:-1 tvg-name="Joy Cook" tvg-logo="https://avatars.mds.yandex.net/i?id=043e31866c7daa727950b94dba80993b2e892e1d-9859478-images-thumbs&n=13" group-title="Познавательные", Joy Cook
 #EXTGRP:Познавательные
-http://chiburator.monster:8000/play/aloxy0jsp_gga_a6m_tO2g6kQZL_FG5G43Jaw7YFbrEmD8VXK8jT_mntI9ry1mjp/ts
+http://158.101.194.132:8080/channel/11d5c6d6/index.m3u8?q=5656d7c7c902657d3491c0330b58ec0e
 #EXTINF:-1 tvg-id="kosmohd" tvg-name="Kosmo" tvg-logo="https://avatars.mds.yandex.net/i?id=4a3b038e961d47a56150e11962ccdc07291eaf2a-12146588-images-thumbs&n=13" group-title="Познавательные", Kosmo
 #EXTGRP:Познавательные
 https://fs2.persik.by/Kosmo7/index.m3u8
