@@ -739,7 +739,7 @@ https://streams.qazcdn.net/muzzone/muzzone_1080/chunks_dvr.m3u8
 https://live.zhanafm.kz:8181/memfs/fd715789-382f-4ec6-b4ba-d8e2fde59c7b.m3u8
 #EXTINF:-1 tvg-id="ntk-kz" tvg-name="НТК KZ" tvg-logo="http://epg.one/img/2640.png" group-title="Казахстан", НТК KZ
 #EXTGRP:Казахстан
-https://edge05.beetv.kz/btv/SWM/SWM_NTK/SWM_NTK_1080p_5000kbps.m3u8
+https://ucdn.beetv.kz/bpk-tv/000000673/tve/index.m3u8
 #EXTINF:-1 tvg-id="ontustik" tvg-name="Ontustik KZ" tvg-logo="http://epg.one/img/9169.png" group-title="Казахстан", Ontustik KZ
 #EXTGRP:Казахстан
 https://ucdn.beetv.kz/bpk-tv/000003251/tve/index.m3u8
@@ -748,7 +748,7 @@ https://ucdn.beetv.kz/bpk-tv/000003251/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000001052/tve/index.m3u8
 #EXTINF:-1 tvg-id="pervy-kanal-eurasia-kz" tvg-name="Первый канал Евразия KZ" tvg-logo="http://epg.one/img/2571.png" group-title="Казахстан", Первый канал Евразия KZ
 #EXTGRP:Казахстан
-https://edge05.beetv.kz/btv/SWM/SWM_PervyEuraz/SWM_PervyEuraz_576p_2000kbps.m3u8
+https://ucdn.beetv.kz/bpk-tv/000000669/tve/index.m3u8
 #EXTINF:-1 tvg-id="pervy-karagandinsky" tvg-name="Первый Карагандинский" tvg-logo="https://iptvx.one/picons/pervy-karagandinsky.png" group-title="Казахстан", Первый Карагандинский
 #EXTGRP:Казахстан
 https://ucdn.beetv.kz/bpk-tv/000000939/tve/index.m3u8
@@ -1436,7 +1436,7 @@ http://109.200.130.123:7537/play/a024
 
 #EXTINF:-1 tvg-id="liova" tvg-name="Лёва HD" tvg-logo="http://epg.one/img/7990.png" group-title="Детские", Лёва HD
 #EXTGRP:Детские
-https://edge05.beetv.kz/btv/SWM/leva/leva_1080p_5000kbps.m3u8
+https://ucdn.beetv.kz/bpk-tv/000008003/tve/index.m3u8
 #EXTINF:-1 tvg-id="mama" tvg-name="Мама" tvg-logo="http://epg.one/img/618.png" group-title="Детские", Мама
 #EXTGRP:Детские
 http://stv.mediacdn.ru/live/cdn/mama/playlist_sdhigher.m3u8
@@ -2766,7 +2766,7 @@ https://ucdn.beetv.kz/bpk-tv/000008848/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000006969/tve/index.m3u8
 #EXTINF:-1 tvg-id="kazsport" tvg-name="Qazsport KZ" tvg-logo="http://epg.one/img/7509.png" group-title="Спорт", Qazsport KZ
 #EXTGRP:Спорт
-https://edge05.beetv.kz/btv/SWM/Qazsport_HD/Qazsport_HD_1080p_5000kbps.m3u8
+https://ucdn.beetv.kz/bpk-tv/000003038/tve/index.m3u8
 #EXTINF:-1 tvg-name="Red Bull TV" tvg-logo="http://epg.one/img/6039.png" group-title="Спорт", Red Bull TV
 #EXTGRP:Спорт
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
