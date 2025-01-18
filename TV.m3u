@@ -1171,7 +1171,7 @@ http://45.159.74.14:80/AnimalPlanet/tracks-v1a2/mono.m3u8
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-id="big-planet" tvg-name="Big Planet" tvg-logo="http://epg.one/img/7623.png" group-title="Познавательные", Big Planet
 #EXTGRP:Познавательные
-http://88.218.242.237:8000/play/a00k
+http://185.50.148.2:7703/BigPlanet/index.m3u8
 #EXTINF:-1 tvg-id="bloomberg" tvg-name="Bloomberg TV USA" tvg-logo="https://avatars.mds.yandex.net/i?id=9bdd7c5b9b6a9fa55348eada7a515346ada82991-12371687-images-thumbs&n=13" group-title="Познавательные", Bloomberg TV USA
 #EXTGRP:Познавательные
 https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
