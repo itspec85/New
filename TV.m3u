@@ -1333,7 +1333,7 @@ http://130.193.73.10:8937/play/a01g
 http://158.101.194.132:8080/channel/131d7c28/index.m3u8?q=5656d7c7c902657d3491c0330b58ec0e
 #EXTINF:-1 tvg-id="the-explorers" tvg-name="The Explorers" tvg-logo="http://epg.one/img/9082.png" group-title="Познавательные", The Explorers
 #EXTGRP:Познавательные
-http://88.218.242.237:8000/play/a00m
+
 #EXTINF:-1 tvg-id="tlc" tvg-name="TLC" tvg-logo="http://epg.one/img/2345.png" group-title="Познавательные", TLC
 #EXTGRP:Познавательные
 http://dmi3y-tv.ru/hls/CH_TLC.m3u8
@@ -1372,7 +1372,7 @@ http://213.226.137.140:81/tl/l96/mpegts
 http://130.193.73.10:8937/play/a01l
 #EXTINF:-1 tvg-id="womens-magazine" tvg-name="Women`s Magazine HD" tvg-logo="http://epg.one/img/9040.png" group-title="Познавательные", Women`s Magazine HD
 #EXTGRP:Познавательные
-http://88.218.242.237:8000/play/a00l
+https://ucdn.beetv.kz/bpk-tv/000008065/tve/index.m3u8
 #EXTINF:-1 tvg-id="world-fashion-channel" tvg-name="World Fashion Channel" tvg-logo="http://epg.one/img/2242.png" group-title="Познавательные", World Fashion Channel
 #EXTGRP:Познавательные
 http://live-3.otcnet.ru/wfcrus/index.m3u8
