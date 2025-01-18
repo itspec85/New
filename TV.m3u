@@ -1111,9 +1111,6 @@ http://31.148.48.15:80/Telekafe/index.m3u8
 #EXTINF:-1 tvg-id="teleputeshestvia" tvg-name="Телепутешествия" tvg-logo="http://epg.one/img/2424.png" group-title="Познавательные", Телепутешествия
 #EXTGRP:Познавательные
 http://31.148.48.15:80/Teleputeshestviya/index.m3u8?token=test
-#EXTINF:-1 tvg-id="tonus-tv" tvg-name="ТРК Тонус-Саки" tvg-logo="http://epg.one/img/6785.png" group-title="Познавательные", ТРК Тонус-Саки
-#EXTGRP:Познавательные
-http://stream01.vnet.am/ZooTv/mono.m3u8
 #EXTINF:-1 tvg-id="tochka-otryva" tvg-name="Точка отрыва" tvg-logo="http://epg.one/img/617.png" group-title="Познавательные", Точка отрыва
 #EXTGRP:Познавательные
 http://185.50.148.2:7703/OhotaiRibalka/index.m3u8
@@ -1123,6 +1120,9 @@ http://185.23.80.28:8080/TochkaTV/index.m3u8?token=test
 #EXTINF:-1 tvg-id="tri-angela" tvg-name="Три ангела" tvg-logo="http://epg.one/img/2469.png" group-title="Познавательные", Три ангела
 #EXTGRP:Познавательные
 http://hls.tv.3angels.ru/stream/HD/HD.m3u8
+#EXTINF:-1 tvg-id="tonus-tv" tvg-name="ТРК Тонус-Саки" tvg-logo="http://epg.one/img/6785.png" group-title="Познавательные", ТРК Тонус-Саки
+#EXTGRP:Познавательные
+http://stream01.vnet.am/ZooTv/mono.m3u8
 #EXTINF:-1 tvg-id="usadba" tvg-name="Усадьба" tvg-logo="http://epg.one/img/434.png" group-title="Познавательные", Усадьба
 #EXTGRP:Познавательные
 http://185.50.148.2:7703/PSIHOLOGIYA21/index.m3u8
@@ -1160,9 +1160,6 @@ http://hlss.goodgame.ru/hls/192005.m3u8
 #EXTINF:-1 tvg-id="2na2" tvg-name="2x2" tvg-logo="http://epg.one/img/323.png" group-title="Познавательные", 2x2
 #EXTGRP:Познавательные
 http://185.23.80.28:8080/2x2/index.m3u8?token=test
-#EXTINF:-1 tvg-name="555 Hunt Fishing TV" tvg-logo="https://avatars.mds.yandex.net/i?id=aba83aaa09845d4003debee81aff47dcaedd0da9-5333360-images-thumbs&n=13" group-title="Познавательные", 555 Hunt Fishing TV
-#EXTGRP:Познавательные
-http://193.169.178.29:8081/podsekaiTV/chanelHD1080/playlist.m3u8
 #EXTINF:-1 tvg-id="animal-planet-eu" tvg-name="Animal Planet" tvg-logo="http://epg.one/img/365.png" group-title="Познавательные", Animal Planet
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000000216/tve/index.m3u8
