@@ -1572,7 +1572,7 @@ https://fl5.moveonjoy.com/NICK_JR/index.m3u8
 http://stream01.vnet.am/Channel_114/mono.m3u8
 #EXTINF:-1 tvg-name="Nickelodeon CA" tvg-logo="http://epg.one/img/3646.png" group-title="Детские", Nickelodeon CA
 #EXTGRP:Детские
-https://d20opqftbkv2z0.cloudfront.net/live12/nickelodeon/bitrate1-clear.isml/live.m3u8
+
 #EXTINF:-1 tvg-id="nicktoons" tvg-name="NickToons" tvg-logo="http://epg.one/img/2994.png" group-title="Детские", NickToons
 #EXTGRP:Детские
 http://stream01.vnet.am/Boomerang/mono.m3u8
