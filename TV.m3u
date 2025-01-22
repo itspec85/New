@@ -228,7 +228,7 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV-1.m3u8
 #EXTINF:-1 tvg-id="5kanal-ru" tvg-name="Пятый канал" tvg-logo="http://epg.one/img/427.png" group-title="Россия", Пятый канал
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
+http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV.m3u8
 #EXTINF:-1 tvg-id="5kanal-ru" tvg-name="Пятый канал (резерв)" tvg-logo="http://epg.one/img/427.png" group-title="Россия", Пятый канал (резерв)
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
