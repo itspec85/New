@@ -1755,7 +1755,7 @@ http://cdn2.ntv.ru/th_hit/tracks-v1a1/mono.m3u8
 http://46.17.41.254:2020/channel/790108dc/index.m3u8?q=c9a4efc12540f7d0eb46417ddc618c8b
 #EXTINF:-1 tvg-id="pobeda" tvg-name="Победа" tvg-logo="http://epg.one/img/2447.png" group-title="Кино", Победа
 #EXTGRP:Кино
-http://130.193.73.10:8937/play/a03h
+http://185.23.80.28:8080/Pobeda/index.m3u8?token=test
 #EXTINF:-1 tvg-id="premialnoe-hd" tvg-name="Премиальное HD" tvg-logo="http://epg.one/img/2732.png" group-title="Кино", Премиальное HD
 #EXTGRP:Кино
 http://31.184.197.124/PremialnoeHD/mono.m3u8
