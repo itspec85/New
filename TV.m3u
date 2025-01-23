@@ -1633,7 +1633,7 @@ http://213.226.137.140:81/tl/l75/index.m3u8
 http://109.200.130.123:7537/play/a02n
 #EXTINF:-1 tvg-id="dushevnoe-hd" tvg-name="Душевное кино HD" tvg-logo="http://epg.one/img/2019.png" group-title="Кино", Душевное кино HD
 #EXTGRP:Кино
-http://193.242.190.6:8099/37/index.m3u8
+http://live.admuspeh.my/8296/index.m3u8?token=iptv50na50
 #EXTINF:-1 tvg-id="evrokino" tvg-name="Еврокино" tvg-logo="http://epg.one/img/352.png" group-title="Кино", Еврокино
 #EXTGRP:Кино
 http://185.50.148.2:7709/Evrokino/index.m3u8
