@@ -4755,13 +4755,16 @@ https://stream.uagit.tv/gittv.m3u8
 http://cdn10.live-tv.od.ua:8081/izod/izod/playlist.m3u8
 #EXTINF:-1 tvg-id="inter-ua" tvg-name="Інтер UA" tvg-logo="http://epg.one/img/2106.png" group-title="Украина", Інтер UA
 #EXTGRP:Украина
-https://iptv.prosto.tv/ch5/video.m3u8
+
 #EXTINF:-1 tvg-name="IТ3" tvg-logo="https://avatars.mds.yandex.net/i?id=1a814a6263e2a73dd000bcaa7f5fc5841703dfe5-6249527-images-thumbs&n=13" group-title="Украина", IТ3
 #EXTGRP:Украина
 http://cdn10.live-tv.od.ua:8081/it3od/720p/playlist.m3u8
 #EXTINF:-1 tvg-name="ITV Media Group" tvg-logo="https://avatars.mds.yandex.net/i?id=73d18f083f462886d765a3ff693e48ad513076fa-4409822-images-thumbs&n=13" group-title="Украина", ITV Media Group
 #EXTGRP:Украина
 http://cdn10.live-tv.od.ua:8081/itvrv/720p/playlist.m3u8
+#EXTINF:-1 tvg-id="ua-kyiv" tvg-name="Київ HD" tvg-logo="http://epg.one/img/2227.png" group-title="Украина", Київ HD
+#EXTGRP:Украина
+https://ext.cdn.nashnet.tv/228.0.0.15/index.m3u8
 #EXTINF:-1 tvg-id="kvartal-tv" tvg-name="Kvartal TV UA" tvg-logo="http://epg.one/img/2101.png" group-title="Украина", Kvartal TV UA
 #EXTGRP:Украина
 https://iptv.prosto.tv/ch65/video.m3u8
