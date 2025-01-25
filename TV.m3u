@@ -892,13 +892,13 @@ https://dumatv.iptv2022.com/tracks-v2a1/mono.m3u8
 https://ucdn.beetv.kz/bpk-tv/000000588/tve/index.m3u8
 #EXTINF:-1 tvg-id="eda" tvg-name="Еда HD" tvg-logo="http://epg.one/img/7614.png" group-title="Познавательные", Еда HD
 #EXTGRP:Познавательные
-http://88.218.242.237:8000/play/a00r
+http://185.23.80.28:8080/Eda/index.m3u8?token=test
 #EXTINF:-1 tvg-id="zhivi" tvg-name="ЖИВИ!" tvg-logo="http://epg.one/img/113.png" group-title="Познавательные", ЖИВИ!
 #EXTGRP:Познавательные
 http://195.18.23.20:8000/play/10/index.m3u8
 #EXTINF:-1 tvg-id="zhivi-aktivno" tvg-name="Живи Активно HD" tvg-logo="http://epg.one/img/5881.png" group-title="Познавательные", Живи Активно HD
 #EXTGRP:Познавательные
-http://46.17.41.254:2020/channel/n76b315ea/index.m3u8?q=c9a4efc12540f7d0eb46417ddc618c8b
+
 #EXTINF:-1 tvg-id="zagorodnaya-zhizn" tvg-name="Загородная Жизнь" tvg-logo="http://epg.one/img/2298.png" group-title="Познавательные", Загородная Жизнь
 #EXTGRP:Познавательные
 http://flu.ttk.mx:90/zagorodnaya_zhizn/mono.m3u8?token=hs06e
