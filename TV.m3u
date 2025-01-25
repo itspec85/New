@@ -811,7 +811,7 @@ https://ucdn.beetv.kz/bpk-tv/000001213/tve/index.m3u8
 http://v4.proofix.ru:80/8tv-europe/index.m3u8
 #EXTINF:-1 tvg-id="texno-24" tvg-name="24 Техно" tvg-logo="http://epg.one/img/2762.png" group-title="Познавательные", 24 Техно
 #EXTGRP:Познавательные
-http://46.17.41.254:2020/channel/n26da4e77/index.m3u8?q=c9a4efc12540f7d0eb46417ddc618c8b
+https://ucdn.beetv.kz/bpk-tv/000000008/tve/index.m3u8
 #EXTINF:-1 tvg-id="365-dnej" tvg-name="365 дней ТВ" tvg-logo="http://epg.one/img/2423.png" group-title="Познавательные", 365 дней ТВ
 #EXTGRP:Познавательные
 http://93.189.224.24/365dney/index.m3u8
@@ -952,7 +952,7 @@ https://wowza4.leisertv.com/live/ktoyestkto.stream/playlist.m3u8
 https://ucdn.beetv.kz/bpk-tv/000001377/tve/index.m3u8
 #EXTINF:-1 tvg-id="kuxnia-tv" tvg-name="Кухня ТВ" tvg-logo="http://epg.one/img/614.png" group-title="Познавательные", Кухня ТВ
 #EXTGRP:Познавательные
-http://88.218.242.237:8000/play/a00s
+http://213.226.137.140:81/tl/l65/index.m3u8
 #EXTINF:-1 tvg-id="lapki-live" tvg-name="Лапки Live HD" tvg-logo="http://epg.one/img/9093.png" group-title="Познавательные", Лапки Live HD
 #EXTGRP:Познавательные
 http://91.247.68.229:8000/play/Lapki/index.m3u8
@@ -988,7 +988,7 @@ http://178.124.152.238:8088/nauka
 https://ucdn.beetv.kz/bpk-tv/000003785/tve/index.m3u8
 #EXTINF:-1 tvg-id="neizvestnaya-rosia" tvg-name="Неизвестная Россия HD" tvg-logo="http://epg.one/img/9015.png" group-title="Познавательные", Неизвестная Россия HD
 #EXTGRP:Познавательные
-http://88.218.242.237:8000/play/a00n
+http://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="nowy-igrowoj" tvg-name="Новый игровой канал" tvg-logo="https://iptvx.one/picons/nowy-igrowoj.png" group-title="Познавательные", Новый игровой канал
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000008615/tve/index.m3u8
@@ -1011,7 +1011,7 @@ https://osnmedia.servicecdn.ru/streams/17603_88089/720n/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000000308/tve/index.m3u8
 #EXTINF:-1 tvg-id="oxota-i-rybalka" tvg-name="Охота и Рыбалка" tvg-logo="http://epg.one/img/2419.png" group-title="Познавательные", Охота и Рыбалка
 #EXTGRP:Познавательные
-http://86.57.198.251:8181/play/1035/index.m3u8
+https://flussonic.salomtv.uz/Ohota_Ribalka/video.m3u8
 #EXTINF:-1 tvg-id="oxotnik-i-rybolov" tvg-name="Охотник и рыболов" tvg-logo="http://epg.one/img/1681.png" group-title="Познавательные", Охотник и рыболов
 #EXTGRP:Познавательные
 http://stream01.vnet.am/Channel_124/mono.m3u8
@@ -1026,19 +1026,19 @@ http://stream01.vnet.am/Evrika/mono.m3u8
 https://rq3qltxnbx1.a.trbcdn.net/livemaster/8hwxnq4s0v_efir0_tcode1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="prnk-tv" tvg-name="Первый российский национальный канал HD" tvg-logo="http://epg.one/img/6029.png" group-title="Познавательные", Первый российский национальный канал HD
 #EXTGRP:Познавательные
-http://serv25.vintera.tv:8081/1pnk/rezonans/playlist.m3u8
+http://185.23.80.28:8080/Rezonans/index.m3u8?token=iptv50na50
 #EXTINF:-1 tvg-id="perec-int" tvg-name="Перец International" tvg-logo="http://epg.one/img/5651.png" group-title="Познавательные", Перец International
 #EXTGRP:Познавательные
 http://stream01.vnet.am/Perec/mono.m3u8
 #EXTINF:-1 tvg-id="perpetmobile" tvg-name="Перпетуум Мобиле" tvg-logo="https://iptvx.one/picons/perpetmobile.png" group-title="Познавательные", Перпетуум Мобиле
 #EXTGRP:Познавательные
-http://158.101.194.132:8080/channel/n646d49cf/index.m3u8?q=5656d7c7c902657d3491c0330b58ec0e
+
 #EXTINF:-1 tvg-id="poexali" tvg-name="Поехали!" tvg-logo="http://epg.one/img/2350.png" group-title="Познавательные", Поехали!
 #EXTGRP:Познавательные
 http://91.247.68.229:8000/play/Poehali/index.m3u8
 #EXTINF:-1 tvg-id="poliottv" tvg-name="Полёт ТВ" tvg-logo="https://iptvx.one/picons/poliottv.png" group-title="Познавательные", Полёт ТВ
 #EXTGRP:Познавательные
-http://158.101.194.132:8080/channel/2c2fa58f/index.m3u8?q=5656d7c7c902657d3491c0330b58ec0e
+
 #EXTINF:-1 tvg-id="prikluchenia-hd" tvg-name="Приключения HD" tvg-logo="http://epg.one/img/2311.png" group-title="Познавательные", Приключения HD
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000000277/tve/index.m3u8
