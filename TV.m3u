@@ -2661,7 +2661,7 @@ http://78.130.250.2:8023/play/a02v/index.m3u8
 http://78.130.250.2:8023/play/a02w/index.m3u8
 #EXTINF:-1 tvg-id="cbc-sport" tvg-name="CBC Sport" tvg-logo="http://epg.one/img/2636.png" group-title="Спорт", CBC Sport
 #EXTGRP:Спорт
-http://50.7.144.122:1935/livetv/cbcsport.stream/sec-f5-v1-a1.m3u8
+http://184585.ipturk.eu/ozgurozdemir/19051907ok/228080
 #EXTINF:-1 tvg-id="cbs-sports-network-us" tvg-name="CBS Sports Network US" tvg-logo="http://epg.one/img/4560.png" group-title="Спорт", CBS Sports Network US
 #EXTGRP:Спорт
 http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
