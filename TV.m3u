@@ -2562,7 +2562,7 @@ http://194.143.148.28:8080/MatchArena/mpegts
 http://s1.merlive.am/match-boec/index.m3u8
 #EXTINF:-1 tvg-id="match-boets" tvg-name="Матч! Боец HD" tvg-logo="http://epg.one/img/2054.png" group-title="Спорт", Матч! Боец HD
 #EXTGRP:Спорт
-https://mhd128.iptv2022.com/p/y6yQLime87OxcJckD9giCg,1737748812/streaming/boectv/324/1/tracks-v5a1/mono.m3u8
+http://live.admuspeh.my/8027/index.m3u8?token=iptv50na50
 #EXTINF:-1 tvg-id="match-igra" tvg-name="Матч! Игра" tvg-logo="http://epg.one/img/2050.png" group-title="Спорт", Матч! Игра
 #EXTGRP:Спорт
 http://31.148.48.15/Match_Igra/index.m3u8
@@ -2577,7 +2577,7 @@ https://ucdn.beetv.kz/bpk-tv/000001695/tve/index.m3u8
 http://s1.merlive.am/matchpremier/index.m3u8
 #EXTINF:-1 tvg-id="match-premier" tvg-name="Матч! Премьер HD" tvg-logo="http://epg.one/img/2250.png" group-title="Спорт", Матч! Премьер HD
 #EXTGRP:Спорт
-https://mhd128.iptv2022.com/p/dznq_oVvLWAwyyJHie2QWw,1737748812/streaming/match_premyerhd/324/1/tracks-v5a1/mono.m3u8
+http://live.admuspeh.my/8023/index.m3u8?token=iptv50na50
 #EXTINF:-1 tvg-id="match-nash-sport" tvg-name="Матч! Страна" tvg-logo="http://epg.one/img/2042.png" group-title="Спорт", Матч! Страна
 #EXTGRP:Спорт
 http://s1.merlive.am/match-strana/index.m3u8
@@ -2589,7 +2589,7 @@ http://213.226.137.140:81/tl/l73/mpegts
 http://s1.merlive.am/matchfutbol1/index.m3u8
 #EXTINF:-1 tvg-id="match-football1" tvg-name="Матч! Футбол 1 HD" tvg-logo="http://epg.one/img/2044.png" group-title="Спорт", Матч! Футбол 1 HD
 #EXTGRP:Спорт
-https://mhd128.iptv2022.com/p/0AtZtyHDKtB06N8vu4Mv5w,1737748812/streaming/footbal1hd/324/1/tracks-v5a1/mono.m3u8
+http://live.admuspeh.my/8236/index.m3u8?token=iptv50na50
 #EXTINF:-1 tvg-id="match-football2" tvg-name="Матч! Футбол 2" tvg-logo="http://epg.one/img/1042.png" group-title="Спорт", Матч! Футбол 2
 #EXTGRP:Спорт
 http://live.admuspeh.my/8022/index.m3u8?token=TestuspehTva
@@ -2616,13 +2616,13 @@ http://158.101.214.187:8080/channel/79f39dd7/index.m3u8?q=443d5edac354972a97f674
 http://158.101.214.187:8080/channel/n2388d82c/index.m3u8?q=443d5edac354972a97f67425879f54e1
 #EXTINF:-1 tvg-id="sportivny" tvg-name="Спортивный HD" tvg-logo="http://epg.one/img/4678.png" group-title="Спорт", Спортивный HD
 #EXTGRP:Спорт
-https://mhd128.iptv2022.com/p/_8R_i8-azj4Kfo0AEzAXGQ,1737748812/streaming/sportivniyhd/324/1/tracks-v5a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="start" tvg-name="Старт HD" tvg-logo="http://epg.one/img/2530.png" group-title="Спорт", Старт HD
 #EXTGRP:Спорт
 http://185.23.80.28:8080/START/index.m3u8?token=test
 #EXTINF:-1 tvg-id="start-triumf" tvg-name="Старт Триумф HD" tvg-logo="http://epg.one/img/9112.png" group-title="Спорт", Старт Триумф HD
 #EXTGRP:Спорт
-https://mhd128.iptv2022.com/p/4PiddJ0bs8ExkQBGJQEoTw,1737748812/streaming/start-triumf/324/1/index.m3u8
+
 #EXTINF:-1 tvg-id="start-turan" tvg-name="Старт Туран" tvg-logo="https://avatars.mds.yandex.net/i?id=b5b8bf67427623e5cc497c3754e0c67fc3bb1ef9-5858861-images-thumbs&n=13" group-title="Спорт", Старт Туран
 #EXTGRP:Спорт
 
@@ -2637,7 +2637,7 @@ http://185.23.80.28:8080/Football/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="xokkejny" tvg-name="Хоккейный HD" tvg-logo="http://epg.one/img/4605.png" group-title="Спорт", Хоккейный HD
 #EXTGRP:Спорт
-https://mhd128.iptv2022.com/p/T0Z_Voem1MpsgJSa2yX9wQ,1737748812/streaming/hokkeyniy/324/1/tracks-v5a1/mono.m3u8
+http://live.admuspeh.my/8367/index.m3u8?token=iptv50na50
 #EXTINF:-1 tvg-name="beIN Sports 1 HD TR" tvg-logo="http://epg.one/img/5092.png" group-title="Спорт", beIN Sports 1 HD TR
 #EXTGRP:Спорт
 http://65.21.85.175:8000/play/a034/index.m3u8?token=livetv
