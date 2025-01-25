@@ -1384,7 +1384,7 @@ http://flu.ttk.mx:90/Zoopark/mono.m3u8?token=hs06e
 https://ucdn.beetv.kz/bpk-tv/000002762/tve/index.m3u8
 #EXTINF:-1 tvg-id="detsky-mir" tvg-name="Детский мир" tvg-logo="http://epg.one/img/923.png" group-title="Детские", Детский мир
 #EXTGRP:Детские
-http://82.215.111.227/1032/index.m3u8
+http://195.26.83.96:7007/play/14/index.m3u8
 #EXTINF:-1 tvg-name="Ералаш" tvg-logo="https://epg.one/img/4775.png" group-title="Детские", Ералаш
 #EXTGRP:Детские
 https://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
@@ -1461,13 +1461,13 @@ http://185.23.80.28:8080/O/index.m3u8?token=test
 http://178.57.121.38:8080/ryzhiy/index.m3u8?token=test
 #EXTINF:-1 tvg-id="skazki-zayki" tvg-name="Сказки Зайки" tvg-logo="http://epg.one/img/1112.png" group-title="Детские", Сказки Зайки
 #EXTGRP:Детские
-http://158.101.194.132:8080/channel/79d0e9e4/index.m3u8?q=5656d7c7c902657d3491c0330b58ec0e
+
 #EXTINF:-1 tvg-id="smaylik-tv" tvg-name="Смайл ТВ" tvg-logo="http://epg.one/img/2442.png" group-title="Детские", Смайл ТВ
 #EXTGRP:Детские
 https://5d23269b3ec0c.streamlock.net/WEB_Smilik/Smilik.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="sovmultf" tvg-name="Советские мультфильмы" tvg-logo="https://epg.one/img/1111.png" group-title="Детские", Советские мультфильмы
 #EXTGRP:Детские
-http://158.101.194.132:8080/channel/n11fc9032/index.m3u8?q=5656d7c7c902657d3491c0330b58ec0e
+http://s83.chas.tv:8081/chas/sovmulttv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="solnce" tvg-shift="+1" tvg-name="Солнце -1" tvg-logo="http://epg.one/img/7669.png" group-title="Детские", Солнце -1
 #EXTGRP:Детские
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -1497,7 +1497,7 @@ http://dmi3y-tv.ru/hls/zabava/CH_DISNEY_7.m3u8
 http://194.26.229.213/souzmultfilm/index.m3u8
 #EXTINF:-1 tvg-id="sts-kids-hd" tvg-name="СТС Kids HD" tvg-logo="http://epg.one/img/2481.png" group-title="Детские", СТС Kids HD
 #EXTGRP:Детские
-http://82.215.111.227/1437/index.m3u8
+http://130.193.73.10:8937/play/a017
 #EXTINF:-1 tvg-id="malysh" tvg-name="СуперГерои" tvg-logo="http://epg.one/img/2239.png" group-title="Детские", СуперГерои
 #EXTGRP:Детские
 http://178.124.179.122:8088/Malish/index.m3u8
@@ -1530,13 +1530,13 @@ http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 http://stv.mediacdn.ru/live/cdn/ani/playlist_sdhigher.m3u8
 #EXTINF:-1 tvg-id="animekids" tvg-name="Anime Kids HD" tvg-logo="http://epg.one/img/7874.png" group-title="Детские", Anime Kids HD
 #EXTGRP:Детские
-http://158.101.194.132:8080/channel/6baef281/index.m3u8?q=5656d7c7c902657d3491c0330b58ec0e
+
 #EXTINF:-1 tvg-id="balapan" tvg-name="Balapan" tvg-logo="https://iptvx.one/picons/balapan.png" group-title="Детские", Balapan
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000005178/tve/index.m3u8
 #EXTINF:-1 tvg-id="cartoon-classics" tvg-name="Cartoon Classics" tvg-logo="http://epg.one/img/9183.png" group-title="Детские", Cartoon Classics
 #EXTGRP:Детские
-http://88.218.242.237:8000/play/a00f
+
 #EXTINF:-1 tvg-id="cartoon-network" tvg-name="Cartoon Network" tvg-logo="http://epg.one/img/601.png" group-title="Детские", Cartoon Network
 #EXTGRP:Детские
 http://stream01.vnet.am/Kinosemya/tracks-v1a1/mono.m3u8
@@ -1551,7 +1551,7 @@ https://ucdn.beetv.kz/bpk-tv/000000333/tve/index.m3u8
 https://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="familyjam" tvg-name="FamilyJam HD" tvg-logo="http://epg.one/img/7902.png" group-title="Детские", FamilyJam HD
 #EXTGRP:Детские
-http://88.218.242.237:8000/play/a00b
+
 #EXTINF:-1 tvg-id="gulli-girl" tvg-name="Gulli" tvg-logo="http://epg.one/img/810.png" group-title="Детские", Gulli
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000000284/tve/index.m3u8
