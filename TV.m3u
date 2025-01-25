@@ -1219,7 +1219,7 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_
 http://213.226.137.140:81/tl/l98/mpegts
 #EXTINF:-1 tvg-id="eda-hd" tvg-name="FoodTime" tvg-logo="http://epg.one/img/7635.png" group-title="Познавательные", FoodTime
 #EXTGRP:Познавательные
-http://46.17.41.254:2020/channel/n723486ec/index.m3u8?q=c9a4efc12540f7d0eb46417ddc618c8b
+
 #EXTINF:-1 tvg-id="fox-news-us" tvg-name="FOX NEWS CHANNEL FHD" tvg-logo="http://epg.one/img/6683.png" group-title="Познавательные", FOX NEWS CHANNEL FHD
 #EXTGRP:Познавательные
 http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
@@ -1261,7 +1261,7 @@ http://45.159.74.14:80/InvestigationDiscovery/tracks-v1a2/mono.m3u8
 https://api.alpaca.t62a.com/hls/9104/stream0.m3u8
 #EXTINF:-1 tvg-name="Joy Cook" tvg-logo="https://avatars.mds.yandex.net/i?id=043e31866c7daa727950b94dba80993b2e892e1d-9859478-images-thumbs&n=13" group-title="Познавательные", Joy Cook
 #EXTGRP:Познавательные
-http://158.101.194.132:8080/channel/11d5c6d6/index.m3u8?q=5656d7c7c902657d3491c0330b58ec0e
+
 #EXTINF:-1 tvg-id="kosmohd" tvg-name="Kosmo" tvg-logo="https://avatars.mds.yandex.net/i?id=4a3b038e961d47a56150e11962ccdc07291eaf2a-12146588-images-thumbs&n=13" group-title="Познавательные", Kosmo
 #EXTGRP:Познавательные
 https://fs2.persik.by/Kosmo7/index.m3u8
@@ -1330,7 +1330,7 @@ http://195.26.83.96:7029/play/a008
 http://130.193.73.10:8937/play/a01g
 #EXTINF:-1 tvg-name="Terra Incognita" tvg-logo="https://iptvx.one/picons/terra-inkognita.png" group-title="Познавательные", Terra Incognita
 #EXTGRP:Познавательные
-http://158.101.194.132:8080/channel/131d7c28/index.m3u8?q=5656d7c7c902657d3491c0330b58ec0e
+
 #EXTINF:-1 tvg-id="the-explorers" tvg-name="The Explorers" tvg-logo="http://epg.one/img/9082.png" group-title="Познавательные", The Explorers
 #EXTGRP:Познавательные
 
