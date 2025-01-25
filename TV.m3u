@@ -2610,10 +2610,10 @@ http://213.226.137.140:81/tl/l423/mpegts
 
 #EXTINF:-1 tvg-id="okko-sport" tvg-name="Окко Спорт HD" tvg-logo="http://epg.one/img/7895.png" group-title="Спорт", Окко Спорт HD
 #EXTGRP:Спорт
-http://158.101.214.187:8080/channel/79f39dd7/index.m3u8?q=443d5edac354972a97f67425879f54e1
+
 #EXTINF:-1 tvg-id="okko-football" tvg-name="Окко Футбол HD" tvg-logo="http://epg.one/img/9325.png" group-title="Спорт", Окко Футбол HD
 #EXTGRP:Спорт
-http://158.101.214.187:8080/channel/n2388d82c/index.m3u8?q=443d5edac354972a97f67425879f54e1
+
 #EXTINF:-1 tvg-id="sportivny" tvg-name="Спортивный HD" tvg-logo="http://epg.one/img/4678.png" group-title="Спорт", Спортивный HD
 #EXTGRP:Спорт
 
