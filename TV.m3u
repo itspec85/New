@@ -2919,7 +2919,7 @@ http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
 http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="1hd" tvg-name="1HD" tvg-logo="http://epg.one/img/4037.png" group-title="Музыка", 1HD
 #EXTGRP:Музыка
-http://91.247.68.229:8000/play/eee/index.m3u8
+https://ucdn.beetv.kz/bpk-tv/000001020/tve/index.m3u8
 #EXTINF:-1 tvg-name="88 Stereo" tvg-logo="https://i.ibb.co/8BnNdTB/image-24.png" group-title="Музыка", 88 Stereo
 #EXTGRP:Музыка
 http://k3.usastreams.com/CableLatino/88stereo/chunklist_w986835325.m3u8
@@ -3018,10 +3018,10 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d
 http://stream01.vnet.am/Channel_117/mono.m3u8
 #EXTINF:-1 tvg-id="musicbox" tvg-name="Music Box Gold" tvg-logo="http://epg.one/img/5368.png" group-title="Музыка", Music Box Gold
 #EXTGRP:Музыка
-http://46.17.41.254:2020/channel/n3d726735/index.m3u8?q=d41a27c3e8f49739095fb18ad6a0b0a3
+http://37.205.83.56:81/udp/239.54.5.7:1224
 #EXTINF:-1 tvg-id="russian-musicbox" tvg-name="Music Box Russia" tvg-logo="http://epg.one/img/2409.png" group-title="Музыка", Music Box Russia
 #EXTGRP:Музыка
-http://46.17.41.254:2020/channel/n474315b2/index.m3u8?q=d41a27c3e8f49739095fb18ad6a0b0a3
+http://185.23.80.28:8080/RUSSIANMUSICBOX/index.m3u8?token=iptv50na50
 #EXTINF:-1 tvg-name="Muzzik" tvg-logo="https://avatars.mds.yandex.net/i?id=ca03722ba4159f7610aef5036ca02362_sr-5384260-images-thumbs&n=13" group-title="Музыка", Muzzik
 #EXTGRP:Музыка
 http://muzzik-live.morescreens.com/mts-6/playlist.m3u8
@@ -3169,8 +3169,7 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 http://de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 tvg-id="viva-rus" tvg-name="VIVA Russia HD" tvg-logo="http://epg.one/img/4658.png" group-title="Музыка", VIVA Russia HD
 #EXTGRP:Музыка
-#EXTVLCOPT:http-user-agent=goodgame
-http://hls.goodgame.ru/hls/180805.m3u8
+https://162.212.179.32/ssh101/ssh101/vivarussia/playlist.m3u8
 #EXTINF:-1 tvg-name="XITE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Logo_XITE_2017_zwart.png/240px-Logo_XITE_2017_zwart.png" group-title="Музыка", XITE
 #EXTGRP:Музыка
 http://xite-samsung-de.amagi.tv/playlist.m3u8
