@@ -1705,10 +1705,10 @@ http://213.226.137.140:81/tl/l16/playlist.m3u8
 http://dmi3y-tv.ru/hls/CH_KOSHMAR.m3u8
 #EXTINF:-1 tvg-id="kriminalnoe-hd" tvg-name="Криминальное HD" tvg-logo="http://epg.one/img/7844.png" group-title="Кино", Криминальное HD
 #EXTGRP:Кино
-http://46.17.41.254:2020/channel/7cbfee5f/index.m3u8?q=c9a4efc12540f7d0eb46417ddc618c8b
+
 #EXTINF:-1 tvg-id="lavstori" tvg-name="Лавстори" tvg-logo="http://epg.one/img/9001.png" group-title="Кино", Лавстори
 #EXTGRP:Кино
-http://88.218.242.237:8000/play/a00v
+http://live.admuspeh.my/8970/index.m3u8?token=iptv50na50
 #EXTINF:-1 tvg-id="lubimoe-kino" tvg-name="Любимое кино" tvg-logo="http://epg.one/img/477.png" group-title="Кино", Любимое кино
 #EXTGRP:Кино
 http://130.193.73.10:8937/play/a037
@@ -1723,13 +1723,13 @@ https://ucdn.beetv.kz/bpk-tv/000008488/tve/index.m3u8
 http://185.50.148.2:7706/Mosfilm/index.m3u8
 #EXTINF:-1 tvg-id="mosfilm" tvg-name="Мосфильм. Золотая коллекция HD" tvg-logo="http://epg.one/img/3357.png" group-title="Кино", Мосфильм. Золотая коллекция HD
 #EXTGRP:Кино
-http://46.17.41.254:2020/channel/2bac7f96/index.m3u8?q=c9a4efc12540f7d0eb46417ddc618c8b
+http://193.242.190.6:8099/98/index.m3u8
 #EXTINF:-1 tvg-id="muzhskoe-kino" tvg-name="Мужское кино" tvg-logo="http://epg.one/img/1584.png" group-title="Кино", Мужское кино
 #EXTGRP:Кино
 http://45.159.74.14:80/MujskoeKino/index.m3u8
 #EXTINF:-1 tvg-id="nash-kinopokaz" tvg-name="Наш кинопоказ" tvg-logo="http://epg.one/img/2831.png" group-title="Кино", Наш кинопоказ
 #EXTGRP:Кино
-http://46.17.41.254:2020/channel/5c22569f/index.m3u8?q=c9a4efc12540f7d0eb46417ddc618c8b
+http://185.23.80.28:8080/NashKinopokaz/index.m3u8?token=test
 #EXTINF:-1 tvg-id="nashe-muzhskoe" tvg-name="Наше мужское" tvg-logo="http://epg.one/img/2835.png" group-title="Кино", Наше мужское
 #EXTGRP:Кино
 http://65.21.85.175:8000/play/a00r/index.m3u8?token=livetv
@@ -1738,7 +1738,7 @@ http://65.21.85.175:8000/play/a00r/index.m3u8?token=livetv
 http://178.212.71.253:8002/play/a00i/index.m3u8
 #EXTINF:-1 tvg-id="nashehd" tvg-name="Наше HD" tvg-logo="http://epg.one/img/2018.png" group-title="Кино", Наше HD
 #EXTGRP:Кино
-http://46.17.41.254:2020/channel/n78b4a99f/index.m3u8?q=c9a4efc12540f7d0eb46417ddc618c8b
+http://live.admuspeh.my/8059/index.m3u8?token=iptv50na50
 #EXTINF:-1 tvg-id="nst" tvg-name="НСТ" tvg-logo="http://epg.one/img/518.png" group-title="Кино", НСТ
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000000078/tve/index.m3u8
@@ -1752,7 +1752,7 @@ http://cdn2.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
 http://cdn2.ntv.ru/th_hit/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ostrosiuzhetnoe-hd" tvg-name="Остросюжетное HD" tvg-logo="http://epg.one/img/1588.png" group-title="Кино", Остросюжетное HD
 #EXTGRP:Кино
-http://46.17.41.254:2020/channel/790108dc/index.m3u8?q=c9a4efc12540f7d0eb46417ddc618c8b
+http://live.admuspeh.my/8184/index.m3u8?token=iptv50na50
 #EXTINF:-1 tvg-id="pobeda" tvg-name="Победа" tvg-logo="http://epg.one/img/2447.png" group-title="Кино", Победа
 #EXTGRP:Кино
 http://185.23.80.28:8080/Pobeda/index.m3u8?token=test
@@ -1767,13 +1767,13 @@ https://ucdn.beetv.kz/bpk-tv/000008491/tve/index.m3u8
 http://185.23.80.28:8080/ProLyubov/index.m3u8?token=test
 #EXTINF:-1 tvg-id="retro-tv" tvg-name="Ретро" tvg-logo="http://epg.one/img/2402.png" group-title="Кино", Ретро
 #EXTGRP:Кино
-http://82.215.111.227/1047/index.m3u8
+http://194.158.218.123:8880/Retrotv/index.m3u8
 #EXTINF:-1 tvg-id="rodnoe-kino" tvg-name="Родное кино" tvg-logo="http://epg.one/img/12.png" group-title="Кино", Родное кино
 #EXTGRP:Кино
 http://185.50.148.2:7711/RodnoeKino/index.m3u8
 #EXTINF:-1 tvg-id="romantichnoe-hd" tvg-name="Романтичное" tvg-logo="http://epg.one/img/2772.png" group-title="Кино", Романтичное
 #EXTGRP:Кино
-http://46.17.41.254:2020/channel/n5fd2cd7/index.m3u8?q=c9a4efc12540f7d0eb46417ddc618c8b
+http://live.admuspeh.my/8948/index.m3u8?token=iptv50na50
 #EXTINF:-1 tvg-id="russkaya-komedia" tvg-name="Русская комедия" tvg-logo="http://epg.one/img/1620.png" group-title="Кино", Русская комедия
 #EXTGRP:Кино
 http://130.193.73.10:8937/play/a03k
@@ -1791,7 +1791,7 @@ http://185.23.80.28:8080/RusIlluzion/index.m3u8?token=test
 http://193.242.190.6:8099/39/index.m3u8
 #EXTINF:-1 tvg-id="russky-roman" tvg-name="Русский роман HD" tvg-logo="http://epg.one/img/401.png" group-title="Кино", Русский роман HD
 #EXTGRP:Кино
-http://46.17.41.254:2020/channel/68a9a3f4/index.m3u8?q=c9a4efc12540f7d0eb46417ddc618c8b
+http://live.admuspeh.my/8010/index.m3u8?token=iptv50na50
 #EXTINF:-1 tvg-id="sapfir" tvg-name="Сапфир" tvg-logo="http://epg.one/img/7315.png" group-title="Кино", Сапфир
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000008135/tve/index.m3u8
@@ -1803,13 +1803,13 @@ https://ucdn.beetv.kz/bpk-tv/000008489/tve/index.m3u8
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/index.m3u8
 #EXTINF:-1 tvg-id="sov-kinklass" tvg-name="Советская киноклассика HD" tvg-logo="http://epg.one/img/9002.png" group-title="Кино", Советская киноклассика HD
 #EXTGRP:Кино
-http://46.17.41.254:2020/channel/nbae71fb/index.m3u8?q=c9a4efc12540f7d0eb46417ddc618c8b
+http://46.17.41.254:2020/channel/n62ef5f28/index.m3u8?q=c9a4efc12540f7d0eb46417ddc618c8b
 #EXTINF:-1 tvg-id="sovkino" tvg-name="Советское кино" tvg-logo="http://epg.one/img/9399.png" group-title="Кино", Советское кино
 #EXTGRP:Кино
-http://158.101.194.132:8080/channel/n4ef90b2b/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
+http://s83.chas.tv:8081/chas/sovkinotv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="strashnoe-hd" tvg-name="Страшное HD" tvg-logo="http://epg.one/img/2857.png" group-title="Кино", Страшное HD
 #EXTGRP:Кино
-http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/94863.m3u8
+
 #EXTINF:-1 tvg-id="tvxxi" tvg-name="ТВ 21" tvg-logo="http://epg.one/img/309.png" group-title="Кино", ТВ 21
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000000006/tve/index.m3u8
@@ -1818,13 +1818,13 @@ https://ucdn.beetv.kz/bpk-tv/000000006/tve/index.m3u8
 http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 tvg-id="feniks-plus-kino" tvg-name="Феникс плюс Кино" tvg-logo="http://epg.one/img/2404.png" group-title="Кино", Феникс плюс Кино
 #EXTGRP:Кино
-http://88.218.242.237:8000/play/a007
+rtmp://212.0.213.132//Fenix_Kino
 #EXTINF:-1 tvg-id="khit-hd" tvg-name="Хит HD" tvg-logo="http://epg.one/img/2833.png" group-title="Кино", Хит HD
 #EXTGRP:Кино
-http://46.17.41.254:2020/channel/n16e794f8/index.m3u8?q=c9a4efc12540f7d0eb46417ddc618c8b
+http://185.23.80.28:8080/Xit/index.m3u8?token=iptv50na50
 #EXTINF:-1 tvg-id="shokiruyushchee-hd" tvg-name="Шокирующее HD" tvg-logo="http://epg.one/img/2309.png" group-title="Кино", Шокирующее HD
 #EXTGRP:Кино
-http://46.17.41.254:2020/channel/n4773cab1/index.m3u8?q=c9a4efc12540f7d0eb46417ddc618c8b
+http://live.admuspeh.my/8322/index.m3u8?token=iptv50na50
 #EXTINF:-1 tvg-id="sony-turbo" tvg-name=".black" tvg-logo="http://epg.one/img/935.png" group-title="Кино", .black
 #EXTGRP:Кино
 http://109.200.130.123:7537/play/a02s
