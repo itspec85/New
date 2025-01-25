@@ -1860,7 +1860,7 @@ http://130.193.73.10:8937/play/a02o
 http://195.18.23.20:8000/play/3/index.m3u8
 #EXTINF:-1 tvg-id="animetv" tvg-name="Anime TV" tvg-logo="http://epg.one/img/4592.png" group-title="Кино", Anime TV
 #EXTGRP:Кино
-http://158.101.194.132:8080/channel/2158672e/index.m3u8?q=5656d7c7c902657d3491c0330b58ec0e
+http://46.17.41.254:2020/channel/n59f7d0d2/index.m3u8?q=c9a4efc12540f7d0eb46417ddc618c8b
 #EXTINF:-1 tvg-id="bollywood-hd" tvg-name="Bollywood HD" tvg-logo="http://epg.one/img/1395.png" group-title="Кино", Bollywood HD
 #EXTGRP:Кино
 http://130.193.73.10:8937/play/a02l
@@ -1875,7 +1875,7 @@ http://178.124.152.238:8088/cinema
 https://ucdn.beetv.kz/bpk-tv/000000452/tve/index.m3u8
 #EXTINF:-1 tvg-id="detectivejam" tvg-name="DetectiveJam" tvg-logo="http://epg.one/img/7901.png" group-title="Кино", DetectiveJam
 #EXTGRP:Кино
-http://88.218.242.237:8000/play/a00a
+http://de.kineskop.club/site2/1807/1009756_a4bf3b5fc60064d2_0_0_fs2.m3u8
 #EXTINF:-1 tvg-id="fanhd" tvg-name="FAN" tvg-logo="http://epg.one/img/2359.png" group-title="Кино", FAN
 #EXTGRP:Кино
 http://130.193.73.10:8937/play/a03w
@@ -1920,7 +1920,7 @@ http://130.193.73.10:8937/play/a02k
 http://158.101.194.132:8080/channel/d178d72/index.m3u8?q=5656d7c7c902657d3491c0330b58ec0e
 #EXTINF:-1 tvg-id="kinojam1" tvg-name="KinoJam 1 HD" tvg-logo="http://epg.one/img/4466.png" group-title="Кино", KinoJam 1 HD
 #EXTGRP:Кино
-http://46.17.41.254:2020/channel/1469cc2d/index.m3u8?q=c9a4efc12540f7d0eb46417ddc618c8b
+http://de.kineskop.club/site2/1189/1009756_8d4ce93dffb25f78_0_0_fs2.m3u8
 #EXTINF:-1 tvg-id="kinojam2" tvg-name="KinoJam 2 HD" tvg-logo="http://epg.one/img/4467.png" group-title="Кино", KinoJam 2 HD
 #EXTGRP:Кино
 http://46.17.41.254:2020/channel/1469cc2e/index.m3u8?q=c9a4efc12540f7d0eb46417ddc618c8b
@@ -1938,7 +1938,7 @@ https://ucdn.beetv.kz/bpk-tv/000007625/tve/index.m3u8
 http://88.218.242.237:8000/play/a004
 #EXTINF:-1 tvg-id="scream" tvg-name="Scream HD" tvg-logo="http://epg.one/img/9069.png" group-title="Кино", Scream HD
 #EXTGRP:Кино
-http://88.218.242.237:8000/play/a00c
+http://live.admuspeh.my/8932/index.m3u8?token=iptv50na50
 #EXTINF:-1 tvg-name="Series TV" tvg-logo="https://avatars.mds.yandex.net/i?id=04d6781ecc0a36ff573e7e5a4e52cae96dca66d9-9149104-images-thumbs&n=13" group-title="Кино", Series TV
 #EXTGRP:Кино
 http://195.9.195.3:8080/hls/186021.m3u8
@@ -1959,7 +1959,7 @@ https://ucdn.beetv.kz/bpk-tv/000007815/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000007818/tve/index.m3u8
 #EXTINF:-1 tvg-id="suspense" tvg-name="Suspense HD" tvg-logo="http://epg.one/img/9180.png" group-title="Кино", Suspense HD
 #EXTGRP:Кино
-http://88.218.242.237:8000/play/a005
+http://live.admuspeh.my/8971/index.m3u8?token=iptv50na50
 #EXTINF:-1 tvg-id="timeless-dizi" tvg-name="Timeless Dizi Channel" tvg-logo="http://epg.one/img/6724.png" group-title="Кино", Timeless Dizi Channel
 #EXTGRP:Кино
 http://194.158.222.36:6086
