@@ -1845,7 +1845,7 @@ https://hls.goodgame.ru/hls/204717.m3u8
 #EXTINF:-1 tvg-name="Akudji TV" tvg-logo="http://epg.one/img/5357.png" group-title="Кино", Akudji TV
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=goodgame
-https://hls.goodgame.ru/hls/5346.m3u8
+
 #EXTINF:-1 tvg-id="amedia1" tvg-name="Amedia 1" tvg-logo="http://epg.one/img/1371.png" group-title="Кино", Amedia 1
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000000710/tve/index.m3u8
@@ -1917,25 +1917,25 @@ http://109.200.130.123:7537/play/a02g
 http://130.193.73.10:8937/play/a02k
 #EXTINF:-1 tvg-name="Horror TV" tvg-logo="http://epg.one/img/8792.png" group-title="Кино", Horror TV
 #EXTGRP:Кино
-http://158.101.194.132:8080/channel/d178d72/index.m3u8?q=5656d7c7c902657d3491c0330b58ec0e
+
 #EXTINF:-1 tvg-id="kinojam1" tvg-name="KinoJam 1 HD" tvg-logo="http://epg.one/img/4466.png" group-title="Кино", KinoJam 1 HD
 #EXTGRP:Кино
 http://de.kineskop.club/site2/1189/1009756_8d4ce93dffb25f78_0_0_fs2.m3u8
 #EXTINF:-1 tvg-id="kinojam2" tvg-name="KinoJam 2 HD" tvg-logo="http://epg.one/img/4467.png" group-title="Кино", KinoJam 2 HD
 #EXTGRP:Кино
-http://46.17.41.254:2020/channel/1469cc2e/index.m3u8?q=c9a4efc12540f7d0eb46417ddc618c8b
+
 #EXTINF:-1 tvg-id="kinoliving" tvg-name="KinoLiving" tvg-logo="http://epg.one/img/9123.png" group-title="Кино", KinoLiving
 #EXTGRP:Кино
 http://109.200.130.123:7537/play/a02k
 #EXTINF:-1 tvg-id="novellatv" tvg-name="Novella TV" tvg-logo="https://iptvx.one/picons/novellatv.png" group-title="Кино", Novella TV
 #EXTGRP:Кино
-http://158.101.194.132:8080/channel/7d3fabec/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
+
 #EXTINF:-1 tvg-id="plan-b" tvg-name="Plan B HD" tvg-logo="http://epg.one/img/6643.png" group-title="Кино", Plan B HD
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000007625/tve/index.m3u8
 #EXTINF:-1 tvg-id="romance" tvg-name="Romance HD" tvg-logo="http://epg.one/img/9179.png" group-title="Кино", Romance HD
 #EXTGRP:Кино
-http://88.218.242.237:8000/play/a004
+
 #EXTINF:-1 tvg-id="scream" tvg-name="Scream HD" tvg-logo="http://epg.one/img/9069.png" group-title="Кино", Scream HD
 #EXTGRP:Кино
 http://live.admuspeh.my/8932/index.m3u8?token=iptv50na50
@@ -1971,7 +1971,7 @@ http://185.23.80.28:8080/TRASH/index.m3u8?token=test
 http://live.admuspeh.my/8962/video.m3u8?token=iptv50na50
 #EXTINF:-1 tvg-id="tv1000-cee" tvg-name="Viasat Kino HD" tvg-logo="http://epg.one/img/8881.png" group-title="Кино", Viasat Kino HD
 #EXTGRP:Кино
-http://158.101.194.132:8080/channel/n1ab22a96/index.m3u8?q=5656d7c7c902657d3491c0330b58ec0e
+
 #EXTINF:-1 tvg-id="vip-comedy-cee" tvg-name="Viasat Kino Comedy HD" tvg-logo="http://epg.one/img/8880.png" group-title="Кино", Viasat Kino Comedy HD
 #EXTGRP:Кино
 http://213.226.137.140:81/tl/l1243/video.m3u8
