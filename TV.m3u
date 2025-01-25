@@ -2988,10 +2988,10 @@ https://59253971be783.streamlock.net/KKTV01/livestream/playlist.m3u8
 https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
 #EXTINF:-1 tvg-name="Kral POP TV HD TR" tvg-logo="https://avatars.mds.yandex.net/i?id=9b890154e1ae0703fa2680caf85409c91bbf2887-12640858-images-thumbs&n=13" group-title="Музыка", Kral POP TV HD TR
 #EXTGRP:Музыка
-http://dygvideo.dygdigital.com/live/hls/kralpop?m3u8
+https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
 #EXTINF:-1 tvg-name="Krone hit HD" tvg-logo="http://epg.one/img/4653.png" group-title="Музыка", Krone hit HD
 #EXTGRP:Музыка
-https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 #EXTINF:-1 tvg-id="m2-ua" tvg-name="M2 HD" tvg-logo="http://epg.one/img/3336.png" group-title="Музыка", M2 HD
 #EXTGRP:Музыка
 http://live.m2.tv/hls3/720/stream.m3u8
