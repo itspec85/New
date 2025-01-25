@@ -1207,7 +1207,7 @@ http://178.219.128.68:64888/DTXHD
 http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="euronews" tvg-name="Euronews Россия" tvg-logo="http://epg.one/img/2266.png" group-title="Познавательные", Euronews Россия
 #EXTGRP:Познавательные
-http://185.37.150.40:8092/Euronews/playlist.m3u8
+http://s83.chas.tv:8081/chas/euronewstv-hq.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="euronews-en" tvg-name="Euronews English" tvg-logo="http://epg.one/img/2266.png" group-title="Познавательные", Euronews English
 #EXTGRP:Познавательные
 https://rakuten-euronews-1-eu.rakuten.wurl.tv/playlist.m3u8
@@ -1291,7 +1291,7 @@ https://ucdn.beetv.kz/bpk-tv/000000034/tve/index.m3u8
 http://stream01.vnet.am/NationalGeographic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ocean-tv" tvg-name="OCEAN-TV" tvg-logo="http://epg.one/img/55.png" group-title="Познавательные", OCEAN-TV
 #EXTGRP:Познавательные
-http://46.17.41.254:2020/channel/6b6eb54c/index.m3u8?q=c9a4efc12540f7d0eb46417ddc618c8b
+http://s1.merlive.am/oceantv/index.m3u8
 #EXTINF:-1 tvg-id="ostwest24" tvg-name="OstWest24" tvg-logo="https://iptvx.one/picons/ostwest24.png" group-title="Познавательные", OstWest24
 #EXTGRP:Познавательные
 http://95.67.12.82:9077
@@ -1324,7 +1324,7 @@ http://195.26.83.96:7007/play/a00n/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000000039/tve/index.m3u8
 #EXTINF:-1 tvg-id="russky-ekstrim" tvg-name="Russian Extreme HD" tvg-logo="http://epg.one/img/4110.png" group-title="Познавательные", Russian Extreme HD
 #EXTGRP:Познавательные
-http://46.17.41.254:2020/channel/n6290c2fc/index.m3u8?q=c9a4efc12540f7d0eb46417ddc618c8b
+http://195.26.83.96:7029/play/a008
 #EXTINF:-1 tvg-id="terra-ru" tvg-name="TERRA" tvg-logo="http://epg.one/img/7632.png" group-title="Познавательные", TERRA
 #EXTGRP:Познавательные
 http://130.193.73.10:8937/play/a01g
