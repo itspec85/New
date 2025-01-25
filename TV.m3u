@@ -2889,7 +2889,7 @@ https://autopilot.catcast.tv/content/37742/index.m3u8
 https://autopilot.catcast.tv/content/37739/index.m3u8
 #EXTINF:-1 tvg-id="muzyka-pervogo" tvg-name="Музыка Первого" tvg-logo="http://epg.one/img/715.png" group-title="Музыка", Музыка Первого
 #EXTGRP:Музыка
-http://185.23.80.28:8080/MuzikaPervogo/index.m3u8?token=test
+http://185.50.148.2:7707/MuzikaPervogo/index.m3u8
 #EXTINF:-1 tvg-id="o2tv" tvg-name="О2 ТВ" tvg-logo="http://epg.one/img/2412.png" group-title="Музыка", О2 ТВ
 #EXTGRP:Музыка
 http://195.26.83.96:7006/play/1/index.m3u8
@@ -2898,7 +2898,7 @@ http://195.26.83.96:7006/play/1/index.m3u8
 http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:-1 tvg-id="onemuz" tvg-name="Первый музыкальный RU" tvg-logo="http://epg.one/img/5364.png" group-title="Музыка", Первый музыкальный RU
 #EXTGRP:Музыка
-http://rtmp.one.by:2300
+https://162.212.179.32/dvrfl05/gin-1muscom/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="radio-strana-fm-tv" tvg-name="Страна FM HD" tvg-logo="http://epg.one/img/5369.png" group-title="Музыка", Страна FM HD
 #EXTGRP:Музыка
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
