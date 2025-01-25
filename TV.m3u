@@ -2784,10 +2784,10 @@ https://ucdn.beetv.kz/bpk-tv/000004499/tve/index.m3u8
 http://158.101.222.193:88/georgia_play.php?id=setanta_sports_plus_georgia
 #EXTINF:-1 tvg-id="setanta-ua" tvg-name="Setanta Sports Ukraine HD" tvg-logo="http://epg.one/img/2370.png" group-title="Спорт", Setanta Sports Ukraine HD
 #EXTGRP:Спорт
-http://158.101.214.187:8080/channel/55bea1f0/index.m3u8?q=443d5edac354972a97f67425879f54e1
+http://91.233.90.125:8080/Setanta_Sport
 #EXTINF:-1 tvg-id="setanta-plus-ua" tvg-name="Setanta Sports + Ukraine HD" tvg-logo="http://epg.one/img/6860.png" group-title="Спорт", Setanta Sports + Ukraine HD
 #EXTGRP:Спорт
-http://158.101.214.187:8080/channel/4eb18fdb/index.m3u8?q=443d5edac354972a97f67425879f54e1
+http://91.233.90.125:8080/Setanta_SportPlus
 #EXTINF:-1 tvg-name="Sky Sport Tennis DE" tvg-logo="https://avatars.mds.yandex.net/get-entity_search/2269087/501040022/S104x104FitScale_2x" group-title="Спорт", Sky Sport Tennis DE
 #EXTGRP:Спорт
 http://184585.ipturk.eu/ozgurozdemir/19051907ok/230406
