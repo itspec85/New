@@ -1614,7 +1614,10 @@ http://stream01.vnet.am/Tiji/mono.m3u8
 http://185.23.80.28:8080/Blockbaster/index.m3u8?token=test
 #EXTINF:-1 tvg-name="Видеокассета VHS" tvg-logo="http://epg.one/img/6005.png" group-title="Кино", Видеокассета VHS
 #EXTGRP:Кино
-http://195.9.195.3:8080/hls/176975.m3u8
+https://132544.edgevideo.ru/streams/132544_806129/1325441080/index.m3u8
+#EXTINF:-1 tvg-name="Видеокассета Киномир" tvg-logo="http://epg.one/img/6005.png" group-title="Кино", Видеокассета Киномир
+#EXTGRP:Кино
+https://132544.edgevideo.ru/streams/132544_847220/1325441080/index.m3u8
 #EXTINF:-1 tvg-name="Восход ТВ" tvg-logo="https://avatars.mds.yandex.net/i?id=50ffadc5995694dc086fd1d3724a6bde0e3d19c2-9599837-images-thumbs&n=13" group-title="Кино", Восход ТВ
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=goodgame
