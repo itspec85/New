@@ -1219,7 +1219,7 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_
 http://213.226.137.140:81/tl/l98/mpegts
 #EXTINF:-1 tvg-id="eda-hd" tvg-name="FoodTime" tvg-logo="http://epg.one/img/7635.png" group-title="Познавательные", FoodTime
 #EXTGRP:Познавательные
-
+http://31.211.77.158:8000/play/a193/index.m3u8
 #EXTINF:-1 tvg-id="fox-news-us" tvg-name="FOX NEWS CHANNEL FHD" tvg-logo="http://epg.one/img/6683.png" group-title="Познавательные", FOX NEWS CHANNEL FHD
 #EXTGRP:Познавательные
 http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
@@ -1809,7 +1809,7 @@ http://46.17.41.254:2020/channel/n62ef5f28/index.m3u8?q=c9a4efc12540f7d0eb46417d
 http://s83.chas.tv:8081/chas/sovkinotv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="strashnoe-hd" tvg-name="Страшное HD" tvg-logo="http://epg.one/img/2857.png" group-title="Кино", Страшное HD
 #EXTGRP:Кино
-
+http://live.admuspeh.my/8198/index.m3u8?token=iptv50na50
 #EXTINF:-1 tvg-id="tvxxi" tvg-name="ТВ 21" tvg-logo="http://epg.one/img/309.png" group-title="Кино", ТВ 21
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000000006/tve/index.m3u8
@@ -1935,7 +1935,7 @@ http://109.200.130.123:7537/play/a02k
 https://ucdn.beetv.kz/bpk-tv/000007625/tve/index.m3u8
 #EXTINF:-1 tvg-id="romance" tvg-name="Romance HD" tvg-logo="http://epg.one/img/9179.png" group-title="Кино", Romance HD
 #EXTGRP:Кино
-
+http://tv.newline.in.ua:9006/play/a00n
 #EXTINF:-1 tvg-id="scream" tvg-name="Scream HD" tvg-logo="http://epg.one/img/9069.png" group-title="Кино", Scream HD
 #EXTGRP:Кино
 http://live.admuspeh.my/8932/index.m3u8?token=iptv50na50
@@ -2628,10 +2628,10 @@ http://213.226.137.140:81/tl/l423/mpegts
 
 #EXTINF:-1 tvg-id="okko-sport" tvg-name="Окко Спорт HD" tvg-logo="http://epg.one/img/7895.png" group-title="Спорт", Окко Спорт HD
 #EXTGRP:Спорт
-
+https://woobl.ru/stream/6554.m3u8
 #EXTINF:-1 tvg-id="okko-football" tvg-name="Окко Футбол HD" tvg-logo="http://epg.one/img/9325.png" group-title="Спорт", Окко Футбол HD
 #EXTGRP:Спорт
-
+https://woobl.ru/stream/20138.m3u8
 #EXTINF:-1 tvg-id="sportivny" tvg-name="Спортивный HD" tvg-logo="http://epg.one/img/4678.png" group-title="Спорт", Спортивный HD
 #EXTGRP:Спорт
 
@@ -2652,7 +2652,7 @@ https://ucdn.beetv.kz/bpk-tv/000007802/tve/index.m3u8
 http://185.23.80.28:8080/Football/index.m3u8?token=test
 #EXTINF:-1 tvg-id="footbolny" tvg-name="Футбольный HD" tvg-logo="http://epg.one/img/4679.png" group-title="Спорт", Футбольный HD
 #EXTGRP:Спорт
-
+http://live.admuspeh.my/8368/index.m3u8?token=iptv50na50
 #EXTINF:-1 tvg-id="xokkejny" tvg-name="Хоккейный HD" tvg-logo="http://epg.one/img/4605.png" group-title="Спорт", Хоккейный HD
 #EXTGRP:Спорт
 http://live.admuspeh.my/8367/index.m3u8?token=iptv50na50
@@ -2829,10 +2829,10 @@ https://d3qg0hadt0dkov.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da
 http://95.67.12.82:9067
 #EXTINF:-1 tvg-id="trt-3-hd" tvg-name="TRT Spor" tvg-logo="http://epg.one/img/6525.png" group-title="Спорт", TRT Spor
 #EXTGRP:Спорт
-
+https://tgn.bozztv.com/dvrfl05/gin-trtspor/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="TRT Spor Yıldız HD TR" tvg-logo="https://avatars.mds.yandex.net/i?id=77533306975b478f6c6a55552905c4e548954d99-4387356-images-thumbs&n=13" group-title="Спорт", TRT Spor Yıldız HD TR
 #EXTGRP:Спорт
-
+https://tgn.bozztv.com/dvrfl05/gin-trtspor2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Türkmenistan Sport" tvg-logo="https://avatars.mds.yandex.net/i?id=da678a9d544adb3ed0e3fe916af1b74d_l-5288772-images-thumbs&n=13" group-title="Спорт", Türkmenistan Sport
 #EXTGRP:Спорт
 http://217.174.225.146/hls/ch004_720/index.m3u8
