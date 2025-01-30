@@ -1,5 +1,5 @@
 
-#EXTM3U url-tvg="https://iptvx.one/EPG_NOARCH"
+#EXTM3U url-tvg="https://iptvx.one/EPG_LITE"
 #EXTINF:-1 tvg-id="domashny" tvg-shift="+1" tvg-name="Домашний -1" tvg-logo="http://epg.one/img/304.png" group-title="Россия", Домашний -1
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
