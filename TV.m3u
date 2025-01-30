@@ -4598,10 +4598,10 @@ https://live.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
 https://dogus-live.daioncdn.net/tlc/tlc.m3u8
 #EXTINF:-1 tvg-id="trt-1-hd" tvg-name="TRT 1 HD" tvg-logo="http://epg.one/img/2598.png" group-title="Турция", TRT 1 HD
 #EXTGRP:Турция
-https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:BB:EE:72&stream=2837&extension=ts
 #EXTINF:-1 tvg-name="TRT 2 HD" tvg-logo="http://epg.one/img/3939.png" group-title="Турция", TRT 2 HD
 #EXTGRP:Турция
-https://hw1.jemtv.com/app/trt2/chunks.m3u8
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:BB:EE:72&stream=29026&extension=ts
 #EXTINF:-1 tvg-id="trt-avaz" tvg-name="TRT AVAZ" tvg-logo="http://epg.one/img/3858.png" group-title="Турция", TRT AVAZ
 #EXTGRP:Турция
 http://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
