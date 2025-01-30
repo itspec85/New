@@ -898,7 +898,7 @@ http://185.23.80.28:8080/Eda/index.m3u8?token=test
 http://195.18.23.20:8000/play/10/index.m3u8
 #EXTINF:-1 tvg-id="zhivi-aktivno" tvg-name="Живи Активно HD" tvg-logo="http://epg.one/img/5881.png" group-title="Познавательные", Живи Активно HD
 #EXTGRP:Познавательные
-
+https://flussonic.salomtv.uz/JiviaktivnoHD/video.m3u8
 #EXTINF:-1 tvg-id="zagorodnaya-zhizn" tvg-name="Загородная Жизнь" tvg-logo="http://epg.one/img/2298.png" group-title="Познавательные", Загородная Жизнь
 #EXTGRP:Познавательные
 http://flu.ttk.mx:90/zagorodnaya_zhizn/mono.m3u8?token=hs06e
@@ -1530,7 +1530,7 @@ http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 http://stv.mediacdn.ru/live/cdn/ani/playlist_sdhigher.m3u8
 #EXTINF:-1 tvg-id="animekids" tvg-name="Anime Kids HD" tvg-logo="http://epg.one/img/7874.png" group-title="Детские", Anime Kids HD
 #EXTGRP:Детские
-
+http://46.17.41.254:2020/channel/44b4dc19/index.m3u8?q=c9a4efc12540f7d0eb46417ddc618c8b
 #EXTINF:-1 tvg-id="balapan" tvg-name="Balapan" tvg-logo="https://iptvx.one/picons/balapan.png" group-title="Детские", Balapan
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000005178/tve/index.m3u8
@@ -1567,9 +1567,6 @@ https://fl5.moveonjoy.com/NICK_JR/index.m3u8
 #EXTINF:-1 tvg-id="nickelodeon-ru" tvg-name="Nickelodeon" tvg-logo="http://epg.one/img/423.png" group-title="Детские", Nickelodeon
 #EXTGRP:Детские
 http://stream01.vnet.am/Channel_114/mono.m3u8
-#EXTINF:-1 tvg-name="Nickelodeon CA" tvg-logo="http://epg.one/img/3646.png" group-title="Детские", Nickelodeon CA
-#EXTGRP:Детские
-
 #EXTINF:-1 tvg-id="nicktoons" tvg-name="NickToons" tvg-logo="http://epg.one/img/2994.png" group-title="Детские", NickToons
 #EXTGRP:Детские
 http://stream01.vnet.am/Boomerang/mono.m3u8
@@ -1608,7 +1605,7 @@ https://fs2.persik.by/Sunduchok4/index.m3u8
 http://stream01.vnet.am/Tiji/mono.m3u8
 #EXTINF:-1 tvg-id="4k-ruskino" tvg-name="4К Русское кино" tvg-logo="https://iptvx.one/picons/4k-ruskino.png" group-title="Кино", 4К Русское кино
 #EXTGRP:Кино
-
+http://158.101.211.157:2020/channel/30e32928/index.m3u8?q=134640b703359cff844da68d4c02e763
 #EXTINF:-1 tvg-id="blokbaster-hd" tvg-name="Блокбастер HD" tvg-logo="http://epg.one/img/2832.png" group-title="Кино", Блокбастер HD
 #EXTGRP:Кино
 http://185.23.80.28:8080/Blockbaster/index.m3u8?token=test
@@ -1848,7 +1845,7 @@ https://hls.goodgame.ru/hls/204717.m3u8
 #EXTINF:-1 tvg-name="Akudji TV" tvg-logo="http://epg.one/img/5357.png" group-title="Кино", Akudji TV
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=goodgame
-
+https://hls.goodgame.ru/hls/5346.m3u8
 #EXTINF:-1 tvg-id="amedia1" tvg-name="Amedia 1" tvg-logo="http://epg.one/img/1371.png" group-title="Кино", Amedia 1
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000000710/tve/index.m3u8
@@ -1920,7 +1917,7 @@ http://109.200.130.123:7537/play/a02g
 http://130.193.73.10:8937/play/a02k
 #EXTINF:-1 tvg-name="Horror TV" tvg-logo="http://epg.one/img/8792.png" group-title="Кино", Horror TV
 #EXTGRP:Кино
-
+http://46.17.41.254:2020/channel/760fab38/index.m3u8?q=c9a4efc12540f7d0eb46417ddc618c8b
 #EXTINF:-1 tvg-id="kinojam1" tvg-name="KinoJam 1 HD" tvg-logo="http://epg.one/img/4466.png" group-title="Кино", KinoJam 1 HD
 #EXTGRP:Кино
 http://de.kineskop.club/site2/1189/1009756_8d4ce93dffb25f78_0_0_fs2.m3u8
