@@ -776,7 +776,7 @@ https://ucdn.beetv.kz/bpk-tv/000008944/tve/index.m3u8
 #EXTINF:-1 tvg-id="taraz24-kz" tvg-name="Тараз 24" tvg-logo="https://iptvx.one/picons/taraz24-kz.png" group-title="Казахстан", Тараз 24
 #EXTGRP:Казахстан
 https://ucdn.beetv.kz/bpk-tv/000007838/tve/index.m3u8
-#EXTINF:-1 tvg-name="ТВК 6" tvg-logo="https://avatars.mds.yandex.net/i?id=21b52ae0fa9957f7ad5d535b48b8398223a09135-8496825-images-thumbs&n=13" group-title="Казахстан", ТВК 6
+#EXTINF:-1 tvg-name="ТВК 6" tvg-logo="https://avatars.mds.yandex.net/i?id=21b52ae0fa9957f7ad5d535b48b839820ecb86f5-5569020-images-thumbs&n=13" group-title="Казахстан", ТВК 6
 #EXTGRP:Казахстан
 https://ucdn.beetv.kz/bpk-tv/000001516/tve/index.m3u8
 #EXTINF:-1 tvg-id="tvoyo-tv-kz" tvg-name="Твоё ТВ Казахстан" tvg-logo="https://iptvx.one/picons/tvoyo-tv-kz.png" group-title="Казахстан", Твоё ТВ Казахстан
@@ -4347,7 +4347,7 @@ https://tv208.radyotelekom.com.tr:3706/hybrid/play.m3u8
 #EXTINF:-1 tvg-name="Mega TV Sinema" tvg-logo="https://avatars.mds.yandex.net/i?id=820c6c193d900366b0caab04df0fe57db49acb1b-9657256-images-thumbs&n=13" group-title="Азербайджан", Mega TV Sinema
 #EXTGRP:Азербайджан
 https://tv208.radyotelekom.com.tr/p/3580/hybrid/play.m3u8
-#EXTINF:-1 tvg-name="Mədəniyyət TV" tvg-logo="https://avatars.mds.yandex.net/i?id=5379315229075eaec4c8105d5b54201106950f30-9220156-images-thumbs&n=13" group-title="Азербайджан", Mədəniyyət TV
+#EXTINF:-1 tvg-name="Mədəniyyət TV" tvg-logo="http://epg.one/img/2557.png" group-title="Азербайджан", Mədəniyyət TV
 #EXTGRP:Азербайджан
 https://str.yodacdn.net/medeniyyet/index.m3u8
 #EXTINF:-1 tvg-name="MovieMax Azərbaycan" tvg-logo="https://avatars.mds.yandex.net/i?id=1dd135f00778dcbf4009cf5ddbb855c0fe06ac1c-4356535-images-thumbs&n=13" group-title="Азербайджан", MovieMax Azərbaycan
@@ -4773,7 +4773,7 @@ https://avers.pp.ua/hls/efir.m3u8
 #EXTINF:-1 tvg-id="apostrof" tvg-name="Апостроф TV" tvg-logo="http://epg.one/img/3290.png" group-title="Украина", Апостроф TV
 #EXTGRP:Украина
 http://cdn1.live-tv.od.ua:8081/dumska/dumska720p/playlist.m3u8
-#EXTINF:-1 tvg-name="Балта ТВ" tvg-logo="https://avatars.mds.yandex.net/i?id=631e1cb78341179035782c3dddc4e60bbe79c018-9294167-images-thumbs&n=13" group-title="Украина", Балта ТВ
+#EXTINF:-1 tvg-name="Балта ТВ" tvg-logo="https://avatars.mds.yandex.net/i?id=64754581c4ae415f4859c0edf1509fa9_sr-4825035-images-thumbs&n=13" group-title="Украина", Балта ТВ
 #EXTGRP:Украина
 http://194.50.51.34/playlist.m3u8
 #EXTINF:-1 tvg-name="ГIТ" tvg-logo="https://avatars.mds.yandex.net/get-socsnippets/7132265/2a0000018e1707bcb8e2d68ab086d6b595f5/square_216" group-title="Украина", ГIТ
