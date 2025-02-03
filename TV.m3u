@@ -1,6 +1,6 @@
 
 #EXTM3U url-tvg="https://iptvx.one/EPG_LITE"
-#EXTINF:-1 tvg-id="304" tvg-shift="+1" tvg-name="Домашний -1" tvg-logo="http://epg.one/img/304.png" group-title="Россия", Домашний -1
+#EXTINF:-1 tvg-id="domashny" tvg-shift="+1" tvg-name="Домашний -1" tvg-logo="http://epg.one/img/304.png" group-title="Россия", Домашний -1
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://dmi3y-tv.ru/hls/DVB-T2/CH_DOMASHNIY-1.m3u8
@@ -8,7 +8,7 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_DOMASHNIY-1.m3u8
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://dmi3y-tv.ru/hls/DVB-T2/CH_DOMASHNIY.m3u8
-#EXTINF:-1 tvg-id="304" tvg-name="Домашний (резерв)" tvg-logo="http://epg.one/img/304.png" group-title="Россия", Домашний (резерв)
+#EXTINF:-1 tvg-id="domashny" tvg-name="Домашний (резерв)" tvg-logo="http://epg.one/img/304.png" group-title="Россия", Домашний (резерв)
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://s18209.cdn.ngenix.net/hls/CH_R04_DOMASHNY/playlist.m3u8?version=2
