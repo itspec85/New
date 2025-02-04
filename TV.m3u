@@ -1762,7 +1762,7 @@ https://ucdn.beetv.kz/bpk-tv/000000078/tve/index.m3u8
 #EXTINF:-1 tvg-id="ntv-serial" tvg-name="НТВ Сериал" tvg-logo="http://epg.one/img/1754.png" group-title="Кино", НТВ Сериал
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=ntv
-http://cdn2.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
+http://cdn.ntv.ru/th_serial/mono.m3u8
 #EXTINF:-1 tvg-id="ntv-xit" tvg-name="НТВ Хит" tvg-logo="http://epg.one/img/2041.png" group-title="Кино", НТВ Хит
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=ntv
