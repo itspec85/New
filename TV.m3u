@@ -1007,11 +1007,11 @@ http://178.124.152.238:8088/nostalgia
 #EXTINF:-1 tvg-id="ntv-pravo" tvg-name="НТВ Право" tvg-logo="http://epg.one/img/1753.png" group-title="Познавательные", НТВ Право
 #EXTGRP:Познавательные
 #EXTVLCOPT:http-user-agent=ntv
-http://cdn2.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
+http://cdn.ntv.ru/th_pravo/mono.m3u8
 #EXTINF:-1 tvg-id="ntv-style" tvg-name="НТВ Стиль" tvg-logo="http://epg.one/img/1755.png" group-title="Познавательные", НТВ Стиль
 #EXTGRP:Познавательные
 #EXTVLCOPT:http-user-agent=ntv
-http://cdn2.ntv.ru/th_style/tracks-v1a1/mono.m3u8
+http://cdn.ntv.ru/th_style/mono.m3u8
 #EXTINF:-1 tvg-name="Общественная Служба Новостей HD" tvg-logo="http://epg.one/img/6744.png" group-title="Познавательные", Общественная Служба Новостей HD
 #EXTGRP:Познавательные
 https://osnmedia.servicecdn.ru/streams/17603_88089/720n/index.m3u8
@@ -1766,7 +1766,7 @@ http://cdn.ntv.ru/th_serial/mono.m3u8
 #EXTINF:-1 tvg-id="ntv-xit" tvg-name="НТВ Хит" tvg-logo="http://epg.one/img/2041.png" group-title="Кино", НТВ Хит
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=ntv
-http://cdn2.ntv.ru/th_hit/tracks-v1a1/mono.m3u8
+http://cdn.ntv.ru/th_hit/mono.m3u8
 #EXTINF:-1 tvg-id="ostrosiuzhetnoe-hd" tvg-name="Остросюжетное HD" tvg-logo="http://epg.one/img/1588.png" group-title="Кино", Остросюжетное HD
 #EXTGRP:Кино
 http://live.admuspeh.my/8184/index.m3u8?token=iptv50na50
