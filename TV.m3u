@@ -1226,7 +1226,7 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_
 http://213.226.137.140:81/tl/l98/mpegts
 #EXTINF:-1 tvg-id="eda-hd" tvg-name="FoodTime" tvg-logo="http://epg.one/img/7635.png" group-title="Познавательные", FoodTime
 #EXTGRP:Познавательные
-http://31.211.77.158:8000/play/a193/index.m3u8
+
 #EXTINF:-1 tvg-id="fox-news-us" tvg-name="FOX NEWS CHANNEL FHD" tvg-logo="http://epg.one/img/6683.png" group-title="Познавательные", FOX NEWS CHANNEL FHD
 #EXTGRP:Познавательные
 http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
@@ -1259,7 +1259,7 @@ http://65.21.85.175:8000/play/a01s/index.m3u8?token=livetv
 https://ucdn.beetv.kz/bpk-tv/000002722/tve/index.m3u8
 #EXTINF:-1 tvg-id="h2" tvg-name="History2 (резерв)" tvg-logo="http://epg.one/img/2356.png" group-title="Познавательные", History2 (резерв)
 #EXTGRP:Познавательные
-https://woobl.ru/stream/2033.m3u8
+
 #EXTINF:-1 tvg-id="id-xtra-eu" tvg-name="Investigation Discovery" tvg-logo="http://epg.one/img/2507.png" group-title="Познавательные", Investigation Discovery
 #EXTGRP:Познавательные
 http://45.159.74.14:80/InvestigationDiscovery/tracks-v1a2/mono.m3u8
