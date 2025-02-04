@@ -994,6 +994,7 @@ http://178.124.152.238:8088/nauka
 https://ucdn.beetv.kz/bpk-tv/000003785/tve/index.m3u8
 #EXTINF:-1 tvg-id="neizvestnaya-rosia" tvg-name="Неизвестная Россия HD" tvg-logo="http://epg.one/img/9015.png" group-title="Познавательные", Неизвестная Россия HD
 #EXTGRP:Познавательные
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="nowy-igrowoj" tvg-name="Новый игровой канал" tvg-logo="https://iptvx.one/picons/nowy-igrowoj.png" group-title="Познавательные", Новый игровой канал
 #EXTGRP:Познавательные
