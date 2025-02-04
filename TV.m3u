@@ -853,13 +853,13 @@ https://5d23269b3ec0c.streamlock.net/WEB_Vera24/Vera24.stream/playlist.m3u8
 https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="voprosy-i-otvety" tvg-name="Вопросы и ответы" tvg-logo="http://epg.one/img/2451.png" group-title="Познавательные", Вопросы и ответы
 #EXTGRP:Познавательные
-https://wowza4.leisertv.com/live/voprosyiotvety.stream/playlist.m3u8
+http://91.207.115.228:5000/c178
 #EXTINF:-1 tvg-id="vremia" tvg-name="Время" tvg-logo="http://epg.one/img/669.png" group-title="Познавательные", Время
 #EXTGRP:Познавательные
 http://130.193.73.10:8937/play/a03p
 #EXTINF:-1 tvg-id="glazami-turista" tvg-name="Глазами туриста HD" tvg-logo="http://epg.one/img/2508.png" group-title="Познавательные", Глазами туриста HD
 #EXTGRP:Познавательные
-http://91.205.199.3/glazamituristahd/index.m3u8
+http://tv.newline.in.ua:9022/play/c009
 #EXTINF:-1 tvg-id="dialogi-o-rybalke" tvg-name="Диалоги о рыбалке" tvg-logo="http://epg.one/img/2627.png" group-title="Познавательные", Диалоги о рыбалке
 #EXTGRP:Познавательные
 http://130.193.73.10:8937/play/a04q
@@ -952,7 +952,7 @@ https://live-3.otcnet.ru/congresstv-multi/index.m3u8
 https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="kto-est-kto" tvg-name="Кто есть кто" tvg-logo="http://epg.one/img/2456.png" group-title="Познавательные", Кто есть кто
 #EXTGRP:Познавательные
-https://wowza4.leisertv.com/live/ktoyestkto.stream/playlist.m3u8
+http://tv.newline.in.ua:9000/play/f08a
 #EXTINF:-1 tvg-id="mir-uvlecheniy" tvg-name="Кто куда" tvg-logo="http://epg.one/img/2467.png" group-title="Познавательные", Кто куда
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000001377/tve/index.m3u8
@@ -973,7 +973,7 @@ https://fl1001.bozztv.com/ushba3/tracks-v1a1/mono.m3u8
 http://tv.streams.baikal-telecom.net:8080/MoyaPlanetaHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="morskoy" tvg-name="Моя Стихия" tvg-logo="http://epg.one/img/2028.png" group-title="Познавательные", Моя Стихия
 #EXTGRP:Познавательные
-http://130.193.73.10:8937/play/a02f
+http://109.200.130.123:7537/play/a02f
 #EXTINF:-1 tvg-id="muzhskoy" tvg-name="Мужской" tvg-logo="http://epg.one/img/2444.png" group-title="Познавательные", Мужской
 #EXTGRP:Познавательные
 http://195.26.83.96:7007/play/11/index.m3u8
