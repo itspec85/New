@@ -1553,7 +1553,7 @@ https://ucdn.beetv.kz/bpk-tv/000005178/tve/index.m3u8
 
 #EXTINF:-1 tvg-id="cartoon-network" tvg-name="Cartoon Network" tvg-logo="http://epg.one/img/601.png" group-title="Детские", Cartoon Network
 #EXTGRP:Детские
-http://stream01.vnet.am/Kinosemya/tracks-v1a1/mono.m3u8
+http://65.21.85.175:8000/play/a00i/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="boomerang" tvg-name="Cartoonito" tvg-logo="http://epg.one/img/929.png" group-title="Детские", Cartoonito
 #EXTGRP:Детские
 http://stream01.vnet.am/Channel_120/mono.m3u8
