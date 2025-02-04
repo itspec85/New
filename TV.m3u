@@ -14,6 +14,7 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_DOMASHNIY.m3u8
 http://s18209.cdn.ngenix.net/hls/CH_R04_DOMASHNY/playlist.m3u8?version=2
 #EXTINF:-1 tvg-id="domashny" tvg-name="Домашний HD" tvg-logo="http://epg.one/img/304.png" group-title="Россия", Домашний HD
 #EXTGRP:Россия
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://s83.chas.tv:8081/chas/domashniy-hq.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="domashny-pl2" tvg-name="Домашний +2" tvg-logo="http://epg.one/img/3010.png" group-title="Россия", Домашний +2
 #EXTGRP:Россия
