@@ -2625,10 +2625,10 @@ http://flu.ttk.mx:90/Football_3HD/mono.m3u8?token=hs06e
 http://213.226.137.140:81/tl/l423/mpegts
 #EXTINF:-1 tvg-id="okko-sport" tvg-name="Окко Спорт HD" tvg-logo="http://epg.one/img/7895.png" group-title="Спорт", Окко Спорт HD
 #EXTGRP:Спорт
-https://woobl.ru/stream/6554.m3u8
+
 #EXTINF:-1 tvg-id="okko-football" tvg-name="Окко Футбол HD" tvg-logo="http://epg.one/img/9325.png" group-title="Спорт", Окко Футбол HD
 #EXTGRP:Спорт
-https://woobl.ru/stream/20138.m3u8
+
 #EXTINF:-1 tvg-id="start" tvg-name="Старт HD" tvg-logo="http://epg.one/img/2530.png" group-title="Спорт", Старт HD
 #EXTGRP:Спорт
 http://185.23.80.28:8080/START/index.m3u8?token=test
@@ -3462,7 +3462,7 @@ http://stream01.bgu.ru:8081/1/1/playlist.m3u8
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://dmi3y-tv.ru/hls/zabava/region/IVAN/CH_BARS.m3u8
-#EXTINF:-1 tvg-name="Батайск ТВ" group-title="Региональные РФ", Батайск ТВ
+#EXTINF:-1 tvg-name="Батайск ТВ" tvg-logo="https://pic.rutubelist.ru/user/28/7d/287d7a2d1840f856ab6ea33729999846.jpg" group-title="Региональные РФ", Батайск ТВ
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R02_BATAYSK/variant.m3u8
