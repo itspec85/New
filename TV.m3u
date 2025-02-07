@@ -558,7 +558,8 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8?version=2&offset=-
 http://213.226.137.140:81/tl/l63/mpegts
 #EXTINF:-1 tvg-id="tnt4" tvg-name="ТНТ4 HD" tvg-logo="http://epg.one/img/1649.png" group-title="Россия", ТНТ4 HD
 #EXTGRP:Россия
-https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/comedytv-hq.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="tnt4-pl2" tvg-name="ТНТ4 +2" tvg-logo="http://epg.one/img/7978.png" group-title="Россия", ТНТ4 +2
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
