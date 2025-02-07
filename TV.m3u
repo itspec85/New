@@ -2624,7 +2624,10 @@ http://flu.ttk.mx:90/Football_3HD/mono.m3u8?token=hs06e
 http://213.226.137.140:81/tl/l423/mpegts
 #EXTINF:-1 tvg-id="okko-sport" tvg-name="Окко Спорт HD" tvg-logo="http://epg.one/img/7895.png" group-title="Спорт", Окко Спорт HD
 #EXTGRP:Спорт
-
+http://van8dcdi.megogo.xyz/iptv/ZD45AZ38T7NGUT/6554/index.m3u8
+#EXTINF:-1 tvg-id="okko-sport" tvg-name="Окко Спорт HD (резерв)" tvg-logo="http://epg.one/img/7895.png" group-title="Спорт", Окко Спорт HD (резерв)
+#EXTGRP:Спорт
+http://s1putrso.otttv.pw/iptv/2EA55L4SUE4RH4/6554/index.m3u
 #EXTINF:-1 tvg-id="okko-football" tvg-name="Окко Футбол HD" tvg-logo="http://epg.one/img/9325.png" group-title="Спорт", Окко Футбол HD
 #EXTGRP:Спорт
 
