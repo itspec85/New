@@ -2778,6 +2778,9 @@ https://ucdn.beetv.kz/bpk-tv/000006969/tve/index.m3u8
 #EXTINF:-1 tvg-id="kazsport" tvg-name="Qazsport KZ" tvg-logo="http://epg.one/img/7509.png" group-title="Спорт", Qazsport KZ
 #EXTGRP:Спорт
 https://ucdn.beetv.kz/bpk-tv/000003038/tve/index.m3u8
+#EXTINF:-1 tvg-id="qsport-kz" tvg-name="QSport Int HD" tvg-logo="http://epg.one/img/5891.png" group-title="Спорт", QSport Int HD
+#EXTGRP:Спорт
+http://87.99.87.203:2007/channel/56992028/index.m3u8?q=c3588a53af791e8f506ef6c3dcdc8be0
 #EXTINF:-1 tvg-name="Red Bull TV" tvg-logo="http://epg.one/img/6039.png" group-title="Спорт", Red Bull TV
 #EXTGRP:Спорт
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
