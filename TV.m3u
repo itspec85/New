@@ -202,7 +202,8 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_FRIDAY.m3u8
 http://s18209.cdn.ngenix.net/hls/CH_R01_FRIDAY/playlist.m3u8?version=2
 #EXTINF:-1 tvg-id="piatnica" tvg-name="Пятница! HD" tvg-logo="http://epg.one/img/2765.png" group-title="Россия", Пятница! HD
 #EXTGRP:Россия
-http://live.admuspeh.my/8066/index.m3u8?token=iptv50na50
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/pyatnicatv-hq.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="piatnica-pl2" tvg-name="Пятница +2" tvg-logo="http://epg.one/img/3016.png" group-title="Россия", Пятница +2
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
