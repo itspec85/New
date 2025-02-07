@@ -867,13 +867,13 @@ http://tv.newline.in.ua:9022/play/c009
 http://130.193.73.10:8937/play/a04q
 #EXTINF:-1 tvg-id="dikaya-oxota-hd" tvg-name="Дикая охота HD" tvg-logo="http://epg.one/img/2483.png" group-title="Познавательные", Дикая охота HD
 #EXTGRP:Познавательные
-https://ucdn.beetv.kz/bpk-tv/000004609/tve/index.m3u8
+http://185.23.80.28:8080/Dikaya_Ohota/index.m3u8?token=iptv50na50
 #EXTINF:-1 tvg-id="dikaya-oxota-hd" tvg-name="Дикая охота HD (резерв)" tvg-logo="http://epg.one/img/2483.png" group-title="Познавательные", Дикая охота HD (резерв)
 #EXTGRP:Познавательные
 http://stream01.vnet.am/Channel_127/mono.m3u8
 #EXTINF:-1 tvg-id="dikaya-rybalka-hd" tvg-name="Дикая рыбалка HD" tvg-logo="http://epg.one/img/2484.png" group-title="Познавательные", Дикая рыбалка HD
 #EXTGRP:Познавательные
-https://ucdn.beetv.kz/bpk-tv/000004610/tve/index.m3u8
+http://185.23.80.28:8080/Dikaya_Rybalka/index.m3u8?token=iptv50na50
 #EXTINF:-1 tvg-id="dikaya-rybalka-hd" tvg-name="Дикая рыбалка HD (резерв)" tvg-logo="http://epg.one/img/2484.png" group-title="Познавательные", Дикая рыбалка HD (резерв)
 #EXTGRP:Познавательные
 http://stream01.vnet.am/Channel_126/mono.m3u8
