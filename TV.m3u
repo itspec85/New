@@ -915,9 +915,6 @@ http://flu.ttk.mx:90/zagorodnaya_zhizn/mono.m3u8?token=hs06e
 #EXTINF:-1 tvg-id="zagorodny" tvg-name="Загородный" tvg-logo="http://epg.one/img/2463.png" group-title="Познавательные", Загородный
 #EXTGRP:Познавательные
 http://stream01.vnet.am/DTX/mono.m3u8
-#EXTINF:-1 tvg-id="zagorodny-int" tvg-name="Загородный int HD" tvg-logo="http://epg.one/img/2513.png" group-title="Познавательные", Загородный int HD
-#EXTGRP:Познавательные
-https://livetv.mylifeisgood.net.ru/channels/zagorodint.m3u8
 #EXTINF:-1 tvg-id="zal-suda" tvg-name="Зал суда HD" tvg-logo="http://epg.one/img/3550.png" group-title="Познавательные", Зал суда HD
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000006638/tve/index.m3u8
@@ -3727,7 +3724,7 @@ https://live-mordovia24.cdnvideo.ru/mordovia24/streamtr/playlist.m3u8
 http://195.26.83.96:7007/play/a008/index.m3u8
 #EXTINF:-1 tvg-id="doverie" tvg-name="Москва Доверие" tvg-logo="http://epg.one/img/2308.png" group-title="Региональные РФ", Москва Доверие
 #EXTGRP:Региональные РФ
-https://livetv.mylifeisgood.net.ru/channels/moscvadoverie.m3u8
+http://185.23.80.28:8080/MoskvaDoverie/index.m3u8?token=iptv50na50
 #EXTINF:-1 tvg-id="mtv-volgograd" tvg-name="МТВ Волгоград HD" tvg-logo="http://epg.one/img/6401.png" group-title="Региональные РФ", МТВ Волгоград HD
 #EXTGRP:Региональные РФ
 http://hls-volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
