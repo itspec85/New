@@ -496,6 +496,10 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC.m3u8
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://s18209.cdn.ngenix.net/hls/CH_R04_TVC/playlist.m3u8?version=2
+#EXTINF:-1 tvg-id="tvcentr" tvg-name="ТВЦ HD" tvg-logo="http://epg.one/img/649.png" group-title="Россия", ТВЦ HD
+#EXTGRP:Россия
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/tvc-hq.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="tvcentr-pl2" tvg-name="ТВЦ +2" tvg-logo="http://epg.one/img/2038.png" group-title="Россия", ТВЦ +2
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
