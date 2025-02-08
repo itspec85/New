@@ -2462,6 +2462,39 @@ http://cdn.admuspeh.my/8959/index.m3u8?token=iptvshared
 #EXTINF:-1 tvg-id="cineman-vhs" tvg-name="CineMan VHS" tvg-logo="http://epg.one/img/4690.png" group-title="Кинозал ТЕСТ", CineMan VHS
 #EXTGRP:Кинозал ТЕСТ
 http://cdn.admuspeh.my/8807/index.m3u8?token=4gPHp5ZVYqDAR4oz
+
+#EXTINF:-1 tvg-id="minimax-celebrity" tvg-name="MM Celebrity HD" tvg-logo="http://epg.one/img/4690.png" group-title="Кинозал ТЕСТ", MM Celebrity HD
+#EXTGRP:Кинозал ТЕСТ
+http://cdn.admuspeh.my/8991/video.m3u8?token=pE6pxgAtfZdZmnLx
+#EXTINF:-1 tvg-id="minimax-flip" tvg-name="MM Flip UHD" tvg-logo="http://epg.one/img/4690.png" group-title="Кинозал ТЕСТ", MM Flip UHD
+#EXTGRP:Кинозал ТЕСТ
+http://cdn.admuspeh.my/8404/video.m3u8?token=4gPHp5ZVYqDAR4oz
+#EXTINF:-1 tvg-id="minimax-love" tvg-name="MM Love HD" tvg-logo="http://epg.one/img/4690.png" group-title="Кинозал ТЕСТ", MM Love HD
+#EXTGRP:Кинозал ТЕСТ
+http://cdn.admuspeh.my/8328/video.m3u8?token=iptvshared
+#EXTINF:-1 tvg-id="minimax-newfilm1" tvg-name="MM NewFilm 1 HD" tvg-logo="http://epg.one/img/4690.png" group-title="Кинозал ТЕСТ", MM NewFilm 1 HD
+#EXTGRP:Кинозал ТЕСТ
+http://cdn.admuspeh.my/8741/video.m3u8?token=iptvshared
+#EXTINF:-1 tvg-id="minimax-newfilm2" tvg-name="MM NewFilm 2 HD" tvg-logo="http://epg.one/img/4690.png" group-title="Кинозал ТЕСТ", MM NewFilm 2 HD
+#EXTGRP:Кинозал ТЕСТ
+http://cdn.admuspeh.my/8742/video.m3u8?token=4gPHp5ZVYqDAR4oz
+#EXTINF:-1 tvg-id="minimax-newfilm3" tvg-name="MM NewFilm 3 HD" tvg-logo="http://epg.one/img/4690.png" group-title="Кинозал ТЕСТ", MM NewFilm 3 HD
+#EXTGRP:Кинозал ТЕСТ
+http://cdn.admuspeh.my/8743/video.m3u8?token=iptvshared
+#EXTINF:-1 tvg-id="minimax-newfilmru" tvg-name="MM NewFilm RU HD" tvg-logo="http://epg.one/img/4690.png" group-title="Кинозал ТЕСТ", MM NewFilm RU HD
+#EXTGRP:Кинозал ТЕСТ
+http://cdn.admuspeh.my/8706/video.m3u8?token=pE6pxgAtfZdZmnLx
+#EXTINF:-1 tvg-id="minimax-ufo" tvg-name="MM UFO HD" tvg-logo="http://epg.one/img/4690.png" group-title="Кинозал ТЕСТ", MM UFO HD
+#EXTGRP:Кинозал ТЕСТ
+http://cdn.admuspeh.my/8410/video.m3u8?token=4gPHp5ZVYqDAR4oz
+#EXTINF:-1 tvg-id="minimax-ussr-detektiv" tvg-name="MM USSR Детектив HD" tvg-logo="http://epg.one/img/4690.png" group-title="Кинозал ТЕСТ", MM USSR Детектив HD
+#EXTGRP:Кинозал ТЕСТ
+http://cdn.admuspeh.my/8656/video.m3u8?token=iptvshared
+#EXTINF:-1 tvg-id="minimax-ussr-komedija" tvg-name="MM USSR Комедия HD" tvg-logo="http://epg.one/img/4690.png" group-title="Кинозал ТЕСТ", MM USSR Комедия HD
+#EXTGRP:Кинозал ТЕСТ
+http://cdn.admuspeh.my/8744/video.m3u8?token=pE6pxgAtfZdZmnLx
+
+
 #EXTINF:-1 tvg-name="Persik TV Александра Бортич" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Александра Бортич
 #EXTGRP:Кинозал ТЕСТ
 https://fs2.persik.by/Bortich3/index.m3u8
