@@ -3594,6 +3594,9 @@ http://iptv.prosto.tv:7000/ch310/video.m3u8
 #EXTINF:-1 tvg-name="AviaStream" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00549.jpg" group-title="Релакс", AviaStream
 #EXTGRP:Релакс
 http://iptv.prosto.tv:7000/ch306/video.m3u8
+#EXTINF:-1 tvg-id="box-relax" tvg-name="BOX Relax 4K" tvg-logo="http://epg.one/img/6708.png" group-title="Кинозал ТЕСТ", BOX Relax 4K
+#EXTGRP:Кинозал ТЕСТ
+http://cdn.admuspeh.my/8338/video.m3u8?token=iptvshared
 #EXTINF:-1 tvg-id="home-4k" tvg-name="Home 4K" tvg-logo="http://epg.one/img/2745.png" group-title="Релакс", Home 4K
 #EXTGRP:Релакс
 http://hls3.ttv2.space/home_hd/tracks-v1a1/mono.m3u8
