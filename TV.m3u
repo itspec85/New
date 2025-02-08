@@ -1542,6 +1542,9 @@ http://cdn.admuspeh.my/8979/index.m3u8?token=4gPHp5ZVYqDAR4oz
 #EXTINF:-1 tvg-id="bcu-multserial" tvg-name="BCU Multserial HD" tvg-logo="http://epg.one/img/4746.png" group-title="Детские", BCU Multserial HD
 #EXTGRP:Детские
 http://cdn.admuspeh.my/8874/index.m3u8?token=4gPHp5ZVYqDAR4oz
+#EXTINF:-1 tvg-id="box-anime" tvg-name="BOX Anime HD" tvg-logo="http://epg.one/img/6698.png" group-title="Детские", BOX Anime HD
+#EXTGRP:Детские
+http://cdn.admuspeh.my/8984/video.m3u8?token=4gPHp5ZVYqDAR4oz
 #EXTINF:-1 tvg-id="cartoon-network" tvg-name="Cartoon Network" tvg-logo="http://epg.one/img/601.png" group-title="Детские", Cartoon Network
 #EXTGRP:Детские
 http://65.21.85.175:8000/play/a00i/index.m3u8?token=livetv
@@ -2386,9 +2389,6 @@ http://cdn.admuspeh.my/8908/index.m3u8?token=4gPHp5ZVYqDAR4oz
 #EXTINF:-1 tvg-id="box-sssr-4k" tvg-name="BOX СССР 4K" tvg-logo="http://epg.one/img/9300.png" group-title="Кинозал ТЕСТ", BOX СССР 4K
 #EXTGRP:Кинозал ТЕСТ
 http://cdn.admuspeh.my/8445/video.m3u8?token=iptvshared
-#EXTINF:-1 tvg-id="box-anime" tvg-name="BOX Anime HD" tvg-logo="http://epg.one/img/6698.png" group-title="Кинозал ТЕСТ", BOX Anime HD
-#EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8984/video.m3u8?token=4gPHp5ZVYqDAR4oz
 #EXTINF:-1 tvg-id="box-apocalipse" tvg-name="BOX Apocalypse HD" tvg-logo="http://epg.one/img/8768.png" group-title="Кинозал ТЕСТ", BOX Apocalypse HD
 #EXTGRP:Кинозал ТЕСТ
 http://cdn.admuspeh.my/8441/video.m3u8?token=TestuspehTva
