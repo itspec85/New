@@ -1183,6 +1183,24 @@ http://185.50.148.2:7703/BigPlanet/index.m3u8
 #EXTINF:-1 tvg-id="bloomberg" tvg-name="Bloomberg TV USA" tvg-logo="https://avatars.mds.yandex.net/i?id=9bdd7c5b9b6a9fa55348eada7a515346ada82991-12371687-images-thumbs&n=13" group-title="Познавательные", Bloomberg TV USA
 #EXTGRP:Познавательные
 https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
+#EXTINF:-1 tvg-id="box-auttrend" tvg-name="BOX AutoTrend HD" tvg-logo="http://epg.one/img/8818.png" group-title="Познавательные", BOX AutoTrend HD
+#EXTGRP:Познавательные
+http://cdn.admuspeh.my/8440/video.m3u8?token=iptvshared
+#EXTINF:-1 tvg-id="box-docu" tvg-name="BOX Docu HD" tvg-logo="http://epg.one/img/7662.png" group-title="Познавательные", BOX Docu HD
+#EXTGRP:Познавательные
+http://cdn.admuspeh.my/8424/video.m3u8?token=4gPHp5ZVYqDAR4oz
+#EXTINF:-1 tvg-id="box-gurman" tvg-name="BOX Gurman HD" tvg-logo="http://epg.one/img/8817.png" group-title="Познавательные", BOX Gurman HD
+#EXTGRP:Познавательные
+http://cdn.admuspeh.my/8439/video.m3u8?token=iptvshared
+#EXTINF:-1 tvg-id="box-kosmo-4k" tvg-name="BOX Kosmo 4K" tvg-logo="http://epg.one/img/9303.png" group-title="Познавательные", BOX Kosmo 4K
+#EXTGRP:Познавательные
+http://cdn.admuspeh.my/8448/video.m3u8?token=4gPHp5ZVYqDAR4oz
+#EXTINF:-1 tvg-id="box-myday" tvg-name="BOX Mayday HD" tvg-logo="http://epg.one/img/7493.png" group-title="Познавательные", BOX Mayday HD
+#EXTGRP:Познавательные
+http://cdn.admuspeh.my/8434/video.m3u8?token=iptvshared
+#EXTINF:-1 tvg-id="box-travel" tvg-name="BOX Travel HD" tvg-logo="http://epg.one/img/6831.png" group-title="Познавательные", BOX Travel HD
+#EXTGRP:Познавательные
+http://cdn.admuspeh.my/8416/video.m3u8?token=iptvshared
 #EXTINF:-1 tvg-name="Brodilo TV" tvg-logo="https://avatars.mds.yandex.net/i?id=fa094294d6634a98cd6b7c279a88002001815600-5320367-images-thumbs&n=13" group-title="Познавательные", Brodilo TV
 #EXTGRP:Познавательные
 http://brodilo.tv/channel.php
