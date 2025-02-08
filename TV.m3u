@@ -2981,6 +2981,9 @@ http://65.21.85.175:8000/play/a037/index.m3u8?token=livetv
 #EXTINF:-1 tvg-name="Billiard TV" tvg-logo="https://avatars.mds.yandex.net/i?id=b42dfcc65e0421933184166140afd83040f5ba1b-5369205-images-thumbs&n=13" group-title="Спорт", Billiard TV
 #EXTGRP:Спорт
 https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE_Max.m3u8
+#EXTINF:-1 tvg-id="box-sportcast" tvg-name="BOX SportCast HD" tvg-logo="http://epg.one/img/8831.png" group-title="Спорт", BOX SportCast HD
+#EXTGRP:Спорт
+http://cdn.admuspeh.my/8447/video.m3u8?token=4gPHp5ZVYqDAR4oz
 #EXTINF:-1 tvg-id="canal-pl-sport-1" tvg-name="Canal+ Sport PL" tvg-logo="http://epg.one/img/3129.png" group-title="Спорт", Canal+ Sport PL
 #EXTGRP:Спорт
 http://78.130.250.2:8023/play/a02v/index.m3u8
@@ -3272,6 +3275,9 @@ https://atomic.streamnet.ro/academia.m3u8
 #EXTINF:-1 tvg-name="Baraza Music HD" tvg-logo="http://epg.one/img/4651.png" group-title="Музыка", Baraza Music HD
 #EXTGRP:Музыка
 https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8
+#EXTINF:-1 tvg-id="box-music-4k" tvg-name="BOX Music 4K" tvg-logo="http://epg.one/img/6707.png" group-title="Музыка", BOX Music 4K
+#EXTGRP:Музыка
+http://cdn.admuspeh.my/8990/index.m3u8?token=4gPHp5ZVYqDAR4oz
 #EXTINF:-1 tvg-id="bridge-tv" tvg-name="Bridge TV" tvg-logo="http://epg.one/img/151.png" group-title="Музыка", Bridge TV
 #EXTGRP:Музыка
 http://195.26.83.96:7007/play/a00m/index.m3u8
@@ -3612,8 +3618,8 @@ http://iptv.prosto.tv:7000/ch310/video.m3u8
 #EXTINF:-1 tvg-name="AviaStream" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00549.jpg" group-title="Релакс", AviaStream
 #EXTGRP:Релакс
 http://iptv.prosto.tv:7000/ch306/video.m3u8
-#EXTINF:-1 tvg-id="box-relax" tvg-name="BOX Relax 4K" tvg-logo="http://epg.one/img/6708.png" group-title="Кинозал ТЕСТ", BOX Relax 4K
-#EXTGRP:Кинозал ТЕСТ
+#EXTINF:-1 tvg-id="box-relax" tvg-name="BOX Relax 4K" tvg-logo="http://epg.one/img/6708.png" group-title="Релакс", BOX Relax 4K
+#EXTGRP:Релакс
 http://cdn.admuspeh.my/8338/video.m3u8?token=iptvshared
 #EXTINF:-1 tvg-id="home-4k" tvg-name="Home 4K" tvg-logo="http://epg.one/img/2745.png" group-title="Релакс", Home 4K
 #EXTGRP:Релакс
