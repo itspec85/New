@@ -2313,10 +2313,6 @@ http://chiburator.monster:8000/play/0sIsl2R6IcqdDOVRc-xmzd4zk9riYTOL6ehvzzUV4bk/
 #EXTGRP:Кинозал ТЕСТ
 http://chiburator.monster:8000/play/0sIsl2R6IcqdDOVRc-xmzdakY7mXoXXf1QNgL4c1SHI/ts
 
-
-#EXTINF:-1 tvg-id="bcu-premiere" tvg-name="BCU Premiere HD" tvg-logo="http://chiburator.monster:8000/images/.png" group-title="Кинозал ТЕСТ", BCU Premiere HD
-#EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8468/index.m3u8?token=pE6pxgAtfZdZmnLx
 #EXTINF:-1 tvg-id="bcu-kinozal-prem-1" tvg-name="BCU Кинозал Premiere 1 HD" tvg-logo="http://chiburator.monster:8000/images/.png" group-title="Кинозал ТЕСТ", BCU Кинозал Premiere 1 HD
 #EXTGRP:Кинозал ТЕСТ
 http://cdn.admuspeh.my/8873/video.m3u8?token=iptvshared
@@ -2326,33 +2322,39 @@ http://cdn.admuspeh.my/8872/video.m3u8?token=pE6pxgAtfZdZmnLx
 #EXTINF:-1 tvg-id="bcu-kinozal-prem-3" tvg-name="BCU Кинозал Premiere 3 HD" tvg-logo="http://chiburator.monster:8000/images/.png" group-title="Кинозал ТЕСТ", BCU Кинозал Premiere 3 HD
 #EXTGRP:Кинозал ТЕСТ
 http://cdn.admuspeh.my/8883/video.m3u8?token=iptvshared
-#EXTINF:-1 tvg-name="BCU Christmas HD" tvg-logo="http://chiburator.monster:8000/images/.png" group-title="Кинозал ТЕСТ", BCU Christmas HD
+#EXTINF:-1 tvg-id="bcu-svaty" tvg-name="BCU Сваты HD" tvg-logo="http://chiburator.monster:8000/images/.png" group-title="Кинозал ТЕСТ", BCU Сваты HD
 #EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8886/video.m3u8?token=iptvshared
+http://cdn.admuspeh.my/8889/index.m3u8?token=pE6pxgAtfZdZmnLx
 #EXTINF:-1 tvg-id="bcu-sssr" tvg-name="BCU СССР HD" tvg-logo="http://chiburator.monster:8000/images/.png" group-title="Кинозал ТЕСТ", BCU СССР HD
 #EXTGRP:Кинозал ТЕСТ
 http://cdn.admuspeh.my/8875/index.m3u8?token=iptvshared
-#EXTINF:-1 tvg-id="bcu-russia90s" tvg-name="BCU Russia 90s HD" tvg-logo="http://chiburator.monster:8000/images/.png" group-title="Кинозал ТЕСТ", BCU Russia 90s HD
-#EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8980/index.m3u8?token=iptvshared
-#EXTINF:-1 tvg-id="bcu-vhs" tvg-name="BCU VHS HD" tvg-logo="http://chiburator.monster:8000/images/.png" group-title="Кинозал ТЕСТ", BCU VHS HD
-#EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8908/index.m3u8?token=4gPHp5ZVYqDAR4oz
 #EXTINF:-1 tvg-id="bcu-action" tvg-name="BCU Action HD" tvg-logo="http://chiburator.monster:8000/images/.png" group-title="Кинозал ТЕСТ", BCU Action HD
 #EXTGRP:Кинозал ТЕСТ
 http://cdn.admuspeh.my/8876/video.m3u8?token=pE6pxgAtfZdZmnLx
-#EXTINF:-1 tvg-id="bcu-cosmo" tvg-name="BCU Cosmo HD" tvg-logo="http://chiburator.monster:8000/images/.png" group-title="Кинозал ТЕСТ", BCU Cosmo HD
-#EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8975/video.m3u8?token=iptvshared
 #EXTINF:-1 tvg-id="bcu-catastrophe" tvg-name="BCU Catastrophe HD" tvg-logo="http://chiburator.monster:8000/images/.png" group-title="Кинозал ТЕСТ", BCU Catastrophe HD
 #EXTGRP:Кинозал ТЕСТ
 http://cdn.admuspeh.my/8877/index.m3u8?token=4gPHp5ZVYqDAR4oz
 #EXTINF:-1 tvg-id="bcu-charm" tvg-name="BCU Charm HD" tvg-logo="http://chiburator.monster:8000/images/.png" group-title="Кинозал ТЕСТ", BCU Charm HD
 #EXTGRP:Кинозал ТЕСТ
 http://cdn.admuspeh.my/8978/index.m3u8?token=iptvshared
+#EXTINF:-1 tvg-name="BCU Christmas HD" tvg-logo="http://chiburator.monster:8000/images/.png" group-title="Кинозал ТЕСТ", BCU Christmas HD
+#EXTGRP:Кинозал ТЕСТ
+http://cdn.admuspeh.my/8886/video.m3u8?token=iptvshared
+#EXTINF:-1 tvg-id="bcu-cinema" tvg-name="BCU Cinema HD" tvg-logo="http://chiburator.monster:8000/images/.png" group-title="Кинозал ТЕСТ", BCU Cinema HD
+#EXTGRP:Кинозал ТЕСТ
+http://cdn.admuspeh.my/8891/index.m3u8?token=TestuspehTva
+#EXTINF:-1 tvg-id="bcu-cinemaplus" tvg-name="BCU Cinema+ HD" tvg-logo="http://chiburator.monster:8000/images/.png" group-title="Кинозал ТЕСТ", BCU Cinema+ HD
+#EXTGRP:Кинозал ТЕСТ
+http://cdn.admuspeh.my/8892/index.m3u8?token=pE6pxgAtfZdZmnLx
 #EXTINF:-1 tvg-id="bcu-comedy" tvg-name="BCU Comedy HD" tvg-logo="http://chiburator.monster:8000/images/.png" group-title="Кинозал ТЕСТ", BCU Comedy HD
 #EXTGRP:Кинозал ТЕСТ
 http://cdn.admuspeh.my/8878/video.m3u8?token=pE6pxgAtfZdZmnLx
+#EXTINF:-1 tvg-id="bcu-cosmo" tvg-name="BCU Cosmo HD" tvg-logo="http://chiburator.monster:8000/images/.png" group-title="Кинозал ТЕСТ", BCU Cosmo HD
+#EXTGRP:Кинозал ТЕСТ
+http://cdn.admuspeh.my/8975/video.m3u8?token=iptvshared
+#EXTINF:-1 tvg-id="bcu-criminal" tvg-name="BCU Criminal HD" tvg-logo="http://chiburator.monster:8000/images/.png" group-title="Кинозал ТЕСТ", BCU Criminal HD
+#EXTGRP:Кинозал ТЕСТ
+http://cdn.admuspeh.my/8890/index.m3u8?token=iptvshared
 #EXTINF:-1 tvg-id="bcu-fantastic" tvg-name="BCU Fantastic HD" tvg-logo="http://chiburator.monster:8000/images/.png" group-title="Кинозал ТЕСТ", BCU Fantastic HD
 #EXTGRP:Кинозал ТЕСТ
 http://cdn.admuspeh.my/8879/video.m3u8?token=iptvshared
@@ -2362,46 +2364,42 @@ http://cdn.admuspeh.my/8880/video.m3u8?token=pE6pxgAtfZdZmnLx
 #EXTINF:-1 tvg-id="bcu-history" tvg-name="BCU History HD" tvg-logo="http://chiburator.monster:8000/images/.png" group-title="Кинозал ТЕСТ", BCU History HD
 #EXTGRP:Кинозал ТЕСТ
 http://cdn.admuspeh.my/8881/index.m3u8?token=pE6pxgAtfZdZmnLx
-#EXTINF:-1 tvg-id="bcu-reality" tvg-name="BCU Reality HD" tvg-logo="http://chiburator.monster:8000/images/.png" group-title="Кинозал ТЕСТ", BCU Reality HD
-#EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8910/video.m3u8?token=4gPHp5ZVYqDAR4oz
-#EXTINF:-1 tvg-id="bcu-marvel" tvg-name="BCU Marvel HD" tvg-logo="http://chiburator.monster:8000/images/.png" group-title="Кинозал ТЕСТ", BCU Marvel HD
-#EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8882/video.m3u8?token=iptvshared
-#EXTINF:-1 tvg-id="bcu-romantic" tvg-name="BCU Romantic HD" tvg-logo="http://chiburator.monster:8000/images/.png" group-title="Кинозал ТЕСТ", BCU Romantic HD
-#EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8884/video.m3u8?token=pE6pxgAtfZdZmnLx
-#EXTINF:-1 tvg-id="bcu-stars" tvg-name="BCU Stars HD" tvg-logo="http://chiburator.monster:8000/images/.png" group-title="Кинозал ТЕСТ", BCU Stars HD
-#EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8885/index.m3u8?token=iptvshared
-#EXTINF:-1 tvg-id="bcu-ruserial" tvg-name="BCU RUSerial HD" tvg-logo="http://chiburator.monster:8000/images/.png" group-title="Кинозал ТЕСТ", BCU RUSerial HD
-#EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8888/index.m3u8?token=iptvshared
-#EXTINF:-1 tvg-id="bcu-russian" tvg-name="BCU Russian HD" tvg-logo="http://chiburator.monster:8000/images/.png" group-title="Кинозал ТЕСТ", BCU Russian HD
-#EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8457/index.m3u8?token=4gPHp5ZVYqDAR4oz
-#EXTINF:-1 tvg-id="bcu-svaty" tvg-name="BCU Сваты HD" tvg-logo="http://chiburator.monster:8000/images/.png" group-title="Кинозал ТЕСТ", BCU Сваты HD
-#EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8889/index.m3u8?token=pE6pxgAtfZdZmnLx
-#EXTINF:-1 tvg-id="bcu-criminal" tvg-name="BCU Criminal HD" tvg-logo="http://chiburator.monster:8000/images/.png" group-title="Кинозал ТЕСТ", BCU Criminal HD
-#EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8890/index.m3u8?token=iptvshared
-#EXTINF:-1 tvg-id="bcu-cinema" tvg-name="BCU Cinema HD" tvg-logo="http://chiburator.monster:8000/images/.png" group-title="Кинозал ТЕСТ", BCU Cinema HD
-#EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8891/index.m3u8?token=TestuspehTva
-#EXTINF:-1 tvg-id="bcu-cinemaplus" tvg-name="BCU Cinema+ HD" tvg-logo="http://chiburator.monster:8000/images/.png" group-title="Кинозал ТЕСТ", BCU Cinema+ HD
-#EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8892/index.m3u8?token=pE6pxgAtfZdZmnLx
 #EXTINF:-1 tvg-id="bcu-kinorating" tvg-name="BCU Kinorating HD" tvg-logo="http://chiburator.monster:8000/images/.png" group-title="Кинозал ТЕСТ", BCU Kinorating HD
 #EXTGRP:Кинозал ТЕСТ
 http://cdn.admuspeh.my/8455/index.m3u8?token=pE6pxgAtfZdZmnLx
+#EXTINF:-1 tvg-id="bcu-marvel" tvg-name="BCU Marvel HD" tvg-logo="http://chiburator.monster:8000/images/.png" group-title="Кинозал ТЕСТ", BCU Marvel HD
+#EXTGRP:Кинозал ТЕСТ
+http://cdn.admuspeh.my/8882/video.m3u8?token=iptvshared
+#EXTINF:-1 tvg-id="bcu-premiere" tvg-name="BCU Premiere HD" tvg-logo="http://chiburator.monster:8000/images/.png" group-title="Кинозал ТЕСТ", BCU Premiere HD
+#EXTGRP:Кинозал ТЕСТ
+http://cdn.admuspeh.my/8468/index.m3u8?token=pE6pxgAtfZdZmnLx
+#EXTINF:-1 tvg-id="bcu-reality" tvg-name="BCU Reality HD" tvg-logo="http://chiburator.monster:8000/images/.png" group-title="Кинозал ТЕСТ", BCU Reality HD
+#EXTGRP:Кинозал ТЕСТ
+http://cdn.admuspeh.my/8910/video.m3u8?token=4gPHp5ZVYqDAR4oz
+#EXTINF:-1 tvg-id="bcu-romantic" tvg-name="BCU Romantic HD" tvg-logo="http://chiburator.monster:8000/images/.png" group-title="Кинозал ТЕСТ", BCU Romantic HD
+#EXTGRP:Кинозал ТЕСТ
+http://cdn.admuspeh.my/8884/video.m3u8?token=pE6pxgAtfZdZmnLx
+#EXTINF:-1 tvg-id="bcu-ruserial" tvg-name="BCU RUSerial HD" tvg-logo="http://chiburator.monster:8000/images/.png" group-title="Кинозал ТЕСТ", BCU RUSerial HD
+#EXTGRP:Кинозал ТЕСТ
+http://cdn.admuspeh.my/8888/index.m3u8?token=iptvshared
+#EXTINF:-1 tvg-id="bcu-russia90s" tvg-name="BCU Russia 90s HD" tvg-logo="http://chiburator.monster:8000/images/.png" group-title="Кинозал ТЕСТ", BCU Russia 90s HD
+#EXTGRP:Кинозал ТЕСТ
+http://cdn.admuspeh.my/8980/index.m3u8?token=iptvshared
+#EXTINF:-1 tvg-id="bcu-russian" tvg-name="BCU Russian HD" tvg-logo="http://chiburator.monster:8000/images/.png" group-title="Кинозал ТЕСТ", BCU Russian HD
+#EXTGRP:Кинозал ТЕСТ
+http://cdn.admuspeh.my/8457/index.m3u8?token=4gPHp5ZVYqDAR4oz
+#EXTINF:-1 tvg-id="bcu-stars" tvg-name="BCU Stars HD" tvg-logo="http://chiburator.monster:8000/images/.png" group-title="Кинозал ТЕСТ", BCU Stars HD
+#EXTGRP:Кинозал ТЕСТ
+http://cdn.admuspeh.my/8885/index.m3u8?token=iptvshared
 #EXTINF:-1 tvg-id="bcu-survival" tvg-name="BCU Survival HD" tvg-logo="http://chiburator.monster:8000/images/.png" group-title="Кинозал ТЕСТ", BCU Survival HD
 #EXTGRP:Кинозал ТЕСТ
 http://cdn.admuspeh.my/8912/video.m3u8?token=TestuspehTva
 #EXTINF:-1 tvg-id="bcu-trumotion" tvg-name="BCU TruMotion HD" tvg-logo="http://chiburator.monster:8000/images/.png" group-title="Кинозал ТЕСТ", BCU TruMotion HD
 #EXTGRP:Кинозал ТЕСТ
 http://cdn.admuspeh.my/8977/video.m3u8?token=iptvshared
-
+#EXTINF:-1 tvg-id="bcu-vhs" tvg-name="BCU VHS HD" tvg-logo="http://chiburator.monster:8000/images/.png" group-title="Кинозал ТЕСТ", BCU VHS HD
+#EXTGRP:Кинозал ТЕСТ
+http://cdn.admuspeh.my/8908/index.m3u8?token=4gPHp5ZVYqDAR4oz
 
 #EXTINF:-1 tvg-name="Persik TV Александра Бортич" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Александра Бортич
 #EXTGRP:Кинозал ТЕСТ
