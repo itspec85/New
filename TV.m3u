@@ -1191,6 +1191,9 @@ http://cdn.admuspeh.my/8448/video.m3u8?token=4gPHp5ZVYqDAR4oz
 #EXTINF:-1 tvg-id="box-myday" tvg-name="BOX Mayday HD" tvg-logo="http://epg.one/img/7493.png" group-title="Познавательные", BOX Mayday HD
 #EXTGRP:Познавательные
 http://cdn.admuspeh.my/8434/video.m3u8?token=iptvshared
+#EXTINF:-1 tvg-id="box-memory" tvg-name="BOX Memory HD" tvg-logo="http://epg.one/img/6701.png" group-title="Познавательные", BOX Memory HD
+#EXTGRP:Познавательные
+http://cdn.admuspeh.my/8987/index.m3u8?token=iptvshared
 #EXTINF:-1 tvg-id="box-travel" tvg-name="BOX Travel HD" tvg-logo="http://epg.one/img/6831.png" group-title="Познавательные", BOX Travel HD
 #EXTGRP:Познавательные
 http://cdn.admuspeh.my/8416/video.m3u8?token=iptvshared
@@ -1572,6 +1575,12 @@ https://ucdn.beetv.kz/bpk-tv/000000284/tve/index.m3u8
 #EXTINF:-1 tvg-name="IPTVPLAY МультСказки" tvg-logo="https://i.ibb.co/0ccNSdV/image-16.png" group-title="Детские", IPTVPLAY МультСказки
 #EXTGRP:Детские
 http://92.53.64.197:5050/IPTVPLAYMultSkazki.tv/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 tvg-id="minimax-family1" tvg-name="MM Семейный 1 HD" tvg-logo="http://epg.one/img/5210.png" group-title="Детские", MM Семейный 1 HD
+#EXTGRP:Детские
+http://cdn.admuspeh.my/8442/video.m3u8?token=pE6pxgAtfZdZmnLx
+#EXTINF:-1 tvg-id="minimax-family2" tvg-name="MM Семейный 2 HD" tvg-logo="http://epg.one/img/5211.png" group-title="Детские", MM Семейный 2 HD
+#EXTGRP:Детские
+http://cdn.admuspeh.my/8449/video.m3u8?token=4gPHp5ZVYqDAR4oz
 #EXTINF:-1 tvg-id="minimax-tom-and-jerry" tvg-name="MM Tom And Jerry HD" tvg-logo="http://epg.one/img/5129.png" group-title="Детские", MM Tom And Jerry HD
 #EXTGRP:Детские
 http://cdn.admuspeh.my/8997/video.m3u8?token=pE6pxgAtfZdZmnLx
@@ -2413,9 +2422,6 @@ http://cdn.admuspeh.my/8983/video.m3u8?token=iptvshared
 #EXTINF:-1 tvg-id="box-m-serial" tvg-name="BOX M.Serial HD" tvg-logo="http://epg.one/img/6702.png" group-title="Кинозал ТЕСТ", BOX M.Serial HD
 #EXTGRP:Кинозал ТЕСТ
 http://cdn.admuspeh.my/8988/video.m3u8?token=TestuspehTva
-#EXTINF:-1 tvg-id="box-memory" tvg-name="BOX Memory HD" tvg-logo="http://epg.one/img/6701.png" group-title="Кинозал ТЕСТ", BOX Memory HD
-#EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8987/index.m3u8?token=iptvshared
 #EXTINF:-1 tvg-id="box-oscar" tvg-name="BOX Oscar HD" tvg-logo="http://epg.one/img/6700.png" group-title="Кинозал ТЕСТ", BOX Oscar HD
 #EXTGRP:Кинозал ТЕСТ
 http://cdn.admuspeh.my/8986/video.m3u8?token=TestuspehTva
@@ -2521,12 +2527,6 @@ http://cdn.admuspeh.my/8709/video.m3u8?token=iptvshared
 #EXTINF:-1 tvg-id="minimax-svati" tvg-name="MM Сваты HD" tvg-logo="http://epg.one/img/5164.png" group-title="Кинозал ТЕСТ", MM Сваты HD
 #EXTGRP:Кинозал ТЕСТ
 http://cdn.admuspeh.my/8893/video.m3u8?token=iptvshared
-#EXTINF:-1 tvg-id="minimax-family1" tvg-name="MM Семейный 1 HD" tvg-logo="http://epg.one/img/5210.png" group-title="Кинозал ТЕСТ", MM Семейный 1 HD
-#EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8442/video.m3u8?token=pE6pxgAtfZdZmnLx
-#EXTINF:-1 tvg-id="minimax-family2" tvg-name="MM Семейный 2 HD" tvg-logo="http://epg.one/img/5211.png" group-title="Кинозал ТЕСТ", MM Семейный 2 HD
-#EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8449/video.m3u8?token=4gPHp5ZVYqDAR4oz
 #EXTINF:-1 tvg-id="minimax-sport" tvg-name="MM Спорт HD" tvg-logo="http://epg.one/img/5167.png" group-title="Кинозал ТЕСТ", MM Спорт HD
 #EXTGRP:Кинозал ТЕСТ
 http://cdn.admuspeh.my/8652/video.m3u8?token=iptvshared
