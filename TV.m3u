@@ -1548,13 +1548,13 @@ http://46.17.41.254:2020/channel/44b4dc19/index.m3u8?q=c9a4efc12540f7d0eb46417dd
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000005178/tve/index.m3u8
 #EXTINF:-1 tvg-id="bcu-kids-plus" tvg-name="BCU Kids+ HD" tvg-logo="http://epg.one/img/4757.png" group-title="Кинозал ТЕСТ", BCU Kids+ HD
-#EXTGRP:Кинозал ТЕСТ
+#EXTGRP:Детские
 http://cdn.admuspeh.my/8454/index.m3u8?token=pE6pxgAtfZdZmnLx
 #EXTINF:-1 tvg-id="bcu-little" tvg-name="BCU Little HD" tvg-logo="http://epg.one/img/6848.png" group-title="Кинозал ТЕСТ", BCU Little HD
-#EXTGRP:Кинозал ТЕСТ
+#EXTGRP:Детские
 http://cdn.admuspeh.my/8979/index.m3u8?token=4gPHp5ZVYqDAR4oz
 #EXTINF:-1 tvg-id="bcu-multserial" tvg-name="BCU Multserial HD" tvg-logo="http://epg.one/img/4746.png" group-title="Кинозал ТЕСТ", BCU Multserial HD
-#EXTGRP:Кинозал ТЕСТ
+#EXTGRP:Детские
 http://cdn.admuspeh.my/8874/index.m3u8?token=4gPHp5ZVYqDAR4oz
 #EXTINF:-1 tvg-id="cartoon-classics" tvg-name="Cartoon Classics" tvg-logo="http://epg.one/img/9183.png" group-title="Детские", Cartoon Classics
 #EXTGRP:Детские
@@ -2363,7 +2363,7 @@ http://cdn.admuspeh.my/8881/index.m3u8?token=pE6pxgAtfZdZmnLx
 #EXTINF:-1 tvg-id="bcu-kinorating" tvg-name="BCU Kinorating HD" tvg-logo="http://epg.one/img/4758.png" group-title="Кинозал ТЕСТ", BCU Kinorating HD
 #EXTGRP:Кинозал ТЕСТ
 http://cdn.admuspeh.my/8455/index.m3u8?token=pE6pxgAtfZdZmnLx
-#EXTINF:-1 tvg-id="bcu-kinozakaz-4k" tvg-name="BCU Kinozakaz HD" tvg-logo="http://chiburator.monster:8000/images/.png" group-title="Кинозал ТЕСТ", BCU Kinozakaz HD
+#EXTINF:-1 tvg-id="bcu-kinozakaz-4k" tvg-name="BCU Kinozakaz HD" tvg-logo="http://epg.one/img/9302.png" group-title="Кинозал ТЕСТ", BCU Kinozakaz HD
 #EXTGRP:Кинозал ТЕСТ
 http://cdn.admuspeh.my/8886/video.m3u8?token=iptvshared
 #EXTINF:-1 tvg-id="bcu-marvel" tvg-name="BCU Marvel HD" tvg-logo="http://epg.one/img/5514.png" group-title="Кинозал ТЕСТ", BCU Marvel HD
