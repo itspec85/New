@@ -2417,6 +2417,60 @@ http://cdn.admuspeh.my/8977/video.m3u8?token=iptvshared
 #EXTINF:-1 tvg-id="bcu-vhs" tvg-name="BCU VHS HD" tvg-logo="http://epg.one/img/4763.png" group-title="Кинозал ТЕСТ", BCU VHS HD
 #EXTGRP:Кинозал ТЕСТ
 http://cdn.admuspeh.my/8908/index.m3u8?token=4gPHp5ZVYqDAR4oz
+#EXTINF:-1 tvg-id="box-sssr-4k" tvg-name="BOX СССР 4K" tvg-logo="http://epg.one/img/4763.png" group-title="Кинозал ТЕСТ", BOX СССР 4K
+#EXTGRP:Кинозал ТЕСТ
+http://cdn.admuspeh.my/8445/video.m3u8?token=iptvshared
+#EXTINF:-1 tvg-id="box-anime" tvg-name="BOX Anime HD" tvg-logo="http://epg.one/img/4763.png" group-title="Кинозал ТЕСТ", BOX Anime HD
+#EXTGRP:Кинозал ТЕСТ
+http://cdn.admuspeh.my/8984/video.m3u8?token=4gPHp5ZVYqDAR4oz
+#EXTINF:-1 tvg-id="box-apocalipse" tvg-name="BOX Apocalypse HD" tvg-logo="http://epg.one/img/4763.png" group-title="Кинозал ТЕСТ", BOX Apocalypse HD
+#EXTGRP:Кинозал ТЕСТ
+http://cdn.admuspeh.my/8441/video.m3u8?token=TestuspehTva
+#EXTINF:-1 tvg-id="box-cyber" tvg-name="BOX Cyber HD" tvg-logo="http://epg.one/img/4763.png" group-title="Кинозал ТЕСТ", BOX Cyber HD
+#EXTGRP:Кинозал ТЕСТ
+http://cdn.admuspeh.my/8419/video.m3u8?token=pE6pxgAtfZdZmnLx
+#EXTINF:-1 tvg-id="box-fantasy" tvg-name="BOX Fantasy HD" tvg-logo="http://epg.one/img/4763.png" group-title="Кинозал ТЕСТ", BOX Fantasy HD
+#EXTGRP:Кинозал ТЕСТ
+http://cdn.admuspeh.my/8430/video.m3u8?token=iptvshared
+#EXTINF:-1 tvg-id="box-franchise" tvg-name="BOX Franchise HD" tvg-logo="http://epg.one/img/4763.png" group-title="Кинозал ТЕСТ", BOX Franchise HD
+#EXTGRP:Кинозал ТЕСТ
+http://cdn.admuspeh.my/8982/video.m3u8?token=TestuspehTva
+#EXTINF:-1 tvg-id="box-gangster" tvg-name="BOX Gangster HD" tvg-logo="http://epg.one/img/4763.png" group-title="Кинозал ТЕСТ", BOX Gangster HD
+#EXTGRP:Кинозал ТЕСТ
+http://cdn.admuspeh.my/8985/video.m3u8?token=iptvshared
+#EXTINF:-1 tvg-id="box-ghost" tvg-name="BOX Ghost HD" tvg-logo="http://epg.one/img/4763.png" group-title="Кинозал ТЕСТ", BOX Ghost HD
+#EXTGRP:Кинозал ТЕСТ
+http://cdn.admuspeh.my/8428/video.m3u8?token=pE6pxgAtfZdZmnLx
+#EXTINF:-1 tvg-id="box-hybrid" tvg-name="BOX Hybrid HD" tvg-logo="http://epg.one/img/4763.png" group-title="Кинозал ТЕСТ", BOX Hybrid HD
+#EXTGRP:Кинозал ТЕСТ
+http://cdn.admuspeh.my/8983/video.m3u8?token=iptvshared
+#EXTINF:-1 tvg-id="box-m-serial" tvg-name="BOX M.Serial HD" tvg-logo="http://epg.one/img/4763.png" group-title="Кинозал ТЕСТ", BOX M.Serial HD
+#EXTGRP:Кинозал ТЕСТ
+http://cdn.admuspeh.my/8988/video.m3u8?token=TestuspehTva
+#EXTINF:-1 tvg-id="box-memory" tvg-name="BOX Memory HD" tvg-logo="http://epg.one/img/4763.png" group-title="Кинозал ТЕСТ", BOX Memory HD
+#EXTGRP:Кинозал ТЕСТ
+http://cdn.admuspeh.my/8987/index.m3u8?token=iptvshared
+#EXTINF:-1 tvg-id="box-oscar" tvg-name="BOX Oscar HD" tvg-logo="http://epg.one/img/4763.png" group-title="Кинозал ТЕСТ", BOX Oscar HD
+#EXTGRP:Кинозал ТЕСТ
+http://cdn.admuspeh.my/8986/video.m3u8?token=TestuspehTva
+#EXTINF:-1 tvg-id="box-premiere4k" tvg-name="BOX Premiere 4K" tvg-logo="http://epg.one/img/4763.png" group-title="Кинозал ТЕСТ", BOX Premiere 4K
+#EXTGRP:Кинозал ТЕСТ
+http://cdn.admuspeh.my/8452/video.m3u8?token=4gPHp5ZVYqDAR4oz
+#EXTINF:-1 tvg-id="box-remast-4k" tvg-name="BOX Remast 4K" tvg-logo="http://epg.one/img/4763.png" group-title="Кинозал ТЕСТ", BOX Remast 4K
+#EXTGRP:Кинозал ТЕСТ
+http://cdn.admuspeh.my/8433/video.m3u8?token=iptvshared
+#EXTINF:-1 tvg-id="box-spy" tvg-name="BOX Spy HD" tvg-logo="http://epg.one/img/4763.png" group-title="Кинозал ТЕСТ", BOX Spy HD
+#EXTGRP:Кинозал ТЕСТ
+http://cdn.admuspeh.my/8354/video.m3u8?token=pE6pxgAtfZdZmnLx
+#EXTINF:-1 tvg-id="box-ultrastars-4k" tvg-name="BOX UltraStars 4K" tvg-logo="http://epg.one/img/4763.png" group-title="Кинозал ТЕСТ", BOX UltraStars 4K
+#EXTGRP:Кинозал ТЕСТ
+http://cdn.admuspeh.my/8444/video.m3u8?token=iptvshared
+#EXTINF:-1 tvg-id="box-western" tvg-name="BOX Western HD" tvg-logo="http://epg.one/img/4763.png" group-title="Кинозал ТЕСТ", BOX Western HD
+#EXTGRP:Кинозал ТЕСТ
+http://cdn.admuspeh.my/8417/video.m3u8?token=4gPHp5ZVYqDAR4oz
+#EXTINF:-1 tvg-id="box-zombie" tvg-name="BOX Zombie HD" tvg-logo="http://epg.one/img/4763.png" group-title="Кинозал ТЕСТ", BOX Zombie HD
+#EXTGRP:Кинозал ТЕСТ
+http://cdn.admuspeh.my/8418/video.m3u8?token=iptvshared
 #EXTINF:-1 tvg-id="cineman" tvg-name="CineMan" tvg-logo="http://epg.one/img/4682.png" group-title="Кинозал ТЕСТ", CineMan
 #EXTGRP:Кинозал ТЕСТ
 http://cdn.admuspeh.my/8952/index.m3u8?token=iptvshared
