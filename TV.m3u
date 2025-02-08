@@ -5137,7 +5137,8 @@ https://stream.uagit.tv/gittv.m3u8
 http://cdn10.live-tv.od.ua:8081/izod/izod/playlist.m3u8
 #EXTINF:-1 tvg-id="inter-ua" tvg-name="Інтер UA" tvg-logo="http://epg.one/img/2106.png" group-title="Украина", Інтер UA
 #EXTGRP:Украина
-
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/inter.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="IТ3" tvg-logo="https://avatars.mds.yandex.net/i?id=1a814a6263e2a73dd000bcaa7f5fc5841703dfe5-6249527-images-thumbs&n=13" group-title="Украина", IТ3
 #EXTGRP:Украина
 http://cdn10.live-tv.od.ua:8081/it3od/720p/playlist.m3u8
