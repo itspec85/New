@@ -2867,16 +2867,16 @@ http://213.226.137.140:81/tl/l73/mpegts
 http://cdn.admuspeh.my/8019/index.m3u8?token=4gPHp5ZVYqDAR4oz
 #EXTINF:-1 tvg-id="match-football1" tvg-name="Матч! Футбол 1" tvg-logo="http://epg.one/img/2044.png" group-title="Спорт", Матч! Футбол 1
 #EXTGRP:Спорт
-http://s1.merlive.am/matchfutbol1/index.m3u8
+http://cdn.admuspeh.my/8021/index.m3u8?token=4gPHp5ZVYqDAR4oz
 #EXTINF:-1 tvg-id="match-football1" tvg-name="Матч! Футбол 1 HD" tvg-logo="http://epg.one/img/2044.png" group-title="Спорт", Матч! Футбол 1 HD
 #EXTGRP:Спорт
-http://live.admuspeh.my/8236/index.m3u8?token=iptv50na50
+http://flu.ttk.mx:90/Football_1HD/mono.m3u8?token=hs06e
 #EXTINF:-1 tvg-id="match-football2" tvg-name="Матч! Футбол 2" tvg-logo="http://epg.one/img/1042.png" group-title="Спорт", Матч! Футбол 2
 #EXTGRP:Спорт
-http://live.admuspeh.my/8022/index.m3u8?token=TestuspehTva
+http://cdn.admuspeh.my/8022/index.m3u8?token=TestuspehTva
 #EXTINF:-1 tvg-id="match-football2" tvg-name="Матч! Футбол 2 HD" tvg-logo="http://epg.one/img/1042.png" group-title="Спорт", Матч! Футбол 2 HD
 #EXTGRP:Спорт
-http://live.admuspeh.my/8237/index.m3u8?token=iptv50na50
+http://flu.ttk.mx:90/Football_2HD/mono.m3u8?token=hs06e
 #EXTINF:-1 tvg-id="match-football3" tvg-name="Матч! Футбол 3" tvg-logo="http://epg.one/img/2005.png" group-title="Спорт", Матч! Футбол 3
 #EXTGRP:Спорт
 http://185.57.68.33/110/mpegts
