@@ -1940,7 +1940,7 @@ https://hls.goodgame.ru/hls/187741.m3u8
 https://ucdn.beetv.kz/bpk-tv/000004472/tve/index.m3u8
 #EXTINF:-1 tvg-id="foxlife" tvg-name="FX Life" tvg-logo="http://epg.one/img/615.png" group-title="Кино", FX Life
 #EXTGRP:Кино
-http://dmi3y-tv.ru/hls/CH_FOXLIFE.m3u8
+http://dmitry-tv.ddns.net/hls/CH_FOXLIFE.m3u8
 #EXTINF:-1 tvg-id="hollywood" tvg-name="Hollywood" tvg-logo="http://epg.one/img/608.png" group-title="Кино", Hollywood
 #EXTGRP:Кино
 http://109.200.130.123:7537/play/a02g
@@ -3122,27 +3122,27 @@ http://93.189.224.24/LaMinor/index.m3u8
 #EXTINF:-1 tvg-id="muztv" tvg-shift="+1" tvg-name="Муз ТВ -1" tvg-logo="http://epg.one/img/897.png" group-title="Музыка", Муз ТВ -1
 #EXTGRP:Музыка
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmi3y-tv.ru/hls/DVB-T2/CH_MUZTV-1.m3u8
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MUZTV-1.m3u8
 #EXTINF:-1 tvg-id="muztv" tvg-name="Муз-ТВ" tvg-logo="http://epg.one/img/897.png" group-title="Музыка", Муз-ТВ
 #EXTGRP:Музыка
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmi3y-tv.ru/hls/DVB-T2/CH_MUZTV.m3u8
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MUZTV.m3u8
 #EXTINF:-1 tvg-id="muztv-pl2" tvg-name="Муз ТВ +2" tvg-logo="http://epg.one/img/897.png" group-title="Музыка", Муз ТВ +2
 #EXTGRP:Музыка
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmi3y-tv.ru/hls/DVB-T2/CH_MUZTV_2.m3u8
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MUZTV_2.m3u8
 #EXTINF:-1 tvg-id="muztv-pl4" tvg-name="Муз ТВ +4" tvg-logo="http://epg.one/img/897.png" group-title="Музыка", Муз ТВ +4
 #EXTGRP:Музыка
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmi3y-tv.ru/hls/DVB-T2/CH_MUZTV_4.m3u8
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MUZTV_4.m3u8
 #EXTINF:-1 tvg-id="muztv" tvg-shift="-6" tvg-name="Муз ТВ +6" tvg-logo="http://epg.one/img/897.png" group-title="Музыка", Муз ТВ +6
 #EXTGRP:Музыка
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmi3y-tv.ru/hls/DVB-T2/CH_MUZTV_6.m3u8
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MUZTV_6.m3u8
 #EXTINF:-1 tvg-id="muztv-pl7" tvg-name="Муз ТВ +7" tvg-logo="http://epg.one/img/897.png" group-title="Музыка", Муз ТВ +7
 #EXTGRP:Музыка
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmi3y-tv.ru/hls/DVB-T2/CH_MUZTV_7.m3u8
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MUZTV_7.m3u8
 #EXTINF:-1 tvg-name="Музыка 1 International" tvg-logo="http://epg.one/img/6266.png" group-title="Музыка", Музыка 1 International
 #EXTGRP:Музыка
 https://autopilot.catcast.tv/content/37745/index.m3u8
