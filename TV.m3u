@@ -1565,10 +1565,10 @@ http://65.21.85.175:8000/play/a00i/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="boomerang" tvg-name="Cartoonito" tvg-logo="http://epg.one/img/929.png" group-title="Детские", Cartoonito
 #EXTGRP:Детские
 http://stream01.vnet.am/Channel_120/mono.m3u8
-#EXTINF:-1 tvg-id="cartoons-90" tvg-name="Cartoons 90" tvg-logo="http://epg.one/img/4763.png" group-title="Детские", Cartoons 90
+#EXTINF:-1 tvg-id="cartoons-90" tvg-name="Cartoons 90" tvg-logo="http://epg.one/img/4728.png" group-title="Детские", Cartoons 90
 #EXTGRP:Детские
 http://cdn.admuspeh.my/8812/index.m3u8?token=iptvshared
-#EXTINF:-1 tvg-id="cartoons-big" tvg-name="Cartoons Big" tvg-logo="http://epg.one/img/4728.png" group-title="Детские", Cartoons Big
+#EXTINF:-1 tvg-id="cartoons-big" tvg-name="Cartoons Big" tvg-logo="http://epg.one/img/4730.png" group-title="Детские", Cartoons Big
 #EXTGRP:Детские
 http://cdn.admuspeh.my/8866/index.m3u8?token=iptvshared
 #EXTINF:-1 tvg-id="cartoons-short" tvg-name="Cartoons Short" tvg-logo="http://epg.one/img/4729.png" group-title="Детские", Cartoons Short
