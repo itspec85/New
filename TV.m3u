@@ -1589,13 +1589,13 @@ https://ucdn.beetv.kz/bpk-tv/000000284/tve/index.m3u8
 #EXTINF:-1 tvg-name="IPTVPLAY МультСказки" tvg-logo="https://i.ibb.co/0ccNSdV/image-16.png" group-title="Детские", IPTVPLAY МультСказки
 #EXTGRP:Детские
 http://92.53.64.197:5050/IPTVPLAYMultSkazki.tv/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 tvg-id="minimax-tom-and-jerry" tvg-name="MM Tom And Jerry HD" tvg-logo="https://i.ibb.co/0ccNSdV/image-16.png" group-title="Детские", MM Tom And Jerry HD
+#EXTINF:-1 tvg-id="minimax-tom-and-jerry" tvg-name="MM Tom And Jerry HD" tvg-logo="http://epg.one/img/5129.png" group-title="Детские", MM Tom And Jerry HD
 #EXTGRP:Детские
 http://cdn.admuspeh.my/8997/video.m3u8?token=pE6pxgAtfZdZmnLx
-#EXTINF:-1 tvg-id="minimax-mult" tvg-name="MM USSR Мультфильм HD" tvg-logo="https://i.ibb.co/0ccNSdV/image-16.png" group-title="Детские", MM USSR Мультфильм HD
+#EXTINF:-1 tvg-id="minimax-mult" tvg-name="MM USSR Мультфильм HD" tvg-logo="http://epg.one/img/5133.png" group-title="Детские", MM USSR Мультфильм HD
 #EXTGRP:Детские
 http://cdn.admuspeh.my/8913/video.m3u8?token=iptvshared
-#EXTINF:-1 tvg-id="minimax-walt-disney" tvg-name="MM Walt Disney HD" tvg-logo="https://i.ibb.co/0ccNSdV/image-16.png" group-title="Детские", MM Walt Disney HD
+#EXTINF:-1 tvg-id="minimax-walt-disney" tvg-name="MM Walt Disney HD" tvg-logo="http://epg.one/img/5571.png" group-title="Детские", MM Walt Disney HD
 #EXTGRP:Детские
 http://cdn.admuspeh.my/8914/video.m3u8?token=4gPHp5ZVYqDAR4oz
 #EXTINF:-1 tvg-id="nick-jr" tvg-name="Nick Jr" tvg-logo="http://epg.one/img/917.png" group-title="Детские", Nick Jr
@@ -2471,82 +2471,82 @@ http://cdn.admuspeh.my/8959/index.m3u8?token=iptvshared
 #EXTINF:-1 tvg-id="cineman-vhs" tvg-name="CineMan VHS" tvg-logo="http://epg.one/img/4690.png" group-title="Кинозал ТЕСТ", CineMan VHS
 #EXTGRP:Кинозал ТЕСТ
 http://cdn.admuspeh.my/8807/index.m3u8?token=4gPHp5ZVYqDAR4oz
-#EXTINF:-1 tvg-id="minimax-boevik" tvg-name="MM Боевик HD" tvg-logo="http://epg.one/img/4690.png" group-title="Кинозал ТЕСТ", MM Боевик HD
+#EXTINF:-1 tvg-id="minimax-boevik" tvg-name="MM Боевик HD" tvg-logo="http://epg.one/img/5141.png" group-title="Кинозал ТЕСТ", MM Боевик HD
 #EXTGRP:Кинозал ТЕСТ
 http://cdn.admuspeh.my/8745/video.m3u8?token=iptvshared
-#EXTINF:-1 tvg-id="minimax-boevik_classic" tvg-name="MM Боевик Classic HD" tvg-logo="http://epg.one/img/4690.png" group-title="Кинозал ТЕСТ", MM Боевик Classic HD
+#EXTINF:-1 tvg-id="minimax-boevik_classic" tvg-name="MM Боевик Classic HD" tvg-logo="http://epg.one/img/5140.png" group-title="Кинозал ТЕСТ", MM Боевик Classic HD
 #EXTGRP:Кинозал ТЕСТ
 http://cdn.admuspeh.my/8411/video.m3u8?token=4gPHp5ZVYqDAR4oz
-#EXTINF:-1 tvg-id="minimax-drama" tvg-name="MM Драма HD" tvg-logo="http://epg.one/img/4690.png" group-title="Кинозал ТЕСТ", MM Драма HD
+#EXTINF:-1 tvg-id="minimax-drama" tvg-name="MM Драма HD" tvg-logo="http://epg.one/img/6065.png" group-title="Кинозал ТЕСТ", MM Драма HD
 #EXTGRP:Кинозал ТЕСТ
 http://cdn.admuspeh.my/8894/video.m3u8?token=iptvshared
-#EXTINF:-1 tvg-id="minimax-istorija" tvg-name="MM История HD" tvg-logo="http://epg.one/img/4690.png" group-title="Кинозал ТЕСТ", MM История HD
+#EXTINF:-1 tvg-id="minimax-istorija" tvg-name="MM История HD" tvg-logo="http://epg.one/img/5146.png" group-title="Кинозал ТЕСТ", MM История HD
 #EXTGRP:Кинозал ТЕСТ
 http://cdn.admuspeh.my/8933/video.m3u8?token=pE6pxgAtfZdZmnLx
-#EXTINF:-1 tvg-id="minimax-katastrofa" tvg-name="MM Катастрофа HD" tvg-logo="http://epg.one/img/4690.png" group-title="Кинозал ТЕСТ", MM Катастрофа HD
+#EXTINF:-1 tvg-id="minimax-katastrofa" tvg-name="MM Катастрофа HD" tvg-logo="http://epg.one/img/5147.png" group-title="Кинозал ТЕСТ", MM Катастрофа HD
 #EXTGRP:Кинозал ТЕСТ
 http://cdn.admuspeh.my/8746/video.m3u8?token=4gPHp5ZVYqDAR4oz
-#EXTINF:-1 tvg-id="minimax-kiberpunk" tvg-name="MM Киберпанк HD" tvg-logo="http://epg.one/img/4690.png" group-title="Кинозал ТЕСТ", MM Киберпанк HD
+#EXTINF:-1 tvg-id="minimax-kiberpunk" tvg-name="MM Киберпанк HD" tvg-logo="http://epg.one/img/5149.png" group-title="Кинозал ТЕСТ", MM Киберпанк HD
 #EXTGRP:Кинозал ТЕСТ
 http://cdn.admuspeh.my/8545/video.m3u8?token=iptvshared
-#EXTINF:-1 tvg-id="minimax-krutie-90-e" tvg-name="MM Крутые 90-е HD" tvg-logo="http://epg.one/img/4690.png" group-title="Кинозал ТЕСТ", MM Крутые 90-е HD
+#EXTINF:-1 tvg-id="minimax-krutie-90-e" tvg-name="MM Крутые 90-е HD" tvg-logo="http://epg.one/img/5153.png" group-title="Кинозал ТЕСТ", MM Крутые 90-е HD
 #EXTGRP:Кинозал ТЕСТ
 http://cdn.admuspeh.my/8547/video.m3u8?token=iptvshared
-#EXTINF:-1 tvg-id="minimax-kungfu" tvg-name="MM Кунг-Фу HD" tvg-logo="http://epg.one/img/4690.png" group-title="Кинозал ТЕСТ", MM Кунг-Фу HD
+#EXTINF:-1 tvg-id="minimax-kungfu" tvg-name="MM Кунг-Фу HD" tvg-logo="http://epg.one/img/5154.png" group-title="Кинозал ТЕСТ", MM Кунг-Фу HD
 #EXTGRP:Кинозал ТЕСТ
 http://cdn.admuspeh.my/8559/video.m3u8?token=4gPHp5ZVYqDAR4oz
-#EXTINF:-1 tvg-id="minimax-roskino" tvg-name="MM Роскино HD" tvg-logo="http://epg.one/img/4690.png" group-title="Кинозал ТЕСТ", MM Роскино HD
+#EXTINF:-1 tvg-id="minimax-roskino" tvg-name="MM Роскино HD" tvg-logo="http://epg.one/img/5163.png" group-title="Кинозал ТЕСТ", MM Роскино HD
 #EXTGRP:Кинозал ТЕСТ
 http://cdn.admuspeh.my/8709/video.m3u8?token=iptvshared
-#EXTINF:-1 tvg-id="minimax-svati" tvg-name="MM Сваты HD" tvg-logo="http://epg.one/img/4690.png" group-title="Кинозал ТЕСТ", MM Сваты HD
+#EXTINF:-1 tvg-id="minimax-svati" tvg-name="MM Сваты HD" tvg-logo="http://epg.one/img/5164.png" group-title="Кинозал ТЕСТ", MM Сваты HD
 #EXTGRP:Кинозал ТЕСТ
 http://cdn.admuspeh.my/8893/video.m3u8?token=iptvshared
-#EXTINF:-1 tvg-id="minimax-family1" tvg-name="MM Семейный 1 HD" tvg-logo="http://epg.one/img/4690.png" group-title="Кинозал ТЕСТ", MM Семейный 1 HD
+#EXTINF:-1 tvg-id="minimax-family1" tvg-name="MM Семейный 1 HD" tvg-logo="http://epg.one/img/5210.png" group-title="Кинозал ТЕСТ", MM Семейный 1 HD
 #EXTGRP:Кинозал ТЕСТ
 http://cdn.admuspeh.my/8442/video.m3u8?token=pE6pxgAtfZdZmnLx
-#EXTINF:-1 tvg-id="minimax-family2" tvg-name="MM Семейный 2 HD" tvg-logo="http://epg.one/img/4690.png" group-title="Кинозал ТЕСТ", MM Семейный 2 HD
+#EXTINF:-1 tvg-id="minimax-family2" tvg-name="MM Семейный 2 HD" tvg-logo="http://epg.one/img/5211.png" group-title="Кинозал ТЕСТ", MM Семейный 2 HD
 #EXTGRP:Кинозал ТЕСТ
 http://cdn.admuspeh.my/8449/video.m3u8?token=4gPHp5ZVYqDAR4oz
-#EXTINF:-1 tvg-id="minimax-sport" tvg-name="MM Спорт HD" tvg-logo="http://epg.one/img/4690.png" group-title="Кинозал ТЕСТ", MM Спорт HD
+#EXTINF:-1 tvg-id="minimax-sport" tvg-name="MM Спорт HD" tvg-logo="http://epg.one/img/5167.png" group-title="Кинозал ТЕСТ", MM Спорт HD
 #EXTGRP:Кинозал ТЕСТ
 http://cdn.admuspeh.my/8652/video.m3u8?token=iptvshared
-#EXTINF:-1 tvg-id="minimax-supergeroi" tvg-name="MM Супергерои HD" tvg-logo="http://epg.one/img/4690.png" group-title="Кинозал ТЕСТ", MM Супергерои HD
+#EXTINF:-1 tvg-id="minimax-supergeroi" tvg-name="MM Супергерои HD" tvg-logo="http://epg.one/img/5169.png" group-title="Кинозал ТЕСТ", MM Супергерои HD
 #EXTGRP:Кинозал ТЕСТ
 http://cdn.admuspeh.my/8710/video.m3u8?token=pE6pxgAtfZdZmnLx
-#EXTINF:-1 tvg-id="minimax-ujasi" tvg-name="MM Ужасы HD" tvg-logo="http://epg.one/img/4690.png" group-title="Кинозал ТЕСТ", MM Ужасы HD
+#EXTINF:-1 tvg-id="minimax-ujasi" tvg-name="MM Ужасы HD" tvg-logo="http://epg.one/img/5212.png" group-title="Кинозал ТЕСТ", MM Ужасы HD
 #EXTGRP:Кинозал ТЕСТ
 http://cdn.admuspeh.my/8725/video.m3u8?token=4gPHp5ZVYqDAR4oz
-#EXTINF:-1 tvg-id="minimax-fobija" tvg-name="MM Фобия HD" tvg-logo="http://epg.one/img/4690.png" group-title="Кинозал ТЕСТ", MM Фобия HD
+#EXTINF:-1 tvg-id="minimax-fobija" tvg-name="MM Фобия HD" tvg-logo="http://epg.one/img/5176.png" group-title="Кинозал ТЕСТ", MM Фобия HD
 #EXTGRP:Кинозал ТЕСТ
 http://cdn.admuspeh.my/8994/video.m3u8?token=iptvshared
-#EXTINF:-1 tvg-id="minimax-celebrity" tvg-name="MM Celebrity HD" tvg-logo="http://epg.one/img/4690.png" group-title="Кинозал ТЕСТ", MM Celebrity HD
+#EXTINF:-1 tvg-id="minimax-celebrity" tvg-name="MM Celebrity HD" tvg-logo="http://epg.one/img/6063.png" group-title="Кинозал ТЕСТ", MM Celebrity HD
 #EXTGRP:Кинозал ТЕСТ
 http://cdn.admuspeh.my/8991/video.m3u8?token=pE6pxgAtfZdZmnLx
-#EXTINF:-1 tvg-id="minimax-flip" tvg-name="MM Flip UHD" tvg-logo="http://epg.one/img/4690.png" group-title="Кинозал ТЕСТ", MM Flip UHD
+#EXTINF:-1 tvg-id="minimax-flip" tvg-name="MM Flip UHD" tvg-logo="http://epg.one/img/5170.png" group-title="Кинозал ТЕСТ", MM Flip UHD
 #EXTGRP:Кинозал ТЕСТ
 http://cdn.admuspeh.my/8404/video.m3u8?token=4gPHp5ZVYqDAR4oz
-#EXTINF:-1 tvg-id="minimax-love" tvg-name="MM Love HD" tvg-logo="http://epg.one/img/4690.png" group-title="Кинозал ТЕСТ", MM Love HD
+#EXTINF:-1 tvg-id="minimax-love" tvg-name="MM Love HD" tvg-logo="http://epg.one/img/5123.png" group-title="Кинозал ТЕСТ", MM Love HD
 #EXTGRP:Кинозал ТЕСТ
 http://cdn.admuspeh.my/8328/video.m3u8?token=iptvshared
 #EXTINF:-1 tvg-id="minimax-newfilm1" tvg-name="MM NewFilm 1 HD" tvg-logo="http://epg.one/img/4690.png" group-title="Кинозал ТЕСТ", MM NewFilm 1 HD
 #EXTGRP:Кинозал ТЕСТ
 http://cdn.admuspeh.my/8741/video.m3u8?token=iptvshared
-#EXTINF:-1 tvg-id="minimax-newfilm2" tvg-name="MM NewFilm 2 HD" tvg-logo="http://epg.one/img/4690.png" group-title="Кинозал ТЕСТ", MM NewFilm 2 HD
+#EXTINF:-1 tvg-id="minimax-newfilm2" tvg-name="MM NewFilm 2 HD" tvg-logo="http://epg.one/img/5125.png" group-title="Кинозал ТЕСТ", MM NewFilm 2 HD
 #EXTGRP:Кинозал ТЕСТ
 http://cdn.admuspeh.my/8742/video.m3u8?token=4gPHp5ZVYqDAR4oz
-#EXTINF:-1 tvg-id="minimax-newfilm3" tvg-name="MM NewFilm 3 HD" tvg-logo="http://epg.one/img/4690.png" group-title="Кинозал ТЕСТ", MM NewFilm 3 HD
+#EXTINF:-1 tvg-id="minimax-newfilm3" tvg-name="MM NewFilm 3 HD" tvg-logo="http://epg.one/img/5126.png" group-title="Кинозал ТЕСТ", MM NewFilm 3 HD
 #EXTGRP:Кинозал ТЕСТ
 http://cdn.admuspeh.my/8743/video.m3u8?token=iptvshared
-#EXTINF:-1 tvg-id="minimax-newfilmru" tvg-name="MM NewFilm RU HD" tvg-logo="http://epg.one/img/4690.png" group-title="Кинозал ТЕСТ", MM NewFilm RU HD
+#EXTINF:-1 tvg-id="minimax-newfilmru" tvg-name="MM NewFilm RU HD" tvg-logo="http://epg.one/img/5127.png" group-title="Кинозал ТЕСТ", MM NewFilm RU HD
 #EXTGRP:Кинозал ТЕСТ
 http://cdn.admuspeh.my/8706/video.m3u8?token=pE6pxgAtfZdZmnLx
-#EXTINF:-1 tvg-id="minimax-ufo" tvg-name="MM UFO HD" tvg-logo="http://epg.one/img/4690.png" group-title="Кинозал ТЕСТ", MM UFO HD
+#EXTINF:-1 tvg-id="minimax-ufo" tvg-name="MM UFO HD" tvg-logo="http://epg.one/img/5130.png" group-title="Кинозал ТЕСТ", MM UFO HD
 #EXTGRP:Кинозал ТЕСТ
 http://cdn.admuspeh.my/8410/video.m3u8?token=4gPHp5ZVYqDAR4oz
-#EXTINF:-1 tvg-id="minimax-ussr-detektiv" tvg-name="MM USSR Детектив HD" tvg-logo="http://epg.one/img/4690.png" group-title="Кинозал ТЕСТ", MM USSR Детектив HD
+#EXTINF:-1 tvg-id="minimax-ussr-detektiv" tvg-name="MM USSR Детектив HD" tvg-logo="http://epg.one/img/5209.png" group-title="Кинозал ТЕСТ", MM USSR Детектив HD
 #EXTGRP:Кинозал ТЕСТ
 http://cdn.admuspeh.my/8656/video.m3u8?token=iptvshared
-#EXTINF:-1 tvg-id="minimax-ussr-komedija" tvg-name="MM USSR Комедия HD" tvg-logo="http://epg.one/img/4690.png" group-title="Кинозал ТЕСТ", MM USSR Комедия HD
+#EXTINF:-1 tvg-id="minimax-ussr-komedija" tvg-name="MM USSR Комедия HD" tvg-logo="http://epg.one/img/5132.png" group-title="Кинозал ТЕСТ", MM USSR Комедия HD
 #EXTGRP:Кинозал ТЕСТ
 http://cdn.admuspeh.my/8744/video.m3u8?token=pE6pxgAtfZdZmnLx
 #EXTINF:-1 tvg-name="Persik TV Александра Бортич" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Александра Бортич
