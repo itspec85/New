@@ -328,7 +328,7 @@ http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1_7.m3u8
 #EXTINF:-1 tvg-id="rossia1" tvg-shift="-8" tvg-name="Россия 1 +8" tvg-logo="http://epg.one/img/3003.png" group-title="Россия", Россия 1 +8
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-https://s20441.cdn.ngenix.net/hls/CH_R49_OTT_DV_MGDN_ROSSIA1/variant.m3u8
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1_8.m3u8
 #EXTINF:-1 tvg-id="rossia1" tvg-shift="-9" tvg-name="Россия 1 +9" tvg-logo="http://epg.one/img/711.png" group-title="Россия", Россия 1 +9
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -556,7 +556,7 @@ http://85.187.13.40:18000/tntint
 #EXTINF:-1 tvg-id="tnt4" tvg-shift="+1" tvg-name="ТНТ4 -1" tvg-logo="http://epg.one/img/1649.png" group-title="Россия", ТНТ4 -1
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8?version=2&offset=-3600
+http://dmitry-tv.ddns.net/hls/zabava/CH_TNT4-1.m3u8
 #EXTINF:-1 tvg-id="tnt4" tvg-name="ТНТ4" tvg-logo="http://epg.one/img/1649.png" group-title="Россия", ТНТ4
 #EXTGRP:Россия
 http://213.226.137.140:81/tl/l63/mpegts
@@ -575,14 +575,14 @@ http://dmitry-tv.ddns.net/hls/zabava/CH_TNT4_4.m3u8
 #EXTINF:-1 tvg-id="tnt4-pl7" tvg-name="ТНТ4 +7" tvg-logo="http://epg.one/img/1104.png" group-title="Россия", ТНТ4 +7
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-https://s25617.cdn.ngenix.net/mdrm/CH_TNT4_7/variant.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/CH_TNT4_7.m3u8
 #EXTINF:-1 tvg-id="tnt4-international" tvg-name="ТНТ4 International" tvg-logo="https://iptvx.one/picons/tnt4.png" group-title="Россия", ТНТ4 International
 #EXTGRP:Россия
 https://ucdn.beetv.kz/bpk-tv/000002926/tve/index.m3u8
 #EXTINF:-1 tvg-id="che" tvg-shift="+1" tvg-name="Че -1" tvg-logo="http://epg.one/img/1598.png" group-title="Россия", Че -1
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/video_800x450_avc1/variant.m3u8?version=2&offset=-3600
+http://dmitry-tv.ddns.net/hls/zabava/CH_CHE-1.m3u8
 #EXTINF:-1 tvg-id="che" tvg-name="Че" tvg-logo="http://epg.one/img/1598.png" group-title="Россия", Че
 #EXTGRP:Россия
 http://178.212.71.253:8002/play/a00s/index.m3u8
