@@ -1547,13 +1547,13 @@ http://46.17.41.254:2020/channel/44b4dc19/index.m3u8?q=c9a4efc12540f7d0eb46417dd
 #EXTINF:-1 tvg-id="balapan" tvg-name="Balapan" tvg-logo="https://iptvx.one/picons/balapan.png" group-title="Детские", Balapan
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000005178/tve/index.m3u8
-#EXTINF:-1 tvg-id="bcu-kids-plus" tvg-name="BCU Kids+ HD" tvg-logo="http://epg.one/img/4757.png" group-title="Кинозал ТЕСТ", BCU Kids+ HD
+#EXTINF:-1 tvg-id="bcu-kids-plus" tvg-name="BCU Kids+ HD" tvg-logo="http://epg.one/img/4757.png" group-title="Детские", BCU Kids+ HD
 #EXTGRP:Детские
 http://cdn.admuspeh.my/8454/index.m3u8?token=pE6pxgAtfZdZmnLx
-#EXTINF:-1 tvg-id="bcu-little" tvg-name="BCU Little HD" tvg-logo="http://epg.one/img/6848.png" group-title="Кинозал ТЕСТ", BCU Little HD
+#EXTINF:-1 tvg-id="bcu-little" tvg-name="BCU Little HD" tvg-logo="http://epg.one/img/6848.png" group-title="Детские", BCU Little HD
 #EXTGRP:Детские
 http://cdn.admuspeh.my/8979/index.m3u8?token=4gPHp5ZVYqDAR4oz
-#EXTINF:-1 tvg-id="bcu-multserial" tvg-name="BCU Multserial HD" tvg-logo="http://epg.one/img/4746.png" group-title="Кинозал ТЕСТ", BCU Multserial HD
+#EXTINF:-1 tvg-id="bcu-multserial" tvg-name="BCU Multserial HD" tvg-logo="http://epg.one/img/4746.png" group-title="Детские", BCU Multserial HD
 #EXTGRP:Детские
 http://cdn.admuspeh.my/8874/index.m3u8?token=4gPHp5ZVYqDAR4oz
 #EXTINF:-1 tvg-id="cartoon-classics" tvg-name="Cartoon Classics" tvg-logo="http://epg.one/img/9183.png" group-title="Детские", Cartoon Classics
@@ -1565,11 +1565,15 @@ http://65.21.85.175:8000/play/a00i/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="boomerang" tvg-name="Cartoonito" tvg-logo="http://epg.one/img/929.png" group-title="Детские", Cartoonito
 #EXTGRP:Детские
 http://stream01.vnet.am/Channel_120/mono.m3u8
-#EXTINF:-1 cartoons-90" tvg-name="Cartoons 90" tvg-logo="http://epg.one/img/4763.png" group-title="Кинозал ТЕСТ", Cartoons 90
+#EXTINF:-1 tvg-id="cartoons-90" tvg-name="Cartoons 90" tvg-logo="http://epg.one/img/4763.png" group-title="Детские", Cartoons 90
 #EXTGRP:Детские
 http://cdn.admuspeh.my/8812/index.m3u8?token=iptvshared
-
-
+#EXTINF:-1 tvg-id="cartoons-big" tvg-name="Cartoons Big" tvg-logo="http://epg.one/img/4763.png" group-title="Детские", Cartoons Big
+#EXTGRP:Детские
+http://cdn.admuspeh.my/8866/index.m3u8?token=iptvshared
+#EXTINF:-1 tvg-id="cartoons-short" tvg-name="Cartoons Short" tvg-logo="http://epg.one/img/4763.png" group-title="Детские", Cartoons Short
+#EXTGRP:Детские
+http://cdn.admuspeh.my/8867/index.m3u8?token=pE6pxgAtfZdZmnLx
 #EXTINF:-1 tvg-id="da-vinci" tvg-name="Da Vinci HD" tvg-logo="http://epg.one/img/8908.png" group-title="Детские", Da Vinci HD
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000000333/tve/index.m3u8
