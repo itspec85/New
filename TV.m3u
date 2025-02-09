@@ -929,6 +929,9 @@ http://185.23.80.28:8080/Draiv/index.m3u8?token=test
 #EXTINF:-1 tvg-id="dumatv" tvg-name="Дума ТВ" tvg-logo="https://iptvx.one/picons/dumatv.png" group-title="Познавательные", Дума ТВ
 #EXTGRP:Познавательные
 https://dumatv.iptv2022.com/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-id="ege-tv" tvg-name="ЕГЭ ТВ" tvg-logo="http://epg.one/img/2420.png" group-title="Познавательные", ЕГЭ ТВ
+#EXTGRP:Познавательные
+http://dmitry-tv.ddns.net/hls/CH_EGETV.m3u8
 #EXTINF:-1 tvg-id="eda-hd-int" tvg-name="ЕДА Премиум" tvg-logo="http://epg.one/img/930.png" group-title="Познавательные", ЕДА Премиум
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000000588/tve/index.m3u8
@@ -1318,6 +1321,9 @@ https://s1.tv-nano.com/Luxury_rec/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="museum-4k" tvg-name="Museum 4k" tvg-logo="http://epg.one/img/7621.png" group-title="Познавательные", Museum 4k
 #EXTGRP:Познавательные
 http://31.184.197.124/museum_hd/mono.m3u8
+#EXTINF:-1 tvg-id="nano-hd" tvg-name="NANO TV" tvg-logo="http://epg.one/img/2428.png" group-title="Познавательные", NANO TV
+#EXTGRP:Познавательные
+http://dmitry-tv.ddns.net/hls/CH_NANOTVHD.m3u8
 #EXTINF:-1 tvg-id="nat-geo-wild" tvg-name="Nat Geo Wild" tvg-logo="http://epg.one/img/223.png" group-title="Познавательные", Nat Geo Wild
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000004474/tve/index.m3u8
