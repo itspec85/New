@@ -1366,6 +1366,9 @@ https://ucdn.beetv.kz/bpk-tv/000000039/tve/index.m3u8
 #EXTINF:-1 tvg-id="russky-ekstrim" tvg-name="Russian Extreme HD" tvg-logo="http://epg.one/img/4110.png" group-title="Познавательные", Russian Extreme HD
 #EXTGRP:Познавательные
 http://195.26.83.96:7029/play/a008
+#EXTINF:-1 tvg-name="Sunset Space" tvg-logo="https://stream.sunset-media.ru:443/images/AfE0MpsGM8EECV5bHCwLz2Ww6HKLGjpIu0Bh8fSLqASO42yT-qIyVZwTwBHtoEIH.png" group-title="Познавательные", Sunset Space
+#EXTGRP:Познавательные
+https://stream.sunset-media.ru:443/AfBrazXsUK/J9hGT3vYuv/3.m3u8
 #EXTINF:-1 tvg-id="terra-ru" tvg-name="TERRA" tvg-logo="http://epg.one/img/7632.png" group-title="Познавательные", TERRA
 #EXTGRP:Познавательные
 http://130.193.73.10:8937/play/a01g
@@ -1566,9 +1569,6 @@ http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:-1 tvg-id="ani" tvg-name="Ani" tvg-logo="http://epg.one/img/2011.png" group-title="Детские", Ani
 #EXTGRP:Детские
 http://stv.mediacdn.ru/live/cdn/ani/playlist_sdhigher.m3u8
-#EXTINF:-1 tvg-id="animekids" tvg-name="Anime Kids HD" tvg-logo="http://epg.one/img/7874.png" group-title="Детские", Anime Kids HD
-#EXTGRP:Детские
-http://46.17.41.254:2020/channel/44b4dc19/index.m3u8?q=c9a4efc12540f7d0eb46417ddc618c8b
 #EXTINF:-1 tvg-id="balapan" tvg-name="Balapan" tvg-logo="https://iptvx.one/picons/balapan.png" group-title="Детские", Balapan
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000005178/tve/index.m3u8
@@ -1611,6 +1611,9 @@ https://ucdn.beetv.kz/bpk-tv/000000284/tve/index.m3u8
 #EXTINF:-1 tvg-name="IPTVPLAY МультСказки" tvg-logo="https://i.ibb.co/0ccNSdV/image-16.png" group-title="Детские", IPTVPLAY МультСказки
 #EXTGRP:Детские
 http://92.53.64.197:5050/IPTVPLAYMultSkazki.tv/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 tvg-id="kidstv" tvg-name="Kids TV HD" tvg-logo="http://epg.one/img/9025.png" group-title="Детские", Kids TV HD
+#EXTGRP:Детские
+http://origin5.mediacdn.ru/live/kidstv/index.m3u8
 #EXTINF:-1 tvg-id="minimax-family1" tvg-name="MM Семейный 1 HD" tvg-logo="http://epg.one/img/5210.png" group-title="Детские", MM Семейный 1 HD
 #EXTGRP:Детские
 http://cdn.admuspeh.my/8442/video.m3u8?token=pE6pxgAtfZdZmnLx
@@ -1668,6 +1671,9 @@ https://fs2.persik.by/Skazki7/index.m3u8
 #EXTINF:-1 tvg-name="Persik TV Сундучок историй" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Детские", Persik TV Сундучок историй
 #EXTGRP:Детские
 https://fs2.persik.by/Sunduchok4/index.m3u8
+#EXTINF:-1 tvg-name="Sunset Kids" tvg-logo="https://stream.sunset-media.ru:443/images/AfE0MpsGM8EECV5bHCwLz0dG9BkK3CNuiLvuX3a_AjfhbAeRkt1I9egtCjPZSVzL.png" group-title="Детские", Sunset Kids
+#EXTGRP:Детские
+https://stream.sunset-media.ru:443/AfBrazXsUK/J9hGT3vYuv/5.m3u8
 #EXTINF:-1 tvg-id="tiji" tvg-name="Tiji TV" tvg-logo="http://epg.one/img/555.png" group-title="Детские", Tiji TV
 #EXTGRP:Детские
 http://stream01.vnet.am/Tiji/mono.m3u8
@@ -3444,6 +3450,9 @@ https://songtv.hls.iptvdc.com/web-russia/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Spirit TV HD" tvg-logo="http://epg.one/img/4657.png" group-title="Музыка", Spirit TV HD
 #EXTGRP:Музыка
 http://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Sunset Music" tvg-logo="https://stream.sunset-media.ru:443/images/AfE0MpsGM8EECV5bHCwLz8VBi-S4Jqm2IEqDnJcMnnvLkGlBYoAPsINmaaErU7Yy.png" group-title="Музыка", Sunset Music
+#EXTGRP:Музыка
+https://stream.sunset-media.ru:443/AfBrazXsUK/J9hGT3vYuv/2.m3u8
 #EXTINF:-1 tvg-name="Trace Brazuca" tvg-logo="https://avatars.mds.yandex.net/i?id=0dbd9bbd22a21bc5fa5ba2a611c9504c12dc7fed-11377357-images-thumbs&n=13" group-title="Музыка", Trace Brazuca
 #EXTGRP:Музыка
 https://amg01131-tracetv-tracebrazuca-xiaomi-vvr19.amagi.tv/playlist/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
