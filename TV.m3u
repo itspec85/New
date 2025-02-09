@@ -149,6 +149,10 @@ http://dmitry-tv.ddns.net/hls/DVB-T2/CH_OTR.m3u8
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://s18209.cdn.ngenix.net/hls/CH_R01_OTR/playlist.m3u8?version=2
+#EXTINF:-1 tvg-id="otr-pl4" tvg-name="ОТР +4" tvg-logo="http://epg.one/img/3005.png" group-title="Россия", ОТР +4
+#EXTGRP:Россия
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://dmitry-tv.ddns.net/hls/T2/CH_OTR_4.m3u8
 #EXTINF:-1 tvg-id="pervy-mn1" tvg-name="Первый канал -1" tvg-logo="http://epg.one/img/146.png" group-title="Россия", Первый канал -1
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
