@@ -1736,7 +1736,7 @@ http://213.226.137.140:81/tl/l16/playlist.m3u8
 http://dmitry-tv.ddns.net/hls/CH_KOSHMAR.m3u8
 #EXTINF:-1 tvg-id="lavstori" tvg-name="Лавстори" tvg-logo="http://epg.one/img/9001.png" group-title="Кино", Лавстори
 #EXTGRP:Кино
-http://live.admuspeh.my/8970/index.m3u8?token=iptv50na50
+http://cdn.admuspeh.my/8970/index.m3u8?token=Tva25uspehTest
 #EXTINF:-1 tvg-id="lubimoe-kino" tvg-name="Любимое кино" tvg-logo="http://epg.one/img/477.png" group-title="Кино", Любимое кино
 #EXTGRP:Кино
 http://130.193.73.10:8937/play/a037
@@ -1780,7 +1780,7 @@ http://cdn.ntv.ru/th_serial/mono.m3u8
 http://cdn.ntv.ru/th_hit/mono.m3u8
 #EXTINF:-1 tvg-id="ostrosiuzhetnoe-hd" tvg-name="Остросюжетное HD" tvg-logo="http://epg.one/img/1588.png" group-title="Кино", Остросюжетное HD
 #EXTGRP:Кино
-http://live.admuspeh.my/8184/index.m3u8?token=iptv50na50
+http://cdn.admuspeh.my/8184/index.m3u8?token=Fas-tvIp25tva
 #EXTINF:-1 tvg-id="pobeda" tvg-name="Победа" tvg-logo="http://epg.one/img/2447.png" group-title="Кино", Победа
 #EXTGRP:Кино
 http://185.23.80.28:8080/Pobeda/index.m3u8?token=test
@@ -1801,7 +1801,7 @@ http://194.158.218.123:8880/Retrotv/index.m3u8
 http://185.50.148.2:7711/RodnoeKino/index.m3u8
 #EXTINF:-1 tvg-id="romantichnoe-hd" tvg-name="Романтичное" tvg-logo="http://epg.one/img/2772.png" group-title="Кино", Романтичное
 #EXTGRP:Кино
-http://live.admuspeh.my/8948/index.m3u8?token=iptv50na50
+http://cdn.admuspeh.my/8948/index.m3u8?token=Tva25uspehTest
 #EXTINF:-1 tvg-id="russkaya-komedia" tvg-name="Русская комедия" tvg-logo="http://epg.one/img/1620.png" group-title="Кино", Русская комедия
 #EXTGRP:Кино
 http://130.193.73.10:8937/play/a03k
@@ -1850,7 +1850,7 @@ rtmp://212.0.213.132//Fenix_Kino
 http://185.23.80.28:8080/Xit/index.m3u8?token=iptv50na50
 #EXTINF:-1 tvg-id="shokiruyushchee-hd" tvg-name="Шокирующее HD" tvg-logo="http://epg.one/img/2309.png" group-title="Кино", Шокирующее HD
 #EXTGRP:Кино
-http://live.admuspeh.my/8322/index.m3u8?token=iptv50na50
+http://141.95.55.143/CH229/index.m3u8
 #EXTINF:-1 tvg-id="sony-turbo" tvg-name=".black" tvg-logo="http://epg.one/img/935.png" group-title="Кино", .black
 #EXTGRP:Кино
 http://109.200.130.123:7537/play/a02s
@@ -1985,7 +1985,7 @@ http://194.158.222.36:6086
 http://185.23.80.28:8080/TRASH/index.m3u8?token=test
 #EXTINF:-1 tvg-id="vhs-ka" tvg-name="VHS-ка HD" tvg-logo="http://epg.one/img/9065.png" group-title="Кино", VHS-ка HD
 #EXTGRP:Кино
-http://live.admuspeh.my/8962/video.m3u8?token=iptv50na50
+http://cdn.admuspeh.my/8962/index.m3u8?token=Njrty24ghjCnjNfr
 #EXTINF:-1 tvg-id="vip-comedy-cee" tvg-name="Viasat Kino Comedy HD" tvg-logo="http://epg.one/img/8880.png" group-title="Кино", Viasat Kino Comedy HD
 #EXTGRP:Кино
 http://213.226.137.140:81/tl/l1243/video.m3u8
