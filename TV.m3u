@@ -4019,6 +4019,9 @@ http://live.trkmillet.ru/millet/index.m3u8
 #EXTINF:-1 tvg-id="mir-belogoria" tvg-name="Мир Белогорья" tvg-logo="http://epg.one/img/5830.png" group-title="Региональные РФ", Мир Белогорья
 #EXTGRP:Региональные РФ
 http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8
+#EXTINF:-1 tvg-name="МИТВ (Местное Илимское TV)" tvg-logo="https://avatars.mds.yandex.net/i?id=2f75654c64b41c92fb514034ce2012f8e0722bb4-12421110-images-thumbs&n=13" group-title="Региональные РФ", МИТВ (Местное Илимское TV)
+#EXTGRP:Региональные РФ
+http://193.33.233.109:9000/tv
 #EXTINF:-1 tvg-name="Мой Дагестан" tvg-logo="https://avatars.mds.yandex.net/i?id=f282f2c6e7ba5e2f81962738f0e422a4a57d8b77-9228658-images-thumbs&n=13" group-title="Региональные РФ", Мой Дагестан
 #EXTGRP:Региональные РФ
 http://185.78.112.46:8077/MAYAK_moydag_channel/index.m3u8
