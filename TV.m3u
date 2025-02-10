@@ -3671,6 +3671,10 @@ http://dmitry-tv.ddns.net/hls/zabava/region/BRATSK/CH_11USOLYE_SIB.m3u8
 #EXTINF:-1 tvg-id="12-omsk" tvg-name="12 канал Омск HD" tvg-logo="http://epg.one/img/5841.png" group-title="Региональные РФ", 12 канал Омск HD
 #EXTGRP:Региональные РФ
 http://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
+#EXTINF:-1 tvg-id="25-region-vladik" tvg-name="25 регион (Владивосток)" tvg-logo="https://epgx.club/picons/25-region-vladik.png" group-title="Региональные РФ", 25 регион (Владивосток)
+#EXTGRP:Региональные РФ
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://dmitry-tv.ddns.net/hls/zabava/region/DV_VLD/CH_25REGIONHD.m3u8
 #EXTINF:-1 tvg-id="31-kanal-chelyabinsk" tvg-name="31 канал Челябинск" tvg-logo="https://iptvx.one/picons/31-kanal-chelyabinsk.png" group-title="Региональные РФ", 31 канал Челябинск
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -3709,6 +3713,10 @@ http://dmitry-tv.ddns.net/hls/zabava/region/BRATSK/CH_AKTIS_AGRSK.m3u8
 #EXTINF:-1 tvg-id="almazny-kray" tvg-name="Алмазный край Якутск" tvg-logo="https://avatars.mds.yandex.net/i?id=e77e751266166d879397d67fee1068af93c09d54-9160391-images-thumbs&n=13" group-title="Региональные РФ", Алмазный край Якутск
 #EXTGRP:Региональные РФ
 https://stream.almaz-media.tv:8080/hls/720.m3u8
+#EXTINF:-1 tvg-id="1obl-blagoveschensk" tvg-name="Амурское областное телевидение" tvg-logo="https://epgx.club/picons/1obl-blagoveschensk.png" group-title="Региональные РФ", Амурское областное телевидение
+#EXTGRP:Региональные РФ
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://dmitry-tv.ddns.net/hls/zabava/region/DV_BLAG/CH_AOTV.m3u8
 #EXTINF:-1 tvg-id="arig-us-24" tvg-name="Ариг Ус 24 Улан-Удэ" tvg-logo="https://iptvx.one/picons/arig-us-24.png" group-title="Региональные РФ", Ариг Ус 24 Улан-Удэ
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -3939,6 +3947,10 @@ http://live-krtv.cdnvideo.ru/krtv/krtv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="krym24" tvg-name="КРЫМ 24" tvg-logo="http://epg.one/img/2474.png" group-title="Региональные РФ", КРЫМ 24
 #EXTGRP:Региональные РФ
 http://iptv.crimea.net:8787
+#EXTINF:-1 tvg-id="ktv-luch" tvg-name="КТВ-Луч (Сызрань)" tvg-logo="https://epgx.club/picons/ktv-luch.png" group-title="Региональные РФ", КТВ-Луч (Сызрань)
+#EXTGRP:Региональные РФ
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://dmitry-tv.ddns.net/hls/zabava/region/SAMARA/CH_KTVLUCH.m3u8
 #EXTINF:-1 tvg-id="kuban-24-orbita" tvg-name="Кубань 24 ОРБИТА" tvg-logo="http://epg.one/img/6027.png" group-title="Региональные РФ", Кубань 24 ОРБИТА
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -4043,6 +4055,10 @@ http://91.234.108.44:8886/udp/237.0.1.35:10000
 #EXTINF:-1 tvg-id="vestnik-nadyma" tvg-name="Надымский вестник" tvg-logo="http://epg.one/img/5709.png" group-title="Региональные РФ", Надымский вестник
 #EXTGRP:Региональные РФ
 https://0werof7ib0p.a.trbcdn.net/livemaster/6r10qa9k6d_trknadym.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="naczhk" tvg-name="Национальный Жилищный Канал" tvg-logo="https://epgx.club/picons/naczhk.png" group-title="Региональные РФ", Национальный Жилищный Канал
+#EXTGRP:Региональные РФ
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://dmitry-tv.ddns.net/hls/zabava/region/NN/CH_NZHK.m3u8
 #EXTINF:-1 tvg-id="nash-dom" tvg-name="Наш дом Пенза" tvg-logo="https://iptvx.one/picons/nash-dom.png" group-title="Региональные РФ", Наш дом Пенза
 #EXTGRP:Региональные РФ
 http://85.234.33.64/stream/c11.m3u8
@@ -4302,6 +4318,10 @@ http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Среда HD" tvg-logo="https://epg.one/img/9083.png" group-title="Региональные РФ", Среда HD
 #EXTGRP:Региональные РФ
 http://iptv46.mcx-ix.ru:8077/sreda/index.m3u8
+#EXTINF:-1 tvg-id="infokanal-sevastopol" tvg-name="СТВ Севастополь" tvg-logo="https://epgx.club/picons/infokanal-sevastopol.png" group-title="Региональные РФ", СТВ Севастополь
+#EXTGRP:Региональные РФ
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://dmitry-tv.ddns.net/hls/zabava/region/SMRPL/CH_STVHD_SVTPL.m3u8
 #EXTINF:-1 tvg-id="stv24" tvg-name="СТВ Северодвинск" tvg-logo="https://avatars.mds.yandex.net/i?id=6d6550a7f6679f8c19c3052d5cdc972cad037f87-12509309-images-thumbs&n=13" group-title="Региональные РФ", СТВ Северодвинск
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -4312,6 +4332,10 @@ http://live.stv-tv.ru/playlist2.m3u8
 #EXTINF:-1 tvg-id="strk" tvg-name="СТРК HD orig" tvg-logo="https://epg.one/img/4123.png" group-title="Региональные РФ", СТРК HD orig
 #EXTGRP:Региональные РФ
 http://sochinskayatrk.ru/hdtv/hls/strc_hd/playlist.m3u8
+#EXTINF:-1 tvg-id="surgut-24" tvg-name="Сургут 24" tvg-logo="https://epgx.club/picons/surgut-24.png" group-title="Региональные РФ", Сургут 24
+#EXTGRP:Региональные РФ
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://dmitry-tv.ddns.net/hls/zabava/region/SUR/CH_SURGUT24HD.m3u8
 #EXTINF:-1 tvg-id="tavria" tvg-name="Таврия Херсон" tvg-logo="https://iptvx.one/picons/tavria.png" group-title="Региональные РФ", Таврия Херсон
 #EXTGRP:Региональные РФ
 http://tavr.mediacdn.ru/cdn/tavria/playlist_sdhigh.m3u8
