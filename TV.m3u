@@ -3931,6 +3931,10 @@ https://tw2ywfm7jbp.a.trbcdn.net/livemaster/w91n1qa6dh_kolymaplus_live/playlist.
 #EXTINF:-1 tvg-name="Компас ТВ Каменск-Уральский" tvg-logo="https://static.mts.ru/dpc_upload/contents/482/350x350/epg759.png" group-title="Региональные РФ", Компас ТВ Каменск-Уральский
 #EXTGRP:Региональные РФ
 rtmp://89.107.113.89/live/kamensktv
+#EXTINF:-1 tvg-name="Комсомольское время 6ТВ (Хабаровск)" tvg-logo="https://avatars.mds.yandex.net/i?id=1719a14d643469ac48fb538b96b914e411f92319-9293412-images-thumbs&n=13" group-title="Региональные РФ", Комсомольское время 6ТВ (Хабаровск)
+#EXTGRP:Региональные РФ
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://dmitry-tv.ddns.net/hls/zabava/region/DV_HVSK/CH_6TVKMS.m3u8
 #EXTINF:-1 tvg-id="kotlastv" tvg-name="Котлас 24" tvg-logo="https://iptvx.one/picons/kotlastv.png" group-title="Региональные РФ", Котлас 24
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -4092,6 +4096,14 @@ http://dmitry-tv.ddns.net/hls/zabava/region/NOVG/CH_NOVGORODTV.m3u8
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://dmitry-tv.ddns.net/hls/zabava/region/SUR/CH_2TV_RADUZHNY.m3u8
+#EXTINF:-1 tvg-name="Новочеркасск ТВ" tvg-logo="https://pic.rutubelist.ru/user/2025-01-24/cc/d6/ccd6df7def33fdf77d61e7e30ecfb81c.jpg" group-title="Региональные РФ", Новочеркасск ТВ
+#EXTGRP:Региональные РФ
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://dmitry-tv.ddns.net/hls/zabava/region/RD/CH_NOVOCHERKASSKHD.m3u8
+#EXTINF:-1 tvg-name="Новошахтинск ТВ" tvg-logo="https://pic.rutubelist.ru/user/2025-01-24/cc/d6/ccd6df7def33fdf77d61e7e30ecfb81c.jpg" group-title="Региональные РФ", Новошахтинск ТВ
+#EXTGRP:Региональные РФ
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://dmitry-tv.ddns.net/hls/zabava/region/RD/CH_NOVOSHAHTINSKHD_NVSHNSK.m3u8
 #EXTINF:-1 tvg-id="novy-vek-tambov" tvg-name="Новый век Тамбов" tvg-logo="http://epg.one/img/4628.png" group-title="Региональные РФ", Новый век Тамбов
 #EXTGRP:Региональные РФ
 http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/1280x720@2500/playlist.m3u8
@@ -4215,6 +4227,10 @@ http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1920x1080@4504/playl
 #EXTINF:-1 tvg-id="pro-zhizn" tvg-name="Про жизнь Прокопьевск" tvg-logo="https://avatars.mds.yandex.net/i?id=09267442282b9f21ece824bc736cd0965f828a32-10160381-images-thumbs&n=13" group-title="Региональные РФ", Про жизнь Прокопьевск
 #EXTGRP:Региональные РФ
 https://27trk.iptv2022.com/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Пыть-Ях Информ" tvg-logo="https://avatars.mds.yandex.net/get-socsnippets/12849796/2a0000019139dd00100698d997b03c715bc1/square_216" group-title="Региональные РФ", Пыть-Ях Информ
+#EXTGRP:Региональные РФ
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://dmitry-tv.ddns.net/hls/zabava/region/SUR/CH_PYT-YAHINFORM.m3u8
 #EXTINF:-1 tvg-id="ramenskoe-tv" tvg-name="Раменское ТВ HD" tvg-logo="https://epg.one/img/6763.png" group-title="Региональные РФ", Раменское ТВ HD
 #EXTGRP:Региональные РФ
 https://e10-ll.facecast.net/rtv/0.m3u8
@@ -4484,6 +4500,10 @@ http://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="chavash-en" tvg-name="Чаваш ЕН Чебоксары" tvg-logo="https://iptvx.one/picons/chavash-en.png" group-title="Региональные РФ", Чаваш ЕН Чебоксары
 #EXTGRP:Региональные РФ
 https://mhd122.iptv2022.com/ntrk/chavashen/324/1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Шахты ТВ" tvg-logo="https://pic.rutubelist.ru/user/2025-01-24/cc/d6/ccd6df7def33fdf77d61e7e30ecfb81c.jpg" group-title="Региональные РФ", Шахты ТВ
+#EXTGRP:Региональные РФ
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://dmitry-tv.ddns.net/hls/zabava/region/RD/CH_SHAHTYHD.m3u8
 #EXTINF:-1 tvg-id="shayantv" tvg-name="Шаян ТВ Татарстан" tvg-logo="https://iptvx.one/picons/shayantv.png" group-title="Региональные РФ", Шаян ТВ Татарстан
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
