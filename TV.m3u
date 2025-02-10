@@ -3661,9 +3661,6 @@ https://live-10chanel.cdnvideo.ru/10chanel/streamtr_1/playlist.m3u8
 #EXTINF:-1 tvg-name="11 канал Пенза" tvg-logo="https://avatars.mds.yandex.net/i?id=bafabb21bdf607eb00218e800fe2a61deff69521-8265302-images-thumbs&n=13" group-title="Региональные РФ", 11 канал Пенза
 #EXTGRP:Региональные РФ
 http://85.234.33.63/stream/c11.m3u8
-#EXTINF:-1 tvg-name="11 канал Полевской" tvg-logo="https://avatars.mds.yandex.net/i?id=6636305073ff86e3a3188570de533ba7_sr-5233666-images-thumbs&n=13" group-title="Региональные РФ", 11 канал Полевской
-#EXTGRP:Региональные РФ
-http://hjplb2qzsf8.a.trbcdn.net/livemaster/qm9inc7byc_stream1/playlist.m3u8
 #EXTINF:-1 tvg-name="11 канал Усолье-Сибирское" tvg-logo="https://avatars.mds.yandex.net/i?id=f343b765a201e8ee12009883501315586053d877-5544858-images-thumbs&n=13" group-title="Региональные РФ", 11 канал Усолье-Сибирское
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
