@@ -4014,7 +4014,8 @@ https://live-mordovia24.cdnvideo.ru/mordovia24/streamtr/playlist.m3u8
 http://195.26.83.96:7007/play/a008/index.m3u8
 #EXTINF:-1 tvg-id="doverie" tvg-name="Москва Доверие" tvg-logo="http://epg.one/img/2308.png" group-title="Региональные РФ", Москва Доверие
 #EXTGRP:Региональные РФ
-http://185.23.80.28:8080/MoskvaDoverie/index.m3u8?token=iptv50na50
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://dmitry-tv.ddns.net/hls/zabava/region/MOS/CH_MOSKVADOVERIE.m3u8
 #EXTINF:-1 tvg-id="mtv-volgograd" tvg-name="МТВ Волгоград HD" tvg-logo="http://epg.one/img/6401.png" group-title="Региональные РФ", МТВ Волгоград HD
 #EXTGRP:Региональные РФ
 http://hls-volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
