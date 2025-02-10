@@ -3786,7 +3786,7 @@ http://dmitry-tv.ddns.net/hls/zabava/region/BRYANSK/CH_BRGUBERNIAHD.m3u8
 #EXTINF:-1 tvg-id="bst" tvg-name="БСТ" tvg-logo="http://epg.one/img/2464.png" group-title="Региональные РФ", БСТ
 #EXTGRP:Региональные РФ
 http://bsttv.bonus-tv.ru:80/cdn/bst/playlist_sdhigh.m3u8
-#EXTINF:-1 tvg-id="bst-bratsk" tvg-name="БСТ 24 (Братск)" tvg-logo="http://epg.one/img/5771.png" group-title="Региональные РФ", БСТ 24 (Братск)
+#EXTINF:-1 tvg-id="bst-bratsk" tvg-name="БСТ 24 (Братск)" tvg-logo="http://epg.one/img/9621.png" group-title="Региональные РФ", БСТ 24 (Братск)
 #EXTGRP:Региональные РФ
 http://bst.bratsk.ru/hls/bst2/fhd/stream.m3u8
 #EXTINF:-1 tvg-id="buriaad" tvg-name="Буряад ТВ Улан-Удэ" tvg-logo="https://avatars.mds.yandex.net/i?id=e2ca8715c74145f06d0e01d0bc7ccc4336f4137af3f56775-12530521-images-thumbs&n=13" group-title="Региональные РФ", Буряад ТВ Улан-Удэ
