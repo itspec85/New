@@ -4852,10 +4852,7 @@ http://87.99.87.203:2007/channel/n3a4b2f5d/index.m3u8?q=e2022ec6fb1b276498db1c99
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 #EXTINF:-1 tvg-name="A2 TV HD TR" tvg-logo="http://epg.one/img/3961.png" group-title="Турция", A2 TV HD TR
 #EXTGRP:Турция
-http://stream.tvcdn.net/eglence/a2.m3u8
-#EXTINF:-1 tvg-name="Agro TV" tvg-logo="https://avatars.mds.yandex.net/i?id=3dcc86666c4094404a5adfb8a8cf191d8f20d612-8487401-images-thumbs&n=13" group-title="Турция", Agro TV
-#EXTGRP:Турция
-https://yayin30.haber100.com/live/agrotv/chunklist.m3u8
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:BB:EE:72&stream=3066&extension=ts
 #EXTINF:-1 tvg-name="Akit TV HD TR" tvg-logo="http://epg.one/img/3839.png" group-title="Турция", Akit TV HD TR
 #EXTGRP:Турция
 http://akittv-live.ercdn.net/akittv/akittv.m3u8
@@ -4864,10 +4861,7 @@ http://akittv-live.ercdn.net/akittv/akittv.m3u8
 http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-name="Bengü Türk" tvg-logo="https://i.ibb.co/0MHPk8y/benguturk.png" group-title="Турция", Bengü Türk
 #EXTGRP:Турция
-https://ensonhaber-live.ercdn.net/benguturk/benguturk.m3u8
-#EXTINF:-1 tvg-name="Berat TV" tvg-logo="https://avatars.mds.yandex.net/i?id=9dec886297be7710a7c1806b1a452159668aed97-10165663-images-thumbs&n=13" group-title="Турция", Berat TV
-#EXTGRP:Турция
-https://cdn-berattv.yayin.com.tr/berattv/berattv/chunklist_w401133734.m3u8
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:BB:EE:72&stream=45338&extension=ts
 #EXTINF:-1 tvg-id="beyaz-tv-tr" tvg-name="Beyaz TV TR" tvg-logo="http://epg.one/img/2668.png" group-title="Турция", Beyaz TV TR
 #EXTGRP:Турция
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
@@ -4894,7 +4888,7 @@ https://cdn1-ercistv.yayin.com.tr/ercistv/amlst:ercistv/chunklist.m3u8
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 #EXTINF:-1 tvg-name="Flash TV" tvg-logo="https://epg.one/img/8653.png" group-title="Турция", Flash TV
 #EXTGRP:Турция
-https://stream.guventechnology.com:19360/flashtv/flashtv.m3u8
+https://flashhaber-live.ercdn.net/flashhaber/flashhaber.m3u8
 #EXTINF:-1 tvg-name="Global Haber TV TR" tvg-logo="https://epg.one/img/8653.png" group-title="Турция", Global Haber TV TR
 #EXTGRP:Турция
 https://ensonhaber-live.ercdn.net/haberglobal/haberglobal.m3u8
@@ -4913,21 +4907,18 @@ http://wowza.istweb.tv:1935/webtv/webtv_wowza1/playlist.m3u8
 #EXTINF:-1 tvg-name="Kanal 7 TR" tvg-logo="http://epg.one/img/3957.png" group-title="Турция", Kanal 7 TR
 #EXTGRP:Турция
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
-#EXTINF:-1 tvg-name="Kanal 56" tvg-logo="https://avatars.mds.yandex.net/i?id=5c06086b5b2d41dfd7f802f82b8fdc2065c537cf-10641465-images-thumbs&n=13" group-title="Турция", Kanal 56
-#EXTGRP:Турция
-https://cdn-kanal56tv.yayin.com.tr/kanal56tv/kanal56tv/chunklist_w559405215.m3u8
 #EXTINF:-1 tvg-id="kanal-d-hd" tvg-name="Kanal D" tvg-logo="http://epg.one/img/2605.png" group-title="Турция", Kanal D
 #EXTGRP:Турция
 https://demiroren-live.daioncdn.net/kanald/kanald_720p.m3u8
 #EXTINF:-1 tvg-name="KRT TR" tvg-logo="http://epg.one/img/5972.png" group-title="Турция", KRT TR
 #EXTGRP:Турция
-https://krt.blutv.com/blutv_krt_live/live.m3u8
+https://koprulu1.global.ssl.fastly.net/yt.m3u8/?id=Avu7O3hKslA.m3u8
 #EXTINF:-1 tvg-name="Lalegul TV TR" tvg-logo="http://epg.one/img/3849.png" group-title="Турция", Lalegul TV TR
 #EXTGRP:Турция
 https://lbl.netmedya.net/hls/lalegultv.m3u8
 #EXTINF:-1 tvg-id="ntv-hd-tr" tvg-name="NTV FHD TR" tvg-logo="http://epg.one/img/3976.png" group-title="Турция", NTV FHD TR
 #EXTGRP:Турция
-http://ttk0811.xyz:8080/ngn8165/rgn.7075/101114
+http://31.222.206.98/8813/tracks-v1a1/mono.ts.m3u8?token=test
 #EXTINF:-1 tvg-name="On4 TV" tvg-logo="https://www.on4.com.tr/imgs/180x80x2/logoon44.png" group-title="Турция", On4 TV
 #EXTGRP:Турция
 http://stream.tvcdn.net/dini/on4-tv.m3u8
