@@ -4849,7 +4849,7 @@ http://87.99.87.203:2007/channel/n3a4b2f5d/index.m3u8?q=e2022ec6fb1b276498db1c99
 
 #EXTINF:-1 tvg-name="360 TV HD TR" tvg-logo="http://epg.one/img/3964.png" group-title="Турция", 360 TV HD TR
 #EXTGRP:Турция
-https://360tv.blutv.com/blutv_360tv_live/live.m3u8
+https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 #EXTINF:-1 tvg-name="A2 TV HD TR" tvg-logo="http://epg.one/img/3961.png" group-title="Турция", A2 TV HD TR
 #EXTGRP:Турция
 http://stream.tvcdn.net/eglence/a2.m3u8
@@ -4861,7 +4861,7 @@ https://yayin30.haber100.com/live/agrotv/chunklist.m3u8
 http://akittv-live.ercdn.net/akittv/akittv.m3u8
 #EXTINF:-1 tvg-name="ATV TR" tvg-logo="http://epg.one/img/2600.png" group-title="Турция", ATV TR
 #EXTGRP:Турция
-http://hw1.jemtv.com/app/ATVHD/chunks.m3u8
+http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-name="Bengü Türk" tvg-logo="https://i.ibb.co/0MHPk8y/benguturk.png" group-title="Турция", Bengü Türk
 #EXTGRP:Турция
 https://ensonhaber-live.ercdn.net/benguturk/benguturk.m3u8
@@ -4966,7 +4966,7 @@ http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:BB:EE:72&stream=29026&extension
 http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:BB:EE:72&stream=7326&extension=ts
 #EXTINF:-1 tvg-id="trt-avaz" tvg-name="TRT AVAZ" tvg-logo="http://epg.one/img/3858.png" group-title="Турция", TRT AVAZ
 #EXTGRP:Турция
-http://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
+http://stream.tvcdn.net/ulusal-yurt-disi/trt-avaz.m3u8
 #EXTINF:-1 tvg-name="TRT Belgesel TR" tvg-logo="http://epg.one/img/3907.png" group-title="Турция", TRT Belgesel TR
 #EXTGRP:Турция
 http://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
