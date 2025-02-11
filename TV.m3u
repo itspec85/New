@@ -4989,6 +4989,38 @@ https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 #EXTGRP:Турция
 https://tv100.blutv.com/blutv_tv100_live/live.m3u8
 
+#EXTINF:-1 tvg-name="Now TV" tvg-logo="http://epg.one/img/2622.png" group-title="Турция", Now TV
+#EXTGRP:Турция
+https://c.fulltvizle.com/fox/index.m3u8
+#EXTINF:-1 tvg-name="TV 8,5" tvg-logo="http://epg.one/img/2622.png" group-title="Турция", TV 8,5
+#EXTGRP:Турция
+http://50.7.144.122:1935/livetv/tv8-5.stream/sec-f5-v1-a1.m3u8
+#EXTINF:-1 tvg-name="TGRT EU" tvg-logo="http://epg.one/img/2622.png" group-title="Турция", TGRT EU
+#EXTGRP:Турция
+http://185.234.111.229:8000/play/a048
+#EXTINF:-1 tvg-name="Show Türk" tvg-logo="http://epg.one/img/2622.png" group-title="Турция", Show Türk
+#EXTGRP:Турция
+https://raw.githubusercontent.com/rideordie16/YouTube/main/ch/showturk.m3u8
+#EXTINF:-1 tvg-name="Ti̇vi̇ Türk" tvg-logo="http://epg.one/img/2622.png" group-title="Турция", Ti̇vi̇ Türk
+#EXTGRP:Турция
+http://stream.tvcdn.net/diger-eglence/tivi-turk.m3u8
+#EXTINF:-1 tvg-name="Super Türk" tvg-logo="http://epg.one/img/2622.png" group-title="Турция", Super Türk
+#EXTGRP:Турция
+http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
+#EXTINF:-1 tvg-name="Super Türk Max" tvg-logo="http://epg.one/img/2622.png" group-title="Турция", Super Türk Max
+#EXTGRP:Турция
+http://75.119.144.48/SUPERTURK_MAX_HD/index.m3u8
+#EXTINF:-1 tvg-name="SDM Si̇nema" tvg-logo="http://epg.one/img/2622.png" group-title="Турция", SDM Si̇nema
+#EXTGRP:Турция
+https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="BLUTV Play 1" tvg-logo="http://epg.one/img/2622.png" group-title="Турция", BLUTV Play 1
+#EXTGRP:Турция
+https://play1.blutv.com/blutv_play1/smil:blutv_play1.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="BLUTV Play 2" tvg-logo="http://epg.one/img/2622.png" group-title="Турция", BLUTV Play 2
+#EXTGRP:Турция
+https://play2.blutv.com/blutv_play2/smil:blutv_play2.smil/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-name="Aqlvoy TV UZ" tvg-logo="http://epg.one/img/7912.png" group-title="Узбекистан", Aqlvoy TV UZ
 #EXTGRP:Узбекистан
