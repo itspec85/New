@@ -3120,7 +3120,7 @@ http://217.174.225.146/hls/ch004_720/index.m3u8
 http://globalstreamz.xyz:3050/edwhite43@yahoo.com/bK5HuUT6uk/601454
 #EXTINF:-1 tvg-name="UzSport" tvg-logo="http://epg.one/img/2647.png" group-title="Спорт", UzSport
 #EXTGRP:Спорт
-https://flussonic.salomtv.uz/Sport-UZ/video.m3u8
+https://flussonic.salomtv.uz/Foreign-Lang/video.m3u8
 #EXTINF:-1 tvg-id="viasat-sport" tvg-name="Viju+ Sport" tvg-logo="http://epg.one/img/2055.png" group-title="Спорт", Viju+ Sport
 #EXTGRP:Спорт
 http://213.226.137.140:81/tl/l97/mpegts
@@ -5023,9 +5023,6 @@ https://flussonic.salomtv.uz/DasturxonTV/video.m3u8
 #EXTINF:-1 tvg-name="Dunyo" tvg-logo="http://epg.one/img/2649.png" group-title="Узбекистан", Dunyo
 #EXTGRP:Узбекистан
 https://flussonic.salomtv.uz/Dunyoboylab_HD/video.m3u8
-#EXTINF:-1 tvg-name="Foreign Languages UZ" tvg-logo="http://epg.one/img/7919.png" group-title="Узбекистан", Foreign Languages UZ
-#EXTGRP:Узбекистан
-https://flussonic.salomtv.uz/Foreign-Lang/video.m3u8
 #EXTINF:-1 tvg-name="FTV UZ" tvg-logo="https://avatars.mds.yandex.net/i?id=9d431caa09e4a083453203404558093876aebdac-10268314-images-thumbs&n=13" group-title="Узбекистан", FTV UZ
 #EXTGRP:Узбекистан
 https://flussonic.salomtv.uz/FTVHD/video.m3u8
