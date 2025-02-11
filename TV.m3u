@@ -5118,9 +5118,6 @@ http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-name="33 канал" tvg-logo="https://avatars.mds.yandex.net/i?id=9fa3e7e920525362158f98c058f2e4ba990cddda-9678500-images-thumbs&n=13" group-title="Украина", 33 канал
 #EXTGRP:Украина
 https://33news.org/33chanel/live/chunklist_w459617257.m3u8
-#EXTINF:-1 tvg-id="avers" tvg-name="Аверс" tvg-logo="http://epg.one/img/8885.png" group-title="Украина", Аверс
-#EXTGRP:Украина
-https://avers.pp.ua/hls/efir.m3u8
 #EXTINF:-1 tvg-id="apostrof" tvg-name="Апостроф TV" tvg-logo="http://epg.one/img/3290.png" group-title="Украина", Апостроф TV
 #EXTGRP:Украина
 http://cdn1.live-tv.od.ua:8081/dumska/dumska720p/playlist.m3u8
@@ -5137,9 +5134,6 @@ http://cdn10.live-tv.od.ua:8081/izod/izod/playlist.m3u8
 #EXTGRP:Украина
 #EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
 https://s83.chas.tv:8082/chas/inter.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="IТ3" tvg-logo="https://avatars.mds.yandex.net/i?id=1a814a6263e2a73dd000bcaa7f5fc5841703dfe5-6249527-images-thumbs&n=13" group-title="Украина", IТ3
-#EXTGRP:Украина
-http://cdn10.live-tv.od.ua:8081/it3od/720p/playlist.m3u8
 #EXTINF:-1 tvg-name="ITV Media Group" tvg-logo="https://avatars.mds.yandex.net/i?id=73d18f083f462886d765a3ff693e48ad513076fa-4409822-images-thumbs&n=13" group-title="Украина", ITV Media Group
 #EXTGRP:Украина
 http://cdn10.live-tv.od.ua:8081/itvrv/720p/playlist.m3u8
