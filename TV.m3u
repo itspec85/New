@@ -4961,6 +4961,9 @@ http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:BB:EE:72&stream=2837&extension=
 #EXTINF:-1 tvg-name="TRT 2 HD" tvg-logo="http://epg.one/img/3939.png" group-title="Турция", TRT 2 HD
 #EXTGRP:Турция
 http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:BB:EE:72&stream=29026&extension=ts
+#EXTINF:-1 tvg-id="trt4k-tr" tvg-name="TRT 4K" tvg-logo="http://epg.one/img/2744.png" group-title="Турция", TRT 4K
+#EXTGRP:Турция
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:BB:EE:72&stream=7326&extension=ts
 #EXTINF:-1 tvg-id="trt-avaz" tvg-name="TRT AVAZ" tvg-logo="http://epg.one/img/3858.png" group-title="Турция", TRT AVAZ
 #EXTGRP:Турция
 http://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
