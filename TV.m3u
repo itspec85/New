@@ -4761,25 +4761,16 @@ http://amtv.tulixcdn.com/amtv2/am2abr/tracks-v2a1/index.m3u8
 https://streamer1.connectto.com/ARTN_mobile/index.m3u8
 #EXTINF:-1 tvg-id="ATV.am" tvg-name="ATV HD AM" tvg-logo="http://epg.one/img/2067.png" group-title="Армения", ATV HD AM
 #EXTGRP:Армения
-http://45.159.74.13:80/ATV/tracks-v1a1/mono.m3u8
+http://ott-cdn.ucom.am/s8/index.m3u8
 #EXTINF:-1 tvg-id="atv-bazmoc" tvg-name="Բազմոց tv" tvg-logo="http://epg.one/img/2626.png" group-title="Армения", Բազմոց tv
 #EXTGRP:Армения
 http://stream01.vnet.am/Channel_118/mono.m3u8
 #EXTINF:-1 tvg-id="atv-filmzone" tvg-name="ՖՒԼՄԶՈՆ" tvg-logo="http://epg.one/img/2386.png" group-title="Армения", ՖՒԼՄԶՈՆ
 #EXTGRP:Армения
-http://45.159.74.13:80/Filmzone/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="atv-kinoman" tvg-name="ԿԻՆՈՄԱՆ" tvg-logo="http://epg.one/img/2393.png" group-title="Армения", ԿԻՆՈՄԱՆ
-#EXTGRP:Армения
-http://45.159.74.13:80/Kinoman/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Դար 21" tvg-logo="http://epg.one/img/2061.png" group-title="Армения", Դար 21
-#EXTGRP:Армения
-http://45.159.74.13:80/21TV/tracks-v1a1/mono.m3u8
+http://ott-cdn.ucom.am/s48/index.m3u8
 #EXTINF:-1 tvg-name="Լուրեր" tvg-logo="http://epg.one/img/5930.png" group-title="Армения", Լուրեր
 #EXTGRP:Армения
 https://amtv.bozztv.com/amtv3/am3abr/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="kentron-tv" tvg-name="Kentron AM" tvg-logo="http://epg.one/img/5917.png" group-title="Армения", Kentron AM
-#EXTGRP:Армения
-http://45.159.74.13:80/Kentron/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Շանթ" tvg-logo="https://avatars.mds.yandex.net/i?id=c434af9d2ef060500400669e191b6664d07ab6c6c59186ae-11740199-images-thumbs&n=13" group-title="Армения", Շանթ
 #EXTGRP:Армения
 http://5.188.172.179/Shant/index.m3u8
