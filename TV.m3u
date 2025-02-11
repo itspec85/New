@@ -4989,16 +4989,16 @@ https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 #EXTGRP:Турция
 https://tv100.blutv.com/blutv_tv100_live/live.m3u8
 
-#EXTINF:-1 tvg-name="Now TV" tvg-logo="http://epg.one/img/2622.png" group-title="Турция", Now TV
+#EXTINF:-1 tvg-id="fox-hd-tr" tvg-name="Now TV" tvg-logo="http://epg.one/img/2622.png" group-title="Турция", Now TV
 #EXTGRP:Турция
 https://c.fulltvizle.com/fox/index.m3u8
-#EXTINF:-1 tvg-name="TV 8,5" tvg-logo="http://epg.one/img/2622.png" group-title="Турция", TV 8,5
+#EXTINF:-1 tvg-id="tv85-tr" tvg-name="TV 8,5" tvg-logo="http://epg.one/img/2622.png" group-title="Турция", TV 8,5
 #EXTGRP:Турция
 http://50.7.144.122:1935/livetv/tv8-5.stream/sec-f5-v1-a1.m3u8
 #EXTINF:-1 tvg-name="TGRT EU" tvg-logo="http://epg.one/img/2622.png" group-title="Турция", TGRT EU
 #EXTGRP:Турция
 http://185.234.111.229:8000/play/a048
-#EXTINF:-1 tvg-name="Show Türk" tvg-logo="http://epg.one/img/2622.png" group-title="Турция", Show Türk
+#EXTINF:-1 tvg-id="show-hd-tr" tvg-name="Show Türk" tvg-logo="http://epg.one/img/2622.png" group-title="Турция", Show Türk
 #EXTGRP:Турция
 https://raw.githubusercontent.com/rideordie16/YouTube/main/ch/showturk.m3u8
 #EXTINF:-1 tvg-name="Ti̇vi̇ Türk" tvg-logo="http://epg.one/img/2622.png" group-title="Турция", Ti̇vi̇ Türk
