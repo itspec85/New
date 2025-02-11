@@ -4800,9 +4800,6 @@ http://dmitry-tv.ddns.net/hls/blrus/CH_BELARUS3HD.m3u8
 #EXTINF:-1 tvg-id="belarus24" tvg-name="Беларусь 24" tvg-logo="http://epg.one/img/2170.png" group-title="Беларусь", Беларусь 24
 #EXTGRP:Беларусь
 http://dmitry-tv.ddns.net/hls/blrus/CH_BELARUS24HD.m3u8
-#EXTINF:-1 tvg-name="БелМуз ТВ" tvg-logo="http://epg.one/img/6775.png" group-title="Беларусь", БелМуз ТВ
-#EXTGRP:Беларусь
-http://87.99.87.203:2007/channel/5f920c34/index.m3u8?q=e2022ec6fb1b276498db1c99c5f4deed
 #EXTINF:-1 tvg-id="tro" tvg-name="БелРос" tvg-logo="http://epg.one/img/2294.png" group-title="Беларусь", БелРос
 #EXTGRP:Беларусь
 https://live.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
@@ -4842,9 +4839,6 @@ http://dmitry-tv.ddns.net/hls/blrus/CH_CTBHD720.m3u8
 #EXTINF:-1 tvg-id="tv3-by" tvg-name="ТВ3 BY" tvg-logo="https://iptvx.one/picons/tv3-by.png" group-title="Беларусь", ТВ3 BY
 #EXTGRP:Беларусь
 http://93.189.224.246:52900/play/a00f/index.m3u8
-#EXTINF:-1 tvg-id="minsk-tv" tvg-name="Яснае ТВ HD" tvg-logo="http://epg.one/img/4626.png" group-title="Беларусь", Яснае ТВ HD
-#EXTGRP:Беларусь
-http://87.99.87.203:2007/channel/n3a4b2f5d/index.m3u8?q=e2022ec6fb1b276498db1c99c5f4deed
 
 
 #EXTINF:-1 tvg-name="360 TV HD TR" tvg-logo="http://epg.one/img/3964.png" group-title="Турция", 360 TV HD TR
