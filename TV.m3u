@@ -872,7 +872,7 @@ http://213.226.137.140:81/tl/l105/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000001921/tve/index.m3u8
 #EXTINF:-1 tvg-id="appetitny" tvg-name="Аппетитный HD" tvg-logo="http://epg.one/img/9331.png" group-title="Познавательные", Аппетитный HD
 #EXTGRP:Познавательные
-http://185.50.148.2:7703/Motorsport/index.m3u8
+https://ucdn.beetv.kz/bpk-tv/000008877/tve/index.m3u8
 #EXTINF:-1 tvg-id="arsenaltv" tvg-name="Арсенал HD" tvg-logo="http://epg.one/img/2768.png" group-title="Познавательные", Арсенал HD
 #EXTGRP:Познавательные
 http://dmitry-tv.ddns.net/hls/CH_ARSENALHD.m3u8
@@ -893,13 +893,13 @@ https://5d23269b3ec0c.streamlock.net/WEB_Vera24/Vera24.stream/playlist.m3u8
 https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="voprosy-i-otvety" tvg-name="Вопросы и ответы" tvg-logo="http://epg.one/img/2451.png" group-title="Познавательные", Вопросы и ответы
 #EXTGRP:Познавательные
-http://91.207.115.228:5000/c178
+https://ucdn.beetv.kz/bpk-tv/000000195/tve/index.m3u8
 #EXTINF:-1 tvg-id="vremia" tvg-name="Время" tvg-logo="http://epg.one/img/669.png" group-title="Познавательные", Время
 #EXTGRP:Познавательные
 http://130.193.73.10:8937/play/a03p
 #EXTINF:-1 tvg-id="glazami-turista" tvg-name="Глазами туриста HD" tvg-logo="http://epg.one/img/2508.png" group-title="Познавательные", Глазами туриста HD
 #EXTGRP:Познавательные
-http://tv.newline.in.ua:9022/play/c009
+https://ucdn.beetv.kz/bpk-tv/000001414/tve/index.m3u8
 #EXTINF:-1 tvg-id="dialogi-o-rybalke" tvg-name="Диалоги о рыбалке" tvg-logo="http://epg.one/img/2627.png" group-title="Познавательные", Диалоги о рыбалке
 #EXTGRP:Познавательные
 http://130.193.73.10:8937/play/a04q
@@ -932,7 +932,7 @@ http://130.193.73.10:8937/play/a02d
 http://185.23.80.28:8080/Draiv/index.m3u8?token=test
 #EXTINF:-1 tvg-id="dumatv" tvg-name="Дума ТВ" tvg-logo="https://iptvx.one/picons/dumatv.png" group-title="Познавательные", Дума ТВ
 #EXTGRP:Познавательные
-https://dumatv.iptv2022.com/tracks-v2a1/mono.m3u8
+https://dumatv.iptv2022.com/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ege-tv" tvg-name="ЕГЭ ТВ" tvg-logo="http://epg.one/img/2420.png" group-title="Познавательные", ЕГЭ ТВ
 #EXTGRP:Познавательные
 http://dmitry-tv.ddns.net/hls/CH_EGETV.m3u8
@@ -1154,7 +1154,7 @@ http://31.148.48.15:80/Telekafe/index.m3u8
 http://31.148.48.15:80/Teleputeshestviya/index.m3u8?token=test
 #EXTINF:-1 tvg-id="tochka-otryva" tvg-name="Точка отрыва" tvg-logo="http://epg.one/img/617.png" group-title="Познавательные", Точка отрыва
 #EXTGRP:Познавательные
-http://185.50.148.2:7703/OhotaiRibalka/index.m3u8
+http://185.23.80.28:8080/TochkoOtryva/index.m3u8?token=iptv50na50
 #EXTINF:-1 tvg-id="tochka-tv" tvg-name="Точка ТВ" tvg-logo="http://epg.one/img/2457.png" group-title="Познавательные", Точка ТВ
 #EXTGRP:Познавательные
 http://185.23.80.28:8080/TochkaTV/index.m3u8?token=test
@@ -1166,7 +1166,7 @@ http://hls.tv.3angels.ru/stream/HD/HD.m3u8
 http://stream01.vnet.am/ZooTv/mono.m3u8
 #EXTINF:-1 tvg-id="usadba" tvg-name="Усадьба" tvg-logo="http://epg.one/img/434.png" group-title="Познавательные", Усадьба
 #EXTGRP:Познавательные
-http://185.50.148.2:7703/PSIHOLOGIYA21/index.m3u8
+http://194.158.218.123:8880/Usadba/index.m3u8
 #EXTINF:-1 tvg-id="uspex" tvg-name="Успех" tvg-logo="http://epg.one/img/2455.png" group-title="Познавательные", Успех
 #EXTGRP:Познавательные
 http://185.23.80.28:8080/VashUspex/index.m3u8?token=uspeh
@@ -1212,7 +1212,7 @@ http://45.159.74.14:80/AnimalPlanet/tracks-v1a2/mono.m3u8
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-id="big-planet" tvg-name="Big Planet" tvg-logo="http://epg.one/img/7623.png" group-title="Познавательные", Big Planet
 #EXTGRP:Познавательные
-http://185.50.148.2:7703/BigPlanet/index.m3u8
+http://109.200.130.123:7537/play/a02j
 #EXTINF:-1 tvg-id="bloomberg" tvg-name="Bloomberg TV USA" tvg-logo="https://avatars.mds.yandex.net/i?id=9bdd7c5b9b6a9fa55348eada7a515346ada82991-12371687-images-thumbs&n=13" group-title="Познавательные", Bloomberg TV USA
 #EXTGRP:Познавательные
 https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
@@ -1269,14 +1269,13 @@ http://178.219.128.68:64888/DTXHD
 http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="euronews" tvg-name="Euronews Россия" tvg-logo="http://epg.one/img/2266.png" group-title="Познавательные", Euronews Россия
 #EXTGRP:Познавательные
-#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
-http://s83.chas.tv:8081/chas/euronewstv-hq.stream/playlist.m3u8
+http://87.99.87.203:2007/channel/56c5397f/index.m3u8?q=c3588a53af791e8f506ef6c3dcdc8be0
 #EXTINF:-1 tvg-id="euronews-en" tvg-name="Euronews English" tvg-logo="http://epg.one/img/2266.png" group-title="Познавательные", Euronews English
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000002455/tve/index.m3u8
 #EXTINF:-1 tvg-id="fashion-one-4k" tvg-name="Fashion TV UHD" tvg-logo="http://epg.one/img/2748.png" group-title="Познавательные", Fashion TV UHD
 #EXTGRP:Познавательные
-https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
 #EXTINF:-1 tvg-id="food-network-eu" tvg-name="Food Network" tvg-logo="http://epg.one/img/3607.png" group-title="Познавательные", Food Network
 #EXTGRP:Познавательные
 http://213.226.137.140:81/tl/l98/mpegts
