@@ -532,10 +532,6 @@ http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TVC.m3u8
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://s18209.cdn.ngenix.net/hls/CH_R04_TVC/playlist.m3u8?version=2
-#EXTINF:-1 tvg-id="tvcentr" tvg-name="ТВЦ HD" tvg-logo="http://epg.one/img/649.png" group-title="Россия", ТВЦ HD
-#EXTGRP:Россия
-#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
-https://s83.chas.tv:8082/chas/tvc-hq.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="tvcentr-pl2" tvg-name="ТВЦ +2" tvg-logo="http://epg.one/img/2038.png" group-title="Россия", ТВЦ +2
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -569,7 +565,7 @@ http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TNT.m3u8
 http://s18209.cdn.ngenix.net/hls/CH_R01_TNT/playlist.m3u8?version=2
 #EXTINF:-1 tvg-id="tnt" tvg-name="ТНТ HD" tvg-logo="http://epg.one/img/1767.png" group-title="Россия", ТНТ HD
 #EXTGRP:Россия
-http://185.50.148.2:7710/TNT_HD/index.m3u8
+http://185.23.80.28:8080/TNT_HD/index.m3u8?token=iptv50na50
 #EXTINF:-1 tvg-id="tnt-pl2" tvg-name="ТНТ +2" tvg-logo="http://epg.one/img/3022.png" group-title="Россия", ТНТ +2
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
