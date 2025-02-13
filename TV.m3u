@@ -920,7 +920,7 @@ http://stream01.vnet.am/Channel_126/mono.m3u8
 http://95.156.76.230:33001/udp/230.4.34.78:1234
 #EXTINF:-1 tvg-id="dozhd" tvg-name="Дождь" tvg-logo="http://epg.one/img/2399.png" group-title="Познавательные", Дождь
 #EXTGRP:Познавательные
-https://m3u8.ott.blue/watch/7319/video.m3u8?geo=auto&token=94450098895765784220366841698509
+http://cdn.admuspeh.my/8113/index.m3u8?token=iptv50na50
 #EXTINF:-1 tvg-id="doktor" tvg-name="Доктор" tvg-logo="http://epg.one/img/16.png" group-title="Познавательные", Доктор
 #EXTGRP:Познавательные
 http://178.57.121.38:8080/doctor/index.m3u8?token=test
@@ -992,7 +992,7 @@ https://live-3.otcnet.ru/congresstv-multi/index.m3u8
 https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="kto-est-kto" tvg-name="Кто есть кто" tvg-logo="http://epg.one/img/2456.png" group-title="Познавательные", Кто есть кто
 #EXTGRP:Познавательные
-http://tv.newline.in.ua:9000/play/f08a
+http://cdn.admuspeh.my/8105/index.m3u8?token=iptv50na50
 #EXTINF:-1 tvg-id="mir-uvlecheniy" tvg-name="Кто куда" tvg-logo="http://epg.one/img/2467.png" group-title="Познавательные", Кто куда
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000001377/tve/index.m3u8
@@ -1282,9 +1282,6 @@ http://213.226.137.140:81/tl/l98/mpegts
 #EXTINF:-1 tvg-id="fox-news-us" tvg-name="FOX NEWS CHANNEL FHD" tvg-logo="http://epg.one/img/6683.png" group-title="Познавательные", FOX NEWS CHANNEL FHD
 #EXTGRP:Познавательные
 http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
-#EXTINF:-1 tvg-id="france-24" tvg-name="France 24" tvg-logo="http://epg.one/img/2133.png" group-title="Познавательные", France 24
-#EXTGRP:Познавательные
-https://ucdn.beetv.kz/bpk-tv/000000290/tve/index.m3u8
 #EXTINF:-1 tvg-id="gags-network" tvg-name="Gags Network" tvg-logo="http://epg.one/img/3551.png" group-title="Познавательные", Gags Network
 #EXTGRP:Познавательные
 http://95.67.12.82:9069
@@ -1344,7 +1341,7 @@ https://ucdn.beetv.kz/bpk-tv/000000034/tve/index.m3u8
 http://stream01.vnet.am/NationalGeographic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ocean-tv" tvg-name="OCEAN-TV" tvg-logo="http://epg.one/img/55.png" group-title="Познавательные", OCEAN-TV
 #EXTGRP:Познавательные
-http://s1.merlive.am/oceantv/index.m3u8
+http://95.142.88.250/ocean_tv/index.m3u8
 #EXTINF:-1 tvg-id="ostwest24" tvg-name="OstWest24" tvg-logo="https://iptvx.one/picons/ostwest24.png" group-title="Познавательные", OstWest24
 #EXTGRP:Познавательные
 http://95.67.12.82:9077
