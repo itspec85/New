@@ -3459,15 +3459,15 @@ http://de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 tvg-id="viva-rus" tvg-name="VIVA Russia HD" tvg-logo="http://epg.one/img/4658.png" group-title="Музыка", VIVA Russia HD
 #EXTGRP:Музыка
 https://162.212.179.32/ssh101/ssh101/vivarussia/playlist.m3u8
-#EXTINF:-1 tvg-name="XITE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Logo_XITE_2017_zwart.png/240px-Logo_XITE_2017_zwart.png" group-title="Музыка", XITE
-#EXTGRP:Музыка
-http://xite-samsung-de.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="XITE 80s Flashback" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB320000647_20231024T231630SQUARE.png_20231024231631.png" group-title="Музыка", XITE 80s Flashback
 #EXTGRP:Музыка
 https://dw0oa71jud5ry.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/usbb320000647-prod/amg80rewind/playlist.m3u8
 #EXTINF:-1 tvg-name="XITE 90s Throwback" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200007AK_20231024T231632SQUARE.png_20231024231633.png" group-title="Музыка", XITE 90s Throwback
 #EXTGRP:Музыка
 https://d3fr64zqebnqn3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/usbb3200007ak-prod/amg90rock/playlist.m3u8
+#EXTINF:-1 tvg-name="XITE Hits" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300004RH_20231024T231908SQUARE.png_20231024231909.png" group-title="Музыка", XITE Hits
+#EXTGRP:Музыка
+http://xite-samsung-de.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="XITE Just Chill" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2300003JZ_20231024T231619SQUARE.png_20231024231619.png" group-title="Музыка", XITE Just Chill
 #EXTGRP:Музыка
 https://d3ai750ol9my06.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/JustChill-prod/playlist.m3u8
