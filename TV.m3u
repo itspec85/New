@@ -3462,16 +3462,16 @@ https://162.212.179.32/ssh101/ssh101/vivarussia/playlist.m3u8
 #EXTINF:-1 tvg-name="XITE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Logo_XITE_2017_zwart.png/240px-Logo_XITE_2017_zwart.png" group-title="Музыка", XITE
 #EXTGRP:Музыка
 http://xite-samsung-de.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="XITE 80s Flashback" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Logo_XITE_2017_zwart.png/240px-Logo_XITE_2017_zwart.png" group-title="Музыка", XITE 80s Flashback
+#EXTINF:-1 tvg-name="XITE 80s Flashback" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB320000647_20231024T231630SQUARE.png_20231024231631.png" group-title="Музыка", XITE 80s Flashback
 #EXTGRP:Музыка
 https://dw0oa71jud5ry.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/usbb320000647-prod/amg80rewind/playlist.m3u8
-#EXTINF:-1 tvg-name="XITE 90s Throwback" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Logo_XITE_2017_zwart.png/240px-Logo_XITE_2017_zwart.png" group-title="Музыка", XITE 90s Throwback
+#EXTINF:-1 tvg-name="XITE 90s Throwback" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200007AK_20231024T231632SQUARE.png_20231024231633.png" group-title="Музыка", XITE 90s Throwback
 #EXTGRP:Музыка
 https://d3fr64zqebnqn3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/usbb3200007ak-prod/amg90rock/playlist.m3u8
-#EXTINF:-1 tvg-name="XITE Just Chill" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Logo_XITE_2017_zwart.png/240px-Logo_XITE_2017_zwart.png" group-title="Музыка", XITE Just Chill
+#EXTINF:-1 tvg-name="XITE Just Chill" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2300003JZ_20231024T231619SQUARE.png_20231024231619.png" group-title="Музыка", XITE Just Chill
 #EXTGRP:Музыка
 https://d3ai750ol9my06.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/JustChill-prod/playlist.m3u8
-#EXTINF:-1 tvg-name="XITE Rock On" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Logo_XITE_2017_zwart.png/240px-Logo_XITE_2017_zwart.png" group-title="Музыка", XITE Rock On
+#EXTINF:-1 tvg-name="XITE Rock On" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2300004KV_20231024T231621SQUARE.png_20231024231622.png" group-title="Музыка", XITE Rock On
 #EXTGRP:Музыка
 https://dri82941jql2y.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/RockMetal-prod/playlist.m3u8
 #EXTINF:-1 tvg-name="Zerouno TV" tvg-logo="http://epg.one/img/5484.png" group-title="Музыка", Zerouno TV
