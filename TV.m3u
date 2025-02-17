@@ -969,7 +969,7 @@ https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3
 http://185.23.80.28:8080/Klyuch/index.m3u8?token=test
 #EXTINF:-1 tvg-name="Колобок ТВ - Женский стендап" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JFe_DgkmyPrwSdQthM3WPaY5yIqnLVUIw7nN46C0Uk7V.png" group-title="Познавательные", Колобок ТВ - Женский стендап
 #EXTGRP:Познавательные
-
+http://chiburator.monster:8000/play/0muHRsMHJqIaLasyNjMO1QMHMUHAZC3sERbRnLFDmMI/ts
 #EXTINF:-1 tvg-id="kongresstv" tvg-name="Конгресс ТВ HD" tvg-logo="http://epg.one/img/9078.png" group-title="Познавательные", Конгресс ТВ HD
 #EXTGRP:Познавательные
 https://live-3.otcnet.ru/congresstv-multi/index.m3u8
@@ -1164,19 +1164,19 @@ http://46.17.41.254:2020/channel/n75e0f82c/index.m3u8?q=c9a4efc12540f7d0eb46417d
 http://stream01.vnet.am/Channel_129/mono.m3u8
 #EXTINF:-1 tvg-name="Чебур ТВ - ДОКУ Живая Планета" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JNzw1mUEMq0Ut2Gy8yW2RVbgnNtx88vATSd14wmprb2vH0hTWgEJgyTvOusvfqDzjA.png" group-title="Познавательные", Чебур ТВ - ДОКУ Живая Планета
 #EXTGRP:Познавательные
-
+http://chiburator.monster:8000/play/0muHRsMHJqIaLasyNjMO1dRi9BZnRBONyNkbtNfVE-E/ts
 #EXTINF:-1 tvg-name="Чебур ТВ - ДОКУ Планета Динозавров" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JIEu5j2saA6zuJrA1MN9xvZRwIOPoJMk94Nh8jP5oABt.png" group-title="Познавательные", Чебур ТВ - ДОКУ Планета Динозавров
 #EXTGRP:Познавательные
-
+http://chiburator.monster:8000/play/0muHRsMHJqIaLasyNjMO1bkWKO0FjuAwIHCnH5-OCY4/ts
 #EXTINF:-1 tvg-name="Чебур ТВ - ДОКУ Science" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JOTKUnmpue1OF90omUZAxzsPvpx-NUEO_U1ywcb8l5J-.png" group-title="Познавательные", Чебур ТВ - ДОКУ Science
 #EXTGRP:Познавательные
-
+http://chiburator.monster:8000/play/0muHRsMHJqIaLasyNjMO1fmi58olNhBAs0HCtKFzcOw/ts
 #EXTINF:-1 tvg-name="Чебур ТВ - ДОКУ Univerce" tvg-logo="https://i.postimg.cc/9MV5mprx/image-18.png" group-title="Познавательные", Чебур ТВ - ДОКУ Univerce
 #EXTGRP:Познавательные
-
+http://chiburator.monster:8000/play/0muHRsMHJqIaLasyNjMO1Vq-CIuYUNQprXeTUJVDLFA/ts
 #EXTINF:-1 tvg-name="Чебур ТВ - Непутёвые Заметки" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JI_Yv5YX9tEgHvE5w4hF-CbD9AIXOEb6HQ7IpefUVZzu.png" group-title="Познавательные", Чебур ТВ - Непутёвые Заметки
 #EXTGRP:Познавательные
-
+http://chiburator.monster:8000/play/0muHRsMHJqIaLasyNjMO1bdezpGwiXekg7wM6AZclDw/ts
 #EXTINF:-1 tvg-name="Чебур ТВ - Comedy Mix" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JMIzvXvliwoxSLQ_WsX1b-gGUqCjdBQnYRtGLjPvYtKN.png" group-title="Познавательные", Чебур ТВ - Comedy Mix
 #EXTGRP:Познавательные
 
@@ -1465,10 +1465,10 @@ https://ucdn.beetv.kz/bpk-tv/000000781/tve/index.m3u8
 http://109.200.130.123:7537/play/a024
 #EXTINF:-1 tvg-name="Колобок ТВ - Элвин и бурундуки" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JN24Vvk0YNaGNn9i_Il6ZAwN_5qDr-jtsdzMJk-jhZ7V.png" group-title="Детские", Колобок ТВ - Элвин и бурундуки
 #EXTGRP:Детские
-
+http://chiburator.monster:8000/play/0muHRsMHJqIaLasyNjMO1agVK6YNxDAsHDuaeCA8wqM/ts
 #EXTINF:-1 tvg-name="Колобок ТВ - Cartoons" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JMmMjzegd2q0_GPOij6gjo-Y8aq4WspeTiRqg39aiV49.png" group-title="Детские", Колобок ТВ - Cartoons
 #EXTGRP:Детские
-
+http://chiburator.monster:8000/play/0muHRsMHJqIaLasyNjMO1Toa93EU1cX42JFbKfG0AwA/ts
 #EXTINF:-1 tvg-id="liova" tvg-name="Лёва HD" tvg-logo="http://epg.one/img/7990.png" group-title="Детские", Лёва HD
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000008003/tve/index.m3u8
@@ -1541,22 +1541,22 @@ http://178.124.179.122:8088/Malish/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000000048/tve/index.m3u8
 #EXTINF:-1 tvg-name="Чебур ТВ - Анимешки" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JA3cBcZgX7NIBXdUThRlgN98h_kGq5QAslyPP1AS3Fxs.png" group-title="Детские", Чебур ТВ - Анимешки
 #EXTGRP:Детские
-
+http://chiburator.monster:8000/play/0muHRsMHJqIaLasyNjMO1dJRIWLb672VUoYVaS7MU3g/ts
 #EXTINF:-1 tvg-name="Чебур ТВ - Карапуз" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4et_Zs6_cxO2pERQlqePtYMY3GdQeoi077O9kTLmXc3p.png" group-title="Детские", Чебур ТВ - Карапуз
 #EXTGRP:Детские
 
 #EXTINF:-1 tvg-name="Чебур ТВ - Мультики" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4Vz2bvuK0yHjvUBEW25iDT0_Tn6n8C2u7fqgCxBC3NaQJpe15hofcon1L0qPFjP0bA.png" group-title="Детские", Чебур ТВ - Мультики
 #EXTGRP:Детские
-
+http://chiburator.monster:8000/play/0muHRsMHJqIaLasyNjMO1WpyXQaDmLJ7CYMrIO4lY_M/ts
 #EXTINF:-1 tvg-name="Чебур ТВ - МультЭпоха СССР" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4Q5n0ms11hDHFtBaGVO57B71q_0m6_n_p1MoocEk5ZUO.png" group-title="Детские", Чебур ТВ - МультЭпоха СССР
 #EXTGRP:Детские
-
+http://chiburator.monster:8000/play/0muHRsMHJqIaLasyNjMO1Rb8Ba7EinS1scjB0HifswI/ts
 #EXTINF:-1 tvg-name="Чебур ТВ - Физ-Мульт Привет" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4ROeH9eyhbpkEL_QiEFJaNd3XpsQtrb8ZyWnPS5iJ3A2AbYvjTiBDxYjlk7utHFFiw.png" group-title="Детские", Чебур ТВ - Физ-Мульт Привет
 #EXTGRP:Детские
-
+http://chiburator.monster:8000/play/0muHRsMHJqIaLasyNjMO1bJTlvUh9t9kKo3ahBG_ZZk/ts
 #EXTINF:-1 tvg-name="Чебур ТВ - MultSeries" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JPV7afPE6A1yy-wqNgwkK9a6M4f8Yjx3OHWh0R4UkgMd.png" group-title="Детские", Чебур ТВ - MultSeries
 #EXTGRP:Детские
-
+http://chiburator.monster:8000/play/0muHRsMHJqIaLasyNjMO1XKd6vY1cNkAtsfB48dLHio/ts
 #EXTINF:-1 tvg-name="Чип и Дейл" tvg-logo="https://i.postimg.cc/BvqS8HVV/1.png" group-title="Детские", Чип и Дейл
 #EXTGRP:Детские
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
@@ -3190,16 +3190,16 @@ http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-name="Чебур ТВ - Ретро 1980" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JM0_53Fn4D02y1Z--LGV4zrRPh16C0AdxfPWSCns-l2nkk1Gy8Q1ZgrwNHosONNpYQ.png" group-title="Музыка", Чебур ТВ - Ретро 1980
 #EXTGRP:Музыка
-
+http://chiburator.monster:8000/play/0muHRsMHJqIaLasyNjMO1fII6MiRLM2UfNwysTtUTGM/ts
 #EXTINF:-1 tvg-name="Чебур ТВ - Ретро 1990" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JAFvGpNbL52NGRrNO08uVdbRDL_ggBChRMJWBqzyEkH1.png" group-title="Музыка", Чебур ТВ - Ретро 1990
 #EXTGRP:Музыка
-
+http://chiburator.monster:8000/play/0muHRsMHJqIaLasyNjMO1f0mHye4M2SSDJShxAlBxKc/ts
 #EXTINF:-1 tvg-name="Чебур ТВ - Top Hit Indie" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JFD__m7g1Xe6qeEmVTqtriQjKIco-SalTaFLILeQ9wtP.png" group-title="Музыка", Чебур ТВ - Top Hit Indie
 #EXTGRP:Музыка
-
+http://chiburator.monster:8000/play/0muHRsMHJqIaLasyNjMO1Zofj7JZlXb1-yayXotRoBk/ts
 #EXTINF:-1 tvg-name="Чебур ТВ - Top Hit Rock" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JN3CoagGNckWyar0Ew01dxrJyDbthNke3DZSr09TlCDu.png" group-title="Музыка", Чебур ТВ - Top Hit Rock
 #EXTGRP:Музыка
-
+http://chiburator.monster:8000/play/0muHRsMHJqIaLasyNjMO1Qx3DXy5Dvn_GmTGDcdrRV4/ts
 #EXTINF:-1 tvg-id="shanson-tv" tvg-name="Шансон TB" tvg-logo="http://epg.one/img/2278.png" group-title="Музыка", Шансон TB
 #EXTGRP:Музыка
 http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
