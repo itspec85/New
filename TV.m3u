@@ -1816,7 +1816,7 @@ http://cdn.ntv.ru/th_serial/mono.m3u8
 http://cdn.ntv.ru/th_hit/mono.m3u8
 #EXTINF:-1 tvg-id="ostrosiuzhetnoe-hd" tvg-name="Остросюжетное HD" tvg-logo="http://epg.one/img/1588.png" group-title="Кино", Остросюжетное HD
 #EXTGRP:Кино
-
+http://141.95.55.143/CH547/index.m3u8
 #EXTINF:-1 tvg-id="pobeda" tvg-name="Победа" tvg-logo="http://epg.one/img/2447.png" group-title="Кино", Победа
 #EXTGRP:Кино
 http://185.23.80.28:8080/Pobeda/index.m3u8?token=test
@@ -2867,7 +2867,7 @@ http://194.143.148.28:8080/MatchArena/mpegts
 http://flu.ttk.mx:90/Boets/mono.m3u8?token=hs06e
 #EXTINF:-1 tvg-id="match-boets" tvg-name="Матч! Боец HD" tvg-logo="http://epg.one/img/2054.png" group-title="Спорт", Матч! Боец HD
 #EXTGRP:Спорт
-
+http://87.120.142.11:18000/Match
 #EXTINF:-1 tvg-id="match-igra" tvg-name="Матч! Игра" tvg-logo="http://epg.one/img/2050.png" group-title="Спорт", Матч! Игра
 #EXTGRP:Спорт
 http://31.148.48.15/Match_Igra/index.m3u8
