@@ -849,7 +849,7 @@ http://93.189.224.24/365dney/index.m3u8
 http://178.57.121.38:8080/avto24/index.m3u8?token=test
 #EXTINF:-1 tvg-id="avto-plus" tvg-name="Авто Плюс" tvg-logo="http://epg.one/img/153.png" group-title="Познавательные", Авто Плюс
 #EXTGRP:Познавательные
-http://213.226.137.140:81/tl/l105/index.m3u8
+https://flussonic.salomtv.uz/Avto_Plus/video.m3u8
 #EXTINF:-1 tvg-id="anekdottv" tvg-name="Анекдот тв" tvg-logo="http://epg.one/img/2760.png" group-title="Познавательные", Анекдот тв
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000001921/tve/index.m3u8
