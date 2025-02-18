@@ -1204,25 +1204,25 @@ http://109.200.130.123:7537/play/a02j
 https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 #EXTINF:-1 tvg-id="box-auttrend" tvg-name="BOX AutoTrend HD" tvg-logo="http://epg.one/img/8818.png" group-title="Познавательные", BOX AutoTrend HD
 #EXTGRP:Познавательные
-http://cdn.admuspeh.my/8440/video.m3u8?token=iptvshared
+
 #EXTINF:-1 tvg-id="box-docu" tvg-name="BOX Docu HD" tvg-logo="http://epg.one/img/7662.png" group-title="Познавательные", BOX Docu HD
 #EXTGRP:Познавательные
-http://cdn.admuspeh.my/8424/video.m3u8?token=4gPHp5ZVYqDAR4oz
+
 #EXTINF:-1 tvg-id="box-gurman" tvg-name="BOX Gurman HD" tvg-logo="http://epg.one/img/8817.png" group-title="Познавательные", BOX Gurman HD
 #EXTGRP:Познавательные
-http://cdn.admuspeh.my/8439/video.m3u8?token=iptvshared
+
 #EXTINF:-1 tvg-id="box-kosmo-4k" tvg-name="BOX Kosmo 4K" tvg-logo="http://epg.one/img/9303.png" group-title="Познавательные", BOX Kosmo 4K
 #EXTGRP:Познавательные
-http://cdn.admuspeh.my/8448/video.m3u8?token=4gPHp5ZVYqDAR4oz
+
 #EXTINF:-1 tvg-id="box-myday" tvg-name="BOX Mayday HD" tvg-logo="http://epg.one/img/7493.png" group-title="Познавательные", BOX Mayday HD
 #EXTGRP:Познавательные
-http://cdn.admuspeh.my/8434/video.m3u8?token=iptvshared
+
 #EXTINF:-1 tvg-id="box-memory" tvg-name="BOX Memory HD" tvg-logo="http://epg.one/img/6701.png" group-title="Познавательные", BOX Memory HD
 #EXTGRP:Познавательные
-http://cdn.admuspeh.my/8987/index.m3u8?token=iptvshared
+
 #EXTINF:-1 tvg-id="box-travel" tvg-name="BOX Travel HD" tvg-logo="http://epg.one/img/6831.png" group-title="Познавательные", BOX Travel HD
 #EXTGRP:Познавательные
-http://cdn.admuspeh.my/8416/video.m3u8?token=iptvshared
+
 #EXTINF:-1 tvg-name="Brodilo TV" tvg-logo="https://avatars.mds.yandex.net/i?id=fa094294d6634a98cd6b7c279a88002001815600-5320367-images-thumbs&n=13" group-title="Познавательные", Brodilo TV
 #EXTGRP:Познавательные
 http://brodilo.tv/channel.php
@@ -1568,16 +1568,16 @@ http://stv.mediacdn.ru/live/cdn/ani/playlist_sdhigher.m3u8
 https://ucdn.beetv.kz/bpk-tv/000005178/tve/index.m3u8
 #EXTINF:-1 tvg-id="bcu-kids-plus" tvg-name="BCU Kids+ HD" tvg-logo="http://epg.one/img/4757.png" group-title="Детские", BCU Kids+ HD
 #EXTGRP:Детские
-http://cdn.admuspeh.my/8454/index.m3u8?token=pE6pxgAtfZdZmnLx
+
 #EXTINF:-1 tvg-id="bcu-little" tvg-name="BCU Little HD" tvg-logo="http://epg.one/img/6848.png" group-title="Детские", BCU Little HD
 #EXTGRP:Детские
-http://cdn.admuspeh.my/8979/index.m3u8?token=4gPHp5ZVYqDAR4oz
+
 #EXTINF:-1 tvg-id="bcu-multserial" tvg-name="BCU Multserial HD" tvg-logo="http://epg.one/img/4746.png" group-title="Детские", BCU Multserial HD
 #EXTGRP:Детские
-http://cdn.admuspeh.my/8874/index.m3u8?token=4gPHp5ZVYqDAR4oz
+
 #EXTINF:-1 tvg-id="box-anime" tvg-name="BOX Anime HD" tvg-logo="http://epg.one/img/6698.png" group-title="Детские", BOX Anime HD
 #EXTGRP:Детские
-http://cdn.admuspeh.my/8984/video.m3u8?token=4gPHp5ZVYqDAR4oz
+
 #EXTINF:-1 tvg-id="cartoon-network" tvg-name="Cartoon Network" tvg-logo="http://epg.one/img/601.png" group-title="Детские", Cartoon Network
 #EXTGRP:Детские
 http://65.21.85.175:8000/play/a00i/index.m3u8?token=livetv
@@ -1586,13 +1586,13 @@ http://65.21.85.175:8000/play/a00i/index.m3u8?token=livetv
 http://stream01.vnet.am/Channel_120/mono.m3u8
 #EXTINF:-1 tvg-id="cartoons-90" tvg-name="Cartoons 90" tvg-logo="http://epg.one/img/4728.png" group-title="Детские", Cartoons 90
 #EXTGRP:Детские
-http://cdn.admuspeh.my/8812/index.m3u8?token=iptvshared
+
 #EXTINF:-1 tvg-id="cartoons-big" tvg-name="Cartoons Big" tvg-logo="http://epg.one/img/4730.png" group-title="Детские", Cartoons Big
 #EXTGRP:Детские
-http://cdn.admuspeh.my/8866/index.m3u8?token=iptvshared
+
 #EXTINF:-1 tvg-id="cartoons-short" tvg-name="Cartoons Short" tvg-logo="http://epg.one/img/4729.png" group-title="Детские", Cartoons Short
 #EXTGRP:Детские
-http://cdn.admuspeh.my/8867/index.m3u8?token=pE6pxgAtfZdZmnLx
+
 #EXTINF:-1 tvg-id="da-vinci" tvg-name="Da Vinci HD" tvg-logo="http://epg.one/img/8908.png" group-title="Детские", Da Vinci HD
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000000333/tve/index.m3u8
@@ -1610,19 +1610,19 @@ http://92.53.64.197:5050/IPTVPLAYMultSkazki.tv/video.m3u8?token=m3VIth-Rou_bM1
 http://origin5.mediacdn.ru/live/kidstv/index.m3u8
 #EXTINF:-1 tvg-id="minimax-family1" tvg-name="MM Семейный 1 HD" tvg-logo="http://epg.one/img/5210.png" group-title="Детские", MM Семейный 1 HD
 #EXTGRP:Детские
-http://cdn.admuspeh.my/8442/video.m3u8?token=pE6pxgAtfZdZmnLx
+
 #EXTINF:-1 tvg-id="minimax-family2" tvg-name="MM Семейный 2 HD" tvg-logo="http://epg.one/img/5211.png" group-title="Детские", MM Семейный 2 HD
 #EXTGRP:Детские
-http://cdn.admuspeh.my/8449/video.m3u8?token=4gPHp5ZVYqDAR4oz
+
 #EXTINF:-1 tvg-id="minimax-tom-and-jerry" tvg-name="MM Tom And Jerry HD" tvg-logo="http://epg.one/img/5129.png" group-title="Детские", MM Tom And Jerry HD
 #EXTGRP:Детские
-http://cdn.admuspeh.my/8997/video.m3u8?token=pE6pxgAtfZdZmnLx
+
 #EXTINF:-1 tvg-id="minimax-mult" tvg-name="MM USSR Мультфильм HD" tvg-logo="http://epg.one/img/5133.png" group-title="Детские", MM USSR Мультфильм HD
 #EXTGRP:Детские
-http://cdn.admuspeh.my/8913/video.m3u8?token=iptvshared
+
 #EXTINF:-1 tvg-id="minimax-walt-disney" tvg-name="MM Walt Disney HD" tvg-logo="http://epg.one/img/5571.png" group-title="Детские", MM Walt Disney HD
 #EXTGRP:Детские
-http://cdn.admuspeh.my/8914/video.m3u8?token=4gPHp5ZVYqDAR4oz
+
 #EXTINF:-1 tvg-id="nick-jr" tvg-name="Nick Jr" tvg-logo="http://epg.one/img/917.png" group-title="Детские", Nick Jr
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000000449/tve/index.m3u8
@@ -2316,193 +2316,193 @@ http://chiburator.monster:8000/play/0muHRsMHJqIaLasyNjMO1fTA8KQZHvHiPAisChfq7GA/
 http://chiburator.monster:8000/play/0muHRsMHJqIaLasyNjMO1Q3GbZGNKg0OfPIDL9EQE8Y/ts
 #EXTINF:-1 tvg-id="bcu-kinozal-prem-1" tvg-name="BCU Кинозал Premiere 1 HD" tvg-logo="http://epg.one/img/4736.png" group-title="Кинозал ТЕСТ", BCU Кинозал Premiere 1 HD
 #EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8873/video.m3u8?token=iptvshared
+
 #EXTINF:-1 tvg-id="bcu-kinozal-prem-2" tvg-name="BCU Кинозал Premiere 2 HD" tvg-logo="http://epg.one/img/4737.png" group-title="Кинозал ТЕСТ", BCU Кинозал Premiere 2 HD
 #EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8872/video.m3u8?token=pE6pxgAtfZdZmnLx
+
 #EXTINF:-1 tvg-id="bcu-kinozal-prem-3" tvg-name="BCU Кинозал Premiere 3 HD" tvg-logo="http://epg.one/img/4738.png" group-title="Кинозал ТЕСТ", BCU Кинозал Premiere 3 HD
 #EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8883/video.m3u8?token=iptvshared
+
 #EXTINF:-1 tvg-id="bcu-svaty" tvg-name="BCU Сваты HD" tvg-logo="http://epg.one/img/4768.png" group-title="Кинозал ТЕСТ", BCU Сваты HD
 #EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8889/index.m3u8?token=pE6pxgAtfZdZmnLx
+
 #EXTINF:-1 tvg-id="bcu-sssr" tvg-name="BCU СССР HD" tvg-logo="http://epg.one/img/4747.png" group-title="Кинозал ТЕСТ", BCU СССР HD
 #EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8875/index.m3u8?token=iptvshared
+
 #EXTINF:-1 tvg-id="bcu-action" tvg-name="BCU Action HD" tvg-logo="http://epg.one/img/4748.png" group-title="Кинозал ТЕСТ", BCU Action HD
 #EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8876/video.m3u8?token=pE6pxgAtfZdZmnLx
+
 #EXTINF:-1 tvg-id="bcu-catastrophe" tvg-name="BCU Catastrophe HD" tvg-logo="http://epg.one/img/4749.png" group-title="Кинозал ТЕСТ", BCU Catastrophe HD
 #EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8877/index.m3u8?token=4gPHp5ZVYqDAR4oz
+
 #EXTINF:-1 tvg-id="bcu-charm" tvg-name="BCU Charm HD" tvg-logo="http://epg.one/img/6228.png" group-title="Кинозал ТЕСТ", BCU Charm HD
 #EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8978/index.m3u8?token=iptvshared
+
 #EXTINF:-1 tvg-id="bcu-cinema" tvg-name="BCU Cinema HD" tvg-logo="http://epg.one/img/4750.png" group-title="Кинозал ТЕСТ", BCU Cinema HD
 #EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8891/index.m3u8?token=TestuspehTva
+
 #EXTINF:-1 tvg-id="bcu-cinemaplus" tvg-name="BCU Cinema+ HD" tvg-logo="http://epg.one/img/4751.png" group-title="Кинозал ТЕСТ", BCU Cinema+ HD
 #EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8892/index.m3u8?token=pE6pxgAtfZdZmnLx
+
 #EXTINF:-1 tvg-id="bcu-comedy" tvg-name="BCU Comedy HD" tvg-logo="http://epg.one/img/5515.png" group-title="Кинозал ТЕСТ", BCU Comedy HD
 #EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8878/video.m3u8?token=pE6pxgAtfZdZmnLx
+
 #EXTINF:-1 tvg-id="bcu-cosmo" tvg-name="BCU Cosmo HD" tvg-logo="http://epg.one/img/6176.png" group-title="Кинозал ТЕСТ", BCU Cosmo HD
 #EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8975/video.m3u8?token=iptvshared
+
 #EXTINF:-1 tvg-id="bcu-criminal" tvg-name="BCU Criminal HD" tvg-logo="http://epg.one/img/4769.png" group-title="Кинозал ТЕСТ", BCU Criminal HD
 #EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8890/index.m3u8?token=iptvshared
+
 #EXTINF:-1 tvg-id="bcu-fantastic" tvg-name="BCU Fantastic HD" tvg-logo="http://epg.one/img/4753.png" group-title="Кинозал ТЕСТ", BCU Fantastic HD
 #EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8879/video.m3u8?token=iptvshared
+
 #EXTINF:-1 tvg-id="bcu-filmystic" tvg-name="BCU FilMystic HD" tvg-logo="http://epg.one/img/4754.png" group-title="Кинозал ТЕСТ", BCU FilMystic HD
 #EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8880/video.m3u8?token=pE6pxgAtfZdZmnLx
+
 #EXTINF:-1 tvg-id="bcu-history" tvg-name="BCU History HD" tvg-logo="http://epg.one/img/4755.png" group-title="Кинозал ТЕСТ", BCU History HD
 #EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8881/index.m3u8?token=pE6pxgAtfZdZmnLx
+
 #EXTINF:-1 tvg-id="bcu-kinorating" tvg-name="BCU Kinorating HD" tvg-logo="http://epg.one/img/4758.png" group-title="Кинозал ТЕСТ", BCU Kinorating HD
 #EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8455/index.m3u8?token=pE6pxgAtfZdZmnLx
+
 #EXTINF:-1 tvg-id="bcu-kinozakaz-4k" tvg-name="BCU Kinozakaz HD" tvg-logo="http://epg.one/img/9302.png" group-title="Кинозал ТЕСТ", BCU Kinozakaz HD
 #EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8886/video.m3u8?token=iptvshared
+
 #EXTINF:-1 tvg-id="bcu-marvel" tvg-name="BCU Marvel HD" tvg-logo="http://epg.one/img/5514.png" group-title="Кинозал ТЕСТ", BCU Marvel HD
 #EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8882/video.m3u8?token=iptvshared
+
 #EXTINF:-1 tvg-id="bcu-premiere" tvg-name="BCU Premiere HD" tvg-logo="http://epg.one/img/4760.png" group-title="Кинозал ТЕСТ", BCU Premiere HD
 #EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8468/index.m3u8?token=pE6pxgAtfZdZmnLx
+
 #EXTINF:-1 tvg-id="bcu-reality" tvg-name="BCU Reality HD" tvg-logo="http://epg.one/img/6131.png" group-title="Кинозал ТЕСТ", BCU Reality HD
 #EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8910/video.m3u8?token=4gPHp5ZVYqDAR4oz
+
 #EXTINF:-1 tvg-id="bcu-romantic" tvg-name="BCU Romantic HD" tvg-logo="http://epg.one/img/4761.png" group-title="Кинозал ТЕСТ", BCU Romantic HD
 #EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8884/video.m3u8?token=pE6pxgAtfZdZmnLx
+
 #EXTINF:-1 tvg-id="bcu-ruserial" tvg-name="BCU RUSerial HD" tvg-logo="http://epg.one/img/4767.png" group-title="Кинозал ТЕСТ", BCU RUSerial HD
 #EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8888/index.m3u8?token=iptvshared
+
 #EXTINF:-1 tvg-id="bcu-russia90s" tvg-name="BCU Russia 90s HD" tvg-logo="http://epg.one/img/8769.png" group-title="Кинозал ТЕСТ", BCU Russia 90s HD
 #EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8980/index.m3u8?token=iptvshared
+
 #EXTINF:-1 tvg-id="bcu-russian" tvg-name="BCU Russian HD" tvg-logo="http://epg.one/img/4762.png" group-title="Кинозал ТЕСТ", BCU Russian HD
 #EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8457/index.m3u8?token=4gPHp5ZVYqDAR4oz
+
 #EXTINF:-1 tvg-id="bcu-stars" tvg-name="BCU Stars HD" tvg-logo="http://epg.one/img/4765.png" group-title="Кинозал ТЕСТ", BCU Stars HD
 #EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8885/index.m3u8?token=iptvshared
+
 #EXTINF:-1 tvg-id="bcu-survival" tvg-name="BCU Survival HD" tvg-logo="http://epg.one/img/6175.png" group-title="Кинозал ТЕСТ", BCU Survival HD
 #EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8912/video.m3u8?token=TestuspehTva
+
 #EXTINF:-1 tvg-id="bcu-trumotion" tvg-name="BCU TruMotion HD" tvg-logo="http://epg.one/img/6198.png" group-title="Кинозал ТЕСТ", BCU TruMotion HD
 #EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8977/video.m3u8?token=iptvshared
+
 #EXTINF:-1 tvg-id="bcu-vhs" tvg-name="BCU VHS HD" tvg-logo="http://epg.one/img/4763.png" group-title="Кинозал ТЕСТ", BCU VHS HD
 #EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8908/index.m3u8?token=4gPHp5ZVYqDAR4oz
+
 #EXTINF:-1 tvg-id="box-sssr-4k" tvg-name="BOX СССР 4K" tvg-logo="http://epg.one/img/9300.png" group-title="Кинозал ТЕСТ", BOX СССР 4K
 #EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8445/video.m3u8?token=iptvshared
+
 #EXTINF:-1 tvg-id="box-apocalipse" tvg-name="BOX Apocalypse HD" tvg-logo="http://epg.one/img/8768.png" group-title="Кинозал ТЕСТ", BOX Apocalypse HD
 #EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8441/video.m3u8?token=TestuspehTva
+
 #EXTINF:-1 tvg-id="box-cyber" tvg-name="BOX Cyber HD" tvg-logo="http://epg.one/img/6834.png" group-title="Кинозал ТЕСТ", BOX Cyber HD
 #EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8419/video.m3u8?token=pE6pxgAtfZdZmnLx
+
 #EXTINF:-1 tvg-id="box-fantasy" tvg-name="BOX Fantasy HD" tvg-logo="http://epg.one/img/7490.png" group-title="Кинозал ТЕСТ", BOX Fantasy HD
 #EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8430/video.m3u8?token=iptvshared
+
 #EXTINF:-1 tvg-id="box-franchise" tvg-name="BOX Franchise HD" tvg-logo="http://epg.one/img/6696.png" group-title="Кинозал ТЕСТ", BOX Franchise HD
 #EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8982/video.m3u8?token=TestuspehTva
+
 #EXTINF:-1 tvg-id="box-gangster" tvg-name="BOX Gangster HD" tvg-logo="http://epg.one/img/6699.png" group-title="Кинозал ТЕСТ", BOX Gangster HD
 #EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8985/video.m3u8?token=iptvshared
+
 #EXTINF:-1 tvg-id="box-ghost" tvg-name="BOX Ghost HD" tvg-logo="http://epg.one/img/7488.png" group-title="Кинозал ТЕСТ", BOX Ghost HD
 #EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8428/video.m3u8?token=pE6pxgAtfZdZmnLx
+
 #EXTINF:-1 tvg-id="box-hybrid" tvg-name="BOX Hybrid HD" tvg-logo="http://epg.one/img/6697.png" group-title="Кинозал ТЕСТ", BOX Hybrid HD
 #EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8983/video.m3u8?token=iptvshared
+
 #EXTINF:-1 tvg-id="box-m-serial" tvg-name="BOX M.Serial HD" tvg-logo="http://epg.one/img/6702.png" group-title="Кинозал ТЕСТ", BOX M.Serial HD
 #EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8988/video.m3u8?token=TestuspehTva
+
 #EXTINF:-1 tvg-id="box-oscar" tvg-name="BOX Oscar HD" tvg-logo="http://epg.one/img/6700.png" group-title="Кинозал ТЕСТ", BOX Oscar HD
 #EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8986/video.m3u8?token=TestuspehTva
+
 #EXTINF:-1 tvg-id="box-premiere4k" tvg-name="BOX Premiere 4K" tvg-logo="http://epg.one/img/7491.png" group-title="Кинозал ТЕСТ", BOX Premiere 4K
 #EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8452/video.m3u8?token=4gPHp5ZVYqDAR4oz
+
 #EXTINF:-1 tvg-id="box-remast-4k" tvg-name="BOX Remast 4K" tvg-logo="http://epg.one/img/7492.png" group-title="Кинозал ТЕСТ", BOX Remast 4K
 #EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8433/video.m3u8?token=iptvshared
+
 #EXTINF:-1 tvg-id="box-spy" tvg-name="BOX Spy HD" tvg-logo="http://epg.one/img/6705.png" group-title="Кинозал ТЕСТ", BOX Spy HD
 #EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8354/video.m3u8?token=pE6pxgAtfZdZmnLx
+
 #EXTINF:-1 tvg-id="box-ultrastars-4k" tvg-name="BOX UltraStars 4K" tvg-logo="https://epgx.club/picons/box-ultrastars-4k.png" group-title="Кинозал ТЕСТ", BOX UltraStars 4K
 #EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8444/video.m3u8?token=iptvshared
+
 #EXTINF:-1 tvg-id="box-western" tvg-name="BOX Western HD" tvg-logo="http://epg.one/img/6832.png" group-title="Кинозал ТЕСТ", BOX Western HD
 #EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8417/video.m3u8?token=4gPHp5ZVYqDAR4oz
+
 #EXTINF:-1 tvg-id="box-zombie" tvg-name="BOX Zombie HD" tvg-logo="http://epg.one/img/6833.png" group-title="Кинозал ТЕСТ", BOX Zombie HD
 #EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8418/video.m3u8?token=iptvshared
+
 #EXTINF:-1 tvg-id="cineman" tvg-name="CineMan" tvg-logo="http://epg.one/img/4682.png" group-title="Кинозал ТЕСТ", CineMan
 #EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8952/index.m3u8?token=iptvshared
+
 #EXTINF:-1 tvg-id="cineman-katastrofy" tvg-name="CineMan Катастрофы" tvg-logo="http://epg.one/img/5585.png" group-title="Кинозал ТЕСТ", CineMan Катастрофы
 #EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8957/index.m3u8?token=iptvshared
+
 #EXTINF:-1 tvg-id="cineman-komseri" tvg-name="CineMan Комедийные сериалы" tvg-logo="http://epg.one/img/9437.png" group-title="Кинозал ТЕСТ", CineMan Комедийные сериалы
 #EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8958/index.m3u8?token=iptvshared
+
 #EXTINF:-1 tvg-id="cineman-lesnik" tvg-name="CineMan Лесник" tvg-logo="http://epg.one/img/6053.png" group-title="Кинозал ТЕСТ", CineMan Лесник
 #EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8767/index.m3u8?token=iptvshared
+
 #EXTINF:-1 tvg-id="cineman-musw" tvg-name="CineMan Ментовские войны" tvg-logo="http://epg.one/img/6051.png" group-title="Кинозал ТЕСТ", CineMan Ментовские войны
 #EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8802/index.m3u8?token=pE6pxgAtfZdZmnLx
+
 #EXTINF:-1 tvg-id="cineman-pes" tvg-name="CineMan ПёС + Лихач" tvg-logo="http://epg.one/img/6052.png" group-title="Кинозал ТЕСТ", CineMan ПёС + Лихач
 #EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8824/index.m3u8?token=4gPHp5ZVYqDAR4oz
+
 #EXTINF:-1 tvg-id="cineman-rukino" tvg-name="CineMan РуКино" tvg-logo="http://epg.one/img/4691.png" group-title="Кинозал ТЕСТ", CineMan РуКино
 #EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8871/index.m3u8?token=iptvshared
+
 #EXTINF:-1 tvg-id="cineman-svaty" tvg-name="CineMan Сваты" tvg-logo="http://epg.one/img/4692.png" group-title="Кинозал ТЕСТ", CineMan Сваты
 #EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8825/index.m3u8?token=iptvshared
+
 #EXTINF:-1 tvg-id="cineman-simps" tvg-name="CineMan Симпсоны" tvg-logo="http://epg.one/img/5525.png" group-title="Кинозал ТЕСТ", CineMan Симпсоны
 #EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8833/index.m3u8?token=4gPHp5ZVYqDAR4oz
+
 #EXTINF:-1 tvg-id="cineman-skorpom" tvg-name="CineMan Скорая помощь" tvg-logo="http://epg.one/img/5524.png" group-title="Кинозал ТЕСТ", CineMan Скорая помощь
 #EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8821/index.m3u8?token=iptvshared
+
 #EXTINF:-1 tvg-id="cineman-uzhasy" tvg-name="CineMan Ужасы" tvg-logo="http://epg.one/img/4688.png" group-title="Кинозал ТЕСТ", CineMan Ужасы
 #EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8960/index.m3u8?token=4gPHp5ZVYqDAR4oz
+
 #EXTINF:-1 tvg-id="cineman-aircrash" tvg-name="CineMan Air Crash" tvg-logo="https://epgx.club/picons/cineman-aircrash.png" group-title="Кинозал ТЕСТ", CineMan Air Crash
 #EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8826/index.m3u8?token=pE6pxgAtfZdZmnLx
+
 #EXTINF:-1 tvg-id="cineman-marvel" tvg-name="CineMan Marvel" tvg-logo="http://epg.one/img/4687.png" group-title="Кинозал ТЕСТ", CineMan Marvel
 #EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8951/index.m3u8?token=4gPHp5ZVYqDAR4oz
+
 #EXTINF:-1 tvg-id="cineman-melodrama" tvg-name="CineMan Melodrama" tvg-logo="http://epg.one/img/4686.png" group-title="Кинозал ТЕСТ", CineMan Melodrama
 #EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8955/video.m3u8?token=4gPHp5ZVYqDAR4oz
+
 #EXTINF:-1 tvg-id="cineman-miniseries" tvg-name="CineMan MiniSeries" tvg-logo="http://epg.one/img/7150.png" group-title="Кинозал ТЕСТ", CineMan MiniSeries
 #EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8961/index.m3u8?token=iptvshared
+
 #EXTINF:-1 tvg-id="cineman-thriller" tvg-name="CineMan Thriller" tvg-logo="http://epg.one/img/4685.png" group-title="Кинозал ТЕСТ", CineMan Thriller
 #EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8954/index.m3u8?token=pE6pxgAtfZdZmnLx
+
 #EXTINF:-1 tvg-id="cineman-top" tvg-name="CineMan Top" tvg-logo="http://epg.one/img/4683.png" group-title="Кинозал ТЕСТ", CineMan Top
 #EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8959/index.m3u8?token=iptvshared
+
 #EXTINF:-1 tvg-id="cineman-vhs" tvg-name="CineMan VHS" tvg-logo="http://epg.one/img/4690.png" group-title="Кинозал ТЕСТ", CineMan VHS
 #EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8807/index.m3u8?token=4gPHp5ZVYqDAR4oz
+
 #EXTINF:-1 tvg-name="IPTVPLAY Ведьмак" tvg-logo="https://i.ibb.co/0ccNSdV/image-16.png" group-title="Кинозал ТЕСТ", IPTVPLAY Ведьмак
 #EXTGRP:Кинозал ТЕСТ
 http://92.53.64.197:5050/IPTVPLAYVEDMAK.tv/video.m3u8?token=m3VIth-Rou_bM1
@@ -2523,76 +2523,76 @@ http://92.53.64.197:5050/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=m3VIth-Rou_bM1
 http://92.53.64.197:5050/IPTVPLAYPROMO.tv/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 tvg-id="minimax-boevik" tvg-name="MM Боевик HD" tvg-logo="http://epg.one/img/5141.png" group-title="Кинозал ТЕСТ", MM Боевик HD
 #EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8745/video.m3u8?token=iptvshared
+
 #EXTINF:-1 tvg-id="minimax-boevik_classic" tvg-name="MM Боевик Classic HD" tvg-logo="http://epg.one/img/5140.png" group-title="Кинозал ТЕСТ", MM Боевик Classic HD
 #EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8411/video.m3u8?token=4gPHp5ZVYqDAR4oz
+
 #EXTINF:-1 tvg-id="minimax-drama" tvg-name="MM Драма HD" tvg-logo="http://epg.one/img/6065.png" group-title="Кинозал ТЕСТ", MM Драма HD
 #EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8894/video.m3u8?token=iptvshared
+
 #EXTINF:-1 tvg-id="minimax-istorija" tvg-name="MM История HD" tvg-logo="http://epg.one/img/5146.png" group-title="Кинозал ТЕСТ", MM История HD
 #EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8933/video.m3u8?token=pE6pxgAtfZdZmnLx
+
 #EXTINF:-1 tvg-id="minimax-katastrofa" tvg-name="MM Катастрофа HD" tvg-logo="http://epg.one/img/5147.png" group-title="Кинозал ТЕСТ", MM Катастрофа HD
 #EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8746/video.m3u8?token=4gPHp5ZVYqDAR4oz
+
 #EXTINF:-1 tvg-id="minimax-kiberpunk" tvg-name="MM Киберпанк HD" tvg-logo="http://epg.one/img/5149.png" group-title="Кинозал ТЕСТ", MM Киберпанк HD
 #EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8545/video.m3u8?token=iptvshared
+
 #EXTINF:-1 tvg-id="minimax-krutie-90-e" tvg-name="MM Крутые 90-е HD" tvg-logo="http://epg.one/img/5153.png" group-title="Кинозал ТЕСТ", MM Крутые 90-е HD
 #EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8547/video.m3u8?token=iptvshared
+
 #EXTINF:-1 tvg-id="minimax-kungfu" tvg-name="MM Кунг-Фу HD" tvg-logo="http://epg.one/img/5154.png" group-title="Кинозал ТЕСТ", MM Кунг-Фу HD
 #EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8559/video.m3u8?token=4gPHp5ZVYqDAR4oz
+
 #EXTINF:-1 tvg-id="minimax-roskino" tvg-name="MM Роскино HD" tvg-logo="http://epg.one/img/5163.png" group-title="Кинозал ТЕСТ", MM Роскино HD
 #EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8709/video.m3u8?token=iptvshared
+
 #EXTINF:-1 tvg-id="minimax-svati" tvg-name="MM Сваты HD" tvg-logo="http://epg.one/img/5164.png" group-title="Кинозал ТЕСТ", MM Сваты HD
 #EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8893/video.m3u8?token=iptvshared
+
 #EXTINF:-1 tvg-id="minimax-sport" tvg-name="MM Спорт HD" tvg-logo="http://epg.one/img/5167.png" group-title="Кинозал ТЕСТ", MM Спорт HD
 #EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8652/video.m3u8?token=iptvshared
+
 #EXTINF:-1 tvg-id="minimax-supergeroi" tvg-name="MM Супергерои HD" tvg-logo="http://epg.one/img/5169.png" group-title="Кинозал ТЕСТ", MM Супергерои HD
 #EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8710/video.m3u8?token=pE6pxgAtfZdZmnLx
+
 #EXTINF:-1 tvg-id="minimax-ujasi" tvg-name="MM Ужасы HD" tvg-logo="http://epg.one/img/5212.png" group-title="Кинозал ТЕСТ", MM Ужасы HD
 #EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8725/video.m3u8?token=4gPHp5ZVYqDAR4oz
+
 #EXTINF:-1 tvg-id="minimax-fobija" tvg-name="MM Фобия HD" tvg-logo="http://epg.one/img/5176.png" group-title="Кинозал ТЕСТ", MM Фобия HD
 #EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8994/video.m3u8?token=iptvshared
+
 #EXTINF:-1 tvg-id="minimax-celebrity" tvg-name="MM Celebrity HD" tvg-logo="http://epg.one/img/6063.png" group-title="Кинозал ТЕСТ", MM Celebrity HD
 #EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8991/video.m3u8?token=pE6pxgAtfZdZmnLx
+
 #EXTINF:-1 tvg-id="minimax-flip" tvg-name="MM Flip UHD" tvg-logo="http://epg.one/img/5170.png" group-title="Кинозал ТЕСТ", MM Flip UHD
 #EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8404/video.m3u8?token=4gPHp5ZVYqDAR4oz
+
 #EXTINF:-1 tvg-id="minimax-love" tvg-name="MM Love HD" tvg-logo="http://epg.one/img/5123.png" group-title="Кинозал ТЕСТ", MM Love HD
 #EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8328/video.m3u8?token=iptvshared
+
 #EXTINF:-1 tvg-id="minimax-newfilm1" tvg-name="MM NewFilm 1 HD" tvg-logo="http://epg.one/img/5124.png" group-title="Кинозал ТЕСТ", MM NewFilm 1 HD
 #EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8741/video.m3u8?token=iptvshared
+
 #EXTINF:-1 tvg-id="minimax-newfilm2" tvg-name="MM NewFilm 2 HD" tvg-logo="http://epg.one/img/5125.png" group-title="Кинозал ТЕСТ", MM NewFilm 2 HD
 #EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8742/video.m3u8?token=4gPHp5ZVYqDAR4oz
+
 #EXTINF:-1 tvg-id="minimax-newfilm3" tvg-name="MM NewFilm 3 HD" tvg-logo="http://epg.one/img/5126.png" group-title="Кинозал ТЕСТ", MM NewFilm 3 HD
 #EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8743/video.m3u8?token=iptvshared
+
 #EXTINF:-1 tvg-id="minimax-newfilmru" tvg-name="MM NewFilm RU HD" tvg-logo="http://epg.one/img/5127.png" group-title="Кинозал ТЕСТ", MM NewFilm RU HD
 #EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8706/video.m3u8?token=pE6pxgAtfZdZmnLx
+
 #EXTINF:-1 tvg-id="minimax-ufo" tvg-name="MM UFO HD" tvg-logo="http://epg.one/img/5130.png" group-title="Кинозал ТЕСТ", MM UFO HD
 #EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8410/video.m3u8?token=4gPHp5ZVYqDAR4oz
+
 #EXTINF:-1 tvg-id="minimax-ussr-detektiv" tvg-name="MM USSR Детектив HD" tvg-logo="http://epg.one/img/5209.png" group-title="Кинозал ТЕСТ", MM USSR Детектив HD
 #EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8656/video.m3u8?token=iptvshared
+
 #EXTINF:-1 tvg-id="minimax-ussr-komedija" tvg-name="MM USSR Комедия HD" tvg-logo="http://epg.one/img/5132.png" group-title="Кинозал ТЕСТ", MM USSR Комедия HD
 #EXTGRP:Кинозал ТЕСТ
-http://cdn.admuspeh.my/8744/video.m3u8?token=pE6pxgAtfZdZmnLx
+
 #EXTINF:-1 tvg-name="Persik TV Александра Бортич" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Александра Бортич
 #EXTGRP:Кинозал ТЕСТ
 https://fs2.persik.by/Bortich3/index.m3u8
@@ -2936,7 +2936,7 @@ http://65.21.85.175:8000/play/a037/index.m3u8?token=livetv
 https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE_Max.m3u8
 #EXTINF:-1 tvg-id="box-sportcast" tvg-name="BOX SportCast HD" tvg-logo="http://epg.one/img/8831.png" group-title="Спорт", BOX SportCast HD
 #EXTGRP:Спорт
-http://cdn.admuspeh.my/8447/video.m3u8?token=4gPHp5ZVYqDAR4oz
+
 #EXTINF:-1 tvg-id="canal-pl-sport-1" tvg-name="Canal+ Sport PL" tvg-logo="http://epg.one/img/3129.png" group-title="Спорт", Canal+ Sport PL
 #EXTGRP:Спорт
 http://78.130.250.2:8023/play/a02v/index.m3u8
