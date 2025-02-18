@@ -3,11 +3,11 @@
 #EXTINF:-1 tvg-id="domashny" tvg-shift="+1" tvg-name="Домашний -1" tvg-logo="http://epg.one/img/304.png" group-title="Россия", Домашний -1
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmi3y-tv.ru.net/hls/DVB-T2/CH_DOMASHNIY-1.m3u8
+http://dmi3y-tv.ru/hls/DVB-T2/CH_DOMASHNIY-1.m3u8
 #EXTINF:-1 tvg-id="domashny" tvg-name="Домашний" tvg-logo="http://epg.one/img/304.png" group-title="Россия", Домашний
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmi3y-tv.ru.net/hls/DVB-T2/CH_DOMASHNIY.m3u8
+http://dmi3y-tv.ru/hls/DVB-T2/CH_DOMASHNIY.m3u8
 #EXTINF:-1 tvg-id="domashny" tvg-name="Домашний (резерв)" tvg-logo="http://epg.one/img/304.png" group-title="Россия", Домашний (резерв)
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -858,7 +858,7 @@ https://ucdn.beetv.kz/bpk-tv/000001921/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000008877/tve/index.m3u8
 #EXTINF:-1 tvg-id="arsenaltv" tvg-name="Арсенал HD" tvg-logo="http://epg.one/img/2768.png" group-title="Познавательные", Арсенал HD
 #EXTGRP:Познавательные
-http://dmitry-tv.ddns.net/hls/CH_ARSENALHD.m3u8
+http://dmi3y-tv.ru/hls/CH_ARSENALHD.m3u8
 #EXTINF:-1 tvg-id="bobior" tvg-name="Бобёр" tvg-logo="http://epg.one/img/2026.png" group-title="Познавательные", Бобёр
 #EXTGRP:Познавательные
 http://178.212.71.253:8002/play/a00m/index.m3u8
@@ -918,7 +918,7 @@ http://185.23.80.28:8080/Draiv/index.m3u8?token=test
 https://dumatv.iptv2022.com/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ege-tv" tvg-name="ЕГЭ ТВ" tvg-logo="http://epg.one/img/2420.png" group-title="Познавательные", ЕГЭ ТВ
 #EXTGRP:Познавательные
-http://dmitry-tv.ddns.net/hls/CH_EGETV.m3u8
+http://dmi3y-tv.ru/hls/CH_EGETV.m3u8
 #EXTINF:-1 tvg-id="eda-hd-int" tvg-name="ЕДА Премиум" tvg-logo="http://epg.one/img/930.png" group-title="Познавательные", ЕДА Премиум
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000000588/tve/index.m3u8
@@ -1234,10 +1234,10 @@ https://iptv.prosto.tv/ch111/video.m3u8
 http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
 #EXTINF:-1 tvg-id="cnn" tvg-name="CNN USA" tvg-logo="http://epg.one/img/3641.png" group-title="Познавательные", CNN USA
 #EXTGRP:Познавательные
-http://dmitry-tv.ddns.net/hls/CH_CNNHD.m3u8
+http://dmi3y-tv.ru/hls/CH_CNNHD.m3u8
 #EXTINF:-1 tvg-id="deutsche-welle-eu" tvg-name="Deutsche Welle EN" tvg-logo="http://epg.one/img/8638.png" group-title="Познавательные", Deutsche Welle EN
 #EXTGRP:Познавательные
-http://dmitry-tv.ddns.net/hls/CH_DW_ENGLISHHD.m3u8
+http://dmi3y-tv.ru/hls/CH_DW_ENGLISHHD.m3u8
 #EXTINF:-1 tvg-id="discovery-channel" tvg-name="Discovery Channel" tvg-logo="http://epg.one/img/325.png" group-title="Познавательные", Discovery Channel
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000001496/tve/index.m3u8
@@ -1312,7 +1312,7 @@ https://s1.tv-nano.com/Luxury_rec/tracks-v1a1/mono.m3u8
 http://31.184.197.124/museum_hd/mono.m3u8
 #EXTINF:-1 tvg-id="nano-hd" tvg-name="NANO TV" tvg-logo="http://epg.one/img/2428.png" group-title="Познавательные", NANO TV
 #EXTGRP:Познавательные
-http://dmitry-tv.ddns.net/hls/CH_NANOTVHD.m3u8
+http://dmi3y-tv.ru/hls/CH_NANOTVHD.m3u8
 #EXTINF:-1 tvg-id="nat-geo-wild" tvg-name="Nat Geo Wild" tvg-logo="http://epg.one/img/223.png" group-title="Познавательные", Nat Geo Wild
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000004474/tve/index.m3u8
@@ -1372,7 +1372,7 @@ https://stream.sunset-media.ru:443/AfBrazXsUK/J9hGT3vYuv/3.m3u8
 http://130.193.73.10:8937/play/a01g
 #EXTINF:-1 tvg-id="tlc" tvg-name="TLC" tvg-logo="http://epg.one/img/2345.png" group-title="Познавательные", TLC
 #EXTGRP:Познавательные
-http://dmitry-tv.ddns.net/hls/CH_TLC.m3u8
+http://dmi3y-tv.ru/hls/CH_TLC.m3u8
 #EXTINF:-1 tvg-id="tlc" tvg-name="TLC HD" tvg-logo="http://epg.one/img/2345.png" group-title="Познавательные", TLC HD
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000001498/tve/index.m3u8
@@ -1435,31 +1435,31 @@ http://185.23.80.28:8080/KapitanFantastika/index.m3u8?token=test
 #EXTINF:-1 tvg-id="karusel" tvg-shift="+1" tvg-name="Карусель -1" tvg-logo="http://epg.one/img/740.png" group-title="Детские", Карусель -1
 #EXTGRP:Детские
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_KARUSEL-1.m3u8
+http://dmi3y-tv.ru/hls/DVB-T2/CH_KARUSEL-1.m3u8
 #EXTINF:-1 tvg-id="karusel" tvg-name="Карусель" tvg-logo="http://epg.one/img/740.png" group-title="Детские", Карусель
 #EXTGRP:Детские
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_KARUSEL.m3u8
+http://dmi3y-tv.ru/hls/DVB-T2/CH_KARUSEL.m3u8
 #EXTINF:-1 tvg-id="karusel-pl2" tvg-name="Карусель +2" tvg-logo="http://epg.one/img/2033.png" group-title="Детские", Карусель +2
 #EXTGRP:Детские
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_KARUSEL_2.m3u8
+http://dmi3y-tv.ru/hls/DVB-T2/CH_KARUSEL_2.m3u8
 #EXTINF:-1 tvg-id="karusel-pl4" tvg-name="Карусель +4" tvg-logo="http://epg.one/img/7984.png" group-title="Детские", Карусель +4
 #EXTGRP:Детские
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_KARUSEL_4.m3u8
+http://dmi3y-tv.ru/hls/DVB-T2/CH_KARUSEL_4.m3u8
 #EXTINF:-1 tvg-id="karusel" tvg-shift="-6" tvg-name="Карусель +6" tvg-logo="http://epg.one/img/740.png" group-title="Детские", Карусель +6
 #EXTGRP:Детские
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_KARUSEL_6.m3u8
+http://dmi3y-tv.ru/hls/DVB-T2/CH_KARUSEL_6.m3u8
 #EXTINF:-1 tvg-id="karusel-pl7" tvg-name="Карусель +7" tvg-logo="http://epg.one/img/1107.png" group-title="Детские", Карусель +7
 #EXTGRP:Детские
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_KARUSEL_7.m3u8
+http://dmi3y-tv.ru/hls/DVB-T2/CH_KARUSEL_7.m3u8
 #EXTINF:-1 tvg-id="karusel-pl8" tvg-name="Карусель +8" tvg-logo="http://epg.one/img/740.png" group-title="Детские", Карусель +8
 #EXTGRP:Детские
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_KARUSEL_8.m3u8
+http://dmi3y-tv.ru/hls/DVB-T2/CH_KARUSEL_8.m3u8
 #EXTINF:-1 tvg-id="karusel-int" tvg-name="Карусель International" tvg-logo="https://iptvx.one/picons/karusel.png" group-title="Детские", Карусель International
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000000781/tve/index.m3u8
@@ -1509,27 +1509,27 @@ http://u.vipl.one/high/67md8b2uek/165.m3u8?|User-Agent=http-user-agent=Lavf/56.1
 #EXTINF:-1 tvg-id="solnce" tvg-shift="+1" tvg-name="Солнце -1" tvg-logo="http://epg.one/img/7669.png" group-title="Детские", Солнце -1
 #EXTGRP:Детские
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/zabava/CH_DISNEY-1.m3u8
+http://dmi3y-tv.ru/hls/zabava/CH_DISNEY-1.m3u8
 #EXTINF:-1 tvg-id="solnce" tvg-name="Солнце" tvg-logo="http://epg.one/img/7669.png" group-title="Детские", Солнце
 #EXTGRP:Детские
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/zabava/CH_DISNEY.m3u8
+http://dmi3y-tv.ru/hls/zabava/CH_DISNEY.m3u8
 #EXTINF:-1 tvg-id="solnce-pl2" tvg-name="Солнце +2" tvg-logo="https://epg.one/img/7985.png" group-title="Детские", Солнце +2
 #EXTGRP:Детские
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/zabava/CH_DISNEY_2.m3u8
+http://dmi3y-tv.ru/hls/zabava/CH_DISNEY_2.m3u8
 #EXTINF:-1 tvg-id="solnce-pl4" tvg-name="Солнце +4" tvg-logo="https://epg.one/img/7986.png" group-title="Детские", Солнце +4
 #EXTGRP:Детские
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/zabava/CH_DISNEY_4.m3u8
+http://dmi3y-tv.ru/hls/zabava/CH_DISNEY_4.m3u8
 #EXTINF:-1 tvg-id="solnce" tvg-shift="-6" tvg-name="Солнце +6" tvg-logo="http://epg.one/img/7669.png" group-title="Детские", Солнце +6
 #EXTGRP:Детские
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/zabava/CH_DISNEY_6.m3u8
+http://dmi3y-tv.ru/hls/zabava/CH_DISNEY_6.m3u8
 #EXTINF:-1 tvg-id="solnce-pl7" tvg-name="Солнце +7" tvg-logo="http://epg.one/img/7669.png" group-title="Детские", Солнце +7
 #EXTGRP:Детские
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/zabava/CH_DISNEY_7.m3u8
+http://dmi3y-tv.ru/hls/zabava/CH_DISNEY_7.m3u8
 #EXTINF:-1 tvg-name="СоюзМультфильм" tvg-logo="https://i.postimg.cc/RCgvJhdQ/image.png" group-title="Детские", СоюзМультфильм
 #EXTGRP:Детские
 http://194.26.229.213/souzmultfilm/index.m3u8
@@ -1727,7 +1727,7 @@ http://185.23.80.28:8080/Camedi/index.m3u8?token=test
 http://130.193.73.10:8937/play/a03d
 #EXTINF:-1 tvg-id="kino1int-tviksel" tvg-name="Кино 1 International" tvg-logo="http://epg.one/img/6258.png" group-title="Кино", Кино 1 International
 #EXTGRP:Кино
-http://dmitry-tv.ddns.net/hls/CH_KINO1_INT.m3u8
+http://dmi3y-tv.ru/hls/CH_KINO1_INT.m3u8
 #EXTINF:-1 tvg-id="kino-bez-granic" tvg-name="Кино без границ" tvg-logo="https://avatars.mds.yandex.net/i?id=8a83a73357d19e33255a8ad9f231a03a2d3c94c69274fb84-10115282-images-thumbs&n=13" group-title="Кино", Кино без границ
 #EXTGRP:Кино
 http://185.50.148.2:7703/Detskiy/index.m3u8
@@ -1772,7 +1772,7 @@ http://213.226.137.140:81/tl/l415/mpegts
 http://213.226.137.140:81/tl/l16/playlist.m3u8
 #EXTINF:-1 tvg-name="Кошмар HD" tvg-logo="https://avatars.mds.yandex.net/i?id=c872d891d61f5db18c83c97bdf2e7df2b83df1a71091be81-12643871-images-thumbs&n=13" group-title="Кино", Кошмар HD
 #EXTGRP:Кино
-http://dmitry-tv.ddns.net/hls/CH_KOSHMAR.m3u8
+http://dmi3y-tv.ru/hls/CH_KOSHMAR.m3u8
 #EXTINF:-1 tvg-id="lavstori" tvg-name="Лавстори" tvg-logo="http://epg.one/img/9001.png" group-title="Кино", Лавстори
 #EXTGRP:Кино
 
@@ -1966,7 +1966,7 @@ https://hls.goodgame.ru/hls/187741.m3u8
 https://ucdn.beetv.kz/bpk-tv/000004472/tve/index.m3u8
 #EXTINF:-1 tvg-id="foxlife" tvg-name="FX Life" tvg-logo="http://epg.one/img/615.png" group-title="Кино", FX Life
 #EXTGRP:Кино
-http://dmitry-tv.ddns.net/hls/CH_FOXLIFE.m3u8
+http://dmi3y-tv.ru/hls/CH_FOXLIFE.m3u8
 #EXTINF:-1 tvg-id="hollywood" tvg-name="Hollywood" tvg-logo="http://epg.one/img/608.png" group-title="Кино", Hollywood
 #EXTGRP:Кино
 http://109.200.130.123:7537/play/a02g
@@ -2849,7 +2849,7 @@ https://fs2.persik.by/Horror_Movies_2/index.m3u8
 
 #EXTINF:-1 tvg-id="belarus5" tvg-name="Беларусь 5 HD" tvg-logo="http://epg.one/img/2541.png" group-title="Спорт", Беларусь 5 HD
 #EXTGRP:Спорт
-http://dmitry-tv.ddns.net/hls/blrus/CH_BELARUS5HD.m3u8
+http://dmi3y-tv.ru/hls/blrus/CH_BELARUS5HD.m3u8
 #EXTINF:-1 tvg-id="box-tv" tvg-name="Бокс ТВ" tvg-logo="http://epg.one/img/2285.png" group-title="Спорт", Бокс ТВ
 #EXTGRP:Спорт
 http://stream01.vnet.am/BoksTv/mono.m3u8
