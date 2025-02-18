@@ -811,7 +811,7 @@ https://ucdn.beetv.kz/bpk-tv/000001516/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000002721/tve/index.m3u8
 #EXTINF:-1 tvg-id="tdk-42" tvg-name="ТДК-42" tvg-logo="https://iptvx.one/picons/tdk-42.png" group-title="Казахстан", ТДК-42
 #EXTGRP:Казахстан
-https://live-tdk42kz.cdnvideo.ru/tdk42kz/tdk42kz_720.smil/playlist.m3u8
+https://ucdn.beetv.kz/bpk-tv/000001507/tve/index.m3u8
 #EXTINF:-1 tvg-id="toy-duman" tvg-name="Той Думан" tvg-logo="https://iptvx.one/picons/toy-duman.png" group-title="Казахстан", Той Думан
 #EXTGRP:Казахстан
 https://ucdn.beetv.kz/bpk-tv/000002936/tve/index.m3u8
