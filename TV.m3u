@@ -903,7 +903,7 @@ http://stream01.vnet.am/Channel_126/mono.m3u8
 http://95.156.76.230:33001/udp/230.4.34.78:1234
 #EXTINF:-1 tvg-id="dozhd" tvg-name="Дождь" tvg-logo="http://epg.one/img/2399.png" group-title="Познавательные", Дождь
 #EXTGRP:Познавательные
-http://cdn.admuspeh.my/8113/index.m3u8?token=iptv50na50
+http://31.58.58.200:2020/channel/18c64526/index.m3u8?q=134640b703359cff844da68d4c02e763
 #EXTINF:-1 tvg-id="doktor" tvg-name="Доктор" tvg-logo="http://epg.one/img/16.png" group-title="Познавательные", Доктор
 #EXTGRP:Познавательные
 http://178.57.121.38:8080/doctor/index.m3u8?token=test
@@ -978,7 +978,7 @@ https://live-3.otcnet.ru/congresstv-multi/index.m3u8
 https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="kto-est-kto" tvg-name="Кто есть кто" tvg-logo="http://epg.one/img/2456.png" group-title="Познавательные", Кто есть кто
 #EXTGRP:Познавательные
-http://cdn.admuspeh.my/8105/index.m3u8?token=iptv50na50
+
 #EXTINF:-1 tvg-id="mir-uvlecheniy" tvg-name="Кто куда" tvg-logo="http://epg.one/img/2467.png" group-title="Познавательные", Кто куда
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000001377/tve/index.m3u8
@@ -1772,7 +1772,7 @@ http://213.226.137.140:81/tl/l16/playlist.m3u8
 http://dmitry-tv.ddns.net/hls/CH_KOSHMAR.m3u8
 #EXTINF:-1 tvg-id="lavstori" tvg-name="Лавстори" tvg-logo="http://epg.one/img/9001.png" group-title="Кино", Лавстори
 #EXTGRP:Кино
-http://cdn.admuspeh.my/8970/index.m3u8?token=Tva25uspehTest
+
 #EXTINF:-1 tvg-id="lubimoe-kino" tvg-name="Любимое кино" tvg-logo="http://epg.one/img/477.png" group-title="Кино", Любимое кино
 #EXTGRP:Кино
 http://130.193.73.10:8937/play/a037
@@ -1837,7 +1837,7 @@ http://194.158.218.123:8880/Retrotv/index.m3u8
 http://185.50.148.2:7711/RodnoeKino/index.m3u8
 #EXTINF:-1 tvg-id="romantichnoe-hd" tvg-name="Романтичное" tvg-logo="http://epg.one/img/2772.png" group-title="Кино", Романтичное
 #EXTGRP:Кино
-http://cdn.admuspeh.my/8948/index.m3u8?token=Tva25uspehTest
+
 #EXTINF:-1 tvg-id="russkaya-komedia" tvg-name="Русская комедия" tvg-logo="http://epg.one/img/1620.png" group-title="Кино", Русская комедия
 #EXTGRP:Кино
 http://130.193.73.10:8937/play/a03k
@@ -1867,7 +1867,7 @@ http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5
 http://u.vipl.one/high/mi6zbpyhnj/139.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
 #EXTINF:-1 tvg-id="strashnoe-hd" tvg-name="Страшное HD" tvg-logo="http://epg.one/img/2857.png" group-title="Кино", Страшное HD
 #EXTGRP:Кино
-http://cdn.admuspeh.my/8198/index.m3u8?token=test
+http://31.58.58.200:2020/channel/42c15d29/index.m3u8?q=134640b703359cff844da68d4c02e763
 #EXTINF:-1 tvg-id="tvxxi" tvg-name="ТВ 21" tvg-logo="http://epg.one/img/309.png" group-title="Кино", ТВ 21
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000000006/tve/index.m3u8
@@ -2005,7 +2005,7 @@ https://ucdn.beetv.kz/bpk-tv/000007815/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000007818/tve/index.m3u8
 #EXTINF:-1 tvg-id="suspense" tvg-name="Suspense HD" tvg-logo="http://epg.one/img/9180.png" group-title="Кино", Suspense HD
 #EXTGRP:Кино
-http://cdn.admuspeh.my/8971/index.m3u8?token=test
+
 #EXTINF:-1 tvg-id="timeless-dizi" tvg-name="Timeless Dizi Channel" tvg-logo="http://epg.one/img/6724.png" group-title="Кино", Timeless Dizi Channel
 #EXTGRP:Кино
 http://194.158.222.36:6086
@@ -2014,7 +2014,7 @@ http://194.158.222.36:6086
 http://185.23.80.28:8080/TRASH/index.m3u8?token=test
 #EXTINF:-1 tvg-id="vhs-ka" tvg-name="VHS-ка HD" tvg-logo="http://epg.one/img/9065.png" group-title="Кино", VHS-ка HD
 #EXTGRP:Кино
-http://cdn.admuspeh.my/8962/index.m3u8?token=Njrty24ghjCnjNfr
+
 #EXTINF:-1 tvg-id="vip-comedy-cee" tvg-name="Viasat Kino Comedy HD" tvg-logo="http://epg.one/img/8880.png" group-title="Кино", Viasat Kino Comedy HD
 #EXTGRP:Кино
 http://213.226.137.140:81/tl/l1243/video.m3u8
