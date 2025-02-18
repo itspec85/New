@@ -2867,7 +2867,7 @@ http://194.143.148.28:8080/MatchArena/mpegts
 http://flu.ttk.mx:90/Boets/mono.m3u8?token=hs06e
 #EXTINF:-1 tvg-id="match-boets" tvg-name="Матч! Боец HD" tvg-logo="http://epg.one/img/2054.png" group-title="Спорт", Матч! Боец HD
 #EXTGRP:Спорт
-http://cdn.admuspeh.my/8027/index.m3u8?token=4gPHp5ZVYqDAR4oz
+
 #EXTINF:-1 tvg-id="match-igra" tvg-name="Матч! Игра" tvg-logo="http://epg.one/img/2050.png" group-title="Спорт", Матч! Игра
 #EXTGRP:Спорт
 http://31.148.48.15/Match_Igra/index.m3u8
@@ -2882,22 +2882,22 @@ https://ucdn.beetv.kz/bpk-tv/000001695/tve/index.m3u8
 http://185.37.150.46:8092/Nash_futbol_HD/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="match-premier" tvg-name="Матч! Премьер HD" tvg-logo="http://epg.one/img/2250.png" group-title="Спорт", Матч! Премьер HD
 #EXTGRP:Спорт
-http://cdn.admuspeh.my/8023/index.m3u8?token=pE6pxgAtfZdZmnLx
+
 #EXTINF:-1 tvg-id="match-nash-sport" tvg-name="Матч! Страна" tvg-logo="http://epg.one/img/2042.png" group-title="Спорт", Матч! Страна
 #EXTGRP:Спорт
 http://213.226.137.140:81/tl/l73/mpegts
 #EXTINF:-1 tvg-id="match-nash-sport" tvg-name="Матч! Страна HD" tvg-logo="http://epg.one/img/2042.png" group-title="Спорт", Матч! Страна HD
 #EXTGRP:Спорт
-http://cdn.admuspeh.my/8019/index.m3u8?token=4gPHp5ZVYqDAR4oz
+
 #EXTINF:-1 tvg-id="match-football1" tvg-name="Матч! Футбол 1" tvg-logo="http://epg.one/img/2044.png" group-title="Спорт", Матч! Футбол 1
 #EXTGRP:Спорт
-http://cdn.admuspeh.my/8021/index.m3u8?token=4gPHp5ZVYqDAR4oz
+http://tv.ttk.mx:9108
 #EXTINF:-1 tvg-id="match-football1" tvg-name="Матч! Футбол 1 HD" tvg-logo="http://epg.one/img/2044.png" group-title="Спорт", Матч! Футбол 1 HD
 #EXTGRP:Спорт
 http://flu.ttk.mx:90/Football_1HD/mono.m3u8?token=hs06e
 #EXTINF:-1 tvg-id="match-football2" tvg-name="Матч! Футбол 2" tvg-logo="http://epg.one/img/1042.png" group-title="Спорт", Матч! Футбол 2
 #EXTGRP:Спорт
-http://cdn.admuspeh.my/8022/index.m3u8?token=TestuspehTva
+http://tv.ttk.mx:9111
 #EXTINF:-1 tvg-id="match-football2" tvg-name="Матч! Футбол 2 HD" tvg-logo="http://epg.one/img/1042.png" group-title="Спорт", Матч! Футбол 2 HD
 #EXTGRP:Спорт
 http://flu.ttk.mx:90/Football_2HD/mono.m3u8?token=hs06e
@@ -3221,9 +3221,6 @@ https://atomic.streamnet.ro/academia.m3u8
 #EXTINF:-1 tvg-name="Baraza Music HD" tvg-logo="http://epg.one/img/4651.png" group-title="Музыка", Baraza Music HD
 #EXTGRP:Музыка
 https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8
-#EXTINF:-1 tvg-id="box-music-4k" tvg-name="BOX Music 4K" tvg-logo="http://epg.one/img/6707.png" group-title="Музыка", BOX Music 4K
-#EXTGRP:Музыка
-http://cdn.admuspeh.my/8990/index.m3u8?token=4gPHp5ZVYqDAR4oz
 #EXTINF:-1 tvg-id="bridge-tv" tvg-name="Bridge TV" tvg-logo="http://epg.one/img/151.png" group-title="Музыка", Bridge TV
 #EXTGRP:Музыка
 http://195.26.83.96:7007/play/a00m/index.m3u8
@@ -3566,9 +3563,6 @@ http://iptv.prosto.tv:7000/ch310/video.m3u8
 #EXTINF:-1 tvg-name="AviaStream" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00549.jpg" group-title="Релакс", AviaStream
 #EXTGRP:Релакс
 http://iptv.prosto.tv:7000/ch306/video.m3u8
-#EXTINF:-1 tvg-id="box-relax" tvg-name="BOX Relax 4K" tvg-logo="http://epg.one/img/6708.png" group-title="Релакс", BOX Relax 4K
-#EXTGRP:Релакс
-http://cdn.admuspeh.my/8338/video.m3u8?token=iptvshared
 #EXTINF:-1 tvg-id="home-4k" tvg-name="Home 4K" tvg-logo="http://epg.one/img/2745.png" group-title="Релакс", Home 4K
 #EXTGRP:Релакс
 http://hls3.ttv2.space/home_hd/tracks-v1a1/mono.m3u8
