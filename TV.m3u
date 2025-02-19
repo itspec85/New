@@ -37,7 +37,7 @@ http://178.124.152.238:8088/dom
 #EXTINF:-1 tvg-id="zvezda" tvg-shift="+1" tvg-name="Звезда -1" tvg-logo="http://epg.one/img/405.png" group-title="Россия", Звезда -1
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmi3y-tv.ruhls/DVB-T2/CH_ZVEZDA-1.m3u8
+http://dmi3y-tv.ru/hls/DVB-T2/CH_ZVEZDA-1.m3u8
 #EXTINF:-1 tvg-id="zvezda" tvg-name="Звезда" tvg-logo="http://epg.one/img/405.png" group-title="Россия", Звезда
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
