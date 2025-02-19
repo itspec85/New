@@ -861,7 +861,7 @@ https://ucdn.beetv.kz/bpk-tv/000008877/tve/index.m3u8
 http://dmi3y-tv.ru/hls/CH_ARSENALHD.m3u8
 #EXTINF:-1 tvg-id="bobior" tvg-name="Бобёр" tvg-logo="http://epg.one/img/2026.png" group-title="Познавательные", Бобёр
 #EXTGRP:Познавательные
-http://178.212.71.253:8002/play/a00m/index.m3u8
+http://109.200.130.123:7537/play/a02c
 #EXTINF:-1 tvg-id="bolshaya-azia" tvg-name="Большая Азия HD" tvg-logo="http://epg.one/img/2417.png" group-title="Познавательные", Большая Азия HD
 #EXTGRP:Познавательные
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
@@ -984,7 +984,7 @@ https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3
 https://ucdn.beetv.kz/bpk-tv/000001377/tve/index.m3u8
 #EXTINF:-1 tvg-id="kuxnia-tv" tvg-name="Кухня ТВ" tvg-logo="http://epg.one/img/614.png" group-title="Познавательные", Кухня ТВ
 #EXTGRP:Познавательные
-http://213.226.137.140:81/tl/l65/index.m3u8
+http://178.124.152.238:8088/kuhnya
 #EXTINF:-1 tvg-id="lapki-live" tvg-name="Лапки Live HD" tvg-logo="http://epg.one/img/9093.png" group-title="Познавательные", Лапки Live HD
 #EXTGRP:Познавательные
 http://91.247.68.229:8000/play/Lapki/index.m3u8
@@ -1279,7 +1279,7 @@ http://195.26.83.96:7007/play/a00j/index.m3u8
 https://fl1001.bozztv.com/ushba31/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="hd-life" tvg-name="HD Life" tvg-logo="http://epg.one/img/415.png" group-title="Познавательные", HD Life
 #EXTGRP:Познавательные
-http://213.226.137.140:81/tl/l305/mpegts
+http://95.142.88.250:80/HDL/index.m3u8
 #EXTINF:-1 tvg-id="hgtv-pl" tvg-name="HGTV HD" tvg-logo="http://epg.one/img/3599.png" group-title="Познавательные", HGTV HD
 #EXTGRP:Познавательные
 http://178.219.128.68:64889/HGTVHD
@@ -1354,7 +1354,7 @@ https://hls.rt.com/hls/rtdru.m3u8
 http://cdn-01.bonus-tv.ru/RussiaToday/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="rtg-hd" tvg-name="RTG HD" tvg-logo="http://epg.one/img/648.png" group-title="Познавательные", RTG HD
 #EXTGRP:Познавательные
-http://213.226.137.140:81/tl/l321/index.m3u8
+http://194.143.148.28:8080/RTG_HD/index.m3u8
 #EXTINF:-1 tvg-id="rtg-tv" tvg-name="RTG TV" tvg-logo="http://epg.one/img/2280.png" group-title="Познавательные", RTG TV
 #EXTGRP:Познавательные
 http://195.26.83.96:7007/play/a00n/index.m3u8
@@ -1390,19 +1390,19 @@ http://origin5.mediacdn.ru/live/tvm/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000004157/tve/index.m3u8
 #EXTINF:-1 tvg-id="viasat-explore" tvg-name="Viju Explore (резерв)" tvg-logo="http://epg.one/img/521.png" group-title="Познавательные", Viju Explore (резерв)
 #EXTGRP:Познавательные
-http://213.226.137.140:81/tl/l94/index.m3u8
+http://185.50.148.2:7703/ViasatExplorer/index.m3u8
 #EXTINF:-1 tvg-id="viasat-history" tvg-name="Viju History" tvg-logo="http://epg.one/img/277.png" group-title="Познавательные", Viju History
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000005528/tve/index.m3u8
 #EXTINF:-1 tvg-id="viasat-history" tvg-name="Viju History (резерв)" tvg-logo="http://epg.one/img/277.png" group-title="Познавательные", Viju History (резерв)
 #EXTGRP:Познавательные
-http://213.226.137.140:81/tl/l95/index.m3u8
+http://185.50.148.2:7703/ViasatHistory/index.m3u8
 #EXTINF:-1 tvg-id="viasat-nature" tvg-name="Viju Nature" tvg-logo="http://epg.one/img/765.png" group-title="Познавательные", Viju Nature
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000006482/tve/index.m3u8
 #EXTINF:-1 tvg-id="viasat-nature" tvg-name="Viju Nature (резерв)" tvg-logo="http://epg.one/img/765.png" group-title="Познавательные", Viju Nature (резерв)
 #EXTGRP:Познавательные
-http://213.226.137.140:81/tl/l96/mpegts
+http://185.50.148.2:7703/ViasatNature/index.m3u8
 #EXTINF:-1 tvg-id="viasat-nature-history-hd" tvg-name="Viju+ Planet HD" tvg-logo="http://epg.one/img/2012.png" group-title="Познавательные", Viju+ Planet HD
 #EXTGRP:Познавательные
 http://130.193.73.10:8937/play/a01l
