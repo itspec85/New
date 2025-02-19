@@ -960,7 +960,7 @@ http://edge3.uk.kab.tv/live/tvrus-rus-high/chunks.m3u8
 http://origin5.mediacdn.ru/live/kaleidoskop/index.m3u8
 #EXTINF:-1 tvg-id="kvn-tv" tvg-name="КВН ТВ" tvg-logo="http://epg.one/img/1700.png" group-title="Познавательные", КВН ТВ
 #EXTGRP:Познавательные
-http://213.226.137.140:81/tl/l410/mpegts
+http://95.142.88.250:80/KVN_TV/index.m3u8
 #EXTINF:-1 tvg-id="rus-hualiang-tv" tvg-name="Китай ТВ" tvg-logo="https://avatars.mds.yandex.net/i?id=436495c2f8fdbd1b22e12e22f18dabad29cee9d1-9840106-images-thumbs&ref=rim&n=33&w=379&h=379" group-title="Познавательные", Китай ТВ
 #EXTGRP:Познавательные
 https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
@@ -1264,7 +1264,7 @@ https://ucdn.beetv.kz/bpk-tv/000002455/tve/index.m3u8
 http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
 #EXTINF:-1 tvg-id="food-network-eu" tvg-name="Food Network" tvg-logo="http://epg.one/img/3607.png" group-title="Познавательные", Food Network
 #EXTGRP:Познавательные
-http://213.226.137.140:81/tl/l98/mpegts
+rtmp://212.0.213.132//Joy_Cook
 #EXTINF:-1 tvg-id="fox-news-us" tvg-name="FOX NEWS CHANNEL FHD" tvg-logo="http://epg.one/img/6683.png" group-title="Познавательные", FOX NEWS CHANNEL FHD
 #EXTGRP:Познавательные
 http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
@@ -1327,7 +1327,7 @@ https://ucdn.beetv.kz/bpk-tv/000000034/tve/index.m3u8
 http://stream01.vnet.am/NationalGeographic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ocean-tv" tvg-name="OCEAN-TV" tvg-logo="http://epg.one/img/55.png" group-title="Познавательные", OCEAN-TV
 #EXTGRP:Познавательные
-http://95.142.88.250/ocean_tv/index.m3u8
+
 #EXTINF:-1 tvg-id="one-planet" tvg-name="One Planet" tvg-logo="https://epgx.club/picons/one-planet.png" group-title="Познавательные", One Planet
 #EXTGRP:Познавательные
 http://95.67.12.82:9088
