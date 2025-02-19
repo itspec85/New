@@ -727,7 +727,7 @@ https://ucdn.beetv.kz/bpk-tv/000005449/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000005450/tve/index.m3u8
 #EXTINF:-1 tvg-id="caspian-news" tvg-name="Caspian News" tvg-logo="https://iptvx.one/picons/caspian-news.png" group-title="Казахстан", Caspian News
 #EXTGRP:Казахстан
-https://ucdn.beetv.kz/bpk-tv/000004646/tve/index.m3u8
+
 #EXTINF:-1 tvg-id="kazakhstan" tvg-name="Qazaqstan HD" tvg-logo="http://epg.one/img/2569.png" group-title="Казахстан", Qazaqstan HD
 #EXTGRP:Казахстан
 https://ucdn.beetv.kz/bpk-tv/000004208/tve/index.m3u8
@@ -781,7 +781,7 @@ https://ucdn.beetv.kz/bpk-tv/000001052/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000000669/tve/index.m3u8
 #EXTINF:-1 tvg-id="pervy-karagandinsky" tvg-name="Первый Карагандинский" tvg-logo="https://iptvx.one/picons/pervy-karagandinsky.png" group-title="Казахстан", Первый Карагандинский
 #EXTGRP:Казахстан
-https://ucdn.beetv.kz/bpk-tv/000000939/tve/index.m3u8
+
 #EXTINF:-1 tvg-id="rika" tvg-name="Рика ТВ" tvg-logo="https://iptvx.one/picons/rika.png" group-title="Казахстан", Рика ТВ
 #EXTGRP:Казахстан
 https://ucdn.beetv.kz/bpk-tv/000001514/tve/index.m3u8
@@ -802,7 +802,7 @@ https://ikomg-kazakh.akamaized.net/kazakh/kazakh.m3u8
 https://ucdn.beetv.kz/bpk-tv/000008944/tve/index.m3u8
 #EXTINF:-1 tvg-id="taraz24-kz" tvg-name="Тараз 24" tvg-logo="https://iptvx.one/picons/taraz24-kz.png" group-title="Казахстан", Тараз 24
 #EXTGRP:Казахстан
-https://ucdn.beetv.kz/bpk-tv/000007838/tve/index.m3u8
+
 #EXTINF:-1 tvg-name="ТВК 6" tvg-logo="https://avatars.mds.yandex.net/i?id=21b52ae0fa9957f7ad5d535b48b839820ecb86f5-5569020-images-thumbs&n=13" group-title="Казахстан", ТВК 6
 #EXTGRP:Казахстан
 https://ucdn.beetv.kz/bpk-tv/000001516/tve/index.m3u8
