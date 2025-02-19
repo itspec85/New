@@ -1694,7 +1694,7 @@ https://132544.edgevideo.ru/streams/132544_847220/1325441080/index.m3u8
 https://hls.goodgame.ru/manifest/202997_master.m3u8
 #EXTINF:-1 tvg-id="denpobedy" tvg-name="День Победы HD" tvg-logo="http://epg.one/img/2773.png" group-title="Кино", День Победы HD
 #EXTGRP:Кино
-https://mhd128.iptv2022.com/p/J95unRJ-8xlWEPFYX1JGAg,1739908807/streaming/den-pobedi/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/1a-I2zCQbVCji7TliwemlA,1739995206/streaming/den-pobedi/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="domkino" tvg-name="Дом кино" tvg-logo="http://epg.one/img/834.png" group-title="Кино", Дом кино
 #EXTGRP:Кино
 http://93.189.224.246:52900/play/a00z/index.m3u8
