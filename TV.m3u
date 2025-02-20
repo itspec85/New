@@ -2018,7 +2018,7 @@ https://ucdn.beetv.kz/bpk-tv/000007818/tve/index.m3u8
 #EXTINF:-1 tvg-id="timeless-dizi" tvg-name="Timeless Dizi Channel" tvg-logo="http://epg.one/img/6724.png" group-title="Кино", Timeless Dizi Channel
 #EXTGRP:Кино
 http://194.158.222.36:6086
-#EXTINF:-1 tvg-id="trashtv" tvg-name="Trash" tvg-logo="http://epg.one/img/3361.png" group-title="Кино", Trash
+#EXTINF:-1 tvg-id="trashtv" tvg-name="Trash HD" tvg-logo="http://epg.one/img/3361.png" group-title="Кино", Trash HD
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000005621/tve/index.m3u8
 #EXTINF:-1 tvg-id="vhs-ka" tvg-name="VHS-ка HD" tvg-logo="http://epg.one/img/9065.png" group-title="Кино", VHS-ка HD
