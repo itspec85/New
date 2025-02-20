@@ -1715,7 +1715,7 @@ http://193.242.190.6:8099/37/index.m3u8
 http://185.50.148.2:7709/Evrokino/index.m3u8
 #EXTINF:-1 tvg-name="Иллюзион+" tvg-logo="http://epg.one/img/2403.png" group-title="Кино", Иллюзион +
 #EXTGRP:Кино
-http://185.23.80.28:8080/Illyuzion+/index.m3u8?token=test
+http://flu.ttk.mx:90/Illuzion+/mono.m3u8?token=hs06e
 #EXTINF:-1 tvg-id="indiyskoe-kino" tvg-name="Индийское кино" tvg-logo="http://epg.one/img/798.png" group-title="Кино", Индийское кино
 #EXTGRP:Кино
 http://188.113.190.12/329/index.m3u8
@@ -1754,7 +1754,7 @@ http://213.226.137.140:81/tl/l79/mpegts
 http://65.21.85.175:8000/play/a02a/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="kinopremiera-hd" tvg-name="Кинопремьера" tvg-logo="http://epg.one/img/566.png" group-title="Кино", Кинопремьера
 #EXTGRP:Кино
-http://213.226.137.140:81/tl/l303/mpegts
+http://193.242.190.6:8099/35/index.m3u8
 #EXTINF:-1 tvg-id="kinoroman-kz" tvg-name="Кинороман KZ" tvg-logo="https://epgx.club/picons/kinoroman-kz.png" group-title="Кино", Кинороман KZ
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000009132/tve/index.m3u8
@@ -1772,10 +1772,10 @@ http://193.242.190.6:8099/85/index.m3u8
 https://flussonic.salomtv.uz/Kinoseriya/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="kinouzhas" tvg-name="Киноужас" tvg-logo="http://epg.one/img/2493.png" group-title="Кино", Киноужас
 #EXTGRP:Кино
-http://213.226.137.140:81/tl/l415/mpegts
+http://109.200.130.123:7537/play/a021
 #EXTINF:-1 tvg-id="kinoxit" tvg-name="Кинохит" tvg-logo="http://epg.one/img/542.png" group-title="Кино", Кинохит
 #EXTGRP:Кино
-http://213.226.137.140:81/tl/l16/playlist.m3u8
+http://flu.ttk.mx:90/kinohit/mono.m3u8?token=hs06e
 #EXTINF:-1 tvg-name="Кошмар HD" tvg-logo="https://avatars.mds.yandex.net/i?id=c872d891d61f5db18c83c97bdf2e7df2b83df1a71091be81-12643871-images-thumbs&n=13" group-title="Кино", Кошмар HD
 #EXTGRP:Кино
 http://dmi3y-tv.ru/hls/CH_KOSHMAR.m3u8
