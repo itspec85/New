@@ -852,7 +852,7 @@ http://93.189.224.24/365dney/index.m3u8
 http://178.57.121.38:8080/avto24/index.m3u8?token=test
 #EXTINF:-1 tvg-id="avto-plus" tvg-name="Авто Плюс" tvg-logo="http://epg.one/img/153.png" group-title="Познавательные", Авто Плюс
 #EXTGRP:Познавательные
-https://flussonic.salomtv.uz/Avto_Plus/video.m3u8
+http://31.148.48.15:80/Avto_Plus/index.m3u8?token=test
 #EXTINF:-1 tvg-id="anekdottv" tvg-name="Анекдот тв" tvg-logo="http://epg.one/img/2760.png" group-title="Познавательные", Анекдот тв
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000001921/tve/index.m3u8
@@ -933,7 +933,7 @@ http://185.23.80.28:8080/Eda/index.m3u8?token=test
 http://195.18.23.20:8000/play/10/index.m3u8
 #EXTINF:-1 tvg-id="zhivi-aktivno" tvg-name="Живи Активно HD" tvg-logo="http://epg.one/img/5881.png" group-title="Познавательные", Живи Активно HD
 #EXTGRP:Познавательные
-https://flussonic.salomtv.uz/JiviaktivnoHD/video.m3u8
+
 #EXTINF:-1 tvg-id="zagorodnaya-zhizn" tvg-name="Загородная Жизнь" tvg-logo="http://epg.one/img/2298.png" group-title="Познавательные", Загородная Жизнь
 #EXTGRP:Познавательные
 http://flu.ttk.mx:90/zagorodnaya_zhizn/mono.m3u8?token=hs06e
@@ -1047,7 +1047,7 @@ https://osnmedia.servicecdn.ru/streams/17603_88089/720n/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000000308/tve/index.m3u8
 #EXTINF:-1 tvg-id="oxota-i-rybalka" tvg-name="Охота и Рыбалка" tvg-logo="http://epg.one/img/2419.png" group-title="Познавательные", Охота и Рыбалка
 #EXTGRP:Познавательные
-https://flussonic.salomtv.uz/Ohota_Ribalka/video.m3u8
+http://flu.ttk.mx:90/Ohota_i_rybalka/mono.m3u8?token=hs06e
 #EXTINF:-1 tvg-id="oxotnik-i-rybolov" tvg-name="Охотник и рыболов" tvg-logo="http://epg.one/img/1681.png" group-title="Познавательные", Охотник и рыболов
 #EXTGRP:Познавательные
 http://stream01.vnet.am/Channel_124/mono.m3u8
@@ -1321,7 +1321,7 @@ http://dmi3y-tv.ru/hls/CH_NANOTVHD.m3u8
 https://ucdn.beetv.kz/bpk-tv/000004474/tve/index.m3u8
 #EXTINF:-1 tvg-id="nat-geo-wild" tvg-name="Nat Geo Wild (резерв)" tvg-logo="http://epg.one/img/223.png" group-title="Познавательные", Nat Geo Wild (резерв)
 #EXTGRP:Познавательные
-https://flussonic.salomtv.uz/NatGeoWildHD/video.m3u8
+http://dmi3y-tv.ru/hls/CH_NATIONALGEOGRAPHICWILD.m3u8
 #EXTINF:-1 tvg-id="national-geographic" tvg-name="National Geographic" tvg-logo="http://epg.one/img/102.png" group-title="Познавательные", National Geographic
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000000034/tve/index.m3u8
@@ -3017,10 +3017,10 @@ http://194.143.148.28:8080/KHL_HD/mpegts
 http://213.226.137.140:81/tl/l67/mpegts
 #EXTINF:-1 tvg-id="m1global" tvg-name="MMA-TV.com" tvg-logo="http://epg.one/img/2326.png" group-title="Спорт", MMA-TV.com
 #EXTGRP:Спорт
-http://213.226.137.140:81/tl/l404/mpegts
+http://arbiter.bolshoe.tv/?path=abr2/sethd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMC8yMDI1IDg6MDQ6NDEgQU0maGFzaF92YWx1ZT1RTDFrVEpNd2tqeGJhL3NLajE1T0Z3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 #EXTINF:-1 tvg-id="m1global" tvg-name="MMA-TV.com HD" tvg-logo="http://epg.one/img/2326.png" group-title="Спорт", MMA-TV.com HD
 #EXTGRP:Спорт
-https://flussonic.salomtv.uz/MMATV/video.m3u8
+
 #EXTINF:-1 tvg-id="nba-tv" tvg-name="NBA TV HD US" tvg-logo="http://epg.one/img/4587.png" group-title="Спорт", NBA TV HD US
 #EXTGRP:Спорт
 https://7pal.short.gy/nbatvus
@@ -3113,7 +3113,7 @@ http://217.174.225.146/hls/ch004_720/index.m3u8
 http://globalstreamz.xyz:3050/edwhite43@yahoo.com/bK5HuUT6uk/601454
 #EXTINF:-1 tvg-name="UzSport" tvg-logo="http://epg.one/img/2647.png" group-title="Спорт", UzSport
 #EXTGRP:Спорт
-https://flussonic.salomtv.uz/Foreign-Lang/video.m3u8
+
 #EXTINF:-1 tvg-id="viasat-sport" tvg-name="Viju+ Sport" tvg-logo="http://epg.one/img/2055.png" group-title="Спорт", Viju+ Sport
 #EXTGRP:Спорт
 http://213.226.137.140:81/tl/l97/mpegts
