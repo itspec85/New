@@ -1697,7 +1697,7 @@ https://132544.edgevideo.ru/streams/132544_847220/1325441080/index.m3u8
 https://hls.goodgame.ru/manifest/202997_master.m3u8
 #EXTINF:-1 tvg-id="denpobedy" tvg-name="День Победы HD" tvg-logo="http://epg.one/img/2773.png" group-title="Кино", День Победы HD
 #EXTGRP:Кино
-https://mhd128.iptv2022.com/p/1a-I2zCQbVCji7TliwemlA,1739995206/streaming/den-pobedi/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/1u3_i-1xduHgJbz4NTcd4g,1740081606/streaming/den-pobedi/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="domkino" tvg-name="Дом кино" tvg-logo="http://epg.one/img/834.png" group-title="Кино", Дом кино
 #EXTGRP:Кино
 http://93.189.224.246:52900/play/a00z/index.m3u8
@@ -1828,7 +1828,7 @@ http://cdn.ntv.ru/th_hit/mono.m3u8
 http://141.95.55.143/CH547/index.m3u8
 #EXTINF:-1 tvg-id="pobeda" tvg-name="Победа" tvg-logo="http://epg.one/img/2447.png" group-title="Кино", Победа
 #EXTGRP:Кино
-http://185.23.80.28:8080/Pobeda/index.m3u8?token=test
+http://flu.ttk.mx:90/Pobeda/mono.m3u8?token=hs06e
 #EXTINF:-1 tvg-id="premialnoe-hd" tvg-name="Премиальное HD" tvg-logo="http://epg.one/img/2732.png" group-title="Кино", Премиальное HD
 #EXTGRP:Кино
 http://31.184.197.124/PremialnoeHD/mono.m3u8
@@ -1858,7 +1858,7 @@ http://130.193.73.10:8937/play/a03l
 http://130.193.73.10:8937/play/a03o
 #EXTINF:-1 tvg-id="russky-illuzion" tvg-name="Русский иллюзион" tvg-logo="http://epg.one/img/53.png" group-title="Кино", Русский иллюзион
 #EXTGRP:Кино
-http://185.23.80.28:8080/RusIlluzion/index.m3u8?token=test
+http://109.200.130.123:7537/play/a023
 #EXTINF:-1 tvg-id="russky-roman" tvg-name="Русский роман" tvg-logo="http://epg.one/img/401.png" group-title="Кино", Русский роман
 #EXTGRP:Кино
 http://193.242.190.6:8099/39/index.m3u8
@@ -2020,7 +2020,7 @@ https://ucdn.beetv.kz/bpk-tv/000007818/tve/index.m3u8
 http://194.158.222.36:6086
 #EXTINF:-1 tvg-id="trashtv" tvg-name="Trash" tvg-logo="http://epg.one/img/3361.png" group-title="Кино", Trash
 #EXTGRP:Кино
-http://185.23.80.28:8080/TRASH/index.m3u8?token=test
+https://ucdn.beetv.kz/bpk-tv/000005621/tve/index.m3u8
 #EXTINF:-1 tvg-id="vhs-ka" tvg-name="VHS-ка HD" tvg-logo="http://epg.one/img/9065.png" group-title="Кино", VHS-ка HD
 #EXTGRP:Кино
 
