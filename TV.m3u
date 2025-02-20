@@ -1924,7 +1924,7 @@ https://ucdn.beetv.kz/bpk-tv/000000351/tve/index.m3u8
 http://130.193.73.10:8937/play/a02o
 #EXTINF:-1 tvg-id="amedia-premium" tvg-name="Amedia Premium" tvg-logo="http://epg.one/img/1372.png" group-title="Кино", Amedia Premium
 #EXTGRP:Кино
-http://195.18.23.20:8000/play/3/index.m3u8
+http://dmi3y-tv.ru/hls/CH_AMEDIAPREMIUMHD.m3u8
 #EXTINF:-1 tvg-id="bollywood-hd" tvg-name="Bollywood HD" tvg-logo="http://epg.one/img/1395.png" group-title="Кино", Bollywood HD
 #EXTGRP:Кино
 http://130.193.73.10:8937/play/a02l
