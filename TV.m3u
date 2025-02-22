@@ -1238,6 +1238,9 @@ http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMH
 #EXTINF:-1 tvg-id="cnn" tvg-name="CNN USA" tvg-logo="http://epg.one/img/3641.png" group-title="Познавательные", CNN USA
 #EXTGRP:Познавательные
 http://dmi3y-tv.ru/hls/CH_CNNHD.m3u8
+#EXTINF:-1 tvg-id="continent-e" tvg-name="Continent E" tvg-logo="https://epgx.club/picons/continent-e.png" group-title="Познавательные", Continent E
+#EXTGRP:Познавательные
+http://95.67.12.82:9083
 #EXTINF:-1 tvg-id="deutsche-welle-eu" tvg-name="Deutsche Welle EN" tvg-logo="http://epg.one/img/8638.png" group-title="Познавательные", Deutsche Welle EN
 #EXTGRP:Познавательные
 http://dmi3y-tv.ru/hls/CH_DW_ENGLISHHD.m3u8
@@ -1292,6 +1295,9 @@ https://ucdn.beetv.kz/bpk-tv/000001000/tve/index.m3u8
 #EXTINF:-1 tvg-id="history" tvg-name="History (резерв)" tvg-logo="http://epg.one/img/1394.png" group-title="Познавательные", History (резерв)
 #EXTGRP:Познавательные
 http://65.21.85.175:8000/play/a01s/index.m3u8?token=livetv
+#EXTINF:-1 tvg-id="h2" tvg-name="History 2" tvg-logo="http://epg.one/img/2356.png" group-title="Познавательные", History 2
+#EXTGRP:Познавательные
+http://95.67.12.81:10620?key=fas-tv.com
 #EXTINF:-1 tvg-id="id-xtra-eu" tvg-name="Investigation Discovery" tvg-logo="http://epg.one/img/2507.png" group-title="Познавательные", Investigation Discovery
 #EXTGRP:Познавательные
 http://45.159.74.14:80/InvestigationDiscovery/tracks-v1a2/mono.m3u8
