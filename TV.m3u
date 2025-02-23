@@ -849,10 +849,10 @@ https://ucdn.beetv.kz/bpk-tv/000000008/tve/index.m3u8
 http://93.189.224.24/365dney/index.m3u8
 #EXTINF:-1 tvg-id="avto24" tvg-name="Авто 24" tvg-logo="http://epg.one/img/2008.png" group-title="Познавательные", Авто 24
 #EXTGRP:Познавательные
-http://178.57.121.38:8080/avto24/index.m3u8?token=test
+https://ucdn.beetv.kz/bpk-tv/000000815/tve/index.m3u8
 #EXTINF:-1 tvg-id="avto-plus" tvg-name="Авто Плюс" tvg-logo="http://epg.one/img/153.png" group-title="Познавательные", Авто Плюс
 #EXTGRP:Познавательные
-http://31.148.48.15/Avto_Plus/index.m3u8
+http://185.50.148.2:7711/AutoPlus/index.m3u8
 #EXTINF:-1 tvg-id="anekdottv" tvg-name="Анекдот тв" tvg-logo="http://epg.one/img/2760.png" group-title="Познавательные", Анекдот тв
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000001921/tve/index.m3u8
@@ -915,7 +915,7 @@ http://178.57.121.38:8080/doctor/index.m3u8?token=test
 http://130.193.73.10:8937/play/a02d
 #EXTINF:-1 tvg-id="drive" tvg-name="Драйв" tvg-logo="http://epg.one/img/2443.png" group-title="Познавательные", Драйв
 #EXTGRP:Познавательные
-http://185.23.80.28:8080/Draiv/index.m3u8?token=test
+http://185.23.80.29:8080/Draiv/index.m3u8?token=test
 #EXTINF:-1 tvg-id="dumatv" tvg-name="Дума ТВ" tvg-logo="https://iptvx.one/picons/dumatv.png" group-title="Познавательные", Дума ТВ
 #EXTGRP:Познавательные
 https://dumatv.iptv2022.com/tracks-v1a1/mono.m3u8
