@@ -1900,7 +1900,7 @@ rtmp://212.0.213.132//Fenix_Kino
 http://185.23.80.29:8080/Xit/index.m3u8?token=test
 #EXTINF:-1 tvg-id="shokiruyushchee-hd" tvg-name="Шокирующее HD" tvg-logo="http://epg.one/img/2309.png" group-title="Кино", Шокирующее HD
 #EXTGRP:Кино
-http://141.95.55.143/CH229/index.m3u8
+
 #EXTINF:-1 tvg-id="sony-turbo" tvg-name=".black" tvg-logo="http://epg.one/img/935.png" group-title="Кино", .black
 #EXTGRP:Кино
 http://109.200.130.123:7537/play/a02s
