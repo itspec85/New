@@ -5000,7 +5000,7 @@ https://tv100.blutv.com/blutv_tv100_live/live.m3u8
 
 #EXTINF:-1 tvg-name="Aqlvoy TV UZ" tvg-logo="http://epg.one/img/7912.png" group-title="Узбекистан", Aqlvoy TV UZ
 #EXTGRP:Узбекистан
-https://flussonic.salomtv.uz/Aqilvoy/video.m3u8
+
 #EXTINF:-1 tvg-name="Biz Cinema UZ" tvg-logo="http://epg.one/img/7913.png" group-title="Узбекистан", Biz Cinema UZ
 #EXTGRP:Узбекистан
 https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/index.m3u8
@@ -5012,82 +5012,82 @@ https://fl.biztv.media/music_720_QAKpGmVUjaPApCNjpsgBxrdqNihAkl/index.m3u8
 https://fl.biztv.media/biz_tv_720_uni8jhub4h8fub4idejswh8dh3j94finbu4nidj39inwsj92in3d/index.m3u8
 #EXTINF:-1 tvg-name="Bolajon" tvg-logo="http://epg.one/img/2650.png" group-title="Узбекистан", Bolajon
 #EXTGRP:Узбекистан
-https://flussonic.salomtv.uz/Bolajon/video.m3u8
+
 #EXTINF:-1 tvg-name="Dasturxon TV UZ" tvg-logo="http://epg.one/img/7917.png" group-title="Узбекистан", Dasturxon TV UZ
 #EXTGRP:Узбекистан
-https://flussonic.salomtv.uz/DasturxonTV/video.m3u8
+
 #EXTINF:-1 tvg-name="Dunyo" tvg-logo="http://epg.one/img/2649.png" group-title="Узбекистан", Dunyo
 #EXTGRP:Узбекистан
-https://flussonic.salomtv.uz/Dunyoboylab_HD/video.m3u8
+
 #EXTINF:-1 tvg-name="FTV UZ" tvg-logo="https://avatars.mds.yandex.net/i?id=9d431caa09e4a083453203404558093876aebdac-10268314-images-thumbs&n=13" group-title="Узбекистан", FTV UZ
 #EXTGRP:Узбекистан
-https://flussonic.salomtv.uz/FTVHD/video.m3u8
+
 #EXTINF:-1 tvg-name="iTV Cinema UZ" tvg-logo="http://epg.one/img/7920.png" group-title="Узбекистан", iTV Cinema UZ
 #EXTGRP:Узбекистан
 https://s07.watcher.uz/171/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
 #EXTINF:-1 tvg-name="Kinoteatr" tvg-logo="http://epg.one/img/2652.png" group-title="Узбекистан", Kinoteatr
 #EXTGRP:Узбекистан
-https://flussonic.salomtv.uz/Kinoteatr_HD/video.m3u8
+
 #EXTINF:-1 tvg-name="LUX.TV" tvg-logo="https://avatars.mds.yandex.net/get-socsnippets/5326024/2a0000018ead2a94a2d7de5c96b46c350471/square_216" group-title="Узбекистан", LUX.TV
 #EXTGRP:Узбекистан
-https://flussonic.salomtv.uz/LuxTV/video.m3u8
+
 #EXTINF:-1 tvg-name="Madaniyat va Ma’rifat UZ" tvg-logo="http://epg.one/img/2648.png" group-title="Узбекистан", Madaniyat va Ma’rifat UZ
 #EXTGRP:Узбекистан
-https://flussonic.salomtv.uz/Madaniyat_va_Marifat/video.m3u8
+
 #EXTINF:-1 tvg-name="Mahalla UZ" tvg-logo="http://epg.one/img/7924.png" group-title="Узбекистан", Mahalla UZ
 #EXTGRP:Узбекистан
-https://flussonic.salomtv.uz/Mahalla/video.m3u8
+
 #EXTINF:-1 tvg-name="Milliy TV UZ" tvg-logo="http://epg.one/img/7926.png" group-title="Узбекистан", Milliy TV UZ
 #EXTGRP:Узбекистан
-https://flussonic.salomtv.uz/Milly_TVHD/video.m3u8
+
 #EXTINF:-1 tvg-name="Muz O’zbekiston" tvg-logo="https://avatars.mds.yandex.net/get-socsnippets/13014337/2a0000018e9974cd2fd0e4b000875151853d/square_216" group-title="Узбекистан", Muz O’zbekiston
 #EXTGRP:Узбекистан
-https://flussonic.salomtv.uz/Muz_TV/video.m3u8
+
 #EXTINF:-1 tvg-name="My5 UZ" tvg-logo="http://epg.one/img/7928.png" group-title="Узбекистан", My5 UZ
 #EXTGRP:Узбекистан
-https://flussonic.salomtv.uz/Mening_YurtimHD/video.m3u8
+
 #EXTINF:-1 tvg-name="MYDAYTV" tvg-logo="https://avatars.mds.yandex.net/get-socsnippets/5282703/2a00000188b380462e3b57d7505946f9d7a7/square_216" group-title="Узбекистан", MYDAYTV
 #EXTGRP:Узбекистан
-https://flussonic.salomtv.uz/Myday/video.m3u8
+
 #EXTINF:-1 tvg-name="Navo" tvg-logo="http://epg.one/img/2651.png" group-title="Узбекистан", Navo
 #EXTGRP:Узбекистан
-https://flussonic.salomtv.uz/Navo/video.m3u8
+
 #EXTINF:-1 tvg-name="Ozbekiston" tvg-logo="http://epg.one/img/2644.png" group-title="Узбекистан", Ozbekiston
 #EXTGRP:Узбекистан
-https://flussonic.salomtv.uz/Uzbekiston/video.m3u8
+
 #EXTINF:-1 tvg-name="Ozbekiston 24 HD UZ" tvg-logo="http://epg.one/img/7931.png" group-title="Узбекистан", Ozbekiston 24 HD UZ
 #EXTGRP:Узбекистан
-https://flussonic.salomtv.uz/Uzb24/video.m3u8
+https://st1.uzdigital.tv/Uzb24/tracks-v2a1a2/mono.m3u8
 #EXTINF:-1 tvg-name="Ozbekiston Tarixi HD UZ" tvg-logo="http://epg.one/img/7932.png" group-title="Узбекистан", Ozbekiston Tarixi HD UZ
 #EXTGRP:Узбекистан
-https://flussonic.salomtv.uz/Uzbekiston-TarixiHD/video.m3u8
+
 #EXTINF:-1 tvg-name="Renessans TV UZ" tvg-logo="http://epg.one/img/7933.png" group-title="Узбекистан", Renessans TV UZ
 #EXTGRP:Узбекистан
-https://flussonic.salomtv.uz/Renessans_TV/video.m3u8
+
 #EXTINF:-1 tvg-name="Ruxsor TV UZ" tvg-logo="http://epg.one/img/7934.png" group-title="Узбекистан", Ruxsor TV UZ
 #EXTGRP:Узбекистан
 https://s07.watcher.uz/176/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
 #EXTINF:-1 tvg-name="Sevimli" tvg-logo="https://avatars.mds.yandex.net/i?id=a79fc9cf5ba6529b07a2a2d7668397cfe0b3d1b3-12805492-images-thumbs&n=13" group-title="Узбекистан", Sevimli
 #EXTGRP:Узбекистан
-https://flussonic.salomtv.uz/SevimliTVHD/video.m3u8
+
 #EXTINF:-1 tvg-name="Shifo TV" tvg-logo="https://avatars.mds.yandex.net/i?id=4e620f55f4833e21f250ad7bf4271233d76065f9-13218119-images-thumbs&n=13" group-title="Узбекистан", Shifo TV
 #EXTGRP:Узбекистан
 https://st1.uzdigital.tv/shifo_tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Toshkent UZ" tvg-logo="http://epg.one/img/7938.png" group-title="Узбекистан", Toshkent UZ
 #EXTGRP:Узбекистан
-https://flussonic.salomtv.uz/Toshkent/video.m3u8
+
 #EXTINF:-1 tvg-name="TTV Musiqa" tvg-logo="https://cdn.uzd.udevs.io/uzdigital/images/a6bd8e61-84e3-440e-b2d1-d34b3c7a90ab.jpg" group-title="Узбекистан", TTV Musiqa
 #EXTGRP:Узбекистан
 https://st1.uzdigital.tv/TTV_Musiqa/video.m3u8
 #EXTINF:-1 tvg-name="Uzreport TV" tvg-logo="https://avatars.mds.yandex.net/i?id=55fe5b26f209047e57fc0294a1fb19eacd5bc966-10122687-images-thumbs&n=13" group-title="Узбекистан", Uzreport TV
 #EXTGRP:Узбекистан
-https://flussonic.salomtv.uz/UzreportTV-HD/video.m3u8
+
 #EXTINF:-1 tvg-name="Yoshlar" tvg-logo="http://epg.one/img/2645.png" group-title="Узбекистан", Yoshlar
 #EXTGRP:Узбекистан
-https://flussonic.salomtv.uz/YoshlarHD/video.m3u8
+
 #EXTINF:-1 tvg-name="Zo’r TV HD UZ" tvg-logo="http://epg.one/img/7937.png" group-title="Узбекистан", Zo’r TV HD UZ
 #EXTGRP:Узбекистан
-https://flussonic.salomtv.uz/Zor_TVHD/video.m3u8
+
 #EXTINF:-1 tvg-name="Солнечный ТВ" tvg-logo="https://avatars.mds.yandex.net/i?id=cb29a4527c511d0092117554b283ead458fc218a-13200326-images-thumbs&n=13" group-title="Узбекистан", Солнечный ТВ
 #EXTGRP:Узбекистан
 https://fl.biztv.media/stv_720_bizstvvietfujeyrah/tracks-v1a1/mono.m3u8
