@@ -3211,16 +3211,16 @@ http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-name="Чебур ТВ - Ретро 1980" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JM0_53Fn4D02y1Z--LGV4zrRPh16C0AdxfPWSCns-l2nkk1Gy8Q1ZgrwNHosONNpYQ.png" group-title="Музыка", Чебур ТВ - Ретро 1980
 #EXTGRP:Музыка
-http://chiburator.monster:8000/play/0muHRsMHJqIaLasyNjMO1fII6MiRLM2UfNwysTtUTGM/ts
+
 #EXTINF:-1 tvg-name="Чебур ТВ - Ретро 1990" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JAFvGpNbL52NGRrNO08uVdbRDL_ggBChRMJWBqzyEkH1.png" group-title="Музыка", Чебур ТВ - Ретро 1990
 #EXTGRP:Музыка
-http://chiburator.monster:8000/play/0muHRsMHJqIaLasyNjMO1f0mHye4M2SSDJShxAlBxKc/ts
+
 #EXTINF:-1 tvg-name="Чебур ТВ - Top Hit Indie" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JFD__m7g1Xe6qeEmVTqtriQjKIco-SalTaFLILeQ9wtP.png" group-title="Музыка", Чебур ТВ - Top Hit Indie
 #EXTGRP:Музыка
-http://chiburator.monster:8000/play/0muHRsMHJqIaLasyNjMO1Zofj7JZlXb1-yayXotRoBk/ts
+
 #EXTINF:-1 tvg-name="Чебур ТВ - Top Hit Rock" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JN3CoagGNckWyar0Ew01dxrJyDbthNke3DZSr09TlCDu.png" group-title="Музыка", Чебур ТВ - Top Hit Rock
 #EXTGRP:Музыка
-http://chiburator.monster:8000/play/0muHRsMHJqIaLasyNjMO1Qx3DXy5Dvn_GmTGDcdrRV4/ts
+
 #EXTINF:-1 tvg-id="shanson-tv" tvg-name="Шансон TB" tvg-logo="http://epg.one/img/2278.png" group-title="Музыка", Шансон TB
 #EXTGRP:Музыка
 http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
