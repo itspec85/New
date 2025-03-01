@@ -2867,19 +2867,19 @@ https://fs2.persik.by/Horror_Movies_2/index.m3u8
 
 #EXTINF:-1 tvg-id="belarus5" tvg-name="Беларусь 5 HD" tvg-logo="http://epg.one/img/2541.png" group-title="Спорт", Беларусь 5 HD
 #EXTGRP:Спорт
-http://dmi3y-tv.ru/hls/blrus/CH_BELARUS5HD.m3u8
+http://93.189.224.246:52900/play/a005/index.m3u8
 #EXTINF:-1 tvg-id="box-tv" tvg-name="Бокс ТВ" tvg-logo="http://epg.one/img/2285.png" group-title="Спорт", Бокс ТВ
 #EXTGRP:Спорт
 http://stream01.vnet.am/BoksTv/mono.m3u8
 #EXTINF:-1 tvg-id="konny-mir" tvg-name="Конный Мир" tvg-logo="http://epg.one/img/1679.png" group-title="Спорт", Конный Мир
 #EXTGRP:Спорт
-http://185.23.80.28:8080/Konniy_Mir/index.m3u8?token=test
+http://185.23.80.29:8080/Konniy_Mir/index.m3u8?token=test
 #EXTINF:-1 tvg-id="match-tv" tvg-name="Матч ТВ" tvg-logo="http://epg.one/img/2051.png" group-title="Спорт", Матч ТВ
 #EXTGRP:Спорт
 http://185.46.48.18:80/match/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="match-tv" tvg-name="Матч ТВ HD" tvg-logo="http://epg.one/img/2051.png" group-title="Спорт", Матч ТВ HD
 #EXTGRP:Спорт
-http://185.23.80.29:8080/MATCH!_HD/index.m3u8?token=test
+http://flu.ttk.mx:90/Match_HD/mono.m3u8?token=hs06e
 #EXTINF:-1 tvg-id="match-arena" tvg-name="Матч! Арена" tvg-logo="http://epg.one/img/2003.png" group-title="Спорт", Матч! Арена
 #EXTGRP:Спорт
 http://194.143.148.28:8080/MatchArena/mpegts
@@ -2888,22 +2888,22 @@ http://194.143.148.28:8080/MatchArena/mpegts
 http://flu.ttk.mx:90/Boets/mono.m3u8?token=hs06e
 #EXTINF:-1 tvg-id="match-boets" tvg-name="Матч! Боец HD" tvg-logo="http://epg.one/img/2054.png" group-title="Спорт", Матч! Боец HD
 #EXTGRP:Спорт
-http://87.120.142.11:18000/Match
+http://tv.ttk.mx:9107
 #EXTINF:-1 tvg-id="match-igra" tvg-name="Матч! Игра" tvg-logo="http://epg.one/img/2050.png" group-title="Спорт", Матч! Игра
 #EXTGRP:Спорт
 http://31.148.48.15/Match_Igra/index.m3u8
 #EXTINF:-1 tvg-id="match-igra" tvg-name="Матч! Игра HD" tvg-logo="http://epg.one/img/2050.png" group-title="Спорт", Матч! Игра HD
 #EXTGRP:Спорт
-http://213.226.137.140:81/tl/l304/mpegts
+
 #EXTINF:-1 tvg-id="match-planeta" tvg-name="Матч! Планета" tvg-logo="http://epg.one/img/2043.png" group-title="Спорт", Матч! Планета
 #EXTGRP:Спорт
 https://ucdn.beetv.kz/bpk-tv/000001695/tve/index.m3u8
 #EXTINF:-1 tvg-id="match-premier" tvg-name="Матч! Премьер" tvg-logo="http://epg.one/img/2250.png" group-title="Спорт", Матч! Премьер
 #EXTGRP:Спорт
-http://185.37.150.46:8092/Nash_futbol_HD/tracks-v1a1/index.m3u8
+
 #EXTINF:-1 tvg-id="match-premier" tvg-name="Матч! Премьер HD" tvg-logo="http://epg.one/img/2250.png" group-title="Спорт", Матч! Премьер HD
 #EXTGRP:Спорт
-
+https://mhd128.iptv2022.com/p/0qdhJAU46TlVmoinl8Q95Q,1740859212/streaming/match_premyerhd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="match-nash-sport" tvg-name="Матч! Страна" tvg-logo="http://epg.one/img/2042.png" group-title="Спорт", Матч! Страна
 #EXTGRP:Спорт
 http://flu.ttk.mx:90/Strana/mono.m3u8?token=hs06e
@@ -2930,16 +2930,16 @@ http://185.57.68.33/110/mpegts
 http://flu.ttk.mx:90/Football_3HD/mono.m3u8?token=hs06e
 #EXTINF:-1 tvg-id="mir-basketbola" tvg-name="Мир Баскетбола" tvg-logo="https://app.playlistbox.com/icon/Wjm281v9VYqwzx9za6MREnk3GBgNLKQX.png" group-title="Спорт", Мир Баскетбола
 #EXTGRP:Спорт
-http://213.226.137.140:81/tl/l423/mpegts
+http://65.21.85.175:8000/play/a00c/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="start" tvg-name="Старт HD" tvg-logo="http://epg.one/img/2530.png" group-title="Спорт", Старт HD
 #EXTGRP:Спорт
-http://185.23.80.28:8080/START/index.m3u8?token=test
+http://185.23.80.29:8080/START/index.m3u8?token=test
 #EXTINF:-1 tvg-id="ufc" tvg-name="Удар HD" tvg-logo="http://epg.one/img/2480.png" group-title="Спорт", Удар HD
 #EXTGRP:Спорт
 https://ucdn.beetv.kz/bpk-tv/000007802/tve/index.m3u8
 #EXTINF:-1 tvg-id="football-ru" tvg-name="Футбол" tvg-logo="http://epg.one/img/2782.png" group-title="Спорт", Футбол
 #EXTGRP:Спорт
-http://185.23.80.28:8080/Football/index.m3u8?token=test
+http://flu.ttk.mx:90/Futbol/mono.m3u8?token=hs06e
 #EXTINF:-1 tvg-name="beIN Sports 1 HD TR" tvg-logo="http://epg.one/img/5092.png" group-title="Спорт", beIN Sports 1 HD TR
 #EXTGRP:Спорт
 http://65.21.85.175:8000/play/a034/index.m3u8?token=livetv
