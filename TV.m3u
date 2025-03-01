@@ -1101,7 +1101,7 @@ http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
 https://n1.slavmir.tv/live/slavmir/chunklist.m3u8
 #EXTINF:-1 tvg-name="Роскосмос" tvg-logo="https://avatars.mds.yandex.net/i?id=9be310c72de613af5fae4c6ce90ad84e190e0e7e-12606451-images-thumbs&n=13" group-title="Познавательные", Роскосмос
 #EXTGRP:Познавательные
-https://fs2.persik.by/Roskosmos/index.m3u8
+
 #EXTINF:-1 tvg-id="rybalka-i-oxota" tvg-name="Рыбалка и охота" tvg-logo="https://iptvx.one/picons/rybalka-i-oxota.png" group-title="Познавательные", Рыбалка и охота
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000002510/tve/index.m3u8
@@ -1309,7 +1309,7 @@ http://45.159.74.14:80/InvestigationDiscovery/tracks-v1a2/mono.m3u8
 https://api.alpaca.t62a.com/hls/9104/stream0.m3u8
 #EXTINF:-1 tvg-id="kosmohd" tvg-name="Kosmo" tvg-logo="https://avatars.mds.yandex.net/i?id=4a3b038e961d47a56150e11962ccdc07291eaf2a-12146588-images-thumbs&n=13" group-title="Познавательные", Kosmo
 #EXTGRP:Познавательные
-https://fs2.persik.by/Kosmo7/index.m3u8
+
 #EXTINF:-1 tvg-name="Kulinar TV" tvg-logo="https://bem-media.de/wp-content/uploads/Kulinar.png" group-title="Познавательные", Kulinar TV
 #EXTGRP:Познавательные
 http://api.alpaca.t62a.com/hls/9110/stream0.m3u8
@@ -1655,31 +1655,31 @@ http://stream01.vnet.am/Channel_114/mono.m3u8
 http://stream01.vnet.am/Boomerang/mono.m3u8
 #EXTINF:-1 tvg-name="Persik TV Аниме" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Детские", Persik TV Аниме
 #EXTGRP:Детские
-https://fs2.persik.by/Anime6/index.m3u8
+
 #EXTINF:-1 tvg-name="Persik TV Детские мультики" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Детские", Persik TV Детские мультики
 #EXTGRP:Детские
-https://fs2.persik.by/DetskieMultiki5/index.m3u8
+
 #EXTINF:-1 tvg-name="Persik TV Детские мультфильмы" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Детские", Persik TV Детские мультфильмы
 #EXTGRP:Детские
 https://fs2.persik.by/DetskieMultfilmy4/index.m3u8
 #EXTINF:-1 tvg-name="Persik TV Детские песни" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Детские", Persik TV Детские песни
 #EXTGRP:Детские
-https://fs2.persik.by/DetskiePesni5/index.m3u8
+
 #EXTINF:-1 tvg-name="Persik TV Детские фильмы" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Детские", Persik TV Детские фильмы
 #EXTGRP:Детские
-https://fs2.persik.by/DetskieFilmy5/index.m3u8
+
 #EXTINF:-1 tvg-name="Persik TV Мультики" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Детские", Persik TV Мультики
 #EXTGRP:Детские
-https://fs2.persik.by/Multiki5/index.m3u8
+
 #EXTINF:-1 tvg-name="Persik TV Мультсериал" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Детские", Persik TV Мультсериал
 #EXTGRP:Детские
-https://fs2.persik.by/Mult_Serial/index.m3u8
+
 #EXTINF:-1 tvg-name="Persik TV Мультсериалы" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Детские", Persik TV Мультсериалы
 #EXTGRP:Детские
 https://fs2.persik.by/Multserialy2/index.m3u8
 #EXTINF:-1 tvg-name="Persik TV Сказки" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Детские", Persik TV Сказки
 #EXTGRP:Детские
-https://fs2.persik.by/Skazki7/index.m3u8
+
 #EXTINF:-1 tvg-name="Persik TV Сундучок историй" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Детские", Persik TV Сундучок историй
 #EXTGRP:Детские
 https://fs2.persik.by/Sunduchok4/index.m3u8
@@ -2616,73 +2616,73 @@ http://92.53.64.197:5050/IPTVPLAYPROMO.tv/video.m3u8?token=m3VIth-Rou_bM1
 
 #EXTINF:-1 tvg-name="Persik TV Александра Бортич" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Александра Бортич
 #EXTGRP:Кинозал ТЕСТ
-https://fs2.persik.by/Bortich3/index.m3u8
+
 #EXTINF:-1 tvg-name="Persik TV Алексей Панин" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Алексей Панин
 #EXTGRP:Кинозал ТЕСТ
-https://fs2.persik.by/Panin3/index.m3u8
+
 #EXTINF:-1 tvg-name="Persik TV Американские комедии" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Американские комедии
 #EXTGRP:Кинозал ТЕСТ
-https://fs2.persik.by/Amerikanskie_Komedii_13/index.m3u8
+
 #EXTINF:-1 tvg-name="Persik TV Английские субтитры" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Английские субтитры
 #EXTGRP:Кинозал ТЕСТ
-http://fs2.persik.by/Angliyskie_subtitry6/index.m3u8
+
 #EXTINF:-1 tvg-name="Persik TV Андрей Мерзликин" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Андрей Мерзликин
 #EXTGRP:Кинозал ТЕСТ
-https://fs2.persik.by/Merzlikin4/index.m3u8
+
 #EXTINF:-1 tvg-name="Persik TV Андрей Миронов" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Андрей Миронов
 #EXTGRP:Кинозал ТЕСТ
-https://fs2.persik.by/Mironov8/index.m3u8
+
 #EXTINF:-1 tvg-name="Persik TV Анна Чиповская" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Анна Чиповская
 #EXTGRP:Кинозал ТЕСТ
-https://fs2.persik.by/Chipovskaja2/index.m3u8
+
 #EXTINF:-1 tvg-name="Persik TV Боевики" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Боевики
 #EXTGRP:Кинозал ТЕСТ
-https://fs2.persik.by/Boeviki_16/index.m3u8
+
 #EXTINF:-1 tvg-name="Persik TV В кругу семьи" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV В кругу семьи
 #EXTGRP:Кинозал ТЕСТ
-http://fs2.persik.by/V_krugu_semii4/index.m3u8
+
 #EXTINF:-1 tvg-name="Persik TV Вдохновение" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Вдохновение
 #EXTGRP:Кинозал ТЕСТ
-https://fs2.persik.by/Vdohnovenie/index.m3u8
+
 #EXTINF:-1 tvg-name="Persik TV Владимир Вдовиченков" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Владимир Вдовиченков
 #EXTGRP:Кинозал ТЕСТ
-https://fs2.persik.by/Vdovichenkov3/index.m3u8
+
 #EXTINF:-1 tvg-name="Persik TV Владимир Машков" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Владимир Машков
 #EXTGRP:Кинозал ТЕСТ
-https://fs2.persik.by/Mashkov5/index.m3u8
+
 #EXTINF:-1 tvg-name="Persik TV Владимир Яглыч" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Владимир Яглыч
 #EXTGRP:Кинозал ТЕСТ
-https://fs2.persik.by/Yaglich/index.m3u8
+
 #EXTINF:-1 tvg-name="Persik TV Вторая мировая" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Вторая мировая
 #EXTGRP:Кинозал ТЕСТ
-http://fs2.persik.by/Vtoraja_Mirovaja_8/index.m3u8
+
 #EXTINF:-1 tvg-name="Persik TV Георгий Вицин" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Георгий Вицин
 #EXTGRP:Кинозал ТЕСТ
-https://fs2.persik.by/Vicin_10/index.m3u8
+
 #EXTINF:-1 tvg-name="Persik TV Гоша Куценко" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Гоша Куценко
 #EXTGRP:Кинозал ТЕСТ
-https://fs2.persik.by/Kucenko_3/index.m3u8
+
 #EXTINF:-1 tvg-name="Persik TV Давай поженимся" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Давай поженимся
 #EXTGRP:Кинозал ТЕСТ
-https://fs2.persik.by/Davaj_Pozhenimsya7/index.m3u8
+
 #EXTINF:-1 tvg-name="Persik TV Данила Козловский" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Данила Козловский
 #EXTGRP:Кинозал ТЕСТ
-https://fs2.persik.by/Kozlovskij_4/index.m3u8
+
 #EXTINF:-1 tvg-name="Persik TV Детектив" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Детектив
 #EXTGRP:Кинозал ТЕСТ
-https://fs2.persik.by/Detektiv_2/index.m3u8
+
 #EXTINF:-1 tvg-name="Persik TV Детективное кино" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Детективное кино
 #EXTGRP:Кинозал ТЕСТ
 https://fs2.persik.by/Detektivnoe_Kino_8/index.m3u8
 #EXTINF:-1 tvg-name="Persik TV Детективные сериалы" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Детективные сериалы
 #EXTGRP:Кинозал ТЕСТ
-https://fs2.persik.by/Detektivnie_Serialy/index.m3u8
+
 #EXTINF:-1 tvg-name="Persik TV Дружба" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Дружба
 #EXTGRP:Кинозал ТЕСТ
-https://fs2.persik.by/Druzhba8/index.m3u8
+
 #EXTINF:-1 tvg-name="Persik TV Евгений Леонов" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Евгений Леонов
 #EXTGRP:Кинозал ТЕСТ
-https://fs2.persik.by/Leonov_7/index.m3u8
+
 #EXTINF:-1 tvg-name="Persik TV Европейское кино" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Европейское кино
 #EXTGRP:Кинозал ТЕСТ
 https://fs2.persik.by/EvropejskoeKino15/index.m3u8
@@ -2691,178 +2691,178 @@ https://fs2.persik.by/EvropejskoeKino15/index.m3u8
 https://fs2.persik.by/VanDam/index.m3u8
 #EXTINF:-1 tvg-name="Persik TV Зарубежное кино" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Зарубежное кино
 #EXTGRP:Кинозал ТЕСТ
-http://fs2.persik.by/Zarubezhnoe_kino_10/index.m3u8
+
 #EXTINF:-1 tvg-name="Persik TV Зомби-апокалипсис" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Зомби-апокалипсис
 #EXTGRP:Кинозал ТЕСТ
-https://fs2.persik.by/Zombi_apokalipsis8/index.m3u8
+
 #EXTINF:-1 tvg-name="Persik TV Игорь Петренко" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Игорь Петренко
 #EXTGRP:Кинозал ТЕСТ
-https://fs2.persik.by/Petrenko_3/index.m3u8
+
 #EXTINF:-1 tvg-name="Persik TV Известные актёры" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Известные актёры
 #EXTGRP:Кинозал ТЕСТ
-http://fs2.persik.by/Izvestnie_akteri6/index.m3u8
+
 #EXTINF:-1 tvg-name="Persik TV Кино-антистресс" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Кино-антистресс
 #EXTGRP:Кинозал ТЕСТ
-https://fs2.persik.by/Kino_Antistress9/index.m3u8
+
 #EXTINF:-1 tvg-name="Persik TV Кино выходного дня" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Кино выходного дня
 #EXTGRP:Кинозал ТЕСТ
-http://fs2.persik.by/Kino_vihodnogo_dnia8/index.m3u8
+
 #EXTINF:-1 tvg-name="Persik TV Кино по книгам" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Кино по книгам
 #EXTGRP:Кинозал ТЕСТ
-https://fs2.persik.by/Kino_po_knigam10/index.m3u8
+
 #EXTINF:-1 tvg-name="Persik TV Кино про дружбу" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Кино про дружбу
 #EXTGRP:Кинозал ТЕСТ
-https://fs2.persik.by/Pro_druzhbu7/index.m3u8
+
 #EXTINF:-1 tvg-name="Persik TV Киномикс" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Киномикс
 #EXTGRP:Кинозал ТЕСТ
-https://fs2.persik.by/Kino_Miks13/index.m3u8
+
 #EXTINF:-1 tvg-name="Persik TV Комедии" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Комедии
 #EXTGRP:Кинозал ТЕСТ
-https://fs2.persik.by/Komedii3/index.m3u8
+
 #EXTINF:-1 tvg-name="Persik TV Комедийные боевики" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Комедийные боевики
 #EXTGRP:Кинозал ТЕСТ
-https://fs2.persik.by/Komedijnie_Boeviki/index.m3u8
+
 #EXTINF:-1 tvg-name="Persik TV Комедийные сериалы" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Комедийные сериалы
 #EXTGRP:Кинозал ТЕСТ
-http://fs2.persik.by/Komedijnie_seriali6/index.m3u8
+
 #EXTINF:-1 tvg-name="Persik TV Комедия" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Комедия
 #EXTGRP:Кинозал ТЕСТ
-https://fs2.persik.by/Komediya_2/index.m3u8
+
 #EXTINF:-1 tvg-name="Persik TV Константин Хабенский" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Константин Хабенский
 #EXTGRP:Кинозал ТЕСТ
-https://fs2.persik.by/Habenskij3/index.m3u8
+
 #EXTINF:-1 tvg-name="Persik TV Криминальные драмы" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Криминальные драмы
 #EXTGRP:Кинозал ТЕСТ
-https://fs2.persik.by/Kriminalnie_Drami/index.m3u8
+
 #EXTINF:-1 tvg-name="Persik TV Лёгкое кино" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Лёгкое кино
 #EXTGRP:Кинозал ТЕСТ
-https://fs2.persik.by/Legkoe_Kino11/index.m3u8
+
 #EXTINF:-1 tvg-name="Persik TV Лучшие драмы" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Лучшие драмы
 #EXTGRP:Кинозал ТЕСТ
-https://fs2.persik.by/Luchshie_Drami/index.m3u8
+
 #EXTINF:-1 tvg-name="Persik TV Лучшие сериалы" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Лучшие сериалы
 #EXTGRP:Кинозал ТЕСТ
-https://fs2.persik.by/Luchshie_Seriali4/index.m3u8
+
 #EXTINF:-1 tvg-name="Persik TV Любовь" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Любовь
 #EXTGRP:Кинозал ТЕСТ
-https://fs2.persik.by/Lubov/index.m3u8
+
 #EXTINF:-1 tvg-name="Persik TV Любовь и детективы" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Любовь и детективы
 #EXTGRP:Кинозал ТЕСТ
-http://fs2.persik.by/Lubov_Detektivi8/index.m3u8
+
 #EXTINF:-1 tvg-name="Persik TV Максим Матвеев" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Максим Матвеев
 #EXTGRP:Кинозал ТЕСТ
-https://fs2.persik.by/Matveev3/index.m3u8
+
 #EXTINF:-1 tvg-name="Persik TV Маньяки" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Маньяки
 #EXTGRP:Кинозал ТЕСТ
-http://fs2.persik.by/Manjaki6/index.m3u8
+
 #EXTINF:-1 tvg-name="Persik TV Мини-сериалы" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Мини-сериалы
 #EXTGRP:Кинозал ТЕСТ
-https://fs2.persik.by/Mini_serialy/index.m3u8
+
 #EXTINF:-1 tvg-name="Persik TV Мировое кино" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Мировое кино
 #EXTGRP:Кинозал ТЕСТ
-https://fs2.persik.by/Mirovoe_Kino/index.m3u8
+
 #EXTINF:-1 tvg-name="Persik TV Михаил Пореченков" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Михаил Пореченков
 #EXTGRP:Кинозал ТЕСТ
-https://fs2.persik.by/Porechenkov3/index.m3u8
+
 #EXTINF:-1 tvg-name="Persik TV Молодость" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Молодость
 #EXTGRP:Кинозал ТЕСТ
-https://fs2.persik.by/Molodost9/index.m3u8
+
 #EXTINF:-1 tvg-name="Persik TV Музыкальные фильмы" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Музыкальные фильмы
 #EXTGRP:Кинозал ТЕСТ
-https://fs2.persik.by/Muzikalnie_Filmy2/index.m3u8
+
 #EXTINF:-1 tvg-name="Persik TV Новинки" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Новинки
 #EXTGRP:Кинозал ТЕСТ
-https://fs2.persik.by/Novinki9/index.m3u8
+
 #EXTINF:-1 tvg-name="Persik TV Новинки кино" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Новинки кино
 #EXTGRP:Кинозал ТЕСТ
-https://fs2.persik.by/Novinki_Kino2/index.m3u8
+
 #EXTINF:-1 tvg-name="Persik TV Новогодние фильмы" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Новогодние фильмы
 #EXTGRP:Кинозал ТЕСТ
 https://fs2.persik.by/Novogodnie_Filmy_9/index.m3u8
 #EXTINF:-1 tvg-name="Persik TV Новое кино" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Новое кино
 #EXTGRP:Кинозал ТЕСТ
-https://fs2.persik.by/NovoeKino10/index.m3u8
+
 #EXTINF:-1 tvg-name="Persik TV Остросюжетные сериалы" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Остросюжетные сериалы
 #EXTGRP:Кинозал ТЕСТ
-http://fs2.persik.by/OstrosuzhetnieSerialy8/index.m3u8
+
 #EXTINF:-1 tvg-name="Persik TV Отечественное кино" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Отечественное кино
 #EXTGRP:Кинозал ТЕСТ
-https://fs2.persik.by/Otechestvennoe4/index.m3u8
+
 #EXTINF:-1 tvg-name="Persik TV Павел Деревянко" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Павел Деревянко
 #EXTGRP:Кинозал ТЕСТ
-https://fs2.persik.by/Derevyanko5/index.m3u8
+
 #EXTINF:-1 tvg-name="Persik TV Популярное кино" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Популярное кино
 #EXTGRP:Кинозал ТЕСТ
-https://fs2.persik.by/Populyarnoe_Kino_11/index.m3u8
+
 #EXTINF:-1 tvg-name="Persik TV Про родителей" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Про родителей
 #EXTGRP:Кинозал ТЕСТ
-https://fs2.persik.by/Pro_roditeley9/index.m3u8
+
 #EXTINF:-1 tvg-name="Persik TV Путешествие во времени" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Путешествие во времени
 #EXTGRP:Кинозал ТЕСТ
-http://fs2.persik.by/Puteshestvie_vo_vremeni11/index.m3u8
+
 #EXTINF:-1 tvg-name="Persik TV Рекомендуем" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Рекомендуем
 #EXTGRP:Кинозал ТЕСТ
-https://fs2.persik.by/Rekomenduem7/index.m3u8
+
 #EXTINF:-1 tvg-name="Persik TV Рождественские фильмы" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Рождественские фильмы
 #EXTGRP:Кинозал ТЕСТ
-http://fs2.persik.by/Rozhdestvenskie_filmy5/index.m3u8
+
 #EXTINF:-1 tvg-name="Persik TV Романтические фильмы" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Романтические фильмы
 #EXTGRP:Кинозал ТЕСТ
-https://fs2.persik.by/Romanticheskie9/index.m3u8
+
 #EXTINF:-1 tvg-name="Persik TV Русские комедии" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Русские комедии
 #EXTGRP:Кинозал ТЕСТ
 https://fs2.persik.by/Russkie_Komedii/index.m3u8
 #EXTINF:-1 tvg-name="Persik TV Русское кино" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Русское кино
 #EXTGRP:Кинозал ТЕСТ
-https://fs2.persik.by/RusKino3/index.m3u8
+
 #EXTINF:-1 tvg-name="Persik TV Семейное кино" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Семейное кино
 #EXTGRP:Кинозал ТЕСТ
 https://fs2.persik.by/Semejnoe10/index.m3u8
 #EXTINF:-1 tvg-name="Persik TV Семейные фильмы" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Семейные фильмы
 #EXTGRP:Кинозал ТЕСТ
-https://fs2.persik.by/Semejnie_Filmy6/index.m3u8
+
 #EXTINF:-1 tvg-name="Persik TV Сергей Безруков" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Сергей Безруков
 #EXTGRP:Кинозал ТЕСТ
-https://fs2.persik.by/Bezrukov3/index.m3u8
+
 #EXTINF:-1 tvg-name="Persik TV Сергей Пускепалис" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Сергей Пускепалис
 #EXTGRP:Кинозал ТЕСТ
-https://fs2.persik.by/Puskepalis4/index.m3u8
+
 #EXTINF:-1 tvg-name="Persik TV Сериалы" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Сериалы
 #EXTGRP:Кинозал ТЕСТ
-https://fs2.persik.by/Seriali/index.m3u8
+
 #EXTINF:-1 tvg-name="Persik TV Топ кино" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Топ кино
 #EXTGRP:Кинозал ТЕСТ
-https://fs2.persik.by/TopKino/index.m3u8
+
 #EXTINF:-1 tvg-name="Persik TV Триллер" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Триллер
 #EXTGRP:Кинозал ТЕСТ
-https://fs2.persik.by/Triller1/index.m3u8
+
 #EXTINF:-1 tvg-name="Persik TV Триллеры" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Триллеры
 #EXTGRP:Кинозал ТЕСТ
 https://fs2.persik.by/Trillery_2/index.m3u8
 #EXTINF:-1 tvg-name="Persik TV Триллеры и боевики" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Триллеры и боевики
 #EXTGRP:Кинозал ТЕСТ
-http://fs2.persik.by/Trillery_Boeviki7/index.m3u8
+
 #EXTINF:-1 tvg-name="Persik TV Триллеры и драма" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Триллеры и драма
 #EXTGRP:Кинозал ТЕСТ
-http://fs2.persik.by/Trillery_Drama5/index.m3u8
+
 #EXTINF:-1 tvg-name="Persik TV Триллеры США" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Триллеры США
 #EXTGRP:Кинозал ТЕСТ
-https://fs2.persik.by/Trillery_USA_12/index.m3u8
+
 #EXTINF:-1 tvg-name="Persik TV Фестивальное кино" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Фестивальное кино
 #EXTGRP:Кинозал ТЕСТ
-https://fs2.persik.by/FestivalnoeKino9/index.m3u8
+
 #EXTINF:-1 tvg-name="Persik TV Фильмы ужасов" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Фильмы ужасов
 #EXTGRP:Кинозал ТЕСТ
 https://fs2.persik.by/Filmi_Uzhasov/index.m3u8
 #EXTINF:-1 tvg-name="Persik TV Шпионы и разведчики" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Шпионы и разведчики
 #EXTGRP:Кинозал ТЕСТ
-https://fs2.persik.by/Shpiony_Razvedchiki_2/index.m3u8
+
 #EXTINF:-1 tvg-name="Persik TV Экранизации" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Экранизации
 #EXTGRP:Кинозал ТЕСТ
-https://fs2.persik.by/Ekranizacii13/index.m3u8
+
 #EXTINF:-1 tvg-name="Persik TV Horror Movies" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Horror Movies
 #EXTGRP:Кинозал ТЕСТ
-https://fs2.persik.by/Horror_Movies_2/index.m3u8
+
 
 
 #EXTINF:-1 tvg-id="belarus5" tvg-name="Беларусь 5 HD" tvg-logo="http://epg.one/img/2541.png" group-title="Спорт", Беларусь 5 HD
