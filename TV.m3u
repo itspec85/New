@@ -3236,7 +3236,7 @@ https://ucdn.beetv.kz/bpk-tv/000001020/tve/index.m3u8
 #EXTINF:-1 tvg-name="88 Stereo" tvg-logo="https://i.ibb.co/8BnNdTB/image-24.png" group-title="Музыка", 88 Stereo
 #EXTGRP:Музыка
 http://k3.usastreams.com/CableLatino/88stereo/chunklist_w986835325.m3u8
-#EXTINF:-1 tvg-name="91 Nrg HD" tvg-logo="https://app.playlistbox.com/icon/bPpzO3N2aBrqlovQp0Zy1vm7j4wQWYnR.png" group-title="Музыка", 91 Nrg HD
+#EXTINF:-1 tvg-name="91 Nrg HD" tvg-logo="http://epg.one/img/4650.png" group-title="Музыка", 91 Nrg HD
 #EXTGRP:Музыка
 http://tv.nrg91.gr:1935/onweb/live/master.m3u8
 #EXTINF:-1 tvg-name="AMC AF" tvg-logo="https://play-lh.googleusercontent.com/MYcrmTg-2FfK3mVvNsjttNsXXTLfUG7i3QjMd0fzticooxMwLMK0NQdyQSMnF0iC9lg" group-title="Музыка", AMC AF
