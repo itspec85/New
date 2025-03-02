@@ -1553,7 +1553,7 @@ http://194.26.229.213/souzmultfilm/index.m3u8
 http://130.193.73.10:8937/play/a017
 #EXTINF:-1 tvg-id="malysh" tvg-name="СуперГерои" tvg-logo="http://epg.one/img/2239.png" group-title="Детские", СуперГерои
 #EXTGRP:Детские
-http://178.124.179.122:8088/Malish/index.m3u8
+https://ucdn.beetv.kz/bpk-tv/000002711/tve/index.m3u8
 #EXTINF:-1 tvg-id="detsky" tvg-name="Уникум" tvg-logo="http://epg.one/img/66.png" group-title="Детские", Уникум
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000000048/tve/index.m3u8
@@ -1596,6 +1596,9 @@ https://ucdn.beetv.kz/bpk-tv/000005178/tve/index.m3u8
 #EXTINF:-1 tvg-id="box-anime" tvg-name="BOX Anime HD" tvg-logo="http://epg.one/img/6698.png" group-title="Детские", BOX Anime HD
 #EXTGRP:Детские
 
+#EXTINF:-1 tvg-id="cartoon-classics" tvg-name="Cartoon Classics" tvg-logo="http://epg.one/img/9183.png" group-title="Детские", Cartoon Classics
+#EXTGRP:Детские
+https://ucdn.beetv.kz/bpk-tv/000008795/tve/index.m3u8
 #EXTINF:-1 tvg-id="cartoon-network" tvg-name="Cartoon Network" tvg-logo="http://epg.one/img/601.png" group-title="Детские", Cartoon Network
 #EXTGRP:Детские
 http://65.21.85.175:8000/play/a00i/index.m3u8?token=livetv
@@ -2003,6 +2006,9 @@ http://109.200.130.123:7537/play/a02k
 #EXTINF:-1 tvg-id="plan-b" tvg-name="Plan B HD" tvg-logo="http://epg.one/img/6643.png" group-title="Кино", Plan B HD
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000007625/tve/index.m3u8
+#EXTINF:-1 tvg-id="romance" tvg-name="Romance HD" tvg-logo="http://epg.one/img/9179.png" group-title="Кино", Romance HD
+#EXTGRP:Кино
+https://ucdn.beetv.kz/bpk-tv/000008780/tve/index.m3u8
 #EXTINF:-1 tvg-id="scream" tvg-name="Scream HD" tvg-logo="http://epg.one/img/9069.png" group-title="Кино", Scream HD
 #EXTGRP:Кино
 
@@ -2026,7 +2032,7 @@ https://ucdn.beetv.kz/bpk-tv/000007815/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000007818/tve/index.m3u8
 #EXTINF:-1 tvg-id="suspense" tvg-name="Suspense HD" tvg-logo="http://epg.one/img/9180.png" group-title="Кино", Suspense HD
 #EXTGRP:Кино
-
+https://ucdn.beetv.kz/bpk-tv/000008739/tve/index.m3u8
 #EXTINF:-1 tvg-id="timeless-dizi" tvg-name="Timeless Dizi Channel" tvg-logo="http://epg.one/img/6724.png" group-title="Кино", Timeless Dizi Channel
 #EXTGRP:Кино
 http://194.158.222.36:6086
