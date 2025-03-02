@@ -2928,9 +2928,15 @@ http://185.57.68.33/110/mpegts
 #EXTINF:-1 tvg-id="match-football3" tvg-name="Матч! Футбол 3 HD" tvg-logo="http://epg.one/img/2005.png" group-title="Спорт", Матч! Футбол 3 HD
 #EXTGRP:Спорт
 http://flu.ttk.mx:90/Football_3HD/mono.m3u8?token=hs06e
-#EXTINF:-1 tvg-id="mir-basketbola" tvg-name="Мир Баскетбола" tvg-logo="https://app.playlistbox.com/icon/Wjm281v9VYqwzx9za6MREnk3GBgNLKQX.png" group-title="Спорт", Мир Баскетбола
+#EXTINF:-1 tvg-id="mir-basketbola" tvg-name="Мир Баскетбола" tvg-logo="http://epg.one/img/4629.png" group-title="Спорт", Мир Баскетбола
 #EXTGRP:Спорт
 http://65.21.85.175:8000/play/a00c/index.m3u8?token=livetv
+#EXTINF:-1 tvg-id="okko-sport" tvg-name="Окко Спорт HD" tvg-logo="http://epg.one/img/7895.png" group-title="Спорт", Окко Спорт HD
+#EXTGRP:Спорт
+http://87.99.87.203:2020/channel/79f39dd7/index.m3u8?q=c155fd146caa671acca6c6873fe5c176
+#EXTINF:-1 tvg-id="okko-football" tvg-name="Окко Футбол HD" tvg-logo="http://epg.one/img/9325.png" group-title="Спорт", Окко Футбол HD
+#EXTGRP:Спорт
+http://87.99.87.203:2020/channel/n2388d82c/index.m3u8?q=c155fd146caa671acca6c6873fe5c176
 #EXTINF:-1 tvg-id="start" tvg-name="Старт HD" tvg-logo="http://epg.one/img/2530.png" group-title="Спорт", Старт HD
 #EXTGRP:Спорт
 http://185.23.80.29:8080/START/index.m3u8?token=test
