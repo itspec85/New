@@ -1760,10 +1760,10 @@ http://dmi3y-tv.ru/hls/CH_KINOTV.m3u8
 https://ucdn.beetv.kz/bpk-tv/000008490/tve/index.m3u8
 #EXTINF:-1 tvg-id="kinokomedia" tvg-name="Кинокомедия" tvg-logo="http://epg.one/img/821.png" group-title="Кино", Кинокомедия
 #EXTGRP:Кино
-http://185.50.148.2:7711/Kinokomedija/index.m3u8
+https://mhd128.iptv2022.com/p/4r-OHggNLHC9y_VXzghWHg,1740949207/streaming/kinocomedia/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="kinomiks" tvg-name="Киномикс" tvg-logo="http://epg.one/img/644.png" group-title="Кино", Киномикс
 #EXTGRP:Кино
-http://185.50.148.2:7711/Kinomiks/index.m3u8
+https://mhd128.iptv2022.com/p/KMqKB4aEmXntW1CFy_fQeg,1740949206/streaming/kinomix/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="kinopokaz" tvg-name="Кинопоказ" tvg-logo="http://epg.one/img/2834.png" group-title="Кино", Кинопоказ
 #EXTGRP:Кино
 http://65.21.85.175:8000/play/a02a/index.m3u8?token=livetv
@@ -1778,13 +1778,13 @@ https://ucdn.beetv.kz/bpk-tv/000009132/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000003871/tve/index.m3u8
 #EXTINF:-1 tvg-id="kinosvidanie" tvg-name="Киносвидание" tvg-logo="http://epg.one/img/462.png" group-title="Кино", Киносвидание
 #EXTGRP:Кино
-http://185.50.148.2:7711/Kinosvidanie/index.m3u8
+https://mhd128.iptv2022.com/p/0MbgO8yp6_h-AGUcRlhWmA,1740949206/streaming/film-watching/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="kinosemiya" tvg-name="Киносемья" tvg-logo="http://epg.one/img/987.png" group-title="Кино", Киносемья
 #EXTGRP:Кино
-http://185.50.148.2:7711/Kinosemya/index.m3u8
+https://mhd128.iptv2022.com/p/cmClGXlsBdusDR0YDtA7Pw,1740949206/streaming/film-families/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="kinoseria" tvg-name="Киносерия" tvg-logo="http://epg.one/img/799.png" group-title="Кино", Киносерия
 #EXTGRP:Кино
-http://185.50.148.2:7711/Kinoseriya/index.m3u8
+https://mhd128.iptv2022.com/p/eWMst4i4Sii4YRl7j8fzpQ,1740949206/streaming/kinoseria/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="kinouzhas" tvg-name="Киноужас" tvg-logo="http://epg.one/img/2493.png" group-title="Кино", Киноужас
 #EXTGRP:Кино
 http://109.200.130.123:7537/play/a021
