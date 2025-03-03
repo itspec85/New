@@ -1748,7 +1748,7 @@ http://130.193.73.10:8937/play/a03d
 http://dmi3y-tv.ru/hls/CH_KINO1_INT.m3u8
 #EXTINF:-1 tvg-id="kino-bez-granic" tvg-name="Кино без границ" tvg-logo="https://avatars.mds.yandex.net/i?id=8a83a73357d19e33255a8ad9f231a03a2d3c94c69274fb84-10115282-images-thumbs&n=13" group-title="Кино", Кино без границ
 #EXTGRP:Кино
-http://185.50.148.2:7703/Detskiy/index.m3u8
+
 #EXTINF:-1 tvg-id="kino-tv" tvg-name="Кино ТВ" tvg-logo="http://epg.one/img/1037.png" group-title="Кино", Кино ТВ
 #EXTGRP:Кино
 http://dmi3y-tv.ru/hls/CH_KINOTV.m3u8
@@ -1840,13 +1840,13 @@ http://cdn.ntv.ru/th_serial/mono.m3u8
 http://cdn.ntv.ru/th_hit/mono.m3u8
 #EXTINF:-1 tvg-id="ostrosiuzhetnoe-hd" tvg-name="Остросюжетное HD" tvg-logo="http://epg.one/img/1588.png" group-title="Кино", Остросюжетное HD
 #EXTGRP:Кино
-http://141.95.55.143/CH547/index.m3u8
+
 #EXTINF:-1 tvg-id="pobeda" tvg-name="Победа" tvg-logo="http://epg.one/img/2447.png" group-title="Кино", Победа
 #EXTGRP:Кино
 http://flu.ttk.mx:90/Pobeda/mono.m3u8?token=hs06e
 #EXTINF:-1 tvg-id="premialnoe-hd" tvg-name="Премиальное HD" tvg-logo="http://epg.one/img/2732.png" group-title="Кино", Премиальное HD
 #EXTGRP:Кино
-http://31.184.197.124/PremialnoeHD/mono.m3u8
+
 #EXTINF:-1 tvg-id="premium-kino-kz" tvg-name="Премиум кино KZ" tvg-logo="https://iptvx.one/picons/premium-kino-kz.png" group-title="Кино", Премиум кино KZ
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000008491/tve/index.m3u8
