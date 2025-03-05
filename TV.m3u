@@ -1760,7 +1760,7 @@ http://dmi3y-tv.ru/hls/CH_KINOTV.m3u8
 https://ucdn.beetv.kz/bpk-tv/000008490/tve/index.m3u8
 #EXTINF:-1 tvg-id="kinokomedia" tvg-name="Кинокомедия" tvg-logo="http://epg.one/img/821.png" group-title="Кино", Кинокомедия
 #EXTGRP:Кино
-https://mhd128.iptv2022.com/p/fZkrtPhAtvBvPRCzHm2GFg,1741118408/streaming/kinocomedia/324/1/tracks-v5a1/mono.m3u8
+http://91.205.199.3/komedia/index.m3u8
 #EXTINF:-1 tvg-id="kinomiks" tvg-name="Киномикс" tvg-logo="http://epg.one/img/644.png" group-title="Кино", Киномикс
 #EXTGRP:Кино
 https://mhd128.iptv2022.com/p/ATa8QXIr1e0kps16_n2n1A,1741118407/streaming/kinomix/324/1/tracks-v5a1/mono.m3u8
