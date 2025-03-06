@@ -1781,7 +1781,7 @@ https://ucdn.beetv.kz/bpk-tv/000003871/tve/index.m3u8
 http://flu.ttk.mx:90/Kinosvidanie/mono.m3u8?token=hs06e
 #EXTINF:-1 tvg-id="kinosemiya" tvg-name="Киносемья" tvg-logo="http://epg.one/img/987.png" group-title="Кино", Киносемья
 #EXTGRP:Кино
-http://tv.ttk.mx:9161
+https://ucdn.beetv.kz/bpk-tv/000004633/tve/index.m3u8
 #EXTINF:-1 tvg-id="kinoseria" tvg-name="Киносерия" tvg-logo="http://epg.one/img/799.png" group-title="Кино", Киносерия
 #EXTGRP:Кино
 https://mhd128.iptv2022.com/p/0DADW0IO-QslKd67Oqf-fg,1741291206/streaming/kinoseria/324/1/tracks-v5a1/mono.m3u8
