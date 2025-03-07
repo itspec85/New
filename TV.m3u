@@ -802,7 +802,7 @@ https://ucdn.beetv.kz/bpk-tv/000001514/tve/index.m3u8
 http://stream.kaztrk.kz/regional/karagandytv/index.m3u8
 #EXTINF:-1 tvg-id="7kanal-kz" tvg-name="Седьмой канал KZ" tvg-logo="http://epg.one/img/2572.png" group-title="Казахстан", Седьмой канал KZ
 #EXTGRP:Казахстан
-https://ucdn.beetv.kz/bpk-tv/000000659/tve/index.m3u8
+https://stream.tv7.kz/hls/stream.m3u8
 #EXTINF:-1 tvg-id="semei" tvg-name="Semei" tvg-logo="https://avatars.mds.yandex.net/i?id=5c86362e245a4b0792ca0d6fd92361ba-5008775-images-thumbs&n=13" group-title="Казахстан", Semei
 #EXTGRP:Казахстан
 https://ucdn.beetv.kz/bpk-tv/000003250/tve/index.m3u8
