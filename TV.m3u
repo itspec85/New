@@ -912,7 +912,7 @@ http://95.156.76.230:33001/udp/230.4.34.78:1234
 http://31.58.58.200:2020/channel/18c64526/index.m3u8?q=134640b703359cff844da68d4c02e763
 #EXTINF:-1 tvg-id="doktor" tvg-name="Доктор" tvg-logo="http://epg.one/img/16.png" group-title="Познавательные", Доктор
 #EXTGRP:Познавательные
-http://178.57.121.38:8080/doctor/index.m3u8?token=test
+http://188.190.222.53/Doctor/index.m3u8
 #EXTINF:-1 tvg-id="domashnie-zhivotnye" tvg-name="Домашние Животные" tvg-logo="http://epg.one/img/520.png" group-title="Познавательные", Домашние Животные
 #EXTGRP:Познавательные
 http://130.193.73.10:8937/play/a02d
@@ -1110,7 +1110,7 @@ https://ucdn.beetv.kz/bpk-tv/000002510/tve/index.m3u8
 http://185.23.80.28:8080/OxotnikIRybolov/index.m3u8?token=test
 #EXTINF:-1 tvg-id="sarafan" tvg-name="Сарафан" tvg-logo="http://epg.one/img/663.png" group-title="Познавательные", Сарафан
 #EXTGRP:Познавательные
-http://178.57.121.38:8080/sarafan/index.m3u8?token=test
+http://130.193.73.10:8937/play/a01v
 #EXTINF:-1 tvg-id="sovsek" tvg-name="Совершенно секретно" tvg-logo="http://epg.one/img/275.png" group-title="Познавательные", Совершенно секретно
 #EXTGRP:Познавательные
 http://178.124.152.238:8088/sovsec
@@ -1140,7 +1140,7 @@ http://195.26.83.96:7005/play/16/index.m3u8
 http://spas.mediacdn.ru/cdn/spas/playlist.m3u8
 #EXTINF:-1 tvg-id="telekafe" tvg-name="Телекафе" tvg-logo="http://epg.one/img/2304.png" group-title="Познавательные", Телекафе
 #EXTGRP:Познавательные
-http://31.148.48.15:80/Telekafe/index.m3u8
+http://stream01.vnet.am/Telekafe/mono.m3u8
 #EXTINF:-1 tvg-id="teleputeshestvia" tvg-name="Телепутешествия" tvg-logo="http://epg.one/img/2424.png" group-title="Познавательные", Телепутешествия
 #EXTGRP:Познавательные
 http://31.148.48.15:80/Teleputeshestviya/index.m3u8?token=test
@@ -1161,7 +1161,7 @@ http://stream01.vnet.am/ZooTv/mono.m3u8
 http://194.158.218.123:8880/Usadba/index.m3u8
 #EXTINF:-1 tvg-id="uspex" tvg-name="Успех" tvg-logo="http://epg.one/img/2455.png" group-title="Познавательные", Успех
 #EXTGRP:Познавательные
-http://185.23.80.28:8080/VashUspex/index.m3u8?token=uspeh
+http://188.190.222.53/Uspeh/index.m3u8
 #EXTINF:-1 tvg-name="Царьград ТВ" tvg-logo="https://avatars.mds.yandex.net/i?id=56bd2b7e87256b22cf8a436f893296c28b7417fd-9289427-images-thumbs&n=13" group-title="Познавательные", Царьград ТВ
 #EXTGRP:Познавательные
 http://46.17.41.254:2020/channel/n75e0f82c/index.m3u8?q=c9a4efc12540f7d0eb46417ddc618c8b
@@ -1192,7 +1192,7 @@ http://stream01.vnet.am/Channel_129/mono.m3u8
 http://hlss.goodgame.ru/hls/192005.m3u8
 #EXTINF:-1 tvg-id="2na2" tvg-name="2x2" tvg-logo="http://epg.one/img/323.png" group-title="Познавательные", 2x2
 #EXTGRP:Познавательные
-http://185.23.80.28:8080/2x2/index.m3u8?token=test
+http://130.193.73.10:8937/play/a01b
 #EXTINF:-1 tvg-id="animal-planet-eu" tvg-name="Animal Planet" tvg-logo="http://epg.one/img/365.png" group-title="Познавательные", Animal Planet
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000000216/tve/index.m3u8
@@ -1348,10 +1348,10 @@ http://95.67.12.82:9088
 http://95.67.12.82:9077
 #EXTINF:-1 tvg-name="Persik TV Документальное" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Познавательные", Persik TV Документальное
 #EXTGRP:Познавательные
-https://fs2.persik.by/Dokumentalnoe4/index.m3u8
+
 #EXTINF:-1 tvg-name="Persik TV Документальное кино" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Познавательные", Persik TV Документальное кино
 #EXTGRP:Познавательные
-https://fs2.persik.by/DokumentalnoeKino4/index.m3u8
+
 #EXTINF:-1 tvg-name="Pro Факт" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00301.png" group-title="Познавательные", Pro Факт
 #EXTGRP:Познавательные
 https://iptv.prosto.tv/id301/video.m3u8
