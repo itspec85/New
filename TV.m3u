@@ -1012,6 +1012,9 @@ http://195.26.83.96:7007/play/11/index.m3u8
 #EXTINF:-1 tvg-id="muzhskoy" tvg-name="Мужской HD" tvg-logo="http://epg.one/img/2444.png" group-title="Познавательные", Мужской HD
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000000286/tve/index.m3u8
+#EXTINF:-1 tvg-id="nadezhda" tvg-name="Надежда" tvg-logo="http://epg.one/img/1732.png" group-title="Познавательные", Надежда
+#EXTGRP:Познавательные
+http://dmi3y-tv.ru/hls/CH_NADEZHDAHD720.m3u8
 #EXTINF:-1 tvg-id="narod-vsio-vidit" tvg-name="Народ Всё Видит" tvg-logo="https://iptvx.one/picons/narod-vsio-vidit.png" group-title="Познавательные", Народ Всё Видит
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000008614/tve/index.m3u8
