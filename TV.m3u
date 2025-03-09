@@ -1319,6 +1319,9 @@ http://api.alpaca.t62a.com/hls/9110/stream0.m3u8
 #EXTINF:-1 tvg-id="love-nature-4k" tvg-name="Love Nature 4K" tvg-logo="http://epg.one/img/2801.png" group-title="Познавательные", Love Nature 4K
 #EXTGRP:Познавательные
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 tvg-name="LOVE NATURE HD" tvg-logo="http://epg.one/img/3919.png" group-title="Познавательные", LOVE NATURE HD
+#EXTGRP:Познавательные
+http://95.67.12.82:9098
 #EXTINF:-1 tvg-id="luxury" tvg-name="Luxury" tvg-logo="http://epg.one/img/2759.png" group-title="Познавательные", Luxury
 #EXTGRP:Познавательные
 https://s1.tv-nano.com/Luxury_rec/tracks-v1a1/mono.m3u8
