@@ -1446,7 +1446,7 @@ https://autopilot.catcast.tv/content/38720/index.m3u8
 https://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ginger-hd" tvg-name="Капитан Фантастика" tvg-logo="http://epg.one/img/2438.png" group-title="Детские", Капитан Фантастика
 #EXTGRP:Детские
-http://185.23.80.28:8080/KapitanFantastika/index.m3u8?token=test
+http://185.23.80.29:8080/KapitanFantastika/index.m3u8?token=test
 #EXTINF:-1 tvg-id="karusel" tvg-shift="+1" tvg-name="Карусель -1" tvg-logo="http://epg.one/img/740.png" group-title="Детские", Карусель -1
 #EXTGRP:Детские
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -1511,10 +1511,10 @@ https://hls.goodgame.ru/hls/198446.m3u8
 http://93.189.224.246:52900/play/a00m/index.m3u8
 #EXTINF:-1 tvg-id="o_" tvg-name="О!" tvg-logo="http://epg.one/img/1757.png" group-title="Детские", О!
 #EXTGRP:Детские
-http://185.23.80.28:8080/O/index.m3u8?token=test
+http://185.23.80.29:8080/O/index.m3u8?token=test
 #EXTINF:-1 tvg-id="ryzhy" tvg-name="Рыжий" tvg-logo="http://epg.one/img/2437.png" group-title="Детские", Рыжий
 #EXTGRP:Детские
-http://178.57.121.38:8080/ryzhiy/index.m3u8?token=test
+http://185.23.80.29:8080/Ryzhij/index.m3u8?token=test
 #EXTINF:-1 tvg-id="smaylik-tv" tvg-name="Смайл ТВ" tvg-logo="http://epg.one/img/2442.png" group-title="Детские", Смайл ТВ
 #EXTGRP:Детские
 https://5d23269b3ec0c.streamlock.net/WEB_Smilik/Smilik.stream/playlist.m3u8
