@@ -1886,6 +1886,9 @@ https://ucdn.beetv.kz/bpk-tv/000008489/tve/index.m3u8
 #EXTINF:-1 tvg-name="Смотрим Кино и сериалы" tvg-logo="https://yastatic.net/naydex/yandex-search/whAS8J113/0b8051N-HOgg/HwvYjIKsXPvoHXL17OMV84joPaTQ01ucRwe72k7YR3OdvTYQR4rbu-549F2wwWcy6yNJN-IwRSwtqSe2akicsR_6aTzziRg7rEkmAAnHdDJd6PixlBLuCOdyWvoOvMW2SJllAySZycldvyPax3bD957WLZNGxfGK21" group-title="Кино", Смотрим Кино и сериалы
 #EXTGRP:Кино
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/index.m3u8
+#EXTINF:-1 tvg-id="sov-kinklass" tvg-name="Советская киноклассика HD" tvg-logo="http://epg.one/img/9002.png" group-title="Кино", Советская киноклассика HD
+#EXTGRP:Кино
+https://mhd128.iptv2022.com/p/xMHWg0VSHYv_vsYCWotf1A,1741554024/streaming/sovet_classic/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="sovkino" tvg-name="Советское кино" tvg-logo="http://epg.one/img/9399.png" group-title="Кино", Советское кино
 #EXTGRP:Кино
 https://mhd128.iptv2022.com/p/VzmaMYWGSRNm95kN7IalrQ,1741554009/streaming/sovietmovs/324/1/tracks-v5a1/mono.m3u8
