@@ -939,7 +939,7 @@ http://195.18.23.20:8000/play/10/index.m3u8
 
 #EXTINF:-1 tvg-id="zagorodnaya-zhizn" tvg-name="Загородная Жизнь" tvg-logo="http://epg.one/img/2298.png" group-title="Познавательные", Загородная Жизнь
 #EXTGRP:Познавательные
-http://flu.ttk.mx:90/zagorodnaya_zhizn/mono.m3u8?token=hs06e
+https://ucdn.beetv.kz/bpk-tv/000000289/tve/index.m3u8
 #EXTINF:-1 tvg-id="zagorodny" tvg-name="Загородный" tvg-logo="http://epg.one/img/2463.png" group-title="Познавательные", Загородный
 #EXTGRP:Познавательные
 http://stream01.vnet.am/DTX/mono.m3u8
@@ -1053,7 +1053,7 @@ https://osnmedia.servicecdn.ru/streams/17603_88089/720n/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000000308/tve/index.m3u8
 #EXTINF:-1 tvg-id="oxota-i-rybalka" tvg-name="Охота и Рыбалка" tvg-logo="http://epg.one/img/2419.png" group-title="Познавательные", Охота и Рыбалка
 #EXTGRP:Познавательные
-http://flu.ttk.mx:90/Ohota_i_rybalka/mono.m3u8?token=hs06e
+https://mhd128.iptv2022.com/p/3lzdNJezFrwm1tM1Df9Jnw,1741640410/streaming/ohota_i_ribalka/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="oxotnik-i-rybolov" tvg-name="Охотник и рыболов" tvg-logo="http://epg.one/img/1681.png" group-title="Познавательные", Охотник и рыболов
 #EXTGRP:Познавательные
 http://stream01.vnet.am/Channel_124/mono.m3u8
@@ -1089,7 +1089,7 @@ http://176.107.219.20:9000/play/a003/index.m3u8
 http://cdn-01.bonus-tv.ru/prosveschenie_edge/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="psixologia-21" tvg-name="Психология 21" tvg-logo="http://epg.one/img/2450.png" group-title="Познавательные", Психология 21
 #EXTGRP:Познавательные
-http://flu.ttk.mx:90/Psihologiya21/mono.m3u8?token=hs06e
+
 #EXTINF:-1 tvg-id="radost-moya" tvg-name="Радость моя" tvg-logo="http://epg.one/img/2287.png" group-title="Познавательные", Радость моя
 #EXTGRP:Познавательные
 https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
@@ -1736,7 +1736,7 @@ http://109.200.130.123:7537/play/a02n
 http://45.11.139.43:8555/evrokino/index.m3u8
 #EXTINF:-1 tvg-name="Иллюзион+" tvg-logo="http://epg.one/img/2403.png" group-title="Кино", Иллюзион +
 #EXTGRP:Кино
-http://flu.ttk.mx:90/Illuzion+/mono.m3u8?token=hs06e
+https://ucdn.beetv.kz/bpk-tv/000004582/tve/index.m3u8
 #EXTINF:-1 tvg-id="indiyskoe-kino" tvg-name="Индийское кино" tvg-logo="http://epg.one/img/798.png" group-title="Кино", Индийское кино
 #EXTGRP:Кино
 http://188.113.190.12/329/index.m3u8
@@ -1849,7 +1849,7 @@ http://cdn.ntv.ru/th_hit/mono.m3u8
 
 #EXTINF:-1 tvg-id="pobeda" tvg-name="Победа" tvg-logo="http://epg.one/img/2447.png" group-title="Кино", Победа
 #EXTGRP:Кино
-http://flu.ttk.mx:90/Pobeda/mono.m3u8?token=hs06e
+http://45.11.139.43:8555/pobeda/index.m3u8
 #EXTINF:-1 tvg-id="premialnoe-hd" tvg-name="Премиальное HD" tvg-logo="http://epg.one/img/2732.png" group-title="Кино", Премиальное HD
 #EXTGRP:Кино
 
@@ -2963,7 +2963,7 @@ https://mhd128.iptv2022.com/p/jJ0Umojb5EdMwN2uNCs1ug,1741640414/streaming/start/
 https://ucdn.beetv.kz/bpk-tv/000007802/tve/index.m3u8
 #EXTINF:-1 tvg-id="football-ru" tvg-name="Футбол" tvg-logo="http://epg.one/img/2782.png" group-title="Спорт", Футбол
 #EXTGRP:Спорт
-http://flu.ttk.mx:90/Futbol/mono.m3u8?token=hs06e
+http://93.189.224.246:52900/play/a00c/index.m3u8
 #EXTINF:-1 tvg-name="beIN Sports 1 HD TR" tvg-logo="http://epg.one/img/5092.png" group-title="Спорт", beIN Sports 1 HD TR
 #EXTGRP:Спорт
 http://65.21.85.175:8000/play/a034/index.m3u8?token=livetv
