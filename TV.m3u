@@ -954,7 +954,7 @@ https://ucdn.beetv.kz/bpk-tv/000006638/tve/index.m3u8
 http://194.158.218.123:8880/ZdorovoeTV/index.m3u8
 #EXTINF:-1 tvg-id="zootv" tvg-name="Зоо ТВ" tvg-logo="http://epg.one/img/2431.png" group-title="Познавательные", Зоо ТВ
 #EXTGRP:Познавательные
-http://185.23.80.29:8080/ZooTV/index.m3u8?token=test
+http://31.148.48.15:80/Zoo_TV/index.m3u8?token=test
 #EXTINF:-1 tvg-id="istoria" tvg-name="История" tvg-logo="http://epg.one/img/1036.png" group-title="Познавательные", История
 #EXTGRP:Познавательные
 http://31.148.48.15/Istoriya/tracks-v1a1/mono.m3u8
@@ -1517,7 +1517,7 @@ https://hls.goodgame.ru/hls/198446.m3u8
 http://93.189.224.246:52900/play/a00m/index.m3u8
 #EXTINF:-1 tvg-id="o_" tvg-name="О!" tvg-logo="http://epg.one/img/1757.png" group-title="Детские", О!
 #EXTGRP:Детские
-http://185.23.80.29:8080/O/index.m3u8?token=test
+http://130.193.73.10:8937/play/a016
 #EXTINF:-1 tvg-id="ryzhy" tvg-name="Рыжий" tvg-logo="http://epg.one/img/2437.png" group-title="Детские", Рыжий
 #EXTGRP:Детские
 http://185.23.80.29:8080/Ryzhij/index.m3u8?token=test
