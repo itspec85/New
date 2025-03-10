@@ -563,7 +563,7 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_TNT.m3u8
 http://s18209.cdn.ngenix.net/hls/CH_R01_TNT/playlist.m3u8?version=2
 #EXTINF:-1 tvg-id="tnt" tvg-name="ТНТ HD" tvg-logo="http://epg.one/img/1767.png" group-title="Россия", ТНТ HD
 #EXTGRP:Россия
-http://flu.ttk.mx:90/TNT_HD/mono.m3u8?token=hs06e
+http://93.189.224.246:52900/play/a00u/index.m3u8
 #EXTINF:-1 tvg-id="tnt-pl2" tvg-name="ТНТ +2" tvg-logo="http://epg.one/img/3022.png" group-title="Россия", ТНТ +2
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -1435,7 +1435,7 @@ https://ucdn.beetv.kz/bpk-tv/000008065/tve/index.m3u8
 http://live-3.otcnet.ru/wfcrus/index.m3u8
 #EXTINF:-1 tvg-id="zoopark" tvg-name="ZOOпарк" tvg-logo="http://epg.one/img/367.png" group-title="Познавательные", ZOOпарк
 #EXTGRP:Познавательные
-http://flu.ttk.mx:90/Zoopark/mono.m3u8?token=hs06e
+https://ucdn.beetv.kz/bpk-tv/000000260/tve/index.m3u8
 
 
 #EXTINF:-1 tvg-id="v-gostiax-u-skazki" tvg-name="В гостях у сказки" tvg-logo="http://epg.one/img/2027.png" group-title="Детские", В гостях у сказки
@@ -1775,7 +1775,7 @@ https://mhd128.iptv2022.com/p/EyoH5HN20iec-9xmVWXI_Q,1741640407/streaming/kinomi
 http://65.21.85.175:8000/play/a02a/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="kinopremiera-hd" tvg-name="Кинопремьера" tvg-logo="http://epg.one/img/566.png" group-title="Кино", Кинопремьера
 #EXTGRP:Кино
-http://flu.ttk.mx:90/Kinopremiera/mono.m3u8?token=hs06e
+https://ucdn.beetv.kz/bpk-tv/000002864/tve/index.m3u8
 #EXTINF:-1 tvg-id="kinoroman-kz" tvg-name="Кинороман KZ" tvg-logo="https://epgx.club/picons/kinoroman-kz.png" group-title="Кино", Кинороман KZ
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000009132/tve/index.m3u8
@@ -1796,7 +1796,7 @@ https://mhd128.iptv2022.com/p/NadNV9qJ_BZFiN7H5AsLig,1741640407/streaming/kinose
 http://109.200.130.123:7537/play/a021
 #EXTINF:-1 tvg-id="kinoxit" tvg-name="Кинохит" tvg-logo="http://epg.one/img/542.png" group-title="Кино", Кинохит
 #EXTGRP:Кино
-http://flu.ttk.mx:90/kinohit/mono.m3u8?token=hs06e
+https://ucdn.beetv.kz/bpk-tv/000004485/tve/index.m3u8
 #EXTINF:-1 tvg-name="Кошмар HD" tvg-logo="https://avatars.mds.yandex.net/i?id=c872d891d61f5db18c83c97bdf2e7df2b83df1a71091be81-12643871-images-thumbs&n=13" group-title="Кино", Кошмар HD
 #EXTGRP:Кино
 http://dmi3y-tv.ru/hls/CH_KOSHMAR.m3u8
