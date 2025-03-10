@@ -2840,7 +2840,7 @@ http://cdn-01.bonus-tv.ru/kmir/mono.m3u8
 http://185.46.48.18:80/match/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="match-tv" tvg-name="Матч ТВ HD" tvg-logo="http://epg.one/img/2051.png" group-title="Спорт", Матч ТВ HD
 #EXTGRP:Спорт
-
+http://s3.merlive.am/matchtvhd/index.m3u8
 #EXTINF:-1 tvg-id="match-arena" tvg-name="Матч! Арена" tvg-logo="http://epg.one/img/2003.png" group-title="Спорт", Матч! Арена
 #EXTGRP:Спорт
 http://194.143.148.28:8080/MatchArena/mpegts
@@ -2922,9 +2922,6 @@ http://65.21.85.175:8000/play/a037/index.m3u8?token=livetv
 #EXTINF:-1 tvg-name="Billiard TV" tvg-logo="https://avatars.mds.yandex.net/i?id=b42dfcc65e0421933184166140afd83040f5ba1b-5369205-images-thumbs&n=13" group-title="Спорт", Billiard TV
 #EXTGRP:Спорт
 https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE_Max.m3u8
-#EXTINF:-1 tvg-id="box-sportcast" tvg-name="BOX SportCast HD" tvg-logo="http://epg.one/img/8831.png" group-title="Спорт", BOX SportCast HD
-#EXTGRP:Спорт
-
 #EXTINF:-1 tvg-id="canal-pl-sport-1" tvg-name="Canal+ Sport PL" tvg-logo="http://epg.one/img/3129.png" group-title="Спорт", Canal+ Sport PL
 #EXTGRP:Спорт
 http://78.130.250.2:8023/play/a02v/index.m3u8
