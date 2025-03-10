@@ -563,7 +563,7 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_TNT.m3u8
 http://s18209.cdn.ngenix.net/hls/CH_R01_TNT/playlist.m3u8?version=2
 #EXTINF:-1 tvg-id="tnt" tvg-name="ТНТ HD" tvg-logo="http://epg.one/img/1767.png" group-title="Россия", ТНТ HD
 #EXTGRP:Россия
-http://93.189.224.246:52900/play/a00u/index.m3u8
+http://s3.merlive.am/tnthd/index.m3u8
 #EXTINF:-1 tvg-id="tnt-pl2" tvg-name="ТНТ +2" tvg-logo="http://epg.one/img/3022.png" group-title="Россия", ТНТ +2
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -984,7 +984,7 @@ https://live-3.otcnet.ru/congresstv-multi/index.m3u8
 https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="kto-est-kto" tvg-name="Кто есть кто" tvg-logo="http://epg.one/img/2456.png" group-title="Познавательные", Кто есть кто
 #EXTGRP:Познавательные
-
+http://185.50.148.2:7711/Ktoestkto/index.m3u8
 #EXTINF:-1 tvg-id="mir-uvlecheniy" tvg-name="Кто куда" tvg-logo="http://epg.one/img/2467.png" group-title="Познавательные", Кто куда
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000001377/tve/index.m3u8
@@ -1068,7 +1068,7 @@ http://stream01.vnet.am/Evrika/mono.m3u8
 https://rq3qltxnbx1.a.trbcdn.net/livemaster/8hwxnq4s0v_efir0_tcode1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="prnk-tv" tvg-name="Первый российский национальный канал HD" tvg-logo="http://epg.one/img/6029.png" group-title="Познавательные", Первый российский национальный канал HD
 #EXTGRP:Познавательные
-
+https://serv25.vintera.tv/1pnk/prnk/chunks.m3u8
 #EXTINF:-1 tvg-id="perec-int" tvg-name="Перец International" tvg-logo="http://epg.one/img/5651.png" group-title="Познавательные", Перец International
 #EXTGRP:Познавательные
 http://stream01.vnet.am/Perec/mono.m3u8
@@ -1211,27 +1211,6 @@ http://109.200.130.123:7537/play/a02j
 #EXTINF:-1 tvg-id="bloomberg" tvg-name="Bloomberg TV USA" tvg-logo="https://avatars.mds.yandex.net/i?id=9bdd7c5b9b6a9fa55348eada7a515346ada82991-12371687-images-thumbs&n=13" group-title="Познавательные", Bloomberg TV USA
 #EXTGRP:Познавательные
 https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
-#EXTINF:-1 tvg-id="box-auttrend" tvg-name="BOX AutoTrend HD" tvg-logo="http://epg.one/img/8818.png" group-title="Познавательные", BOX AutoTrend HD
-#EXTGRP:Познавательные
-
-#EXTINF:-1 tvg-id="box-docu" tvg-name="BOX Docu HD" tvg-logo="http://epg.one/img/7662.png" group-title="Познавательные", BOX Docu HD
-#EXTGRP:Познавательные
-
-#EXTINF:-1 tvg-id="box-gurman" tvg-name="BOX Gurman HD" tvg-logo="http://epg.one/img/8817.png" group-title="Познавательные", BOX Gurman HD
-#EXTGRP:Познавательные
-
-#EXTINF:-1 tvg-id="box-kosmo-4k" tvg-name="BOX Kosmo 4K" tvg-logo="http://epg.one/img/9303.png" group-title="Познавательные", BOX Kosmo 4K
-#EXTGRP:Познавательные
-
-#EXTINF:-1 tvg-id="box-myday" tvg-name="BOX Mayday HD" tvg-logo="http://epg.one/img/7493.png" group-title="Познавательные", BOX Mayday HD
-#EXTGRP:Познавательные
-
-#EXTINF:-1 tvg-id="box-memory" tvg-name="BOX Memory HD" tvg-logo="http://epg.one/img/6701.png" group-title="Познавательные", BOX Memory HD
-#EXTGRP:Познавательные
-
-#EXTINF:-1 tvg-id="box-travel" tvg-name="BOX Travel HD" tvg-logo="http://epg.one/img/6831.png" group-title="Познавательные", BOX Travel HD
-#EXTGRP:Познавательные
-
 #EXTINF:-1 tvg-name="Brodilo TV" tvg-logo="https://avatars.mds.yandex.net/i?id=fa094294d6634a98cd6b7c279a88002001815600-5320367-images-thumbs&n=13" group-title="Познавательные", Brodilo TV
 #EXTGRP:Познавательные
 http://brodilo.tv/channel.php
@@ -1345,7 +1324,7 @@ https://ucdn.beetv.kz/bpk-tv/000000034/tve/index.m3u8
 http://stream01.vnet.am/NationalGeographic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ocean-tv" tvg-name="OCEAN-TV" tvg-logo="http://epg.one/img/55.png" group-title="Познавательные", OCEAN-TV
 #EXTGRP:Познавательные
-
+http://45.11.139.43:8555/ocean/index.m3u8
 #EXTINF:-1 tvg-id="one-planet" tvg-name="One Planet" tvg-logo="https://epgx.club/picons/one-planet.png" group-title="Познавательные", One Planet
 #EXTGRP:Познавательные
 http://95.67.12.82:9088
@@ -1590,18 +1569,6 @@ http://stv.mediacdn.ru/live/cdn/ani/playlist_sdhigher.m3u8
 #EXTINF:-1 tvg-id="balapan" tvg-name="Balapan" tvg-logo="https://iptvx.one/picons/balapan.png" group-title="Детские", Balapan
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000005178/tve/index.m3u8
-#EXTINF:-1 tvg-id="bcu-kids-plus" tvg-name="BCU Kids+ HD" tvg-logo="http://epg.one/img/4757.png" group-title="Детские", BCU Kids+ HD
-#EXTGRP:Детские
-
-#EXTINF:-1 tvg-id="bcu-little" tvg-name="BCU Little HD" tvg-logo="http://epg.one/img/6848.png" group-title="Детские", BCU Little HD
-#EXTGRP:Детские
-
-#EXTINF:-1 tvg-id="bcu-multserial" tvg-name="BCU Multserial HD" tvg-logo="http://epg.one/img/4746.png" group-title="Детские", BCU Multserial HD
-#EXTGRP:Детские
-
-#EXTINF:-1 tvg-id="box-anime" tvg-name="BOX Anime HD" tvg-logo="http://epg.one/img/6698.png" group-title="Детские", BOX Anime HD
-#EXTGRP:Детские
-
 #EXTINF:-1 tvg-id="cartoon-classics" tvg-name="Cartoon Classics" tvg-logo="http://epg.one/img/9183.png" group-title="Детские", Cartoon Classics
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000008795/tve/index.m3u8
@@ -1611,15 +1578,6 @@ http://65.21.85.175:8000/play/a00i/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="boomerang" tvg-name="Cartoonito" tvg-logo="http://epg.one/img/929.png" group-title="Детские", Cartoonito
 #EXTGRP:Детские
 http://stream01.vnet.am/Channel_120/mono.m3u8
-#EXTINF:-1 tvg-id="cartoons-90" tvg-name="Cartoons 90" tvg-logo="http://epg.one/img/4728.png" group-title="Детские", Cartoons 90
-#EXTGRP:Детские
-
-#EXTINF:-1 tvg-id="cartoons-big" tvg-name="Cartoons Big" tvg-logo="http://epg.one/img/4730.png" group-title="Детские", Cartoons Big
-#EXTGRP:Детские
-
-#EXTINF:-1 tvg-id="cartoons-short" tvg-name="Cartoons Short" tvg-logo="http://epg.one/img/4729.png" group-title="Детские", Cartoons Short
-#EXTGRP:Детские
-
 #EXTINF:-1 tvg-id="da-vinci" tvg-name="Da Vinci HD" tvg-logo="http://epg.one/img/8908.png" group-title="Детские", Da Vinci HD
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000000333/tve/index.m3u8
@@ -1635,21 +1593,6 @@ http://92.53.64.197:5050/IPTVPLAYMultSkazki.tv/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 tvg-id="kidstv" tvg-name="Kids TV HD" tvg-logo="http://epg.one/img/9025.png" group-title="Детские", Kids TV HD
 #EXTGRP:Детские
 http://origin5.mediacdn.ru/live/kidstv/index.m3u8
-#EXTINF:-1 tvg-id="minimax-family1" tvg-name="MM Семейный 1 HD" tvg-logo="http://epg.one/img/5210.png" group-title="Детские", MM Семейный 1 HD
-#EXTGRP:Детские
-
-#EXTINF:-1 tvg-id="minimax-family2" tvg-name="MM Семейный 2 HD" tvg-logo="http://epg.one/img/5211.png" group-title="Детские", MM Семейный 2 HD
-#EXTGRP:Детские
-
-#EXTINF:-1 tvg-id="minimax-tom-and-jerry" tvg-name="MM Tom And Jerry HD" tvg-logo="http://epg.one/img/5129.png" group-title="Детские", MM Tom And Jerry HD
-#EXTGRP:Детские
-
-#EXTINF:-1 tvg-id="minimax-mult" tvg-name="MM USSR Мультфильм HD" tvg-logo="http://epg.one/img/5133.png" group-title="Детские", MM USSR Мультфильм HD
-#EXTGRP:Детские
-
-#EXTINF:-1 tvg-id="minimax-walt-disney" tvg-name="MM Walt Disney HD" tvg-logo="http://epg.one/img/5571.png" group-title="Детские", MM Walt Disney HD
-#EXTGRP:Детские
-
 #EXTINF:-1 tvg-id="nick-jr" tvg-name="Nick Jr" tvg-logo="http://epg.one/img/917.png" group-title="Детские", Nick Jr
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000000449/tve/index.m3u8
@@ -1730,7 +1673,7 @@ https://ucdn.beetv.kz/bpk-tv/000002943/tve/index.m3u8
 http://109.200.130.123:7537/play/a02n
 #EXTINF:-1 tvg-id="dushevnoe-hd" tvg-name="Душевное кино HD" tvg-logo="http://epg.one/img/2019.png" group-title="Кино", Душевное кино HD
 #EXTGRP:Кино
-
+http://193.242.190.6:8099/37/index.m3u8
 #EXTINF:-1 tvg-id="evrokino" tvg-name="Еврокино" tvg-logo="http://epg.one/img/352.png" group-title="Кино", Еврокино
 #EXTGRP:Кино
 http://45.11.139.43:8555/evrokino/index.m3u8
@@ -1760,7 +1703,7 @@ http://185.50.148.2:7703/Detskiy/index.m3u8
 http://dmi3y-tv.ru/hls/CH_KINOTV.m3u8
 #EXTINF:-1 tvg-id="kino-tv" tvg-name="Кино ТВ HD" tvg-logo="http://epg.one/img/1037.png" group-title="Кино", Кино ТВ HD
 #EXTGRP:Кино
-
+http://s3.merlive.am/kinotvhd/index.m3u8
 #EXTINF:-1 tvg-id="kinoboevik-kz" tvg-name="Кинобоевик KZ" tvg-logo="https://iptvx.one/picons/kinoboevik-kz.png" group-title="Кино", Кинобоевик KZ
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000008490/tve/index.m3u8
@@ -1817,7 +1760,7 @@ https://ucdn.beetv.kz/bpk-tv/000008488/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000006365/tve/index.m3u8
 #EXTINF:-1 tvg-id="mosfilm" tvg-name="Мосфильм. Золотая коллекция HD" tvg-logo="http://epg.one/img/3357.png" group-title="Кино", Мосфильм. Золотая коллекция HD
 #EXTGRP:Кино
-
+http://193.242.190.6:8099/98/index.m3u8
 #EXTINF:-1 tvg-id="muzhskoe-kino" tvg-name="Мужское кино" tvg-logo="http://epg.one/img/1584.png" group-title="Кино", Мужское кино
 #EXTGRP:Кино
 http://45.159.74.14:80/MujskoeKino/index.m3u8
@@ -1865,9 +1808,9 @@ http://194.158.218.123:8880/Retrotv/index.m3u8
 #EXTINF:-1 tvg-id="rodnoe-kino" tvg-name="Родное кино" tvg-logo="http://epg.one/img/12.png" group-title="Кино", Родное кино
 #EXTGRP:Кино
 http://s3.merlive.am/rodnoekino/index.m3u8
-#EXTINF:-1 tvg-id="romantichnoe-hd" tvg-name="Романтичное" tvg-logo="http://epg.one/img/2772.png" group-title="Кино", Романтичное
+#EXTINF:-1 tvg-id="romantichnoe-hd" tvg-name="Романтичное HD" tvg-logo="http://epg.one/img/2772.png" group-title="Кино", Романтичное HD
 #EXTGRP:Кино
-
+http://193.242.190.6:8099/31/index.m3u8
 #EXTINF:-1 tvg-id="russkaya-komedia" tvg-name="Русская комедия" tvg-logo="http://epg.one/img/1620.png" group-title="Кино", Русская комедия
 #EXTGRP:Кино
 http://130.193.73.10:8937/play/a03k
@@ -1961,9 +1904,9 @@ http://178.124.152.238:8088/cinema
 #EXTINF:-1 tvg-id="paramount-comedy" tvg-name="Comedy Central" tvg-logo="http://epg.one/img/920.png" group-title="Кино", Comedy Central
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000000452/tve/index.m3u8
-#EXTINF:-1 tvg-id="detectivejam" tvg-name="DetectiveJam" tvg-logo="http://epg.one/img/7901.png" group-title="Кино", DetectiveJam
+#EXTINF:-1 tvg-id="detectivejam" tvg-name="DetectiveJam HD" tvg-logo="http://epg.one/img/7901.png" group-title="Кино", DetectiveJam HD
 #EXTGRP:Кино
-
+http://de.kineskop.club/site2/1807/1009756_a4bf3b5fc60064d2_0_0_fs2.m3u8
 #EXTINF:-1 tvg-id="fanhd" tvg-name="FAN" tvg-logo="http://epg.one/img/2359.png" group-title="Кино", FAN
 #EXTGRP:Кино
 http://130.193.73.10:8937/play/a03w
