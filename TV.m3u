@@ -2909,7 +2909,7 @@ http://flu.ttk.mx:90/Boets/mono.m3u8?token=hs06e
 http://tv.ttk.mx:9107
 #EXTINF:-1 tvg-id="match-igra" tvg-name="Матч! Игра" tvg-logo="http://epg.one/img/2050.png" group-title="Спорт", Матч! Игра
 #EXTGRP:Спорт
-http://31.148.48.15/Match_Igra/index.m3u8
+http://87.120.142.11:18000/Match!Igra
 #EXTINF:-1 tvg-id="match-igra" tvg-name="Матч! Игра HD" tvg-logo="http://epg.one/img/2050.png" group-title="Спорт", Матч! Игра HD
 #EXTGRP:Спорт
 
