@@ -2903,7 +2903,7 @@ http://185.46.48.18:80/match/tracks-v1a1/mono.m3u8
 http://194.143.148.28:8080/MatchArena/mpegts
 #EXTINF:-1 tvg-id="match-boets" tvg-name="Матч! Боец" tvg-logo="http://epg.one/img/2054.png" group-title="Спорт", Матч! Боец
 #EXTGRP:Спорт
-https://mhd128.iptv2022.com/p/aTGZdh6ffqY2Hc3b-S--ZQ,1741640413/streaming/boectv/324/1/tracks-v5a1/mono.m3u8
+http://87.120.142.11:18000/Match
 #EXTINF:-1 tvg-id="match-boets" tvg-name="Матч! Боец HD" tvg-logo="http://epg.one/img/2054.png" group-title="Спорт", Матч! Боец HD
 #EXTGRP:Спорт
 
@@ -2933,7 +2933,7 @@ https://mhd128.iptv2022.com/p/M8nm3y5tiCx3r4qyldxgug,1741640413/streaming/nashsp
 
 #EXTINF:-1 tvg-id="match-football1" tvg-name="Матч! Футбол 1 HD" tvg-logo="http://epg.one/img/2044.png" group-title="Спорт", Матч! Футбол 1 HD
 #EXTGRP:Спорт
-https://mhd128.iptv2022.com/p/G3TejyzcMaZ4UpJ-z0DV1g,1741640413/streaming/footbal1hd/324/1/tracks-v5a1/mono.m3u8
+http://109.200.130.124:7005/play/a00h
 #EXTINF:-1 tvg-id="match-football2" tvg-name="Матч! Футбол 2" tvg-logo="http://epg.one/img/1042.png" group-title="Спорт", Матч! Футбол 2
 #EXTGRP:Спорт
 
@@ -2955,9 +2955,9 @@ http://65.21.85.175:8000/play/a00c/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="okko-football" tvg-name="Окко Футбол HD" tvg-logo="http://epg.one/img/9325.png" group-title="Спорт", Окко Футбол HD
 #EXTGRP:Спорт
 
-#EXTINF:-1 tvg-id="start" tvg-name="Старт HD" tvg-logo="http://epg.one/img/2530.png" group-title="Спорт", Старт HD
+#EXTINF:-1 tvg-id="start" tvg-name="Старт" tvg-logo="http://epg.one/img/2530.png" group-title="Спорт", Старт
 #EXTGRP:Спорт
-https://mhd128.iptv2022.com/p/jJ0Umojb5EdMwN2uNCs1ug,1741640414/streaming/start/324/1/tracks-v5a1/mono.m3u8
+http://130.193.73.10:8937/play/a04l
 #EXTINF:-1 tvg-id="ufc" tvg-name="Удар HD" tvg-logo="http://epg.one/img/2480.png" group-title="Спорт", Удар HD
 #EXTGRP:Спорт
 https://ucdn.beetv.kz/bpk-tv/000007802/tve/index.m3u8
