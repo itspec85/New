@@ -4869,16 +4869,16 @@ https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 https://demiroren-live.daioncdn.net/kanald/kanald_720p.m3u8
 #EXTINF:-1 tvg-name="KRT TR" tvg-logo="http://epg.one/img/5972.png" group-title="Турция", KRT TR
 #EXTGRP:Турция
-https://koprulu1.global.ssl.fastly.net/yt.m3u8/?id=Avu7O3hKslA.m3u8
+http://185.234.111.229:8000/play/a06f
 #EXTINF:-1 tvg-name="Lalegul TV TR" tvg-logo="http://epg.one/img/3849.png" group-title="Турция", Lalegul TV TR
 #EXTGRP:Турция
 https://lbl.netmedya.net/hls/lalegultv.m3u8
 #EXTINF:-1 tvg-id="fox-hd-tr" tvg-name="NOW HD TR" tvg-logo="http://epg.one/img/9801.png" group-title="Турция", NOW HD TR
 #EXTGRP:Турция
-https://c.fulltvizle.com/fox/index.m3u8
+http://stream.tvcdn.net/ulusal/now-tv.m3u8
 #EXTINF:-1 tvg-id="ntv-hd-tr" tvg-name="NTV FHD TR" tvg-logo="http://epg.one/img/3976.png" group-title="Турция", NTV FHD TR
 #EXTGRP:Турция
-http://31.222.206.98/8813/tracks-v1a1/mono.ts.m3u8?token=test
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/ntv.m3u8
 #EXTINF:-1 tvg-name="On4 TV" tvg-logo="https://www.on4.com.tr/imgs/180x80x2/logoon44.png" group-title="Турция", On4 TV
 #EXTGRP:Турция
 http://stream.tvcdn.net/dini/on4-tv.m3u8
@@ -4960,9 +4960,9 @@ https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 #EXTINF:-1 tvg-id="tv8-tr" tvg-name="TV8 HD" tvg-logo="http://epg.one/img/2596.png" group-title="Турция", TV8 HD
 #EXTGRP:Турция
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
-#EXTINF:-1 tvg-id="tv85-tr" tvg-name="TV8,5 HD" tvg-logo="http://epg.one/img/2614.png" group-title="Турция", TV8,5 HD
+#EXTINF:-1 tvg-id="tv85-tr" tvg-name="TV8.5 HD" tvg-logo="http://epg.one/img/2614.png" group-title="Турция", TV8.5 HD
 #EXTGRP:Турция
-http://50.7.144.122:1935/livetv/tv8-5.stream/sec-f5-v1-a1.m3u8
+http://filex.tv:8080/Home329/Sohailhome/317238
 #EXTINF:-1 tvg-name="TV 100 HD" tvg-logo="http://epg.one/img/2622.png" group-title="Турция", TV 100 HD
 #EXTGRP:Турция
 https://tv100.blutv.com/blutv_tv100_live/live.m3u8
