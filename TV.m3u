@@ -746,7 +746,7 @@ https://ucdn.beetv.kz/bpk-tv/000004208/tve/index.m3u8
 #EXTINF:-1 tvg-id="qazaqstan-int" tvg-name="Qazaqstan International" tvg-logo="https://iptvx.one/picons/qazaqstan-int.png" group-title="Казахстан", Qazaqstan International
 #EXTGRP:Казахстан
 https://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8
-#EXTINF:-1 tvg-id="kokshe" tvg-name="Kokshe" tvg-logo="https://avatars.mds.yandex.net/i?id=e777180e88e283ece118ca1aa63b4e75-4834925-images-thumbs&n=13" group-title="Казахстан", Kokshe
+#EXTINF:-1 tvg-id="kokshe" tvg-name="Kokshe" tvg-logo="https://avatars.mds.yandex.net/i?id=8d16f478bc2652b5be7f5c5758baf6504557f3fe-10681994-images-thumbs&n=13" group-title="Казахстан", Kokshe
 #EXTGRP:Казахстан
 http://stream.kaztrk.kz/regional/kokshetautv/index.m3u8
 #EXTINF:-1 tvg-id="koktem-kz" tvg-name="Köktem" tvg-logo="https://iptvx.one/picons/koktem-kz.png" group-title="Казахстан", Köktem
@@ -3816,7 +3816,7 @@ http://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="Ники ТВ HD" tvg-logo="http://epg.one/img/7697.png" group-title="Региональные РФ", Ники ТВ HD
 #EXTGRP:Региональные РФ
 http://serv25.vintera.tv:8081/1pnk/nikitv/playlist.m3u8
-#EXTINF:-1 tvg-id="nnt" tvg-name="ННТ Дагестан" tvg-logo="https://avatars.mds.yandex.net/i?id=3f908902d8a2dcb27b4ef01fad52e503-5504208-images-thumbs&n=13" group-title="Региональные РФ", ННТ Дагестан
+#EXTINF:-1 tvg-id="nnt" tvg-name="ННТ Дагестан" tvg-logo="https://avatars.mds.yandex.net/i?id=df93077d8808b00b798f083409f59b06a01e0e0d-11596005-images-thumbs&n=13" group-title="Региональные РФ", ННТ Дагестан
 #EXTGRP:Региональные РФ
 http://185.78.112.46:8077/nnttv_hd/index.m3u8
 #EXTINF:-1 tvg-id="nntv" tvg-name="ННТВ Нижний Новгород" tvg-logo="http://epg.one/img/5706.png" group-title="Региональные РФ", ННТВ Нижний Новгород
@@ -4199,7 +4199,7 @@ http://dmi3y-tv.ru/hls/zabava/region/UFA/CH_TUGANTEL.m3u8
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://dmi3y-tv.ru/hls/zabava/region/EKT/CH_VEKTORHD720_TRNSK.m3u8
-#EXTINF:-1 tvg-name="Тында ТВ" tvg-logo="https://avatars.mds.yandex.net/i?id=e2e661aeb9e67539ffe4c563f4da7dd33c056272-12491002-images-thumbs&n=13" group-title="Региональные РФ", Тында ТВ
+#EXTINF:-1 tvg-name="Тында ТВ" tvg-logo="https://avatars.mds.yandex.net/i?id=da0751661eda948f26c7a35893e65701c46272e7-5843118-images-thumbs&n=13" group-title="Региональные РФ", Тында ТВ
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://dmi3y-tv.ru/hls/zabava/region/DV_BLAG/CH_TYNDATV_TYNDA.m3u8
