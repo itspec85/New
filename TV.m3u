@@ -1904,9 +1904,6 @@ http://178.124.152.238:8088/cinema
 #EXTINF:-1 tvg-id="paramount-comedy" tvg-name="Comedy Central" tvg-logo="http://epg.one/img/920.png" group-title="Кино", Comedy Central
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000000452/tve/index.m3u8
-#EXTINF:-1 tvg-id="detectivejam" tvg-name="DetectiveJam HD" tvg-logo="http://epg.one/img/7901.png" group-title="Кино", DetectiveJam HD
-#EXTGRP:Кино
-http://de.kineskop.club/site2/1807/1009756_a4bf3b5fc60064d2_0_0_fs2.m3u8
 #EXTINF:-1 tvg-id="fanhd" tvg-name="FAN" tvg-logo="http://epg.one/img/2359.png" group-title="Кино", FAN
 #EXTGRP:Кино
 http://130.193.73.10:8937/play/a03w
@@ -1914,10 +1911,14 @@ http://130.193.73.10:8937/play/a03w
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=goodgame
 https://hls.goodgame.ru/hls/204722.m3u8
-#EXTINF:-1 tvg-name="Film TV" tvg-logo="https://avatars.mds.yandex.net/i?id=8fc544dbc6ff0f253f65172b5dff52083662bdd2-9181395-images-thumbs&n=13" group-title="Кино", Film TV
+#EXTINF:-1 tvg-name="Film TV 1" tvg-logo="https://avatars.mds.yandex.net/i?id=8fc544dbc6ff0f253f65172b5dff52083662bdd2-9181395-images-thumbs&n=13" group-title="Кино", Film TV 1
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=goodgame
 http://hls.goodgame.ru:8080/hls/163253.m3u8
+#EXTINF:-1 tvg-name="Film TV 2" tvg-logo="https://avatars.mds.yandex.net/i?id=8fc544dbc6ff0f253f65172b5dff52083662bdd2-9181395-images-thumbs&n=13" group-title="Кино", Film TV 2
+#EXTGRP:Кино
+#EXTVLCOPT:http-user-agent=goodgame
+http://hls.goodgame.ru/hls/208358.m3u8
 #EXTINF:-1 tvg-id="filmbox-ru" tvg-name="FilmBox" tvg-logo="http://epg.one/img/2181.png" group-title="Кино", FilmBox
 #EXTGRP:Кино
 http://130.193.73.10:8937/play/a03s
