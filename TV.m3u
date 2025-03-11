@@ -4543,18 +4543,12 @@ https://cdn.universmotri.ru/live/smil:univer.smil/chunklist_w720990141_b3628000_
 http://dmi3y-tv.ru/hls/zabava/region/CHEL/CH_URAL1HD.m3u8
 
 
-#EXTINF:-1 tvg-name="Agro TV Azerbaijan" tvg-logo="https://i.postimg.cc/Y0kvx1Pj/logo-7sz-XRi4-1.png" group-title="Азербайджан", Agro TV Azerbaijan
-#EXTGRP:Азербайджан
-
 #EXTINF:-1 tvg-name="Alvin Channel" tvg-logo="https://avatars.mds.yandex.net/i?id=80b7c0f5c13f08363427ae62ee47f6de_sr-5233138-images-thumbs&n=13" group-title="Азербайджан", Alvin Channel
 #EXTGRP:Азербайджан
 http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
 #EXTINF:-1 tvg-name="Amedia TV" tvg-logo="https://i.postimg.cc/VvsX6W8m/In-Shot-20250209-201712039.png" group-title="Азербайджан", Amedia TV
 #EXTGRP:Азербайджан
 https://live.yayingold.com.tr/amediatvlive/index.m3u8
-#EXTINF:-1 tvg-name="APA TV" tvg-logo="https://avatars.mds.yandex.net/i?id=1613a4943280a6c78eeb16723a3ba7ad12ff0267-8339189-images-thumbs&n=13" group-title="Азербайджан", APA TV
-#EXTGRP:Азербайджан
-
 #EXTINF:-1 tvg-name="ARB Canli Az" tvg-logo="http://epg.one/img/2635.png" group-title="Азербайджан", ARB Canli Az
 #EXTGRP:Азербайджан
 http://stream.tvcdn.net/azerbaycan/arb.m3u8
@@ -4570,9 +4564,6 @@ https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920.m3u8
 #EXTINF:-1 tvg-name="Ayaz TV" tvg-logo="https://vipotv.com/wp-content/uploads/2024/07/ayaz-tv-izle-vipotv.png" group-title="Азербайджан", Ayaz TV
 #EXTGRP:Азербайджан
 https://janya-ayaztv.vgcdn.net/ptnr-Vipo%20TV/title-Ayaz_TV/v1/vglive-sk-934820/AyazTV_1500k.m3u8
-#EXTINF:-1 tvg-name="Azad Söz Az TV" tvg-logo="https://azadsoz.az/wp-content/uploads/2024/02/logo-azad-soz-1.png" group-title="Азербайджан", Azad Söz Az TV
-#EXTGRP:Азербайджан
-
 #EXTINF:-1 tvg-name="AzStar TV" tvg-logo="https://avatars.mds.yandex.net/i?id=2542ac328fd08d939b3aad4a83874c6695d2c4e3-5185705-images-thumbs&n=13" group-title="Азербайджан", AzStar TV
 #EXTGRP:Азербайджан
 http://live.azstartv.com/azstar/azstar_1080p/playlist.m3u8
@@ -4597,42 +4588,18 @@ http://stream.tvcdn.net/azerbaycan/dunya-tv.m3u8
 #EXTINF:-1 tvg-name="FTV AZ" tvg-logo="https://i.postimg.cc/SKTndbFF/In-Shot-20250209-203240269.png" group-title="Азербайджан", FTV AZ
 #EXTGRP:Азербайджан
 https://vsrv1.az-streamingserver.com:3833/live/ofhwiwudlive.m3u8
-#EXTINF:-1 tvg-name="GünAz TV" tvg-logo="https://avatars.mds.yandex.net/i?id=9fda4980cdb21a15476051c2fc74beae-4275405-images-thumbs&n=13" group-title="Азербайджан", GünAz TV
-#EXTGRP:Азербайджан
-
 #EXTINF:-1 tvg-name="Hadi TV" tvg-logo="https://i.postimg.cc/MKZVbydH/download-1.png" group-title="Азербайджан", Hadi TV
 #EXTGRP:Азербайджан
 https://live.ishiacloud.com/hls/1d6e10dc-7bfc-4abb-9bb3-0dfe80b3d7df_720p.m3u8
-#EXTINF:-1 tvg-name="HBB TV" tvg-logo="https://i.postimg.cc/tJrWVnqP/In-Shot-20250209-201845942.png" group-title="Азербайджан", HBB TV
-#EXTGRP:Азербайджан
-
 #EXTINF:-1 tvg-id="ictimai-tv" tvg-name="Ictimai TV" tvg-logo="http://epg.one/img/2555.png" group-title="Азербайджан", Ictimai TV
 #EXTGRP:Азербайджан
 http://stream.tvcdn.net/azerbaycan/ictimai-tv.m3u8
 #EXTINF:-1 tvg-id="idman" tvg-name="Idman TV" tvg-logo="http://epg.one/img/2637.png" group-title="Азербайджан", Idman TV
 #EXTGRP:Азербайджан
 http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:BB:EE:72&stream=31397&extension=ts
-#EXTINF:-1 tvg-name="Kanal 35" tvg-logo="https://i.postimg.cc/yxnzBXzk/IMG-20230806-211947.png" group-title="Азербайджан", Kanal 35
-#EXTGRP:Азербайджан
-
-#EXTINF:-1 tvg-name="Kanal 65 Ci̇nema" tvg-logo="https://i.postimg.cc/YqmJR6Fd/In-Shot-20250209-191624947.png" group-title="Азербайджан", Kanal 65 Ci̇nema
-#EXTGRP:Азербайджан
-
-#EXTINF:-1 tvg-name="Kanal 65 Comedy" tvg-logo="https://i.postimg.cc/YqmJR6Fd/In-Shot-20250209-191624947.png" group-title="Азербайджан", Kanal 65 Comedy
-#EXTGRP:Азербайджан
-
-#EXTINF:-1 tvg-name="Kanal 65 Paranormal" tvg-logo="https://i.postimg.cc/YqmJR6Fd/In-Shot-20250209-191624947.png" group-title="Азербайджан", Kanal 65 Paranormal
-#EXTGRP:Азербайджан
-
 #EXTINF:-1 tvg-name="Kanal S" tvg-logo="http://epg.one/img/2612.png" group-title="Азербайджан", Kanal S
 #EXTGRP:Азербайджан
 http://stream.tvcdn.net/azerbaycan/start-tv.m3u8
-#EXTINF:-1 tvg-name="Ki̇nobox Planet" tvg-logo="https://i.postimg.cc/MH6wcvHy/IMG-20250209-172959-793.jpg" group-title="Азербайджан", Ki̇nobox Planet
-#EXTGRP:Азербайджан
-
-#EXTINF:-1 tvg-name="Ki̇nobox Retro" tvg-logo="https://i.postimg.cc/Nf0YB9Wt/IMG-20250209-172954-211.jpg" group-title="Азербайджан", Ki̇nobox Retro
-#EXTGRP:Азербайджан
-
 #EXTINF:-1 tvg-name="Könül TV" tvg-logo="https://avatars.mds.yandex.net/get-socsnippets/13206128/2a000001923a9a28a58c320eaed7ae886a7c/square_216" group-title="Азербайджан", Könül TV
 #EXTGRP:Азербайджан
 http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
@@ -4648,9 +4615,6 @@ https://tv208.radyotelekom.com.tr:3513/hybrid/play.m3u8
 #EXTINF:-1 tvg-name="Mega TV Müharibə" tvg-logo="https://i.postimg.cc/XvLGt0wY/IMG-20250209-164211-031.jpg" group-title="Азербайджан", Mega TV Müharibə
 #EXTGRP:Азербайджан
 https://tv208.radyotelekom.com.tr:3335/stream/play.m3u8
-#EXTINF:-1 tvg-name="Mega TV Retro" tvg-logo="https://i.postimg.cc/XvLGt0wY/IMG-20250209-164211-031.jpg" group-title="Азербайджан", Mega TV Retro
-#EXTGRP:Азербайджан
-
 #EXTINF:-1 tvg-name="Mega TV Şaban" tvg-logo="https://i.postimg.cc/XvLGt0wY/IMG-20250209-164211-031.jpg" group-title="Азербайджан", Mega TV Şaban
 #EXTGRP:Азербайджан
 https://a8.radyotelekom.com.tr:3417/stream/play.m3u8
@@ -4663,12 +4627,6 @@ https://str.yodacdn.net/medeniyyet/index.m3u8
 #EXTINF:-1 tvg-name="Musi̇c Azerbaycan" tvg-logo="https://i.postimg.cc/PJbFG4MH/In-Shot-20250209-195400220.png" group-title="Азербайджан", Musi̇c Azerbaycan
 #EXTGRP:Азербайджан
 https://cdn-sinematv.yayin.com.tr/sinematv/sinematv/playlist.m3u8
-#EXTINF:-1 tvg-name="Naxçıvan TV" tvg-logo="https://ntv.az/assets/images/logo.png" group-title="Азербайджан", Naxçıvan TV
-#EXTGRP:Азербайджан
-
-#EXTINF:-1 tvg-name="Qafqaz TV" tvg-logo="https://avatars.mds.yandex.net/i?id=2bb7a353c0578f5c49457f19a21bf9b511ee1044-8276455-images-thumbs&n=13" group-title="Азербайджан", Qafqaz TV
-#EXTGRP:Азербайджан
-
 #EXTINF:-1 tvg-name="QƏBƏLƏ TV" tvg-logo="https://i.postimg.cc/8PxSy5x2/1660890233967.jpg" group-title="Азербайджан", QƏBƏLƏ TV
 #EXTGRP:Азербайджан
 https://qebeletv.ozelip.net:3918/stream/play.m3u8
@@ -4681,9 +4639,6 @@ https://ssh101.bozztv.com/ssh101/showplus/chunks.m3u8
 #EXTINF:-1 tvg-name="Şirvan TV" tvg-logo="https://avatars.mds.yandex.net/i?id=33f48f5d542d242d75ccc765a78b7ade-5434761-images-thumbs&n=13" group-title="Азербайджан", Şirvan TV
 #EXTGRP:Азербайджан
 https://tv208.radyotelekom.com.tr/p/3326/hybrid/play.m3u8
-#EXTINF:-1 tvg-name="Səhiyyə TV" tvg-logo="https://avatars.mds.yandex.net/i?id=01c56e43bb2308c1e46d0f4679f230a1691aecfe-8710005-images-thumbs&n=13" group-title="Азербайджан", Səhiyyə TV
-#EXTGRP:Азербайджан
-
 #EXTINF:-1 tvg-name="Səhənd TV" tvg-logo="https://i.postimg.cc/bwrLL84p/1200px-Sahand-TV-logo-svg.png" group-title="Азербайджан", Səhənd TV
 #EXTGRP:Азербайджан
 https://cdn-azd2055.telewebion.com/ek/sahand/live/576p/index.m3u8
