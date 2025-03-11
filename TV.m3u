@@ -2876,7 +2876,7 @@ https://mhd128.iptv2022.com/p/M_f388LFmSLjTdRmzgRz8Q,1741723212/streaming/nashsp
 
 #EXTINF:-1 tvg-id="match-football1" tvg-name="Матч! Футбол 1 HD" tvg-logo="http://epg.one/img/2044.png" group-title="Спорт", Матч! Футбол 1 HD
 #EXTGRP:Спорт
-http://109.200.130.124:7005/play/a00h
+https://mhd128.iptv2022.com/p/QfesapgUvYZk92V3cwU9Lw,1741723212/streaming/footbal1hd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="match-football2" tvg-name="Матч! Футбол 2" tvg-logo="http://epg.one/img/1042.png" group-title="Спорт", Матч! Футбол 2
 #EXTGRP:Спорт
 
