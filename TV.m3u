@@ -2996,7 +2996,7 @@ http://stream01.vnet.am/Channel_113/mono.m3u8
 http://194.143.148.28:8080/KHL_HD/mpegts
 #EXTINF:-1 tvg-id="kxl-hd" tvg-name="KHL Prime HD (резерв)" tvg-logo="http://epg.one/img/1038.png" group-title="Спорт", KHL Prime HD (резерв)
 #EXTGRP:Спорт
-http://213.226.137.140:81/tl/l67/mpegts
+https://ucdn.beetv.kz/bpk-tv/000000711/tve/index.m3u8
 #EXTINF:-1 tvg-id="mlb-network-us" tvg-name="MLB Network HD CA" tvg-logo="http://epg.one/img/3654.png" group-title="Спорт", MLB Network HD CA
 #EXTGRP:Спорт
 http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
