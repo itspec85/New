@@ -1499,7 +1499,7 @@ http://93.189.224.246:52900/play/a00m/index.m3u8
 http://130.193.73.10:8937/play/a016
 #EXTINF:-1 tvg-id="ryzhy" tvg-name="Рыжий" tvg-logo="http://epg.one/img/2437.png" group-title="Детские", Рыжий
 #EXTGRP:Детские
-https://mhd128.iptv2022.com/p/T4GtwQteFBcTE-7EybHsaA,1741726810/streaming/ginger-surd/324/1/tracks-v5a1/mono.m3u8
+http://ott-cdn.ucom.am/s57/04.m3u8
 #EXTINF:-1 tvg-id="smaylik-tv" tvg-name="Смайл ТВ" tvg-logo="http://epg.one/img/2442.png" group-title="Детские", Смайл ТВ
 #EXTGRP:Детские
 https://5d23269b3ec0c.streamlock.net/WEB_Smilik/Smilik.stream/playlist.m3u8
@@ -2637,7 +2637,7 @@ https://mhd128.iptv2022.com/p/CIUM9pj1eT_JU3r7hxWDEw,1741726814/streaming/nashsp
 
 #EXTINF:-1 tvg-id="match-football1" tvg-name="Матч! Футбол 1 HD" tvg-logo="http://epg.one/img/2044.png" group-title="Спорт", Матч! Футбол 1 HD
 #EXTGRP:Спорт
-https://mhd128.iptv2022.com/p/pwfR2F_dNkIhYfqc7IUrNA,1741726814/streaming/footbal1hd/324/1/tracks-v5a1/mono.m3u8
+http://109.200.130.124:7005/play/a00h
 #EXTINF:-1 tvg-id="match-football2" tvg-name="Матч! Футбол 2" tvg-logo="http://epg.one/img/1042.png" group-title="Спорт", Матч! Футбол 2
 #EXTGRP:Спорт
 
