@@ -1146,7 +1146,7 @@ http://spas.mediacdn.ru/cdn/spas/playlist.m3u8
 http://stream01.vnet.am/Telekafe/mono.m3u8
 #EXTINF:-1 tvg-id="teleputeshestvia" tvg-name="Телепутешествия" tvg-logo="http://epg.one/img/2424.png" group-title="Познавательные", Телепутешествия
 #EXTGRP:Познавательные
-https://mhd128.iptv2022.com/p/gDh-NcZCXeIYS_5idkxcNg,1741726813/streaming/adventure/324/1/tracks-v5a1/mono.m3u8
+http://31.148.48.15/Teleputeshestviya/index.m3u8
 #EXTINF:-1 tvg-id="tochka-otryva" tvg-name="Точка отрыва" tvg-logo="http://epg.one/img/617.png" group-title="Познавательные", Точка отрыва
 #EXTGRP:Познавательные
 http://109.200.130.123:7537/play/a022
