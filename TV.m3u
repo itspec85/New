@@ -735,9 +735,6 @@ https://ucdn.beetv.kz/bpk-tv/000005449/tve/index.m3u8
 #EXTINF:-1 tvg-id="q-kino-alem" tvg-name="QAlem 2HD" tvg-logo="https://iptvx.one/picons/q-kino-alem.png" group-title="Казахстан", QAlem 2HD
 #EXTGRP:Казахстан
 https://ucdn.beetv.kz/bpk-tv/000005450/tve/index.m3u8
-#EXTINF:-1 tvg-id="caspian-news" tvg-name="Caspian News" tvg-logo="https://iptvx.one/picons/caspian-news.png" group-title="Казахстан", Caspian News
-#EXTGRP:Казахстан
-
 #EXTINF:-1 tvg-id="kazakhstan" tvg-name="Qazaqstan" tvg-logo="http://epg.one/img/2569.png" group-title="Казахстан", Qazaqstan
 #EXTGRP:Казахстан
 https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv_720/playlist.m3u8
@@ -792,9 +789,6 @@ https://ucdn.beetv.kz/bpk-tv/000001052/tve/index.m3u8
 #EXTINF:-1 tvg-id="pervy-kanal-eurasia-kz" tvg-name="Первый канал Евразия KZ" tvg-logo="http://epg.one/img/2571.png" group-title="Казахстан", Первый канал Евразия KZ
 #EXTGRP:Казахстан
 https://ucdn.beetv.kz/bpk-tv/000000669/tve/index.m3u8
-#EXTINF:-1 tvg-id="pervy-karagandinsky" tvg-name="Первый Карагандинский" tvg-logo="https://iptvx.one/picons/pervy-karagandinsky.png" group-title="Казахстан", Первый Карагандинский
-#EXTGRP:Казахстан
-
 #EXTINF:-1 tvg-id="rika" tvg-name="Рика ТВ" tvg-logo="https://iptvx.one/picons/rika.png" group-title="Казахстан", Рика ТВ
 #EXTGRP:Казахстан
 https://ucdn.beetv.kz/bpk-tv/000001514/tve/index.m3u8
@@ -813,9 +807,6 @@ https://ikomg-kazakh.akamaized.net/kazakh/kazakh.m3u8
 #EXTINF:-1 tvg-id="show-kz" tvg-name="Show KZ" tvg-logo="https://altel.server-img.lfstrm.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3Nob3dfa3pfMTA0Mjk1LnBuZw==?width=340&height=192&quality=93" group-title="Казахстан", Show KZ
 #EXTGRP:Казахстан
 https://ucdn.beetv.kz/bpk-tv/000008944/tve/index.m3u8
-#EXTINF:-1 tvg-id="taraz24-kz" tvg-name="Тараз 24" tvg-logo="https://iptvx.one/picons/taraz24-kz.png" group-title="Казахстан", Тараз 24
-#EXTGRP:Казахстан
-
 #EXTINF:-1 tvg-name="ТВК 6" tvg-logo="https://avatars.mds.yandex.net/i?id=21b52ae0fa9957f7ad5d535b48b839820ecb86f5-5569020-images-thumbs&n=13" group-title="Казахстан", ТВК 6
 #EXTGRP:Казахстан
 https://ucdn.beetv.kz/bpk-tv/000001516/tve/index.m3u8
@@ -1047,9 +1038,6 @@ http://65.21.85.175:8000/play/a01k/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="oxotnik-i-rybolov" tvg-name="Охотник и рыболов" tvg-logo="http://epg.one/img/1681.png" group-title="Познавательные", Охотник и рыболов
 #EXTGRP:Познавательные
 http://stream01.vnet.am/Channel_124/mono.m3u8
-#EXTINF:-1 tvg-id="pervy-vegetariansky" tvg-name="Первый Вегетарианский" tvg-logo="http://epg.one/img/2292.png" group-title="Познавательные", Первый Вегетарианский
-#EXTGRP:Познавательные
-
 #EXTINF:-1 tvg-id="eureka-hd" tvg-name="Первый космический" tvg-logo="http://epg.one/img/2310.png" group-title="Познавательные", Первый космический
 #EXTGRP:Познавательные
 http://stream01.vnet.am/Evrika/mono.m3u8
@@ -1077,9 +1065,6 @@ http://176.107.219.20:9000/play/a003/index.m3u8
 #EXTINF:-1 tvg-id="prosveschenie" tvg-name="Просвещение" tvg-logo="http://epg.one/img/2296.png" group-title="Познавательные", Просвещение
 #EXTGRP:Познавательные
 http://cdn-01.bonus-tv.ru/prosveschenie_edge/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="psixologia-21" tvg-name="Психология 21" tvg-logo="http://epg.one/img/2450.png" group-title="Познавательные", Психология 21
-#EXTGRP:Познавательные
-
 #EXTINF:-1 tvg-id="radost-moya" tvg-name="Радость моя" tvg-logo="http://epg.one/img/2287.png" group-title="Познавательные", Радость моя
 #EXTGRP:Познавательные
 https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
@@ -1092,9 +1077,6 @@ http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="rodnoy-kanal" tvg-name="Родной канал HD" tvg-logo="http://epg.one/img/7626.png" group-title="Познавательные", Родной канал HD
 #EXTGRP:Познавательные
 https://n1.slavmir.tv/live/slavmir/chunklist.m3u8
-#EXTINF:-1 tvg-name="Роскосмос" tvg-logo="https://avatars.mds.yandex.net/i?id=9be310c72de613af5fae4c6ce90ad84e190e0e7e-12606451-images-thumbs&n=13" group-title="Познавательные", Роскосмос
-#EXTGRP:Познавательные
-
 #EXTINF:-1 tvg-id="rybalka-i-oxota" tvg-name="Рыбалка и охота" tvg-logo="https://iptvx.one/picons/rybalka-i-oxota.png" group-title="Познавательные", Рыбалка и охота
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000002510/tve/index.m3u8
@@ -1140,9 +1122,6 @@ http://31.148.48.15/Teleputeshestviya/index.m3u8
 #EXTINF:-1 tvg-id="tochka-otryva" tvg-name="Точка отрыва" tvg-logo="http://epg.one/img/617.png" group-title="Познавательные", Точка отрыва
 #EXTGRP:Познавательные
 http://109.200.130.123:7537/play/a022
-#EXTINF:-1 tvg-id="tochka-tv" tvg-name="Точка ТВ" tvg-logo="http://epg.one/img/2457.png" group-title="Познавательные", Точка ТВ
-#EXTGRP:Познавательные
-
 #EXTINF:-1 tvg-id="tri-angela" tvg-name="Три ангела" tvg-logo="http://epg.one/img/2469.png" group-title="Познавательные", Три ангела
 #EXTGRP:Познавательные
 http://hls.tv.3angels.ru/stream/HD/HD.m3u8
@@ -1155,30 +1134,9 @@ http://194.158.218.123:8880/Usadba/index.m3u8
 #EXTINF:-1 tvg-id="uspex" tvg-name="Успех" tvg-logo="http://epg.one/img/2455.png" group-title="Познавательные", Успех
 #EXTGRP:Познавательные
 http://188.190.222.53/Uspeh/index.m3u8
-#EXTINF:-1 tvg-name="Царьград ТВ" tvg-logo="https://avatars.mds.yandex.net/i?id=56bd2b7e87256b22cf8a436f893296c28b7417fd-9289427-images-thumbs&n=13" group-title="Познавательные", Царьград ТВ
-#EXTGRP:Познавательные
-
 #EXTINF:-1 tvg-id="centralnoye-tv" tvg-name="Центральное телевидение" tvg-logo="http://epg.one/img/2400.png" group-title="Познавательные", Центральное телевидение
 #EXTGRP:Познавательные
 http://stream01.vnet.am/Channel_129/mono.m3u8
-#EXTINF:-1 tvg-name="Чебур ТВ - ДОКУ Живая Планета" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JNzw1mUEMq0Ut2Gy8yW2RVbgnNtx88vATSd14wmprb2vH0hTWgEJgyTvOusvfqDzjA.png" group-title="Познавательные", Чебур ТВ - ДОКУ Живая Планета
-#EXTGRP:Познавательные
-
-#EXTINF:-1 tvg-name="Чебур ТВ - ДОКУ Планета Динозавров" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JIEu5j2saA6zuJrA1MN9xvZRwIOPoJMk94Nh8jP5oABt.png" group-title="Познавательные", Чебур ТВ - ДОКУ Планета Динозавров
-#EXTGRP:Познавательные
-
-#EXTINF:-1 tvg-name="Чебур ТВ - ДОКУ Science" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JOTKUnmpue1OF90omUZAxzsPvpx-NUEO_U1ywcb8l5J-.png" group-title="Познавательные", Чебур ТВ - ДОКУ Science
-#EXTGRP:Познавательные
-
-#EXTINF:-1 tvg-name="Чебур ТВ - ДОКУ Univerce" tvg-logo="https://i.postimg.cc/9MV5mprx/image-18.png" group-title="Познавательные", Чебур ТВ - ДОКУ Univerce
-#EXTGRP:Познавательные
-
-#EXTINF:-1 tvg-name="Чебур ТВ - Непутёвые Заметки" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JI_Yv5YX9tEgHvE5w4hF-CbD9AIXOEb6HQ7IpefUVZzu.png" group-title="Познавательные", Чебур ТВ - Непутёвые Заметки
-#EXTGRP:Познавательные
-
-#EXTINF:-1 tvg-name="Чебур ТВ - Comedy Mix" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JMIzvXvliwoxSLQ_WsX1b-gGUqCjdBQnYRtGLjPvYtKN.png" group-title="Познавательные", Чебур ТВ - Comedy Mix
-#EXTGRP:Познавательные
-
 #EXTINF:-1 tvg-name="Что? Где? Когда?" tvg-logo="https://avatars.mds.yandex.net/i?id=9ff2b07eabc425c0fdfbb2e0cef9cd22d8bf948a-12569903-images-thumbs&n=13" group-title="Познавательные", Что? Где? Когда?
 #EXTGRP:Познавательные
 #EXTVLCOPT:http-user-agent=goodgame
@@ -1279,9 +1237,6 @@ http://45.159.74.14:80/InvestigationDiscovery/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-name="Jarmarka" tvg-logo="https://i.ytimg.com/an/23MIFU9IMsNtE2K6FfBBCQ/featured_channel.jpg" group-title="Познавательные", Jarmarka
 #EXTGRP:Познавательные
 https://api.alpaca.t62a.com/hls/9104/stream0.m3u8
-#EXTINF:-1 tvg-id="kosmohd" tvg-name="Kosmo" tvg-logo="https://avatars.mds.yandex.net/i?id=4a3b038e961d47a56150e11962ccdc07291eaf2a-12146588-images-thumbs&n=13" group-title="Познавательные", Kosmo
-#EXTGRP:Познавательные
-
 #EXTINF:-1 tvg-name="Kulinar TV" tvg-logo="https://bem-media.de/wp-content/uploads/Kulinar.png" group-title="Познавательные", Kulinar TV
 #EXTGRP:Познавательные
 http://api.alpaca.t62a.com/hls/9110/stream0.m3u8
@@ -1318,12 +1273,6 @@ http://95.67.12.82:9088
 #EXTINF:-1 tvg-id="ostwest24" tvg-name="OstWest24" tvg-logo="https://iptvx.one/picons/ostwest24.png" group-title="Познавательные", OstWest24
 #EXTGRP:Познавательные
 http://95.67.12.82:9077
-#EXTINF:-1 tvg-name="Persik TV Документальное" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Познавательные", Persik TV Документальное
-#EXTGRP:Познавательные
-
-#EXTINF:-1 tvg-name="Persik TV Документальное кино" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Познавательные", Persik TV Документальное кино
-#EXTGRP:Познавательные
-
 #EXTINF:-1 tvg-name="Pro Факт" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00301.png" group-title="Познавательные", Pro Факт
 #EXTGRP:Познавательные
 https://iptv.prosto.tv/id301/video.m3u8
@@ -1401,6 +1350,7 @@ http://live-3.otcnet.ru/wfcrus/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000000260/tve/index.m3u8
 
 
+
 #EXTINF:-1 tvg-id="v-gostiax-u-skazki" tvg-name="В гостях у сказки" tvg-logo="http://epg.one/img/2027.png" group-title="Детские", В гостях у сказки
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000002762/tve/index.m3u8
@@ -1450,12 +1400,6 @@ https://ucdn.beetv.kz/bpk-tv/000000781/tve/index.m3u8
 #EXTINF:-1 tvg-id="kinomult" tvg-name="КиноМульт" tvg-logo="http://epg.one/img/9024.png" group-title="Детские", КиноМульт
 #EXTGRP:Детские
 http://109.200.130.123:7537/play/a024
-#EXTINF:-1 tvg-name="Колобок ТВ - Элвин и бурундуки" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JN24Vvk0YNaGNn9i_Il6ZAwN_5qDr-jtsdzMJk-jhZ7V.png" group-title="Детские", Колобок ТВ - Элвин и бурундуки
-#EXTGRP:Детские
-
-#EXTINF:-1 tvg-name="Колобок ТВ - Cartoons" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JMmMjzegd2q0_GPOij6gjo-Y8aq4WspeTiRqg39aiV49.png" group-title="Детские", Колобок ТВ - Cartoons
-#EXTGRP:Детские
-
 #EXTINF:-1 tvg-id="liova" tvg-name="Лёва HD" tvg-logo="http://epg.one/img/7990.png" group-title="Детские", Лёва HD
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000008003/tve/index.m3u8
@@ -1526,24 +1470,6 @@ https://ucdn.beetv.kz/bpk-tv/000002711/tve/index.m3u8
 #EXTINF:-1 tvg-id="detsky" tvg-name="Уникум" tvg-logo="http://epg.one/img/66.png" group-title="Детские", Уникум
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000000048/tve/index.m3u8
-#EXTINF:-1 tvg-name="Чебур ТВ - Анимешки" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JA3cBcZgX7NIBXdUThRlgN98h_kGq5QAslyPP1AS3Fxs.png" group-title="Детские", Чебур ТВ - Анимешки
-#EXTGRP:Детские
-
-#EXTINF:-1 tvg-name="Чебур ТВ - Карапуз" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4et_Zs6_cxO2pERQlqePtYMY3GdQeoi077O9kTLmXc3p.png" group-title="Детские", Чебур ТВ - Карапуз
-#EXTGRP:Детские
-
-#EXTINF:-1 tvg-name="Чебур ТВ - Мультики" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4Vz2bvuK0yHjvUBEW25iDT0_Tn6n8C2u7fqgCxBC3NaQJpe15hofcon1L0qPFjP0bA.png" group-title="Детские", Чебур ТВ - Мультики
-#EXTGRP:Детские
-
-#EXTINF:-1 tvg-name="Чебур ТВ - МультЭпоха СССР" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4Q5n0ms11hDHFtBaGVO57B71q_0m6_n_p1MoocEk5ZUO.png" group-title="Детские", Чебур ТВ - МультЭпоха СССР
-#EXTGRP:Детские
-
-#EXTINF:-1 tvg-name="Чебур ТВ - Физ-Мульт Привет" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4ROeH9eyhbpkEL_QiEFJaNd3XpsQtrb8ZyWnPS5iJ3A2AbYvjTiBDxYjlk7utHFFiw.png" group-title="Детские", Чебур ТВ - Физ-Мульт Привет
-#EXTGRP:Детские
-
-#EXTINF:-1 tvg-name="Чебур ТВ - MultSeries" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JPV7afPE6A1yy-wqNgwkK9a6M4f8Yjx3OHWh0R4UkgMd.png" group-title="Детские", Чебур ТВ - MultSeries
-#EXTGRP:Детские
-
 #EXTINF:-1 tvg-name="Чип и Дейл" tvg-logo="https://i.postimg.cc/BvqS8HVV/1.png" group-title="Детские", Чип и Дейл
 #EXTGRP:Детские
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
@@ -1589,33 +1515,12 @@ http://stream01.vnet.am/Channel_114/mono.m3u8
 #EXTINF:-1 tvg-id="nicktoons" tvg-name="NickToons" tvg-logo="http://epg.one/img/2994.png" group-title="Детские", NickToons
 #EXTGRP:Детские
 http://stream01.vnet.am/Boomerang/mono.m3u8
-#EXTINF:-1 tvg-name="Persik TV Аниме" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Детские", Persik TV Аниме
-#EXTGRP:Детские
-
-#EXTINF:-1 tvg-name="Persik TV Детские мультики" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Детские", Persik TV Детские мультики
-#EXTGRP:Детские
-
 #EXTINF:-1 tvg-name="Persik TV Детские мультфильмы" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Детские", Persik TV Детские мультфильмы
 #EXTGRP:Детские
 https://fs2.persik.by/DetskieMultfilmy4/index.m3u8
-#EXTINF:-1 tvg-name="Persik TV Детские песни" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Детские", Persik TV Детские песни
-#EXTGRP:Детские
-
-#EXTINF:-1 tvg-name="Persik TV Детские фильмы" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Детские", Persik TV Детские фильмы
-#EXTGRP:Детские
-
-#EXTINF:-1 tvg-name="Persik TV Мультики" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Детские", Persik TV Мультики
-#EXTGRP:Детские
-
-#EXTINF:-1 tvg-name="Persik TV Мультсериал" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Детские", Persik TV Мультсериал
-#EXTGRP:Детские
-
 #EXTINF:-1 tvg-name="Persik TV Мультсериалы" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Детские", Persik TV Мультсериалы
 #EXTGRP:Детские
 https://fs2.persik.by/Multserialy2/index.m3u8
-#EXTINF:-1 tvg-name="Persik TV Сказки" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Детские", Persik TV Сказки
-#EXTGRP:Детские
-
 #EXTINF:-1 tvg-name="Persik TV Сундучок историй" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Детские", Persik TV Сундучок историй
 #EXTGRP:Детские
 https://fs2.persik.by/Sunduchok4/index.m3u8
@@ -1627,8 +1532,6 @@ https://stream.sunset-media.org:443/AfBrazXsUK/J9hGT3vYuv/5.m3u8
 http://stream01.vnet.am/Tiji/mono.m3u8
 
 
-#EXTINF:-1 tvg-id="4k-ruskino" tvg-name="4К Русское кино" tvg-logo="https://iptvx.one/picons/4k-ruskino.png" group-title="Кино", 4К Русское кино
-#EXTGRP:Кино
 
 #EXTINF:-1 tvg-id="blokbaster" tvg-name="Блокбастер" tvg-logo="http://epg.one/img/2832.png" group-title="Кино", Блокбастер
 #EXTGRP:Кино
@@ -1727,9 +1630,6 @@ https://ucdn.beetv.kz/bpk-tv/000004485/tve/index.m3u8
 #EXTINF:-1 tvg-name="Кошмар HD" tvg-logo="https://avatars.mds.yandex.net/i?id=c872d891d61f5db18c83c97bdf2e7df2b83df1a71091be81-12643871-images-thumbs&n=13" group-title="Кино", Кошмар HD
 #EXTGRP:Кино
 http://dmi3y-tv.ru/hls/CH_KOSHMAR.m3u8
-#EXTINF:-1 tvg-id="lavstori" tvg-name="Лавстори" tvg-logo="http://epg.one/img/9001.png" group-title="Кино", Лавстори
-#EXTGRP:Кино
-
 #EXTINF:-1 tvg-id="lubimoe-kino" tvg-name="Любимое кино" tvg-logo="http://epg.one/img/477.png" group-title="Кино", Любимое кино
 #EXTGRP:Кино
 http://130.193.73.10:8937/play/a037
@@ -1771,15 +1671,9 @@ http://cdn.ntv.ru/th_serial/mono.m3u8
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=ntv
 http://cdn.ntv.ru/th_hit/mono.m3u8
-#EXTINF:-1 tvg-id="ostrosiuzhetnoe-hd" tvg-name="Остросюжетное HD" tvg-logo="http://epg.one/img/1588.png" group-title="Кино", Остросюжетное HD
-#EXTGRP:Кино
-
 #EXTINF:-1 tvg-id="pobeda" tvg-name="Победа" tvg-logo="http://epg.one/img/2447.png" group-title="Кино", Победа
 #EXTGRP:Кино
 https://streaming101.goodstream.cyou/live/43-req_offset_28000000-req_window_0-1k_v5.m3u8
-#EXTINF:-1 tvg-id="premialnoe-hd" tvg-name="Премиальное HD" tvg-logo="http://epg.one/img/2732.png" group-title="Кино", Премиальное HD
-#EXTGRP:Кино
-
 #EXTINF:-1 tvg-id="premium-kino-kz" tvg-name="Премиум кино KZ" tvg-logo="https://iptvx.one/picons/premium-kino-kz.png" group-title="Кино", Премиум кино KZ
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000008491/tve/index.m3u8
@@ -1825,9 +1719,6 @@ https://mhd128.iptv2022.com/p/rKgiGWrc4yXk6mAiSe_g0Q,1741809620/streaming/sovet_
 #EXTINF:-1 tvg-id="sovkino" tvg-name="Советское кино" tvg-logo="http://epg.one/img/9399.png" group-title="Кино", Советское кино
 #EXTGRP:Кино
 https://mhd128.iptv2022.com/p/WMF4vzaCEHbpFQRn8G0blQ,1741809607/streaming/sovietmovs/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-id="strashnoe-hd" tvg-name="Страшное HD" tvg-logo="http://epg.one/img/2857.png" group-title="Кино", Страшное HD
-#EXTGRP:Кино
-
 #EXTINF:-1 tvg-id="tvxxi" tvg-name="ТВ 21" tvg-logo="http://epg.one/img/309.png" group-title="Кино", ТВ 21
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000000006/tve/index.m3u8
@@ -1840,9 +1731,6 @@ rtmp://212.0.213.132//Fenix_Kino
 #EXTINF:-1 tvg-id="khit-hd" tvg-name="Хит HD" tvg-logo="http://epg.one/img/2833.png" group-title="Кино", Хит HD
 #EXTGRP:Кино
 https://mhd128.iptv2022.com/p/WFwvQyPIL3Y5G53bm4V8Ig,1741809606/streaming/hit/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-id="shokiruyushchee-hd" tvg-name="Шокирующее HD" tvg-logo="http://epg.one/img/2309.png" group-title="Кино", Шокирующее HD
-#EXTGRP:Кино
-
 #EXTINF:-1 tvg-id="sony-turbo" tvg-name=".black" tvg-logo="http://epg.one/img/935.png" group-title="Кино", .black
 #EXTGRP:Кино
 http://109.200.130.123:7537/play/a02s
@@ -1949,21 +1837,12 @@ https://ucdn.beetv.kz/bpk-tv/000007625/tve/index.m3u8
 #EXTINF:-1 tvg-id="romance" tvg-name="Romance HD" tvg-logo="http://epg.one/img/9179.png" group-title="Кино", Romance HD
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000008780/tve/index.m3u8
-#EXTINF:-1 tvg-id="scream" tvg-name="Scream HD" tvg-logo="http://epg.one/img/9069.png" group-title="Кино", Scream HD
-#EXTGRP:Кино
-
 #EXTINF:-1 tvg-name="Series TV" tvg-logo="https://avatars.mds.yandex.net/i?id=04d6781ecc0a36ff573e7e5a4e52cae96dca66d9-9149104-images-thumbs&n=13" group-title="Кино", Series TV
 #EXTGRP:Кино
 http://195.9.195.3:8080/hls/186021.m3u8
 #EXTINF:-1 tvg-id="shot-tv" tvg-name="SHOT TV" tvg-logo="http://epg.one/img/431.png" group-title="Кино", SHOT TV
 #EXTGRP:Кино
 http://109.200.130.123:7537/play/a02b
-#EXTINF:-1 tvg-id="star-cinema" tvg-name="Star Cinema" tvg-logo="http://epg.one/img/3328.png" group-title="Кино", Star Cinema
-#EXTGRP:Кино
-
-#EXTINF:-1 tvg-id="star-family" tvg-name="Star Family" tvg-logo="http://epg.one/img/9162.png" group-title="Кино", Star Family
-#EXTGRP:Кино
-
 #EXTINF:-1 tvg-id="start-air" tvg-name="START Air" tvg-logo="http://epg.one/img/6241.png" group-title="Кино", START Air
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000007815/tve/index.m3u8
@@ -1985,12 +1864,6 @@ http://194.158.222.36:6086
 #EXTINF:-1 tvg-id="trashtv" tvg-name="Trash HD" tvg-logo="http://epg.one/img/3361.png" group-title="Кино", Trash HD
 #EXTGRP:Кино
 https://mhd128.iptv2022.com/p/yUZdCt9mt-2kgdmx5rqIrQ,1741809607/streaming/trash/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-id="vhs-ka" tvg-name="VHS-ка HD" tvg-logo="http://epg.one/img/9065.png" group-title="Кино", VHS-ка HD
-#EXTGRP:Кино
-
-#EXTINF:-1 tvg-id="vip-comedy-cee" tvg-name="Viasat Kino Comedy HD" tvg-logo="http://epg.one/img/8880.png" group-title="Кино", Viasat Kino Comedy HD
-#EXTGRP:Кино
-
 #EXTINF:-1 tvg-id="tv1000-worldkino" tvg-name="Viasat World Kino" tvg-logo="http://epg.one/img/8883.png" group-title="Кино", Viasat World Kino
 #EXTGRP:Кино
 https://wowza1.leisertv.com/live/tv1000russiakino.stream/playlist.m3u8
@@ -2006,9 +1879,6 @@ https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Novella_HD.smil/playlist.
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino" tvg-name="Viju TV1000 Русское" tvg-logo="http://epg.one/img/267.png" group-title="Кино", Viju TV1000 Русское
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000003748/tve/index.m3u8
-#EXTINF:-1 tvg-id="tv1000-russkoe-kino" tvg-name="Viju TV1000 Русское HD" tvg-logo="http://epg.one/img/267.png" group-title="Кино", Viju TV1000 Русское HD
-#EXTGRP:Кино
-
 #EXTINF:-1 tvg-id="tv1000-action" tvg-name="Viju TV1000 Action" tvg-logo="http://epg.one/img/125.png" group-title="Кино", Viju TV1000 Action
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000003910/tve/index.m3u8
@@ -2032,68 +1902,6 @@ https://ucdn.beetv.kz/bpk-tv/000000868/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000004375/tve/index.m3u8
 
 
-#EXTINF:-1 tvg-name="Колобок ТВ - Боевик" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JEGZsj_xvV6Q5yVjMuyUWDu7i9x4wQRbFpFAaNkslujj.png" group-title="Кинозал ТЕСТ", Колобок ТВ - Боевик
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Колобок ТВ - Видеосалон VHS" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JJebhn9Zpjb-mQ2aSftsvHow0miDfvEfivK6sAWvyMXH.png" group-title="Кинозал ТЕСТ", Колобок ТВ - Видеосалон VHS
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Колобок ТВ - Выжившие" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JHpCpbnkZdEGfdbE5EqxUirOxG83iku6dpYFIZyCJPlk.png" group-title="Кинозал ТЕСТ", Колобок ТВ - Выжившие
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Колобок ТВ - Гусар" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JKQysc8xXedzUXDl6SDRuImXRizT-vXD-iHydc17uzYV.png" group-title="Кинозал ТЕСТ", Колобок ТВ - Гусар
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Колобок ТВ - Друзья" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JKztpjnQRyLiwnp2eAsFYbJw_XwZik5o3u9EAEaRZZd7.png" group-title="Кинозал ТЕСТ", Колобок ТВ - Друзья
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Колобок ТВ - Жуки" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JJL9fsi1h_rHhddlrEhKE5Yk8MkyIwXBg89tFmQ4mWtK.png" group-title="Кинозал ТЕСТ", Колобок ТВ - Жуки
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Колобок ТВ - Звёздные врата" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JNU7kkaGNyDU9d9YO2MZ0M5OpdPMVln1v_B176gDgamI.png" group-title="Кинозал ТЕСТ", Колобок ТВ - Звёздные врата
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Колобок ТВ - Комедия" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JJdyqF6Er3ZcJjbvfyeSH9G6Mr6rtF8JKgMg20JKIg5c.png" group-title="Кинозал ТЕСТ", Колобок ТВ - Комедия
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Колобок ТВ - Однажды под Полтавой" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JLugkeTyery09Xwu0j9Hein-iMD7-mGff0setzPRQCy7.png" group-title="Кинозал ТЕСТ", Колобок ТВ - Однажды под Полтавой
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Колобок ТВ - Полярный" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JOkv7SGD9CElUDOjgT4eq-fe9OrIi_clQq-y_4aP1_ac.png" group-title="Кинозал ТЕСТ", Колобок ТВ - Полярный
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Колобок ТВ - Сверхъестественное" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JKAXTvdbd7sTVZjXRaNdiU2kFXmFmtIOH51--oSgGHdD.png" group-title="Кинозал ТЕСТ", Колобок ТВ - Сверхъестественное
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Колобок ТВ - Секс в большом городе" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JEjR0iwbCL_AXwyah00AlSaMJeDq5fcCRo-HuSxf4eqb.png" group-title="Кинозал ТЕСТ", Колобок ТВ - Секс в большом городе
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Колобок ТВ - СССР Зарубежье" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JGKrhaGoDSiR1O9eShdRiZXo1D9Q7ateFNsi70sIvrbb.png" group-title="Кинозал ТЕСТ", Колобок ТВ - СССР Зарубежье
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Колобок ТВ - Теория большого взрыва" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JK1cQPX_ttAE0AxsikJrjILKzFgshSeTE35VMUhR9swm.png" group-title="Кинозал ТЕСТ", Колобок ТВ - Теория большого взрыва
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Колобок ТВ - Ужасы" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JLzavt88117l-rRLKqNgnGFnBk_TInSnmyTBYznO-x8m.png" group-title="Кинозал ТЕСТ", Колобок ТВ - Ужасы
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Колобок ТВ - Фантастика" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JBusRUvnSHNcD4t33ufXRNaR5FhSj9hW4D_yUaqiMH-J.png" group-title="Кинозал ТЕСТ", Колобок ТВ - Фантастика
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Колобок ТВ - Crime" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JGZG2AueOIj8XldVKdGLn66H5lR_JbNKIU922XMt1Q2R.png" group-title="Кинозал ТЕСТ", Колобок ТВ - Crime
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Колобок ТВ - Detective" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JAS52D-4OIHsTtHLVvJW267-gkuLbOeSIt29Js2DhWwt.png" group-title="Кинозал ТЕСТ", Колобок ТВ - Detective
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Колобок ТВ - Melodrama" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JBOAkYcWJPZHVJbLBMcEtRwZtzPAtlEwr0mxig8AF153.png" group-title="Кинозал ТЕСТ", Колобок ТВ - Melodrama
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Колобок ТВ - New Films" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JJDOiz8vOENRysg5_gHyeacehXSaER2AcC2n67zgHL2-.png" group-title="Кинозал ТЕСТ", Колобок ТВ - New Films
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Колобок ТВ - Thriller" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JC6TcyVsDN0W9g2Fx54CYLZz-YfYF2lBkDxrGHcsMjOr.png" group-title="Кинозал ТЕСТ", Колобок ТВ - Thriller
-#EXTGRP:Кинозал ТЕСТ
 
 #EXTINF:-1 tvg-name="Сити Эдем - КиноДетектив" tvg-logo="https://www.cityeden.info/logotv/logotip_kinodetektiv.png" group-title="Кинозал ТЕСТ", Сити Эдем - КиноДетектив
 #EXTGRP:Кинозал ТЕСТ
@@ -2116,176 +1924,6 @@ https://autopilot.catcast.tv/content/34246/index.m3u8
 #EXTINF:-1 tvg-name="Сити Эдем - ТелеНовелла" tvg-logo="https://www.cityeden.info/logotv/logotip_telenovella.png" group-title="Кинозал ТЕСТ", Сити Эдем - ТелеНовелла
 #EXTGRP:Кинозал ТЕСТ
 https://autopilot.catcast.tv/content/46209/index.m3u8
-#EXTINF:-1 tvg-name="Чебур ТВ - Армагеддон" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4VUg3dWgm_7pa6DXu7J32FAmKuC5HDcPx57tczYKEoRkhJ7hYLrTV-XrsuleiMjM1Q.png" group-title="Кинозал ТЕСТ", Чебур ТВ - Армагеддон
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Чебур ТВ - Балабол" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4e9-fk5mGL1Nwi_ANXaBHtrHHkMdTFnSz2aSZKkoSpf9r1nYSYmeF6EeMrdzrRa0Vg.png" group-title="Кинозал ТЕСТ", Чебур ТВ - Балабол
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Чебур ТВ - Биография" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4fKDsQVLtOrpr-gfXOdn1sRonT8VRvS5p6PVja5ghq1od0OBCoYMFPVRiNykRm63oA.png" group-title="Кинозал ТЕСТ", Чебур ТВ - Биография
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Чебур ТВ - Блокбастер" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4f3M3ygRywHezI0_r8IL71NLmhC6TfexS_ja7tjM0uVn.png" group-title="Кинозал ТЕСТ", Чебур ТВ - Блокбастер
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Чебур ТВ - Боевичок" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JKvxuV_hEPMzL2xD7JPbDK5QdLpyyqI5eIHSFvDnhnXW.png" group-title="Кинозал ТЕСТ", Чебур ТВ - Боевичок
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Чебур ТВ - Вестерн" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4U2U6EOOI-tGEdBASpUmKfpnQtYRMazjihJdGlKD-i4-y8DzP_0l9tERsfMhe81HOg.png" group-title="Кинозал ТЕСТ", Чебур ТВ - Вестерн
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Чебур ТВ - Военный" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4bO2112XGu9RCwjtRVeZKR4vK7UICICcnUcHk1noUNjU550E5lSBHq1rRs8LruevSQ.png" group-title="Кинозал ТЕСТ", Чебур ТВ - Военный
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Чебур ТВ - Детектив" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4WON29ha8vb76FiNlFHGpDsHxzKexgZBOfTTFCqUVYzeFOWIAX0EaIENYzem1NxsDQ.png" group-title="Кинозал ТЕСТ", Чебур ТВ - Детектив
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Чебур ТВ - Драма" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4aQsetxtHNdXVJlNBYTu9-Fs1j9AdEllKt7HBNZsL3VoPXGkpfDulpFrVSrkaQ9XPw.png" group-title="Кинозал ТЕСТ", Чебур ТВ - Драма
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Чебур ТВ - Зита-Гита" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JBYOshdQb_iZ4n87lr5iLyNMhJaMf8524svPFKn2qmup.png" group-title="Кинозал ТЕСТ", Чебур ТВ - Зита-Гита
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Чебур ТВ - История" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4WHE3WbITX-b5jn5ri5qKAOVdCw33L6oWphFGa8vmWCMvJcss88NmCndAOj32jkrbw.png" group-title="Кинозал ТЕСТ", Чебур ТВ - История
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Чебур ТВ - Каменская" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JNk3OtPCYkXBi7nFXK7BlTTPANJIHTXwFTT6ZMk6iwas.png" group-title="Кинозал ТЕСТ", Чебур ТВ - Каменская
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Чебур ТВ - Каратист" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JNar4TnGwuOBbQExCxVp1Pjxe7GmLPLp5ttIPc9SNsyQ.png" group-title="Кинозал ТЕСТ", Чебур ТВ - Каратист
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Чебур ТВ - Кино Панорама MAX" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4QH7s2UlHPhXyTHH-5L7-6j4KZOyysSpj5VGB6zBq9tN.png" group-title="Кинозал ТЕСТ", Чебур ТВ - Кино Панорама MAX
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Чебур ТВ - Космос" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4WLpOb_gNEU8RUXiKqSuoMSZfWFYG82RHgABGoFs0XFDpv2cAKkUEFOB2I9WOO23FQ.png" group-title="Кинозал ТЕСТ", Чебур ТВ - Космос
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Чебур ТВ - Криминал" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4UZb8cLdmb-cts8xVep3LLw_gtkwNZ4CoVaUTrxfssQzD2WNWea0nMln5AxmtYYdgw.png" group-title="Кинозал ТЕСТ", Чебур ТВ - Криминал
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Чебур ТВ - Матрица" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JNMwinpA1jCdlVwsQCy7I7b_YP81yXzqUN0haq8C7P8w.png" group-title="Кинозал ТЕСТ", Чебур ТВ - Матрица
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Чебур ТВ - Мелодрама" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4WRdO86Yvnv3d0Dh6y2AmPTAmK4WpbOq8VV2sBmh29HvKAR73JCOWQgeBYkRKb-njg.png" group-title="Кинозал ТЕСТ", Чебур ТВ - Мелодрама
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Чебур ТВ - Мистика" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4SUbPoa2RkRjHTjPCGGahfLEBJXO4mvcEHGzkvPqSYGN.png" group-title="Кинозал ТЕСТ", Чебур ТВ - Мистика
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Чебур ТВ - Мюзикл" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4Rd7Hx4qygvG9U3KaVPPOcGI6ep91LvMwRmz3IZn_96VrPVIp9GhE4ndXQ195sE7IQ.png" group-title="Кинозал ТЕСТ", Чебур ТВ - Мюзикл
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Чебур ТВ - На Краю Вселенной" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JLOVkeba9fFY9O4F3a1nNLR-kMA0-Xfg1yrc7uQc9weB.png" group-title="Кинозал ТЕСТ", Чебур ТВ - На Краю Вселенной
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Чебур ТВ - Назад в СССР" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4bHalzv9u6ViitXThD7a6JLYfKp1BGWaaz_j63hoOVB9XSuZALIYUAA5DvJg43xaTA.png" group-title="Кинозал ТЕСТ", Чебур ТВ - Назад в СССР
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Чебур ТВ - Наше Детство СССР" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JLRRh6WUgtxKcj7SiM_mwfKJSVs__HNZA5Q39ofPbijq.png" group-title="Кинозал ТЕСТ", Чебур ТВ - Наше Детство СССР
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Чебур ТВ - Новинки" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4RQPbOmuh6yyq-HGFmyhHj9gYjKEWEK1BmjkaOp8ZVy9AJgvDddQmpNrmXIW2B4vHg.png" group-title="Кинозал ТЕСТ", Чебур ТВ - Новинки
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Чебур ТВ - Приключения" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4c8L7MQUE3LPgqB99u8A3z-qdm6Wpn1QTbbIjdZNPjSvd4jynXddP0Mn_eenz7IXVw.png" group-title="Кинозал ТЕСТ", Чебур ТВ - Приключения
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Чебур ТВ - Пришельцы" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4QXQUoaHJrulmFtIl0yHxMQpbpG9roWxAEnrbiG3EVqSmZkHK7xdgfvYVW-3nJa7Ww.png" group-title="Кинозал ТЕСТ", Чебур ТВ - Пришельцы
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Чебур ТВ - Россия 90-00" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JIxKqsJTDRFS0dJpxxGJSVWSCb-MwR2r4-YSvCf3O3f-.png" group-title="Кинозал ТЕСТ", Чебур ТВ - Россия 90-00
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Чебур ТВ - Семейное" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4azYAvI4nkwSLNUFfArso2SzQIB6j9q3-WkJVqEOkv2THAFVIEskWa_rgA7aVlM7Lg.png" group-title="Кинозал ТЕСТ", Чебур ТВ - Семейное
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Чебур ТВ - Смешной" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4eDlFoSSIeglOCjOwaPGiilfNxu0w6oph_Qwf_-tAvfsmnJEmFeSMn_-MZsIUPlGgw.png" group-title="Кинозал ТЕСТ", Чебур ТВ - Смешной
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Чебур ТВ - Спортивный" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4byhnh_PhScSpvFOFUDi7WVEQF0R3T3JoPwnJ01_rZriIGhSSvnbD_27Yi2MOF7Jkw.png" group-title="Кинозал ТЕСТ", Чебур ТВ - Спортивный
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Чебур ТВ - СССР 20-е" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4R4sMPd-BD-0zy6F0HFKAvXZgctw3FoayrNTUDsLl9Hg.png" group-title="Кинозал ТЕСТ", Чебур ТВ - СССР 20-е
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Чебур ТВ - СССР 30-е" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4ZAXUAUsK8-LWxwTzAC5a_8Ws9liYkBM1sVocr9F3ezz.png" group-title="Кинозал ТЕСТ", Чебур ТВ - СССР 30-е
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Чебур ТВ - СССР 40-е" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JNbIVm0lCD5-q99Agw58A_PWD9LGgnsEt6zRbqXYNZgz.png" group-title="Кинозал ТЕСТ", Чебур ТВ - СССР 40-е
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Чебур ТВ - СССР 50-е" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JEYvlN0QWdSt4Pr1ODBXol1ViB7IyWZazmbYu-EqY2hK.png" group-title="Кинозал ТЕСТ", Чебур ТВ - СССР 50-е
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Чебур ТВ - СССР 60-е" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4UajGAM9tJIxpDsgSrc0FhpCwcIIY29Us3FJ9ApHzqRk.png" group-title="Кинозал ТЕСТ", Чебур ТВ - СССР 60-е
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Чебур ТВ - СССР 70-е" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4ZxPzfr1Sai9y4uCwz5oog9R1a5r8PT7Tmu7GOwlF6z6.png" group-title="Кинозал ТЕСТ", Чебур ТВ - СССР 70-е
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Чебур ТВ - СССР 80-е" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4Uev0254ICugl1EnWsFZgW7_ITVUkoDDoSMfvx-DX8gt.png" group-title="Кинозал ТЕСТ", Чебур ТВ - СССР 80-е
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Чебур ТВ - СССР 90-е" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4cbV7TlUoMJvmfPitMsn5ji482FzWAk2wl84g7pJLqKK.png" group-title="Кинозал ТЕСТ", Чебур ТВ - СССР 90-е
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Чебур ТВ - СССР Нетленка" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4eZ5jLOVM49FB9Ah3Bd43nE0HExAnN7vEJv0k-9rgLet.png" group-title="Кинозал ТЕСТ", Чебур ТВ - СССР Нетленка
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Чебур ТВ - СССР Сериал" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JPEPF0zMNQeXQ3ExI8__mERJKeiDf00O7OIZth_ylHV0.png" group-title="Кинозал ТЕСТ", Чебур ТВ - СССР Сериал
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Чебур ТВ - Стрелялки" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4RlsuMRWZNajBlR4HBZBe1ZEpn06Mzpeowi422antEuBSISULq0qGNBeDgPsyGMpGQ.png" group-title="Кинозал ТЕСТ", Чебур ТВ - Стрелялки
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Чебур ТВ - Супергерои" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4cEf8cKs3lwPzvGH0C3Eo2SZilvULOGm4-n7q0YUJQIA9Qw9oZ4k2oMk_fVORTHJDw.png" group-title="Кинозал ТЕСТ", Чебур ТВ - Супергерои
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Чебур ТВ - Триллер" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4beCBQFaIQrq5HB-441dP7MeZra3qzdAeX6_GUgOMWPwZfDKGnH_P8O_MgbuCSxbAA.png" group-title="Кинозал ТЕСТ", Чебур ТВ - Триллер
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Чебур ТВ - Ужастики" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4e5q2NmdlfnC2AZ0kYuFkcwkP87YXJ277AK3VOhIiD-pYfqdiaTwKSyf56l8DVaiAg.png" group-title="Кинозал ТЕСТ", Чебур ТВ - Ужастики
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Чебур ТВ - Фантазия" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4Xq_7pU_0RiO7MmXrIAtsleCTeZkbRKnsWSAp7VB1O1__phZcmrLvueR5BSPVVYEbw.png" group-title="Кинозал ТЕСТ", Чебур ТВ - Фантазия
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Чебур ТВ - Фантастика" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4ZEodpeXoaAYoZR_2HWLAcNd4Bo9l9zPZtQorbjW8P9SYMW6JNhKeQRsSqpNH5DAlQ.png" group-title="Кинозал ТЕСТ", Чебур ТВ - Фантастика
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Чебур ТВ - ХБ" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JF-WC56q1MdaWTTTeZO_gM31snP5Rv3CR5Gbzppj33Aa.png" group-title="Кинозал ТЕСТ", Чебур ТВ - ХБ
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Чебур ТВ - Ходячие мертвецы" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JDXsyIyn3j1xLhLewhZvJq4SkNbgyM4KpDRdo59aWfwa.png" group-title="Кинозал ТЕСТ", Чебур ТВ - Ходячие мертвецы
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Чебур ТВ - Чебурашкин MIX" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4X4KabS69GJdR36GZWLPlZK1wPVPoQ1BBRS1E28XYuVC.png" group-title="Кинозал ТЕСТ", Чебур ТВ - Чебурашкин MIX
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Чебур ТВ - Шеф" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4fqdJSh18TAOwCwgjKwb3fIADVdneiwzw4IXKep-9qB2eIdj8cVlDwyoEHCuyyfB3w.png" group-title="Кинозал ТЕСТ", Чебур ТВ - Шеф
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Чебур ТВ - 4k Films" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4bwozHgFG7pKFUfq_nbz6zPnzFdOhaRdwCLnqRPlooOqNfXkQlVXV9PMXM3_PlLVAQ.png" group-title="Кинозал ТЕСТ", Чебур ТВ - 4k Films
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Чебур ТВ - Action" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4VlecogC3iZWzNq-CBY97HFQqFCKYF62t-TQMD_Nf_sY7nZv7S0v5D6X0Msw-nV7Dg.png" group-title="Кинозал ТЕСТ", Чебур ТВ - Action
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Чебур ТВ - RU Кино" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4Xzg-mQ0cSM5VdhfymXrWbSMgLTLCBGgU53ESG2vy-UOAnrsYd2la0XwLQ4kNiCqrw.png" group-title="Кинозал ТЕСТ", Чебур ТВ - RU Кино
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Чебур ТВ - RU Комедия" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4WlrEF-kqzlimHuCPADhVCIgyOZ6TTNuWBGCucorAWPN.png" group-title="Кинозал ТЕСТ", Чебур ТВ - RU Комедия
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Чебур ТВ - RU Мелодрама" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4TRCejsQd5hAm7IVYOL0PAsIW57hTkZnucgBJOuK3FeQ.png" group-title="Кинозал ТЕСТ", Чебур ТВ - RU Мелодрама
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Чебур ТВ - RU Сериал" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4YC7c0RhLmC1b1nBol_pgb978vsppgE0-fe10eGmaY8jDDDzKVooKg6HSQhv5GQl9Q.png" group-title="Кинозал ТЕСТ", Чебур ТВ - RU Сериал
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Чебур ТВ - Series" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4W1SoEamZbaZe00SwfV6LgguXBilQY7tXjYbkfVK3Efn.png" group-title="Кинозал ТЕСТ", Чебур ТВ - Series
-#EXTGRP:Кинозал ТЕСТ
 #EXTINF:-1 tvg-name="alpha Cinema" tvg-logo="https://avatars.mds.yandex.net/i?id=ccbf053705ab60b7de2d55e3dc58fa5cd9dc3abd-10752752-images-thumbs&n=13" group-title="Кинозал ТЕСТ", alpha Cinema
 #EXTGRP:Кинозал ТЕСТ
 #EXTVLCOPT:http-user-agent=goodgame
@@ -2320,254 +1958,27 @@ http://92.53.64.197:5050/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 tvg-name="IPTVPLAY Promo" tvg-logo="https://i.ibb.co/0ccNSdV/image-16.png" group-title="Кинозал ТЕСТ", IPTVPLAY Promo
 #EXTGRP:Кинозал ТЕСТ
 http://92.53.64.197:5050/IPTVPLAYPROMO.tv/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 tvg-name="Persik TV Александра Бортич" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Александра Бортич
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Persik TV Алексей Панин" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Алексей Панин
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Persik TV Американские комедии" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Американские комедии
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Persik TV Английские субтитры" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Английские субтитры
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Persik TV Андрей Мерзликин" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Андрей Мерзликин
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Persik TV Андрей Миронов" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Андрей Миронов
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Persik TV Анна Чиповская" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Анна Чиповская
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Persik TV Боевики" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Боевики
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Persik TV В кругу семьи" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV В кругу семьи
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Persik TV Вдохновение" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Вдохновение
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Persik TV Владимир Вдовиченков" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Владимир Вдовиченков
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Persik TV Владимир Машков" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Владимир Машков
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Persik TV Владимир Яглыч" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Владимир Яглыч
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Persik TV Вторая мировая" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Вторая мировая
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Persik TV Георгий Вицин" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Георгий Вицин
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Persik TV Гоша Куценко" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Гоша Куценко
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Persik TV Давай поженимся" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Давай поженимся
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Persik TV Данила Козловский" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Данила Козловский
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Persik TV Детектив" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Детектив
-#EXTGRP:Кинозал ТЕСТ
-
 #EXTINF:-1 tvg-name="Persik TV Детективное кино" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Детективное кино
 #EXTGRP:Кинозал ТЕСТ
 https://fs2.persik.by/Detektivnoe_Kino_8/index.m3u8
-#EXTINF:-1 tvg-name="Persik TV Детективные сериалы" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Детективные сериалы
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Persik TV Дружба" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Дружба
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Persik TV Евгений Леонов" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Евгений Леонов
-#EXTGRP:Кинозал ТЕСТ
-
 #EXTINF:-1 tvg-name="Persik TV Европейское кино" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Европейское кино
 #EXTGRP:Кинозал ТЕСТ
 https://fs2.persik.by/EvropejskoeKino15/index.m3u8
 #EXTINF:-1 tvg-name="Persik TV Жан-Клод ван Дамм" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Жан-Клод ван Дамм
 #EXTGRP:Кинозал ТЕСТ
 https://fs2.persik.by/VanDam/index.m3u8
-#EXTINF:-1 tvg-name="Persik TV Зарубежное кино" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Зарубежное кино
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Persik TV Зомби-апокалипсис" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Зомби-апокалипсис
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Persik TV Игорь Петренко" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Игорь Петренко
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Persik TV Известные актёры" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Известные актёры
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Persik TV Кино-антистресс" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Кино-антистресс
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Persik TV Кино выходного дня" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Кино выходного дня
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Persik TV Кино по книгам" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Кино по книгам
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Persik TV Кино про дружбу" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Кино про дружбу
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Persik TV Киномикс" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Киномикс
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Persik TV Комедии" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Комедии
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Persik TV Комедийные боевики" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Комедийные боевики
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Persik TV Комедийные сериалы" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Комедийные сериалы
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Persik TV Комедия" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Комедия
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Persik TV Константин Хабенский" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Константин Хабенский
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Persik TV Криминальные драмы" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Криминальные драмы
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Persik TV Лёгкое кино" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Лёгкое кино
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Persik TV Лучшие драмы" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Лучшие драмы
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Persik TV Лучшие сериалы" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Лучшие сериалы
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Persik TV Любовь" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Любовь
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Persik TV Любовь и детективы" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Любовь и детективы
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Persik TV Максим Матвеев" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Максим Матвеев
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Persik TV Маньяки" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Маньяки
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Persik TV Мини-сериалы" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Мини-сериалы
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Persik TV Мировое кино" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Мировое кино
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Persik TV Михаил Пореченков" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Михаил Пореченков
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Persik TV Молодость" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Молодость
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Persik TV Музыкальные фильмы" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Музыкальные фильмы
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Persik TV Новинки" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Новинки
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Persik TV Новинки кино" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Новинки кино
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Persik TV Новогодние фильмы" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Новогодние фильмы
-#EXTGRP:Кинозал ТЕСТ
-https://fs2.persik.by/Novogodnie_Filmy_9/index.m3u8
-#EXTINF:-1 tvg-name="Persik TV Новое кино" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Новое кино
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Persik TV Остросюжетные сериалы" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Остросюжетные сериалы
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Persik TV Отечественное кино" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Отечественное кино
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Persik TV Павел Деревянко" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Павел Деревянко
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Persik TV Популярное кино" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Популярное кино
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Persik TV Про родителей" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Про родителей
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Persik TV Путешествие во времени" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Путешествие во времени
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Persik TV Рекомендуем" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Рекомендуем
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Persik TV Рождественские фильмы" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Рождественские фильмы
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Persik TV Романтические фильмы" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Романтические фильмы
-#EXTGRP:Кинозал ТЕСТ
-
 #EXTINF:-1 tvg-name="Persik TV Русские комедии" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Русские комедии
 #EXTGRP:Кинозал ТЕСТ
 https://fs2.persik.by/Russkie_Komedii/index.m3u8
-#EXTINF:-1 tvg-name="Persik TV Русское кино" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Русское кино
-#EXTGRP:Кинозал ТЕСТ
-
 #EXTINF:-1 tvg-name="Persik TV Семейное кино" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Семейное кино
 #EXTGRP:Кинозал ТЕСТ
 https://fs2.persik.by/Semejnoe10/index.m3u8
-#EXTINF:-1 tvg-name="Persik TV Семейные фильмы" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Семейные фильмы
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Persik TV Сергей Безруков" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Сергей Безруков
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Persik TV Сергей Пускепалис" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Сергей Пускепалис
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Persik TV Сериалы" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Сериалы
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Persik TV Топ кино" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Топ кино
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Persik TV Триллер" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Триллер
-#EXTGRP:Кинозал ТЕСТ
-
 #EXTINF:-1 tvg-name="Persik TV Триллеры" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Триллеры
 #EXTGRP:Кинозал ТЕСТ
 https://fs2.persik.by/Trillery_2/index.m3u8
-#EXTINF:-1 tvg-name="Persik TV Триллеры и боевики" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Триллеры и боевики
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Persik TV Триллеры и драма" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Триллеры и драма
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Persik TV Триллеры США" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Триллеры США
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Persik TV Фестивальное кино" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Фестивальное кино
-#EXTGRP:Кинозал ТЕСТ
-
 #EXTINF:-1 tvg-name="Persik TV Фильмы ужасов" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Фильмы ужасов
 #EXTGRP:Кинозал ТЕСТ
 https://fs2.persik.by/Filmi_Uzhasov/index.m3u8
-#EXTINF:-1 tvg-name="Persik TV Шпионы и разведчики" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Шпионы и разведчики
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Persik TV Экранизации" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Экранизации
-#EXTGRP:Кинозал ТЕСТ
-
-#EXTINF:-1 tvg-name="Persik TV Horror Movies" tvg-logo="https://avatars.mds.yandex.net/i?id=4792f916985b7cc0569cc7f28274ef8f00e3490a-8567811-images-thumbs&n=13" group-title="Кинозал ТЕСТ", Persik TV Horror Movies
-#EXTGRP:Кинозал ТЕСТ
 
 
 
@@ -2592,15 +2003,9 @@ http://194.143.148.28:8080/MatchArena/mpegts
 #EXTINF:-1 tvg-id="match-boets" tvg-name="Матч! Боец" tvg-logo="http://epg.one/img/2054.png" group-title="Спорт", Матч! Боец
 #EXTGRP:Спорт
 https://mhd128.iptv2022.com/p/cijnaxyoNXrf_stBeYC4zg,1741809611/streaming/boectv/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-id="match-boets" tvg-name="Матч! Боец HD" tvg-logo="http://epg.one/img/2054.png" group-title="Спорт", Матч! Боец HD
-#EXTGRP:Спорт
-
 #EXTINF:-1 tvg-id="match-igra" tvg-name="Матч! Игра" tvg-logo="http://epg.one/img/2050.png" group-title="Спорт", Матч! Игра
 #EXTGRP:Спорт
 http://87.120.142.11:18000/Match!Igra
-#EXTINF:-1 tvg-id="match-igra" tvg-name="Матч! Игра HD" tvg-logo="http://epg.one/img/2050.png" group-title="Спорт", Матч! Игра HD
-#EXTGRP:Спорт
-
 #EXTINF:-1 tvg-id="match-planeta" tvg-name="Матч! Планета" tvg-logo="http://epg.one/img/2043.png" group-title="Спорт", Матч! Планета
 #EXTGRP:Спорт
 https://ucdn.beetv.kz/bpk-tv/000001695/tve/index.m3u8
@@ -2613,12 +2018,6 @@ https://mhd128.iptv2022.com/p/oazSJu2iF8mnP3HJ94GCag,1741809611/streaming/match_
 #EXTINF:-1 tvg-id="match-nash-sport" tvg-name="Матч! Страна" tvg-logo="http://epg.one/img/2042.png" group-title="Спорт", Матч! Страна
 #EXTGRP:Спорт
 https://mhd128.iptv2022.com/p/7QncBEtbAOg3HR4d7fry4Q,1741809611/streaming/nashsport/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-id="match-nash-sport" tvg-name="Матч! Страна HD" tvg-logo="http://epg.one/img/2042.png" group-title="Спорт", Матч! Страна HD
-#EXTGRP:Спорт
-
-#EXTINF:-1 tvg-id="match-football1" tvg-name="Матч! Футбол 1" tvg-logo="http://epg.one/img/2044.png" group-title="Спорт", Матч! Футбол 1
-#EXTGRP:Спорт
-
 #EXTINF:-1 tvg-id="match-football1" tvg-name="Матч! Футбол 1 HD" tvg-logo="http://epg.one/img/2044.png" group-title="Спорт", Матч! Футбол 1 HD
 #EXTGRP:Спорт
 http://109.200.130.124:7005/play/a00h
@@ -2640,9 +2039,6 @@ http://65.21.85.175:8000/play/a00c/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="okko-sport" tvg-name="Окко Спорт HD" tvg-logo="http://epg.one/img/7895.png" group-title="Спорт", Окко Спорт HD
 #EXTGRP:Спорт
 http://89.23.113.132/oksphd/video.m3u8
-#EXTINF:-1 tvg-id="okko-football" tvg-name="Окко Футбол HD" tvg-logo="http://epg.one/img/9325.png" group-title="Спорт", Окко Футбол HD
-#EXTGRP:Спорт
-
 #EXTINF:-1 tvg-id="start" tvg-name="Старт" tvg-logo="http://epg.one/img/2530.png" group-title="Спорт", Старт
 #EXTGRP:Спорт
 http://130.193.73.10:8937/play/a04l
@@ -2784,9 +2180,6 @@ https://ucdn.beetv.kz/bpk-tv/000006969/tve/index.m3u8
 #EXTINF:-1 tvg-id="kazsport" tvg-name="Qazsport KZ" tvg-logo="http://epg.one/img/7509.png" group-title="Спорт", Qazsport KZ
 #EXTGRP:Спорт
 https://ucdn.beetv.kz/bpk-tv/000003038/tve/index.m3u8
-#EXTINF:-1 tvg-id="qsport-kg" tvg-name="QSport Int HD" tvg-logo="http://epg.one/img/5891.png" group-title="Спорт", QSport Int HD
-#EXTGRP:Спорт
-
 #EXTINF:-1 tvg-name="Red Bull TV" tvg-logo="http://epg.one/img/6039.png" group-title="Спорт", Red Bull TV
 #EXTGRP:Спорт
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
@@ -2805,12 +2198,6 @@ https://ucdn.beetv.kz/bpk-tv/000004499/tve/index.m3u8
 #EXTINF:-1 tvg-id="setanta2-ge" tvg-name="Setanta Sports 2 GE" tvg-logo="http://epg.one/img/6805.png" group-title="Спорт", Setanta Sports 2 GE
 #EXTGRP:Спорт
 http://158.101.222.193:88/georgia_play.php?id=setanta_sports_plus_georgia
-#EXTINF:-1 tvg-id="setanta-ua" tvg-name="Setanta Sports Ukraine HD" tvg-logo="http://epg.one/img/2370.png" group-title="Спорт", Setanta Sports Ukraine HD
-#EXTGRP:Спорт
-
-#EXTINF:-1 tvg-id="setanta-plus-ua" tvg-name="Setanta Sports + Ukraine HD" tvg-logo="http://epg.one/img/6860.png" group-title="Спорт", Setanta Sports + Ukraine HD
-#EXTGRP:Спорт
-
 #EXTINF:-1 tvg-name="Sky Sport Tennis DE" tvg-logo="https://avatars.mds.yandex.net/get-entity_search/2269087/501040022/S104x104FitScale_2x" group-title="Спорт", Sky Sport Tennis DE
 #EXTGRP:Спорт
 http://184585.ipturk.eu/ozgurozdemir/19051907ok/230406
@@ -2847,9 +2234,6 @@ http://217.174.225.146/hls/ch004_720/index.m3u8
 #EXTINF:-1 tvg-name="UFC FIGHT PASS" tvg-logo="http://epg.one/img/3552.png" group-title="Спорт", UFC FIGHT PASS
 #EXTGRP:Спорт
 http://globalstreamz.xyz:3050/edwhite43@yahoo.com/bK5HuUT6uk/601454
-#EXTINF:-1 tvg-name="UzSport" tvg-logo="http://epg.one/img/2647.png" group-title="Спорт", UzSport
-#EXTGRP:Спорт
-
 #EXTINF:-1 tvg-id="viasat-sport" tvg-name="Viju+ Sport" tvg-logo="http://epg.one/img/2055.png" group-title="Спорт", Viju+ Sport
 #EXTGRP:Спорт
 http://213.226.137.140:81/tl/l97/mpegts
@@ -2865,6 +2249,7 @@ http://iptv.prosto.tv:7000/ch313/video.m3u8
 #EXTINF:-1 tvg-name="Ziggo Sport Select HD NL" tvg-logo="http://epg.one/img/2944.png" group-title="Спорт", Ziggo Sport Select HD NL
 #EXTGRP:Спорт
 http://77.160.58.67:8004/play/a02d
+
 
 
 #EXTINF:-1 tvg-id="acb-tv" tvg-name="9 волна" tvg-logo="http://epg.one/img/4649.png" group-title="Музыка", 9 волна
@@ -2933,18 +2318,6 @@ http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="tnt-music" tvg-name="ТНТ Music" tvg-logo="http://epg.one/img/680.png" group-title="Музыка", ТНТ Music
 #EXTGRP:Музыка
 http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
-#EXTINF:-1 tvg-name="Чебур ТВ - Ретро 1980" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JM0_53Fn4D02y1Z--LGV4zrRPh16C0AdxfPWSCns-l2nkk1Gy8Q1ZgrwNHosONNpYQ.png" group-title="Музыка", Чебур ТВ - Ретро 1980
-#EXTGRP:Музыка
-
-#EXTINF:-1 tvg-name="Чебур ТВ - Ретро 1990" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JAFvGpNbL52NGRrNO08uVdbRDL_ggBChRMJWBqzyEkH1.png" group-title="Музыка", Чебур ТВ - Ретро 1990
-#EXTGRP:Музыка
-
-#EXTINF:-1 tvg-name="Чебур ТВ - Top Hit Indie" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JFD__m7g1Xe6qeEmVTqtriQjKIco-SalTaFLILeQ9wtP.png" group-title="Музыка", Чебур ТВ - Top Hit Indie
-#EXTGRP:Музыка
-
-#EXTINF:-1 tvg-name="Чебур ТВ - Top Hit Rock" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JN3CoagGNckWyar0Ew01dxrJyDbthNke3DZSr09TlCDu.png" group-title="Музыка", Чебур ТВ - Top Hit Rock
-#EXTGRP:Музыка
-
 #EXTINF:-1 tvg-id="shanson-tv" tvg-name="Шансон TB" tvg-logo="http://epg.one/img/2278.png" group-title="Музыка", Шансон TB
 #EXTGRP:Музыка
 http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
@@ -3224,6 +2597,7 @@ https://dri82941jql2y.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 http://5f22d76e220e1.streamlock.net:1935/zerounotvmusic/zerounotvmusic/chunklist.m3u8
 
 
+
 #EXTINF:-1 tvg-name="Акварум" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00348.jpg" group-title="Релакс", Акварум
 #EXTGRP:Релакс
 http://iptv.prosto.tv:7000/ch325/video.m3u8
@@ -3344,6 +2718,7 @@ http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-name="ZOO Stream" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00314.png" group-title="Релакс", ZOO Stream
 #EXTGRP:Релакс
 http://iptv.prosto.tv:7000/ch319/video.m3u8
+
 
 
 #EXTINF:-1 tvg-id="4kanal-piatnica" tvg-name="4 канал Екатеринбург" tvg-logo="https://iptvx.one/picons/4kanal-piatnica.png" group-title="Региональные РФ", 4 канал Екатеринбург
@@ -4300,6 +3675,7 @@ https://cdn.universmotri.ru/live/smil:univer.smil/chunklist_w720990141_b3628000_
 http://dmi3y-tv.ru/hls/zabava/region/CHEL/CH_URAL1HD.m3u8
 
 
+
 #EXTINF:-1 tvg-name="Alvin Channel" tvg-logo="https://avatars.mds.yandex.net/i?id=80b7c0f5c13f08363427ae62ee47f6de_sr-5233138-images-thumbs&n=13" group-title="Азербайджан", Alvin Channel
 #EXTGRP:Азербайджан
 http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
@@ -4428,6 +3804,7 @@ http://stream.tvcdn.net/azerbaycan/xezer-tv.m3u8
 https://restreamer.livetv.az/memfs/a6cecb21-e17c-4f32-8854-0b72d57211d8.m3u8
 
 
+
 #EXTINF:-1 tvg-name="AABC" tvg-logo="https://avatars.mds.yandex.net/i?id=b525295f7799d9292ae8398efdeb1396b25861c4-9181142-images-thumbs&n=13" group-title="Армения", AABC
 #EXTGRP:Армения
 https://streamer1.connectto.com/AABC_WEB_1201/tracks-v1a1/mono.m3u8
@@ -4455,6 +3832,7 @@ http://5.188.172.179/Shant/index.m3u8
 #EXTINF:-1 tvg-name="USArmenia" tvg-logo="http://epg.one/img/5934.png" group-title="Армения", USArmenia
 #EXTGRP:Армения
 http://livestream.usatv.com/hls/m3u8/USARMENIA_NET1080.m3u8
+
 
 
 #EXTINF:-1 tvg-id="belarus1" tvg-name="Беларусь 1 HD" tvg-logo="http://epg.one/img/2538.png" group-title="Беларусь", Беларусь 1 HD
@@ -4508,6 +3886,7 @@ http://dmi3y-tv.ru/hls/blrus/CH_CTBHD720.m3u8
 #EXTINF:-1 tvg-id="tv3-by" tvg-name="ТВ3 BY" tvg-logo="https://iptvx.one/picons/tv3-by.png" group-title="Беларусь", ТВ3 BY
 #EXTGRP:Беларусь
 http://93.189.224.246:52900/play/a00f/index.m3u8
+
 
 
 #EXTINF:-1 tvg-name="360 TV HD TR" tvg-logo="http://epg.one/img/3964.png" group-title="Турция", 360 TV HD TR
@@ -4680,8 +4059,6 @@ http://filex.tv:8080/Home329/Sohailhome/317238
 https://tv100.blutv.com/blutv_tv100_live/live.m3u8
 
 
-#EXTINF:-1 tvg-name="Aqlvoy TV UZ" tvg-logo="http://epg.one/img/7912.png" group-title="Узбекистан", Aqlvoy TV UZ
-#EXTGRP:Узбекистан
 
 #EXTINF:-1 tvg-name="Biz Cinema UZ" tvg-logo="http://epg.one/img/7913.png" group-title="Узбекистан", Biz Cinema UZ
 #EXTGRP:Узбекистан
@@ -4692,84 +4069,23 @@ https://fl.biztv.media/music_720_QAKpGmVUjaPApCNjpsgBxrdqNihAkl/index.m3u8
 #EXTINF:-1 tvg-name="BizTV HD UZ" tvg-logo="http://epg.one/img/7915.png" group-title="Узбекистан", BizTV HD UZ
 #EXTGRP:Узбекистан
 https://fl.biztv.media/biz_tv_720_uni8jhub4h8fub4idejswh8dh3j94finbu4nidj39inwsj92in3d/index.m3u8
-#EXTINF:-1 tvg-name="Bolajon" tvg-logo="http://epg.one/img/2650.png" group-title="Узбекистан", Bolajon
-#EXTGRP:Узбекистан
-
-#EXTINF:-1 tvg-name="Dasturxon TV UZ" tvg-logo="http://epg.one/img/7917.png" group-title="Узбекистан", Dasturxon TV UZ
-#EXTGRP:Узбекистан
-
-#EXTINF:-1 tvg-name="Dunyo" tvg-logo="http://epg.one/img/2649.png" group-title="Узбекистан", Dunyo
-#EXTGRP:Узбекистан
-
-#EXTINF:-1 tvg-name="FTV UZ" tvg-logo="https://avatars.mds.yandex.net/i?id=9d431caa09e4a083453203404558093876aebdac-10268314-images-thumbs&n=13" group-title="Узбекистан", FTV UZ
-#EXTGRP:Узбекистан
-
 #EXTINF:-1 tvg-name="iTV Cinema UZ" tvg-logo="http://epg.one/img/7920.png" group-title="Узбекистан", iTV Cinema UZ
 #EXTGRP:Узбекистан
 https://s07.watcher.uz/171/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
 #EXTINF:-1 tvg-name="Kinoteatr" tvg-logo="http://epg.one/img/2652.png" group-title="Узбекистан", Kinoteatr
 #EXTGRP:Узбекистан
-
-#EXTINF:-1 tvg-name="LUX.TV" tvg-logo="https://avatars.mds.yandex.net/get-socsnippets/5326024/2a0000018ead2a94a2d7de5c96b46c350471/square_216" group-title="Узбекистан", LUX.TV
-#EXTGRP:Узбекистан
-
-#EXTINF:-1 tvg-name="Madaniyat va Ma’rifat UZ" tvg-logo="http://epg.one/img/2648.png" group-title="Узбекистан", Madaniyat va Ma’rifat UZ
-#EXTGRP:Узбекистан
-
-#EXTINF:-1 tvg-name="Mahalla UZ" tvg-logo="http://epg.one/img/7924.png" group-title="Узбекистан", Mahalla UZ
-#EXTGRP:Узбекистан
-
-#EXTINF:-1 tvg-name="Milliy TV UZ" tvg-logo="http://epg.one/img/7926.png" group-title="Узбекистан", Milliy TV UZ
-#EXTGRP:Узбекистан
-
-#EXTINF:-1 tvg-name="Muz O’zbekiston" tvg-logo="https://avatars.mds.yandex.net/get-socsnippets/13014337/2a0000018e9974cd2fd0e4b000875151853d/square_216" group-title="Узбекистан", Muz O’zbekiston
-#EXTGRP:Узбекистан
-
-#EXTINF:-1 tvg-name="My5 UZ" tvg-logo="http://epg.one/img/7928.png" group-title="Узбекистан", My5 UZ
-#EXTGRP:Узбекистан
-
-#EXTINF:-1 tvg-name="MYDAYTV" tvg-logo="https://avatars.mds.yandex.net/get-socsnippets/5282703/2a00000188b380462e3b57d7505946f9d7a7/square_216" group-title="Узбекистан", MYDAYTV
-#EXTGRP:Узбекистан
-
-#EXTINF:-1 tvg-name="Navo" tvg-logo="http://epg.one/img/2651.png" group-title="Узбекистан", Navo
-#EXTGRP:Узбекистан
-
-#EXTINF:-1 tvg-name="Ozbekiston" tvg-logo="http://epg.one/img/2644.png" group-title="Узбекистан", Ozbekiston
-#EXTGRP:Узбекистан
-
 #EXTINF:-1 tvg-name="Ozbekiston 24 HD UZ" tvg-logo="http://epg.one/img/7931.png" group-title="Узбекистан", Ozbekiston 24 HD UZ
 #EXTGRP:Узбекистан
 https://st1.uzdigital.tv/Uzb24/tracks-v2a1a2/mono.m3u8
-#EXTINF:-1 tvg-name="Ozbekiston Tarixi HD UZ" tvg-logo="http://epg.one/img/7932.png" group-title="Узбекистан", Ozbekiston Tarixi HD UZ
-#EXTGRP:Узбекистан
-
-#EXTINF:-1 tvg-name="Renessans TV UZ" tvg-logo="http://epg.one/img/7933.png" group-title="Узбекистан", Renessans TV UZ
-#EXTGRP:Узбекистан
-
 #EXTINF:-1 tvg-name="Ruxsor TV UZ" tvg-logo="http://epg.one/img/7934.png" group-title="Узбекистан", Ruxsor TV UZ
 #EXTGRP:Узбекистан
 https://s07.watcher.uz/176/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
-#EXTINF:-1 tvg-name="Sevimli" tvg-logo="https://avatars.mds.yandex.net/i?id=a79fc9cf5ba6529b07a2a2d7668397cfe0b3d1b3-12805492-images-thumbs&n=13" group-title="Узбекистан", Sevimli
-#EXTGRP:Узбекистан
-
 #EXTINF:-1 tvg-name="Shifo TV" tvg-logo="https://avatars.mds.yandex.net/i?id=4e620f55f4833e21f250ad7bf4271233d76065f9-13218119-images-thumbs&n=13" group-title="Узбекистан", Shifo TV
 #EXTGRP:Узбекистан
 https://st1.uzdigital.tv/shifo_tv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Toshkent UZ" tvg-logo="http://epg.one/img/7938.png" group-title="Узбекистан", Toshkent UZ
-#EXTGRP:Узбекистан
-
 #EXTINF:-1 tvg-name="TTV Musiqa" tvg-logo="https://cdn.uzd.udevs.io/uzdigital/images/a6bd8e61-84e3-440e-b2d1-d34b3c7a90ab.jpg" group-title="Узбекистан", TTV Musiqa
 #EXTGRP:Узбекистан
 https://st1.uzdigital.tv/TTV_Musiqa/video.m3u8
-#EXTINF:-1 tvg-name="Uzreport TV" tvg-logo="https://avatars.mds.yandex.net/i?id=55fe5b26f209047e57fc0294a1fb19eacd5bc966-10122687-images-thumbs&n=13" group-title="Узбекистан", Uzreport TV
-#EXTGRP:Узбекистан
-
-#EXTINF:-1 tvg-name="Yoshlar" tvg-logo="http://epg.one/img/2645.png" group-title="Узбекистан", Yoshlar
-#EXTGRP:Узбекистан
-
-#EXTINF:-1 tvg-name="Zo’r TV HD UZ" tvg-logo="http://epg.one/img/7937.png" group-title="Узбекистан", Zo’r TV HD UZ
-#EXTGRP:Узбекистан
-
 #EXTINF:-1 tvg-name="Солнечный ТВ" tvg-logo="https://avatars.mds.yandex.net/i?id=cb29a4527c511d0092117554b283ead458fc218a-13200326-images-thumbs&n=13" group-title="Узбекистан", Солнечный ТВ
 #EXTGRP:Узбекистан
 https://fl.biztv.media/stv_720_bizstvvietfujeyrah/tracks-v1a1/mono.m3u8
