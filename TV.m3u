@@ -1126,6 +1126,9 @@ http://hlss.goodgame.ru/hls/192005.m3u8
 #EXTINF:-1 tvg-id="2na2" tvg-name="2x2" tvg-logo="http://epg.one/img/323.png" group-title="Познавательные", 2x2
 #EXTGRP:Познавательные
 http://130.193.73.10:8937/play/a01b
+#EXTINF:-1 tvg-name="555 Hunt Fishing TV" tvg-logo="https://avatars.mds.yandex.net/i?id=635b73799daf216d5519050021039012e1e8254f-10349168-images-thumbs&n=13" group-title="Познавательные", 555 Hunt Fishing TV
+#EXTGRP:Познавательные
+http://193.169.178.29:8081/podsekaiTV/chanelHD1080/playlist.m3u8
 #EXTINF:-1 tvg-name="alpha Funny" tvg-logo="https://avatars.mds.yandex.net/i?id=ccbf053705ab60b7de2d55e3dc58fa5cd9dc3abd-10752752-images-thumbs&n=13" group-title="Познавательные", alpha Funny
 #EXTGRP:Познавательные
 #EXTVLCOPT:http-user-agent=goodgame
