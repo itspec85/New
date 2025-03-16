@@ -2171,6 +2171,15 @@ http://158.101.222.193:88/georgia_play.php?id=setanta_sports_plus_georgia
 #EXTINF:-1 tvg-name="Sky Sport Tennis DE" tvg-logo="https://avatars.mds.yandex.net/get-entity_search/2269087/501040022/S104x104FitScale_2x" group-title="Спорт", Sky Sport Tennis DE
 #EXTGRP:Спорт
 http://184585.ipturk.eu/ozgurozdemir/19051907ok/230406
+#EXTINF:-1 tvg-id="sky-sports-arena" tvg-name="Sky Sports+ HD UK" tvg-logo="http://epg.one/img/4572.png" group-title="Спорт", Sky Sports+ HD UK
+#EXTGRP:Спорт
+https://7pal.short.gy/ssportplus
+#EXTINF:-1 tvg-id="sky-sports-apl" tvg-name="Sky Sports Premiere League UK" tvg-logo="http://epg.one/img/4569.png" group-title="Спорт", Sky Sports Premiere League UK
+#EXTGRP:Спорт
+https://7pal.short.gy/ssportspl
+#EXTINF:-1 tvg-id="sky-sports-tennis" tvg-name="Sky Sports Tennis HD UK" tvg-logo="http://epg.one/img/9400.png" group-title="Спорт", Sky Sports Tennis HD UK
+#EXTGRP:Спорт
+https://7pal.short.gy/ssportstn
 #EXTINF:-1 tvg-id="sport-plus-kz" tvg-name="Sport+ Qazaqstan" tvg-logo="https://avatars.mds.yandex.net/i?id=c14e904d7639f1e1e2e3bf732a13b2cf_sr-4957269-images-thumbs&n=13" group-title="Спорт", Sport+ Qazaqstan
 #EXTGRP:Спорт
 https://stream.qazcdn.net/yq3zvob/1kQsACxNuz/yq3zvob/1kQsACxNuz_1080/chunks.m3u8?ds=yq3zvob&ss=pjXaR1LPLiUoPZFvQbFmDoxYJ97bWEH2UEU1pJ3h
