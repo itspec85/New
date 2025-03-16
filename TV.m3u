@@ -1026,6 +1026,9 @@ http://65.21.85.175:8000/play/a01k/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="oxotnik-i-rybolov" tvg-name="Охотник и рыболов" tvg-logo="http://epg.one/img/1681.png" group-title="Познавательные", Охотник и рыболов
 #EXTGRP:Познавательные
 http://stream01.vnet.am/Channel_124/mono.m3u8
+#EXTINF:-1 tvg-id="oxotnik-i-rybolov-int" tvg-name="Охотник и рыболов Int" tvg-logo="http://epg.one/img/1681.png" group-title="Познавательные", Охотник и рыболов Int
+#EXTGRP:Познавательные
+http://river-1.rutube.ru/stream/genetta-315.m9.rutube.ru/wH5KAjM6PDZWXBGSy74vjw/1742533299/1da5d92af8c55b16241f1eb12a27f00c/1080p_stream.m3u8
 #EXTINF:-1 tvg-id="eureka-hd" tvg-name="Первый космический" tvg-logo="http://epg.one/img/2310.png" group-title="Познавательные", Первый космический
 #EXTGRP:Познавательные
 http://stream01.vnet.am/Evrika/mono.m3u8
