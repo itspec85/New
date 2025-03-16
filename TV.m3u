@@ -915,6 +915,9 @@ https://ucdn.beetv.kz/bpk-tv/000000289/tve/index.m3u8
 #EXTINF:-1 tvg-id="zagorodny" tvg-name="Загородный" tvg-logo="http://epg.one/img/2463.png" group-title="Познавательные", Загородный
 #EXTGRP:Познавательные
 http://stream01.vnet.am/DTX/mono.m3u8
+#EXTINF:-1 tvg-id="zagorodny-int" tvg-name="Загородный int HD" tvg-logo="http://epg.one/img/2513.png" group-title="Познавательные", Загородный int HD
+#EXTGRP:Познавательные
+http://river-1.rutube.ru/stream/genetta-522.ost.rutube.ru/Z8SINvOKlS1MJlXBefrntg/1742548951/406973c72e9d0449feef05ef7811ad01/1080p_stream.m3u8
 #EXTINF:-1 tvg-id="zal-suda" tvg-name="Зал суда HD" tvg-logo="http://epg.one/img/3550.png" group-title="Познавательные", Зал суда HD
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000006638/tve/index.m3u8
@@ -1584,6 +1587,9 @@ https://ucdn.beetv.kz/bpk-tv/000008490/tve/index.m3u8
 #EXTINF:-1 tvg-id="kinokomedia" tvg-name="Кинокомедия" tvg-logo="http://epg.one/img/821.png" group-title="Кино", Кинокомедия
 #EXTGRP:Кино
 http://91.205.199.3/komedia/index.m3u8
+#EXTINF:-1 tvg-name="Кинолента 24" tvg-logo="https://avatars.mds.yandex.net/i?id=4fcb1493c165726d79b4f988b676c7b9602f6b9e-5678013-images-thumbs&n=13" group-title="Кино", Кинолента 24
+#EXTGRP:Кино
+http://river-1.rutube.ru/stream/genetta-503.ost.rutube.ru/QRyMlRaQIn0mNqp4gdT3Xg/1742636080/23c568b69e0eada33560850484223739/1080p_stream.m3u8
 #EXTINF:-1 tvg-id="kinomiks" tvg-name="Киномикс" tvg-logo="http://epg.one/img/644.png" group-title="Кино", Киномикс
 #EXTGRP:Кино
 http://185.50.148.2:7711/Kinomiks/index.m3u8
