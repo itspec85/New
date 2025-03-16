@@ -1107,6 +1107,9 @@ https://5d23269b3ec0c.streamlock.net/WEB_TBN/ngrp:TBN.stream-adaptive/chunklist.
 #EXTINF:-1 tvg-id="tvoetv-humor" tvg-name="ТВОЕ ТВ - ЮМОР" tvg-logo="https://iptvx.one/picons/tvoetv-humor.png" group-title="Познавательные", ТВОЕ ТВ - ЮМОР
 #EXTGRP:Познавательные
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
+#EXTINF:-1 tvg-name="Твой 2007" tvg-logo="https://pic.rutubelist.ru/user/2025-03-10/94/84/94845344bf563808898ee2c8c3d1f99c.jpg?size=s" group-title="Познавательные", Твой 2007
+#EXTGRP:Познавательные
+http://river-1.rutube.ru/stream/genetta-304.m9.rutube.ru/6SsM8Jwhv7N6fnh_IghhJw/1742542843/348ebaac61a382f2028e9a1b06f4f2b6/1080p_stream.m3u8
 #EXTINF:-1 tvg-id="teatr" tvg-name="Театр" tvg-logo="http://epg.one/img/2827.png" group-title="Познавательные", Театр
 #EXTGRP:Познавательные
 http://195.26.83.96:7005/play/16/index.m3u8
@@ -1134,6 +1137,9 @@ http://194.158.218.123:8880/Usadba/index.m3u8
 #EXTINF:-1 tvg-id="uspex" tvg-name="Успех" tvg-logo="http://epg.one/img/2455.png" group-title="Познавательные", Успех
 #EXTGRP:Познавательные
 http://188.190.222.53/Uspeh/index.m3u8
+#EXTINF:-1 tvg-name="Царьград" tvg-logo="https://avatars.mds.yandex.net/i?id=b733b41d5754e71f1bb507bb1ab3fecc10a9b2d1-4419167-images-thumbs&n=13" group-title="Познавательные", Царьград
+#EXTGRP:Познавательные
+http://river-1.rutube.ru/stream/genetta-319.m9.rutube.ru/9Vrcf9hwSMqRfN7cLPw3Yg/1742630645/91815da4edb167b5bd617bae490e57da/1080p_stream.m3u8
 #EXTINF:-1 tvg-id="centralnoye-tv" tvg-name="Центральное телевидение" tvg-logo="http://epg.one/img/2400.png" group-title="Познавательные", Центральное телевидение
 #EXTGRP:Познавательные
 http://stream01.vnet.am/Channel_129/mono.m3u8
@@ -1365,6 +1371,9 @@ https://ucdn.beetv.kz/bpk-tv/000000260/tve/index.m3u8
 #EXTINF:-1 tvg-id="v-gostiax-u-skazki" tvg-name="В гостях у сказки" tvg-logo="http://epg.one/img/2027.png" group-title="Детские", В гостях у сказки
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000002762/tve/index.m3u8
+#EXTINF:-1 tvg-name="Вселенная мультфильмов" tvg-logo="https://pic.rutubelist.ru/user/2025-02-11/9d/2f/9d2f65b352bffcfad715f66b0d693e57.png?size=s" group-title="Детские", Вселенная мультфильмов
+#EXTGRP:Детские
+http://river-1.rutube.ru/stream/genetta-313.m9.rutube.ru/lt_HXMMA2LxM8jXTmSBmog/1742548903/66710e44c6f796f0b754794ca2585229/1080p_stream.m3u8
 #EXTINF:-1 tvg-id="detsky-mir" tvg-name="Детский мир" tvg-logo="http://epg.one/img/923.png" group-title="Детские", Детский мир
 #EXTGRP:Детские
 http://195.26.83.96:7007/play/14/index.m3u8
