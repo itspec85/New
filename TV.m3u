@@ -641,6 +641,9 @@ http://dmi3y-tv.ru/hls/zabava/CH_U.m3u8
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://s18209.cdn.ngenix.net/hls/CH_R03_U/playlist.m3u8?version=2
+#EXTINF:-1 tvg-id="yu" tvg-name="Ю HD" tvg-logo="http://epg.one/img/898.png" group-title="Россия", Ю HD
+#EXTGRP:Россия
+http://river-1.rutube.ru/stream/genetta-317.m9.rutube.ru/Q-TwwWyH2fjZRl_mauYstg/1742548889/5c9327074e25ca86f3111d4085cbbb65/720p_stream.m3u8
 #EXTINF:-1 tvg-id="yu-pl2" tvg-name="Ю +2" tvg-logo="http://epg.one/img/898.png" group-title="Россия", Ю +2
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -908,7 +911,7 @@ http://130.193.73.10:8937/play/a02d
 http://178.212.71.253:8000/play/92/index.m3u8
 #EXTINF:-1 tvg-id="dumatv" tvg-name="Дума ТВ" tvg-logo="https://iptvx.one/picons/dumatv.png" group-title="Познавательные", Дума ТВ
 #EXTGRP:Познавательные
-https://dumatv.iptv2022.com/tracks-v1a1/mono.m3u8
+http://dumatv.iptv2022.com/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="ege-tv" tvg-name="ЕГЭ ТВ" tvg-logo="http://epg.one/img/2420.png" group-title="Познавательные", ЕГЭ ТВ
 #EXTGRP:Познавательные
 http://dmi3y-tv.ru/hls/CH_EGETV.m3u8
@@ -1115,7 +1118,7 @@ http://river-1.rutube.ru/stream/genetta-304.m9.rutube.ru/6SsM8Jwhv7N6fnh_IghhJw/
 http://195.26.83.96:7005/play/16/index.m3u8
 #EXTINF:-1 tvg-id="spas" tvg-name="Телеканал СПАС" tvg-logo="http://epg.one/img/2141.png" group-title="Познавательные", Телеканал СПАС
 #EXTGRP:Познавательные
-http://spas.mediacdn.ru/cdn/spas/playlist.m3u8
+http://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="telekafe" tvg-name="Телекафе" tvg-logo="http://epg.one/img/2304.png" group-title="Познавательные", Телекафе
 #EXTGRP:Познавательные
 http://stream01.vnet.am/Telekafe/mono.m3u8
@@ -1150,6 +1153,9 @@ http://hlss.goodgame.ru/hls/192005.m3u8
 #EXTINF:-1 tvg-id="2na2" tvg-name="2x2" tvg-logo="http://epg.one/img/323.png" group-title="Познавательные", 2x2
 #EXTGRP:Познавательные
 http://130.193.73.10:8937/play/a01b
+#EXTINF:-1 tvg-id="2na2" tvg-name="2x2 HD" tvg-logo="http://epg.one/img/323.png" group-title="Познавательные", 2x2 HD
+#EXTGRP:Познавательные
+http://river-1.rutube.ru/stream/genetta-521.ost.rutube.ru/jHYd94miDTZ2BVWZTC-1Cw/1742548959/392b4686b770bae2da6bf5ac4574add5/1080p_stream.m3u8
 #EXTINF:-1 tvg-name="555 Hunt Fishing TV" tvg-logo="https://avatars.mds.yandex.net/i?id=635b73799daf216d5519050021039012e1e8254f-10349168-images-thumbs&n=13" group-title="Познавательные", 555 Hunt Fishing TV
 #EXTGRP:Познавательные
 http://193.169.178.29:8081/podsekaiTV/chanelHD1080/playlist.m3u8
@@ -2251,6 +2257,9 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_MUZTV-1.m3u8
 #EXTGRP:Музыка
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://dmi3y-tv.ru/hls/DVB-T2/CH_MUZTV.m3u8
+#EXTINF:-1 tvg-id="muztv" tvg-name="Муз-ТВ HD" tvg-logo="http://epg.one/img/897.png" group-title="Музыка", Муз-ТВ HD
+#EXTGRP:Музыка
+http://river-1.rutube.ru/stream/genetta-316.m9.rutube.ru/EkMT44Wicm6cdLWnHZbauw/1742543035/df6fe73494a26f74da51573fd97b9baa/1080p_stream.m3u8
 #EXTINF:-1 tvg-id="muztv-pl2" tvg-name="Муз ТВ +2" tvg-logo="http://epg.one/img/897.png" group-title="Музыка", Муз ТВ +2
 #EXTGRP:Музыка
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
