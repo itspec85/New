@@ -2231,6 +2231,21 @@ https://tgn.bozztv.com/dvrfl05/gin-trtspor/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="TRT Spor Yıldız HD TR" tvg-logo="https://avatars.mds.yandex.net/i?id=77533306975b478f6c6a55552905c4e548954d99-4387356-images-thumbs&n=13" group-title="Спорт", TRT Spor Yıldız HD TR
 #EXTGRP:Спорт
 https://tgn.bozztv.com/dvrfl05/gin-trtspor2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="tsn1-ca" tvg-name="TSN 1 HD CA" tvg-logo="http://epg.one/img/3663.png" group-title="Спорт", TSN 1 HD CA
+#EXTGRP:Спорт
+http://212.102.60.231/TSN_1/index.m3u8
+#EXTINF:-1 tvg-id="tsn2-ca" tvg-name="TSN 2 HD CA" tvg-logo="http://epg.one/img/3635.png" group-title="Спорт", TSN 2 HD CA
+#EXTGRP:Спорт
+http://fl5.moveonjoy.com/TSN_2/index.m3u8
+#EXTINF:-1 tvg-id="tsn3-ca" tvg-name="TSN 3 HD CA" tvg-logo="http://epg.one/img/3664.png" group-title="Спорт", TSN 3 HD CA
+#EXTGRP:Спорт
+http://fl5.moveonjoy.com/TSN_3/index.m3u8
+#EXTINF:-1 tvg-id="tsn4-ca" tvg-name="TSN 4 HD CA" tvg-logo="http://epg.one/img/3588.png" group-title="Спорт", TSN 4 HD CA
+#EXTGRP:Спорт
+http://fl5.moveonjoy.com/TSN_4/index.m3u8
+#EXTINF:-1 tvg-id="tsn5-ca" tvg-name="TSN 5 HD CA" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/07/tsn-5.png" group-title="Спорт", TSN 5 HD CA
+#EXTGRP:Спорт
+http://fl5.moveonjoy.com/TSN_5/index.m3u8
 #EXTINF:-1 tvg-name="Türkmenistan Sport" tvg-logo="https://avatars.mds.yandex.net/i?id=da678a9d544adb3ed0e3fe916af1b74d_l-5288772-images-thumbs&n=13" group-title="Спорт", Türkmenistan Sport
 #EXTGRP:Спорт
 http://217.174.225.146/hls/ch004_720/index.m3u8
