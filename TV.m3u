@@ -2102,6 +2102,9 @@ http://stream01.vnet.am/Channel_131/mono.m3u8
 #EXTINF:-1 tvg-id="fightbox-hd" tvg-name="Fightbox" tvg-logo="http://epg.one/img/3792.png" group-title="Спорт", Fightbox
 #EXTGRP:Спорт
 http://stream01.vnet.am/Fightbox/mono.m3u8
+#EXTINF:-1 tvg-name="FITE 24/7" tvg-logo="https://i.imgur.com/ESV6qgH.png" group-title="Спорт", FITE 24/7
+#EXTGRP:Спорт
+https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8
 #EXTINF:-1 tvg-name="Fox Sports 1 US" tvg-logo="http://epg.one/img/4558.png" group-title="Спорт", Fox Sports 1 US
 #EXTGRP:Спорт
 http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
