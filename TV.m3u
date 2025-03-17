@@ -1248,6 +1248,9 @@ http://fs2.persik.by/HDL/index.m3u8
 #EXTINF:-1 tvg-id="hgtv-pl" tvg-name="HGTV HD" tvg-logo="http://epg.one/img/3599.png" group-title="Познавательные", HGTV HD
 #EXTGRP:Познавательные
 http://178.219.128.68:64889/HGTVHD
+#EXTINF:-1 tvg-name="HHQ" tvg-logo="https://avatars.mds.yandex.net/i?id=7a0a2713e4257dc393e55ded3c1e89de34ca5d21-8411463-images-thumbs&n=13" group-title="Познавательные", HHQ
+#EXTGRP:Познавательные
+https://stream.maxssw.com/hhq/live/chunklist.m3u8
 #EXTINF:-1 tvg-id="history" tvg-name="History" tvg-logo="http://epg.one/img/1394.png" group-title="Познавательные", History
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000001000/tve/index.m3u8
@@ -1970,6 +1973,9 @@ http://93.189.224.246:52900/play/a005/index.m3u8
 #EXTINF:-1 tvg-id="box-tv" tvg-name="Бокс ТВ" tvg-logo="http://epg.one/img/2285.png" group-title="Спорт", Бокс ТВ
 #EXTGRP:Спорт
 http://stream01.vnet.am/BoksTv/mono.m3u8
+#EXTINF:-1 tvg-id="voleybol" tvg-name="Волейбол" tvg-logo="https://epgx.club/picons/voleybol.png" group-title="Спорт", Волейбол
+#EXTGRP:Спорт
+http://river-1.rutube.ru/stream/genetta-316.m9.rutube.ru/2zrmDybZftw2uYi81OoM3g/1742536250/cc1b56aa4955a144f324ad58998513bb/1080p_stream.m3u8
 #EXTINF:-1 tvg-id="konny-mir" tvg-name="Конный Мир" tvg-logo="http://epg.one/img/1679.png" group-title="Спорт", Конный Мир
 #EXTGRP:Спорт
 http://cdn-01.bonus-tv.ru/kmir/mono.m3u8
@@ -2144,9 +2150,9 @@ https://pac12-roku-us.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="PokerGo" tvg-logo="https://avatars.mds.yandex.net/i?id=7822bfec4e4ddfe39ced9e298ca559e312340267-5295169-images-thumbs&n=13" group-title="Спорт", PokerGo
 #EXTGRP:Спорт
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fc54366b04b2300072e31af/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b6274-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a68d07ef-a794-43f8-a287-3bd7f27d909b
-#EXTINF:-1 tvg-id="polsat-sport" tvg-name="Polsat Sport Extra HD PL" tvg-logo="http://epg.one/img/4556.png" group-title="Спорт", Polsat Sport Extra HD PL
+#EXTINF:-1 tvg-id="polsat-sport-fight" tvg-name="Polsat Sport Fight PL" tvg-logo="http://epg.one/img/4557.png" group-title="Спорт", Polsat Sport Fight PL
 #EXTGRP:Спорт
-http://178.219.128.68:64889/POLSSPORHD
+http://109.233.89.170/Polsat_Sport_Fight_HD/index.m3u8
 #EXTINF:-1 tvg-name="Prosto Drive" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00349.png" group-title="Спорт", Prosto Drive
 #EXTGRP:Спорт
 http://iptv.prosto.tv:7000/ch326/video.m3u8
@@ -2258,6 +2264,9 @@ http://109.200.130.123:7537/play/a02v
 #EXTINF:-1 tvg-id="la-minor" tvg-name="Ля-минор ТВ" tvg-logo="http://epg.one/img/2408.png" group-title="Музыка", Ля-минор ТВ
 #EXTGRP:Музыка
 http://93.189.224.24/LaMinor/index.m3u8
+#EXTINF:-1 tvg-id="muzsoyuz" tvg-name="МузСоюз" tvg-logo="http://epg.one/img/2413.png" group-title="Музыка", МузСоюз
+#EXTGRP:Музыка
+http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
 #EXTINF:-1 tvg-id="muztv" tvg-shift="+1" tvg-name="Муз ТВ -1" tvg-logo="http://epg.one/img/897.png" group-title="Музыка", Муз ТВ -1
 #EXTGRP:Музыка
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -2306,6 +2315,9 @@ http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:-1 tvg-id="onemuz" tvg-name="Первый музыкальный RU" tvg-logo="http://epg.one/img/5364.png" group-title="Музыка", Первый музыкальный RU
 #EXTGRP:Музыка
 https://162.212.179.32/dvrfl05/gin-1muscom/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="rezonans" tvg-name="Резонанс ТВ" tvg-logo="https://epgx.club/picons/rezonans.png" group-title="Музыка", Резонанс ТВ
+#EXTGRP:Музыка
+http://river-1.rutube.ru/stream/genetta-318.m9.rutube.ru/ahPUHb0HvF2ndWzo-IVGtw/1742543019/e2d1a304d55b9a807ec5df1837859304/1080p_stream.m3u8
 #EXTINF:-1 tvg-id="radio-strana-fm-tv" tvg-name="Страна FM HD" tvg-logo="http://epg.one/img/5369.png" group-title="Музыка", Страна FM HD
 #EXTGRP:Музыка
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
