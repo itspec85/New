@@ -1323,6 +1323,9 @@ https://ucdn.beetv.kz/bpk-tv/000000039/tve/index.m3u8
 #EXTINF:-1 tvg-id="russky-ekstrim" tvg-name="Russian Extreme HD" tvg-logo="http://epg.one/img/4110.png" group-title="Познавательные", Russian Extreme HD
 #EXTGRP:Познавательные
 http://195.26.83.96:7029/play/a008
+#EXTINF:-1 tvg-id="rutube-tv" tvg-name="RUTUBE TV" tvg-logo="https://avatars.mds.yandex.net/get-entity_search/5734168/565648357/S104x104FitScale_2x" group-title="Познавательные", RUTUBE TV
+#EXTGRP:Познавательные
+http://river-1.rutube.ru/stream/musang-701.brz.rutube.ru/5ZNJ-4AzZZsJDXLnwTxaGg/1742548945/9ae8e8a6dc58bdad66190475f9872ecd/1080p_stream.m3u8
 #EXTINF:-1 tvg-name="Sunset Space" tvg-logo="https://sunset-media.org/assets/img/sunsetspaceicon.png" group-title="Познавательные", Sunset Space
 #EXTGRP:Познавательные
 https://stream.sunset-media.org:443/AfBrazXsUK/J9hGT3vYuv/3.m3u8
@@ -1605,6 +1608,9 @@ http://dmi3y-tv.ru/hls/CH_KINO1_INT.m3u8
 #EXTINF:-1 tvg-id="kino-bez-granic" tvg-name="Кино без границ" tvg-logo="https://avatars.mds.yandex.net/i?id=8a83a73357d19e33255a8ad9f231a03a2d3c94c69274fb84-10115282-images-thumbs&n=13" group-title="Кино", Кино без границ
 #EXTGRP:Кино
 http://185.50.148.2:7703/Detskiy/index.m3u8
+#EXTINF:-1 tvg-name="Кино и Жизнь" tvg-logo="https://pic.rutubelist.ru/user/37/3f/373f70315f6c630eb0661f0c3deba944.jpg?size=s" group-title="Кино", Кино и Жизнь
+#EXTGRP:Кино
+http://river-1.rutube.ru/stream/genetta-316.m9.rutube.ru/lwNXLUbq2VtaTSGMgKrYqw/1742543018/09e51eefa939595a4ac67182c6fb3e4e/1080p_stream.m3u8
 #EXTINF:-1 tvg-id="kino-tv" tvg-name="Кино ТВ" tvg-logo="http://epg.one/img/1037.png" group-title="Кино", Кино ТВ
 #EXTGRP:Кино
 http://dmi3y-tv.ru/hls/CH_KINOTV.m3u8
