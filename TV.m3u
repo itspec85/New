@@ -145,6 +145,9 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_OTR.m3u8
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://s18209.cdn.ngenix.net/hls/CH_R01_OTR/playlist.m3u8?version=2
+#EXTINF:-1 tvg-id="otr" tvg-name="ОТР HD" tvg-logo="http://epg.one/img/1000.png" group-title="Россия", ОТР HD
+#EXTGRP:Россия
+http://river-1.rutube.ru/stream/genetta-316.m9.rutube.ru/xUmC7gcn9xLZ_7fbk2ppbg/1742620565/faa934385b83f9e8a92f5484defae5fa/720p_stream.m3u8
 #EXTINF:-1 tvg-id="otr-pl4" tvg-name="ОТР +4" tvg-logo="http://epg.one/img/3005.png" group-title="Россия", ОТР +4
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
