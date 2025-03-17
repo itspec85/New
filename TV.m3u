@@ -1097,7 +1097,7 @@ http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 #EXTINF:-1 tvg-id="tayna" tvg-name="ТАЙНА" tvg-logo="http://epg.one/img/2426.png" group-title="Познавательные", ТАЙНА
 #EXTGRP:Познавательные
-https://mhd128.iptv2022.com/p/ne5OKUyWSZscyHQzgTEtvg,1742241607/streaming/taina/324/1/tracks-v5a1/mono.m3u8
+http://river-1.rutube.ru/stream/genetta-324.m9.rutube.ru/f23Fpv04pre18oZQatDmsw/1742595723/a11c890a0ec0730ad33bdaaf2d244e1a/576p_stream.m3u8
 #EXTINF:-1 tvg-name="ТАСС" tvg-logo="https://avatars.mds.yandex.net/i?id=e60e5cf5b5f0b2931e57c68bfd435bef596e41d6-5752088-images-thumbs&n=13" group-title="Познавательные", ТАСС
 #EXTGRP:Познавательные
 https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream_480p/playlist.m3u8
