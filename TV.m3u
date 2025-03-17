@@ -2108,6 +2108,9 @@ https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8
 #EXTINF:-1 tvg-name="Fox Sports 1 US" tvg-logo="http://epg.one/img/4558.png" group-title="Спорт", Fox Sports 1 US
 #EXTGRP:Спорт
 http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTINF:-1 tvg-name="Glory Kickboxing" tvg-logo="https://avatars.mds.yandex.net/i?id=abf21721486b2e4657813651412bc1e1a1a854a9-10304277-images-thumbs&n=13" group-title="Спорт", Glory Kickboxing
+#EXTGRP:Спорт
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f178-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=df3ca9c7-d700-4719-be3f-74dd169206f8
 #EXTINF:-1 tvg-id="golf-cnl-us" tvg-name="Golf Channel HD CA" tvg-logo="http://epg.one/img/3624.png" group-title="Спорт", Golf Channel HD CA
 #EXTGRP:Спорт
 https://tvpass.org/live/GolfChannel/hd/
