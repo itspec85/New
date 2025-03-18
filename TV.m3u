@@ -1628,7 +1628,7 @@ http://91.205.199.3/komedia/index.m3u8
 http://river-1.rutube.ru/stream/genetta-503.ost.rutube.ru/QRyMlRaQIn0mNqp4gdT3Xg/1742636080/23c568b69e0eada33560850484223739/1080p_stream.m3u8
 #EXTINF:-1 tvg-id="kinomiks" tvg-name="Киномикс" tvg-logo="http://epg.one/img/644.png" group-title="Кино", Киномикс
 #EXTGRP:Кино
-http://185.50.148.2:7711/Kinomiks/index.m3u8
+https://mhd128.iptv2022.com/p/0SwGl-t35voU4E7mi68mdg,1742328005/streaming/kinomix/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="kinopokaz" tvg-name="Кинопоказ" tvg-logo="http://epg.one/img/2834.png" group-title="Кино", Кинопоказ
 #EXTGRP:Кино
 http://65.21.85.175:8000/play/a02a/index.m3u8?token=livetv
