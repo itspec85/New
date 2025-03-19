@@ -1898,7 +1898,10 @@ https://ucdn.beetv.kz/bpk-tv/000004375/tve/index.m3u8
 
 #EXTINF:-1 tvg-id="belarus5" tvg-name="Беларусь 5 HD" tvg-logo="http://epg.one/img/2541.png" group-title="Спорт", Беларусь 5 HD
 #EXTGRP:Спорт
-http://93.189.224.246:52900/play/a005/index.m3u8
+https://edge50.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="belarus5-inet" tvg-name="Беларусь 5 Интернет" tvg-logo="https://epgx.club/picons/belarus5-inet.png" group-title="Спорт", Беларусь 5 Интернет
+#EXTGRP:Спорт
+https://edge55.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int/chunklist_w601692199_b2660000_sleng.m3u8
 #EXTINF:-1 tvg-id="box-tv" tvg-name="Бокс ТВ" tvg-logo="http://epg.one/img/2285.png" group-title="Спорт", Бокс ТВ
 #EXTGRP:Спорт
 http://stream01.vnet.am/BoksTv/mono.m3u8
@@ -1949,7 +1952,7 @@ https://mhd128.iptv2022.com/p/KhClQo1g0yvB19rB316-PA,1742414411/streaming/footba
 http://65.21.85.175:8000/play/a00c/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="okko-sport" tvg-name="Окко Спорт HD" tvg-logo="http://epg.one/img/7895.png" group-title="Спорт", Окко Спорт HD
 #EXTGRP:Спорт
-http://89.23.113.132/oksphd/video.m3u8
+http://cdn1.starcinemax.fun:2095/chanel_549/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
 #EXTINF:-1 tvg-id="start" tvg-name="Старт" tvg-logo="http://epg.one/img/2530.png" group-title="Спорт", Старт
 #EXTGRP:Спорт
 http://130.193.73.10:8937/play/a04l
