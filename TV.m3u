@@ -8,10 +8,6 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_DOMASHNIY-1.m3u8
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://dmi3y-tv.ru/hls/DVB-T2/CH_DOMASHNIY.m3u8
-#EXTINF:-1 tvg-id="domashny" tvg-name="Домашний (резерв)" tvg-logo="http://epg.one/img/304.png" group-title="Россия", Домашний (резерв)
-#EXTGRP:Россия
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://s18209.cdn.ngenix.net/hls/CH_R04_DOMASHNY/playlist.m3u8?version=2
 #EXTINF:-1 tvg-id="domashny-pl2" tvg-name="Домашний +2" tvg-logo="http://epg.one/img/3010.png" group-title="Россия", Домашний +2
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -39,10 +35,6 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_ZVEZDA-1.m3u8
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://dmi3y-tv.ru/hls/DVB-T2/CH_ZVEZDA.m3u8
-#EXTINF:-1 tvg-id="zvezda" tvg-name="Звезда (резерв)" tvg-logo="http://epg.one/img/405.png" group-title="Россия", Звезда (резерв)
-#EXTGRP:Россия
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://s18209.cdn.ngenix.net/hls/CH_R03_ZVEZDA/playlist.m3u8?version=2
 #EXTINF:-1 tvg-id="zvezda" tvg-name="Звезда HD" tvg-logo="http://epg.one/img/405.png" group-title="Россия", Звезда HD
 #EXTGRP:Россия
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
@@ -110,10 +102,6 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV-1.m3u8
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV.m3u8
-#EXTINF:-1 tvg-id="ntv" tvg-name="НТВ (резерв)" tvg-logo="http://epg.one/img/162.png" group-title="Россия", НТВ (резерв)
-#EXTGRP:Россия
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://s18209.cdn.ngenix.net/hls/CH_R03_NTV/playlist.m3u8?version=2
 #EXTINF:-1 tvg-id="ntv" tvg-name="НТВ HD" tvg-logo="http://epg.one/img/2001.png" group-title="Россия", НТВ HD
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -141,10 +129,6 @@ https://streaming.televizor-24-tochka.ru/live/213.m3u8
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://dmi3y-tv.ru/hls/DVB-T2/CH_OTR.m3u8
-#EXTINF:-1 tvg-id="otr" tvg-name="ОТР (резерв)" tvg-logo="http://epg.one/img/1000.png" group-title="Россия", ОТР (резерв)
-#EXTGRP:Россия
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://s18209.cdn.ngenix.net/hls/CH_R01_OTR/playlist.m3u8?version=2
 #EXTINF:-1 tvg-id="otr" tvg-name="ОТР HD" tvg-logo="http://epg.one/img/1000.png" group-title="Россия", ОТР HD
 #EXTGRP:Россия
 http://river-1.rutube.ru/stream/genetta-316.m9.rutube.ru/xUmC7gcn9xLZ_7fbk2ppbg/1742620565/faa934385b83f9e8a92f5484defae5fa/720p_stream.m3u8
@@ -160,10 +144,6 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV-1.m3u8
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV.m3u8
-#EXTINF:-1 tvg-id="pervy" tvg-name="Первый канал (резерв)" tvg-logo="http://epg.one/img/146.png" group-title="Россия", Первый канал (резерв)
-#EXTGRP:Россия
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://s18209.cdn.ngenix.net/hls/CH_R03_1TV/playlist.m3u8?version=2
 #EXTINF:-1 tvg-id="pervy" tvg-name="Первый канал HD" tvg-logo="http://epg.one/img/983.png" group-title="Россия", Первый канал HD
 #EXTGRP:Россия
 http://river-1.rutube.ru/stream/genetta-318.m9.rutube.ru/9Oiee0OGpJM92MXaXvuAcg/1742548946/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
@@ -199,10 +179,6 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_FRIDAY-1.m3u8
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://dmi3y-tv.ru/hls/DVB-T2/CH_FRIDAY.m3u8
-#EXTINF:-1 tvg-id="piatnica" tvg-name="Пятница! (резерв)" tvg-logo="http://epg.one/img/1003.png" group-title="Россия", Пятница! (резерв)
-#EXTGRP:Россия
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://s18209.cdn.ngenix.net/hls/CH_R01_FRIDAY/playlist.m3u8?version=2
 #EXTINF:-1 tvg-id="piatnica" tvg-name="Пятница! HD" tvg-logo="http://epg.one/img/2765.png" group-title="Россия", Пятница! HD
 #EXTGRP:Россия
 http://river-1.rutube.ru/stream/genetta-524.ost.rutube.ru/_fUMw5h0JplXVAQRSgn2Bg/1742548956/9f87a9a0cecbe773be6fddcbd93585ac/1080p_stream.m3u8
@@ -233,10 +209,6 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV-1.m3u8
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV.m3u8
-#EXTINF:-1 tvg-id="5kanal-ru" tvg-name="Пятый канал (резерв)" tvg-logo="http://epg.one/img/427.png" group-title="Россия", Пятый канал (резерв)
-#EXTGRP:Россия
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://s18209.cdn.ngenix.net/hls/CH_R02_5TV/playlist.m3u8?version=2
 #EXTINF:-1 tvg-id="5kanal-ru-pl2" tvg-name="Пятый канал +2" tvg-logo="http://epg.one/img/2035.png" group-title="Россия", Пятый канал +2
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -270,10 +242,6 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_RENTV-1.m3u8
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RENTV.m3u8
-#EXTINF:-1 tvg-id="rentv" tvg-name="Рен ТВ (резерв)" tvg-logo="http://epg.one/img/18.png" group-title="Россия", Рен ТВ (резерв)
-#EXTGRP:Россия
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://s18209.cdn.ngenix.net/hls/CH_R02_RENTV/playlist.m3u8?version=2
 #EXTINF:-1 tvg-id="rentv-pl2" tvg-name="Рен ТВ +2" tvg-logo="http://epg.one/img/2037.png" group-title="Россия", Рен ТВ +2
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -301,10 +269,6 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1-1.m3u8
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1.m3u8
-#EXTINF:-1 tvg-id="rossia1" tvg-name="Россия 1 (резерв)" tvg-logo="http://epg.one/img/711.png" group-title="Россия", Россия 1 (резерв)
-#EXTGRP:Россия
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8?version=2
 #EXTINF:-1 tvg-id="rossia1" tvg-name="Россия 1 HD" tvg-logo="http://epg.one/img/984.png" group-title="Россия", Россия 1 HD
 #EXTGRP:Россия
 http://stream02.vnet.am/Rossia1/playlist.m3u8
@@ -354,10 +318,6 @@ http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1HD_9.m3u8
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA24.m3u8
-#EXTINF:-1 tvg-id="rossia-24" tvg-name="Россия 24 (резерв)" tvg-logo="http://epg.one/img/1683.png" group-title="Россия", Россия 24 (резерв)
-#EXTGRP:Россия
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://s18209.cdn.ngenix.net/hls/CH_R01_ROSSIA24/playlist.m3u8?version=2
 #EXTINF:-1 tvg-id="kultura" tvg-shift="+1" tvg-name="Россия К -1" tvg-logo="http://epg.one/img/187.png" group-title="Россия", Россия К -1
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -366,10 +326,6 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIAK-1.m3u8
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIAK.m3u8
-#EXTINF:-1 tvg-id="kultura" tvg-name="Россия К (резерв)" tvg-logo="http://epg.one/img/187.png" group-title="Россия", Россия К (резерв)
-#EXTGRP:Россия
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://s18209.cdn.ngenix.net/hls/CH_R02_ROSSIAK/playlist.m3u8?version=2
 #EXTINF:-1 tvg-id="kultura" tvg-name="Россия К" tvg-logo="http://epg.one/img/187.png" group-title="Россия", Россия К HD
 #EXTGRP:Россия
 http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIAKHD.m3u8
@@ -412,10 +368,6 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_STS-1.m3u8
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://dmi3y-tv.ru/hls/DVB-T2/CH_STS.m3u8
-#EXTINF:-1 tvg-id="sts" tvg-name="СТС (резерв)" tvg-logo="http://epg.one/img/79.png" group-title="Россия", СТС (резерв)
-#EXTGRP:Россия
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://s18209.cdn.ngenix.net/hls/CH_R02_STS/playlist.m3u8?version=2
 #EXTINF:-1 tvg-id="sts" tvg-name="СТС HD" tvg-logo="http://epg.one/img/79.png" group-title="Россия", СТС HD
 #EXTGRP:Россия
 http://stream02.vnet.am/CTC/playlist.m3u8
@@ -489,10 +441,6 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3-1.m3u8
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3.m3u8
-#EXTINF:-1 tvg-id="tv3-ru" tvg-name="ТВ3 (резерв)" tvg-logo="http://epg.one/img/698.png" group-title="Россия", ТВ3 (резерв)
-#EXTGRP:Россия
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://s18209.cdn.ngenix.net/hls/CH_R01_TV3/playlist.m3u8?version=2
 #EXTINF:-1 tvg-id="tv3-ru" tvg-name="ТВ3 HD" tvg-logo="http://epg.one/img/698.png" group-title="Россия", ТВ3 HD
 #EXTGRP:Россия
 http://river-1.rutube.ru/stream/musang-705.brz.rutube.ru/zmiRhHuBxcpL0eqvYw1kUA/1742543086/7bf12d9c050f9a7ef3728db5730432ae/1080p_stream.m3u8
@@ -523,10 +471,6 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC-1.m3u8
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC.m3u8
-#EXTINF:-1 tvg-id="tvcentr" tvg-name="ТВЦ (резерв)" tvg-logo="http://epg.one/img/649.png" group-title="Россия", ТВЦ (резерв)
-#EXTGRP:Россия
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://s18209.cdn.ngenix.net/hls/CH_R04_TVC/playlist.m3u8?version=2
 #EXTINF:-1 tvg-id="tvcentr-pl2" tvg-name="ТВЦ +2" tvg-logo="http://epg.one/img/2038.png" group-title="Россия", ТВЦ +2
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -554,10 +498,6 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_TNT-1.m3u8
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TNT.m3u8
-#EXTINF:-1 tvg-id="tnt" tvg-name="ТНТ (резерв)" tvg-logo="http://epg.one/img/353.png" group-title="Россия", ТНТ (резерв)
-#EXTGRP:Россия
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://s18209.cdn.ngenix.net/hls/CH_R01_TNT/playlist.m3u8?version=2
 #EXTINF:-1 tvg-id="tnt" tvg-name="ТНТ HD" tvg-logo="http://epg.one/img/1767.png" group-title="Россия", ТНТ HD
 #EXTGRP:Россия
 http://s3.merlive.am/tnthd/index.m3u8
@@ -612,10 +552,6 @@ http://dmi3y-tv.ru/hls/zabava/CH_CHE-1.m3u8
 #EXTINF:-1 tvg-id="che" tvg-name="Че" tvg-logo="http://epg.one/img/1598.png" group-title="Россия", Че
 #EXTGRP:Россия
 http://178.212.71.253:8002/play/a00s/index.m3u8
-#EXTINF:-1 tvg-id="che" tvg-name="Че (резерв)" tvg-logo="http://epg.one/img/1598.png" group-title="Россия", Че (резерв)
-#EXTGRP:Россия
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://s18209.cdn.ngenix.net/hls/CH_R02_PERETZ/playlist.m3u8?version=2
 #EXTINF:-1 tvg-id="che-pl2" tvg-name="Че +2" tvg-logo="http://epg.one/img/1598.png" group-title="Россия", Че +2
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -640,10 +576,6 @@ http://dmi3y-tv.ru/hls/zabava/CH_U-1.m3u8
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://dmi3y-tv.ru/hls/zabava/CH_U.m3u8
-#EXTINF:-1 tvg-id="yu" tvg-name="Ю (резерв)" tvg-logo="http://epg.one/img/898.png" group-title="Россия", Ю (резерв)
-#EXTGRP:Россия
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://s18209.cdn.ngenix.net/hls/CH_R03_U/playlist.m3u8?version=2
 #EXTINF:-1 tvg-id="yu" tvg-name="Ю HD" tvg-logo="http://epg.one/img/898.png" group-title="Россия", Ю HD
 #EXTGRP:Россия
 http://river-1.rutube.ru/stream/genetta-317.m9.rutube.ru/Q-TwwWyH2fjZRl_mauYstg/1742548889/5c9327074e25ca86f3111d4085cbbb65/720p_stream.m3u8
