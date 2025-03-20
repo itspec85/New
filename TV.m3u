@@ -1385,7 +1385,7 @@ http://stv.mediacdn.ru/live/cdn/multimuzika/playlist_sdhigher.m3u8
 https://hls.goodgame.ru/hls/198446.m3u8
 #EXTINF:-1 tvg-id="multimania" tvg-name="Мультиландия" tvg-logo="http://epg.one/img/2757.png" group-title="Детские", Мультиландия
 #EXTGRP:Детские
-http://93.189.224.246:52900/play/a00m/index.m3u8
+http://91.205.199.3/multilandia/index.m3u8
 #EXTINF:-1 tvg-id="o_" tvg-name="О!" tvg-logo="http://epg.one/img/1757.png" group-title="Детские", О!
 #EXTGRP:Детские
 http://130.193.73.10:8937/play/a016
@@ -1506,7 +1506,7 @@ https://hls.goodgame.ru/manifest/202997_master.m3u8
 https://mhd128.iptv2022.com/p/OgBri8Q8XTJAmakxgEg1nw,1742500806/streaming/den-pobedi/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="domkino" tvg-name="Дом кино" tvg-logo="http://epg.one/img/834.png" group-title="Кино", Дом кино
 #EXTGRP:Кино
-http://93.189.224.246:52900/play/a00z/index.m3u8
+http://178.212.71.253:8000/play/99/index.m3u8
 #EXTINF:-1 tvg-id="domkino-premium" tvg-name="Дом Кино Премиум HD" tvg-logo="http://epg.one/img/2020.png" group-title="Кино", Дом Кино Премиум HD
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000002943/tve/index.m3u8
