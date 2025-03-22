@@ -2376,6 +2376,9 @@ http://178.212.71.253:8002/play/a00n/index.m3u8
 #EXTINF:-1 tvg-name="MIX M TV HD" tvg-logo="http://epg.one/img/4654.png" group-title="Музыка", MIX M TV HD
 #EXTGRP:Музыка
 http://195.9.195.3:8080/hls/181490.m3u8
+#EXTINF:-1 tvg-id="mtv-us" tvg-name="MTV" tvg-logo="http://epg.one/img/1021.png" group-title="Музыка", MTV
+#EXTGRP:Музыка
+http://fl5.moveonjoy.com/MTV/index.m3u8
 #EXTINF:-1 tvg-name="MTV 00s" tvg-logo="http://epg.one/img/491.png" group-title="Музыка", MTV 00s
 #EXTGRP:Музыка
 https://ucdn.beetv.kz/bpk-tv/000000264/tve/index.m3u8
