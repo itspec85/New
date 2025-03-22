@@ -129,9 +129,6 @@ https://streaming.televizor-24-tochka.ru/live/213.m3u8
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://dmi3y-tv.ru/hls/DVB-T2/CH_OTR.m3u8
-#EXTINF:-1 tvg-id="otr" tvg-name="ОТР HD" tvg-logo="http://epg.one/img/1000.png" group-title="Россия", ОТР HD
-#EXTGRP:Россия
-http://river-1.rutube.ru/stream/genetta-316.m9.rutube.ru/xUmC7gcn9xLZ_7fbk2ppbg/1742620565/faa934385b83f9e8a92f5484defae5fa/720p_stream.m3u8
 #EXTINF:-1 tvg-id="otr-pl4" tvg-name="ОТР +4" tvg-logo="http://epg.one/img/3005.png" group-title="Россия", ОТР +4
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -146,7 +143,7 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV-1.m3u8
 http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV.m3u8
 #EXTINF:-1 tvg-id="pervy" tvg-name="Первый канал HD" tvg-logo="http://epg.one/img/983.png" group-title="Россия", Первый канал HD
 #EXTGRP:Россия
-http://river-1.rutube.ru/stream/genetta-318.m9.rutube.ru/9Oiee0OGpJM92MXaXvuAcg/1742548946/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
+http://s3.merlive.am/roos-pervikanalrosia/manifest.m3u8
 #EXTINF:-1 tvg-id="pervy-pl2" tvg-name="Первый канал +2" tvg-logo="http://epg.one/img/2034.png" group-title="Россия", Первый канал +2
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -576,9 +573,6 @@ http://dmi3y-tv.ru/hls/zabava/CH_U-1.m3u8
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://dmi3y-tv.ru/hls/zabava/CH_U.m3u8
-#EXTINF:-1 tvg-id="yu" tvg-name="Ю HD" tvg-logo="http://epg.one/img/898.png" group-title="Россия", Ю HD
-#EXTGRP:Россия
-http://river-1.rutube.ru/stream/genetta-317.m9.rutube.ru/Q-TwwWyH2fjZRl_mauYstg/1742548889/5c9327074e25ca86f3111d4085cbbb65/720p_stream.m3u8
 #EXTINF:-1 tvg-id="yu-pl2" tvg-name="Ю +2" tvg-logo="http://epg.one/img/898.png" group-title="Россия", Ю +2
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
