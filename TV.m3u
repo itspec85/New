@@ -1012,9 +1012,6 @@ http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf
 #EXTINF:-1 tvg-id="soyuz" tvg-name="Союз" tvg-logo="http://epg.one/img/2448.png" group-title="Познавательные", Союз
 #EXTGRP:Познавательные
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
-#EXTINF:-1 tvg-id="tayna" tvg-name="ТАЙНА" tvg-logo="http://epg.one/img/2426.png" group-title="Познавательные", ТАЙНА
-#EXTGRP:Познавательные
-http://river-1.rutube.ru/stream/genetta-324.m9.rutube.ru/f23Fpv04pre18oZQatDmsw/1742595723/a11c890a0ec0730ad33bdaaf2d244e1a/576p_stream.m3u8
 #EXTINF:-1 tvg-name="ТАСС" tvg-logo="https://avatars.mds.yandex.net/i?id=e60e5cf5b5f0b2931e57c68bfd435bef596e41d6-5752088-images-thumbs&n=13" group-title="Познавательные", ТАСС
 #EXTGRP:Познавательные
 https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream_480p/playlist.m3u8
@@ -2194,7 +2191,7 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_MUZTV-1.m3u8
 http://dmi3y-tv.ru/hls/DVB-T2/CH_MUZTV.m3u8
 #EXTINF:-1 tvg-id="muztv" tvg-name="Муз-ТВ HD" tvg-logo="http://epg.one/img/897.png" group-title="Музыка", Муз-ТВ HD
 #EXTGRP:Музыка
-http://river-1.rutube.ru/stream/genetta-316.m9.rutube.ru/EkMT44Wicm6cdLWnHZbauw/1742543035/df6fe73494a26f74da51573fd97b9baa/1080p_stream.m3u8
+http://radio.tvs.by:8088/MuzTV/index.m3u8
 #EXTINF:-1 tvg-id="muztv-pl2" tvg-name="Муз ТВ +2" tvg-logo="http://epg.one/img/897.png" group-title="Музыка", Муз ТВ +2
 #EXTGRP:Музыка
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -2232,9 +2229,6 @@ http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:-1 tvg-id="onemuz" tvg-name="Первый музыкальный RU" tvg-logo="http://epg.one/img/5364.png" group-title="Музыка", Первый музыкальный RU
 #EXTGRP:Музыка
 https://162.212.179.32/dvrfl05/gin-1muscom/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="rezonans" tvg-name="Резонанс ТВ" tvg-logo="https://epgx.club/picons/rezonans.png" group-title="Музыка", Резонанс ТВ
-#EXTGRP:Музыка
-http://river-1.rutube.ru/stream/genetta-318.m9.rutube.ru/ahPUHb0HvF2ndWzo-IVGtw/1742543019/e2d1a304d55b9a807ec5df1837859304/1080p_stream.m3u8
 #EXTINF:-1 tvg-id="radio-strana-fm-tv" tvg-name="Страна FM HD" tvg-logo="http://epg.one/img/5369.png" group-title="Музыка", Страна FM HD
 #EXTGRP:Музыка
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
