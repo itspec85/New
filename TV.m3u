@@ -2028,6 +2028,18 @@ http://194.143.148.28:8080/KHL_HD/mpegts
 #EXTINF:-1 tvg-id="kxl-hd" tvg-name="KHL Prime HD (резерв)" tvg-logo="http://epg.one/img/1038.png" group-title="Спорт", KHL Prime HD (резерв)
 #EXTGRP:Спорт
 https://ucdn.beetv.kz/bpk-tv/000000711/tve/index.m3u8
+#EXTINF:-1 tvg-id="max-sport-1" tvg-name="MAX Sport 1 HD" tvg-logo="https://epgx.club/picons/max-sport-1.png" group-title="Спорт", MAX Sport 1 HD
+#EXTGRP:Спорт
+http://213.91.178.133:8000/play/a0as
+#EXTINF:-1 tvg-id="max-sport-2" tvg-name="MAX Sport 2 HD" tvg-logo="https://epgx.club/picons/max-sport-2.png" group-title="Спорт", MAX Sport 2 HD
+#EXTGRP:Спорт
+http://213.91.178.133:8000/play/a0at
+#EXTINF:-1 tvg-id="max-sport-3" tvg-name="MAX Sport 3 HD" tvg-logo="https://epgx.club/picons/max-sport-3.png" group-title="Спорт", MAX Sport 3 HD
+#EXTGRP:Спорт
+http://213.91.178.133:8000/play/a0ar
+#EXTINF:-1 tvg-id="max-sport-4" tvg-name="MAX Sport 4 HD" tvg-logo="https://epgx.club/picons/max-sport-4.png" group-title="Спорт", MAX Sport 4 HD
+#EXTGRP:Спорт
+http://213.91.178.133:8000/play/a05n
 #EXTINF:-1 tvg-id="mlb-network-us" tvg-name="MLB Network HD CA" tvg-logo="http://epg.one/img/3654.png" group-title="Спорт", MLB Network HD CA
 #EXTGRP:Спорт
 http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
@@ -2046,6 +2058,9 @@ http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
 #EXTINF:-1 tvg-name="NHL Network US" tvg-logo="http://epg.one/img/4562.png" group-title="Спорт", NHL Network US
 #EXTGRP:Спорт
 http://globalstreamz.xyz:3050/edwhite43@yahoo.com/bK5HuUT6uk/509190
+#EXTINF:-1 tvg-id="nova-sport-bg" tvg-name="NOVA Sport BG" tvg-logo="https://epgx.club/picons/nova-sport-bg.png" group-title="Спорт", NOVA Sport BG
+#EXTGRP:Спорт
+http://213.91.178.133:8000/play/a04a
 #EXTINF:-1 tvg-name="Pac 12 Insider USA" tvg-logo="https://i.imgur.com/736QREy.png" group-title="Спорт", Pac 12 Insider USA
 #EXTGRP:Спорт
 https://pac12-roku-us.amagi.tv/playlist.m3u8
