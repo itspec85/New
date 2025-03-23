@@ -1593,6 +1593,9 @@ http://cdn.ntv.ru/th_serial/mono.m3u8
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=ntv
 http://cdn.ntv.ru/th_hit/mono.m3u8
+#EXTINF:-1 tvg-id="ostrosiuzhetnoe-hd" tvg-name="Остросюжетное HD" tvg-logo="http://epg.one/img/1588.png" group-title="Кино", Остросюжетное HD
+#EXTGRP:Кино
+http://193.35.224.154/8184/index.m3u8?token=panda
 #EXTINF:-1 tvg-id="pobeda" tvg-name="Победа" tvg-logo="http://epg.one/img/2447.png" group-title="Кино", Победа
 #EXTGRP:Кино
 https://streaming101.goodstream.cyou/live/43-req_offset_28000000-req_window_0-1k_v5.m3u8
@@ -1880,7 +1883,7 @@ http://s3.merlive.am/matchtvhd/index.m3u8
 http://194.143.148.28:8080/MatchArena/mpegts
 #EXTINF:-1 tvg-id="match-boets" tvg-name="Матч! Боец" tvg-logo="http://epg.one/img/2054.png" group-title="Спорт", Матч! Боец
 #EXTGRP:Спорт
-https://mhd128.iptv2022.com/p/JRE5TjKHVtq188A7x1I5ig,1742673611/streaming/boectv/324/1/tracks-v5a1/mono.m3u8
+http://193.35.224.154/8027/index.m3u8?token=panda
 #EXTINF:-1 tvg-id="match-igra" tvg-name="Матч! Игра" tvg-logo="http://epg.one/img/2050.png" group-title="Спорт", Матч! Игра
 #EXTGRP:Спорт
 http://87.120.142.11:18000/Match!Igra
@@ -1889,13 +1892,13 @@ http://87.120.142.11:18000/Match!Igra
 https://ucdn.beetv.kz/bpk-tv/000001695/tve/index.m3u8
 #EXTINF:-1 tvg-id="match-premier" tvg-name="Матч! Премьер" tvg-logo="http://epg.one/img/2250.png" group-title="Спорт", Матч! Премьер
 #EXTGRP:Спорт
-https://mhd128.iptv2022.com/p/pwEfMadIkSW1-EvwNCDy9Q,1742673611/streaming/match_premyer/324/1/tracks-v5a1/mono.m3u8
+http://193.35.224.154/8023/index.m3u8?token=panda
 #EXTINF:-1 tvg-id="match-premier" tvg-name="Матч! Премьер HD" tvg-logo="http://epg.one/img/2250.png" group-title="Спорт", Матч! Премьер HD
 #EXTGRP:Спорт
 https://mhd128.iptv2022.com/p/c6Od5VV5rfMCQysuO0Ly_A,1742673611/streaming/match_premyerhd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="match-nash-sport" tvg-name="Матч! Страна" tvg-logo="http://epg.one/img/2042.png" group-title="Спорт", Матч! Страна
 #EXTGRP:Спорт
-https://mhd128.iptv2022.com/p/6InapzVS1FhA_oxmCYvNJw,1742673611/streaming/nashsport/324/1/tracks-v5a1/mono.m3u8
+http://193.35.224.154/8019/index.m3u8?token=panda
 #EXTINF:-1 tvg-id="match-football1" tvg-name="Матч! Футбол 1 HD" tvg-logo="http://epg.one/img/2044.png" group-title="Спорт", Матч! Футбол 1 HD
 #EXTGRP:Спорт
 https://mhd128.iptv2022.com/p/kGJYb3ENxk3jLOjpLvgMBg,1742673611/streaming/footbal1hd/324/1/tracks-v5a1/mono.m3u8
@@ -1919,7 +1922,7 @@ http://130.193.73.10:8937/play/a04l
 https://ucdn.beetv.kz/bpk-tv/000007802/tve/index.m3u8
 #EXTINF:-1 tvg-id="football-ru" tvg-name="Футбол" tvg-logo="http://epg.one/img/2782.png" group-title="Спорт", Футбол
 #EXTGRP:Спорт
-https://mhd128.iptv2022.com/p/9sN-cSCoAlkxJPMqacfv4w,1742673620/streaming/footbal/324/1/tracks-v5a1/mono.m3u8
+http://193.35.224.154/8147/index.m3u8?token=panda
 #EXTINF:-1 tvg-id="a-spor-tr" tvg-name="A Spor HD TR" tvg-logo="http://epg.one/img/2587.png" group-title="Спорт", A Spor HD TR
 #EXTGRP:Спорт
 https://trkvz-live.daioncdn.net/aspor/aspor.m3u8
@@ -2294,7 +2297,7 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
 #EXTINF:-1 tvg-id="europa-plus-tv" tvg-name="Europa Plus TV" tvg-logo="http://epg.one/img/681.png" group-title="Музыка", Europa Plus TV
 #EXTGRP:Музыка
-https://mhd128.iptv2022.com/p/tkG0ABndGFoSbamraOtcIw,1742673612/streaming/evropaplus/324/1/index.m3u8
+http://193.35.224.154/8033/index.m3u8?token=panda
 #EXTINF:-1 tvg-name="Fresh TV Armenia" tvg-logo="http://epg.it999.ru/img/5606.png" group-title="Музыка", Fresh TV Armenia
 #EXTGRP:Музыка
 https://freshtv-live.ru/FreshTV/tracks-v1a1/mono.m3u8?token=livestream
