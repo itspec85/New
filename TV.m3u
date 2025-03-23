@@ -1355,7 +1355,7 @@ http://91.205.199.3/multilandia/index.m3u8
 http://130.193.73.10:8937/play/a016
 #EXTINF:-1 tvg-id="ryzhy" tvg-name="Рыжий" tvg-logo="http://epg.one/img/2437.png" group-title="Детские", Рыжий
 #EXTGRP:Детские
-https://mhd128.iptv2022.com/p/stkmXxUAc7lMvQqucM6eqw,1742673608/streaming/ginger-surd/324/1/tracks-v5a1/mono.m3u8
+http://ott-cdn.ucom.am/s57/04.m3u8
 #EXTINF:-1 tvg-id="smaylik-tv" tvg-name="Смайл ТВ" tvg-logo="http://epg.one/img/2442.png" group-title="Детские", Смайл ТВ
 #EXTGRP:Детские
 https://5d23269b3ec0c.streamlock.net/WEB_Smilik/Smilik.stream/playlist.m3u8
