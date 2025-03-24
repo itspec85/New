@@ -222,9 +222,6 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV_6.m3u8
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV_7.m3u8
-#EXTINF:-1 tvg-id="piaty-int" tvg-name="Пятый канал International" tvg-logo="https://iptvx.one/picons/piaty-int.png" group-title="Россия", Пятый канал International
-#EXTGRP:Россия
-https://ucdn.beetv.kz/bpk-tv/000003718/tve/index.m3u8
 #EXTINF:-1 tvg-id="rbk" tvg-name="РБК" tvg-logo="http://epg.one/img/743.png" group-title="Россия", РБК
 #EXTGRP:Россия
 http://online.video.rbc.ru/online/rbctv_720p/index.m3u8
