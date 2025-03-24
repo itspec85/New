@@ -1669,10 +1669,10 @@ https://ucdn.beetv.kz/bpk-tv/000000710/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000000351/tve/index.m3u8
 #EXTINF:-1 tvg-id="amedia-hit" tvg-name="Amedia Hit" tvg-logo="http://epg.one/img/2007.png" group-title="Кино", Amedia Hit
 #EXTGRP:Кино
-http://130.193.73.10:8937/play/a02o
+https://ucdn.beetv.kz/bpk-tv/000001662/tve/index.m3u8
 #EXTINF:-1 tvg-id="amedia-premium" tvg-name="Amedia Premium" tvg-logo="http://epg.one/img/1372.png" group-title="Кино", Amedia Premium
 #EXTGRP:Кино
-http://dmi3y-tv.ru/hls/CH_AMEDIAPREMIUMHD.m3u8
+https://ucdn.beetv.kz/bpk-tv/000000709/tve/index.m3u8
 #EXTINF:-1 tvg-id="bollywood-hd" tvg-name="Bollywood HD" tvg-logo="http://epg.one/img/1395.png" group-title="Кино", Bollywood HD
 #EXTGRP:Кино
 http://130.193.73.10:8937/play/a02l
@@ -1721,7 +1721,7 @@ https://hls.goodgame.ru/hls/187741.m3u8
 https://ucdn.beetv.kz/bpk-tv/000004472/tve/index.m3u8
 #EXTINF:-1 tvg-id="foxlife" tvg-name="FX Life" tvg-logo="http://epg.one/img/615.png" group-title="Кино", FX Life
 #EXTGRP:Кино
-http://dmi3y-tv.ru/hls/CH_FOXLIFE.m3u8
+https://ucdn.beetv.kz/bpk-tv/000004471/tve/index.m3u8
 #EXTINF:-1 tvg-id="hollywood" tvg-name="Hollywood" tvg-logo="http://epg.one/img/608.png" group-title="Кино", Hollywood
 #EXTGRP:Кино
 http://109.200.130.123:7537/play/a02g
@@ -1752,9 +1752,6 @@ http://92.53.64.197:5050/IPTVPLAYPROMO.tv/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 tvg-id="kino-24" tvg-name="KINO 24" tvg-logo="https://avatars.mds.yandex.net/i?id=7c12dec67467f469f2b9ca36e542d550e624e63b-4937330-images-thumbs&n=13" group-title="Кино", KINO 24
 #EXTGRP:Кино
 http://dmi3y-tv.ru/hls/CH_KINO24.m3u8
-#EXTINF:-1 tvg-id="kinojam1" tvg-name="KinoJam 1 HD" tvg-logo="http://epg.one/img/4466.png" group-title="Кино", KinoJam 1 HD
-#EXTGRP:Кино
-http://de.kineskop.club/site2/1189/1009756_8d4ce93dffb25f78_0_0_fs2.m3u8
 #EXTINF:-1 tvg-id="kinoliving" tvg-name="KinoLiving" tvg-logo="http://epg.one/img/9123.png" group-title="Кино", KinoLiving
 #EXTGRP:Кино
 http://109.200.130.123:7537/play/a02k
