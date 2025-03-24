@@ -966,7 +966,7 @@ https://rq3qltxnbx1.a.trbcdn.net/livemaster/8hwxnq4s0v_efir0_tcode1080p/playlist
 https://serv25.vintera.tv/1pnk/prnk/chunks.m3u8
 #EXTINF:-1 tvg-id="perec-int" tvg-name="Перец International" tvg-logo="http://epg.one/img/5651.png" group-title="Познавательные", Перец International
 #EXTGRP:Познавательные
-http://stream01.vnet.am/Perec/mono.m3u8
+https://cdn2.skygo.mn/live/disk1/Che/HLS-FTA/Che.m3u8
 #EXTINF:-1 tvg-id="poexali" tvg-name="Поехали!" tvg-logo="http://epg.one/img/2350.png" group-title="Познавательные", Поехали!
 #EXTGRP:Познавательные
 http://91.247.68.229:8000/play/Poehali/index.m3u8
@@ -1026,7 +1026,7 @@ http://195.26.83.96:7005/play/16/index.m3u8
 http://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="telekafe" tvg-name="Телекафе" tvg-logo="http://epg.one/img/2304.png" group-title="Познавательные", Телекафе
 #EXTGRP:Познавательные
-http://stream01.vnet.am/Telekafe/mono.m3u8
+http://31.148.48.15:80/Telekafe/index.m3u8
 #EXTINF:-1 tvg-id="teleputeshestvia" tvg-name="Телепутешествия" tvg-logo="http://epg.one/img/2424.png" group-title="Познавательные", Телепутешествия
 #EXTGRP:Познавательные
 http://31.148.48.15/Teleputeshestviya/index.m3u8
@@ -1047,7 +1047,7 @@ http://194.158.218.123:8880/Usadba/index.m3u8
 http://188.190.222.53/Uspeh/index.m3u8
 #EXTINF:-1 tvg-id="centralnoye-tv" tvg-name="Центральное телевидение" tvg-logo="http://epg.one/img/2400.png" group-title="Познавательные", Центральное телевидение
 #EXTGRP:Познавательные
-http://stream01.vnet.am/Channel_129/mono.m3u8
+http://178.212.71.253:8000/play/41/index.m3u8
 #EXTINF:-1 tvg-name="Что? Где? Когда?" tvg-logo="https://avatars.mds.yandex.net/i?id=9ff2b07eabc425c0fdfbb2e0cef9cd22d8bf948a-12569903-images-thumbs&n=13" group-title="Познавательные", Что? Где? Когда?
 #EXTGRP:Познавательные
 #EXTVLCOPT:http-user-agent=goodgame
@@ -1188,7 +1188,7 @@ http://dmi3y-tv.ru/hls/CH_NATIONALGEOGRAPHICWILD.m3u8
 https://ucdn.beetv.kz/bpk-tv/000000034/tve/index.m3u8
 #EXTINF:-1 tvg-id="national-geographic" tvg-name="National Geographic (резерв)" tvg-logo="http://epg.one/img/102.png" group-title="Познавательные", National Geographic (резерв)
 #EXTGRP:Познавательные
-http://stream01.vnet.am/NationalGeographic/tracks-v1a1/mono.m3u8
+http://135.181.115.81:8000/play/a03w/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="ocean-tv" tvg-name="OCEAN-TV" tvg-logo="http://epg.one/img/55.png" group-title="Познавательные", OCEAN-TV
 #EXTGRP:Познавательные
 http://45.11.139.43:8555/ocean/index.m3u8
