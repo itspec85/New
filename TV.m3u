@@ -197,7 +197,7 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_FRIDAY_6.m3u8
 http://dmi3y-tv.ru/hls/DVB-T2/CH_FRIDAY_7.m3u8
 #EXTINF:-1 tvg-id="piatnica-int" tvg-name="Пятница International" tvg-logo="https://avatars.mds.yandex.net/i?id=6e89c0754d8e6800feb8f51ae53f5192eb27ea76-5222505-images-thumbs&n=13" group-title="Россия", Пятница International
 #EXTGRP:Россия
-http://dmi3y-tv.ru/hls/T2/CH_FRIDAY_INT.m3u8
+https://ucdn.beetv.kz/bpk-tv/000007816/tve/index.m3u8
 #EXTINF:-1 tvg-id="5kanal-ru" tvg-shift="+1" tvg-name="Пятый канал -1" tvg-logo="http://epg.one/img/427.png" group-title="Россия", Пятый канал -1
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -257,7 +257,7 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_RENTV_6.m3u8
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RENTV_7.m3u8
 #EXTINF:-1 tvg-name="Рен ТВ International" tvg-logo="https://i.postimg.cc/SsRGs7Y7/International.png" group-title="Россия", Рен ТВ International
 #EXTGRP:Россия
-http://dmi3y-tv.ru/hls/T2/CH_RENTV_INT.m3u8
+https://ucdn.beetv.kz/bpk-tv/000002472/tve/index.m3u8
 #EXTINF:-1 tvg-id="rossia1" tvg-shift="+1" tvg-name="Россия 1 -1" tvg-logo="http://epg.one/img/711.png" group-title="Россия", Россия 1 -1
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
