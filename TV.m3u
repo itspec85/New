@@ -1337,7 +1337,7 @@ http://stv.mediacdn.ru/live/cdn/multimuzika/playlist_sdhigher.m3u8
 https://hls.goodgame.ru/hls/198446.m3u8
 #EXTINF:-1 tvg-id="multimania" tvg-name="Мультиландия" tvg-logo="http://epg.one/img/2757.png" group-title="Детские", Мультиландия
 #EXTGRP:Детские
-http://91.205.199.3/multilandia/index.m3u8
+http://130.193.73.10:8937/play/a00z
 #EXTINF:-1 tvg-id="o_" tvg-name="О!" tvg-logo="http://epg.one/img/1757.png" group-title="Детские", О!
 #EXTGRP:Детские
 http://130.193.73.10:8937/play/a016
@@ -1382,7 +1382,7 @@ http://194.26.229.213/souzmultfilm/index.m3u8
 http://130.193.73.10:8937/play/a017
 #EXTINF:-1 tvg-id="malysh" tvg-name="СуперГерои" tvg-logo="http://epg.one/img/2239.png" group-title="Детские", СуперГерои
 #EXTGRP:Детские
-https://ucdn.beetv.kz/bpk-tv/000002711/tve/index.m3u8
+http://radio.tvs.by:8088/Malish/index.m3u8
 #EXTINF:-1 tvg-id="detsky" tvg-name="Уникум" tvg-logo="http://epg.one/img/66.png" group-title="Детские", Уникум
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000000048/tve/index.m3u8
@@ -1400,7 +1400,7 @@ https://ucdn.beetv.kz/bpk-tv/000005178/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000008795/tve/index.m3u8
 #EXTINF:-1 tvg-id="cartoon-network" tvg-name="Cartoon Network" tvg-logo="http://epg.one/img/601.png" group-title="Детские", Cartoon Network
 #EXTGRP:Детские
-http://65.21.85.175:8000/play/a00i/index.m3u8?token=livetv
+http://91.146.94.234:10000/play/a06e
 #EXTINF:-1 tvg-id="boomerang" tvg-name="Cartoonito" tvg-logo="http://epg.one/img/929.png" group-title="Детские", Cartoonito
 #EXTGRP:Детские
 http://135.181.115.81:8000/play/a04e/index.m3u8?token=livetv
