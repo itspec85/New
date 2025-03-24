@@ -600,7 +600,7 @@ https://ucdn.beetv.kz/bpk-tv/000000663/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000002851/tve/index.m3u8
 #EXTINF:-1 tvg-id="abaitv" tvg-name="Abai TV" tvg-logo="https://iptvx.one/picons/abaitv.png" group-title="Казахстан", Abai TV
 #EXTGRP:Казахстан
-https://abaitv-stream.qazcdn.com/abaitv/abaitv_720/chunks.m3u8
+https://ucdn.beetv.kz/bpk-tv/000006116/tve/index.m3u8
 #EXTINF:-1 tvg-id="aifak-kz" tvg-name="Айгак KZ" tvg-logo="http://epg.one/img/9168.png" group-title="Казахстан", Айгак KZ
 #EXTGRP:Казахстан
 https://ucdn.beetv.kz/bpk-tv/000001510/tve/index.m3u8
@@ -624,7 +624,7 @@ http://stream.kaztrk.kz/regional/oskementv/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000000666/tve/index.m3u8
 #EXTINF:-1 tvg-id="atameken-business" tvg-name="Atameken Business" tvg-logo="https://iptvx.one/picons/atameken-business.png" group-title="Казахстан", Atameken Business
 #EXTGRP:Казахстан
-http://live-atameken.cdnvideo.ru/atameken/atameken_hq.sdp/playlist.m3u8
+https://ucdn.beetv.kz/bpk-tv/000005322/tve/index.m3u8
 #EXTINF:-1 tvg-id="atyray" tvg-name="Atyray" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/d/df/Atyrau.png/revision/latest?cb=20200225165956&path-prefix=ru" group-title="Казахстан", Atyray
 #EXTGRP:Казахстан
 https://ucdn.beetv.kz/bpk-tv/000001570/tve/index.m3u8
