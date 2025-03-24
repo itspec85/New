@@ -1439,7 +1439,7 @@ https://ucdn.beetv.kz/bpk-tv/000000449/tve/index.m3u8
 https://fl5.moveonjoy.com/NICK_JR/index.m3u8
 #EXTINF:-1 tvg-id="nickelodeon-ru" tvg-name="Nickelodeon" tvg-logo="http://epg.one/img/423.png" group-title="Детские", Nickelodeon
 #EXTGRP:Детские
-http://stream01.vnet.am/Channel_114/mono.m3u8
+http://s3.merlive.am/roos-nickelodeon/manifest.m3u8
 #EXTINF:-1 tvg-id="nicktoons" tvg-name="NickToons" tvg-logo="http://epg.one/img/2994.png" group-title="Детские", NickToons
 #EXTGRP:Детские
 http://stream01.vnet.am/Boomerang/mono.m3u8
@@ -2015,7 +2015,7 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 http://178.124.152.238:8088/khl
 #EXTINF:-1 tvg-id="kxl" tvg-name="KHL (резерв)" tvg-logo="http://epg.one/img/2048.png" group-title="Спорт", KHL (резерв)
 #EXTGRP:Спорт
-http://stream01.vnet.am/Channel_113/mono.m3u8
+http://178.124.152.238:8088/khl
 #EXTINF:-1 tvg-id="kxl-hd" tvg-name="KHL Prime HD" tvg-logo="http://epg.one/img/1038.png" group-title="Спорт", KHL Prime HD
 #EXTGRP:Спорт
 http://194.143.148.28:8080/KHL_HD/mpegts
@@ -2351,7 +2351,7 @@ https://ucdn.beetv.kz/bpk-tv/000000264/tve/index.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=db3aa987-9f35-4664-b523-5fe34623b36c
 #EXTINF:-1 tvg-id="mtv-live-hd" tvg-name="MTV Live HD" tvg-logo="http://epg.one/img/382.png" group-title="Музыка", MTV Live HD
 #EXTGRP:Музыка
-http://stream01.vnet.am/Channel_117/mono.m3u8
+http://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
 #EXTINF:-1 tvg-id="musicbox" tvg-name="Music Box Gold" tvg-logo="http://epg.one/img/5368.png" group-title="Музыка", Music Box Gold
 #EXTGRP:Музыка
 http://37.205.83.56:81/udp/239.54.5.7:1224
