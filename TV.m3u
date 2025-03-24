@@ -1913,7 +1913,7 @@ http://178.219.128.68:64888/CANASPORHD
 http://178.219.128.68:64888/CANASPOR2HD
 #EXTINF:-1 tvg-id="cbc-sport" tvg-name="CBC Sport" tvg-logo="http://epg.one/img/2636.png" group-title="Спорт", CBC Sport
 #EXTGRP:Спорт
-http://184585.ipturk.eu/ozgurozdemir/19051907ok/228080
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=31400&extension=ts
 #EXTINF:-1 tvg-id="cbs-sports-network-us" tvg-name="CBS Sports Network US" tvg-logo="http://epg.one/img/4560.png" group-title="Спорт", CBS Sports Network US
 #EXTGRP:Спорт
 http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
@@ -1928,16 +1928,16 @@ http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=11237&extension
 https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
 #EXTINF:-1 tvg-id="digisport1" tvg-name="DIGI Sport 1 HD RO" tvg-logo="http://epg.one/img/2907.png" group-title="Спорт", DIGI Sport 1 HD RO
 #EXTGRP:Спорт
-http://microst.xyz:80/PG0144A/9ELUKL4/68897
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=31362&extension=ts
 #EXTINF:-1 tvg-id="digisport2" tvg-name="DIGI Sport 2 HD RO" tvg-logo="http://epg.one/img/2906.png" group-title="Спорт", DIGI Sport 2 HD RO
 #EXTGRP:Спорт
-http://microst.xyz:80/PG0144A/9ELUKL4/68899
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=31361&extension=ts
 #EXTINF:-1 tvg-id="digisport3" tvg-name="DIGI Sport 3 HD RO" tvg-logo="http://epg.one/img/2908.png" group-title="Спорт", DIGI Sport 3 HD RO
 #EXTGRP:Спорт
-http://microst.xyz:80/PG0144A/9ELUKL4/68901
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=31360&extension=ts
 #EXTINF:-1 tvg-id="digisport4" tvg-name="DIGI Sport 4 HD RO" tvg-logo="http://epg.one/img/2922.png" group-title="Спорт", DIGI Sport 4 HD RO
 #EXTGRP:Спорт
-http://microst.xyz:80/PG0144A/9ELUKL4/68902
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=31359&extension=ts
 #EXTINF:-1 tvg-name="ESPN USA" tvg-logo="http://epg.one/img/6582.png" group-title="Спорт", ESPN USA
 #EXTGRP:Спорт
 http://cord-cutter.net:8080/LeeAv21/AvantL12/14197
@@ -2006,7 +2006,7 @@ http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
 http://arbiter.bolshoe.tv/?path=abr2/sethd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMC8yMDI1IDg6MDQ6NDEgQU0maGFzaF92YWx1ZT1RTDFrVEpNd2tqeGJhL3NLajE1T0Z3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 #EXTINF:-1 tvg-id="nba-tv" tvg-name="NBA TV HD US" tvg-logo="http://epg.one/img/4587.png" group-title="Спорт", NBA TV HD US
 #EXTGRP:Спорт
-https://7pal.short.gy/nbatvus
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=47336&extension=ts
 #EXTINF:-1 tvg-name="NBC Sports Bay Area US" tvg-logo="https://i.imgur.com/MTgUVKx.png" group-title="Спорт", NBC Sports Bay Area US
 #EXTGRP:Спорт
 https://tvpass.org/live/nbc-sports-bay-area/hd/
