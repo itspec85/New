@@ -1473,7 +1473,7 @@ http://109.200.130.123:7537/play/a02n
 http://193.242.190.6:8099/37/index.m3u8
 #EXTINF:-1 tvg-id="evrokino" tvg-name="Еврокино" tvg-logo="http://epg.one/img/352.png" group-title="Кино", Еврокино
 #EXTGRP:Кино
-http://45.11.139.43:8555/evrokino/index.m3u8
+http://87.120.142.11:18000/STSLove
 #EXTINF:-1 tvg-name="Иллюзион+" tvg-logo="http://epg.one/img/2403.png" group-title="Кино", Иллюзион +
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000004582/tve/index.m3u8
@@ -1488,7 +1488,7 @@ http://31.173.165.29:8000/play/a05x/index.m3u8
 https://mhd128.iptv2022.com/p/SEoKPeO8FMB7-2uHufs0vQ,1742846406/streaming/kamedi/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="kineko" tvg-name="Кинеко" tvg-logo="http://epg.one/img/7314.png" group-title="Кино", Кинеко
 #EXTGRP:Кино
-http://130.193.73.10:8937/play/a03d
+https://ucdn.beetv.kz/bpk-tv/000008136/tve/index.m3u8
 #EXTINF:-1 tvg-id="kino1int-tviksel" tvg-name="Кино 1 International" tvg-logo="http://epg.one/img/6258.png" group-title="Кино", Кино 1 International
 #EXTGRP:Кино
 http://dmi3y-tv.ru/hls/CH_KINO1_INT.m3u8
@@ -1554,7 +1554,7 @@ https://ucdn.beetv.kz/bpk-tv/000008488/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000006365/tve/index.m3u8
 #EXTINF:-1 tvg-id="mosfilm" tvg-name="Мосфильм. Золотая коллекция HD" tvg-logo="http://epg.one/img/3357.png" group-title="Кино", Мосфильм. Золотая коллекция HD
 #EXTGRP:Кино
-http://193.242.190.6:8099/98/index.m3u8
+http://5.101.0.202:8080/3/index.m3u8
 #EXTINF:-1 tvg-id="muzhskoe-kino" tvg-name="Мужское кино" tvg-logo="http://epg.one/img/1584.png" group-title="Кино", Мужское кино
 #EXTGRP:Кино
 http://45.159.74.14:80/MujskoeKino/index.m3u8
@@ -1598,7 +1598,7 @@ https://mhd128.iptv2022.com/p/IAq6OJJAuyCl3-k3iPhqgA,1742846406/streaming/prolub
 http://194.158.218.123:8880/Retrotv/index.m3u8
 #EXTINF:-1 tvg-id="rodnoe-kino" tvg-name="Родное кино" tvg-logo="http://epg.one/img/12.png" group-title="Кино", Родное кино
 #EXTGRP:Кино
-http://s3.merlive.am/rodnoekino/index.m3u8
+http://31.148.48.15/Rodnoe_kino/index.m3u8
 #EXTINF:-1 tvg-id="romantichnoe-hd" tvg-name="Романтичное HD" tvg-logo="http://epg.one/img/2772.png" group-title="Кино", Романтичное HD
 #EXTGRP:Кино
 http://193.242.190.6:8099/31/index.m3u8
@@ -1616,7 +1616,7 @@ http://130.193.73.10:8937/play/a03o
 http://109.200.130.123:7537/play/a023
 #EXTINF:-1 tvg-id="russky-roman" tvg-name="Русский роман" tvg-logo="http://epg.one/img/401.png" group-title="Кино", Русский роман
 #EXTGRP:Кино
-http://193.242.190.6:8099/39/index.m3u8
+http://130.193.73.10:8937/play/a03n
 #EXTINF:-1 tvg-id="sapfir" tvg-name="Сапфир" tvg-logo="http://epg.one/img/7315.png" group-title="Кино", Сапфир
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000008135/tve/index.m3u8
