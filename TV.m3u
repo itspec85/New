@@ -955,9 +955,6 @@ http://65.21.85.175:8000/play/a01k/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="oxotnik-i-rybolov" tvg-name="Охотник и рыболов" tvg-logo="http://epg.one/img/1681.png" group-title="Познавательные", Охотник и рыболов
 #EXTGRP:Познавательные
 http://stream01.vnet.am/Channel_124/mono.m3u8
-#EXTINF:-1 tvg-id="eureka-hd" tvg-name="Первый космический" tvg-logo="http://epg.one/img/2310.png" group-title="Познавательные", Первый космический
-#EXTGRP:Познавательные
-http://stream01.vnet.am/Evrika/mono.m3u8
 #EXTINF:-1 tvg-name="Первый медицинский канал" tvg-logo="https://avatars.mds.yandex.net/i?id=9494f3a37664c7da5f8f894e7169af2497116e6e-10767708-images-thumbs&n=13" group-title="Познавательные", Первый медицинский канал
 #EXTGRP:Познавательные
 https://rq3qltxnbx1.a.trbcdn.net/livemaster/8hwxnq4s0v_efir0_tcode1080p/playlist.m3u8
@@ -1036,9 +1033,6 @@ http://109.200.130.123:7537/play/a022
 #EXTINF:-1 tvg-id="tri-angela" tvg-name="Три ангела" tvg-logo="http://epg.one/img/2469.png" group-title="Познавательные", Три ангела
 #EXTGRP:Познавательные
 http://hls.tv.3angels.ru/stream/HD/HD.m3u8
-#EXTINF:-1 tvg-id="tonus-tv" tvg-name="ТРК Тонус-Саки" tvg-logo="http://epg.one/img/6785.png" group-title="Познавательные", ТРК Тонус-Саки
-#EXTGRP:Познавательные
-http://stream01.vnet.am/ZooTv/mono.m3u8
 #EXTINF:-1 tvg-id="usadba" tvg-name="Усадьба" tvg-logo="http://epg.one/img/434.png" group-title="Познавательные", Усадьба
 #EXTGRP:Познавательные
 http://194.158.218.123:8880/Usadba/index.m3u8
@@ -1119,7 +1113,7 @@ http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
 http://ott.server-iptv.live/140/video.m3u8?token=A3b61a999e
 #EXTINF:-1 tvg-id="euronews-en" tvg-name="Euronews English" tvg-logo="http://epg.one/img/2266.png" group-title="Познавательные", Euronews English
 #EXTGRP:Познавательные
-http://stream01.vnet.am/Channel_119/mono.m3u8
+https://ucdn.beetv.kz/bpk-tv/000002455/tve/index.m3u8
 #EXTINF:-1 tvg-id="fashion-one-4k" tvg-name="Fashion TV UHD" tvg-logo="http://epg.one/img/2748.png" group-title="Познавательные", Fashion TV UHD
 #EXTGRP:Познавательные
 http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
@@ -1439,10 +1433,10 @@ https://ucdn.beetv.kz/bpk-tv/000000449/tve/index.m3u8
 https://fl5.moveonjoy.com/NICK_JR/index.m3u8
 #EXTINF:-1 tvg-id="nickelodeon-ru" tvg-name="Nickelodeon" tvg-logo="http://epg.one/img/423.png" group-title="Детские", Nickelodeon
 #EXTGRP:Детские
-http://s3.merlive.am/roos-nickelodeon/manifest.m3u8
+https://ucdn.beetv.kz/bpk-tv/000000499/tve/index.m3u8
 #EXTINF:-1 tvg-id="nicktoons" tvg-name="NickToons" tvg-logo="http://epg.one/img/2994.png" group-title="Детские", NickToons
 #EXTGRP:Детские
-http://stream01.vnet.am/Boomerang/mono.m3u8
+https://ucdn.beetv.kz/bpk-tv/000004365/tve/index.m3u8
 #EXTINF:-1 tvg-name="Sunset Kids" tvg-logo="https://avatars.mds.yandex.net/i?id=0f30410fe13b268b040f9cc78487eab63ca2e227-4409822-images-thumbs&n=13" group-title="Детские", Sunset Kids
 #EXTGRP:Детские
 https://stream.sunset-media.org:443/AfBrazXsUK/J9hGT3vYuv/5.m3u8
@@ -1983,12 +1977,6 @@ http://iptv-hls.idc.md:8200/hls/261/live1.m3u8
 #EXTINF:-1 tvg-id="extreme-sports" tvg-name="Extreme Sports" tvg-logo="http://epg.one/img/2053.png" group-title="Спорт", Extreme Sports
 #EXTGRP:Спорт
 http://109.200.130.123:7537/play/a02p
-#EXTINF:-1 tvg-id="fast-sport-am" tvg-name="Fast Sports" tvg-logo="http://epg.one/img/7089.png" group-title="Спорт", Fast Sports
-#EXTGRP:Спорт
-http://stream01.vnet.am/Channel_131/mono.m3u8
-#EXTINF:-1 tvg-id="fightbox-hd" tvg-name="Fightbox" tvg-logo="http://epg.one/img/3792.png" group-title="Спорт", Fightbox
-#EXTGRP:Спорт
-http://stream01.vnet.am/Fightbox/mono.m3u8
 #EXTINF:-1 tvg-name="FITE 24/7" tvg-logo="https://i.imgur.com/ESV6qgH.png" group-title="Спорт", FITE 24/7
 #EXTGRP:Спорт
 https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8
