@@ -1841,13 +1841,16 @@ http://cdn-01.bonus-tv.ru/kmir/mono.m3u8
 http://185.46.48.18:80/match/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="match-tv" tvg-name="Матч ТВ HD" tvg-logo="http://epg.one/img/2051.png" group-title="Спорт", Матч ТВ HD
 #EXTGRP:Спорт
-http://s3.merlive.am/matchtvhd/index.m3u8
+https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3
 #EXTINF:-1 tvg-id="match-arena" tvg-name="Матч! Арена" tvg-logo="http://epg.one/img/2003.png" group-title="Спорт", Матч! Арена
 #EXTGRP:Спорт
 http://194.143.148.28:8080/MatchArena/mpegts
 #EXTINF:-1 tvg-id="match-boets" tvg-name="Матч! Боец" tvg-logo="http://epg.one/img/2054.png" group-title="Спорт", Матч! Боец
 #EXTGRP:Спорт
-http://193.35.224.154/8027/index.m3u8?token=panda
+http://87.120.142.11:18000/Match
+#EXTINF:-1 tvg-id="match-boets" tvg-name="Матч! Боец HD" tvg-logo="http://epg.one/img/2054.png" group-title="Спорт", Матч! Боец HD
+#EXTGRP:Спорт
+http://5.101.0.202:8080/1/index.m3u8
 #EXTINF:-1 tvg-id="match-igra" tvg-name="Матч! Игра" tvg-logo="http://epg.one/img/2050.png" group-title="Спорт", Матч! Игра
 #EXTGRP:Спорт
 http://87.120.142.11:18000/Match!Igra
@@ -1856,13 +1859,13 @@ http://87.120.142.11:18000/Match!Igra
 https://ucdn.beetv.kz/bpk-tv/000001695/tve/index.m3u8
 #EXTINF:-1 tvg-id="match-premier" tvg-name="Матч! Премьер" tvg-logo="http://epg.one/img/2250.png" group-title="Спорт", Матч! Премьер
 #EXTGRP:Спорт
-http://193.35.224.154/8023/index.m3u8?token=panda
+https://mhd128.iptv2022.com/p/ma4S9qGTN4l_DmDzIf_MmA,1742850013/streaming/match_premyer/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="match-premier" tvg-name="Матч! Премьер HD" tvg-logo="http://epg.one/img/2250.png" group-title="Спорт", Матч! Премьер HD
 #EXTGRP:Спорт
 https://mhd128.iptv2022.com/p/GbWg63xTI_HSQS5hSzSlDg,1742846411/streaming/match_premyerhd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="match-nash-sport" tvg-name="Матч! Страна" tvg-logo="http://epg.one/img/2042.png" group-title="Спорт", Матч! Страна
 #EXTGRP:Спорт
-http://193.35.224.154/8019/index.m3u8?token=panda
+https://mhd128.iptv2022.com/p/GT4aVKfDbvidxgUKEeBQZg,1742850013/streaming/nashsport/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="match-football1" tvg-name="Матч! Футбол 1 HD" tvg-logo="http://epg.one/img/2044.png" group-title="Спорт", Матч! Футбол 1 HD
 #EXTGRP:Спорт
 https://mhd128.iptv2022.com/p/7z8B-t_Q8utWR9r9-YMwdA,1742846411/streaming/footbal1hd/324/1/tracks-v5a1/mono.m3u8
@@ -1875,9 +1878,6 @@ https://mhd128.iptv2022.com/p/GMFSYUdp9wYx7FUm3GslBQ,1742846411/streaming/footba
 #EXTINF:-1 tvg-id="mir-basketbola" tvg-name="Мир Баскетбола" tvg-logo="http://epg.one/img/4629.png" group-title="Спорт", Мир Баскетбола
 #EXTGRP:Спорт
 http://65.21.85.175:8000/play/a00c/index.m3u8?token=livetv
-#EXTINF:-1 tvg-id="okko-sport" tvg-name="Окко Спорт HD" tvg-logo="http://epg.one/img/7895.png" group-title="Спорт", Окко Спорт HD
-#EXTGRP:Спорт
-http://cdn1.starcinemax.fun:2095/chanel_549/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
 #EXTINF:-1 tvg-id="start" tvg-name="Старт" tvg-logo="http://epg.one/img/2530.png" group-title="Спорт", Старт
 #EXTGRP:Спорт
 http://130.193.73.10:8937/play/a04l
@@ -1886,7 +1886,7 @@ http://130.193.73.10:8937/play/a04l
 https://ucdn.beetv.kz/bpk-tv/000007802/tve/index.m3u8
 #EXTINF:-1 tvg-id="football-ru" tvg-name="Футбол" tvg-logo="http://epg.one/img/2782.png" group-title="Спорт", Футбол
 #EXTGRP:Спорт
-http://193.35.224.154/8147/index.m3u8?token=panda
+https://mhd128.iptv2022.com/p/P8TAiufxumkSQtlRr7_Pow,1742850022/streaming/footbal/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="a-spor-tr" tvg-name="A Spor HD TR" tvg-logo="http://epg.one/img/2587.png" group-title="Спорт", A Spor HD TR
 #EXTGRP:Спорт
 https://trkvz-live.daioncdn.net/aspor/aspor.m3u8
@@ -2121,9 +2121,6 @@ http://217.174.225.146/hls/ch004_720/index.m3u8
 #EXTINF:-1 tvg-name="UFC FIGHT PASS" tvg-logo="http://epg.one/img/3552.png" group-title="Спорт", UFC FIGHT PASS
 #EXTGRP:Спорт
 http://globalstreamz.xyz:3050/edwhite43@yahoo.com/bK5HuUT6uk/601454
-#EXTINF:-1 tvg-id="viasat-sport" tvg-name="Viju+ Sport" tvg-logo="http://epg.one/img/2055.png" group-title="Спорт", Viju+ Sport
-#EXTGRP:Спорт
-http://213.226.137.140:81/tl/l97/mpegts
 #EXTINF:-1 tvg-id="viasat-sport" tvg-name="Viju+ Sport HD" tvg-logo="http://epg.one/img/2055.png" group-title="Спорт", Viju+ Sport HD
 #EXTGRP:Спорт
 https://ucdn.beetv.kz/bpk-tv/000000135/tve/index.m3u8
