@@ -1491,7 +1491,7 @@ https://ucdn.beetv.kz/bpk-tv/000004582/tve/index.m3u8
 http://188.113.190.12/329/index.m3u8
 #EXTINF:-1 tvg-id="zee-tv" tvg-name="Индия" tvg-logo="http://epg.one/img/2233.png" group-title="Кино", Индия
 #EXTGRP:Кино
-http://stream01.vnet.am/ZeeTV/mono.m3u8
+http://31.173.165.29:8000/play/a05x/index.m3u8
 #EXTINF:-1 tvg-id="kamedi" tvg-name="Камеди HD" tvg-logo="http://epg.one/img/2836.png" group-title="Кино", Камеди HD
 #EXTGRP:Кино
 https://mhd128.iptv2022.com/p/1tQyL9NJrGr7x8l9VBBtBw,1742760006/streaming/kamedi/324/1/tracks-v5a1/mono.m3u8
@@ -1862,7 +1862,7 @@ https://edge50.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
 https://edge55.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int/chunklist_w601692199_b2660000_sleng.m3u8
 #EXTINF:-1 tvg-id="box-tv" tvg-name="Бокс ТВ" tvg-logo="http://epg.one/img/2285.png" group-title="Спорт", Бокс ТВ
 #EXTGRP:Спорт
-http://stream01.vnet.am/BoksTv/mono.m3u8
+http://31.184.194.43:8080/2/index.m3u8
 #EXTINF:-1 tvg-id="konny-mir" tvg-name="Конный Мир" tvg-logo="http://epg.one/img/1679.png" group-title="Спорт", Конный Мир
 #EXTGRP:Спорт
 http://cdn-01.bonus-tv.ru/kmir/mono.m3u8
@@ -2273,19 +2273,19 @@ https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m
 http://195.26.83.96:7007/play/a00m/index.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-ruxit" tvg-name="Bridge TV Русский хит" tvg-logo="http://epg.one/img/591.png" group-title="Музыка", Bridge TV Русский хит
 #EXTGRP:Музыка
-http://stream01.vnet.am/Channel_115/mono.m3u8
+http://31.173.165.29:8000/play/a02f/index.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-shlager" tvg-name="Bridge TV Шлягер" tvg-logo="http://epg.one/img/4621.png" group-title="Музыка", Bridge TV Шлягер
 #EXTGRP:Музыка
 http://185.23.80.28:8080/BridgeTVShlyager/index.m3u8?token=iptv50na50
 #EXTINF:-1 tvg-id="bridge-tv-classic" tvg-name="Bridge TV Classic" tvg-logo="http://epg.one/img/4373.png" group-title="Музыка", Bridge TV Classic
 #EXTGRP:Музыка
-http://stream01.vnet.am/BRIDGETVClassic/tracks-v1a1/mono.m3u8
+http://178.212.71.253:8000/play/135/index.m3u8
 #EXTINF:-1 tvg-id="bridge-hd" tvg-name="Bridge TV Deluxe" tvg-logo="http://epg.one/img/2022.png" group-title="Музыка", Bridge TV Deluxe
 #EXTGRP:Музыка
 http://213.226.137.140:81/tl/l322/index.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-dance" tvg-name="Bridge TV Hits" tvg-logo="http://epg.one/img/2024.png" group-title="Музыка", Bridge TV Hits
 #EXTGRP:Музыка
-http://stream01.vnet.am/NanoTv/tracks-v1a1/mono.m3u8
+http://178.212.71.253:8000/play/134/index.m3u8
 #EXTINF:-1 tvg-id="clubbing-tv" tvg-name="Clubbing TV" tvg-logo="http://epg.one/img/2628.png" group-title="Музыка", Clubbing TV
 #EXTGRP:Музыка
 https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
