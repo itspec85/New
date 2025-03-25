@@ -2174,16 +2174,16 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_MUZTV_6.m3u8
 http://dmi3y-tv.ru/hls/DVB-T2/CH_MUZTV_7.m3u8
 #EXTINF:-1 tvg-name="Музыка 1 International" tvg-logo="http://epg.one/img/6266.png" group-title="Музыка", Музыка 1 International
 #EXTGRP:Музыка
-https://autopilot.catcast.tv/content/37745/index.m3u8
+http://kino-1.catcast.tv/content/37745/index.m3u8
 #EXTINF:-1 tvg-name="Музыка 2 International" tvg-logo="http://epg.one/img/6268.png" group-title="Музыка", Музыка 2 International
 #EXTGRP:Музыка
-https://autopilot.catcast.tv/content/37742/index.m3u8
+http://kino-1.catcast.tv/content/37742/index.m3u8
 #EXTINF:-1 tvg-name="Музыка кино International" tvg-logo="http://epg.one/img/6270.png" group-title="Музыка", Музыка кино International
 #EXTGRP:Музыка
-https://autopilot.catcast.tv/content/37739/index.m3u8
+http://kino-1.catcast.tv/content/37739/index.m3u8
 #EXTINF:-1 tvg-id="muzyka-pervogo" tvg-name="Музыка Первого" tvg-logo="http://epg.one/img/715.png" group-title="Музыка", Музыка Первого
 #EXTGRP:Музыка
-http://185.50.148.2:7707/MuzikaPervogo/index.m3u8
+http://130.193.73.10:8937/play/a043
 #EXTINF:-1 tvg-id="o2tv" tvg-name="О2 ТВ" tvg-logo="http://epg.one/img/2412.png" group-title="Музыка", О2 ТВ
 #EXTGRP:Музыка
 http://195.26.83.96:7006/play/1/index.m3u8
@@ -2228,13 +2228,13 @@ http://195.26.83.96:7007/play/a00m/index.m3u8
 http://31.173.165.29:8000/play/a02f/index.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-shlager" tvg-name="Bridge TV Шлягер" tvg-logo="http://epg.one/img/4621.png" group-title="Музыка", Bridge TV Шлягер
 #EXTGRP:Музыка
-http://185.23.80.28:8080/BridgeTVShlyager/index.m3u8?token=iptv50na50
+http://178.212.71.253:8000/play/142/index.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-classic" tvg-name="Bridge TV Classic" tvg-logo="http://epg.one/img/4373.png" group-title="Музыка", Bridge TV Classic
 #EXTGRP:Музыка
 http://178.212.71.253:8000/play/135/index.m3u8
 #EXTINF:-1 tvg-id="bridge-hd" tvg-name="Bridge TV Deluxe" tvg-logo="http://epg.one/img/2022.png" group-title="Музыка", Bridge TV Deluxe
 #EXTGRP:Музыка
-http://213.226.137.140:81/tl/l322/index.m3u8
+http://178.212.71.253:8000/play/98/index.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-dance" tvg-name="Bridge TV Hits" tvg-logo="http://epg.one/img/2024.png" group-title="Музыка", Bridge TV Hits
 #EXTGRP:Музыка
 http://178.212.71.253:8000/play/134/index.m3u8
