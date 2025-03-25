@@ -2258,7 +2258,7 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
 #EXTINF:-1 tvg-id="europa-plus-tv" tvg-name="Europa Plus TV" tvg-logo="http://epg.one/img/681.png" group-title="Музыка", Europa Plus TV
 #EXTGRP:Музыка
-http://193.35.224.154/8033/index.m3u8?token=panda
+http://135.181.115.81:8000/play/a03l/index.m3u8?token=livetv
 #EXTINF:-1 tvg-name="Fresh TV Armenia" tvg-logo="http://epg.it999.ru/img/5606.png" group-title="Музыка", Fresh TV Armenia
 #EXTGRP:Музыка
 https://freshtv-live.ru/FreshTV/tracks-v1a1/mono.m3u8?token=livestream
@@ -2309,7 +2309,7 @@ http://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
 http://37.205.83.56:81/udp/239.54.5.7:1224
 #EXTINF:-1 tvg-id="russian-musicbox" tvg-name="Music Box Russia" tvg-logo="http://epg.one/img/2409.png" group-title="Музыка", Music Box Russia
 #EXTGRP:Музыка
-http://185.23.80.28:8080/RUSSIANMUSICBOX/index.m3u8?token=iptv50na50
+http://178.212.71.253:8000/play/65/index.m3u8
 #EXTINF:-1 tvg-name="Muzzik" tvg-logo="https://avatars.mds.yandex.net/i?id=ca03722ba4159f7610aef5036ca02362_sr-5384260-images-thumbs&n=13" group-title="Музыка", Muzzik
 #EXTGRP:Музыка
 http://muzzik-live.morescreens.com/mts-6/playlist.m3u8
