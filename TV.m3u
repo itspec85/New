@@ -2141,7 +2141,7 @@ http://streamer.rtcommufa.ru:1935/ptica/ptica1/chunklist.m3u8
 http://109.200.130.123:7537/play/a02v
 #EXTINF:-1 tvg-id="la-minor" tvg-name="Ля-минор ТВ" tvg-logo="http://epg.one/img/2408.png" group-title="Музыка", Ля-минор ТВ
 #EXTGRP:Музыка
-http://93.189.224.24/LaMinor/index.m3u8
+http://31.173.165.29:8000/play/a05h/index.m3u8
 #EXTINF:-1 tvg-id="muzsoyuz" tvg-name="МузСоюз" tvg-logo="http://epg.one/img/2413.png" group-title="Музыка", МузСоюз
 #EXTGRP:Музыка
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
@@ -2153,9 +2153,6 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_MUZTV-1.m3u8
 #EXTGRP:Музыка
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://dmi3y-tv.ru/hls/DVB-T2/CH_MUZTV.m3u8
-#EXTINF:-1 tvg-id="muztv" tvg-name="Муз-ТВ HD" tvg-logo="http://epg.one/img/897.png" group-title="Музыка", Муз-ТВ HD
-#EXTGRP:Музыка
-http://radio.tvs.by:8088/MuzTV/index.m3u8
 #EXTINF:-1 tvg-id="muztv-pl2" tvg-name="Муз ТВ +2" tvg-logo="http://epg.one/img/897.png" group-title="Музыка", Муз ТВ +2
 #EXTGRP:Музыка
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -2304,9 +2301,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d
 #EXTINF:-1 tvg-id="mtv-live-hd" tvg-name="MTV Live HD" tvg-logo="http://epg.one/img/382.png" group-title="Музыка", MTV Live HD
 #EXTGRP:Музыка
 http://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
-#EXTINF:-1 tvg-id="musicbox" tvg-name="Music Box Gold" tvg-logo="http://epg.one/img/5368.png" group-title="Музыка", Music Box Gold
-#EXTGRP:Музыка
-http://37.205.83.56:81/udp/239.54.5.7:1224
 #EXTINF:-1 tvg-id="russian-musicbox" tvg-name="Music Box Russia" tvg-logo="http://epg.one/img/2409.png" group-title="Музыка", Music Box Russia
 #EXTGRP:Музыка
 http://178.212.71.253:8000/play/65/index.m3u8
@@ -2373,9 +2367,6 @@ http://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Power HD" tvg-logo="http://epg.one/img/2665.png" group-title="Музыка", Power HD
 #EXTGRP:Музыка
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Power Love" tvg-logo="https://cdn.powergroup.com.tr/image/360x360/powerapp/channels/v3/logo_2559.png" group-title="Музыка", Power Love
-#EXTGRP:Музыка
-https://listen.powerapp.com.tr/plove/love.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="PowerTürk" tvg-logo="http://epg.one/img/2666.png" group-title="Музыка", PowerTürk
 #EXTGRP:Музыка
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
@@ -2422,9 +2413,6 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-name="V2BEAT HD" tvg-logo="http://epg.one/img/5483.png" group-title="Музыка", V2BEAT HD
 #EXTGRP:Музыка
 http://de1se01.v2beat.live/playlist.m3u8
-#EXTINF:-1 tvg-id="viva-rus" tvg-name="VIVA Russia HD" tvg-logo="http://epg.one/img/4658.png" group-title="Музыка", VIVA Russia HD
-#EXTGRP:Музыка
-https://162.212.179.32/ssh101/ssh101/vivarussia/playlist.m3u8
 #EXTINF:-1 tvg-name="XITE 80s Flashback" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB320000647_20231024T231630SQUARE.png_20231024231631.png" group-title="Музыка", XITE 80s Flashback
 #EXTGRP:Музыка
 https://dw0oa71jud5ry.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/usbb320000647-prod/amg80rewind/playlist.m3u8
