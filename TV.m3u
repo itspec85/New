@@ -2009,7 +2009,7 @@ http://213.91.178.133:8000/play/a05n
 http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="m1global" tvg-name="MMA-TV.com" tvg-logo="http://epg.one/img/2326.png" group-title="Спорт", MMA-TV.com
 #EXTGRP:Спорт
-http://arbiter.bolshoe.tv/?path=abr2/sethd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDI1IDg6MDI6NTYgUE0maGFzaF92YWx1ZT1YMUVzYU5DZmp6M1lzNWVQenBjOUxnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+http://arbiter.bolshoe.tv/?path=abr2/sethd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9My8yNi8yMDI1IDg6MDE6MDIgQU0maGFzaF92YWx1ZT1oT3hmUmpYeUFzeFZPUlMrRld0R2N3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 #EXTINF:-1 tvg-id="nba-tv" tvg-name="NBA TV HD US" tvg-logo="http://epg.one/img/4587.png" group-title="Спорт", NBA TV HD US
 #EXTGRP:Спорт
 http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=47336&extension=ts
