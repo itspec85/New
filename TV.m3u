@@ -868,7 +868,7 @@ http://edge3.uk.kab.tv/live/tvrus-rus-high/chunks.m3u8
 http://cdn-01.bonus-tv.ru/Kaleidoskop_edge/index.m3u8
 #EXTINF:-1 tvg-id="kvn-tv" tvg-name="КВН ТВ" tvg-logo="http://epg.one/img/1700.png" group-title="Познавательные", КВН ТВ
 #EXTGRP:Познавательные
-http://178.212.71.253:8000/play/119/index.m3u8
+https://mhd128.iptv2022.com/p/wJsFYEA_QQu99CykauVjPw,1743109221/streaming/kvn/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="rus-hualiang-tv" tvg-name="Китай ТВ" tvg-logo="https://avatars.mds.yandex.net/i?id=436495c2f8fdbd1b22e12e22f18dabad29cee9d1-9840106-images-thumbs&ref=rim&n=33&w=379&h=379" group-title="Познавательные", Китай ТВ
 #EXTGRP:Познавательные
 https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
@@ -2292,7 +2292,7 @@ https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/p
 http://109.200.130.123:7537/play/a029
 #EXTINF:-1 tvg-id="mezzo" tvg-name="Mezzo" tvg-logo="http://epg.one/img/801.png" group-title="Музыка", Mezzo
 #EXTGRP:Музыка
-http://178.212.71.253:8002/play/a00n/index.m3u8
+https://ucdn.beetv.kz/bpk-tv/000000030/tve/index.m3u8
 #EXTINF:-1 tvg-name="MIX M TV HD" tvg-logo="http://epg.one/img/4654.png" group-title="Музыка", MIX M TV HD
 #EXTGRP:Музыка
 http://195.9.195.3:8080/hls/181490.m3u8
