@@ -1042,7 +1042,7 @@ http://194.158.218.123:8880/Usadba/index.m3u8
 http://188.190.222.53/Uspeh/index.m3u8
 #EXTINF:-1 tvg-id="centralnoye-tv" tvg-name="Центральное телевидение" tvg-logo="http://epg.one/img/2400.png" group-title="Познавательные", Центральное телевидение
 #EXTGRP:Познавательные
-http://178.212.71.253:8000/play/41/index.m3u8
+https://ucdn.beetv.kz/bpk-tv/000001880/tve/index.m3u8
 #EXTINF:-1 tvg-name="Что? Где? Когда?" tvg-logo="https://avatars.mds.yandex.net/i?id=9ff2b07eabc425c0fdfbb2e0cef9cd22d8bf948a-12569903-images-thumbs&n=13" group-title="Познавательные", Что? Где? Когда?
 #EXTGRP:Познавательные
 #EXTVLCOPT:http-user-agent=goodgame
@@ -1465,7 +1465,7 @@ https://hls.goodgame.ru/manifest/202997_master.m3u8
 https://mhd128.iptv2022.com/p/orR0t12SSatiaxCtJ2tTPg,1743105607/streaming/den-pobedi/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="domkino" tvg-name="Дом кино" tvg-logo="http://epg.one/img/834.png" group-title="Кино", Дом кино
 #EXTGRP:Кино
-http://31.173.165.29:8000/play/a04u/index.m3u8
+https://ucdn.beetv.kz/bpk-tv/000000050/tve/index.m3u8
 #EXTINF:-1 tvg-id="domkino-premium" tvg-name="Дом Кино Премиум HD" tvg-logo="http://epg.one/img/2020.png" group-title="Кино", Дом Кино Премиум HD
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000002943/tve/index.m3u8
