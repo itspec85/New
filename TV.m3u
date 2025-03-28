@@ -3648,33 +3648,6 @@ https://restreamer.livetv.az/memfs/a6cecb21-e17c-4f32-8854-0b72d57211d8.m3u8
 
 
 
-#EXTINF:-1 tvg-name="AABC" tvg-logo="https://avatars.mds.yandex.net/i?id=b525295f7799d9292ae8398efdeb1396b25861c4-9181142-images-thumbs&n=13" group-title="Армения", AABC
-#EXTGRP:Армения
-https://streamer1.connectto.com/AABC_WEB_1201/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="h1-am" tvg-name="Առաջին Ալիք" tvg-logo="http://epg.one/img/2060.png" group-title="Армения", Առաջին Ալիք
-#EXTGRP:Армения
-http://amtv.tulixcdn.com/amtv2/am2abr/tracks-v2a1/index.m3u8
-#EXTINF:-1 tvg-id="artn-am" tvg-name="ARTN" tvg-logo="https://iptvx.one/picons/artn-am.png" group-title="Армения", ARTN
-#EXTGRP:Армения
-https://streamer1.connectto.com/ARTN_mobile/index.m3u8
-#EXTINF:-1 tvg-id="ATV.am" tvg-name="ATV HD AM" tvg-logo="http://epg.one/img/2067.png" group-title="Армения", ATV HD AM
-#EXTGRP:Армения
-http://ott-cdn.ucom.am/s8/index.m3u8
-#EXTINF:-1 tvg-id="atv-filmzone" tvg-name="ՖՒԼՄԶՈՆ" tvg-logo="http://epg.one/img/2386.png" group-title="Армения", ՖՒԼՄԶՈՆ
-#EXTGRP:Армения
-http://ott-cdn.ucom.am/s48/index.m3u8
-#EXTINF:-1 tvg-name="Լուրեր" tvg-logo="http://epg.one/img/5930.png" group-title="Армения", Լուրեր
-#EXTGRP:Армения
-https://amtv.bozztv.com/amtv3/am3abr/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Շանթ" tvg-logo="https://avatars.mds.yandex.net/i?id=c434af9d2ef060500400669e191b6664d07ab6c6c59186ae-11740199-images-thumbs&n=13" group-title="Армения", Շանթ
-#EXTGRP:Армения
-http://5.188.172.179/Shant/index.m3u8
-#EXTINF:-1 tvg-name="USArmenia" tvg-logo="http://epg.one/img/5934.png" group-title="Армения", USArmenia
-#EXTGRP:Армения
-http://livestream.usatv.com/hls/m3u8/USARMENIA_NET1080.m3u8
-
-
-
 #EXTINF:-1 tvg-id="belarus1" tvg-name="Беларусь 1 HD" tvg-logo="http://epg.one/img/2538.png" group-title="Беларусь", Беларусь 1 HD
 #EXTGRP:Беларусь
 http://dmi3y-tv.ru/hls/blrus/CH_BELARUS1HD.m3u8
