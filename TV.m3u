@@ -1138,7 +1138,7 @@ http://195.26.83.96:7007/play/a00j/index.m3u8
 https://fl1001.bozztv.com/ushba31/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="hd-life" tvg-name="HD Life" tvg-logo="http://epg.one/img/415.png" group-title="Познавательные", HD Life
 #EXTGRP:Познавательные
-http://arbiter.bolshoe.tv/?path=abr2/hdlife/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9My8yOC8yMDI1IDg6MDQ6NDcgUE0maGFzaF92YWx1ZT1yZVVXZTF1Q0NXaGxjWlpsR3dWMzBBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+http://arbiter.bolshoe.tv/?path=abr2/hdlife/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9My8yOS8yMDI1IDc6MDM6MzIgUE0maGFzaF92YWx1ZT1KNEdwaGdhRmMxUDRidlFFZy9PM25RPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 #EXTINF:-1 tvg-id="hgtv-pl" tvg-name="HGTV HD" tvg-logo="http://epg.one/img/3599.png" group-title="Познавательные", HGTV HD
 #EXTGRP:Познавательные
 http://178.219.128.68:64889/HGTVHD
