@@ -1037,6 +1037,9 @@ http://109.200.130.123:7537/play/a022
 #EXTINF:-1 tvg-id="hd-life" tvg-name="Точка РФ" tvg-logo="https://epgx.club/picons/hdl.png" group-title="Познавательные", Точка РФ
 #EXTGRP:Познавательные
 http://arbiter.bolshoe.tv/?path=abr2/hdlife/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9My8yOS8yMDI1IDc6MDM6MzIgUE0maGFzaF92YWx1ZT1KNEdwaGdhRmMxUDRidlFFZy9PM25RPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+#EXTINF:-1 tvg-id="tochka-tv" tvg-name="Точка ТВ" tvg-logo="http://epg.one/img/2457.png" group-title="Познавательные", Точка ТВ
+#EXTGRP:Познавательные
+http://31.148.48.15/Tochka_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tri-angela" tvg-name="Три ангела" tvg-logo="http://epg.one/img/2469.png" group-title="Познавательные", Три ангела
 #EXTGRP:Познавательные
 http://hls.tv.3angels.ru/stream/HD/HD.m3u8
