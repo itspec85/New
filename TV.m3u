@@ -1144,7 +1144,7 @@ http://195.26.83.96:7007/play/a00j/index.m3u8
 https://fl1001.bozztv.com/ushba31/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="hgtv-pl" tvg-name="HGTV HD" tvg-logo="http://epg.one/img/3599.png" group-title="Познавательные", HGTV HD
 #EXTGRP:Познавательные
-http://178.219.128.68:64889/HGTVHD
+http://91.146.94.234:10000/play/a05e
 #EXTINF:-1 tvg-name="HHQ" tvg-logo="https://avatars.mds.yandex.net/i?id=7a0a2713e4257dc393e55ded3c1e89de34ca5d21-8411463-images-thumbs&n=13" group-title="Познавательные", HHQ
 #EXTGRP:Познавательные
 https://stream.maxssw.com/hhq/live/chunklist.m3u8
