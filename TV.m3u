@@ -1032,7 +1032,7 @@ http://31.148.48.15/Teleputeshestviya/index.m3u8
 http://109.200.130.123:7537/play/a022
 #EXTINF:-1 tvg-id="hd-life" tvg-name="Точка РФ" tvg-logo="https://epgx.club/picons/hdl.png" group-title="Познавательные", Точка РФ
 #EXTGRP:Познавательные
-http://arbiter.bolshoe.tv/?path=abr2/hdlife/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NC8yLzIwMjUgNzowMTo0OSBQTSZoYXNoX3ZhbHVlPXBiUnEydEJHek5LNmUvSExQTzRZM0E9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=abr2/hdlife/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NC8zLzIwMjUgNzowMzo1MCBQTSZoYXNoX3ZhbHVlPTQ1UVFOYzEzKzJWVEY4NTA3dnNxZ2c9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
 #EXTINF:-1 tvg-id="tochka-tv" tvg-name="Точка ТВ" tvg-logo="http://epg.one/img/2457.png" group-title="Познавательные", Точка ТВ
 #EXTGRP:Познавательные
 http://31.148.48.15/Tochka_TV/tracks-v1a1/mono.m3u8
@@ -1853,7 +1853,7 @@ https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a
 http://194.143.148.28:8080/MatchArena/mpegts
 #EXTINF:-1 tvg-id="match-boets" tvg-name="Матч! Боец" tvg-logo="http://epg.one/img/2054.png" group-title="Спорт", Матч! Боец
 #EXTGRP:Спорт
-https://mhd128.iptv2022.com/p/IsImuX3_towLN5EGtjQkgQ,1743714013/streaming/boectv/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/cZzBXPrgoS275XW5PI6oCw,1743800413/streaming/boectv/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="match-igra" tvg-name="Матч! Игра" tvg-logo="http://epg.one/img/2050.png" group-title="Спорт", Матч! Игра
 #EXTGRP:Спорт
 http://87.120.142.11:18000/Match!Igra
@@ -1862,13 +1862,13 @@ http://87.120.142.11:18000/Match!Igra
 https://ucdn.beetv.kz/bpk-tv/000001695/tve/index.m3u8
 #EXTINF:-1 tvg-id="match-premier" tvg-name="Матч! Премьер" tvg-logo="http://epg.one/img/2250.png" group-title="Спорт", Матч! Премьер
 #EXTGRP:Спорт
-https://mhd128.iptv2022.com/p/5yiGiAiJghwfSz51empvqw,1743714013/streaming/match_premyer/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/ed8yni_b9ce9hEUo2DSJog,1743800413/streaming/match_premyer/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="match-premier" tvg-name="Матч! Премьер HD" tvg-logo="http://epg.one/img/2250.png" group-title="Спорт", Матч! Премьер HD
 #EXTGRP:Спорт
-https://mhd128.iptv2022.com/p/5Ac9l8kAy6bugFa_uMXm_g,1743714013/streaming/match_premyerhd/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/gXY72ir2nVykiN5tdqjN-A,1743800413/streaming/match_premyerhd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="match-nash-sport" tvg-name="Матч! Страна" tvg-logo="http://epg.one/img/2042.png" group-title="Спорт", Матч! Страна
 #EXTGRP:Спорт
-https://mhd128.iptv2022.com/p/QjlS7qGeP6bGd08wcbrzbQ,1743714012/streaming/nashsport/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/I7uLOKRbbZeJ7pD3JY0KMw,1743800413/streaming/nashsport/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="match-football1" tvg-name="Матч! Футбол 1" tvg-logo="http://epg.one/img/2044.png" group-title="Спорт", Матч! Футбол 1
 #EXTGRP:Спорт
 http://195.158.222.113:8000/play/80/index.m3u8
@@ -1880,13 +1880,13 @@ http://109.200.130.124:7005/play/a00h
 http://195.158.222.113:8000/play/81/index.m3u8
 #EXTINF:-1 tvg-id="match-football2" tvg-name="Матч! Футбол 2 HD" tvg-logo="http://epg.one/img/1042.png" group-title="Спорт", Матч! Футбол 2 HD
 #EXTGRP:Спорт
-https://mhd128.iptv2022.com/p/MiWVVu58Yz4PhG7VcEpF5Q,1743714013/streaming/footbal2hd/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/VKh-iya1nfcwdh03pv9zqQ,1743800413/streaming/footbal2hd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="match-football3" tvg-name="Матч! Футбол 3" tvg-logo="http://epg.one/img/2005.png" group-title="Спорт", Матч! Футбол 3
 #EXTGRP:Спорт
 http://185.57.68.33/110/mpegts
 #EXTINF:-1 tvg-id="match-football3" tvg-name="Матч! Футбол 3 HD" tvg-logo="http://epg.one/img/2005.png" group-title="Спорт", Матч! Футбол 3 HD
 #EXTGRP:Спорт
-https://mhd128.iptv2022.com/p/rnjSs4NZPlwXqlXP5qllUw,1743714013/streaming/footbal3hd/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/lbnrFNYaupBsBXGFWLgmiQ,1743800413/streaming/footbal3hd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="mir-basketbola" tvg-name="Мир Баскетбола" tvg-logo="http://epg.one/img/4629.png" group-title="Спорт", Мир Баскетбола
 #EXTGRP:Спорт
 http://65.21.85.175:8000/play/a00c/index.m3u8?token=livetv
@@ -1898,7 +1898,7 @@ http://130.193.73.10:8937/play/a04l
 https://ucdn.beetv.kz/bpk-tv/000007802/tve/index.m3u8
 #EXTINF:-1 tvg-id="football-ru" tvg-name="Футбол" tvg-logo="http://epg.one/img/2782.png" group-title="Спорт", Футбол
 #EXTGRP:Спорт
-https://mhd128.iptv2022.com/p/rxNJZRiCAmoq-emKOacjrA,1743714021/streaming/footbal/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/CLDhx4-adyocKgTMAin5vA,1743800422/streaming/footbal/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="a-spor-tr" tvg-name="A Spor HD TR" tvg-logo="http://epg.one/img/2587.png" group-title="Спорт", A Spor HD TR
 #EXTGRP:Спорт
 https://trkvz-live.daioncdn.net/aspor/aspor.m3u8
@@ -2015,7 +2015,7 @@ http://213.91.178.133:8000/play/a05n
 http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="m1global" tvg-name="MMA-TV.com" tvg-logo="http://epg.one/img/2326.png" group-title="Спорт", MMA-TV.com
 #EXTGRP:Спорт
-http://arbiter.bolshoe.tv/?path=abr2/sethd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NC8yLzIwMjUgNzowMTo0OSBQTSZoYXNoX3ZhbHVlPXBiUnEydEJHek5LNmUvSExQTzRZM0E9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=abr2/sethd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NC8zLzIwMjUgNzowMzo1MCBQTSZoYXNoX3ZhbHVlPTQ1UVFOYzEzKzJWVEY4NTA3dnNxZ2c9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
 #EXTINF:-1 tvg-id="nba-tv" tvg-name="NBA TV HD US" tvg-logo="http://epg.one/img/4587.png" group-title="Спорт", NBA TV HD US
 #EXTGRP:Спорт
 http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=47336&extension=ts
