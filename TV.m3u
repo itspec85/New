@@ -1032,7 +1032,7 @@ http://31.148.48.15/Teleputeshestviya/index.m3u8
 http://109.200.130.123:7537/play/a022
 #EXTINF:-1 tvg-id="hd-life" tvg-name="Точка РФ" tvg-logo="https://epgx.club/picons/hdl.png" group-title="Познавательные", Точка РФ
 #EXTGRP:Познавательные
-http://arbiter.bolshoe.tv/?path=abr2/hdlife/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NC8zLzIwMjUgNzowMzo1MCBQTSZoYXNoX3ZhbHVlPTQ1UVFOYzEzKzJWVEY4NTA3dnNxZ2c9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://178.212.71.253:8000/play/61/index.m3u8
 #EXTINF:-1 tvg-id="tochka-tv" tvg-name="Точка ТВ" tvg-logo="http://epg.one/img/2457.png" group-title="Познавательные", Точка ТВ
 #EXTGRP:Познавательные
 http://31.148.48.15/Tochka_TV/tracks-v1a1/mono.m3u8
@@ -2015,7 +2015,7 @@ http://213.91.178.133:8000/play/a05n
 http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="m1global" tvg-name="MMA-TV.com" tvg-logo="http://epg.one/img/2326.png" group-title="Спорт", MMA-TV.com
 #EXTGRP:Спорт
-http://arbiter.bolshoe.tv/?path=abr2/sethd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NC8zLzIwMjUgNzowMzo1MCBQTSZoYXNoX3ZhbHVlPTQ1UVFOYzEzKzJWVEY4NTA3dnNxZ2c9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://195.158.222.113:8000/play/a02q/index.m3u8
 #EXTINF:-1 tvg-id="nba-tv" tvg-name="NBA TV HD US" tvg-logo="http://epg.one/img/4587.png" group-title="Спорт", NBA TV HD US
 #EXTGRP:Спорт
 http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=47336&extension=ts
