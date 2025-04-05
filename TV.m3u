@@ -104,7 +104,7 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV-1.m3u8
 http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV.m3u8
 #EXTINF:-1 tvg-id="ntv" tvg-name="НТВ HD" tvg-logo="http://epg.one/img/2001.png" group-title="Россия", НТВ HD
 #EXTGRP:Россия
-http://river-1.rutube.ru/stream/genetta-315.m9.rutube.ru/OyzhXPlpOJsB42cDuwrJLQ/1743768697/c37cd74192c6bc3d6cd6077c0c4fd686/1080p_stream.m3u8
+http://195.158.222.113:8000/play/181/index.m3u8
 #EXTINF:-1 tvg-id="ntv-pl2" tvg-name="НТВ +2" tvg-logo="http://epg.one/img/2036.png" group-title="Россия", НТВ +2
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -177,7 +177,7 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_FRIDAY-1.m3u8
 http://dmi3y-tv.ru/hls/DVB-T2/CH_FRIDAY.m3u8
 #EXTINF:-1 tvg-id="piatnica" tvg-name="Пятница! HD" tvg-logo="http://epg.one/img/2765.png" group-title="Россия", Пятница! HD
 #EXTGRP:Россия
-http://river-1.rutube.ru/stream/genetta-520.ost.rutube.ru/GZzN__YaeXKbe9_KmEOcQw/1743747088/9f87a9a0cecbe773be6fddcbd93585ac/1080p_stream.m3u8
+http://river-1.rutube.ru/stream/genetta-520.ost.rutube.ru/HMNWv9MuT4jHaETnxIcQcQ/1744358007/9f87a9a0cecbe773be6fddcbd93585ac/1080p_stream.m3u8
 #EXTINF:-1 tvg-id="piatnica-pl2" tvg-name="Пятница +2" tvg-logo="http://epg.one/img/3016.png" group-title="Россия", Пятница +2
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -493,7 +493,7 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_TNT-1.m3u8
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TNT.m3u8
 #EXTINF:-1 tvg-id="tnt" tvg-name="ТНТ HD" tvg-logo="http://epg.one/img/1767.png" group-title="Россия", ТНТ HD
 #EXTGRP:Россия
-http://river-1.rutube.ru/stream/genetta-323.m9.rutube.ru/N05K4itlt7EXXuTwFmpsng/1743768694/546602986e6a424d74d594876ddb3f04/1080p_stream.m3u8
+http://195.158.222.113:8000/play/155/index.m3u8
 #EXTINF:-1 tvg-id="tnt-pl2" tvg-name="ТНТ +2" tvg-logo="http://epg.one/img/3022.png" group-title="Россия", ТНТ +2
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
