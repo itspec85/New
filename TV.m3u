@@ -1501,10 +1501,10 @@ http://dmi3y-tv.ru/hls/CH_KINOTV.m3u8
 https://ucdn.beetv.kz/bpk-tv/000008490/tve/index.m3u8
 #EXTINF:-1 tvg-id="kinokomedia" tvg-name="Кинокомедия" tvg-logo="http://epg.one/img/821.png" group-title="Кино", Кинокомедия
 #EXTGRP:Кино
-https://mhd128.iptv2022.com/p/EB6nugRxRzcwSKKGEc5E-w,1743973208/streaming/kinocomedia/324/1/tracks-v5a1/mono.m3u8
+http://176.113.48.221:8986/113
 #EXTINF:-1 tvg-id="kinomiks" tvg-name="Киномикс" tvg-logo="http://epg.one/img/644.png" group-title="Кино", Киномикс
 #EXTGRP:Кино
-https://mhd128.iptv2022.com/p/_WFiRkbZnAhTuQVZuv8Q3g,1743973207/streaming/kinomix/324/1/tracks-v5a1/mono.m3u8
+http://176.113.48.221:8986/67
 #EXTINF:-1 tvg-id="kinopokaz" tvg-name="Кинопоказ" tvg-logo="http://epg.one/img/2834.png" group-title="Кино", Кинопоказ
 #EXTGRP:Кино
 http://65.21.85.175:8000/play/a02a/index.m3u8?token=livetv
@@ -1519,13 +1519,13 @@ https://ucdn.beetv.kz/bpk-tv/000009132/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000003871/tve/index.m3u8
 #EXTINF:-1 tvg-id="kinosvidanie" tvg-name="Киносвидание" tvg-logo="http://epg.one/img/462.png" group-title="Кино", Киносвидание
 #EXTGRP:Кино
-https://mhd128.iptv2022.com/p/KdldEcqQNSLBTgSXpCWNcA,1743973206/streaming/film-watching/324/1/tracks-v5a1/mono.m3u8
+http://109.197.192.121:8080/kinosvidanie/index.m3u8
 #EXTINF:-1 tvg-id="kinosemiya" tvg-name="Киносемья" tvg-logo="http://epg.one/img/987.png" group-title="Кино", Киносемья
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000004633/tve/index.m3u8
 #EXTINF:-1 tvg-id="kinoseria" tvg-name="Киносерия" tvg-logo="http://epg.one/img/799.png" group-title="Кино", Киносерия
 #EXTGRP:Кино
-https://mhd128.iptv2022.com/p/wqq-4GeMYrDfg-2YYxgyEg,1743973207/streaming/kinoseria/324/1/tracks-v5a1/mono.m3u8
+http://109.197.192.121:8080/kinoseria/index.m3u8
 #EXTINF:-1 tvg-id="kinouzhas" tvg-name="Киноужас" tvg-logo="http://epg.one/img/2493.png" group-title="Кино", Киноужас
 #EXTGRP:Кино
 http://109.200.130.123:7537/play/a021
@@ -1552,7 +1552,7 @@ https://ucdn.beetv.kz/bpk-tv/000006365/tve/index.m3u8
 http://5.101.0.202:8080/3/index.m3u8
 #EXTINF:-1 tvg-id="muzhskoe-kino" tvg-name="Мужское кино" tvg-logo="http://epg.one/img/1584.png" group-title="Кино", Мужское кино
 #EXTGRP:Кино
-https://mhd128.iptv2022.com/p/eTkOGiVeRqkn0qmXqr1nBA,1743973207/streaming/male-movie/324/1/tracks-v5a1/mono.m3u8
+http://176.113.48.221:8986/136
 #EXTINF:-1 tvg-id="nash-kinopokaz" tvg-name="Наш кинопоказ" tvg-logo="http://epg.one/img/2831.png" group-title="Кино", Наш кинопоказ
 #EXTGRP:Кино
 https://mhd128.iptv2022.com/p/e0JUQEu9KoKLwExfcAwvFw,1743973207/streaming/nashpokaz/324/1/tracks-v5a1/mono.m3u8
@@ -1561,7 +1561,7 @@ https://mhd128.iptv2022.com/p/e0JUQEu9KoKLwExfcAwvFw,1743973207/streaming/nashpo
 https://mhd128.iptv2022.com/p/XscAwCmqIVR8YAMcNvLU6g,1743973207/streaming/nashemuzskoe/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="nashe-novoe-kino" tvg-name="Наше новое кино" tvg-logo="http://epg.one/img/485.png" group-title="Кино", Наше новое кино
 #EXTGRP:Кино
-https://mhd128.iptv2022.com/p/aa7PhRiDkHFpUiZobRF2IA,1743973207/streaming/nashe_n_kino/324/1/tracks-v5a1/mono.m3u8
+http://109.197.192.121:8080/kinohit/index.m3u8
 #EXTINF:-1 tvg-id="nst" tvg-name="НСТ" tvg-logo="http://epg.one/img/518.png" group-title="Кино", НСТ
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000000078/tve/index.m3u8
