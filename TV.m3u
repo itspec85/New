@@ -826,7 +826,7 @@ http://188.190.222.53/Doctor/index.m3u8
 http://130.193.73.10:8937/play/a02d
 #EXTINF:-1 tvg-id="drive" tvg-name="Драйв" tvg-logo="http://epg.one/img/2443.png" group-title="Познавательные", Драйв
 #EXTGRP:Познавательные
-https://mhd128.iptv2022.com/p/YMB1MGZzjX05MwFqPrzI7Q,1743973209/streaming/drive/324/1/tracks-v5a1/mono.m3u8
+http://109.197.192.121:8080/drive/index.m3u8
 #EXTINF:-1 tvg-id="dumatv" tvg-name="Дума ТВ" tvg-logo="https://iptvx.one/picons/dumatv.png" group-title="Познавательные", Дума ТВ
 #EXTGRP:Познавательные
 http://dumatv.iptv2022.com/tracks-v5a1/mono.m3u8
