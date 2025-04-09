@@ -1912,11 +1912,14 @@ http://bocian.io:8880/NL753811/552284900/105520
 #EXTINF:-1 tvg-id="canal-pl-sport-2" tvg-name="Canal+ Sport 2 PL" tvg-logo="http://epg.one/img/3058.png" group-title="Спорт", Canal+ Sport 2 PL
 #EXTGRP:Спорт
 http://bocian.io:8880/NL753811/552284900/105521
-
+#EXTINF:-1 tvg-id="canal-pl-sport-3" tvg-name="Canal+ Sport 3 PL" tvg-logo="http://epg.one/img/3058.png" group-title="Спорт", Canal+ Sport 3 PL
+#EXTGRP:Спорт
 http://bocian.io:8880/NL753811/552284900/105522
-
+#EXTINF:-1 tvg-id="canal-pl-sport-4" tvg-name="Canal+ Sport 4 PL" tvg-logo="http://epg.one/img/3058.png" group-title="Спорт", Canal+ Sport 4 PL
+#EXTGRP:Спорт
 http://bocian.io:8880/NL753811/552284900/105523
-
+#EXTINF:-1 tvg-id="canal-pl-sport-5" tvg-name="Canal+ Sport 5 PL" tvg-logo="http://epg.one/img/3058.png" group-title="Спорт", Canal+ Sport 5 PL
+#EXTGRP:Спорт
 http://bocian.io:8880/NL753811/552284900/153306
 
 #EXTINF:-1 tvg-id="cbc-sport" tvg-name="CBC Sport" tvg-logo="http://epg.one/img/2636.png" group-title="Спорт", CBC Sport
