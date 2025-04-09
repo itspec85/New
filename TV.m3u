@@ -1948,6 +1948,18 @@ http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=31360&extension
 #EXTINF:-1 tvg-id="digisport4" tvg-name="DIGI Sport 4 HD RO" tvg-logo="http://epg.one/img/2922.png" group-title="Спорт", DIGI Sport 4 HD RO
 #EXTGRP:Спорт
 http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=31359&extension=ts
+#EXTINF:-1 tvg-id="eleven-sports-1" tvg-name="Eleven Sports 1 HD PL" tvg-logo="https://epgx.club/picons/eleven-sports-1.png" group-title="Спорт", Eleven Sports 1 HD PL
+#EXTGRP:Спорт
+http://bocian.io:8880/NL753811/552284900/105525
+#EXTINF:-1 tvg-id="eleven-sports-2" tvg-name="Eleven Sports 2 HD PL" tvg-logo="https://epgx.club/picons/eleven-sports-2.png" group-title="Спорт", Eleven Sports 2 HD PL
+#EXTGRP:Спорт
+http://bocian.io:8880/NL753811/552284900/105526
+#EXTINF:-1 tvg-id="eleven-sports-3" tvg-name="Eleven Sports 3 HD PL" tvg-logo="https://epgx.club/picons/eleven-sports-3.png" group-title="Спорт", Eleven Sports 3 HD PL
+#EXTGRP:Спорт
+http://bocian.io:8880/NL753811/552284900/105527
+#EXTINF:-1 tvg-id="eleven-sports-4" tvg-name="Eleven Sports 4 HD PL" tvg-logo="https://epgx.club/picons/eleven-sports-4.png" group-title="Спорт", Eleven Sports 4 HD PL
+#EXTGRP:Спорт
+http://bocian.io:8880/NL753811/552284900/105528
 #EXTINF:-1 tvg-name="ESPN USA" tvg-logo="http://epg.one/img/6582.png" group-title="Спорт", ESPN USA
 #EXTGRP:Спорт
 http://cord-cutter.net:8080/LeeAv21/AvantL12/14197
