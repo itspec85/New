@@ -1908,10 +1908,17 @@ http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:BB:EE:72&stream=3028&extension=
 https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE_Max.m3u8
 #EXTINF:-1 tvg-id="canal-pl-sport-1" tvg-name="Canal+ Sport PL" tvg-logo="http://epg.one/img/3129.png" group-title="Спорт", Canal+ Sport PL
 #EXTGRP:Спорт
-http://178.219.128.68:64888/CANASPORHD
+http://bocian.io:8880/NL753811/552284900/105520
 #EXTINF:-1 tvg-id="canal-pl-sport-2" tvg-name="Canal+ Sport 2 PL" tvg-logo="http://epg.one/img/3058.png" group-title="Спорт", Canal+ Sport 2 PL
 #EXTGRP:Спорт
-http://178.219.128.68:64888/CANASPOR2HD
+http://bocian.io:8880/NL753811/552284900/105521
+
+http://bocian.io:8880/NL753811/552284900/105522
+
+http://bocian.io:8880/NL753811/552284900/105523
+
+http://bocian.io:8880/NL753811/552284900/153306
+
 #EXTINF:-1 tvg-id="cbc-sport" tvg-name="CBC Sport" tvg-logo="http://epg.one/img/2636.png" group-title="Спорт", CBC Sport
 #EXTGRP:Спорт
 http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=31400&extension=ts
