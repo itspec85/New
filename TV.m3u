@@ -1939,18 +1939,6 @@ http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=11237&extension
 #EXTINF:-1 tvg-name="DAZN Combat" tvg-logo="https://i.postimg.cc/VsW3Jsrz/logo-DAZN-Combat.png" group-title="Спорт", DAZN Combat
 #EXTGRP:Спорт
 https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
-#EXTINF:-1 tvg-id="digisport1" tvg-name="DIGI Sport 1 HD RO" tvg-logo="http://epg.one/img/2907.png" group-title="Спорт", DIGI Sport 1 HD RO
-#EXTGRP:Спорт
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=31362&extension=ts
-#EXTINF:-1 tvg-id="digisport2" tvg-name="DIGI Sport 2 HD RO" tvg-logo="http://epg.one/img/2906.png" group-title="Спорт", DIGI Sport 2 HD RO
-#EXTGRP:Спорт
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=31361&extension=ts
-#EXTINF:-1 tvg-id="digisport3" tvg-name="DIGI Sport 3 HD RO" tvg-logo="http://epg.one/img/2908.png" group-title="Спорт", DIGI Sport 3 HD RO
-#EXTGRP:Спорт
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=31360&extension=ts
-#EXTINF:-1 tvg-id="digisport4" tvg-name="DIGI Sport 4 HD RO" tvg-logo="http://epg.one/img/2922.png" group-title="Спорт", DIGI Sport 4 HD RO
-#EXTGRP:Спорт
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=31359&extension=ts
 #EXTINF:-1 tvg-id="eleven-sports-1" tvg-name="Eleven Sports 1 HD PL" tvg-logo="https://epgx.club/picons/eleven-sports-1.png" group-title="Спорт", Eleven Sports 1 HD PL
 #EXTGRP:Спорт
 http://bocian.io:8880/NL753811/552284900/105525
@@ -2028,7 +2016,7 @@ http://213.91.178.133:8000/play/a05n
 http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="m1global" tvg-name="MMA-TV.com" tvg-logo="http://epg.one/img/2326.png" group-title="Спорт", MMA-TV.com
 #EXTGRP:Спорт
-http://arbiter.bolshoe.tv/?path=abr2/sethd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjUgNzowOTo1MSBQTSZoYXNoX3ZhbHVlPVNrWGM2T24rTUl6SktyREl6TWNWY2c9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=abr2/sethd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMC8yMDI1IDc6MDI6MjUgUE0maGFzaF92YWx1ZT1sbWViVm5SM3p4L2NoNFVJVWNwWHdRPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 #EXTINF:-1 tvg-id="nba-tv" tvg-name="NBA TV HD US" tvg-logo="http://epg.one/img/4587.png" group-title="Спорт", NBA TV HD US
 #EXTGRP:Спорт
 http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=47336&extension=ts
