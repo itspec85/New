@@ -1522,7 +1522,7 @@ https://ucdn.beetv.kz/bpk-tv/000009132/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000003871/tve/index.m3u8
 #EXTINF:-1 tvg-id="kinosvidanie" tvg-name="Киносвидание" tvg-logo="http://epg.one/img/462.png" group-title="Кино", Киносвидание
 #EXTGRP:Кино
-http://109.197.192.121:8080/kinosvidanie/index.m3u8
+http://178.212.71.253:8000/play/122/index.m3u8
 #EXTINF:-1 tvg-id="kinosemiya" tvg-name="Киносемья" tvg-logo="http://epg.one/img/987.png" group-title="Кино", Киносемья
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000004633/tve/index.m3u8
