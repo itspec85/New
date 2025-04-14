@@ -1833,7 +1833,7 @@ https://edge50.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
 https://edge55.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int/chunklist_w601692199_b2660000_sleng.m3u8
 #EXTINF:-1 tvg-id="box-tv" tvg-name="Бокс ТВ" tvg-logo="http://epg.one/img/2285.png" group-title="Спорт", Бокс ТВ
 #EXTGRP:Спорт
-https://mhd128.iptv2022.com/p/3__Q7XYTBEyl2tVwmQiNdQ,1744664413/streaming/bokstv/324/1/tracks-v5a1/mono.m3u8
+https://ucdn.beetv.kz/bpk-tv/000001243/tve/index.m3u8
 #EXTINF:-1 tvg-id="konny-mir" tvg-name="Конный Мир" tvg-logo="http://epg.one/img/1679.png" group-title="Спорт", Конный Мир
 #EXTGRP:Спорт
 http://cdn-01.bonus-tv.ru/kmir/mono.m3u8
@@ -2016,7 +2016,7 @@ http://213.91.178.133:8000/play/a05n
 http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="m1global" tvg-name="MMA-TV.com" tvg-logo="http://epg.one/img/2326.png" group-title="Спорт", MMA-TV.com
 #EXTGRP:Спорт
-http://arbiter.bolshoe.tv/?path=abr2/sethd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMy8yMDI1IDc6MDE6MjMgUE0maGFzaF92YWx1ZT1MTHlBS09hczRQaVpVcDFleDVhdmdnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+https://ucdn.beetv.kz/bpk-tv/000003689/tve/index.m3u8
 #EXTINF:-1 tvg-id="nba-tv" tvg-name="NBA TV HD US" tvg-logo="http://epg.one/img/4587.png" group-title="Спорт", NBA TV HD US
 #EXTGRP:Спорт
 http://focustv.live:8080/emin1909sky317/emin.190924/94896
