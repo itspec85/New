@@ -523,7 +523,8 @@ http://85.187.13.40:18000/tntint
 http://dmi3y-tv.ru/hls/zabava/CH_TNT4-1.m3u8
 #EXTINF:-1 tvg-id="tnt4" tvg-name="ТНТ4" tvg-logo="http://epg.one/img/1649.png" group-title="Россия", ТНТ4
 #EXTGRP:Россия
-http://213.226.137.140:81/tl/l63/mpegts
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://dmi3y-tv.ru/hls/zabava/CH_TNT4.m3u8
 #EXTINF:-1 tvg-id="tnt4" tvg-name="ТНТ4 HD" tvg-logo="http://epg.one/img/1649.png" group-title="Россия", ТНТ4 HD
 #EXTGRP:Россия
 http://river-1.rutube.ru/stream/genetta-516.ost.rutube.ru/nCT62Gk0w2ea93yKoMd9Vg/1745053845/c801a7087e29a097192d74c270fbc6c1/1080p_stream.m3u8
@@ -535,6 +536,10 @@ http://dmi3y-tv.ru/hls/zabava/CH_TNT4_2.m3u8
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://dmi3y-tv.ru/hls/zabava/CH_TNT4_4.m3u8
+#EXTINF:-1 tvg-id="tnt4-pl6" tvg-name="ТНТ4 +6" tvg-logo="http://epg.one/img/1649.png" group-title="Россия", ТНТ4 +6
+#EXTGRP:Россия
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://dmi3y-tv.ru/hls/zabava/CH_TNT4_6.m3u8
 #EXTINF:-1 tvg-id="tnt4-pl7" tvg-name="ТНТ4 +7" tvg-logo="http://epg.one/img/1104.png" group-title="Россия", ТНТ4 +7
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
