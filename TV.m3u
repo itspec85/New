@@ -789,7 +789,7 @@ https://ucdn.beetv.kz/bpk-tv/000001921/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000008877/tve/index.m3u8
 #EXTINF:-1 tvg-id="arsenaltv" tvg-name="Арсенал HD" tvg-logo="http://epg.one/img/2768.png" group-title="Познавательные", Арсенал HD
 #EXTGRP:Познавательные
-https://mhd128.iptv2022.com/p/OZwwVtlNxt-TuJd6yUb0FQ,1745096408/streaming/tochkaotriva/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/dphQdRIoVHJt2q84Prgbkg,1745096408/streaming/multikhd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="bobior" tvg-name="Бобёр" tvg-logo="http://epg.one/img/2026.png" group-title="Познавательные", Бобёр
 #EXTGRP:Познавательные
 http://109.200.130.123:7537/play/a02c
