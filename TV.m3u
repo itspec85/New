@@ -634,6 +634,9 @@ http://stream.kaztrk.kz/regional/oskementv/index.m3u8
 #EXTINF:-1 tvg-id="astana" tvg-name="Astana TV KZ" tvg-logo="http://epg.one/img/2573.png" group-title="Казахстан", Astana TV KZ
 #EXTGRP:Казахстан
 https://ucdn.beetv.kz/bpk-tv/000000666/tve/index.m3u8
+#EXTINF:-1 tvg-id="astana" tvg-name="Astana TV KZ" tvg-logo="http://epg.one/img/2573.png" group-title="Казахстан", Astana TV KZ (резерв)
+#EXTGRP:Казахстан
+http://sc.id-tv.kz/Astana.m3u8
 #EXTINF:-1 tvg-id="atameken-business" tvg-name="Atameken Business" tvg-logo="https://iptvx.one/picons/atameken-business.png" group-title="Казахстан", Atameken Business
 #EXTGRP:Казахстан
 https://ucdn.beetv.kz/bpk-tv/000005322/tve/index.m3u8
