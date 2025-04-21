@@ -178,7 +178,7 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_FRIDAY-1.m3u8
 http://dmi3y-tv.ru/hls/DVB-T2/CH_FRIDAY.m3u8
 #EXTINF:-1 tvg-id="piatnica" tvg-name="Пятница! HD" tvg-logo="http://epg.one/img/2765.png" group-title="Россия", Пятница! HD
 #EXTGRP:Россия
-https://bl.rutube.ru/livestream/9f87a9a0cecbe773be6fddcbd93585ac/index.m3u8?s=BQehMlGYqofrY6MdmII9gw&e=1745226972&scheme=https
+https://river-1.rutube.ru/stream/genetta-517.ost.rutube.ru/2N5zdWrDXeq1JPYyL8_qGw/1745832893/9f87a9a0cecbe773be6fddcbd93585ac/1080p_stream.m3u8
 #EXTINF:-1 tvg-id="piatnica-pl2" tvg-name="Пятница +2" tvg-logo="http://epg.one/img/3016.png" group-title="Россия", Пятница +2
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
