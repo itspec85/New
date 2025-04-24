@@ -413,7 +413,7 @@ http://dmi3y-tv.ru/hls/zabava/CH_SUBBOTA-1.m3u8
 http://dmi3y-tv.ru/hls/zabava/CH_SUBBOTA.m3u8
 #EXTINF:-1 tvg-id="super" tvg-name="Суббота HD" tvg-logo="http://epg.one/img/2288.png" group-title="Россия", Суббота HD
 #EXTGRP:Россия
-https://river-1.rutube.ru/stream/genetta-313.m9.rutube.ru/WVX8Ng0BPzL4BPGHrnlKkA/1745430234/310744c10a5809da38aa445c952976da/1080p_stream.m3u8
+https://river-1.rutube.ru/stream/genetta-313.m9.rutube.ru/4ZfVK_srIYsC7HoPedD_Eg/1746044978/310744c10a5809da38aa445c952976da/1080p_stream.m3u8
 #EXTINF:-1 tvg-id="super" tvg-shift="-2" tvg-name="Суббота +2" tvg-logo="http://epg.one/img/7976.png" group-title="Россия", Суббота +2
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -440,7 +440,7 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3-1.m3u8
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3.m3u8
 #EXTINF:-1 tvg-id="tv3-ru" tvg-name="ТВ3 HD" tvg-logo="http://epg.one/img/698.png" group-title="Россия", ТВ3 HD
 #EXTGRP:Россия
-https://river-1.rutube.ru/stream/genetta-524.ost.rutube.ru/F5Pxau5SVX_xOT0EvbAN_g/1745390869/7bf12d9c050f9a7ef3728db5730432ae/720p_stream.m3u8
+http://river-1.rutube.ru/stream/genetta-524.ost.rutube.ru/I3IEAiA2w-KoOKuFJtWZ9A/1746014663/7bf12d9c050f9a7ef3728db5730432ae/1080p_stream.m3u8
 #EXTINF:-1 tvg-id="tv3-ru-pl2" tvg-name="ТВ3 +2" tvg-logo="http://epg.one/img/3013.png" group-title="Россия", ТВ3 +2
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -527,7 +527,7 @@ http://dmi3y-tv.ru/hls/zabava/CH_TNT4-1.m3u8
 http://dmi3y-tv.ru/hls/zabava/CH_TNT4.m3u8
 #EXTINF:-1 tvg-id="tnt4" tvg-name="ТНТ4 HD" tvg-logo="http://epg.one/img/1649.png" group-title="Россия", ТНТ4 HD
 #EXTGRP:Россия
-https://river-1.rutube.ru/stream/genetta-318.m9.rutube.ru/P0tBfBVBziUETNpT17U5DQ/1745390852/c801a7087e29a097192d74c270fbc6c1/1080p_stream.m3u8
+http://river-1.rutube.ru/stream/genetta-318.m9.rutube.ru/MK6rilxhaoT8JXSOUpdh8w/1746014666/c801a7087e29a097192d74c270fbc6c1/1080p_stream.m3u8
 #EXTINF:-1 tvg-id="tnt4-pl2" tvg-name="ТНТ4 +2" tvg-logo="http://epg.one/img/7978.png" group-title="Россия", ТНТ4 +2
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
