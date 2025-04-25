@@ -1260,7 +1260,7 @@ http://130.193.73.10:8937/play/a01j
 https://ucdn.beetv.kz/bpk-tv/000005528/tve/index.m3u8
 #EXTINF:-1 tvg-id="viasat-history" tvg-name="Viju History (резерв)" tvg-logo="http://epg.one/img/277.png" group-title="Познавательные", Viju History (резерв)
 #EXTGRP:Познавательные
-http://188.190.222.53/Viasat_History/index.m3u8
+http://135.181.115.81:8000/play/a00g/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="viasat-nature" tvg-name="Viju Nature" tvg-logo="http://epg.one/img/765.png" group-title="Познавательные", Viju Nature
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000006482/tve/index.m3u8
