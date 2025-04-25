@@ -1290,7 +1290,7 @@ https://ucdn.beetv.kz/bpk-tv/000002762/tve/index.m3u8
 http://195.26.83.96:7007/play/14/index.m3u8
 #EXTINF:-1 tvg-id="detkinoint-tviksel" tvg-name="Детское кино International" tvg-logo="http://epg.one/img/6261.png" group-title="Детские", Детское кино International
 #EXTGRP:Детские
-https://autopilot.catcast.tv/content/38720/index.m3u8
+https://kino-1.catcast.tv/content/38720/index.m3u8
 #EXTINF:-1 tvg-name="Ералаш" tvg-logo="https://epg.one/img/4775.png" group-title="Детские", Ералаш
 #EXTGRP:Детские
 https://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
@@ -1431,9 +1431,6 @@ http://92.53.64.197:5050/IPTVPLAYMultSkazki.tv/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 tvg-id="jimjam" tvg-name="JimJam" tvg-logo="http://epg.one/img/494.png" group-title="Детские", JimJam
 #EXTGRP:Детские
 http://91.146.94.234:10000/play/a061
-#EXTINF:-1 tvg-id="kidstv" tvg-name="Kids TV HD" tvg-logo="http://epg.one/img/9025.png" group-title="Детские", Kids TV HD
-#EXTGRP:Детские
-http://origin5.mediacdn.ru/live/kidstv/index.m3u8
 #EXTINF:-1 tvg-id="nick-jr" tvg-name="Nick Jr" tvg-logo="http://epg.one/img/917.png" group-title="Детские", Nick Jr
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000000449/tve/index.m3u8
