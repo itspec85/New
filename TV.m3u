@@ -1288,9 +1288,6 @@ https://ucdn.beetv.kz/bpk-tv/000002762/tve/index.m3u8
 #EXTINF:-1 tvg-id="detsky-mir" tvg-name="Детский мир" tvg-logo="http://epg.one/img/923.png" group-title="Детские", Детский мир
 #EXTGRP:Детские
 http://195.26.83.96:7007/play/14/index.m3u8
-#EXTINF:-1 tvg-id="detkinoint-tviksel" tvg-name="Детское кино International" tvg-logo="http://epg.one/img/6261.png" group-title="Детские", Детское кино International
-#EXTGRP:Детские
-https://kino-1.catcast.tv/content/38720/index.m3u8
 #EXTINF:-1 tvg-name="Ералаш" tvg-logo="https://epg.one/img/4775.png" group-title="Детские", Ералаш
 #EXTGRP:Детские
 https://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
