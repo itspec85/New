@@ -1231,9 +1231,6 @@ https://ucdn.beetv.kz/bpk-tv/000000039/tve/index.m3u8
 #EXTINF:-1 tvg-id="russky-ekstrim" tvg-name="Russian Extreme HD" tvg-logo="http://epg.one/img/4110.png" group-title="Познавательные", Russian Extreme HD
 #EXTGRP:Познавательные
 http://195.26.83.96:7029/play/a008
-#EXTINF:-1 tvg-name="Sunset Space" tvg-logo="https://avatars.mds.yandex.net/i?id=0f30410fe13b268b040f9cc78487eab63ca2e227-4409822-images-thumbs&n=13" group-title="Познавательные", Sunset Space
-#EXTGRP:Познавательные
-https://stream.sunset-media.org:443/AfBrazXsUK/J9hGT3vYuv/3.m3u8
 #EXTINF:-1 tvg-id="terra-ru" tvg-name="TERRA" tvg-logo="http://epg.one/img/7632.png" group-title="Познавательные", TERRA
 #EXTGRP:Познавательные
 http://130.193.73.10:8937/play/a01g
@@ -1446,9 +1443,6 @@ https://ucdn.beetv.kz/bpk-tv/000000499/tve/index.m3u8
 #EXTINF:-1 tvg-id="nicktoons" tvg-name="NickToons" tvg-logo="http://epg.one/img/2994.png" group-title="Детские", NickToons
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000004365/tve/index.m3u8
-#EXTINF:-1 tvg-name="Sunset Kids" tvg-logo="https://avatars.mds.yandex.net/i?id=0f30410fe13b268b040f9cc78487eab63ca2e227-4409822-images-thumbs&n=13" group-title="Детские", Sunset Kids
-#EXTGRP:Детские
-https://stream.sunset-media.org:443/AfBrazXsUK/J9hGT3vYuv/5.m3u8
 #EXTINF:-1 tvg-id="tiji" tvg-name="Tiji TV" tvg-logo="http://epg.one/img/555.png" group-title="Детские", Tiji TV
 #EXTGRP:Детские
 http://188.190.222.53/TiJi/index.m3u8
@@ -1782,12 +1776,6 @@ https://ucdn.beetv.kz/bpk-tv/000007815/tve/index.m3u8
 #EXTINF:-1 tvg-id="start-world" tvg-name="START World" tvg-logo="http://epg.one/img/6240.png" group-title="Кино", START World
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000007818/tve/index.m3u8
-#EXTINF:-1 tvg-name="Sunset Fantastic" tvg-logo="https://avatars.mds.yandex.net/i?id=0f30410fe13b268b040f9cc78487eab63ca2e227-4409822-images-thumbs&n=13" group-title="Кино", Sunset Fantastic
-#EXTGRP:Кино
-https://stream.sunset-media.org/AfBrazXsUK/J9hGT3vYuv/8.m3u8
-#EXTINF:-1 tvg-name="Sunset Serial" tvg-logo="https://avatars.mds.yandex.net/i?id=0f30410fe13b268b040f9cc78487eab63ca2e227-4409822-images-thumbs&n=13" group-title="Кино", Sunset Serial
-#EXTGRP:Кино
-https://stream.sunset-media.org/AfBrazXsUK/J9hGT3vYuv/9.m3u8
 #EXTINF:-1 tvg-id="suspense" tvg-name="Suspense HD" tvg-logo="http://epg.one/img/9180.png" group-title="Кино", Suspense HD
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000008739/tve/index.m3u8
@@ -2413,9 +2401,6 @@ https://songtv.hls.iptvdc.com/web-russia/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Spirit TV HD" tvg-logo="http://epg.one/img/4657.png" group-title="Музыка", Spirit TV HD
 #EXTGRP:Музыка
 http://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Sunset Music" tvg-logo="https://avatars.mds.yandex.net/i?id=0f30410fe13b268b040f9cc78487eab63ca2e227-4409822-images-thumbs&n=13" group-title="Музыка", Sunset Music
-#EXTGRP:Музыка
-https://stream.sunset-media.org:443/AfBrazXsUK/J9hGT3vYuv/2.m3u8
 #EXTINF:-1 tvg-name="Trace Brazuca" tvg-logo="https://avatars.mds.yandex.net/i?id=0dbd9bbd22a21bc5fa5ba2a611c9504c12dc7fed-11377357-images-thumbs&n=13" group-title="Музыка", Trace Brazuca
 #EXTGRP:Музыка
 https://amg01131-tracetv-tracebrazuca-xiaomi-vvr19.amagi.tv/playlist/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
