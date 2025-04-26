@@ -991,6 +991,9 @@ http://176.107.219.20:9000/play/a003/index.m3u8
 #EXTINF:-1 tvg-id="prosveschenie" tvg-name="Просвещение" tvg-logo="http://epg.one/img/2296.png" group-title="Познавательные", Просвещение
 #EXTGRP:Познавательные
 http://cdn-01.bonus-tv.ru/prosveschenie_edge/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="psixologia-21" tvg-name="Психология 21" tvg-logo="http://epg.one/img/2450.png" group-title="Познавательные", Психология 21
+#EXTGRP:Познавательные
+http://178.212.71.253:8000/play/96/index.m3u8
 #EXTINF:-1 tvg-id="radost-moya" tvg-name="Радость моя" tvg-logo="http://epg.one/img/2287.png" group-title="Познавательные", Радость моя
 #EXTGRP:Познавательные
 https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
