@@ -3542,18 +3542,12 @@ http://str.yodacdn.net/aztv/index.m3u8
 #EXTINF:-1 tvg-name="Baku TV AZ" tvg-logo="http://epg.one/img/9144.png" group-title="Азербайджан", Baku TV AZ
 #EXTGRP:Азербайджан
 https://rtmp.baku.tv/hls/bakutv.m3u8
-#EXTINF:-1 tvg-name="BOX TV" tvg-logo="https://i.postimg.cc/jjBLC3Lf/IMG-20241028-115804-428.jpg" group-title="Азербайджан", BOX TV
-#EXTGRP:Азербайджан
-https://live.yayingold.com.tr/boxtvazlive/index.m3u8
 #EXTINF:-1 tvg-id="cbc-az" tvg-name="CBC AZ" tvg-logo="http://epg.one/img/2158.png" group-title="Азербайджан", CBC AZ
 #EXTGRP:Азербайджан
 https://stream.cbctv.az:5443/LiveApp/streams/cbctv.m3u8
-#EXTINF:-1 tvg-name="Doğru TV" tvg-logo="https://i.postimg.cc/BvxFBVZJ/In-Shot-20250209-202725000.png" group-title="Азербайджан", Doğru TV
-#EXTGRP:Азербайджан
-https://live.yayingold.com.tr/dogrutvazlive/index.m3u8
 #EXTINF:-1 tvg-name="Dünya TV" tvg-logo="https://i.imgur.com/A3yaU4J.png" group-title="Азербайджан", Dünya TV
 #EXTGRP:Азербайджан
-http://stream.tvcdn.net/azerbaycan/dunya-tv.m3u8
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/78642
 #EXTINF:-1 tvg-name="FTV AZ" tvg-logo="https://i.postimg.cc/SKTndbFF/In-Shot-20250209-203240269.png" group-title="Азербайджан", FTV AZ
 #EXTGRP:Азербайджан
 https://vsrv1.az-streamingserver.com:3833/live/ofhwiwudlive.m3u8
