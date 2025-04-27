@@ -3569,18 +3569,6 @@ http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/pl
 #EXTINF:-1 tvg-name="LiveTV" tvg-logo="https://i.postimg.cc/9Xnf67CM/livetv-az-turk-and-azerbaijan-logo.webp" group-title="Азербайджан", LiveTV
 #EXTGRP:Азербайджан
 http://tv.mobyservice.ru/livetv/index.m3u8
-#EXTINF:-1 tvg-name="Mega TV Classi̇c" tvg-logo="https://i.postimg.cc/XvLGt0wY/IMG-20250209-164211-031.jpg" group-title="Азербайджан", Mega TV Classi̇c
-#EXTGRP:Азербайджан
-https://a8.radyotelekom.com.tr:3335/stream/play.m3u8
-#EXTINF:-1 tvg-name="Mega TV Musiqi" tvg-logo="https://i.postimg.cc/XvLGt0wY/IMG-20250209-164211-031.jpg" group-title="Азербайджан", Mega TV Musiqi
-#EXTGRP:Азербайджан
-https://tv208.radyotelekom.com.tr:3513/hybrid/play.m3u8
-#EXTINF:-1 tvg-name="Mega TV Müharibə" tvg-logo="https://i.postimg.cc/XvLGt0wY/IMG-20250209-164211-031.jpg" group-title="Азербайджан", Mega TV Müharibə
-#EXTGRP:Азербайджан
-https://tv208.radyotelekom.com.tr:3335/stream/play.m3u8
-#EXTINF:-1 tvg-name="Mega TV Şaban" tvg-logo="https://i.postimg.cc/XvLGt0wY/IMG-20250209-164211-031.jpg" group-title="Азербайджан", Mega TV Şaban
-#EXTGRP:Азербайджан
-https://a8.radyotelekom.com.tr:3417/stream/play.m3u8
 #EXTINF:-1 tvg-name="Mega TV Sinema" tvg-logo="https://i.postimg.cc/XvLGt0wY/IMG-20250209-164211-031.jpg" group-title="Азербайджан", Mega TV Sinema
 #EXTGRP:Азербайджан
 https://tv208.radyotelekom.com.tr/p/3580/hybrid/play.m3u8
@@ -3590,12 +3578,9 @@ https://str.yodacdn.net/medeniyyet/index.m3u8
 #EXTINF:-1 tvg-name="Musi̇c Azerbaycan" tvg-logo="https://i.postimg.cc/PJbFG4MH/In-Shot-20250209-195400220.png" group-title="Азербайджан", Musi̇c Azerbaycan
 #EXTGRP:Азербайджан
 https://cdn-sinematv.yayin.com.tr/sinematv/sinematv/playlist.m3u8
-#EXTINF:-1 tvg-name="QƏBƏLƏ TV" tvg-logo="https://i.postimg.cc/8PxSy5x2/1660890233967.jpg" group-title="Азербайджан", QƏBƏLƏ TV
-#EXTGRP:Азербайджан
-https://qebeletv.ozelip.net:3918/stream/play.m3u8
 #EXTINF:-1 tvg-name="Real TV" tvg-logo="https://avatars.mds.yandex.net/i?id=0000e86d8f5fa29e64aa52734b9b7055286367ba-6942344-images-thumbs&n=13" group-title="Азербайджан", Real TV
 #EXTGRP:Азербайджан
-http://stream.tvcdn.net/azerbaycan/real-tv.m3u8
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/78639
 #EXTINF:-1 tvg-name="Show Plus TV AZ" tvg-logo="http://epg.one/img/9131.png" group-title="Азербайджан", Show Plus TV AZ
 #EXTGRP:Азербайджан
 https://ssh101.bozztv.com/ssh101/showplus/chunks.m3u8
@@ -3605,30 +3590,21 @@ https://tv208.radyotelekom.com.tr/p/3326/hybrid/play.m3u8
 #EXTINF:-1 tvg-name="Səhənd TV" tvg-logo="https://i.postimg.cc/bwrLL84p/1200px-Sahand-TV-logo-svg.png" group-title="Азербайджан", Səhənd TV
 #EXTGRP:Азербайджан
 https://cdn-azd2055.telewebion.com/ek/sahand/live/576p/index.m3u8
-#EXTINF:-1 tvg-name="Səs TV" tvg-logo="https://i.postimg.cc/zvkp2fJX/In-Shot-20250209-200301414.png" group-title="Азербайджан", Səs TV
-#EXTGRP:Азербайджан
-http://stream.tvcdn.net:80/azerbaycan/ses-tv.m3u8
 #EXTINF:-1 tvg-name="Son Ümi̇d TV" tvg-logo="https://i.postimg.cc/KYd9RVqF/In-Shot-20250209-195931309.png" group-title="Азербайджан", Son Ümi̇d TV
 #EXTGRP:Азербайджан
 https://cdn-sonumidtv.yayin.com.tr/sonumidtv/sonumidtv/playlist.m3u8
 #EXTINF:-1 tvg-name="Space TV" tvg-logo="http://epg.one/img/2553.png" group-title="Азербайджан", Space TV
 #EXTGRP:Азербайджан
-http://stream.tvcdn.net/azerbaycan/space-tv.m3u8
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:BB:EE:72&stream=31394&extension=ts
 #EXTINF:-1 tvg-name="TMB TV" tvg-logo="https://epg.one/img/8714.png" group-title="Азербайджан", TMB TV
 #EXTGRP:Азербайджан
-http://stream.tvcdn.net/azerbaycan/tmb-azerbaycan.m3u8
-#EXTINF:-1 tvg-name="Ümi̇d TV Show" tvg-logo="https://i.postimg.cc/dVhmr6T0/In-Shot-20250209-201303727.png" group-title="Азербайджан", Ümi̇d TV Show
-#EXTGRP:Азербайджан
-https://live.yayingold.com.tr/utvshowazlive/index.m3u8
+http://135.181.115.81:8000/play/a031/index.m3u8?token=livetv
 #EXTINF:-1 tvg-name="Vi̇layət TV" tvg-logo="https://i.postimg.cc/KYvDsfdB/logo.png" group-title="Азербайджан", Vi̇layət TV
 #EXTGRP:Азербайджан
 https://nl.livekadeh.com/hls2/vilayet_high.m3u8
-#EXTINF:-1 tvg-name="VIP HD" tvg-logo="https://i.postimg.cc/MZhZ70hD/download-1.jpg" group-title="Азербайджан", VIP HD
-#EXTGRP:Азербайджан
-http://stream.tvcdn.net/azerbaycan/vip-hd.m3u8
 #EXTINF:-1 tvg-name="Xəzər TV" tvg-logo="https://avatars.mds.yandex.net/i?id=a51bcc810957d37002d2dbfb0b0b6e79_sr-4688175-images-thumbs&n=13" group-title="Азербайджан", Xəzər TV
 #EXTGRP:Азербайджан
-http://stream.tvcdn.net/azerbaycan/xezer-tv.m3u8
+http://135.181.115.81:8000/play/a04y/index.m3u8?token=livetv
 #EXTINF:-1 tvg-name="Yurd TV" tvg-logo="https://i.postimg.cc/D0WyMmmp/Logo-Yurd-FM.jpg" group-title="Азербайджан", Yurd TV
 #EXTGRP:Азербайджан
 https://restreamer.livetv.az/memfs/a6cecb21-e17c-4f32-8854-0b72d57211d8.m3u8
