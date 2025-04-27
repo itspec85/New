@@ -3556,13 +3556,13 @@ https://vsrv1.az-streamingserver.com:3833/live/ofhwiwudlive.m3u8
 https://live.ishiacloud.com/hls/1d6e10dc-7bfc-4abb-9bb3-0dfe80b3d7df_720p.m3u8
 #EXTINF:-1 tvg-id="ictimai-tv" tvg-name="Ictimai TV" tvg-logo="http://epg.one/img/2555.png" group-title="Азербайджан", Ictimai TV
 #EXTGRP:Азербайджан
-http://stream.tvcdn.net/azerbaycan/ictimai-tv.m3u8
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:BB:EE:72&stream=31398&extension=ts
 #EXTINF:-1 tvg-id="idman" tvg-name="Idman TV" tvg-logo="http://epg.one/img/2637.png" group-title="Азербайджан", Idman TV
 #EXTGRP:Азербайджан
 http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:BB:EE:72&stream=31397&extension=ts
 #EXTINF:-1 tvg-name="Kanal S" tvg-logo="http://epg.one/img/2612.png" group-title="Азербайджан", Kanal S
 #EXTGRP:Азербайджан
-http://stream.tvcdn.net/azerbaycan/start-tv.m3u8
+http://135.181.115.81:8000/play/a04r/index.m3u8?token=livetv
 #EXTINF:-1 tvg-name="Könül TV" tvg-logo="https://avatars.mds.yandex.net/get-socsnippets/13206128/2a000001923a9a28a58c320eaed7ae886a7c/square_216" group-title="Азербайджан", Könül TV
 #EXTGRP:Азербайджан
 http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
