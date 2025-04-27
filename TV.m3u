@@ -3518,12 +3518,12 @@ http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
 #EXTINF:-1 tvg-name="Amedia TV" tvg-logo="https://i.postimg.cc/VvsX6W8m/In-Shot-20250209-201712039.png" group-title="Азербайджан", Amedia TV
 #EXTGRP:Азербайджан
 https://a8.radyotelekom.com.tr:3427/stream/play.m3u8
+#EXTINF:-1 tvg-name="ARB 24" tvg-logo="http://epg.one/img/2551.png" group-title="Азербайджан", ARB 24
+#EXTGRP:Азербайджан
+http://135.181.115.81:8000/play/a04i/index.m3u8?token=livetv
 #EXTINF:-1 tvg-name="ARB Canli Az" tvg-logo="http://epg.one/img/2635.png" group-title="Азербайджан", ARB Canli Az
 #EXTGRP:Азербайджан
 http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:BB:EE:72&stream=100390&extension=ts
-#EXTINF:-1 tvg-name="ARB 24" tvg-logo="http://epg.one/img/2551.png" group-title="Азербайджан", ARB 24
-#EXTGRP:Азербайджан
-http://stream.tvcdn.net/azerbaycan/arb-24.m3u8
 #EXTINF:-1 tvg-id="arb-gunes" tvg-name="ARB Gunes HD" tvg-logo="http://epg.one/img/2552.png" group-title="Азербайджан", ARB Gunes HD
 #EXTGRP:Азербайджан
 http://135.181.115.81:8000/play/a04g/index.m3u8?token=livetv
