@@ -1844,7 +1844,10 @@ https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a
 http://194.143.148.28:8080/MatchArena/mpegts
 #EXTINF:-1 tvg-id="match-boets" tvg-name="Матч! Боец" tvg-logo="http://epg.one/img/2054.png" group-title="Спорт", Матч! Боец
 #EXTGRP:Спорт
-https://mhd128.iptv2022.com/p/kAo71l_Oew1vbdSpDnXWCw,1745787612/streaming/boectv/324/1/tracks-v5a1/mono.m3u8
+http://130.193.73.10:8937/play/a04k
+#EXTINF:-1 tvg-id="match-boets" tvg-name="Матч! Боец" tvg-logo="http://epg.one/img/2054.png" group-title="Спорт", Матч! Боец (резерв)
+#EXTGRP:Спорт
+http://87.120.142.11:18000/Match
 #EXTINF:-1 tvg-id="match-igra" tvg-name="Матч! Игра" tvg-logo="http://epg.one/img/2050.png" group-title="Спорт", Матч! Игра
 #EXTGRP:Спорт
 http://87.120.142.11:18000/Match!Igra
@@ -1859,7 +1862,7 @@ https://mhd128.iptv2022.com/p/qY8FSsiUJt0tC8i5SvSIkA,1745787612/streaming/match_
 https://mhd128.iptv2022.com/p/xjFbzwvuntoswFa7pjv7wg,1745787612/streaming/match_premyerhd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="match-nash-sport" tvg-name="Матч! Страна" tvg-logo="http://epg.one/img/2042.png" group-title="Спорт", Матч! Страна
 #EXTGRP:Спорт
-https://mhd128.iptv2022.com/p/QwHOLAI_tKyy1LI_ek3-BA,1745787612/streaming/nashsport/324/1/tracks-v5a1/mono.m3u8
+http://178.212.71.253:8000/play/51/index.m3u8
 #EXTINF:-1 tvg-id="match-football1" tvg-name="Матч! Футбол 1 HD" tvg-logo="http://epg.one/img/2044.png" group-title="Спорт", Матч! Футбол 1 HD
 #EXTGRP:Спорт
 https://mhd128.iptv2022.com/p/easNTp2XfTVkHny6Ro44dA,1745787612/streaming/footbal1hd/324/1/tracks-v5a1/mono.m3u8
