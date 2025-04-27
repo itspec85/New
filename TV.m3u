@@ -3517,19 +3517,19 @@ http://dmi3y-tv.ru/hls/zabava/region/CHEL/CH_URAL1HD.m3u8
 http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
 #EXTINF:-1 tvg-name="Amedia TV" tvg-logo="https://i.postimg.cc/VvsX6W8m/In-Shot-20250209-201712039.png" group-title="Азербайджан", Amedia TV
 #EXTGRP:Азербайджан
-https://live.yayingold.com.tr/amediatvlive/index.m3u8
+https://a8.radyotelekom.com.tr:3427/stream/play.m3u8
 #EXTINF:-1 tvg-name="ARB Canli Az" tvg-logo="http://epg.one/img/2635.png" group-title="Азербайджан", ARB Canli Az
 #EXTGRP:Азербайджан
-http://stream.tvcdn.net/azerbaycan/arb.m3u8
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:BB:EE:72&stream=100390&extension=ts
 #EXTINF:-1 tvg-name="ARB 24" tvg-logo="http://epg.one/img/2551.png" group-title="Азербайджан", ARB 24
 #EXTGRP:Азербайджан
 http://stream.tvcdn.net/azerbaycan/arb-24.m3u8
 #EXTINF:-1 tvg-id="arb-gunes" tvg-name="ARB Gunes HD" tvg-logo="http://epg.one/img/2552.png" group-title="Азербайджан", ARB Gunes HD
 #EXTGRP:Азербайджан
-http://stream.tvcdn.net/azerbaycan/arb-gunes.m3u8
+http://135.181.115.81:8000/play/a04g/index.m3u8?token=livetv
 #EXTINF:-1 tvg-name="ATV AZ" tvg-logo="https://avatars.mds.yandex.net/i?id=0951c25562181a03d31e9b44d854fb138a4a2001-8539554-images-thumbs&n=13" group-title="Азербайджан", ATV AZ
 #EXTGRP:Азербайджан
-https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920.m3u8
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/78630
 #EXTINF:-1 tvg-name="Ayaz TV" tvg-logo="https://vipotv.com/wp-content/uploads/2024/07/ayaz-tv-izle-vipotv.png" group-title="Азербайджан", Ayaz TV
 #EXTGRP:Азербайджан
 https://janya-ayaztv.vgcdn.net/ptnr-Vipo%20TV/title-Ayaz_TV/v1/vglive-sk-934820/AyazTV_1500k.m3u8
@@ -3541,7 +3541,7 @@ http://live.azstartv.com/azstar/azstar_1080p/playlist.m3u8
 http://str.yodacdn.net/aztv/index.m3u8
 #EXTINF:-1 tvg-name="Baku TV AZ" tvg-logo="http://epg.one/img/9144.png" group-title="Азербайджан", Baku TV AZ
 #EXTGRP:Азербайджан
-http://stream.tvcdn.net/azerbaycan/baku-tv.m3u8
+https://rtmp.baku.tv/hls/bakutv.m3u8
 #EXTINF:-1 tvg-name="BOX TV" tvg-logo="https://i.postimg.cc/jjBLC3Lf/IMG-20241028-115804-428.jpg" group-title="Азербайджан", BOX TV
 #EXTGRP:Азербайджан
 https://live.yayingold.com.tr/boxtvazlive/index.m3u8
