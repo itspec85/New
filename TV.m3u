@@ -354,9 +354,12 @@ http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIAKHD_7.m3u8
 #EXTINF:-1 tvg-id="rtr-planeta-azia" tvg-name="Россия РТР" tvg-logo="http://epg.one/img/2547.png" group-title="Россия", Россия РТР
 #EXTGRP:Россия
 https://streaming.televizor-24-tochka.ru/live/211.m3u8
-#EXTINF:-1 tvg-id="rtr-planeta-eu" tvg-name="РТР Планета" tvg-logo="https://epgx.club/picons/rtr-planeta.png" group-title="Россия", РТР Планета
+#EXTINF:-1 tvg-id="rtr-planeta-eu" tvg-name="РТР Планета" tvg-logo="https://epgx.club/picons/rtr-planeta.png" group-title="Россия", РТР Планета (Европа)
 #EXTGRP:Россия
 http://player.smotrim.ru/iframe/stream/live_id/d7fef212-df66-485d-9952-7eab82d7d51b.m3u8
+#EXTINF:-1 tvg-id="rtr-planeta-eu" tvg-name="РТР Планета" tvg-logo="https://epgx.club/picons/rtr-planeta.png" group-title="Россия", РТР Планета (США)
+#EXTGRP:Россия
+http://player.smotrim.ru/iframe/stream/live_id/cf22fa5c-e21a-433e-8317-7e8dd3150d6a.m3u8
 #EXTINF:-1 tvg-id="sts" tvg-shift="+1" tvg-name="СТС -1" tvg-logo="http://epg.one/img/79.png" group-title="Россия", СТС -1
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
