@@ -1131,6 +1131,9 @@ http://cord-cutter.net:8080/LeeAv21/AvantL12/53695
 #EXTINF:-1 tvg-id="dtx-pl" tvg-name="DTX PL" tvg-logo="http://epg.one/img/1585.png" group-title="Познавательные", DTX PL
 #EXTGRP:Познавательные
 http://178.219.128.68:64888/DTXHD
+#EXTINF:-1 tvg-id="deutsche-welle-ru" tvg-name="DW Russia" tvg-logo="https://yandex.kz/images/touch/search?pos=9&img_url=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F7%2F75%2FDeutsche_Welle_symbol_2012.svg%2F1599px-Deutsche_Welle_symbol_2012.svg.png&text=Deutsche+Welle+Russia+%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF&rpt=simage&lr=20273" group-title="Познавательные", DW Russia
+#EXTGRP:Познавательные
+https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
 #EXTINF:-1 tvg-id="e-tv" tvg-name="E TV" tvg-logo="http://epg.one/img/1676.png" group-title="Познавательные", E TV
 #EXTGRP:Познавательные
 http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
