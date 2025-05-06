@@ -1548,6 +1548,9 @@ https://ucdn.beetv.kz/bpk-tv/000004485/tve/index.m3u8
 #EXTINF:-1 tvg-name="Кошмар HD" tvg-logo="https://avatars.mds.yandex.net/i?id=c872d891d61f5db18c83c97bdf2e7df2b83df1a71091be81-12643871-images-thumbs&n=13" group-title="Кино", Кошмар HD
 #EXTGRP:Кино
 http://dmi3y-tv.ru/hls/CH_KOSHMAR.m3u8
+#EXTINF:-1 tvg-name="Любимое индийское кино" tvg-logo="https://tvapp.live/images/logo-channel/lyubimoe-indijskoe-kino-tv.png" group-title="Кино", Любимое индийское кино
+#EXTGRP:Кино
+http://autopilot.catcast.tv/content/41596/index.m3u8
 #EXTINF:-1 tvg-id="lubimoe-kino" tvg-name="Любимое кино" tvg-logo="http://epg.one/img/477.png" group-title="Кино", Любимое кино
 #EXTGRP:Кино
 http://130.193.73.10:8937/play/a037
@@ -1701,6 +1704,7 @@ http://178.124.152.238:8088/cinema
 https://ucdn.beetv.kz/bpk-tv/000000452/tve/index.m3u8
 #EXTINF:-1 tvg-name="Dimpon HD" tvg-logo="https://static.goodgame.ru/files/avatars/av_1643154_EWvG.jpg" group-title="Кино", Dimpon HD
 #EXTGRP:Кино
+#EXTVLCOPT:http-user-agent=goodgame
 http://hls.goodgame.ru:8080/hls/210470.m3u8
 #EXTINF:-1 tvg-id="fanhd" tvg-name="FAN" tvg-logo="http://epg.one/img/2359.png" group-title="Кино", FAN
 #EXTGRP:Кино
@@ -1778,6 +1782,10 @@ https://ucdn.beetv.kz/bpk-tv/000007625/tve/index.m3u8
 #EXTINF:-1 tvg-id="romance" tvg-name="Romance HD" tvg-logo="http://epg.one/img/9179.png" group-title="Кино", Romance HD
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000008780/tve/index.m3u8
+#EXTINF:-1 tvg-name="Runepi" tvg-logo="https://static.goodgame.ru/files/avatars/av_avatar_hum.png" group-title="Кино", Runepi
+#EXTGRP:Кино
+#EXTVLCOPT:http-user-agent=goodgame
+http://hls.goodgame.ru/hls/210953.m3u8
 #EXTINF:-1 tvg-name="Series TV" tvg-logo="https://avatars.mds.yandex.net/i?id=04d6781ecc0a36ff573e7e5a4e52cae96dca66d9-9149104-images-thumbs&n=13" group-title="Кино", Series TV
 #EXTGRP:Кино
 http://195.9.195.3:8080/hls/186021.m3u8
