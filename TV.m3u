@@ -1906,9 +1906,6 @@ https://ucdn.beetv.kz/bpk-tv/000007802/tve/index.m3u8
 #EXTINF:-1 tvg-id="football-ru" tvg-name="Футбол" tvg-logo="http://epg.one/img/2782.png" group-title="Спорт", Футбол
 #EXTGRP:Спорт
 https://mhd128.iptv2022.com/p/y2bY2QC-hGOFHqCg7XtsYg,1746910820/streaming/footbal/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-id="a-spor-tr" tvg-name="A Spor HD TR" tvg-logo="http://epg.one/img/2587.png" group-title="Спорт", A Spor HD TR
-#EXTGRP:Спорт
-https://trkvz-live.daioncdn.net/aspor/aspor.m3u8
 #EXTINF:-1 tvg-name="beIN Sports 1 HD TR" tvg-logo="http://epg.one/img/5092.png" group-title="Спорт", beIN Sports 1 HD TR
 #EXTGRP:Спорт
 http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:BB:EE:72&stream=35701&extension=ts
@@ -2115,10 +2112,7 @@ https://d3qg0hadt0dkov.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da
 http://95.67.12.82:9067
 #EXTINF:-1 tvg-id="trt-3-hd" tvg-name="TRT Spor" tvg-logo="http://epg.one/img/6525.png" group-title="Спорт", TRT Spor
 #EXTGRP:Спорт
-https://tgn.bozztv.com/dvrfl05/gin-trtspor/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="TRT Spor Yıldız HD TR" tvg-logo="https://avatars.mds.yandex.net/i?id=77533306975b478f6c6a55552905c4e548954d99-4387356-images-thumbs&n=13" group-title="Спорт", TRT Spor Yıldız HD TR
-#EXTGRP:Спорт
-https://tgn.bozztv.com/dvrfl05/gin-trtspor2/tracks-v1a1/mono.m3u8
+http://185.234.111.229:8000/play/a00e
 #EXTINF:-1 tvg-id="tsn1-ca" tvg-name="TSN 1 HD CA" tvg-logo="http://epg.one/img/3663.png" group-title="Спорт", TSN 1 HD CA
 #EXTGRP:Спорт
 http://212.102.60.231/TSN_1/index.m3u8
