@@ -3485,13 +3485,13 @@ http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
 https://a8.radyotelekom.com.tr:3427/stream/play.m3u8
 #EXTINF:-1 tvg-name="ARB 24" tvg-logo="http://epg.one/img/2551.png" group-title="Азербайджан", ARB 24
 #EXTGRP:Азербайджан
-http://135.181.115.81:8000/play/a04i/index.m3u8?token=livetv
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-24.m3u8
 #EXTINF:-1 tvg-name="ARB Canli Az" tvg-logo="http://epg.one/img/2635.png" group-title="Азербайджан", ARB Canli Az
 #EXTGRP:Азербайджан
 http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:BB:EE:72&stream=100390&extension=ts
 #EXTINF:-1 tvg-id="arb-gunes" tvg-name="ARB Gunes HD" tvg-logo="http://epg.one/img/2552.png" group-title="Азербайджан", ARB Gunes HD
 #EXTGRP:Азербайджан
-http://135.181.115.81:8000/play/a04g/index.m3u8?token=livetv
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8
 #EXTINF:-1 tvg-name="ATV AZ" tvg-logo="https://avatars.mds.yandex.net/i?id=0951c25562181a03d31e9b44d854fb138a4a2001-8539554-images-thumbs&n=13" group-title="Азербайджан", ATV AZ
 #EXTGRP:Азербайджан
 http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/78630
@@ -3546,9 +3546,6 @@ https://cdn-sinematv.yayin.com.tr/sinematv/sinematv/playlist.m3u8
 #EXTINF:-1 tvg-name="Real TV" tvg-logo="https://avatars.mds.yandex.net/i?id=0000e86d8f5fa29e64aa52734b9b7055286367ba-6942344-images-thumbs&n=13" group-title="Азербайджан", Real TV
 #EXTGRP:Азербайджан
 http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/78639
-#EXTINF:-1 tvg-name="Show Plus TV AZ" tvg-logo="http://epg.one/img/9131.png" group-title="Азербайджан", Show Plus TV AZ
-#EXTGRP:Азербайджан
-https://ssh101.bozztv.com/ssh101/showplus/chunks.m3u8
 #EXTINF:-1 tvg-name="Şirvan TV" tvg-logo="https://avatars.mds.yandex.net/i?id=33f48f5d542d242d75ccc765a78b7ade-5434761-images-thumbs&n=13" group-title="Азербайджан", Şirvan TV
 #EXTGRP:Азербайджан
 https://tv208.radyotelekom.com.tr/p/3326/hybrid/play.m3u8
