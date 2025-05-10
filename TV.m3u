@@ -710,7 +710,7 @@ https://ucdn.beetv.kz/bpk-tv/000003247/tve/index.m3u8
 https://tvcdn01.oktv.kz/tv/mtrk/index.m3u8
 #EXTINF:-1 tvg-id="muzzone" tvg-name="MuzzOne KZ" tvg-logo="https://iptvx.one/picons/muzzone.png" group-title="Казахстан", MuzzOne KZ
 #EXTGRP:Казахстан
-https://streams.qazcdn.net/muzzone/muzzone_1080/chunks_dvr.m3u8
+https://hls.live.31kz.adapto.kz/muzzone/index.m3u8
 #EXTINF:-1 tvg-id="novoe-televidenie" tvg-name="Новое телевидение KZ" tvg-logo="http://epg.one/img/2638.png" group-title="Казахстан", Новое телевидение KZ
 #EXTGRP:Казахстан
 https://live.zhanafm.kz:8181/memfs/fd715789-382f-4ec6-b4ba-d8e2fde59c7b.m3u8
