@@ -535,7 +535,7 @@ http://dmi3y-tv.ru/hls/zabava/CH_TNT4-1.m3u8
 http://dmi3y-tv.ru/hls/zabava/CH_TNT4.m3u8
 #EXTINF:-1 tvg-id="tnt4" tvg-name="ТНТ4 HD" tvg-logo="http://epg.one/img/1649.png" group-title="Россия", ТНТ4 HD
 #EXTGRP:Россия
-http://river-1.rutube.ru/stream/genetta-311.m9.rutube.ru/KY5w-DR_mMkrJov1qzinRw/1746777198/c801a7087e29a097192d74c270fbc6c1/720p_stream.m3u8
+http://river-1.rutube.ru/stream/genetta-311.m9.rutube.ru/mUODyqOBl2m8awpJCzYJnA/1747387714/c801a7087e29a097192d74c270fbc6c1/720p_stream.m3u8
 #EXTINF:-1 tvg-id="tnt4-pl2" tvg-name="ТНТ4 +2" tvg-logo="http://epg.one/img/7978.png" group-title="Россия", ТНТ4 +2
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -1532,7 +1532,7 @@ https://ucdn.beetv.kz/bpk-tv/000009132/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000003871/tve/index.m3u8
 #EXTINF:-1 tvg-id="kinosvidanie" tvg-name="Киносвидание" tvg-logo="http://epg.one/img/462.png" group-title="Кино", Киносвидание
 #EXTGRP:Кино
-http://178.212.71.253:8000/play/122/index.m3u8
+http://109.248.236.51/kinosvidanie/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="kinosemiya" tvg-name="Киносемья" tvg-logo="http://epg.one/img/987.png" group-title="Кино", Киносемья
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000004633/tve/index.m3u8
@@ -1645,7 +1645,7 @@ https://ucdn.beetv.kz/bpk-tv/000000006/tve/index.m3u8
 http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 tvg-id="feniks-plus-kino" tvg-name="Феникс плюс Кино" tvg-logo="http://epg.one/img/2404.png" group-title="Кино", Феникс плюс Кино
 #EXTGRP:Кино
-rtmp://212.0.213.132//Fenix_Kino
+http://158.101.222.193:88/georgia_play.php?id=fenikspluskino
 #EXTINF:-1 tvg-id="khit-hd" tvg-name="Хит HD" tvg-logo="http://epg.one/img/2833.png" group-title="Кино", Хит HD
 #EXTGRP:Кино
 https://mhd128.iptv2022.com/p/NbhgmgA3UPD0bqVqeFraew,1746910806/streaming/hit/324/1/tracks-v5a1/mono.m3u8
