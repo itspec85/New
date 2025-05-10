@@ -1388,9 +1388,9 @@ http://dmi3y-tv.ru/hls/zabava/CH_DISNEY_7.m3u8
 #EXTINF:-1 tvg-name="СоюзМультфильм" tvg-logo="https://i.postimg.cc/RCgvJhdQ/image.png" group-title="Детские", СоюзМультфильм
 #EXTGRP:Детские
 http://194.26.229.213/souzmultfilm/index.m3u8
-#EXTINF:-1 tvg-id="sts-kids-hd" tvg-name="СТС Kids HD" tvg-logo="http://epg.one/img/2481.png" group-title="Детские", СТС Kids HD
+#EXTINF:-1 tvg-id="sts-kids-hd" tvg-name="СТС Kids HD" tvg-logo="http://epg.one/img/2481.png" group-title="Детские", СТС Kids
 #EXTGRP:Детские
-http://130.193.73.10:8937/play/a017
+http://195.26.83.96:7006/play/a00z/index.m3u8
 #EXTINF:-1 tvg-id="malysh" tvg-name="СуперГерои" tvg-logo="http://epg.one/img/2239.png" group-title="Детские", СуперГерои
 #EXTGRP:Детские
 http://radio.tvs.by:8088/Malish/index.m3u8
@@ -1411,7 +1411,7 @@ https://ucdn.beetv.kz/bpk-tv/000005178/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000008795/tve/index.m3u8
 #EXTINF:-1 tvg-id="cartoon-network" tvg-name="Cartoon Network" tvg-logo="http://epg.one/img/601.png" group-title="Детские", Cartoon Network
 #EXTGRP:Детские
-http://91.146.94.234:10000/play/a06e
+https://ucdn.beetv.kz/bpk-tv/000000015/tve/index.m3u8
 #EXTINF:-1 tvg-id="boomerang" tvg-name="Cartoonito" tvg-logo="http://epg.one/img/929.png" group-title="Детские", Cartoonito
 #EXTGRP:Детские
 http://135.181.115.81:8000/play/a04e/index.m3u8?token=livetv
@@ -1424,9 +1424,6 @@ https://ucdn.beetv.kz/bpk-tv/000000284/tve/index.m3u8
 #EXTINF:-1 tvg-name="IPTVPLAY МультСказки" tvg-logo="https://i.ibb.co/0ccNSdV/image-16.png" group-title="Детские", IPTVPLAY МультСказки
 #EXTGRP:Детские
 http://92.53.64.197:5050/IPTVPLAYMultSkazki.tv/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 tvg-id="jimjam" tvg-name="JimJam" tvg-logo="http://epg.one/img/494.png" group-title="Детские", JimJam
-#EXTGRP:Детские
-http://91.146.94.234:10000/play/a061
 #EXTINF:-1 tvg-id="nick-jr" tvg-name="Nick Jr" tvg-logo="http://epg.one/img/917.png" group-title="Детские", Nick Jr
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000000449/tve/index.m3u8
