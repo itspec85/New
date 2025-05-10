@@ -3809,9 +3809,6 @@ https://s07.watcher.uz/171/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9
 #EXTINF:-1 tvg-name="Ozbekiston 24 HD UZ" tvg-logo="http://epg.one/img/7931.png" group-title="Узбекистан", Ozbekiston 24 HD UZ
 #EXTGRP:Узбекистан
 https://st1.uzdigital.tv/Uzb24/tracks-v2a1a2/mono.m3u8
-#EXTINF:-1 tvg-name="Ruxsor TV UZ" tvg-logo="http://epg.one/img/7934.png" group-title="Узбекистан", Ruxsor TV UZ
-#EXTGRP:Узбекистан
-https://s07.watcher.uz/176/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
 #EXTINF:-1 tvg-name="Shifo TV" tvg-logo="https://avatars.mds.yandex.net/i?id=4e620f55f4833e21f250ad7bf4271233d76065f9-13218119-images-thumbs&n=13" group-title="Узбекистан", Shifo TV
 #EXTGRP:Узбекистан
 https://st1.uzdigital.tv/shifo_tv/tracks-v1a1/mono.m3u8
