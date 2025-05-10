@@ -785,7 +785,7 @@ http://v4.proofix.ru:80/8tv-europe/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000000008/tve/index.m3u8
 #EXTINF:-1 tvg-id="365-dnej" tvg-name="365 дней ТВ" tvg-logo="http://epg.one/img/2423.png" group-title="Познавательные", 365 дней ТВ
 #EXTGRP:Познавательные
-http://31.173.165.29:8000/play/a057/index.m3u8
+http://178.212.71.253:8000/play/67/index.m3u8
 #EXTINF:-1 tvg-id="avto24" tvg-name="Авто 24" tvg-logo="http://epg.one/img/2008.png" group-title="Познавательные", Авто 24
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000000815/tve/index.m3u8
@@ -842,7 +842,7 @@ http://95.156.76.230:33001/udp/230.4.34.78:1234
 https://m3u8.ott.blue/watch/7319/video.m3u8?geo=auto&token=94450098895765784220366841698509
 #EXTINF:-1 tvg-id="doktor" tvg-name="Доктор" tvg-logo="http://epg.one/img/16.png" group-title="Познавательные", Доктор
 #EXTGRP:Познавательные
-http://188.190.222.53/Doctor/index.m3u8
+http://130.193.73.10:8937/play/a01q
 #EXTINF:-1 tvg-id="domashnie-zhivotnye" tvg-name="Домашние Животные" tvg-logo="http://epg.one/img/520.png" group-title="Познавательные", Домашние Животные
 #EXTGRP:Познавательные
 http://130.193.73.10:8937/play/a02d
@@ -884,7 +884,7 @@ http://31.148.48.15/Istoriya/tracks-v1a1/mono.m3u8
 http://edge3.uk.kab.tv/live/tvrus-rus-high/chunks.m3u8
 #EXTINF:-1 tvg-id="kaleydoskop-tv" tvg-name="Калейдоскоп ТВ" tvg-logo="http://epg.one/img/2761.png" group-title="Познавательные", Калейдоскоп ТВ
 #EXTGRP:Познавательные
-http://cdn-01.bonus-tv.ru/Kaleidoskop_edge/index.m3u8
+http://tv.streams.baikal-telecom.net:8080/KaleidoskopTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="kvn-tv" tvg-name="КВН ТВ" tvg-logo="http://epg.one/img/1700.png" group-title="Познавательные", КВН ТВ
 #EXTGRP:Познавательные
 http://178.212.71.253:8000/play/119/index.m3u8
@@ -902,7 +902,7 @@ https://live-3.otcnet.ru/congresstv-multi/index.m3u8
 https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="kto-est-kto" tvg-name="Кто есть кто" tvg-logo="http://epg.one/img/2456.png" group-title="Познавательные", Кто есть кто
 #EXTGRP:Познавательные
-http://31.173.165.29:8000/play/a05f/index.m3u8
+http://178.212.71.253:8000/play/132/index.m3u8
 #EXTINF:-1 tvg-id="mir-uvlecheniy" tvg-name="Кто куда" tvg-logo="http://epg.one/img/2467.png" group-title="Познавательные", Кто куда
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000001377/tve/index.m3u8
@@ -1065,9 +1065,6 @@ http://hls.tv.3angels.ru/stream/HD/HD.m3u8
 #EXTINF:-1 tvg-id="usadba" tvg-name="Усадьба" tvg-logo="http://epg.one/img/434.png" group-title="Познавательные", Усадьба
 #EXTGRP:Познавательные
 http://194.158.218.123:8880/Usadba/index.m3u8
-#EXTINF:-1 tvg-id="uspex" tvg-name="Успех" tvg-logo="http://epg.one/img/2455.png" group-title="Познавательные", Успех
-#EXTGRP:Познавательные
-http://188.190.222.53/Uspeh/index.m3u8
 #EXTINF:-1 tvg-id="centralnoye-tv" tvg-name="Центральное телевидение" tvg-logo="http://epg.one/img/2400.png" group-title="Познавательные", Центральное телевидение
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000001880/tve/index.m3u8
@@ -1094,7 +1091,7 @@ http://hls.goodgame.ru/hls/205115.m3u8
 https://ucdn.beetv.kz/bpk-tv/000000216/tve/index.m3u8
 #EXTINF:-1 tvg-id="animal-planet-eu" tvg-name="Animal Planet (резерв)" tvg-logo="http://epg.one/img/365.png" group-title="Познавательные", Animal Planet (резерв)
 #EXTGRP:Познавательные
-http://91.146.94.234:10000/play/a042
+http://135.181.115.81:8000/play/a03i/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="bbc" tvg-name="BBC World News" tvg-logo="http://epg.one/img/828.png" group-title="Познавательные", BBC World News
 #EXTGRP:Познавательные
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
@@ -1112,7 +1109,7 @@ http://brodilo.tv/channel.php
 https://iptv.prosto.tv/ch111/video.m3u8
 #EXTINF:-1 tvg-id="cgtn" tvg-name="CGTN Русский" tvg-logo="http://epg.one/img/2268.png" group-title="Познавательные", CGTN Русский
 #EXTGRP:Познавательные
-http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
+http://english-livetx.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802_hd.m3u8
 #EXTINF:-1 tvg-id="cnn" tvg-name="CNN USA" tvg-logo="http://epg.one/img/3641.png" group-title="Познавательные", CNN USA
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000000707/tve/index.m3u8
@@ -1127,13 +1124,10 @@ http://dmi3y-tv.ru/hls/CH_DW_ENGLISHHD.m3u8
 https://ucdn.beetv.kz/bpk-tv/000001496/tve/index.m3u8
 #EXTINF:-1 tvg-id="discovery-channel" tvg-name="Discovery Channel (резерв)" tvg-logo="http://epg.one/img/325.png" group-title="Познавательные", Discovery Channel (резерв)
 #EXTGRP:Познавательные
-http://91.146.94.234:10000/play/a041
+http://65.21.85.175:8000/play/a02u/index.m3u8?token=livetv
 #EXTINF:-1 tvg-name="Discovery Science UK" tvg-logo="http://epg.one/img/3067.png" group-title="Познавательные", Discovery Science UK
 #EXTGRP:Познавательные
 http://cord-cutter.net:8080/LeeAv21/AvantL12/53695
-#EXTINF:-1 tvg-id="dtx-pl" tvg-name="DTX PL" tvg-logo="http://epg.one/img/1585.png" group-title="Познавательные", DTX PL
-#EXTGRP:Познавательные
-http://178.219.128.68:64888/DTXHD
 #EXTINF:-1 tvg-id="deutsche-welle-ru" tvg-name="DW Russia" tvg-logo="https://yandex.kz/images/touch/search?pos=9&img_url=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F7%2F75%2FDeutsche_Welle_symbol_2012.svg%2F1599px-Deutsche_Welle_symbol_2012.svg.png&text=Deutsche+Welle+Russia+%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF&rpt=simage&lr=20273" group-title="Познавательные", DW Russia
 #EXTGRP:Познавательные
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
