@@ -3597,18 +3597,15 @@ https://m3u8.ott.blue/watch/149/video.m3u8?geo=auto&token=9445009889576578422036
 #EXTINF:-1 tvg-id="grodno-plus" tvg-name="Гродно Плюс" tvg-logo="https://iptvx.one/picons/grodno-plus.png" group-title="Беларусь", Гродно Плюс
 #EXTGRP:Беларусь
 http://82.209.219.165:1234/gp
-#EXTINF:-1 tvg-id="ntv-belarus" tvg-name="НТВ Беларусь" tvg-logo="http://epg.one/img/6773.png" group-title="Беларусь", НТВ Беларусь
-#EXTGRP:Беларусь
-http://194.158.222.36:6107
 #EXTINF:-1 tvg-id="ont-by" tvg-name="ОНТ" tvg-logo="http://epg.one/img/2545.png" group-title="Беларусь", ОНТ
 #EXTGRP:Беларусь
-http://93.189.224.246:52900/play/a009/index.m3u8
+https://edge50.dc.beltelecom.by/ont/ont/chunklist_b5160000_sleng.m3u8
 #EXTINF:-1 tvg-id="pervy-gorodskoy-gom" tvg-name="Первый Городской (Гомель)" tvg-logo="https://avatars.mds.yandex.net/i?id=724314818c9b1117bc09dd27635be730aaeadfd8-8261187-images-thumbs&n=13" group-title="Беларусь", Первый Городской (Гомель)
 #EXTGRP:Беларусь
 http://195.9.195.3:8080/hls/165178.m3u8
 #EXTINF:-1 tvg-id="pervy-info-by" tvg-name="Первый информационный" tvg-logo="https://iptvx.one/picons/pervy-info-by.png" group-title="Беларусь", Первый информационный
 #EXTGRP:Беларусь
-http://194.158.222.36:6105
+https://edge50.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/chunklist_b5160000_sleng.m3u8
 #EXTINF:-1 tvg-id="pinsk-tv" tvg-name="Пинск ТВ" tvg-logo="https://avatars.mds.yandex.net/i?id=a661ec707cd03ad88972cf0e81c4d535fd0ffeeb-12423090-images-thumbs&n=13" group-title="Беларусь", Пинск ТВ
 #EXTGRP:Беларусь
 http://178.124.207.1:1780/tvphd
