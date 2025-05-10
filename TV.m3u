@@ -1944,7 +1944,7 @@ http://bocian.io:8880/NL753811/552284900/153306
 http://11.team.ga:80/ch1534/mono.m3u8?token=jaki05593682221025.7VjMD5k7P3oSHDvYasd_1NJZegAeIyMVcqh5L3BVwoLVOHZQk9ngv1BK3ln8wXrfuDJLM-0QyBcmDWd6gUKGbg.dubldot
 #EXTINF:-1 tvg-id="cbs-sports-network-us" tvg-name="CBS Sports Network US" tvg-logo="http://epg.one/img/4560.png" group-title="Спорт", CBS Sports Network US
 #EXTGRP:Спорт
-http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+http://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1 tvg-name="DAZN Combat" tvg-logo="https://i.postimg.cc/VsW3Jsrz/logo-DAZN-Combat.png" group-title="Спорт", DAZN Combat
 #EXTGRP:Спорт
 https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
@@ -1969,9 +1969,6 @@ https://ucdn.beetv.kz/bpk-tv/000002478/tve/index.m3u8
 #EXTINF:-1 tvg-id="eurosport2-ru" tvg-name="Eurosport 2" tvg-logo="http://epg.one/img/4313.png" group-title="Спорт", Eurosport 2
 #EXTGRP:Спорт
 https://ucdn.beetv.kz/bpk-tv/000002479/tve/index.m3u8
-#EXTINF:-1 tvg-id="eurosport-gold" tvg-name="Eurosport Gold HD" tvg-logo="http://epg.one/img/2482.png" group-title="Спорт", Eurosport Gold HD
-#EXTGRP:Спорт
-http://iptv-hls.idc.md:8200/hls/261/live1.m3u8
 #EXTINF:-1 tvg-id="extreme-sports" tvg-name="Extreme Sports" tvg-logo="http://epg.one/img/2053.png" group-title="Спорт", Extreme Sports
 #EXTGRP:Спорт
 http://109.200.130.123:7537/play/a02p
@@ -1980,13 +1977,16 @@ http://109.200.130.123:7537/play/a02p
 https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8
 #EXTINF:-1 tvg-name="Fox Sports 1 US" tvg-logo="http://epg.one/img/4558.png" group-title="Спорт", Fox Sports 1 US
 #EXTGRP:Спорт
-http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
+http://51.75.43.232:6878/ace/getstream?id=c9c062941fbecb16ce29437f346ea7177d720898&.mp4
+#EXTINF:-1 tvg-name="Fox Sports 2 US" tvg-logo="http://epg.one/img/4559.png" group-title="Спорт", Fox Sports 2 US
+#EXTGRP:Спорт
+http://51.75.43.232:6878/ace/getstream?id=cba8d369eac629b577750edb90370cd1c5fb03b7&.mp4
 #EXTINF:-1 tvg-name="Glory Kickboxing" tvg-logo="https://avatars.mds.yandex.net/i?id=abf21721486b2e4657813651412bc1e1a1a854a9-10304277-images-thumbs&n=13" group-title="Спорт", Glory Kickboxing
 #EXTGRP:Спорт
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f178-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=df3ca9c7-d700-4719-be3f-74dd169206f8
-#EXTINF:-1 tvg-id="golf-cnl-us" tvg-name="Golf Channel HD CA" tvg-logo="http://epg.one/img/3624.png" group-title="Спорт", Golf Channel HD CA
+#EXTINF:-1 tvg-name="Golf Channel PL" tvg-logo="http://epg.one/img/3624.png" group-title="Спорт", Golf Channel PL
 #EXTGRP:Спорт
-https://tvpass.org/live/GolfChannel/hd/
+http://185.236.229.62:9981/play/a03m
 #EXTINF:-1 tvg-name="Horse & Country HD SE" tvg-logo="http://epg.one/img/4850.png" group-title="Спорт", Horse & Country HD SE
 #EXTGRP:Спорт
 https://hncfree-samsungau.amagi.tv/playlist720-p.m3u8
@@ -2022,7 +2022,7 @@ http://213.91.178.133:8000/play/a0ar
 http://213.91.178.133:8000/play/a05n
 #EXTINF:-1 tvg-id="mlb-network-us" tvg-name="MLB Network HD CA" tvg-logo="http://epg.one/img/3654.png" group-title="Спорт", MLB Network HD CA
 #EXTGRP:Спорт
-http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
+http://fl3.moveonjoy.com/MLB_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="m1global" tvg-name="MMA-TV.com" tvg-logo="http://epg.one/img/2326.png" group-title="Спорт", MMA-TV.com
 #EXTGRP:Спорт
 https://ucdn.beetv.kz/bpk-tv/000003689/tve/index.m3u8
@@ -2031,13 +2031,13 @@ https://ucdn.beetv.kz/bpk-tv/000003689/tve/index.m3u8
 http://focustv.live:8080/emin1909sky317/emin.190924/94896
 #EXTINF:-1 tvg-name="NBC Sports Bay Area US" tvg-logo="https://i.imgur.com/MTgUVKx.png" group-title="Спорт", NBC Sports Bay Area US
 #EXTGRP:Спорт
-https://tvpass.org/live/nbc-sports-bay-area/hd/
+https://v1.thetvapp.to/hls/nbc-sports-bay-area/index.m3u8
 #EXTINF:-1 tvg-id="nfl-network" tvg-name="NFL Network HD CA" tvg-logo="http://epg.one/img/3568.png" group-title="Спорт", NFL Network HD CA
 #EXTGRP:Спорт
-http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
+http://fl3.moveonjoy.com/NFL_NETWORK/index.m3u8
 #EXTINF:-1 tvg-name="NHL Network US" tvg-logo="http://epg.one/img/4562.png" group-title="Спорт", NHL Network US
 #EXTGRP:Спорт
-http://globalstreamz.xyz:3050/edwhite43@yahoo.com/bK5HuUT6uk/509190
+https://apollo.production-public.tubi.io/live/ac-nhl.m3u8
 #EXTINF:-1 tvg-id="nova-sport-bg" tvg-name="NOVA Sport BG" tvg-logo="https://epgx.club/picons/nova-sport-bg.png" group-title="Спорт", NOVA Sport BG
 #EXTGRP:Спорт
 http://213.91.178.133:8000/play/a04a
@@ -2049,7 +2049,7 @@ https://pac12-roku-us.amagi.tv/playlist.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fc54366b04b2300072e31af/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b6274-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a68d07ef-a794-43f8-a287-3bd7f27d909b
 #EXTINF:-1 tvg-id="polsat-sport-fight" tvg-name="Polsat Sport Fight PL" tvg-logo="http://epg.one/img/4557.png" group-title="Спорт", Polsat Sport Fight PL
 #EXTGRP:Спорт
-http://109.233.89.170/Polsat_Sport_Fight_HD/index.m3u8
+https://32tech0steam0dp01.org/live/PL_PolsatSportFight/chunks.m3u8
 #EXTINF:-1 tvg-name="Prosto Drive" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00349.png" group-title="Спорт", Prosto Drive
 #EXTGRP:Спорт
 http://iptv.prosto.tv:7000/ch326/video.m3u8
@@ -2137,9 +2137,6 @@ http://fl5.moveonjoy.com/TSN_5/index.m3u8
 #EXTINF:-1 tvg-name="Türkmenistan Sport" tvg-logo="https://avatars.mds.yandex.net/i?id=da678a9d544adb3ed0e3fe916af1b74d_l-5288772-images-thumbs&n=13" group-title="Спорт", Türkmenistan Sport
 #EXTGRP:Спорт
 http://217.174.225.146/hls/ch004_720/index.m3u8
-#EXTINF:-1 tvg-name="UFC FIGHT PASS" tvg-logo="http://epg.one/img/3552.png" group-title="Спорт", UFC FIGHT PASS
-#EXTGRP:Спорт
-http://globalstreamz.xyz:3050/edwhite43@yahoo.com/bK5HuUT6uk/601454
 #EXTINF:-1 tvg-id="viasat-sport" tvg-name="Viju+ Sport HD" tvg-logo="http://epg.one/img/2055.png" group-title="Спорт", Viju+ Sport HD
 #EXTGRP:Спорт
 https://ucdn.beetv.kz/bpk-tv/000000135/tve/index.m3u8
