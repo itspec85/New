@@ -1145,7 +1145,7 @@ https://ucdn.beetv.kz/bpk-tv/000002455/tve/index.m3u8
 http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
 #EXTINF:-1 tvg-id="food-network-eu" tvg-name="Food Network" tvg-logo="http://epg.one/img/3607.png" group-title="Познавательные", Food Network
 #EXTGRP:Познавательные
-rtmp://212.0.213.132//Joy_Cook
+http://ott-cdn.ucom.am/s18/04.m3u8
 #EXTINF:-1 tvg-id="fox-news-us" tvg-name="FOX NEWS CHANNEL FHD" tvg-logo="http://epg.one/img/6683.png" group-title="Познавательные", FOX NEWS CHANNEL FHD
 #EXTGRP:Познавательные
 http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
@@ -1158,9 +1158,6 @@ http://195.26.83.96:7007/play/a00j/index.m3u8
 #EXTINF:-1 tvg-name="Gameplay" tvg-logo="https://avatars.mds.yandex.net/i?id=c575f44cab8db1ef668138254a3e76f3355940db-4292261-images-thumbs&n=13" group-title="Познавательные", Gameplay
 #EXTGRP:Познавательные
 https://fl1001.bozztv.com/ushba31/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="hgtv-pl" tvg-name="HGTV HD" tvg-logo="http://epg.one/img/3599.png" group-title="Познавательные", HGTV HD
-#EXTGRP:Познавательные
-http://91.146.94.234:10000/play/a05e
 #EXTINF:-1 tvg-name="HHQ" tvg-logo="https://avatars.mds.yandex.net/i?id=7a0a2713e4257dc393e55ded3c1e89de34ca5d21-8411463-images-thumbs&n=13" group-title="Познавательные", HHQ
 #EXTGRP:Познавательные
 https://stream.maxssw.com/hhq/live/chunklist.m3u8
@@ -1173,9 +1170,6 @@ http://65.21.85.175:8000/play/a01s/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="h2" tvg-name="History 2" tvg-logo="http://epg.one/img/2356.png" group-title="Познавательные", History 2
 #EXTGRP:Познавательные
 http://95.67.12.81:10620?key=fas-tv.com
-#EXTINF:-1 tvg-id="id-xtra-eu" tvg-name="Investigation Discovery" tvg-logo="http://epg.one/img/2507.png" group-title="Познавательные", Investigation Discovery
-#EXTGRP:Познавательные
-http://91.146.94.234:10000/play/a045
 #EXTINF:-1 tvg-name="Jarmarka" tvg-logo="https://i.ytimg.com/an/23MIFU9IMsNtE2K6FfBBCQ/featured_channel.jpg" group-title="Познавательные", Jarmarka
 #EXTGRP:Познавательные
 https://api.alpaca.t62a.com/hls/9104/stream0.m3u8
