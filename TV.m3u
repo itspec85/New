@@ -1217,7 +1217,7 @@ https://iptv.prosto.tv/id301/video.m3u8
 https://iptv.prosto.tv/id532/video.m3u8
 #EXTINF:-1 tvg-name="RTД" tvg-logo="http://epg.one/img/2295.png" group-title="Познавательные", RT Док
 #EXTGRP:Познавательные
-https://hls.rt.com/hls/rtdru.m3u8
+https://streaming.televizor-24-tochka.ru/live/554.m3u8
 #EXTINF:-1 tvg-id="rt-news" tvg-name="RT News" tvg-logo="http://epg.one/img/2269.png" group-title="Познавательные", RT News
 #EXTGRP:Познавательные
 http://cdn-01.bonus-tv.ru/RussiaToday/tracks-v1a1/index.m3u8
@@ -1238,9 +1238,6 @@ http://195.26.83.96:7029/play/a008
 http://109.200.130.123:7537/play/a02i
 #EXTINF:-1 tvg-id="tlc" tvg-name="TLC" tvg-logo="http://epg.one/img/2345.png" group-title="Познавательные", TLC
 #EXTGRP:Познавательные
-http://91.146.94.234:10000/play/a05k
-#EXTINF:-1 tvg-id="tlc" tvg-name="TLC HD" tvg-logo="http://epg.one/img/2345.png" group-title="Познавательные", TLC HD
-#EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000001498/tve/index.m3u8
 #EXTINF:-1 tvg-id="travel-adventure" tvg-name="travel+adventure" tvg-logo="http://epg.one/img/1035.png" group-title="Познавательные", travel+adventure
 #EXTGRP:Познавательные
@@ -1248,9 +1245,6 @@ http://130.193.73.10:8937/play/a026
 #EXTINF:-1 tvg-id="tv-brics" tvg-name="TV BRICS" tvg-logo="https://iptvx.one/picons/tv-brics.png" group-title="Познавательные", TV BRICS
 #EXTGRP:Познавательные
 http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="tvmchannel" tvg-name="TVM Channel" tvg-logo="https://avatars.mds.yandex.net/i?id=5190441f40689d0ac129189d51660e74dc7c7550-10948701-images-thumbs&n=13" group-title="Познавательные", TVM Channel
-#EXTGRP:Познавательные
-http://cdn-01.bonus-tv.ru/tvm_edge/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="viasat-explore" tvg-name="Viju Explore" tvg-logo="http://epg.one/img/521.png" group-title="Познавательные", Viju Explore
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000004157/tve/index.m3u8
