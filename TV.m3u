@@ -2563,10 +2563,6 @@ https://live-10chanel.cdnvideo.ru/10chanel/streamtr_1/playlist.m3u8
 #EXTINF:-1 tvg-name="11 канал Пенза" tvg-logo="https://avatars.mds.yandex.net/i?id=bafabb21bdf607eb00218e800fe2a61deff69521-8265302-images-thumbs&n=13" group-title="Региональные РФ", 11 канал Пенза
 #EXTGRP:Региональные РФ
 http://85.234.33.63/stream/c11.m3u8
-#EXTINF:-1 tvg-name="11 канал Усолье-Сибирское" tvg-logo="https://avatars.mds.yandex.net/i?id=f343b765a201e8ee12009883501315586053d877-5544858-images-thumbs&n=13" group-title="Региональные РФ", 11 канал Усолье-Сибирское
-#EXTGRP:Региональные РФ
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmi3y-tv.ru/hls/zabava/region/BRATSK/CH_11USOLYE_SIB.m3u8
 #EXTINF:-1 tvg-id="12-omsk" tvg-name="12 канал Омск HD" tvg-logo="http://epg.one/img/5841.png" group-title="Региональные РФ", 12 канал Омск HD
 #EXTGRP:Региональные РФ
 http://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
@@ -2755,9 +2751,6 @@ http://devyatka.iptv2022.com/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="dzenzhinsk-tv" tvg-name="Дзержинск ТВ" tvg-logo="https://avatars.mds.yandex.net/i?id=969df4578a1c507db12444d1dbf5b1e263787acc-12491508-images-thumbs&n=13" group-title="Региональные РФ", Дзержинск ТВ
 #EXTGRP:Региональные РФ
 https://v.dzertv.ru:8588/dzertv/live_yandex/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="domodedovo" tvg-name="Домодедово" tvg-logo="https://avatars.mds.yandex.net/get-socsnippets/10245612/2a0000019139d367ad4c9d10e5509522a0db/square_216" group-title="Региональные РФ", Домодедово
-#EXTGRP:Региональные РФ
-http://91.143.36.166:7844/udp/239.1.190.4:1234
 #EXTINF:-1 tvg-id="don-24" tvg-name="ДОН 24" tvg-logo="http://epg.one/img/2299.png" group-title="Региональные РФ", ДОН 24
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -2885,9 +2878,6 @@ http://dmi3y-tv.ru/hls/zabava/region/LIPETSK/CH_LVREMYAHD.m3u8
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://dmi3y-tv.ru/hls/zabava/region/PERM/CH_LTKHD_LSVA.m3u8
-#EXTINF:-1 tvg-name="Луганск 24" tvg-logo="https://avatars.mds.yandex.net/i?id=8a27b03577333f351ea9a7455cba86609c803f43-10107564-images-thumbs&n=13" group-title="Региональные РФ", Луганск 24
-#EXTGRP:Региональные РФ
-http://dmi3y-tv.ru/hls/region/CH_LUGANSK24_LUGANSK.m3u8
 #EXTINF:-1 tvg-id="luch" tvg-name="Луч Пуровск HD" tvg-logo="http://epg.one/img/6679.png" group-title="Региональные РФ", Луч Пуровск HD
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -2904,9 +2894,6 @@ https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
 #EXTINF:-1 tvg-id="megapolis" tvg-name="Мегаполис HD" tvg-logo="http://epg.one/img/9120.png" group-title="Региональные РФ", Мегаполис HD
 #EXTGRP:Региональные РФ
 http://megapolis.iptv2022.com/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Медиа 15 Владикавказ" tvg-logo="https://media15.ru/images/logo.gif" group-title="Региональные РФ", Медиа 15 Владикавказ
-#EXTGRP:Региональные РФ
-http://185.46.48.18:8080/media15/index.m3u8
 #EXTINF:-1 tvg-id="mig-tv-noyabrsk" tvg-name="Миг ТВ Ноябрьск" tvg-logo="https://iptvx.one/picons/mig-tv-noyabrsk.png" group-title="Региональные РФ", Миг ТВ Ноябрьск
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -2978,9 +2965,6 @@ http://live-vestinn.cdnvideo.ru/vestinn/nn24/playlist.m3u8
 #EXTINF:-1 tvg-id="nika-tv" tvg-name="Ника ТВ" tvg-logo="http://epg.one/img/6025.png" group-title="Региональные РФ", Ника ТВ
 #EXTGRP:Региональные РФ
 http://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="Ники ТВ HD" tvg-logo="http://epg.one/img/7697.png" group-title="Региональные РФ", Ники ТВ HD
-#EXTGRP:Региональные РФ
-http://serv25.vintera.tv:8081/1pnk/nikitv/playlist.m3u8
 #EXTINF:-1 tvg-id="nnt" tvg-name="ННТ Дагестан" tvg-logo="https://avatars.mds.yandex.net/i?id=df93077d8808b00b798f083409f59b06a01e0e0d-11596005-images-thumbs&n=13" group-title="Региональные РФ", ННТ Дагестан
 #EXTGRP:Региональные РФ
 http://185.78.112.46:8077/nnttv_hd/index.m3u8
