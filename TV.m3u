@@ -2792,7 +2792,8 @@ http://dmi3y-tv.ru/hls/zabava/region/NBK/CH_IMPULSHD.m3u8
 http://dmi3y-tv.ru/hls/zabava/region/KRG/CH_INFO24HD.m3u8
 #EXTINF:-1 tvg-id="rentv-istoki" tvg-name="Истоки Орёл" tvg-logo="http://epg.one/img/6032.png" group-title="Региональные РФ", Истоки Орёл
 #EXTGRP:Региональные РФ
-http://istoki.tv:8080/HLS/stream_2.m3u8
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://dmi3y-tv.ru/hls/zabava/region/ORL/CH_ISTOKI.m3u8
 #EXTINF:-1 tvg-id="k16-sarov" tvg-name="К16 Саров" tvg-logo="http://epg.one/img/6749.png" group-title="Региональные РФ", К16 Саров
 #EXTGRP:Региональные РФ
 http://serv25.vintera.tv:8081/test/k16/playlist.m3u8
@@ -2966,7 +2967,8 @@ http://dmi3y-tv.ru/hls/zabava/region/NN/CH_NZHK.m3u8
 http://85.234.33.64/stream/c11.m3u8
 #EXTINF:-1 tvg-name="Наши города Когалым" tvg-logo="https://avatars.mds.yandex.net/i?id=9b1571a8c5cad3067b45a96237bb9fa3276c7320-3828188-images-thumbs&n=13" group-title="Региональные РФ", Наши города Когалым
 #EXTGRP:Региональные РФ
-https://kogalimtv.servicecdn.ru/streams/775_702254/1080n/index.m3u8
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://dmi3y-tv.ru/hls/zabava/region/SUR/CH_NGORHD.m3u8
 #EXTINF:-1 tvg-id="saxa" tvg-name="НВК Саха FHD" tvg-logo="http://epg.one/img/7699.png" group-title="Региональные РФ", НВК Саха FHD
 #EXTGRP:Региональные РФ
 http://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
@@ -3007,7 +3009,8 @@ http://dmi3y-tv.ru/hls/zabava/region/RD/CH_NOVOSHAHTINSKHD_NVSHNSK.m3u8
 http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/1280x720@2500/playlist.m3u8
 #EXTINF:-1 tvg-id="49kanal" tvg-name="НСК-49" tvg-logo="http://epg.one/img/4625.png" group-title="Региональные РФ", НСК-49
 #EXTGRP:Региональные РФ
-http://49channel.mediacdn.ru/live/cdn/49channel/playlist_sdhigh.m3u8
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://dmi3y-tv.ru/hls/zabava/region/NSK/CH_NSK49CHANNELHD.m3u8
 #EXTINF:-1 tvg-id="xamdan-kalm24" tvg-name="НТК Калмыкия" tvg-logo="http://epg.one/img/2459.png" group-title="Региональные РФ", НТК Калмыкия
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -3368,7 +3371,8 @@ http://dmi3y-tv.ru/hls/zabava/region/EKT/CH_VEKTORHD720_TRNSK.m3u8
 http://dmi3y-tv.ru/hls/zabava/region/DV_BLAG/CH_TYNDATV_TYNDA.m3u8
 #EXTINF:-1 tvg-id="tumenskoe-vremia" tvg-name="Тюменское время" tvg-logo="https://epg.one/img/4639.png" group-title="Региональные РФ", Тюменское время
 #EXTGRP:Региональные РФ
-https://hls-sibinformburo.cdnvideo.ru/sibinformburo-srt/sibinformburo/playlist.m3u8
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://dmi3y-tv.ru/hls/zabava/region/TUM/CH_TUMVREMYA.m3u8
 #EXTINF:-1 tvg-id="udmurtia" tvg-name="Удмуртия" tvg-logo="https://iptvx.one/picons/udmurtia.png" group-title="Региональные РФ", Удмуртия
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -3458,7 +3462,8 @@ http://tv.tuva.ru/ovaa/index.m3u8
 http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
 #EXTINF:-1 tvg-id="tmtv" tvg-name="TMTV Казань" tvg-logo="https://iptvx.one/picons/tmtv.png" group-title="Региональные РФ", TMTV Казань
 #EXTGRP:Региональные РФ
-http://hls-iptv.tattelecom.ru:80/online_tv_TMTV/tracks-v1a1/index.m3u8
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://dmi3y-tv.ru/hls/zabava/region/KZN/CH_TMTV.m3u8
 #EXTINF:-1 tvg-name="TV Аист Орехово-Зуево" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/5/5b/TV_%D0%90%D0%B8%D1%81%D1%82_%28%D0%9E%D1%80%D0%B5%D1%85%D0%BE%D0%B2%D0%BE-%D0%97%D1%83%D0%B5%D0%B2%D0%BE%29_2021.jpg/revision/latest/scale-to-width-down/220?cb=20220719082432&path-prefix=ru" group-title="Региональные РФ", TV Аист Орехово-Зуево
 #EXTGRP:Региональные РФ
 http://141.101.205.134:8080/hls/tvaist.m3u8
