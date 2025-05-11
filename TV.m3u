@@ -3571,25 +3571,25 @@ http://135.181.115.81:8000/play/a04y/index.m3u8?token=livetv
 #EXTGRP:Азербайджан
 https://restreamer.livetv.az/memfs/a6cecb21-e17c-4f32-8854-0b72d57211d8.m3u8
 
-#EXTINF:-1 tvg-name="Mahni TV" tvg-logo="https://i.postimg.cc/D0WyMmmp/Logo-Yurd-FM.jpg" group-title="Азербайджан", Mahni TV
+#EXTINF:-1 tvg-name="Mahni TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nnoltRcl7EP5euFg-fglzYprDjLHgBVur6cnN2j7xuMQ=s160-c-k-c0x00ffffff-no-rj" group-title="Азербайджан", Mahni TV
 #EXTGRP:Азербайджан
 http://xantv.site:41480/MahniTV/video.m3u8
-#EXTINF:-1 tvg-name="CTV Azərbaycan" tvg-logo="https://i.postimg.cc/D0WyMmmp/Logo-Yurd-FM.jpg" group-title="Азербайджан", CTV Azərbaycan
+#EXTINF:-1 tvg-name="CTV Azərbaycan" tvg-logo="https://avatars.mds.yandex.net/i?id=f736b44ab0f43e26084f5fd854ae769a25e8ba93-3107405-images-thumbs&n=13" group-title="Азербайджан", CTV Azərbaycan
 #EXTGRP:Азербайджан
 https://livectv.radyotelekom.com.tr:3766/stream/play.m3u8
-#EXTINF:-1 tvg-name="Retro TV" tvg-logo="https://i.postimg.cc/D0WyMmmp/Logo-Yurd-FM.jpg" group-title="Азербайджан", Retro TV
+#EXTINF:-1 tvg-name="Retro TV" tvg-logo="https://avatars.mds.yandex.net/i?id=2a00000179ed9f0efd3d05aae40782ce96a8-3756503-images-thumbs&n=13" group-title="Азербайджан", Retro TV
 #EXTGRP:Азербайджан
 https://a8.radyotelekom.com.tr:3706/stream/play.m3u8
 #EXTINF:-1 tvg-name="Mega TV GƏNCƏ" tvg-logo="https://i.postimg.cc/XvLGt0wY/IMG-20250209-164211-031.jpg" group-title="Азербайджан", Mega TV GƏNCƏ
 #EXTGRP:Азербайджан
 https://raw.githubusercontent.com/Elvin4K/restream/refs/heads/pro4k/1ganjatv.m3u8
-#EXTINF:-1 tvg-name="MTV AZ" tvg-logo="https://i.postimg.cc/XvLGt0wY/IMG-20250209-164211-031.jpg" group-title="Азербайджан", MTV AZ
+#EXTINF:-1 tvg-name="MTV AZ" tvg-logo="https://avatars.mds.yandex.net/i?id=6d397296dacd666a2b2f13b406ad14d1_sr-3826599-images-thumbs&n=13" group-title="Азербайджан", MTV AZ
 #EXTGRP:Азербайджан
 http://135.181.115.81:8000/play/a04u/index.m3u8?token=livetv
-#EXTINF:-1 tvg-name="STV" tvg-logo="https://i.postimg.cc/XvLGt0wY/IMG-20250209-164211-031.jpg" group-title="Азербайджан", STV
+#EXTINF:-1 tvg-name="STV" tvg-logo="https://avatars.mds.yandex.net/i?id=01c56e43bb2308c1e46d0f4679f230a132b77061-4405494-images-thumbs&n=13" group-title="Азербайджан", STV
 #EXTGRP:Азербайджан
 http://135.181.115.81:8000/play/a04x/index.m3u8?token=livetv
-#EXTINF:-1 tvg-name="ATV Cinema" tvg-logo="https://i.postimg.cc/XvLGt0wY/IMG-20250209-164211-031.jpg" group-title="Азербайджан", ATV Cinema
+#EXTINF:-1 tvg-name="ATV Cinema" tvg-logo="https://avatars.mds.yandex.net/i?id=544205917c757b67f6a97408c4f032dee74acfd7-4318341-images-thumbs&n=13" group-title="Азербайджан", ATV Cinema
 #EXTGRP:Азербайджан
 http://135.181.115.81:8000/play/a04k/index.m3u8?token=livetv
 
