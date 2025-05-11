@@ -3158,7 +3158,7 @@ http://dmi3y-tv.ru/hls/zabava/region/EKT/CH_RIMHD.m3u8
 http://dmi3y-tv.ru/hls/zabava/region/PERM/CH_RIFEY.m3u8
 #EXTINF:-1 tvg-id="rossia1" tvg-name="Россия 1 Вайнах" tvg-logo="http://epg.one/img/711.png" group-title="Региональные РФ", Россия 1 Вайнах
 #EXTGRP:Региональные РФ
-https://live.chechensoft.ru/vainahtv/ngrp:vaynahtv_all/chunklist_w1126270842_b896000.m3u8
+https://live.chechensoft.ru/vainahtv/ngrp:vaynahtv_all/playlist.m3u8
 #EXTINF:-1 tvg-id="zabajkajkalje" tvg-name="РТК Забайкалье" tvg-logo="https://avatars.mds.yandex.net/i?id=d0237e1bc0f56b6c68d5454f0a325090366ef658-3965918-images-thumbs&n=13" group-title="Региональные РФ", РТК Забайкалье
 #EXTGRP:Региональные РФ
 https://stream.zrtk.ru/zrtk.m3u8
