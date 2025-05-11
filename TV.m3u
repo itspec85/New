@@ -3211,10 +3211,6 @@ http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Среда HD" tvg-logo="https://epg.one/img/9083.png" group-title="Региональные РФ", Среда HD
 #EXTGRP:Региональные РФ
 http://iptv46.mcx-ix.ru:8077/sreda/index.m3u8
-#EXTINF:-1 tvg-id="infokanal-sevastopol" tvg-name="СТВ Севастополь" tvg-logo="https://epgx.club/picons/infokanal-sevastopol.png" group-title="Региональные РФ", СТВ Севастополь
-#EXTGRP:Региональные РФ
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmi3y-tv.ru/hls/zabava/region/SMRPL/CH_STVHD_SVTPL.m3u8
 #EXTINF:-1 tvg-id="stv24" tvg-name="СТВ Северодвинск" tvg-logo="https://avatars.mds.yandex.net/i?id=6d6550a7f6679f8c19c3052d5cdc972cad037f87-12509309-images-thumbs&n=13" group-title="Региональные РФ", СТВ Северодвинск
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
