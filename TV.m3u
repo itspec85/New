@@ -2853,9 +2853,6 @@ http://dmi3y-tv.ru/hls/zabava/region/KRDAR/CH_KUBAN24.m3u8
 #EXTINF:-1 tvg-id="kuzbas1" tvg-name="Кузбасс 1 FHD" tvg-logo="http://epg.one/img/7702.png" group-title="Региональные РФ", Кузбасс 1 FHD
 #EXTGRP:Региональные РФ
 http://rmhkuzbass.ru:8082/10kanal/k24/playlist.m3u8
-#EXTINF:-1 tvg-id="kuneltv" tvg-name="Кунел ТВ Татарстан" tvg-logo="https://iptvx.one/picons/kuneltv.png" group-title="Региональные РФ", Кунел ТВ Татарстан
-#EXTGRP:Региональные РФ
-http://hls-iptv.tattelecom.ru:80/online_tv_Kynel/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="kuraj" tvg-name="Курай HD" tvg-logo="http://epg.one/img/2475.png" group-title="Региональные РФ", Курай HD
 #EXTGRP:Региональные РФ
 http://bsttv.bonus-tv.ru:80/cdn/kurai/playlist_sdhigh.m3u8
