@@ -135,38 +135,38 @@ http://dmi3y-tv.ru/hls/T2/CH_OTR_4.m3u8
 #EXTINF:-1 tvg-id="pervy-mn1" tvg-name="Первый канал -1" tvg-logo="http://epg.one/img/146.png" group-title="Россия", Первый канал -1
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV-1.m3u8
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV-1.m3u8
 #EXTINF:-1 tvg-id="pervy" tvg-name="Первый канал" tvg-logo="http://epg.one/img/146.png" group-title="Россия", Первый канал
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV.m3u8
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV.m3u8
 #EXTINF:-1 tvg-id="pervy" tvg-name="Первый канал HD" tvg-logo="http://epg.one/img/983.png" group-title="Россия", Первый канал HD
 #EXTGRP:Россия
 http://river-1.rutube.ru/stream/genetta-303.m9.rutube.ru/IvzJEjaQsianFBIsjsF94Q/1747371091/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
 #EXTINF:-1 tvg-id="pervy-pl2" tvg-name="Первый канал +2" tvg-logo="http://epg.one/img/2034.png" group-title="Россия", Первый канал +2
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV_2.m3u8
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV_2.m3u8
 #EXTINF:-1 tvg-id="pervy-pl4" tvg-name="Первый канал +4" tvg-logo="http://epg.one/img/3025.png" group-title="Россия", Первый канал +4
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV_4.m3u8
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV_4.m3u8
 #EXTINF:-1 tvg-id="pervy-pl6" tvg-name="Первый канал +6" tvg-logo="http://epg.one/img/20.png" group-title="Россия", Первый канал +6
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV_6.m3u8
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV_6.m3u8
 #EXTINF:-1 tvg-id="pervy-pl7" tvg-name="Первый канал +7" tvg-logo="http://epg.one/img/3026.png" group-title="Россия", Первый канал +7
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV_7.m3u8
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV_7.m3u8
 #EXTINF:-1 tvg-id="pervy-pl8" tvg-name="Первый канал +8" tvg-logo="http://epg.one/img/3027.png" group-title="Россия", Первый канал +8
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV_8.m3u8
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV_8.m3u8
 #EXTINF:-1 tvg-id="pervy-pl9" tvg-name="Первый канал +9" tvg-logo="http://epg.one/img/146.png" group-title="Россия", Первый канал +9
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV_9.m3u8
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV_9.m3u8
 #EXTINF:-1 tvg-id="pervy-kanal-eu" tvg-name="Первый канал Европа" tvg-logo="http://epg.one/img/4830.png" group-title="Россия", Первый канал Европа
 #EXTGRP:Россия
 https://streaming.goodstream.cyou/live/210-req_offset_28000000-req_window_0-1k_v5.m3u8
