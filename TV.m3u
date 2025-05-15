@@ -854,7 +854,7 @@ http://178.212.71.253:8000/play/92/index.m3u8
 http://dumatv.iptv2022.com/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="ege-tv" tvg-name="ЕГЭ ТВ" tvg-logo="http://epg.one/img/2420.png" group-title="Познавательные", ЕГЭ ТВ
 #EXTGRP:Познавательные
-http://dmi3y-tv.ru/hls/CH_EGETV.m3u8
+http://dmitry-tv.ddns.net/hls/CH_EGETV.m3u8
 #EXTINF:-1 tvg-id="eda-hd-int" tvg-name="ЕДА Премиум" tvg-logo="http://epg.one/img/930.png" group-title="Познавательные", ЕДА Премиум
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000000588/tve/index.m3u8
@@ -932,7 +932,7 @@ http://195.26.83.96:7007/play/11/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000000286/tve/index.m3u8
 #EXTINF:-1 tvg-id="nadezhda" tvg-name="Надежда" tvg-logo="http://epg.one/img/1732.png" group-title="Познавательные", Надежда
 #EXTGRP:Познавательные
-http://dmi3y-tv.ru/hls/CH_NADEZHDAHD720.m3u8
+http://dmitry-tv.ddns.net/hls/CH_NADEZHDAHD720.m3u8
 #EXTINF:-1 tvg-id="narod-vsio-vidit" tvg-name="Народ Всё Видит" tvg-logo="https://iptvx.one/picons/narod-vsio-vidit.png" group-title="Познавательные", Народ Всё Видит
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000008614/tve/index.m3u8
@@ -1118,7 +1118,7 @@ https://ucdn.beetv.kz/bpk-tv/000000707/tve/index.m3u8
 http://95.67.12.82:9083
 #EXTINF:-1 tvg-id="deutsche-welle-eu" tvg-name="Deutsche Welle EN" tvg-logo="http://epg.one/img/8638.png" group-title="Познавательные", Deutsche Welle EN
 #EXTGRP:Познавательные
-http://dmi3y-tv.ru/hls/CH_DW_ENGLISHHD.m3u8
+http://dmitry-tv.ddns.net/hls/CH_DW_ENGLISHHD.m3u8
 #EXTINF:-1 tvg-id="discovery-channel" tvg-name="Discovery Channel" tvg-logo="http://epg.one/img/325.png" group-title="Познавательные", Discovery Channel
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000001496/tve/index.m3u8
@@ -1487,10 +1487,10 @@ https://mhd128.iptv2022.com/p/xXhgpwy1_pmcz_7hjVnVZQ,1747342807/streaming/kamedi
 https://ucdn.beetv.kz/bpk-tv/000008136/tve/index.m3u8
 #EXTINF:-1 tvg-id="kino1int-tviksel" tvg-name="Кино 1 International" tvg-logo="http://epg.one/img/6258.png" group-title="Кино", Кино 1 International
 #EXTGRP:Кино
-http://dmi3y-tv.ru/hls/CH_KINO1_INT.m3u8
+http://dmitry-tv.ddns.net/hls/CH_KINO1_INT.m3u8
 #EXTINF:-1 tvg-id="kino-tv" tvg-name="Кино ТВ" tvg-logo="http://epg.one/img/1037.png" group-title="Кино", Кино ТВ
 #EXTGRP:Кино
-http://dmi3y-tv.ru/hls/CH_KINOTV.m3u8
+http://dmitry-tv.ddns.net/hls/CH_KINOTV.m3u8
 #EXTINF:-1 tvg-id="kinoboevik-kz" tvg-name="Кинобоевик KZ" tvg-logo="https://iptvx.one/picons/kinoboevik-kz.png" group-title="Кино", Кинобоевик KZ
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000008490/tve/index.m3u8
