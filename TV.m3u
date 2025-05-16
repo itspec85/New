@@ -142,7 +142,7 @@ http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV-1.m3u8
 http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV.m3u8
 #EXTINF:-1 tvg-id="pervy" tvg-name="Первый канал HD" tvg-logo="http://epg.one/img/983.png" group-title="Россия", Первый канал HD
 #EXTGRP:Россия
-http://river-1.rutube.ru/stream/genetta-303.m9.rutube.ru/IvzJEjaQsianFBIsjsF94Q/1747371091/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
+http://130.193.73.10:8937/play/a00g
 #EXTINF:-1 tvg-id="pervy-pl2" tvg-name="Первый канал +2" tvg-logo="http://epg.one/img/2034.png" group-title="Россия", Первый канал +2
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -421,7 +421,7 @@ http://dmitry-tv.ddns.net/hls/zabava/CH_SUBBOTA-1.m3u8
 http://dmitry-tv.ddns.net/hls/zabava/CH_SUBBOTA.m3u8
 #EXTINF:-1 tvg-id="super" tvg-name="Суббота HD" tvg-logo="http://epg.one/img/2288.png" group-title="Россия", Суббота HD
 #EXTGRP:Россия
-http://river-1.rutube.ru/stream/genetta-313.m9.rutube.ru/fgIaR5uXu_mJO9akQvM-bA/1747289310/310744c10a5809da38aa445c952976da/1080p_stream.m3u8
+http://river-1.rutube.ru/stream/genetta-313.m9.rutube.ru/rKkNbpn4ud8oiXnC8M9Rgg/1747908973/310744c10a5809da38aa445c952976da/1080p_stream.m3u8
 #EXTINF:-1 tvg-id="super" tvg-shift="-2" tvg-name="Суббота +2" tvg-logo="http://epg.one/img/7976.png" group-title="Россия", Суббота +2
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -448,7 +448,7 @@ http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TV3-1.m3u8
 http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TV3.m3u8
 #EXTINF:-1 tvg-id="tv3-ru" tvg-name="ТВ3 HD" tvg-logo="http://epg.one/img/698.png" group-title="Россия", ТВ3 HD
 #EXTGRP:Россия
-http://river-1.rutube.ru/stream/genetta-319.m9.rutube.ru/v5V_4_cf1emTk6auuqkYQw/1747255595/7bf12d9c050f9a7ef3728db5730432ae/1080p_stream.m3u8
+http://river-1.rutube.ru/stream/genetta-319.m9.rutube.ru/OHtRetz3NuaS6A7Vbppjww/1747889946/7bf12d9c050f9a7ef3728db5730432ae/1080p_stream.m3u8
 #EXTINF:-1 tvg-id="tv3-ru-pl2" tvg-name="ТВ3 +2" tvg-logo="http://epg.one/img/3013.png" group-title="Россия", ТВ3 +2
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
