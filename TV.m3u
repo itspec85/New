@@ -142,7 +142,7 @@ http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV-1.m3u8
 http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV.m3u8
 #EXTINF:-1 tvg-id="pervy" tvg-name="Первый канал HD" tvg-logo="http://epg.one/img/983.png" group-title="Россия", Первый канал HD
 #EXTGRP:Россия
-http://130.193.73.10:8937/play/a00g
+http://river-1.rutube.ru/stream/genetta-303.m9.rutube.ru/RcCOPZgnRRT-EgSlmBG2Gw/1747997300/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
 #EXTINF:-1 tvg-id="pervy-pl2" tvg-name="Первый канал +2" tvg-logo="http://epg.one/img/2034.png" group-title="Россия", Первый канал +2
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -535,7 +535,7 @@ http://dmitry-tv.ddns.net/hls/zabava/CH_TNT4-1.m3u8
 http://dmitry-tv.ddns.net/hls/zabava/CH_TNT4.m3u8
 #EXTINF:-1 tvg-id="tnt4" tvg-name="ТНТ4 HD" tvg-logo="http://epg.one/img/1649.png" group-title="Россия", ТНТ4 HD
 #EXTGRP:Россия
-http://river-1.rutube.ru/stream/genetta-311.m9.rutube.ru/mUODyqOBl2m8awpJCzYJnA/1747387714/c801a7087e29a097192d74c270fbc6c1/720p_stream.m3u8
+http://river-1.rutube.ru/stream/genetta-311.m9.rutube.ru/nL-lDs39RCJuITSThVra3g/1747997302/c801a7087e29a097192d74c270fbc6c1/1080p_stream.m3u8
 #EXTINF:-1 tvg-id="tnt4-pl2" tvg-name="ТНТ4 +2" tvg-logo="http://epg.one/img/7978.png" group-title="Россия", ТНТ4 +2
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
