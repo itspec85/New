@@ -866,7 +866,7 @@ http://195.18.23.20:8000/play/10/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000000289/tve/index.m3u8
 #EXTINF:-1 tvg-id="zagorodny" tvg-name="Загородный" tvg-logo="http://epg.one/img/2463.png" group-title="Познавательные", Загородный
 #EXTGRP:Познавательные
-https://mhd128.iptv2022.com/p/rUhuDYCMZMpwldq8bEfgOw,1747602013/streaming/country/324/1/tracks-v5a1/mono.m3u8
+http://109.248.236.51/zagorodniy/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="zal-suda" tvg-name="Зал суда HD" tvg-logo="http://epg.one/img/3550.png" group-title="Познавательные", Зал суда HD
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000006638/tve/index.m3u8
@@ -1520,7 +1520,7 @@ http://109.248.236.51/kinosvidanie/tracks-v1a1/mono.m3u8
 https://ucdn.beetv.kz/bpk-tv/000004633/tve/index.m3u8
 #EXTINF:-1 tvg-id="kinoseria" tvg-name="Киносерия" tvg-logo="http://epg.one/img/799.png" group-title="Кино", Киносерия
 #EXTGRP:Кино
-https://mhd128.iptv2022.com/p/0u3mZ3a0GF4BH4AD4oLaKg,1747602007/streaming/kinoseria/324/1/tracks-v5a1/mono.m3u8
+http://109.248.236.51/kinoseria/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="kinouzhas" tvg-name="Киноужас" tvg-logo="http://epg.one/img/2493.png" group-title="Кино", Киноужас
 #EXTGRP:Кино
 http://109.200.130.123:7537/play/a021
@@ -2136,7 +2136,7 @@ http://911play.ru:3456/live/VostokSite/cdnVostaoc911tv123456/489.m3u8
 http://streamer.rtcommufa.ru:1935/ptica/ptica1/chunklist.m3u8
 #EXTINF:-1 tvg-id="zhara" tvg-name="Жара" tvg-logo="http://epg.one/img/165.png" group-title="Музыка", Жара
 #EXTGRP:Музыка
-http://109.200.130.123:7537/play/a02v
+http://109.248.236.51/zhara/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="muzsoyuz" tvg-name="МузСоюз" tvg-logo="http://epg.one/img/2413.png" group-title="Музыка", МузСоюз
 #EXTGRP:Музыка
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
