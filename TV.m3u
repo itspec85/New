@@ -2220,7 +2220,7 @@ http://195.26.83.96:7007/play/a00m/index.m3u8
 http://178.212.71.253:8000/play/142/index.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-classic" tvg-name="Bridge TV Classic" tvg-logo="http://epg.one/img/4373.png" group-title="Музыка", Bridge TV Classic
 #EXTGRP:Музыка
-http://178.212.71.253:8000/play/135/index.m3u8
+http://109.248.236.51/bridge_tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="bridge-hd" tvg-name="Bridge TV Deluxe" tvg-logo="http://epg.one/img/2022.png" group-title="Музыка", Bridge TV Deluxe
 #EXTGRP:Музыка
 http://178.212.71.253:8000/play/98/index.m3u8
