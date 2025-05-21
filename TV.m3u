@@ -180,7 +180,7 @@ http://dmitry-tv.ddns.net/hls/DVB-T2/CH_FRIDAY-1.m3u8
 http://dmitry-tv.ddns.net/hls/DVB-T2/CH_FRIDAY.m3u8
 #EXTINF:-1 tvg-id="piatnica" tvg-name="Пятница! HD" tvg-logo="http://epg.one/img/2765.png" group-title="Россия", Пятница! HD
 #EXTGRP:Россия
-http://river-1.rutube.ru/stream/genetta-318.m9.rutube.ru/LZaaDun6tzFRN5d30JwGZQ/1747690729/9f87a9a0cecbe773be6fddcbd93585ac/1080p_stream.m3u8
+http://river-1.rutube.ru/stream/genetta-318.m9.rutube.ru/DgxNejHygDop44pEx3D4yA/1748322132/9f87a9a0cecbe773be6fddcbd93585ac/1080p_stream.m3u8
 #EXTINF:-1 tvg-id="piatnica-pl2" tvg-name="Пятница +2" tvg-logo="http://epg.one/img/3016.png" group-title="Россия", Пятница +2
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -505,7 +505,7 @@ http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TNT-1.m3u8
 http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TNT.m3u8
 #EXTINF:-1 tvg-id="tnt" tvg-name="ТНТ HD" tvg-logo="http://epg.one/img/1767.png" group-title="Россия", ТНТ HD
 #EXTGRP:Россия
-http://185.50.148.2:7710/TNT_HD/index.m3u8
+http://river-1.rutube.ru/stream/genetta-323.m9.rutube.ru/OkhyJflm7Y5pViOi-1iShA/1747840670/546602986e6a424d74d594876ddb3f04/1080p_stream.m3u8
 #EXTINF:-1 tvg-id="tnt-pl2" tvg-name="ТНТ +2" tvg-logo="http://epg.one/img/3022.png" group-title="Россия", ТНТ +2
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
