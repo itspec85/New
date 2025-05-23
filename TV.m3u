@@ -1538,7 +1538,7 @@ http://dmitry-tv.ddns.net/hls/CH_KOSHMAR.m3u8
 http://autopilot.catcast.tv/content/41596/index.m3u8
 #EXTINF:-1 tvg-id="lubimoe-kino" tvg-name="Любимое кино" tvg-logo="http://epg.one/img/477.png" group-title="Кино", Любимое кино
 #EXTGRP:Кино
-http://130.193.73.10:8937/play/a037
+http://178.212.236.3:8802/play/a01d
 #EXTINF:-1 tvg-id="mir-seriala" tvg-name="Мир сериала" tvg-logo="http://epg.one/img/2275.png" group-title="Кино", Мир сериала
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000000319/tve/index.m3u8
@@ -1591,19 +1591,19 @@ http://194.158.218.123:8880/Retrotv/index.m3u8
 http://31.148.48.15/Rodnoe_kino/index.m3u8
 #EXTINF:-1 tvg-id="russkaya-komedia" tvg-name="Русская комедия" tvg-logo="http://epg.one/img/1620.png" group-title="Кино", Русская комедия
 #EXTGRP:Кино
-http://130.193.73.10:8937/play/a03k
+EXTVLCOPT:http-user-agent=Donate
 #EXTINF:-1 tvg-id="russky-bestseller" tvg-name="Русский бестселлер" tvg-logo="http://epg.one/img/994.png" group-title="Кино", Русский бестселлер
 #EXTGRP:Кино
-http://130.193.73.10:8937/play/a03l
+http://31.148.48.15/Russkiy_Bestseller/index.m3u8
 #EXTINF:-1 tvg-id="russky-detektiv" tvg-name="Русский детектив" tvg-logo="http://epg.one/img/1570.png" group-title="Кино", Русский детектив
 #EXTGRP:Кино
-http://130.193.73.10:8937/play/a03o
+http://178.212.71.253:8000/play/45/index.m3u8
 #EXTINF:-1 tvg-id="russky-illuzion" tvg-name="Русский иллюзион" tvg-logo="http://epg.one/img/53.png" group-title="Кино", Русский иллюзион
 #EXTGRP:Кино
-http://109.200.130.123:7537/play/a023
+http://195.26.83.96:7006/play/a00y/index.m3u8
 #EXTINF:-1 tvg-id="russky-roman" tvg-name="Русский роман" tvg-logo="http://epg.one/img/401.png" group-title="Кино", Русский роман
 #EXTGRP:Кино
-http://130.193.73.10:8937/play/a03n
+http://31.148.48.15/Russkiy_Roman/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="sapfir" tvg-name="Сапфир" tvg-logo="http://epg.one/img/7315.png" group-title="Кино", Сапфир
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000008135/tve/index.m3u8
@@ -1639,13 +1639,13 @@ http://158.101.222.193:88/georgia_play.php?id=fenikspluskino
 https://mhd128.iptv2022.com/p/K9qFkqlt5H7uyHn38TiOjQ,1748034008/streaming/hit/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="sony-turbo" tvg-name=".black" tvg-logo="http://epg.one/img/935.png" group-title="Кино", .black
 #EXTGRP:Кино
-http://109.200.130.123:7537/play/a02s
+http://s1.merlive.am/black/index.m3u8
 #EXTINF:-1 tvg-id="sony-tv" tvg-name=".red" tvg-logo="http://epg.one/img/311.png" group-title="Кино", .red
 #EXTGRP:Кино
 http://178.124.152.238:8088/sony
 #EXTINF:-1 tvg-id="sony-scifi" tvg-name=".sci-fi" tvg-logo="http://epg.one/img/516.png" group-title="Кино", .sci-fi
 #EXTGRP:Кино
-http://130.193.73.10:8937/play/a02q
+http://radio.tvs.by:8088/Sci-Fi/index.m3u8
 #EXTINF:-1 tvg-name="1FILMAX" tvg-logo="https://online-tv.live/images/1filmax.png" group-title="Кино", 1FILMAX
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=goodgame
@@ -1680,7 +1680,7 @@ https://ucdn.beetv.kz/bpk-tv/000001662/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000000709/tve/index.m3u8
 #EXTINF:-1 tvg-id="bollywood-hd" tvg-name="Bollywood HD" tvg-logo="http://epg.one/img/1395.png" group-title="Кино", Bollywood HD
 #EXTGRP:Кино
-http://130.193.73.10:8937/play/a02l
+http://193.27.209.122/bollywood/index.m3u8
 #EXTINF:-1 tvg-id="cinema-ru" tvg-name="Cinema" tvg-logo="http://epg.one/img/2754.png" group-title="Кино", Cinema
 #EXTGRP:Кино
 http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
@@ -1733,7 +1733,7 @@ https://ucdn.beetv.kz/bpk-tv/000004472/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000004471/tve/index.m3u8
 #EXTINF:-1 tvg-id="hollywood" tvg-name="Hollywood" tvg-logo="http://epg.one/img/608.png" group-title="Кино", Hollywood
 #EXTGRP:Кино
-http://109.200.130.123:7537/play/a02g
+https://stream1.cinerama.uz/1443/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="hollywood-hd" tvg-name="Hollywood HD" tvg-logo="http://epg.one/img/934.png" group-title="Кино", Hollywood HD
 #EXTGRP:Кино
 http://130.193.73.10:8937/play/a02k
