@@ -1244,7 +1244,7 @@ http://109.200.130.123:7537/play/a02i
 https://ucdn.beetv.kz/bpk-tv/000001498/tve/index.m3u8
 #EXTINF:-1 tvg-id="travel-adventure" tvg-name="travel+adventure" tvg-logo="http://epg.one/img/1035.png" group-title="Познавательные", travel+adventure
 #EXTGRP:Познавательные
-http://130.193.73.10:8937/play/a026
+http://sltv2.be:8080/DeNiSoNkEl/nPcCsz5hHn/550285
 #EXTINF:-1 tvg-id="tv-brics" tvg-name="TV BRICS" tvg-logo="https://iptvx.one/picons/tv-brics.png" group-title="Познавательные", TV BRICS
 #EXTGRP:Познавательные
 http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
@@ -1268,7 +1268,7 @@ https://ucdn.beetv.kz/bpk-tv/000006482/tve/index.m3u8
 https://stream1.cinerama.uz/1228/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="viasat-nature-history-hd" tvg-name="Viju+ Planet HD" tvg-logo="http://epg.one/img/2012.png" group-title="Познавательные", Viju+ Planet HD
 #EXTGRP:Познавательные
-http://130.193.73.10:8937/play/a01l
+http://sltv2.be:8080/DeNiSoNkEl/nPcCsz5hHn/581432
 #EXTINF:-1 tvg-name="VIP HD" tvg-logo="https://avatars.mds.yandex.net/i?id=caa18786cf719cb262caf54d3cbbd750_sr-9099210-images-thumbs&n=13" group-title="Познавательные", VIP HD
 #EXTGRP:Познавательные
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/vip.m3u8
@@ -1737,7 +1737,7 @@ https://ucdn.beetv.kz/bpk-tv/000004471/tve/index.m3u8
 https://stream1.cinerama.uz/1443/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="hollywood-hd" tvg-name="Hollywood HD" tvg-logo="http://epg.one/img/934.png" group-title="Кино", Hollywood HD
 #EXTGRP:Кино
-http://130.193.73.10:8937/play/a02k
+http://sltv2.be:8080/DeNiSoNkEl/nPcCsz5hHn/550106
 #EXTINF:-1 tvg-name="Horror TV" tvg-logo="http://epg.one/img/8792.png" group-title="Кино", Horror TV
 #EXTGRP:Кино
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/93dc292b-cbcf-4988-ab97-94feced4c14b/manifest.m3u8
@@ -1885,7 +1885,7 @@ https://mhd128.iptv2022.com/p/APY_R3y9L2xrK10styHHqQ,1748034015/streaming/footba
 http://65.21.85.175:8000/play/a00c/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="start" tvg-name="Старт" tvg-logo="http://epg.one/img/2530.png" group-title="Спорт", Старт
 #EXTGRP:Спорт
-http://130.193.73.10:8937/play/a04l
+http://sltv2.be:8080/DeNiSoNkEl/nPcCsz5hHn/510637
 #EXTINF:-1 tvg-id="ufc" tvg-name="Удар HD" tvg-logo="http://epg.one/img/2480.png" group-title="Спорт", Удар HD
 #EXTGRP:Спорт
 https://ucdn.beetv.kz/bpk-tv/000007802/tve/index.m3u8
