@@ -845,10 +845,10 @@ http://95.156.76.230:33001/udp/230.4.34.78:1234
 https://m3u8.ott.blue/watch/7319/video.m3u8?geo=auto&token=94450098895765784220366841698509
 #EXTINF:-1 tvg-id="doktor" tvg-name="Доктор" tvg-logo="http://epg.one/img/16.png" group-title="Познавательные", Доктор
 #EXTGRP:Познавательные
-http://130.193.73.10:8937/play/a01q
+http://31.148.48.15/Doktor/index.m3u8
 #EXTINF:-1 tvg-id="domashnie-zhivotnye" tvg-name="Домашние Животные" tvg-logo="http://epg.one/img/520.png" group-title="Познавательные", Домашние Животные
 #EXTGRP:Познавательные
-http://130.193.73.10:8937/play/a02d
+https://stream1.cinerama.uz/1426/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="drive" tvg-name="Драйв" tvg-logo="http://epg.one/img/2443.png" group-title="Познавательные", Драйв
 #EXTGRP:Познавательные
 http://178.212.71.253:8000/play/92/index.m3u8
@@ -989,7 +989,7 @@ https://serv25.vintera.tv/1pnk/prnk/chunks.m3u8
 https://cdn2.skygo.mn/live/disk1/Che/HLS-FTA/Che.m3u8
 #EXTINF:-1 tvg-id="poexali" tvg-name="Поехали!" tvg-logo="http://epg.one/img/2350.png" group-title="Познавательные", Поехали!
 #EXTGRP:Познавательные
-http://130.193.73.10:8937/play/a01n
+http://109.248.236.51/poehali/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="prikluchenia-hd" tvg-name="Приключения HD" tvg-logo="http://epg.one/img/2311.png" group-title="Познавательные", Приключения HD
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000000277/tve/index.m3u8
@@ -1022,7 +1022,7 @@ https://n1.slavmir.tv/live/slavmir/chunklist.m3u8
 https://ucdn.beetv.kz/bpk-tv/000002510/tve/index.m3u8
 #EXTINF:-1 tvg-id="sarafan" tvg-name="Сарафан" tvg-logo="http://epg.one/img/663.png" group-title="Познавательные", Сарафан
 #EXTGRP:Познавательные
-http://130.193.73.10:8937/play/a01v
+http://s7.merlive.am/Sarafan/index.m3u8
 #EXTINF:-1 tvg-id="sovsek" tvg-name="Совершенно секретно" tvg-logo="http://epg.one/img/275.png" group-title="Познавательные", Совершенно секретно
 #EXTGRP:Познавательные
 http://178.124.152.238:8088/sovsec
@@ -1253,19 +1253,19 @@ http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
 https://ucdn.beetv.kz/bpk-tv/000004157/tve/index.m3u8
 #EXTINF:-1 tvg-id="viasat-explore" tvg-name="Viju Explore (резерв)" tvg-logo="http://epg.one/img/521.png" group-title="Познавательные", Viju Explore (резерв)
 #EXTGRP:Познавательные
-http://130.193.73.10:8937/play/a01j
+http://109.248.236.51/viju_explore/mono.m3u8
 #EXTINF:-1 tvg-id="viasat-history" tvg-name="Viju History" tvg-logo="http://epg.one/img/277.png" group-title="Познавательные", Viju History
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000005528/tve/index.m3u8
 #EXTINF:-1 tvg-id="viasat-history" tvg-name="Viju History (резерв)" tvg-logo="http://epg.one/img/277.png" group-title="Познавательные", Viju History (резерв)
 #EXTGRP:Познавательные
-http://135.181.115.81:8000/play/a00g/index.m3u8?token=livetv
+http://109.248.236.51/viju_history/mono.m3u8
 #EXTINF:-1 tvg-id="viasat-nature" tvg-name="Viju Nature" tvg-logo="http://epg.one/img/765.png" group-title="Познавательные", Viju Nature
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000006482/tve/index.m3u8
 #EXTINF:-1 tvg-id="viasat-nature" tvg-name="Viju Nature (резерв)" tvg-logo="http://epg.one/img/765.png" group-title="Познавательные", Viju Nature (резерв)
 #EXTGRP:Познавательные
-http://130.193.73.10:8937/play/a01k
+https://stream1.cinerama.uz/1228/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="viasat-nature-history-hd" tvg-name="Viju+ Planet HD" tvg-logo="http://epg.one/img/2012.png" group-title="Познавательные", Viju+ Planet HD
 #EXTGRP:Познавательные
 http://130.193.73.10:8937/play/a01l
@@ -1354,10 +1354,10 @@ http://stv.mediacdn.ru/live/cdn/multimuzika/playlist_sdhigher.m3u8
 https://hls.goodgame.ru/hls/198446.m3u8
 #EXTINF:-1 tvg-id="multimania" tvg-name="Мультиландия" tvg-logo="http://epg.one/img/2757.png" group-title="Детские", Мультиландия
 #EXTGRP:Детские
-http://130.193.73.10:8937/play/a00z
+http://109.248.236.51/multilandia/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="o_" tvg-name="О!" tvg-logo="http://epg.one/img/1757.png" group-title="Детские", О!
 #EXTGRP:Детские
-http://130.193.73.10:8937/play/a016
+http://109.248.236.51/o/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ryzhy" tvg-name="Рыжий" tvg-logo="http://epg.one/img/2437.png" group-title="Детские", Рыжий
 #EXTGRP:Детские
 https://mhd128.iptv2022.com/p/xQp6seyod38Z0pf7UUS7Zw,1748034010/streaming/ginger-surd/324/1/tracks-v5a1/mono.m3u8
