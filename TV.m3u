@@ -830,7 +830,7 @@ http://45.143.108.110:2200/vremia
 https://ucdn.beetv.kz/bpk-tv/000001414/tve/index.m3u8
 #EXTINF:-1 tvg-id="dialogi-o-rybalke" tvg-name="Диалоги о рыбалке" tvg-logo="http://epg.one/img/2627.png" group-title="Познавательные", Диалоги о рыбалке
 #EXTGRP:Познавательные
-http://130.193.73.10:8937/play/a04q
+https://ucdn.beetv.kz/bpk-tv/000003174/tve/index.m3u8
 #EXTINF:-1 tvg-id="dikaya-oxota-hd" tvg-name="Дикая охота HD" tvg-logo="http://epg.one/img/2483.png" group-title="Познавательные", Дикая охота HD
 #EXTGRP:Познавательные
 https://mhd128.iptv2022.com/p/HAOilpt52q9a8HIeeUoWsQ,1748034011/streaming/ohotahd/324/1/tracks-v5a1/mono.m3u8
@@ -1696,7 +1696,8 @@ https://ucdn.beetv.kz/bpk-tv/000000452/tve/index.m3u8
 http://hls.goodgame.ru:8080/hls/210470.m3u8
 #EXTINF:-1 tvg-id="fanhd" tvg-name="FAN" tvg-logo="http://epg.one/img/2359.png" group-title="Кино", FAN
 #EXTGRP:Кино
-http://130.193.73.10:8937/play/a03w
+#EXTVLCOPT:http-user-agent=goodgame
+https://hls.goodgame.ru/hls/157239.m3u8
 #EXTINF:-1 tvg-name="Fantom" tvg-logo="https://i.ibb.co/688SVFy/image-38.png" group-title="Кино", Fantom
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=goodgame
@@ -1711,7 +1712,7 @@ http://hls.goodgame.ru:8080/hls/163253.m3u8
 http://hls.goodgame.ru/hls/208358.m3u8
 #EXTINF:-1 tvg-id="filmbox-ru" tvg-name="FilmBox" tvg-logo="http://epg.one/img/2181.png" group-title="Кино", FilmBox
 #EXTGRP:Кино
-http://130.193.73.10:8937/play/a03s
+http://45.143.108.110:2200/FilmBOX
 #EXTINF:-1 tvg-id="filmbox-arthouse" tvg-name="Filmbox Arthouse" tvg-logo="http://epg.one/img/2182.png" group-title="Кино", Filmbox Arthouse
 #EXTGRP:Кино
 http://iptv.prosto.tv:7000/ch63/video.m3u8
@@ -3080,9 +3081,6 @@ http://178.212.71.253:8000/play/22/index.m3u8
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://dmitry-tv.ddns.net/hls/zabava/region/ORL/CH_1OBLASTNOY.m3u8
-#EXTINF:-1 tvg-name="Первый республиканский HD" tvg-logo="https://epg.one/img/6674.png" group-title="Региональные РФ", Первый республиканский HD
-#EXTGRP:Региональные РФ
-http://130.193.73.10:8937/play/a001
 #EXTINF:-1 tvg-id="pervy-rostovsky" tvg-name="Первый Ростовский FHD" tvg-logo="https://epg.one/img/6766.png" group-title="Региональные РФ", Первый Ростовский FHD
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
