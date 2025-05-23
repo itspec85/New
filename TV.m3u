@@ -1077,7 +1077,7 @@ https://ucdn.beetv.kz/bpk-tv/000001880/tve/index.m3u8
 http://hlss.goodgame.ru/hls/192005.m3u8
 #EXTINF:-1 tvg-id="2na2" tvg-name="2x2" tvg-logo="http://epg.one/img/323.png" group-title="Познавательные", 2x2
 #EXTGRP:Познавательные
-http://130.193.73.10:8937/play/a01b
+http://31.148.48.15/2x2/index.m3u8
 #EXTINF:-1 tvg-name="555 Hunt Fishing TV" tvg-logo="https://avatars.mds.yandex.net/i?id=635b73799daf216d5519050021039012e1e8254f-10349168-images-thumbs&n=13" group-title="Познавательные", 555 Hunt Fishing TV
 #EXTGRP:Познавательные
 http://193.169.178.29:8081/podsekaiTV/chanelHD1080/playlist.m3u8
@@ -2175,7 +2175,7 @@ http://kino-1.catcast.tv/content/37742/index.m3u8
 http://kino-1.catcast.tv/content/37739/index.m3u8
 #EXTINF:-1 tvg-id="muzyka-pervogo" tvg-name="Музыка Первого" tvg-logo="http://epg.one/img/715.png" group-title="Музыка", Музыка Первого
 #EXTGRP:Музыка
-http://130.193.73.10:8937/play/a043
+https://stream1.cinerama.uz/1201/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="o2tv" tvg-name="О2 ТВ" tvg-logo="http://epg.one/img/2412.png" group-title="Музыка", О2 ТВ
 #EXTGRP:Музыка
 http://195.26.83.96:7006/play/1/index.m3u8
