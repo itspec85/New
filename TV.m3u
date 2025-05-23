@@ -1493,7 +1493,7 @@ https://ucdn.beetv.kz/bpk-tv/000008136/tve/index.m3u8
 http://dmitry-tv.ddns.net/hls/CH_KINO1_INT.m3u8
 #EXTINF:-1 tvg-id="kino-tv" tvg-name="Кино ТВ" tvg-logo="http://epg.one/img/1037.png" group-title="Кино", Кино ТВ
 #EXTGRP:Кино
-http://dmitry-tv.ddns.net/hls/CH_KINOTV.m3u8
+http://s1.merlive.am/kinotvhd/index.m3u8
 #EXTINF:-1 tvg-id="kinoboevik-kz" tvg-name="Кинобоевик KZ" tvg-logo="https://iptvx.one/picons/kinoboevik-kz.png" group-title="Кино", Кинобоевик KZ
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000008490/tve/index.m3u8
