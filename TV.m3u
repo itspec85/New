@@ -672,12 +672,6 @@ https://ucdn.beetv.kz/bpk-tv/000000941/tve/index.m3u8
 #EXTINF:-1 tvg-id="irbis" tvg-name="Ирбис" tvg-logo="https://iptvx.one/picons/irbis.png" group-title="Казахстан", Ирбис
 #EXTGRP:Казахстан
 https://ucdn.beetv.kz/bpk-tv/000001513/tve/index.m3u8
-#EXTINF:-1 tvg-id="q-kino-hit" tvg-name="QAlem 1HD" tvg-logo="https://iptvx.one/picons/q-kino-hit.png" group-title="Казахстан", QAlem 1HD
-#EXTGRP:Казахстан
-https://ucdn.beetv.kz/bpk-tv/000005449/tve/index.m3u8
-#EXTINF:-1 tvg-id="q-kino-alem" tvg-name="QAlem 2HD" tvg-logo="https://iptvx.one/picons/q-kino-alem.png" group-title="Казахстан", QAlem 2HD
-#EXTGRP:Казахстан
-https://ucdn.beetv.kz/bpk-tv/000005450/tve/index.m3u8
 #EXTINF:-1 tvg-id="kazakhstan" tvg-name="Qazaqstan HD" tvg-logo="http://epg.one/img/2569.png" group-title="Казахстан", Qazaqstan HD
 #EXTGRP:Казахстан
 https://ucdn.beetv.kz/bpk-tv/000004208/tve/index.m3u8
@@ -1491,6 +1485,9 @@ http://s1.merlive.am/kinotvhd/index.m3u8
 #EXTINF:-1 tvg-id="kinoboevik-kz" tvg-name="Кинобоевик KZ" tvg-logo="https://iptvx.one/picons/kinoboevik-kz.png" group-title="Кино", Кинобоевик KZ
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000008490/tve/index.m3u8
+#EXTINF:-1 tvg-id="q-kino-hit" tvg-name="Кинодрама KZ" tvg-logo="https://iptvx.one/picons/q-kino-hit.png" group-title="Кино", Кинодрама KZ
+#EXTGRP:Кино
+https://ucdn.beetv.kz/bpk-tv/000005449/tve/index.m3u8
 #EXTINF:-1 tvg-id="kinokomedia" tvg-name="Кинокомедия" tvg-logo="http://epg.one/img/821.png" group-title="Кино", Кинокомедия
 #EXTGRP:Кино
 http://178.212.71.253:8000/play/85/index.m3u8
@@ -1515,6 +1512,9 @@ http://109.248.236.51/kinosvidanie/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="kinosemiya" tvg-name="Киносемья" tvg-logo="http://epg.one/img/987.png" group-title="Кино", Киносемья
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000004633/tve/index.m3u8
+#EXTINF:-1 tvg-id="q-kino-alem" tvg-name="Киносериал KZ" tvg-logo="https://iptvx.one/picons/q-kino-alem.png" group-title="Кино", Киносериал KZ
+#EXTGRP:Кино
+https://ucdn.beetv.kz/bpk-tv/000005450/tve/index.m3u8
 #EXTINF:-1 tvg-id="kinoseria" tvg-name="Киносерия" tvg-logo="http://epg.one/img/799.png" group-title="Кино", Киносерия
 #EXTGRP:Кино
 http://109.248.236.51/kinoseria/tracks-v1a1/mono.m3u8
