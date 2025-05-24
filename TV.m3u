@@ -842,7 +842,7 @@ https://m3u8.ott.blue/watch/7319/video.m3u8?geo=auto&token=944500988957657842203
 http://31.148.48.15/Doktor/index.m3u8
 #EXTINF:-1 tvg-id="domashnie-zhivotnye" tvg-name="Домашние Животные" tvg-logo="http://epg.one/img/520.png" group-title="Познавательные", Домашние Животные
 #EXTGRP:Познавательные
-https://stream1.cinerama.uz/1426/tracks-v1a1/mono.m3u8
+https://ucdn.beetv.kz/bpk-tv/000000146/tve/index.m3u8
 #EXTINF:-1 tvg-id="drive" tvg-name="Драйв" tvg-logo="http://epg.one/img/2443.png" group-title="Познавательные", Драйв
 #EXTGRP:Познавательные
 http://178.212.71.253:8000/play/92/index.m3u8
@@ -1256,7 +1256,7 @@ http://109.248.236.51/viju_history/mono.m3u8
 https://ucdn.beetv.kz/bpk-tv/000006482/tve/index.m3u8
 #EXTINF:-1 tvg-id="viasat-nature" tvg-name="Viju Nature (резерв)" tvg-logo="http://epg.one/img/765.png" group-title="Познавательные", Viju Nature (резерв)
 #EXTGRP:Познавательные
-https://stream1.cinerama.uz/1228/tracks-v1a1/mono.m3u8
+http://109.248.236.51/viju_nature/mono.m3u8
 #EXTINF:-1 tvg-id="viasat-nature-history-hd" tvg-name="Viju+ Planet HD" tvg-logo="http://epg.one/img/2012.png" group-title="Познавательные", Viju+ Planet HD
 #EXTGRP:Познавательные
 http://sltv2.be:8080/DeNiSoNkEl/nPcCsz5hHn/581432
@@ -2164,7 +2164,7 @@ http://kino-1.catcast.tv/content/37742/index.m3u8
 http://kino-1.catcast.tv/content/37739/index.m3u8
 #EXTINF:-1 tvg-id="muzyka-pervogo" tvg-name="Музыка Первого" tvg-logo="http://epg.one/img/715.png" group-title="Музыка", Музыка Первого
 #EXTGRP:Музыка
-https://stream1.cinerama.uz/1201/tracks-v1a1/mono.m3u8
+https://ucdn.beetv.kz/bpk-tv/000000204/tve/index.m3u8
 #EXTINF:-1 tvg-id="o2tv" tvg-name="О2 ТВ" tvg-logo="http://epg.one/img/2412.png" group-title="Музыка", О2 ТВ
 #EXTGRP:Музыка
 http://195.26.83.96:7006/play/1/index.m3u8
