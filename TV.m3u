@@ -1052,7 +1052,7 @@ http://31.148.48.15:80/Telekafe/index.m3u8
 http://31.148.48.15/Teleputeshestviya/index.m3u8
 #EXTINF:-1 tvg-id="tochka-otryva" tvg-name="Точка отрыва" tvg-logo="http://epg.one/img/617.png" group-title="Познавательные", Точка отрыва
 #EXTGRP:Познавательные
-http://s1.merlive.am/tochkaotriva/index.m3u8
+https://ucdn.beetv.kz/bpk-tv/000003208/tve/index.m3u8
 #EXTINF:-1 tvg-id="hd-life" tvg-name="Точка РФ" tvg-logo="https://epgx.club/picons/hdl.png" group-title="Познавательные", Точка РФ
 #EXTGRP:Познавательные
 http://178.212.71.253:8000/play/61/index.m3u8
@@ -1942,7 +1942,7 @@ https://ucdn.beetv.kz/bpk-tv/000002478/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000002479/tve/index.m3u8
 #EXTINF:-1 tvg-id="extreme-sports" tvg-name="Extreme Sports" tvg-logo="http://epg.one/img/2053.png" group-title="Спорт", Extreme Sports
 #EXTGRP:Спорт
-http://sltv2.be:8080/DeNiSoNkEl/nPcCsz5hHn/510565
+https://ucdn.beetv.kz/bpk-tv/000000026/tve/index.m3u8
 #EXTINF:-1 tvg-name="FITE 24/7" tvg-logo="https://i.imgur.com/ESV6qgH.png" group-title="Спорт", FITE 24/7
 #EXTGRP:Спорт
 https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8
@@ -2068,7 +2068,7 @@ https://7pal.short.gy/ssportspl
 https://7pal.short.gy/ssportstn
 #EXTINF:-1 tvg-id="sport-plus-kz" tvg-name="Sport+ Qazaqstan" tvg-logo="https://avatars.mds.yandex.net/i?id=c14e904d7639f1e1e2e3bf732a13b2cf_sr-4957269-images-thumbs&n=13" group-title="Спорт", Sport+ Qazaqstan
 #EXTGRP:Спорт
-https://stream.qazcdn.net/yq3zvob/1kQsACxNuz/yq3zvob/1kQsACxNuz_1080/chunks.m3u8?ds=yq3zvob&ss=pjXaR1LPLiUoPZFvQbFmDoxYJ97bWEH2UEU1pJ3h
+https://ucdn.beetv.kz/bpk-tv/000008731/tve/index.m3u8
 #EXTINF:-1 tvg-name="Sports TV TR" tvg-logo="http://epg.one/img/3884.png" group-title="Спорт", Sports TV TR
 #EXTGRP:Спорт
 https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
