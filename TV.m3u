@@ -1289,7 +1289,7 @@ https://ucdn.beetv.kz/bpk-tv/000000260/tve/index.m3u8
 http://109.248.236.51/v_gostyah_u_skazki/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="detsky-mir" tvg-name="Детский мир" tvg-logo="http://epg.one/img/923.png" group-title="Детские", Детский мир
 #EXTGRP:Детские
-http://195.26.83.96:7007/play/14/index.m3u8
+http://178.124.152.238:8088/detmir
 #EXTINF:-1 tvg-id="detkinoint-tviksel" tvg-name="Детское кино International" tvg-logo="http://epg.one/img/6261.png" group-title="Детские", Детское кино International
 #EXTGRP:Детские
 http://autopilot.catcast.tv/content/38720/index.m3u8
@@ -1330,9 +1330,6 @@ http://dmitry-tv.ddns.net/hls/DVB-T2/CH_KARUSEL_8.m3u8
 #EXTINF:-1 tvg-id="karusel-int" tvg-name="Карусель International" tvg-logo="https://iptvx.one/picons/karusel.png" group-title="Детские", Карусель International
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000000781/tve/index.m3u8
-#EXTINF:-1 tvg-id="kinomult" tvg-name="КиноМульт" tvg-logo="http://epg.one/img/9024.png" group-title="Детские", КиноМульт
-#EXTGRP:Детские
-http://109.200.130.123:7537/play/a024
 #EXTINF:-1 tvg-id="liova" tvg-name="Лёва HD" tvg-logo="http://epg.one/img/7990.png" group-title="Детские", Лёва HD
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000008003/tve/index.m3u8
@@ -1396,7 +1393,7 @@ http://dmitry-tv.ddns.net/hls/zabava/CH_DISNEY_7.m3u8
 http://194.26.229.213/souzmultfilm/index.m3u8
 #EXTINF:-1 tvg-id="sts-kids-hd" tvg-name="СТС Kids HD" tvg-logo="http://epg.one/img/2481.png" group-title="Детские", СТС Kids
 #EXTGRP:Детские
-http://195.26.83.96:7006/play/a00z/index.m3u8
+http://213.91.178.133:8000/play/a07g
 #EXTINF:-1 tvg-id="malysh" tvg-name="СуперГерои" tvg-logo="http://epg.one/img/2239.png" group-title="Детские", СуперГерои
 #EXTGRP:Детские
 http://radio.tvs.by:8088/Malish/index.m3u8
