@@ -1784,21 +1784,6 @@ https://ucdn.beetv.kz/bpk-tv/000008739/tve/index.m3u8
 #EXTINF:-1 tvg-id="timeless-dizi" tvg-name="Timeless Dizi Channel" tvg-logo="http://epg.one/img/6724.png" group-title="Кино", Timeless Dizi Channel
 #EXTGRP:Кино
 http://193.27.209.122/dizi/index.m3u8
-#EXTINF:-1 tvg-id="tv1000-cee" tvg-name="Viasat Kino HD" tvg-logo="http://epg.one/img/8881.png" group-title="Кино", Viasat Kino HD
-#EXTGRP:Кино
-http://ukr.ukrainske.tv/488/tvainua/video.m3u8
-#EXTINF:-1 tvg-id="tv1000-action-cee" tvg-name="Viasat Kino Action HD" tvg-logo="http://epg.one/img/7944.png" group-title="Кино", Viasat Kino Action HD
-#EXTGRP:Кино
-http://ukr.ukrainske.tv/490/tvainua/video.m3u8
-#EXTINF:-1 tvg-id="vip-comedy-cee" tvg-name="Viasat Kino Comedy HD" tvg-logo="http://epg.one/img/8880.png" group-title="Кино", Viasat Kino Comedy HD
-#EXTGRP:Кино
-http://ukr.ukrainske.tv/493/tvainua/video.m3u8
-#EXTINF:-1 tvg-id="vip-megahit-cee" tvg-name="Viasat Kino Megahit HD" tvg-logo="http://epg.one/img/9066.png" group-title="Кино", Viasat Kino Megahit HD
-#EXTGRP:Кино
-http://ukr.ukrainske.tv/492/tvainua/video.m3u8
-#EXTINF:-1 tvg-id="tv1000-worldkino" tvg-name="Viasat World Kino" tvg-logo="http://epg.one/img/8883.png" group-title="Кино", Viasat World Kino
-#EXTGRP:Кино
-http://ukr.ukrainske.tv/9987/tvainua/video.m3u8
 #EXTINF:-1 tvg-id="tv1000" tvg-name="Viju TV1000" tvg-logo="http://epg.one/img/127.png" group-title="Кино", Viju TV1000
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000003747/tve/index.m3u8
