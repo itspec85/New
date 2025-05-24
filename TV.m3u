@@ -1466,7 +1466,7 @@ https://ucdn.beetv.kz/bpk-tv/000000050/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000002943/tve/index.m3u8
 #EXTINF:-1 tvg-id="dorama" tvg-name="Дорама" tvg-logo="http://epg.one/img/2174.png" group-title="Кино", Дорама
 #EXTGRP:Кино
-http://109.200.130.123:7537/play/a02n
+http://193.27.209.122/dorama/index.m3u8
 #EXTINF:-1 tvg-id="evrokino" tvg-name="Еврокино" tvg-logo="http://epg.one/img/352.png" group-title="Кино", Еврокино
 #EXTGRP:Кино
 http://87.120.142.11:18000/STSLove
@@ -1523,7 +1523,7 @@ https://ucdn.beetv.kz/bpk-tv/000004633/tve/index.m3u8
 http://109.248.236.51/kinoseria/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="kinouzhas" tvg-name="Киноужас" tvg-logo="http://epg.one/img/2493.png" group-title="Кино", Киноужас
 #EXTGRP:Кино
-http://109.200.130.123:7537/play/a021
+http://178.212.71.253:8000/play/133/index.m3u8
 #EXTINF:-1 tvg-id="kinoxit" tvg-name="Кинохит" tvg-logo="http://epg.one/img/542.png" group-title="Кино", Кинохит
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000004485/tve/index.m3u8
@@ -2272,7 +2272,7 @@ http://live.m2.tv/hls3/720/stream.m3u8
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 #EXTINF:-1 tvg-id="mcm-top" tvg-name="MCM Top" tvg-logo="http://epg.one/img/2276.png" group-title="Музыка", MCM Top
 #EXTGRP:Музыка
-http://109.200.130.123:7537/play/a029
+http://193.27.209.122/mcm_top/index.m3u8
 #EXTINF:-1 tvg-id="mezzo" tvg-name="Mezzo" tvg-logo="http://epg.one/img/801.png" group-title="Музыка", Mezzo
 #EXTGRP:Музыка
 https://ucdn.beetv.kz/bpk-tv/000000030/tve/index.m3u8
