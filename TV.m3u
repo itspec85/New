@@ -924,9 +924,6 @@ https://fl1001.bozztv.com/ushba3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="moya-planeta" tvg-name="Моя Планета" tvg-logo="http://epg.one/img/675.png" group-title="Познавательные", Моя Планета
 #EXTGRP:Познавательные
 http://tv.streams.baikal-telecom.net:8080/MoyaPlanetaHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="morskoy" tvg-name="Моя Стихия" tvg-logo="http://epg.one/img/2028.png" group-title="Познавательные", Моя Стихия
-#EXTGRP:Познавательные
-http://109.200.130.123:7537/play/a02f
 #EXTINF:-1 tvg-id="muzhskoy" tvg-name="Мужской" tvg-logo="http://epg.one/img/2444.png" group-title="Познавательные", Мужской
 #EXTGRP:Познавательные
 http://195.26.83.96:7007/play/11/index.m3u8
@@ -1238,7 +1235,7 @@ https://ucdn.beetv.kz/bpk-tv/000000039/tve/index.m3u8
 http://195.26.83.96:7029/play/a008
 #EXTINF:-1 tvg-id="terra-ru" tvg-name="TERRA" tvg-logo="http://epg.one/img/7632.png" group-title="Познавательные", TERRA
 #EXTGRP:Познавательные
-http://109.200.130.123:7537/play/a02i
+https://ucdn.beetv.kz/bpk-tv/000008142/tve/index.m3u8
 #EXTINF:-1 tvg-id="tlc" tvg-name="TLC" tvg-logo="http://epg.one/img/2345.png" group-title="Познавательные", TLC
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000001498/tve/index.m3u8
@@ -1759,9 +1756,6 @@ http://92.53.64.197:5050/IPTVPLAYPROMO.tv/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 tvg-id="kino-24" tvg-name="KINO 24" tvg-logo="https://avatars.mds.yandex.net/i?id=7c12dec67467f469f2b9ca36e542d550e624e63b-4937330-images-thumbs&n=13" group-title="Кино", KINO 24
 #EXTGRP:Кино
 http://dmitry-tv.ddns.net/hls/CH_KINO24.m3u8
-#EXTINF:-1 tvg-id="kinoliving" tvg-name="KinoLiving" tvg-logo="http://epg.one/img/9123.png" group-title="Кино", KinoLiving
-#EXTGRP:Кино
-http://109.200.130.123:7537/play/a02k
 #EXTINF:-1 tvg-id="plan-b" tvg-name="Plan B HD" tvg-logo="http://epg.one/img/6643.png" group-title="Кино", Plan B HD
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000007625/tve/index.m3u8
@@ -1777,7 +1771,7 @@ http://hls.goodgame.ru/hls/210953.m3u8
 http://195.9.195.3:8080/hls/186021.m3u8
 #EXTINF:-1 tvg-id="shot-tv" tvg-name="SHOT TV" tvg-logo="http://epg.one/img/431.png" group-title="Кино", SHOT TV
 #EXTGRP:Кино
-http://109.200.130.123:7537/play/a02b
+http://sltv2.be:8080/DeNiSoNkEl/nPcCsz5hHn/550120
 #EXTINF:-1 tvg-id="start-air" tvg-name="START Air" tvg-logo="http://epg.one/img/6241.png" group-title="Кино", START Air
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000007815/tve/index.m3u8
@@ -1951,7 +1945,7 @@ https://ucdn.beetv.kz/bpk-tv/000002478/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000002479/tve/index.m3u8
 #EXTINF:-1 tvg-id="extreme-sports" tvg-name="Extreme Sports" tvg-logo="http://epg.one/img/2053.png" group-title="Спорт", Extreme Sports
 #EXTGRP:Спорт
-http://109.200.130.123:7537/play/a02p
+http://sltv2.be:8080/DeNiSoNkEl/nPcCsz5hHn/510565
 #EXTINF:-1 tvg-name="FITE 24/7" tvg-logo="https://i.imgur.com/ESV6qgH.png" group-title="Спорт", FITE 24/7
 #EXTGRP:Спорт
 https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8
