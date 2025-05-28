@@ -170,6 +170,9 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV_9.m3u8
 #EXTINF:-1 tvg-id="pervy-kanal-eu" tvg-name="Первый канал Европа" tvg-logo="http://epg.one/img/4830.png" group-title="Россия", Первый канал Европа
 #EXTGRP:Россия
 https://streaming.goodstream.cyou/live/210-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1 tvg-id="pervy-kanal-csi" tvg-name="Первый канал СНГ" tvg-logo="https://epgx.club/picons/pervy-kanal-csi.png" group-title="Россия", Первый канал СНГ
+#EXTGRP:Россия
+https://ucdn.beetv.kz/bpk-tv/000001227/tve/index.m3u8
 #EXTINF:-1 tvg-id="piatnica" tvg-shift="+1" tvg-name="Пятница -1" tvg-logo="http://epg.one/img/1003.png" group-title="Россия", Пятница -1
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
