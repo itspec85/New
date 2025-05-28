@@ -1481,7 +1481,7 @@ https://mhd128.iptv2022.com/p/HlosJeXTfdV1cx_ioBTocg,1748466007/streaming/kamedi
 https://ucdn.beetv.kz/bpk-tv/000008136/tve/index.m3u8
 #EXTINF:-1 tvg-id="kino1int-tviksel" tvg-name="Кино 1 International" tvg-logo="http://epg.one/img/6258.png" group-title="Кино", Кино 1 International
 #EXTGRP:Кино
-http://dmitry-tv.ddns.net/hls/CH_KINO1_INT.m3u8
+http://dmi3y-tv.ru/hls/CH_KINO1_INT.m3u8
 #EXTINF:-1 tvg-id="kino-tv" tvg-name="Кино ТВ" tvg-logo="http://epg.one/img/1037.png" group-title="Кино", Кино ТВ
 #EXTGRP:Кино
 http://vod.tuva.ru/kinotv/index.m3u8
@@ -1532,7 +1532,7 @@ http://178.212.71.253:8000/play/133/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000004485/tve/index.m3u8
 #EXTINF:-1 tvg-name="Кошмар HD" tvg-logo="https://avatars.mds.yandex.net/i?id=c872d891d61f5db18c83c97bdf2e7df2b83df1a71091be81-12643871-images-thumbs&n=13" group-title="Кино", Кошмар HD
 #EXTGRP:Кино
-http://dmitry-tv.ddns.net/hls/CH_KOSHMAR.m3u8
+http://dmi3y-tv.ru/hls/CH_KOSHMAR.m3u8
 #EXTINF:-1 tvg-name="Любимое индийское кино" tvg-logo="https://tvapp.live/images/logo-channel/lyubimoe-indijskoe-kino-tv.png" group-title="Кино", Любимое индийское кино
 #EXTGRP:Кино
 http://autopilot.catcast.tv/content/41596/index.m3u8
@@ -1761,7 +1761,7 @@ http://92.53.64.197:5050/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=m3VIth-Rou_bM1
 http://92.53.64.197:5050/IPTVPLAYPROMO.tv/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 tvg-id="kino-24" tvg-name="KINO 24" tvg-logo="https://avatars.mds.yandex.net/i?id=7c12dec67467f469f2b9ca36e542d550e624e63b-4937330-images-thumbs&n=13" group-title="Кино", KINO 24
 #EXTGRP:Кино
-http://dmitry-tv.ddns.net/hls/CH_KINO24.m3u8
+http://dmi3y-tv.ru/hls/CH_KINO24.m3u8
 #EXTINF:-1 tvg-id="plan-b" tvg-name="Plan B HD" tvg-logo="http://epg.one/img/6643.png" group-title="Кино", Plan B HD
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000007625/tve/index.m3u8
@@ -2138,27 +2138,27 @@ http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3
 #EXTINF:-1 tvg-id="muztv" tvg-shift="+1" tvg-name="Муз ТВ -1" tvg-logo="http://epg.one/img/897.png" group-title="Музыка", Муз ТВ -1
 #EXTGRP:Музыка
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MUZTV-1.m3u8
+http://dmi3y-tv.ru/hls/DVB-T2/CH_MUZTV-1.m3u8
 #EXTINF:-1 tvg-id="muztv" tvg-name="Муз-ТВ" tvg-logo="http://epg.one/img/897.png" group-title="Музыка", Муз-ТВ
 #EXTGRP:Музыка
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MUZTV.m3u8
+http://dmi3y-tv.ru/hls/DVB-T2/CH_MUZTV.m3u8
 #EXTINF:-1 tvg-id="muztv-pl2" tvg-name="Муз ТВ +2" tvg-logo="http://epg.one/img/897.png" group-title="Музыка", Муз ТВ +2
 #EXTGRP:Музыка
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MUZTV_2.m3u8
+http://dmi3y-tv.ru/hls/DVB-T2/CH_MUZTV_2.m3u8
 #EXTINF:-1 tvg-id="muztv-pl4" tvg-name="Муз ТВ +4" tvg-logo="http://epg.one/img/897.png" group-title="Музыка", Муз ТВ +4
 #EXTGRP:Музыка
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MUZTV_4.m3u8
+http://dmi3y-tv.ru/hls/DVB-T2/CH_MUZTV_4.m3u8
 #EXTINF:-1 tvg-id="muztv" tvg-shift="-6" tvg-name="Муз ТВ +6" tvg-logo="http://epg.one/img/897.png" group-title="Музыка", Муз ТВ +6
 #EXTGRP:Музыка
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MUZTV_6.m3u8
+http://dmi3y-tv.ru/hls/DVB-T2/CH_MUZTV_6.m3u8
 #EXTINF:-1 tvg-id="muztv-pl7" tvg-name="Муз ТВ +7" tvg-logo="http://epg.one/img/897.png" group-title="Музыка", Муз ТВ +7
 #EXTGRP:Музыка
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MUZTV_7.m3u8
+http://dmi3y-tv.ru/hls/DVB-T2/CH_MUZTV_7.m3u8
 #EXTINF:-1 tvg-name="Музыка 1 International" tvg-logo="http://epg.one/img/6266.png" group-title="Музыка", Музыка 1 International
 #EXTGRP:Музыка
 http://kino-1.catcast.tv/content/37745/index.m3u8
