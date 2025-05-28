@@ -1493,10 +1493,10 @@ https://ucdn.beetv.kz/bpk-tv/000008490/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000005449/tve/index.m3u8
 #EXTINF:-1 tvg-id="kinokomedia" tvg-name="Кинокомедия" tvg-logo="http://epg.one/img/821.png" group-title="Кино", Кинокомедия
 #EXTGRP:Кино
-http://178.212.71.253:8000/play/85/index.m3u8
+http://109.248.236.51/kinokomedia/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="kinomiks" tvg-name="Киномикс" tvg-logo="http://epg.one/img/644.png" group-title="Кино", Киномикс
 #EXTGRP:Кино
-http://178.212.71.253:8000/play/70/index.m3u8
+http://109.248.236.51/kinomix/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="kinopokaz" tvg-name="Кинопоказ" tvg-logo="http://epg.one/img/2834.png" group-title="Кино", Кинопоказ
 #EXTGRP:Кино
 http://65.21.85.175:8000/play/a02a/index.m3u8?token=livetv
@@ -1535,7 +1535,7 @@ http://dmitry-tv.ddns.net/hls/CH_KOSHMAR.m3u8
 http://autopilot.catcast.tv/content/41596/index.m3u8
 #EXTINF:-1 tvg-id="lubimoe-kino" tvg-name="Любимое кино" tvg-logo="http://epg.one/img/477.png" group-title="Кино", Любимое кино
 #EXTGRP:Кино
-http://s7.merlive.am/lubimoekino/index.m3u8
+http://213.91.178.133:8000/play/a0af
 #EXTINF:-1 tvg-id="mir-seriala" tvg-name="Мир сериала" tvg-logo="http://epg.one/img/2275.png" group-title="Кино", Мир сериала
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000000319/tve/index.m3u8
