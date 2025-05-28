@@ -30,30 +30,30 @@ http://178.124.152.238:8088/dom
 #EXTINF:-1 tvg-id="zvezda" tvg-shift="+1" tvg-name="Звезда -1" tvg-logo="http://epg.one/img/405.png" group-title="Россия", Звезда -1
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_ZVEZDA-1.m3u8
+http://dmi3y-tv.ru/hls/DVB-T2/CH_ZVEZDA-1.m3u8
 #EXTINF:-1 tvg-id="zvezda" tvg-name="Звезда" tvg-logo="http://epg.one/img/405.png" group-title="Россия", Звезда
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_ZVEZDA.m3u8
+http://dmi3y-tv.ru/hls/DVB-T2/CH_ZVEZDA.m3u8
 #EXTINF:-1 tvg-id="zvezda" tvg-name="Звезда HD" tvg-logo="http://epg.one/img/405.png" group-title="Россия", Звезда HD
 #EXTGRP:Россия
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-id="zvezda-pl2" tvg-name="Звезда +2" tvg-logo="http://epg.one/img/2039.png" group-title="Россия", Звезда +2
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_ZVEZDA_2.m3u8
+http://dmi3y-tv.ru/hls/DVB-T2/CH_ZVEZDA_2.m3u8
 #EXTINF:-1 tvg-id="zvezda-pl4" tvg-name="Звезда +4" tvg-logo="http://epg.one/img/3035.png" group-title="Россия", Звезда +4
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_ZVEZDA_4.m3u8
+http://dmi3y-tv.ru/hls/DVB-T2/CH_ZVEZDA_4.m3u8
 #EXTINF:-1 tvg-id="zvezda" tvg-shift="-6" tvg-name="Звезда +6" tvg-logo="http://epg.one/img/3036.png" group-title="Россия", Звезда +6
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_ZVEZDA_6.m3u8
+http://dmi3y-tv.ru/hls/DVB-T2/CH_ZVEZDA_6.m3u8
 #EXTINF:-1 tvg-id="zvezda-pl7" tvg-name="Звезда +7" tvg-logo="http://epg.one/img/3036.png" group-title="Россия", Звезда +7
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_ZVEZDA_7.m3u8
+http://dmi3y-tv.ru/hls/DVB-T2/CH_ZVEZDA_7.m3u8
 #EXTINF:-1 tvg-id="zvezda-plus" tvg-name="Звезда Плюс" tvg-logo="http://epg.one/img/6669.png" group-title="Россия", Звезда Плюс
 #EXTGRP:Россия
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_sdhigh.m3u8
@@ -66,11 +66,11 @@ http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 tvg-id="mir" tvg-shift="+1" tvg-name="Мир -1" tvg-logo="http://epg.one/img/726.png" group-title="Россия", Мир -1
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MIR-1.m3u8
+http://dmi3y-tv.ru/hls/DVB-T2/CH_MIR-1.m3u8
 #EXTINF:-1 tvg-id="mir" tvg-name="Мир" tvg-logo="http://epg.one/img/726.png" group-title="Россия", Мир
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MIR.m3u8
+http://dmi3y-tv.ru/hls/DVB-T2/CH_MIR.m3u8
 #EXTINF:-1 tvg-id="mir" tvg-name="Мир HD" tvg-logo="http://epg.one/img/726.png" group-title="Россия", Мир HD
 #EXTGRP:Россия
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
@@ -83,24 +83,24 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="mir" tvg-shift="-6" tvg-name="Мир +6" tvg-logo="http://epg.one/img/3021.png" group-title="Россия", Мир +6
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MIR_6.m3u8
+http://dmi3y-tv.ru/hls/DVB-T2/CH_MIR_6.m3u8
 #EXTINF:-1 tvg-id="mir-pl7" tvg-name="Мир +7" tvg-logo="http://epg.one/img/3021.png" group-title="Россия", Мир +7
 #EXTGRP:Россия
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="mir-24" tvg-name="Мир 24" tvg-logo="http://epg.one/img/2078.png" group-title="Россия", Мир 24
 #EXTGRP:Россия
-http://dmitry-tv.ddns.net/hls/CH_MIR24.m3u8
+http://dmi3y-tv.ru/hls/CH_MIR24.m3u8
 #EXTINF:-1 tvg-id="mir-24" tvg-name="Мир 24 HD" tvg-logo="http://epg.one/img/2078.png" group-title="Россия", Мир 24 HD
 #EXTGRP:Россия
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="ntv" tvg-shift="+1" tvg-name="НТВ -1" tvg-logo="http://epg.one/img/162.png" group-title="Россия", НТВ -1
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_NTV-1.m3u8
+http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV-1.m3u8
 #EXTINF:-1 tvg-id="ntv" tvg-name="НТВ" tvg-logo="http://epg.one/img/162.png" group-title="Россия", НТВ
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_NTV.m3u8
+http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV.m3u8
 #EXTINF:-1 tvg-id="ntv" tvg-name="НТВ HD" tvg-logo="http://epg.one/img/2001.png" group-title="Россия", НТВ HD
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=NTV
@@ -108,122 +108,122 @@ https://cdn.ntv.ru/ntv0_hd/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="ntv-pl2" tvg-name="НТВ +2" tvg-logo="http://epg.one/img/2036.png" group-title="Россия", НТВ +2
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_NTV_2.m3u8
+http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV_2.m3u8
 #EXTINF:-1 tvg-id="ntv-pl4" tvg-name="НТВ +4" tvg-logo="http://epg.one/img/2964.png" group-title="Россия", НТВ +4
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_NTV_4.m3u8
+http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV_4.m3u8
 #EXTINF:-1 tvg-id="ntv" tvg-shift="-6" tvg-name="НТВ +6" tvg-logo="http://epg.one/img/3028.png" group-title="Россия", НТВ +6
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_NTV_6.m3u8
+http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV_6.m3u8
 #EXTINF:-1 tvg-id="ntv-pl7" tvg-name="НТВ +7" tvg-logo="http://epg.one/img/3028.png" group-title="Россия", НТВ +7
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_NTV_7.m3u8
+http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV_7.m3u8
 #EXTINF:-1 tvg-id="ntv-mir" tvg-name="НТВ Мир" tvg-logo="http://epg.one/img/7258.png" group-title="Россия", НТВ Мир
 #EXTGRP:Россия
 https://streaming.televizor-24-tochka.ru/live/213.m3u8
 #EXTINF:-1 tvg-id="otr" tvg-name="ОТР" tvg-logo="http://epg.one/img/1000.png" group-title="Россия", ОТР
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_OTR.m3u8
+http://dmi3y-tv.ru/hls/DVB-T2/CH_OTR.m3u8
 #EXTINF:-1 tvg-id="otr-pl4" tvg-name="ОТР +4" tvg-logo="http://epg.one/img/3005.png" group-title="Россия", ОТР +4
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/T2/CH_OTR_4.m3u8
+http://dmi3y-tv.ru/hls/T2/CH_OTR_4.m3u8
 #EXTINF:-1 tvg-id="pervy-mn1" tvg-name="Первый канал -1" tvg-logo="http://epg.one/img/146.png" group-title="Россия", Первый канал -1
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV-1.m3u8
+http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV-1.m3u8
 #EXTINF:-1 tvg-id="pervy" tvg-name="Первый канал" tvg-logo="http://epg.one/img/146.png" group-title="Россия", Первый канал
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV.m3u8
+http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV.m3u8
 #EXTINF:-1 tvg-id="pervy" tvg-name="Первый канал HD" tvg-logo="http://epg.one/img/983.png" group-title="Россия", Первый канал HD
 #EXTGRP:Россия
 http://river-1.rutube.ru/stream/genetta-303.m9.rutube.ru/CW4Dj7A_l33wCVFOOF6FoQ/1748623943/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
 #EXTINF:-1 tvg-id="pervy-pl2" tvg-name="Первый канал +2" tvg-logo="http://epg.one/img/2034.png" group-title="Россия", Первый канал +2
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV_2.m3u8
+http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV_2.m3u8
 #EXTINF:-1 tvg-id="pervy-pl4" tvg-name="Первый канал +4" tvg-logo="http://epg.one/img/3025.png" group-title="Россия", Первый канал +4
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV_4.m3u8
+http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV_4.m3u8
 #EXTINF:-1 tvg-id="pervy-pl6" tvg-name="Первый канал +6" tvg-logo="http://epg.one/img/20.png" group-title="Россия", Первый канал +6
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV_6.m3u8
+http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV_6.m3u8
 #EXTINF:-1 tvg-id="pervy-pl7" tvg-name="Первый канал +7" tvg-logo="http://epg.one/img/3026.png" group-title="Россия", Первый канал +7
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV_7.m3u8
+http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV_7.m3u8
 #EXTINF:-1 tvg-id="pervy-pl8" tvg-name="Первый канал +8" tvg-logo="http://epg.one/img/3027.png" group-title="Россия", Первый канал +8
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV_8.m3u8
+http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV_8.m3u8
 #EXTINF:-1 tvg-id="pervy-pl9" tvg-name="Первый канал +9" tvg-logo="http://epg.one/img/146.png" group-title="Россия", Первый канал +9
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV_9.m3u8
+http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV_9.m3u8
 #EXTINF:-1 tvg-id="pervy-kanal-eu" tvg-name="Первый канал Европа" tvg-logo="http://epg.one/img/4830.png" group-title="Россия", Первый канал Европа
 #EXTGRP:Россия
 https://streaming.goodstream.cyou/live/210-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 tvg-id="piatnica" tvg-shift="+1" tvg-name="Пятница -1" tvg-logo="http://epg.one/img/1003.png" group-title="Россия", Пятница -1
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_FRIDAY-1.m3u8
+http://dmi3y-tv.ru/hls/DVB-T2/CH_FRIDAY-1.m3u8
 #EXTINF:-1 tvg-id="piatnica" tvg-name="Пятница!" tvg-logo="http://epg.one/img/1003.png" group-title="Россия", Пятница!
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_FRIDAY.m3u8
+http://dmi3y-tv.ru/hls/DVB-T2/CH_FRIDAY.m3u8
 #EXTINF:-1 tvg-id="piatnica" tvg-name="Пятница! HD" tvg-logo="http://epg.one/img/2765.png" group-title="Россия", Пятница! HD
 #EXTGRP:Россия
 http://river-1.rutube.ru/stream/genetta-318.m9.rutube.ru/OtFKXhHKQFFsCVkV9yt7hw/1748951360/9f87a9a0cecbe773be6fddcbd93585ac/1080p_stream.m3u8
 #EXTINF:-1 tvg-id="piatnica-pl2" tvg-name="Пятница +2" tvg-logo="http://epg.one/img/3016.png" group-title="Россия", Пятница +2
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_FRIDAY_2.m3u8
+http://dmi3y-tv.ru/hls/DVB-T2/CH_FRIDAY_2.m3u8
 #EXTINF:-1 tvg-id="piatnica-pl4" tvg-name="Пятница +4" tvg-logo="http://epg.one/img/3017.png" group-title="Россия", Пятница +4
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_FRIDAY_4.m3u8
+http://dmi3y-tv.ru/hls/DVB-T2/CH_FRIDAY_4.m3u8
 #EXTINF:-1 tvg-id="piatnica" tvg-shift="-6" tvg-name="Пятница +6" tvg-logo="http://epg.one/img/3018.png" group-title="Россия", Пятница +6
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_FRIDAY_6.m3u8
+http://dmi3y-tv.ru/hls/DVB-T2/CH_FRIDAY_6.m3u8
 #EXTINF:-1 tvg-id="piatnica-pl7" tvg-name="Пятница +7" tvg-logo="http://epg.one/img/3018.png" group-title="Россия", Пятница +7
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_FRIDAY_7.m3u8
+http://dmi3y-tv.ru/hls/DVB-T2/CH_FRIDAY_7.m3u8
 #EXTINF:-1 tvg-id="piatnica-int" tvg-name="Пятница International" tvg-logo="https://avatars.mds.yandex.net/i?id=6e89c0754d8e6800feb8f51ae53f5192eb27ea76-5222505-images-thumbs&n=13" group-title="Россия", Пятница International
 #EXTGRP:Россия
 https://ucdn.beetv.kz/bpk-tv/000007816/tve/index.m3u8
 #EXTINF:-1 tvg-id="5kanal-ru" tvg-shift="+1" tvg-name="Пятый канал -1" tvg-logo="http://epg.one/img/427.png" group-title="Россия", Пятый канал -1
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_5TV-1.m3u8
+http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV-1.m3u8
 #EXTINF:-1 tvg-id="5kanal-ru" tvg-name="Пятый канал" tvg-logo="http://epg.one/img/427.png" group-title="Россия", Пятый канал
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_5TV.m3u8
+http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV.m3u8
 #EXTINF:-1 tvg-id="5kanal-ru-pl2" tvg-name="Пятый канал +2" tvg-logo="http://epg.one/img/2035.png" group-title="Россия", Пятый канал +2
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_5TV_2.m3u8
+http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV_2.m3u8
 #EXTINF:-1 tvg-id="5kanal-ru-pl4" tvg-name="Пятый канал +4" tvg-logo="http://epg.one/img/3030.png" group-title="Россия", Пятый канал +4
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_5TV_4.m3u8
+http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV_4.m3u8
 #EXTINF:-1 tvg-id="5kanal-ru" tvg-shift="-6" tvg-name="Пятый канал +6" tvg-logo="http://epg.one/img/3031.png" group-title="Россия", Пятый канал +6
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_5TV_6.m3u8
+http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV_6.m3u8
 #EXTINF:-1 tvg-id="5kanal-ru-pl7" tvg-name="Пятый канал +7" tvg-logo="http://epg.one/img/3031.png" group-title="Россия", Пятый канал +7
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_5TV_7.m3u8
+http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV_7.m3u8
 #EXTINF:-1 tvg-id="piaty-int" tvg-name="Пятый канал International" tvg-logo="https://epgx.club/picons/piaty-int.png" group-title="Россия", Пятый канал International
 #EXTGRP:Россия
 http://213.91.178.133:8000/play/a0av
@@ -236,126 +236,126 @@ https://e5-online-video.rbc.ru/online2/rbctvhd_1080p/index.m3u8
 #EXTINF:-1 tvg-id="rentv" tvg-shift="+1" tvg-name="Рен ТВ -1" tvg-logo="http://epg.one/img/18.png" group-title="Россия", Рен ТВ -1
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RENTV-1.m3u8
+http://dmi3y-tv.ru/hls/DVB-T2/CH_RENTV-1.m3u8
 #EXTINF:-1 tvg-id="rentv" tvg-name="Рен ТВ" tvg-logo="http://epg.one/img/18.png" group-title="Россия", Рен ТВ
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RENTV.m3u8
+http://dmi3y-tv.ru/hls/DVB-T2/CH_RENTV.m3u8
 #EXTINF:-1 tvg-id="rentv-pl2" tvg-name="Рен ТВ +2" tvg-logo="http://epg.one/img/2037.png" group-title="Россия", Рен ТВ +2
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RENTV_2.m3u8
+http://dmi3y-tv.ru/hls/DVB-T2/CH_RENTV_2.m3u8
 #EXTINF:-1 tvg-id="rentv-pl4" tvg-name="Рен ТВ +4" tvg-logo="http://epg.one/img/3033.png" group-title="Россия", Рен ТВ +4
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RENTV_4.m3u8
+http://dmi3y-tv.ru/hls/DVB-T2/CH_RENTV_4.m3u8
 #EXTINF:-1 tvg-id="rentv" tvg-shift="-6" tvg-name="Рен ТВ +6" tvg-logo="http://epg.one/img/3034.png" group-title="Россия", Рен ТВ +6
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RENTV_6.m3u8
+http://dmi3y-tv.ru/hls/DVB-T2/CH_RENTV_6.m3u8
 #EXTINF:-1 tvg-id="rentv-pl7" tvg-name="Рен ТВ +7" tvg-logo="http://epg.one/img/3034.png" group-title="Россия", Рен ТВ +7
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RENTV_7.m3u8
+http://dmi3y-tv.ru/hls/DVB-T2/CH_RENTV_7.m3u8
 #EXTINF:-1 tvg-name="Рен ТВ International" tvg-logo="https://i.postimg.cc/SsRGs7Y7/International.png" group-title="Россия", Рен ТВ International
 #EXTGRP:Россия
 https://ucdn.beetv.kz/bpk-tv/000002472/tve/index.m3u8
 #EXTINF:-1 tvg-id="rossia1" tvg-shift="+1" tvg-name="Россия 1 -1" tvg-logo="http://epg.one/img/711.png" group-title="Россия", Россия 1 -1
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1-1.m3u8
+http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1-1.m3u8
 #EXTINF:-1 tvg-id="rossia1" tvg-name="Россия 1" tvg-logo="http://epg.one/img/711.png" group-title="Россия", Россия 1
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1.m3u8
+http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1.m3u8
 #EXTINF:-1 tvg-id="rossia1" tvg-name="Россия 1 HD" tvg-logo="http://epg.one/img/984.png" group-title="Россия", Россия 1 HD
 #EXTGRP:Россия
-http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA1HD.m3u8
+http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1HD.m3u8
 #EXTINF:-1 tvg-id="rossia1" tvg-shift="-2" tvg-name="Россия 1 +2" tvg-logo="http://epg.one/img/3000.png" group-title="Россия", Россия 1 +2
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1_2.m3u8
+http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1_2.m3u8
 #EXTINF:-1 tvg-id="rossia1" tvg-shift="-2" tvg-name="Россия 1 +2" tvg-logo="http://epg.one/img/3000.png" group-title="Россия", Россия 1 +2 HD
 #EXTGRP:Россия
-http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA1HD_2.m3u8
+http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1HD_2.m3u8
 #EXTINF:-1 tvg-id="rossia1" tvg-shift="-4" tvg-name="Россия 1 +4" tvg-logo="http://epg.one/img/3001.png" group-title="Россия", Россия 1 +4
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1_4.m3u8
+http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1_4.m3u8
 #EXTINF:-1 tvg-id="rossia1" tvg-shift="-4" tvg-name="Россия 1 +4" tvg-logo="http://epg.one/img/3001.png" group-title="Россия", Россия 1 +4 HD
 #EXTGRP:Россия
-http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA1HD_4.m3u8
+http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1HD_4.m3u8
 #EXTINF:-1 tvg-id="rossia1" tvg-shift="-6" tvg-name="Россия 1 +6" tvg-logo="http://epg.one/img/3002.png" group-title="Россия", Россия 1 +6
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1_6.m3u8
+http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1_6.m3u8
 #EXTINF:-1 tvg-id="rossia1" tvg-shift="-6" tvg-name="Россия 1 +6" tvg-logo="http://epg.one/img/3002.png" group-title="Россия", Россия 1 +6 HD
 #EXTGRP:Россия
-http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA1HD_6.m3u8
+http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1HD_6.m3u8
 #EXTINF:-1 tvg-id="rossia1" tvg-shift="-7" tvg-name="Россия 1 +7" tvg-logo="http://epg.one/img/711.png" group-title="Россия", Россия 1 +7
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1_7.m3u8
+http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1_7.m3u8
 #EXTINF:-1 tvg-id="rossia1" tvg-shift="-7" tvg-name="Россия 1 +7" tvg-logo="http://epg.one/img/711.png" group-title="Россия", Россия 1 +7 HD
 #EXTGRP:Россия
-http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA1HD_7.m3u8
+http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1HD_7.m3u8
 #EXTINF:-1 tvg-id="rossia1" tvg-shift="-8" tvg-name="Россия 1 +8" tvg-logo="http://epg.one/img/3003.png" group-title="Россия", Россия 1 +8
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1_8.m3u8
+http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1_8.m3u8
 #EXTINF:-1 tvg-id="rossia1" tvg-shift="-8" tvg-name="Россия 1 +8" tvg-logo="http://epg.one/img/3003.png" group-title="Россия", Россия 1 +8 HD
 #EXTGRP:Россия
-http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA1HD_8.m3u8
+http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1HD_8.m3u8
 #EXTINF:-1 tvg-id="rossia1" tvg-shift="-9" tvg-name="Россия 1 +9" tvg-logo="http://epg.one/img/711.png" group-title="Россия", Россия 1 +9
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1_9.m3u8
+http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1_9.m3u8
 #EXTINF:-1 tvg-id="rossia1" tvg-shift="-9" tvg-name="Россия 1 +9" tvg-logo="http://epg.one/img/711.png" group-title="Россия", Россия 1 +9 HD
 #EXTGRP:Россия
-http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA1HD_9.m3u8
+http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1HD_9.m3u8
 #EXTINF:-1 tvg-id="rossia-24" tvg-name="Россия 24" tvg-logo="http://epg.one/img/1683.png" group-title="Россия", Россия 24
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA24.m3u8
+http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA24.m3u8
 #EXTINF:-1 tvg-id="rossia-24" tvg-name="Россия 24" tvg-logo="http://epg.one/img/1683.png" group-title="Россия", Россия 24 (резерв)
 #EXTGRP:Россия
 http://178.212.236.3:8802/play/m3_17
 #EXTINF:-1 tvg-id="kultura" tvg-shift="+1" tvg-name="Россия К -1" tvg-logo="http://epg.one/img/187.png" group-title="Россия", Россия К -1
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIAK-1.m3u8
+http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIAK-1.m3u8
 #EXTINF:-1 tvg-id="kultura" tvg-name="Россия К" tvg-logo="http://epg.one/img/187.png" group-title="Россия", Россия К
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIAK.m3u8
+http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIAK.m3u8
 #EXTINF:-1 tvg-id="kultura" tvg-name="Россия К" tvg-logo="http://epg.one/img/187.png" group-title="Россия", Россия К HD
 #EXTGRP:Россия
-http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIAKHD.m3u8
+http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIAKHD.m3u8
 #EXTINF:-1 tvg-id="kultura" tvg-shift="-2" tvg-name="Россия К +2" tvg-logo="http://epg.one/img/4642.png" group-title="Россия", Россия К +2
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIAK_2.m3u8
+http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIAK_2.m3u8
 #EXTINF:-1 tvg-id="kultura" tvg-shift="-2" tvg-name="Россия К +2" tvg-logo="http://epg.one/img/4642.png" group-title="Россия", Россия К +2 HD
 #EXTGRP:Россия
-http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIAKHD_2.m3u8
+http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIAKHD_2.m3u8
 #EXTINF:-1 tvg-id="kultura" tvg-shift="-4" tvg-name="Россия К +4" tvg-logo="http://epg.one/img/1100.png" group-title="Россия", Россия К +4
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIAK_4.m3u8
+http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIAK_4.m3u8
 #EXTINF:-1 tvg-id="kultura" tvg-shift="-4" tvg-name="Россия К +4" tvg-logo="http://epg.one/img/1100.png" group-title="Россия", Россия К +4 HD
 #EXTGRP:Россия
-http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIAKHD_4.m3u8
+http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIAKHD_4.m3u8
 #EXTINF:-1 tvg-id="kultura" tvg-shift="-6" tvg-name="Россия К +6" tvg-logo="http://epg.one/img/187.png" group-title="Россия", Россия К +6
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIAK_6.m3u8
+http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIAK_6.m3u8
 #EXTINF:-1 tvg-id="kultura" tvg-shift="-7" tvg-name="Россия К +7" tvg-logo="http://epg.one/img/1101.png" group-title="Россия", Россия К +7
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIAK_7.m3u8
+http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIAK_7.m3u8
 #EXTINF:-1 tvg-id="kultura" tvg-shift="-7" tvg-name="Россия К +7" tvg-logo="http://epg.one/img/1101.png" group-title="Россия", Россия К +7 HD
 #EXTGRP:Россия
-http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIAKHD_7.m3u8
+http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIAKHD_7.m3u8
 #EXTINF:-1 tvg-id="rtr-planeta-azia" tvg-name="Россия РТР" tvg-logo="https://epgx.club/picons/rtr-planeta-azia.png" group-title="Россия", Россия РТР (Азия)
 #EXTGRP:Россия
 https://streaming.televizor-24-tochka.ru/live/211.m3u8
@@ -371,76 +371,76 @@ http://player.smotrim.ru/iframe/stream/live_id/d7fef212-df66-485d-9952-7eab82d7d
 #EXTINF:-1 tvg-id="sts" tvg-shift="+1" tvg-name="СТС -1" tvg-logo="http://epg.one/img/79.png" group-title="Россия", СТС -1
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_STS-1.m3u8
+http://dmi3y-tv.ru/hls/DVB-T2/CH_STS-1.m3u8
 #EXTINF:-1 tvg-id="sts" tvg-name="СТС" tvg-logo="http://epg.one/img/79.png" group-title="Россия", СТС
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_STS.m3u8
+http://dmi3y-tv.ru/hls/DVB-T2/CH_STS.m3u8
 #EXTINF:-1 tvg-id="sts" tvg-name="СТС HD" tvg-logo="http://epg.one/img/79.png" group-title="Россия", СТС HD
 #EXTGRP:Россия
 http://45.143.108.110:2200/ctc
 #EXTINF:-1 tvg-id="sts-pl2" tvg-name="СТС +2" tvg-logo="http://epg.one/img/3007.png" group-title="Россия", СТС +2
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_STS_2.m3u8
+http://dmi3y-tv.ru/hls/DVB-T2/CH_STS_2.m3u8
 #EXTINF:-1 tvg-id="sts-pl4" tvg-name="СТС +4" tvg-logo="http://epg.one/img/3008.png" group-title="Россия", СТС +4
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_STS_4.m3u8
+http://dmi3y-tv.ru/hls/DVB-T2/CH_STS_4.m3u8
 #EXTINF:-1 tvg-id="sts" tvg-shift="-6" tvg-name="СТС +6" tvg-logo="http://epg.one/img/3009.png" group-title="Россия", СТС +6
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_STS_6.m3u8
+http://dmi3y-tv.ru/hls/DVB-T2/CH_STS_6.m3u8
 #EXTINF:-1 tvg-id="sts-pl7" tvg-name="СТС +7" tvg-logo="http://epg.one/img/3009.png" group-title="Россия", СТС +7
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_STS_7.m3u8
+http://dmi3y-tv.ru/hls/DVB-T2/CH_STS_7.m3u8
 #EXTINF:-1 tvg-id="sts-int" tvg-name="СТС International" tvg-logo="http://epg.one/img/5652.png" group-title="Россия", СТС International
 #EXTGRP:Россия
 https://cdn2.skygo.mn/live/disk1/STS/HLS-FTA/STS.m3u8
 #EXTINF:-1 tvg-id="sts-love" tvg-shift="+1" tvg-name="СТС Love -1" tvg-logo="http://epg.one/img/1322.png" group-title="Россия", СТС Love -1
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/zabava/CH_STSLOVE-1.m3u8
+http://dmi3y-tv.ru/hls/zabava/CH_STSLOVE-1.m3u8
 #EXTINF:-1 tvg-id="sts-love" tvg-name="СТС Love" tvg-logo="http://epg.one/img/1322.png" group-title="Россия", СТС Love
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/zabava/CH_STSLOVE.m3u8
+http://dmi3y-tv.ru/hls/zabava/CH_STSLOVE.m3u8
 #EXTINF:-1 tvg-id="sts-love-pl2" tvg-name="СТС Love +2" tvg-logo="http://epg.one/img/7987.png" group-title="Россия", СТС Love +2
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/zabava/CH_STSLOVE_2.m3u8
+http://dmi3y-tv.ru/hls/zabava/CH_STSLOVE_2.m3u8
 #EXTINF:-1 tvg-id="sts-love-pl4" tvg-name="СТС Love +4" tvg-logo="http://epg.one/img/7988.png" group-title="Россия", СТС Love +4
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/zabava/CH_STSLOVE_4.m3u8
+http://dmi3y-tv.ru/hls/zabava/CH_STSLOVE_4.m3u8
 #EXTINF:-1 tvg-id="super" tvg-shift="+1" tvg-name="Суббота -1" tvg-logo="http://epg.one/img/2288.png" group-title="Россия", Суббота -1
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/zabava/CH_SUBBOTA-1.m3u8
+http://dmi3y-tv.ru/hls/zabava/CH_SUBBOTA-1.m3u8
 #EXTINF:-1 tvg-id="super" tvg-name="Суббота" tvg-logo="http://epg.one/img/2288.png" group-title="Россия", Суббота
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/zabava/CH_SUBBOTA.m3u8
+http://dmi3y-tv.ru/hls/zabava/CH_SUBBOTA.m3u8
 #EXTINF:-1 tvg-id="super" tvg-name="Суббота HD" tvg-logo="http://epg.one/img/2288.png" group-title="Россия", Суббота HD
 #EXTGRP:Россия
 http://river-1.rutube.ru/stream/genetta-313.m9.rutube.ru/vOqVTYNM8tmtRBQ2HoSJcw/1748533830/310744c10a5809da38aa445c952976da/1080p_stream.m3u8
 #EXTINF:-1 tvg-id="super" tvg-shift="-2" tvg-name="Суббота +2" tvg-logo="http://epg.one/img/7976.png" group-title="Россия", Суббота +2
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/zabava/CH_SUBBOTA_2.m3u8
+http://dmi3y-tv.ru/hls/zabava/CH_SUBBOTA_2.m3u8
 #EXTINF:-1 tvg-id="super" tvg-shift="-4" tvg-name="Суббота +4" tvg-logo="http://epg.one/img/7977.png" group-title="Россия", Суббота +4
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/zabava/CH_SUBBOTA_4.m3u8
+http://dmi3y-tv.ru/hls/zabava/CH_SUBBOTA_4.m3u8
 #EXTINF:-1 tvg-id="super" tvg-shift="-6" tvg-name="Суббота +6" tvg-logo="http://epg.one/img/2288.png" group-title="Россия", Суббота +6
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/zabava/CH_SUBBOTA_6.m3u8
+http://dmi3y-tv.ru/hls/zabava/CH_SUBBOTA_6.m3u8
 #EXTINF:-1 tvg-id="super" tvg-shift="-7" tvg-name="Суббота +7" tvg-logo="http://epg.one/img/1103.png" group-title="Россия", Суббота +7
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/zabava/CH_SUBBOTA_7.m3u8
+http://dmi3y-tv.ru/hls/zabava/CH_SUBBOTA_7.m3u8
 #EXTINF:-1 tvg-id="tv3-ru" tvg-shift="+1" tvg-name="ТВ3 -1" tvg-logo="http://epg.one/img/698.png" group-title="Россия", ТВ3 -1
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
