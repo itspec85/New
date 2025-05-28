@@ -1636,7 +1636,7 @@ http://158.101.222.193:88/georgia_play.php?id=fenikspluskino
 https://mhd128.iptv2022.com/p/vLhpGnvwQ52KE6XWaD36og,1748379608/streaming/hit/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="sony-turbo" tvg-name=".black" tvg-logo="http://epg.one/img/935.png" group-title="Кино", .black
 #EXTGRP:Кино
-http://s1.merlive.am/black/index.m3u8
+https://ucdn.beetv.kz/bpk-tv/000000520/tve/index.m3u8
 #EXTINF:-1 tvg-id="sony-tv" tvg-name=".red" tvg-logo="http://epg.one/img/311.png" group-title="Кино", .red
 #EXTGRP:Кино
 http://178.124.152.238:8088/sony
@@ -1731,7 +1731,7 @@ https://ucdn.beetv.kz/bpk-tv/000004472/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000004471/tve/index.m3u8
 #EXTINF:-1 tvg-id="hollywood" tvg-name="Hollywood" tvg-logo="http://epg.one/img/608.png" group-title="Кино", Hollywood
 #EXTGRP:Кино
-http://s1.merlive.am/hollywood/index.m3u8
+http://109.200.130.123:7537/play/a03g
 #EXTINF:-1 tvg-id="hollywood-hd" tvg-name="Hollywood HD" tvg-logo="http://epg.one/img/934.png" group-title="Кино", Hollywood HD
 #EXTGRP:Кино
 http://sltv2.be:8080/DeNiSoNkEl/nPcCsz5hHn/550106
