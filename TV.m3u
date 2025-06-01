@@ -800,7 +800,7 @@ https://ucdn.beetv.kz/bpk-tv/000001921/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000008877/tve/index.m3u8
 #EXTINF:-1 tvg-id="arsenaltv" tvg-name="Арсенал HD" tvg-logo="http://epg.one/img/2768.png" group-title="Познавательные", Арсенал HD
 #EXTGRP:Познавательные
-https://mhd128.iptv2022.com/p/hOAmad0ySw69PKUQjV0hnA,1748725208/streaming/multikhd/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/3r9xfA_gHJp1fuji9KUvVQ,1748811610/streaming/multikhd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="bobior" tvg-name="Бобёр" tvg-logo="http://epg.one/img/2026.png" group-title="Познавательные", Бобёр
 #EXTGRP:Познавательные
 http://195.18.23.20:8000/play/1/index.m3u8
@@ -830,10 +830,10 @@ https://ucdn.beetv.kz/bpk-tv/000001414/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000003174/tve/index.m3u8
 #EXTINF:-1 tvg-id="dikaya-oxota-hd" tvg-name="Дикая охота HD" tvg-logo="http://epg.one/img/2483.png" group-title="Познавательные", Дикая охота HD
 #EXTGRP:Познавательные
-https://mhd128.iptv2022.com/p/IpM_FcV1CsiB_vgEEnT9Zg,1748725208/streaming/ohotahd/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/zgAfVQ6zAsYIyWvrQ4qqWA,1748811610/streaming/ohotahd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="dikaya-rybalka-hd" tvg-name="Дикая рыбалка HD" tvg-logo="http://epg.one/img/2484.png" group-title="Познавательные", Дикая рыбалка HD
 #EXTGRP:Познавательные
-https://mhd128.iptv2022.com/p/v_1TY6QsgkzLgnSRog0yVQ,1748725208/streaming/ribalkahd/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/oThcSrR450zXe2MvnVzE6Q,1748811610/streaming/ribalkahd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="dikiy" tvg-name="Дикий" tvg-logo="http://epg.one/img/2283.png" group-title="Познавательные", Дикий
 #EXTGRP:Познавательные
 http://95.156.76.230:33001/udp/230.4.34.78:1234
@@ -971,7 +971,7 @@ https://ucdn.beetv.kz/bpk-tv/000000308/tve/index.m3u8
 http://65.21.85.175:8000/play/a01k/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="oxotnik-i-rybolov" tvg-name="Охотник и рыболов" tvg-logo="http://epg.one/img/1681.png" group-title="Познавательные", Охотник и рыболов
 #EXTGRP:Познавательные
-https://mhd128.iptv2022.com/p/ucOWwHwZHgcNCpUvLwwnfg,1748725208/streaming/ohotnikhd/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/ypiV1TtndJdpG0KAM06xEA,1748811610/streaming/ohotnikhd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-name="Первый медицинский канал" tvg-logo="https://avatars.mds.yandex.net/i?id=9494f3a37664c7da5f8f894e7169af2497116e6e-10767708-images-thumbs&n=13" group-title="Познавательные", Первый медицинский канал
 #EXTGRP:Познавательные
 https://rq3qltxnbx1.a.trbcdn.net/livemaster/8hwxnq4s0v_efir0_tcode1080p/playlist.m3u8
@@ -1295,7 +1295,7 @@ http://autopilot.catcast.tv/content/38720/index.m3u8
 https://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ginger-hd" tvg-name="Капитан Фантастика" tvg-logo="http://epg.one/img/2438.png" group-title="Детские", Капитан Фантастика
 #EXTGRP:Детские
-https://mhd128.iptv2022.com/p/HstPo1t1yfMof1dFvFcIXQ,1748725208/streaming/gingerhd/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/3JlBl5fX3GxnYj3mhxvJ4A,1748811609/streaming/gingerhd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="karusel" tvg-shift="+1" tvg-name="Карусель -1" tvg-logo="http://epg.one/img/740.png" group-title="Детские", Карусель -1
 #EXTGRP:Детские
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -1354,13 +1354,13 @@ http://109.248.236.51/multilandia/tracks-v1a1/mono.m3u8
 http://109.248.236.51/o/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ryzhy" tvg-name="Рыжий" tvg-logo="http://epg.one/img/2437.png" group-title="Детские", Рыжий
 #EXTGRP:Детские
-https://mhd128.iptv2022.com/p/W0QxMQm0vI3hHMGFC-qaUw,1748725208/streaming/ginger-surd/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/yygiDtXHMYXRqRUhkwDnZg,1748811609/streaming/ginger-surd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="smaylik-tv" tvg-name="Смайл ТВ" tvg-logo="http://epg.one/img/2442.png" group-title="Детские", Смайл ТВ
 #EXTGRP:Детские
 https://5d23269b3ec0c.streamlock.net/WEB_Smilik/Smilik.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="sovmultf" tvg-name="Советские мультфильмы" tvg-logo="https://epg.one/img/1111.png" group-title="Детские", Советские мультфильмы
 #EXTGRP:Детские
-https://mhd128.iptv2022.com/p/Q0cXq3jWBKhG2LyOlXH7JA,1748725208/streaming/rusmult/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/kInoPV_W4t_6wuRrFIvjIA,1748811609/streaming/rusmult/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="solnce" tvg-shift="+1" tvg-name="Солнце -1" tvg-logo="http://epg.one/img/7669.png" group-title="Детские", Солнце -1
 #EXTGRP:Детские
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
