@@ -983,7 +983,7 @@ https://serv25.vintera.tv/1pnk/prnk/chunks.m3u8
 http://178.124.152.238:8088/perec
 #EXTINF:-1 tvg-id="poexali" tvg-name="Поехали!" tvg-logo="http://epg.one/img/2350.png" group-title="Познавательные", Поехали!
 #EXTGRP:Познавательные
-http://109.248.236.51/poehali/tracks-v1a1/mono.m3u8
+https://ucdn.beetv.kz/bpk-tv/000002991/tve/index.m3u8
 #EXTINF:-1 tvg-id="prikluchenia-hd" tvg-name="Приключения HD" tvg-logo="http://epg.one/img/2311.png" group-title="Познавательные", Приключения HD
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000000277/tve/index.m3u8
@@ -1348,10 +1348,10 @@ http://stv.mediacdn.ru/live/cdn/multimuzika/playlist_sdhigher.m3u8
 https://hls.goodgame.ru/hls/198446.m3u8
 #EXTINF:-1 tvg-id="multimania" tvg-name="Мультиландия" tvg-logo="http://epg.one/img/2757.png" group-title="Детские", Мультиландия
 #EXTGRP:Детские
-http://109.248.236.51/multilandia/tracks-v1a1/mono.m3u8
+https://ucdn.beetv.kz/bpk-tv/000000203/tve/index.m3u8
 #EXTINF:-1 tvg-id="o_" tvg-name="О!" tvg-logo="http://epg.one/img/1757.png" group-title="Детские", О!
 #EXTGRP:Детские
-http://109.248.236.51/o/tracks-v1a1/mono.m3u8
+https://ucdn.beetv.kz/bpk-tv/000002928/tve/index.m3u8
 #EXTINF:-1 tvg-id="ryzhy" tvg-name="Рыжий" tvg-logo="http://epg.one/img/2437.png" group-title="Детские", Рыжий
 #EXTGRP:Детские
 https://mhd128.iptv2022.com/p/G2uJnrTxyKcwuyv2Ka3aXQ,1748898008/streaming/ginger-surd/324/1/tracks-v5a1/mono.m3u8
