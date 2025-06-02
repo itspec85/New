@@ -1283,7 +1283,7 @@ https://ucdn.beetv.kz/bpk-tv/000000260/tve/index.m3u8
 
 #EXTINF:-1 tvg-id="v-gostiax-u-skazki" tvg-name="В гостях у сказки" tvg-logo="http://epg.one/img/2027.png" group-title="Детские", В гостях у сказки
 #EXTGRP:Детские
-http://109.248.236.51/v_gostyah_u_skazki/tracks-v1a1/mono.m3u8
+http://109.200.130.123:7537/play/a03m
 #EXTINF:-1 tvg-id="detsky-mir" tvg-name="Детский мир" tvg-logo="http://epg.one/img/923.png" group-title="Детские", Детский мир
 #EXTGRP:Детские
 http://178.124.152.238:8088/detmir
@@ -2134,7 +2134,7 @@ http://911play.ru:3456/live/VostokSite/cdnVostaoc911tv123456/489.m3u8
 http://streamer.rtcommufa.ru:1935/ptica/ptica1/chunklist.m3u8
 #EXTINF:-1 tvg-id="zhara" tvg-name="Жара" tvg-logo="http://epg.one/img/165.png" group-title="Музыка", Жара
 #EXTGRP:Музыка
-http://109.248.236.51/zhara/tracks-v1a1/mono.m3u8
+http://109.200.130.123:7537/play/a03u
 #EXTINF:-1 tvg-id="muzsoyuz" tvg-name="МузСоюз" tvg-logo="http://epg.one/img/2413.png" group-title="Музыка", МузСоюз
 #EXTGRP:Музыка
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
