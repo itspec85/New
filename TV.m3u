@@ -1526,7 +1526,7 @@ https://ucdn.beetv.kz/bpk-tv/000004633/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000005450/tve/index.m3u8
 #EXTINF:-1 tvg-id="kinoseria" tvg-name="Киносерия" tvg-logo="http://epg.one/img/799.png" group-title="Кино", Киносерия
 #EXTGRP:Кино
-http://109.248.236.51/kinoseria/tracks-v1a1/mono.m3u8
+https://mhd128.iptv2022.com/p/cYUyZjD823Q7Bc0Y-rB56A,1748898006/streaming/kinoseria/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="kinouzhas" tvg-name="Киноужас" tvg-logo="http://epg.one/img/2493.png" group-title="Кино", Киноужас
 #EXTGRP:Кино
 http://109.200.130.123:7537/play/a031
