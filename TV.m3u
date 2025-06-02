@@ -1491,9 +1491,6 @@ http://dmi3y-tv.ru/hls/CH_KINO1_INT.m3u8
 #EXTINF:-1 tvg-id="kino-tv" tvg-name="Кино ТВ" tvg-logo="http://epg.one/img/1037.png" group-title="Кино", Кино ТВ
 #EXTGRP:Кино
 http://vod.tuva.ru/kinotv/index.m3u8
-#EXTINF:-1 tvg-id="kino-tv" tvg-name="Кино ТВ" tvg-logo="http://epg.one/img/1037.png" group-title="Кино", Кино ТВ HD
-#EXTGRP:Кино
-http://31.148.48.15/Kino_TV_HD/index.m3u8
 #EXTINF:-1 tvg-id="kinoboevik-kz" tvg-name="Кинобоевик KZ" tvg-logo="https://iptvx.one/picons/kinoboevik-kz.png" group-title="Кино", Кинобоевик KZ
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000008490/tve/index.m3u8
@@ -1532,7 +1529,7 @@ https://ucdn.beetv.kz/bpk-tv/000005450/tve/index.m3u8
 http://109.248.236.51/kinoseria/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="kinouzhas" tvg-name="Киноужас" tvg-logo="http://epg.one/img/2493.png" group-title="Кино", Киноужас
 #EXTGRP:Кино
-http://178.212.71.253:8000/play/133/index.m3u8
+http://109.200.130.123:7537/play/a031
 #EXTINF:-1 tvg-id="kinoxit" tvg-name="Кинохит" tvg-logo="http://epg.one/img/542.png" group-title="Кино", Кинохит
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000004485/tve/index.m3u8
