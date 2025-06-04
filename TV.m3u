@@ -2218,7 +2218,7 @@ http://195.26.83.96:7007/play/a00m/index.m3u8
 http://178.212.71.253:8000/play/142/index.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-classic" tvg-name="Bridge TV Classic" tvg-logo="http://epg.one/img/4373.png" group-title="Музыка", Bridge TV Classic
 #EXTGRP:Музыка
-https://mhd128.iptv2022.com/p/YTpRrfWKeFV8ZRkWatUggw,1748984412/streaming/br_classic/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/VVf7UOjGAG7c3xNkMpgaog,1749070812/streaming/br_classic/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="bridge-hd" tvg-name="Bridge TV Deluxe" tvg-logo="http://epg.one/img/2022.png" group-title="Музыка", Bridge TV Deluxe
 #EXTGRP:Музыка
 http://178.212.71.253:8000/play/98/index.m3u8
