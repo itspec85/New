@@ -1852,7 +1852,7 @@ http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_
 http://194.143.148.28:8080/MatchArena/mpegts
 #EXTINF:-1 tvg-id="match-boets" tvg-name="Матч! Боец" tvg-logo="http://epg.one/img/2054.png" group-title="Спорт", Матч! Боец
 #EXTGRP:Спорт
-https://mhd128.iptv2022.com/p/LVqX1VFcK_0IiPCjyV4uCg,1749070811/streaming/boectv/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/n3Fnk6MiW6jB4RtjAwARPQ,1749157213/streaming/boectv/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="match-igra" tvg-name="Матч! Игра" tvg-logo="http://epg.one/img/2050.png" group-title="Спорт", Матч! Игра
 #EXTGRP:Спорт
 http://87.120.142.11:18000/Match!Igra
@@ -1861,22 +1861,22 @@ http://87.120.142.11:18000/Match!Igra
 https://ucdn.beetv.kz/bpk-tv/000001695/tve/index.m3u8
 #EXTINF:-1 tvg-id="match-premier" tvg-name="Матч! Премьер" tvg-logo="http://epg.one/img/2250.png" group-title="Спорт", Матч! Премьер
 #EXTGRP:Спорт
-https://mhd128.iptv2022.com/p/BUlzy4poTErM-pyiAL0-4g,1749070811/streaming/match_premyer/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/fUNOEhf3-kSFTSzPGj29DA,1749157213/streaming/match_premyer/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="match-premier" tvg-name="Матч! Премьер HD" tvg-logo="http://epg.one/img/2250.png" group-title="Спорт", Матч! Премьер HD
 #EXTGRP:Спорт
-https://mhd128.iptv2022.com/p/4aWPYRFQ1N3p3o9ZkyHrRQ,1749070811/streaming/match_premyerhd/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/WTz7lZ1ilrNJIe8XQ0V2MQ,1749157213/streaming/match_premyerhd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="match-nash-sport" tvg-name="Матч! Страна" tvg-logo="http://epg.one/img/2042.png" group-title="Спорт", Матч! Страна
 #EXTGRP:Спорт
 http://178.212.71.253:8000/play/51/index.m3u8
 #EXTINF:-1 tvg-id="match-football1" tvg-name="Матч! Футбол 1 HD" tvg-logo="http://epg.one/img/2044.png" group-title="Спорт", Матч! Футбол 1 HD
 #EXTGRP:Спорт
-https://mhd128.iptv2022.com/p/MugmrgQNdL8op5eRcF-L7Q,1749070811/streaming/footbal1hd/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/RG-gsVUQHCMnBlT669gMNg,1749157213/streaming/footbal1hd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="match-football2" tvg-name="Матч! Футбол 2 HD" tvg-logo="http://epg.one/img/1042.png" group-title="Спорт", Матч! Футбол 2 HD
 #EXTGRP:Спорт
-https://mhd128.iptv2022.com/p/DoN9_2lvjNQLtw6j1-rk_Q,1749070811/streaming/footbal2hd/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/kY9CF_HOIKHnSP7b5l47Kw,1749157213/streaming/footbal2hd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="match-football3" tvg-name="Матч! Футбол 3 HD" tvg-logo="http://epg.one/img/2005.png" group-title="Спорт", Матч! Футбол 3 HD
 #EXTGRP:Спорт
-https://mhd128.iptv2022.com/p/eEr8WwS4TAlCHIakygmdOw,1749070811/streaming/footbal3hd/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/Yy_PuSv1FO8OZX-pzjzirA,1749157213/streaming/footbal3hd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="mir-basketbola" tvg-name="Мир Баскетбола" tvg-logo="http://epg.one/img/4629.png" group-title="Спорт", Мир Баскетбола
 #EXTGRP:Спорт
 http://65.21.85.175:8000/play/a00c/index.m3u8?token=livetv
@@ -1888,7 +1888,7 @@ http://sltv2.be:8080/DeNiSoNkEl/nPcCsz5hHn/510637
 https://ucdn.beetv.kz/bpk-tv/000007802/tve/index.m3u8
 #EXTINF:-1 tvg-id="football-ru" tvg-name="Футбол" tvg-logo="http://epg.one/img/2782.png" group-title="Спорт", Футбол
 #EXTGRP:Спорт
-https://mhd128.iptv2022.com/p/XOu53MQHj6JBtso5JztHWg,1749070820/streaming/footbal/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/ilM1nbfAqs5OSI_22Q3BXQ,1749157222/streaming/footbal/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-name="beIN Sports 1 HD TR" tvg-logo="http://epg.one/img/5092.png" group-title="Спорт", beIN Sports 1 HD TR
 #EXTGRP:Спорт
 http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:BB:EE:72&stream=35701&extension=ts
@@ -2218,7 +2218,7 @@ http://195.26.83.96:7007/play/a00m/index.m3u8
 http://178.212.71.253:8000/play/142/index.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-classic" tvg-name="Bridge TV Classic" tvg-logo="http://epg.one/img/4373.png" group-title="Музыка", Bridge TV Classic
 #EXTGRP:Музыка
-https://mhd128.iptv2022.com/p/VVf7UOjGAG7c3xNkMpgaog,1749070812/streaming/br_classic/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/4dIcQpQ0moOTxXVaOMuB0Q,1749157214/streaming/br_classic/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="bridge-hd" tvg-name="Bridge TV Deluxe" tvg-logo="http://epg.one/img/2022.png" group-title="Музыка", Bridge TV Deluxe
 #EXTGRP:Музыка
 http://178.212.71.253:8000/play/98/index.m3u8
