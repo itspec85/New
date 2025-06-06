@@ -3800,6 +3800,9 @@ https://fl.biztv.media/music_720_QAKpGmVUjaPApCNjpsgBxrdqNihAkl/index.m3u8
 #EXTINF:-1 tvg-name="BizTV HD UZ" tvg-logo="http://epg.one/img/7915.png" group-title="Узбекистан", BizTV HD UZ
 #EXTGRP:Узбекистан
 https://fl.biztv.media/biz_tv_720_uni8jhub4h8fub4idejswh8dh3j94finbu4nidj39inwsj92in3d/index.m3u8
+#EXTINF:-1 tvg-name="Biznes TV" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/e/e9/Biznes_TV_%282015-.n.v.%29.png/revision/latest?cb=20230318203351" group-title="Узбекистан", Biznes TV
+#EXTGRP:Узбекистан
+https://fl.biztv.media/BiznesTV_1080/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="iTV Cinema UZ" tvg-logo="http://epg.one/img/7920.png" group-title="Узбекистан", iTV Cinema UZ
 #EXTGRP:Узбекистан
 https://iptv.itv.uz/hls/live/t/UAcSEExX5UamlFqFOIaXIA/e/1767191403/4000/index.m3u8
@@ -3808,6 +3811,9 @@ https://iptv.itv.uz/hls/live/t/UAcSEExX5UamlFqFOIaXIA/e/1767191403/4000/index.m3
 https://iptv.itv.uz/hls/live/t/IDvfbmZ5Ibmqs0plMhNejg/e/1767191403/4001/index.m3u8
 #EXTINF:-1 tvg-name="Kinoteatr" tvg-logo="http://epg.one/img/2652.png" group-title="Узбекистан", Kinoteatr
 #EXTGRP:Узбекистан
+#EXTINF:-1 tvg-name="My5" tvg-logo="https://avatars.mds.yandex.net/i?id=01cb06fc6e759fd1fbbb415d827ac4326a77c882-5009080-images-thumbs&n=13" group-title="Узбекистан", My5
+#EXTGRP:Узбекистан
+https://st.my5.media/hls/fullhd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Ozbekiston 24 HD UZ" tvg-logo="http://epg.one/img/7931.png" group-title="Узбекистан", Ozbekiston 24 HD UZ
 #EXTGRP:Узбекистан
 https://st1.uzdigital.tv/Uzb24/tracks-v2a1a2/mono.m3u8
@@ -3820,6 +3826,9 @@ https://st1.uzdigital.tv/TTV_Musiqa/video.m3u8
 #EXTINF:-1 tvg-name="Солнечный ТВ" tvg-logo="https://avatars.mds.yandex.net/i?id=cb29a4527c511d0092117554b283ead458fc218a-13200326-images-thumbs&n=13" group-title="Узбекистан", Солнечный ТВ
 #EXTGRP:Узбекистан
 https://fl.biztv.media/stv_720_bizstvvietfujeyrah/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Travel TV" tvg-logo="https://avatars.mds.yandex.net/i?id=6fbda1f76006fdaacc975097c08bc1c2bcd8db8c-4432918-images-thumbs&n=13" group-title="Узбекистан", Travel TV
+#EXTGRP:Узбекистан
+https://fl.biztv.media/TabiatTV_1080/tracks-v1a1/mono.m3u8
 
 
 
