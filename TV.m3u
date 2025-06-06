@@ -3811,7 +3811,7 @@ https://iptv.itv.uz/hls/live/t/UAcSEExX5UamlFqFOIaXIA/e/1767191403/4000/index.m3
 https://iptv.itv.uz/hls/live/t/IDvfbmZ5Ibmqs0plMhNejg/e/1767191403/4001/index.m3u8
 #EXTINF:-1 tvg-name="Kinoteatr" tvg-logo="http://epg.one/img/2652.png" group-title="Узбекистан", Kinoteatr
 #EXTGRP:Узбекистан
-#EXTINF:-1 tvg-name="My5" tvg-logo="https://avatars.mds.yandex.net/i?id=01cb06fc6e759fd1fbbb415d827ac4326a77c882-5009080-images-thumbs&n=13" group-title="Узбекистан", My5
+#EXTINF:-1 tvg-name="My5 UZ" tvg-logo="http://epg.one/img/7928.png" group-title="Узбекистан", My5 UZ
 #EXTGRP:Узбекистан
 https://st.my5.media/hls/fullhd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Ozbekiston 24 HD UZ" tvg-logo="http://epg.one/img/7931.png" group-title="Узбекистан", Ozbekiston 24 HD UZ
