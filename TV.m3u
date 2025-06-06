@@ -3820,15 +3820,15 @@ https://st1.uzdigital.tv/Uzb24/tracks-v2a1a2/mono.m3u8
 #EXTINF:-1 tvg-name="Shifo TV" tvg-logo="https://avatars.mds.yandex.net/i?id=4e620f55f4833e21f250ad7bf4271233d76065f9-13218119-images-thumbs&n=13" group-title="Узбекистан", Shifo TV
 #EXTGRP:Узбекистан
 https://st1.uzdigital.tv/shifo_tv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="TTV Musiqa" tvg-logo="https://cdn.uzd.udevs.io/uzdigital/images/a6bd8e61-84e3-440e-b2d1-d34b3c7a90ab.jpg" group-title="Узбекистан", TTV Musiqa
-#EXTGRP:Узбекистан
-https://st1.uzdigital.tv/TTV_Musiqa/video.m3u8
 #EXTINF:-1 tvg-name="Солнечный ТВ" tvg-logo="https://avatars.mds.yandex.net/i?id=cb29a4527c511d0092117554b283ead458fc218a-13200326-images-thumbs&n=13" group-title="Узбекистан", Солнечный ТВ
 #EXTGRP:Узбекистан
 https://fl.biztv.media/stv_720_bizstvvietfujeyrah/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Travel TV" tvg-logo="https://avatars.mds.yandex.net/i?id=6fbda1f76006fdaacc975097c08bc1c2bcd8db8c-4432918-images-thumbs&n=13" group-title="Узбекистан", Travel TV
 #EXTGRP:Узбекистан
 https://fl.biztv.media/TabiatTV_1080/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="TTV Musiqa" tvg-logo="https://cdn.uzd.udevs.io/uzdigital/images/a6bd8e61-84e3-440e-b2d1-d34b3c7a90ab.jpg" group-title="Узбекистан", TTV Musiqa
+#EXTGRP:Узбекистан
+https://st1.uzdigital.tv/TTV_Musiqa/video.m3u8
 
 
 
