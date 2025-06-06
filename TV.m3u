@@ -1445,7 +1445,7 @@ https://ucdn.beetv.kz/bpk-tv/000000499/tve/index.m3u8
 #EXTINF:-1 tvg-id="nicktoons" tvg-name="NickToons" tvg-logo="http://epg.one/img/2994.png" group-title="Детские", NickToons
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000004365/tve/index.m3u8
-#EXTINF:-1 tvg-id="salemalem-kz" tvg-name="Sälem, älem!" tvg-logo="https://yandex.kz/images/touch/search?pos=0&text=S%C3%A4lem%2C+%C3%A4lem+logi&img_url=https%3A%2F%2Fyt3.googleusercontent.com%2FWkcQEZyEF0cOBM6blmNHA_ScyDSXW5qFiuDWq2PjKUU-dOd0Ff9R6VKlBW8Z2HD_eXnM8YsMfg%3Ds900-c-k-c0x00ffffff-no-rj&lr=20273&source=tabbar&rpt=simage" group-title="Детские", Sälem, älem!
+#EXTINF:-1 tvg-id="salemalem-kz" tvg-name="Sälem älem!" tvg-logo="https://yandex.kz/images/touch/search?pos=0&text=S%C3%A4lem%2C+%C3%A4lem+logi&img_url=https%3A%2F%2Fyt3.googleusercontent.com%2FWkcQEZyEF0cOBM6blmNHA_ScyDSXW5qFiuDWq2PjKUU-dOd0Ff9R6VKlBW8Z2HD_eXnM8YsMfg%3Ds900-c-k-c0x00ffffff-no-rj&lr=20273&source=tabbar&rpt=simage" group-title="Детские", Sälem älem!
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000008864/tve/index.m3u8
 #EXTINF:-1 tvg-id="tiji" tvg-name="Tiji TV" tvg-logo="http://epg.one/img/555.png" group-title="Детские", Tiji TV
