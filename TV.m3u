@@ -1789,6 +1789,9 @@ http://92.53.64.197:5050/IPTVPLAYPROMO.tv/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 tvg-id="kino-24" tvg-name="KINO 24" tvg-logo="https://avatars.mds.yandex.net/i?id=7c12dec67467f469f2b9ca36e542d550e624e63b-4937330-images-thumbs&n=13" group-title="Кино", KINO 24
 #EXTGRP:Кино
 http://dmi3y-tv.ru/hls/CH_KINO24.m3u8
+#EXTINF:-1 tvg-id="kinoliving" tvg-name="KinoLiving" tvg-logo="http://epg.one/img/9123.png" group-title="Кино", KinoLiving
+#EXTGRP:Кино
+http://109.200.130.123:7537/play/a03k
 #EXTINF:-1 tvg-id="plan-b" tvg-name="Plan B HD" tvg-logo="http://epg.one/img/6643.png" group-title="Кино", Plan B HD
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000007625/tve/index.m3u8
