@@ -750,7 +750,7 @@ http://stream.kaztrk.kz/regional/karagandytv/index.m3u8
 #EXTINF:-1 tvg-id="7kanal-kz" tvg-name="Седьмой канал KZ" tvg-logo="http://epg.one/img/2572.png" group-title="Казахстан", Седьмой канал KZ
 #EXTGRP:Казахстан
 https://ucdn.beetv.kz/bpk-tv/000000659/tve/index.m3u8
-#EXTINF:-1 tvg-id="semei" tvg-name="Semei" tvg-logo="https://avatars.mds.yandex.net/i?id=5c86362e245a4b0792ca0d6fd92361ba-5008775-images-thumbs&n=13" group-title="Казахстан", Semei
+#EXTINF:-1 tvg-id="semei" tvg-name="Semei" tvg-logo="https://avatars.mds.yandex.net/i?id=5c86362e245a4b0792ca0d6fd92361ba1f68d3fb-7843541-images-thumbs&n=13" group-title="Казахстан", Semei
 #EXTGRP:Казахстан
 https://ucdn.beetv.kz/bpk-tv/000003250/tve/index.m3u8
 #EXTINF:-1 audio-track="Kazakh" tvg-name="Silk Way" tvg-logo="http://epg.one/img/9033.png" group-title="Казахстан", Silk Way
@@ -1650,7 +1650,7 @@ http://v2.catcast.tv/content/40783/index.m3u8
 #EXTINF:-1 tvg-name="Сити Эдем - КиноЭкшен" tvg-logo="http://www.cityeden.info/logotv/logotip_siti_ehdem-kinoehkshen2.png" group-title="Кино", Сити Эдем - КиноЭкшен
 #EXTGRP:Кино
 https://v2.catcast.tv/content/41333/index.m3u8
-#EXTINF:-1 tvg-name="Смотрим Кино и сериалы" tvg-logo="https://yastatic.net/naydex/yandex-search/whAS8J113/0b8051N-HOgg/HwvYjIKsXPvoHXL17OMV84joPaTQ01ucRwe72k7YR3OdvTYQR4rbu-549F2wwWcy6yNJN-IwRSwtqSe2akicsR_6aTzziRg7rEkmAAnHdDJd6PixlBLuCOdyWvoOvMW2SJllAySZycldvyPax3bD957WLZNGxfGK21" group-title="Кино", Смотрим Кино и сериалы
+#EXTINF:-1 tvg-name="Смотрим Кино и сериалы" tvg-logo="https://avatars.mds.yandex.net/i?id=bfe2e169d4858dbc0171205a9446ab66e1d7f510-5474802-images-thumbs&n=13" group-title="Кино", Смотрим Кино и сериалы
 #EXTGRP:Кино
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/index.m3u8
 #EXTINF:-1 tvg-id="sov-kinklass" tvg-shift="-3" tvg-name="Советская киноклассика HD" tvg-logo="http://epg.one/img/9002.png" group-title="Кино", Советская киноклассика HD
@@ -1731,7 +1731,7 @@ http://178.124.152.238:8088/cinema
 #EXTINF:-1 tvg-id="paramount-comedy" tvg-name="Comedy Central" tvg-logo="http://epg.one/img/920.png" group-title="Кино", Comedy Central
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000000452/tve/index.m3u8
-#EXTINF:-1 tvg-name="Dimpon HD" tvg-logo="https://static.goodgame.ru/files/avatars/av_1643154_EWvG.jpg" group-title="Кино", Dimpon HD
+#EXTINF:-1 tvg-name="Dimpon HD" tvg-logo="https://static.goodgame.ru/files/avatars/av_1643154_P8Jo.jpg" group-title="Кино", Dimpon HD
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=goodgame
 http://hls.goodgame.ru:8080/hls/210470.m3u8
