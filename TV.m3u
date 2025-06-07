@@ -1360,7 +1360,7 @@ http://stv.mediacdn.ru/live/cdn/mult/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-id="multimuzyka" tvg-name="Мульт и музыка" tvg-logo="http://epg.one/img/284.png" group-title="Детские", Мульт и музыка
 #EXTGRP:Детские
 http://stv.mediacdn.ru/live/cdn/multimuzika/playlist_sdhigher.m3u8
-#EXTINF:-1 tvg-name="Мультики и Сказки" tvg-logo="https://goodgame.ru/files/avatars/av_avatar_toss.png" group-title="Детские", Мультики и Сказки
+#EXTINF:-1 tvg-name="Мультики и Сказки" tvg-logo="https://i.postimg.cc/sx6H4jvt/Multiki-i-Skazki.png" group-title="Детские", Мультики и Сказки
 #EXTGRP:Детские
 #EXTVLCOPT:http-user-agent=goodgame
 https://hls.goodgame.ru/hls/198446.m3u8
