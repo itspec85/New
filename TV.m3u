@@ -131,6 +131,9 @@ https://streaming.televizor-24-tochka.ru/live/213.m3u8
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://dmi3y-tv.ru/hls/DVB-T2/CH_OTR.m3u8
+#EXTINF:-1 tvg-id="otr" tvg-name="ОТР HD" tvg-logo="http://epg.one/img/1000.png" group-title="Россия", ОТР HD
+#EXTGRP:Россия
+http://vs6.cdn.mrf.tvime.ru/otr_MSK/video.m3u8?token=TXRoYmh8fA==
 #EXTINF:-1 tvg-id="otr-pl4" tvg-name="ОТР +4" tvg-logo="http://epg.one/img/3005.png" group-title="Россия", ОТР +4
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -2158,6 +2161,9 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_MUZTV-1.m3u8
 #EXTGRP:Музыка
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://dmi3y-tv.ru/hls/DVB-T2/CH_MUZTV.m3u8
+#EXTINF:-1 tvg-id="muztv" tvg-name="Муз-ТВ HD" tvg-logo="http://epg.one/img/897.png" group-title="Музыка", Муз-ТВ HD
+#EXTGRP:Музыка
+http://vs6.cdn.mrf.tvime.ru/muztv_MSK/video.m3u8?token=TXRoYmh8fA==
 #EXTINF:-1 tvg-id="muztv-pl2" tvg-name="Муз ТВ +2" tvg-logo="http://epg.one/img/897.png" group-title="Музыка", Муз ТВ +2
 #EXTGRP:Музыка
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
