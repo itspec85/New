@@ -3371,7 +3371,7 @@ http://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://dmi3y-tv.ru/hls/zabava/region/SUR/CH_YUGANSK_YUNSK.m3u8
-#EXTINF:-1 tvg-name="Тротек ТВ Троицк" tvg-logo="https://avatars.mds.yandex.net/i?id=d64aedff0d39c4de5029ddb545b26fe4-5428196-images-thumbs&n=13" group-title="Региональные РФ", Тротек ТВ Троицк
+#EXTINF:-1 tvg-name="Тротек ТВ Троицк" tvg-logo="https://trotek.online/img/logo.png" group-title="Региональные РФ", Тротек ТВ Троицк
 #EXTGRP:Региональные РФ
 http://trotek.keenetic.pro/play.m3u8
 #EXTINF:-1 tvg-name="ТСТ Черемхово" tvg-logo="https://avatars.mds.yandex.net/i?id=31c44c940ddbc1217df332c9bfbfc1d03fca81fb-4233236-images-thumbs&n=13" group-title="Региональные РФ", ТСТ Черемхово
