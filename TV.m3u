@@ -483,7 +483,7 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3_6.m3u8
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3_7.m3u8
-#EXTINF:-1 tvg-id="tv3-int" tvg-name="ТВ3 International" tvg-logo="https://iptvx.one/picons/tv3-int.png" group-title="Россия", ТВ3 International
+#EXTINF:-1 tvg-id="tv3-int" tvg-name="ТВ3 International" tvg-logo="https://epgx.club/picons/tv3-int.png" group-title="Россия", ТВ3 International
 #EXTGRP:Россия
 https://ucdn.beetv.kz/bpk-tv/000004712/tve/index.m3u8
 #EXTINF:-1 tvg-id="tvcentr" tvg-shift="+1" tvg-name="ТВЦ -1" tvg-logo="http://epg.one/img/649.png" group-title="Россия", ТВЦ -1
@@ -573,7 +573,7 @@ http://dmi3y-tv.ru/hls/zabava/CH_TNT4_6.m3u8
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://dmi3y-tv.ru/hls/zabava/CH_TNT4_7.m3u8
-#EXTINF:-1 tvg-id="tnt4-international" tvg-name="ТНТ4 International" tvg-logo="https://iptvx.one/picons/tnt4.png" group-title="Россия", ТНТ4 International
+#EXTINF:-1 tvg-id="tnt4-international" tvg-name="ТНТ4 International" tvg-logo="https://epgx.club/picons/tnt4.png" group-title="Россия", ТНТ4 International
 #EXTGRP:Россия
 https://ucdn.beetv.kz/bpk-tv/000002926/tve/index.m3u8
 #EXTINF:-1 tvg-id="che" tvg-shift="+1" tvg-name="Че -1" tvg-logo="http://epg.one/img/1598.png" group-title="Россия", Че -1
