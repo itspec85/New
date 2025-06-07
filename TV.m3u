@@ -2254,18 +2254,27 @@ https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m
 #EXTINF:-1 tvg-id="bridge-tv" tvg-name="Bridge TV" tvg-logo="http://epg.one/img/151.png" group-title="Музыка", Bridge TV
 #EXTGRP:Музыка
 http://195.26.83.96:7007/play/a00m/index.m3u8
+#EXTINF:-1 tvg-id="bridge-tv-ruxit" tvg-name="Bridge TV Русский хит" tvg-logo="http://epg.one/img/591.png" group-title="Музыка", Bridge TV Русский хит
+#EXTGRP:Музыка
+http://217.113.25.29:8001/play/a020/index.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-shlager" tvg-name="Bridge TV Шлягер" tvg-logo="http://epg.one/img/4621.png" group-title="Музыка", Bridge TV Шлягер
 #EXTGRP:Музыка
 http://178.212.71.253:8000/play/142/index.m3u8
+#EXTINF:-1 tvg-id="bridge-tv-etno" tvg-name="Bridge TV Этно" tvg-logo="https://epgx.club/picons/bridge-tv-etno.png" group-title="Музыка", Bridge TV Этно
+#EXTGRP:Музыка
+http://tvip.btk.teleos.ru:8081/chid520/index.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-classic" tvg-name="Bridge TV Classic" tvg-logo="http://epg.one/img/4373.png" group-title="Музыка", Bridge TV Classic
 #EXTGRP:Музыка
 https://mhd128.iptv2022.com/p/iaj6TtG6WD9-x7glhLOX2g,1749330013/streaming/br_classic/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="bridge-hd" tvg-name="Bridge TV Deluxe" tvg-logo="http://epg.one/img/2022.png" group-title="Музыка", Bridge TV Deluxe
 #EXTGRP:Музыка
-http://178.212.71.253:8000/play/98/index.m3u8
+http://tvip.btk.teleos.ru:8081/chid519/index.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-dance" tvg-name="Bridge TV Hits" tvg-logo="http://epg.one/img/2024.png" group-title="Музыка", Bridge TV Hits
 #EXTGRP:Музыка
-http://178.212.71.253:8000/play/134/index.m3u8
+http://217.113.25.29:8001/play/a02w/index.m3u8
+#EXTINF:-1 tvg-id="bridge-tv-rock" tvg-name="Bridge TV Rock" tvg-logo="http://epg.one/img/6188.png" group-title="Музыка", Bridge TV Rock
+#EXTGRP:Музыка
+http://31.173.165.29:8000/play/a01v/index.m3u8
 #EXTINF:-1 tvg-id="clubbing-tv" tvg-name="Clubbing TV" tvg-logo="http://epg.one/img/2628.png" group-title="Музыка", Clubbing TV
 #EXTGRP:Музыка
 https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
