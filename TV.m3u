@@ -3630,16 +3630,16 @@ https://restreamer.livetv.az/memfs/a6cecb21-e17c-4f32-8854-0b72d57211d8.m3u8
 
 #EXTINF:-1 tvg-id="belarus1" tvg-name="Беларусь 1 HD" tvg-logo="http://epg.one/img/2538.png" group-title="Беларусь", Беларусь 1 HD
 #EXTGRP:Беларусь
-http://dmi3y-tv.ru/hls/blrus/CH_BELARUS1HD.m3u8
+http://dmitry-tv.ddns.net/hls/blrus/CH_BELARUS1HD.m3u8
 #EXTINF:-1 tvg-id="belarus2" tvg-name="Беларусь 2 HD" tvg-logo="http://epg.one/img/2539.png" group-title="Беларусь", Беларусь 2 HD
 #EXTGRP:Беларусь
-http://dmi3y-tv.ru/hls/blrus/CH_BELARUS2HD.m3u8
+http://dmitry-tv.ddns.net/hls/blrus/CH_BELARUS2HD.m3u8
 #EXTINF:-1 tvg-id="belarus3" tvg-name="Беларусь 3 HD" tvg-logo="http://epg.one/img/2540.png" group-title="Беларусь", Беларусь 3 HD
 #EXTGRP:Беларусь
-http://dmi3y-tv.ru/hls/blrus/CH_BELARUS3HD.m3u8
+http://dmitry-tv.ddns.net/hls/blrus/CH_BELARUS3HD.m3u8
 #EXTINF:-1 tvg-id="belarus24" tvg-name="Беларусь 24" tvg-logo="http://epg.one/img/2170.png" group-title="Беларусь", Беларусь 24
 #EXTGRP:Беларусь
-http://dmi3y-tv.ru/hls/blrus/CH_BELARUS24HD.m3u8
+http://dmitry-tv.ddns.net/hls/blrus/CH_BELARUS24HD.m3u8
 #EXTINF:-1 tvg-id="tro" tvg-name="БелРос" tvg-logo="http://epg.one/img/2294.png" group-title="Беларусь", БелРос
 #EXTGRP:Беларусь
 https://live.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
@@ -3669,7 +3669,7 @@ http://176.107.219.20:9000/play/a009/index.m3u8
 http://95.46.208.8:24432/skif
 #EXTINF:-1 tvg-id="stv-by" tvg-name="СТВ" tvg-logo="http://epg.one/img/2543.png" group-title="Беларусь", СТВ
 #EXTGRP:Беларусь
-http://dmi3y-tv.ru/hls/blrus/CH_CTBHD720.m3u8
+http://dmitry-tv.ddns.net/hls/blrus/CH_CTBHD720.m3u8
 
 
 
