@@ -1554,7 +1554,7 @@ https://ucdn.beetv.kz/bpk-tv/000005450/tve/index.m3u8
 https://mhd128.iptv2022.com/p/hL-6G6cSeNICDCpxXpFE5w,1749675609/streaming/kinoseria/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="kinouzhas" tvg-name="Киноужас" tvg-logo="http://epg.one/img/2493.png" group-title="Кино", Киноужас
 #EXTGRP:Кино
-http://109.200.130.123:7537/play/a031
+https://mhd128.iptv2022.com/p/jWjDjv6WJY8iaizhlW3Vjg,1749675608/streaming/kinoujas/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="kinoxit" tvg-name="Кинохит" tvg-logo="http://epg.one/img/542.png" group-title="Кино", Кинохит
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000004485/tve/index.m3u8
@@ -1581,7 +1581,7 @@ https://ucdn.beetv.kz/bpk-tv/000008488/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000006365/tve/index.m3u8
 #EXTINF:-1 tvg-id="muzhskoe-kino" tvg-name="Мужское кино" tvg-logo="http://epg.one/img/1584.png" group-title="Кино", Мужское кино
 #EXTGRP:Кино
-http://178.212.71.253:8000/play/126/index.m3u8
+https://mhd128.iptv2022.com/p/Y2mlSQ7GQU-2N0ZJIoxjCA,1749675608/streaming/male-movie/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="nash-kinopokaz" tvg-name="Наш кинопоказ" tvg-logo="http://epg.one/img/2831.png" group-title="Кино", Наш кинопоказ
 #EXTGRP:Кино
 https://mhd128.iptv2022.com/p/45sJ3hLoS-QSWhxRNbix5g,1749675609/streaming/nashpokaz/324/1/tracks-v5a1/mono.m3u8
@@ -1800,9 +1800,6 @@ http://92.53.64.197:5050/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 tvg-name="IPTVPLAY Promo" tvg-logo="https://i.ibb.co/0ccNSdV/image-16.png" group-title="Кино", IPTVPLAY Promo
 #EXTGRP:Кино
 http://92.53.64.197:5050/IPTVPLAYPROMO.tv/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 tvg-id="kino-24" tvg-name="KINO 24" tvg-logo="https://avatars.mds.yandex.net/i?id=7c12dec67467f469f2b9ca36e542d550e624e63b-4937330-images-thumbs&n=13" group-title="Кино", KINO 24
-#EXTGRP:Кино
-http://dmitry-tv.ddns.net/hls/CH_KINO24.m3u8
 #EXTINF:-1 tvg-id="kinoliving" tvg-name="KinoLiving" tvg-logo="http://epg.one/img/9123.png" group-title="Кино", KinoLiving
 #EXTGRP:Кино
 http://109.200.130.123:7537/play/a03k
