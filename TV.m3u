@@ -1942,21 +1942,6 @@ http://brsmrt1611.xyz:2095/mhmt9949/Thr5R8NvGcU5/46669
 #EXTINF:-1 tvg-name="Billiard TV" tvg-logo="https://avatars.mds.yandex.net/i?id=b42dfcc65e0421933184166140afd83040f5ba1b-5369205-images-thumbs&n=13" group-title="Спорт", Billiard TV
 #EXTGRP:Спорт
 https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE_Max.m3u8
-#EXTINF:-1 tvg-id="canal-pl-sport-1" tvg-name="Canal+ Sport PL" tvg-logo="https://epgx.club/picons/canal-pl-sport.png" group-title="Спорт", Canal+ Sport PL
-#EXTGRP:Спорт
-http://bocian.io:8880/NL753811/552284900/105520
-#EXTINF:-1 tvg-id="canal-pl-sport-2" tvg-name="Canal+ Sport 2 PL" tvg-logo="https://epgx.club/picons/canal-pl-sport-2.png" group-title="Спорт", Canal+ Sport 2 PL
-#EXTGRP:Спорт
-http://bocian.io:8880/NL753811/552284900/105521
-#EXTINF:-1 tvg-id="canal-pl-sport-3" tvg-name="Canal+ Sport 3 PL" tvg-logo="https://epgx.club/picons/canal-pl-sport-3.png" group-title="Спорт", Canal+ Sport 3 PL
-#EXTGRP:Спорт
-http://bocian.io:8880/NL753811/552284900/105522
-#EXTINF:-1 tvg-id="canal-pl-sport-4" tvg-name="Canal+ Sport 4 PL" tvg-logo="https://epgx.club/picons/canal-pl-sport-4.png" group-title="Спорт", Canal+ Sport 4 PL
-#EXTGRP:Спорт
-http://bocian.io:8880/NL753811/552284900/105523
-#EXTINF:-1 tvg-id="canal-pl-sport-5" tvg-name="Canal+ Sport 5 PL" tvg-logo="https://epgx.club/picons/canal-pl-sport-5.png" group-title="Спорт", Canal+ Sport 5 PL
-#EXTGRP:Спорт
-http://bocian.io:8880/NL753811/552284900/153306
 #EXTINF:-1 tvg-id="cbc-sport" tvg-name="CBC Sport" tvg-logo="http://epg.one/img/2636.png" group-title="Спорт", CBC Sport
 #EXTGRP:Спорт
 http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:BB:EE:72&stream=31400&extension=ts
@@ -1966,18 +1951,6 @@ http://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1 tvg-name="DAZN Combat" tvg-logo="https://i.postimg.cc/VsW3Jsrz/logo-DAZN-Combat.png" group-title="Спорт", DAZN Combat
 #EXTGRP:Спорт
 https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
-#EXTINF:-1 tvg-id="eleven-sports-1" tvg-name="Eleven Sports 1 HD PL" tvg-logo="https://epgx.club/picons/eleven-sports-1.png" group-title="Спорт", Eleven Sports 1 HD PL
-#EXTGRP:Спорт
-http://bocian.io:8880/NL753811/552284900/105525
-#EXTINF:-1 tvg-id="eleven-sports-2" tvg-name="Eleven Sports 2 HD PL" tvg-logo="https://epgx.club/picons/eleven-sports-2.png" group-title="Спорт", Eleven Sports 2 HD PL
-#EXTGRP:Спорт
-http://bocian.io:8880/NL753811/552284900/105526
-#EXTINF:-1 tvg-id="eleven-sports-3" tvg-name="Eleven Sports 3 HD PL" tvg-logo="https://epgx.club/picons/eleven-sports-3.png" group-title="Спорт", Eleven Sports 3 HD PL
-#EXTGRP:Спорт
-http://bocian.io:8880/NL753811/552284900/105527
-#EXTINF:-1 tvg-id="eleven-sports-4" tvg-name="Eleven Sports 4 HD PL" tvg-logo="https://epgx.club/picons/eleven-sports-4.png" group-title="Спорт", Eleven Sports 4 HD PL
-#EXTGRP:Спорт
-http://bocian.io:8880/NL753811/552284900/105528
 #EXTINF:-1 tvg-name="ESPN USA" tvg-logo="http://epg.one/img/6582.png" group-title="Спорт", ESPN USA
 #EXTGRP:Спорт
 http://cord-cutter.net:8080/LeeAv21/AvantL12/14197
@@ -1993,12 +1966,6 @@ https://ucdn.beetv.kz/bpk-tv/000000026/tve/index.m3u8
 #EXTINF:-1 tvg-name="FITE 24/7" tvg-logo="https://i.imgur.com/ESV6qgH.png" group-title="Спорт", FITE 24/7
 #EXTGRP:Спорт
 https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8
-#EXTINF:-1 tvg-name="Fox Sports 1 US" tvg-logo="http://epg.one/img/4558.png" group-title="Спорт", Fox Sports 1 US
-#EXTGRP:Спорт
-http://51.75.43.232:6878/ace/getstream?id=c9c062941fbecb16ce29437f346ea7177d720898&.mp4
-#EXTINF:-1 tvg-name="Fox Sports 2 US" tvg-logo="http://epg.one/img/4559.png" group-title="Спорт", Fox Sports 2 US
-#EXTGRP:Спорт
-http://51.75.43.232:6878/ace/getstream?id=cba8d369eac629b577750edb90370cd1c5fb03b7&.mp4
 #EXTINF:-1 tvg-name="Glory Kickboxing" tvg-logo="https://avatars.mds.yandex.net/i?id=abf21721486b2e4657813651412bc1e1a1a854a9-10304277-images-thumbs&n=13" group-title="Спорт", Glory Kickboxing
 #EXTGRP:Спорт
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f178-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=df3ca9c7-d700-4719-be3f-74dd169206f8
@@ -2047,9 +2014,6 @@ https://ucdn.beetv.kz/bpk-tv/000003689/tve/index.m3u8
 #EXTINF:-1 tvg-id="nba-tv" tvg-name="NBA TV HD US" tvg-logo="http://epg.one/img/4587.png" group-title="Спорт", NBA TV HD US
 #EXTGRP:Спорт
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=196854&extension=ts
-#EXTINF:-1 tvg-name="NBC Sports Bay Area US" tvg-logo="https://i.imgur.com/MTgUVKx.png" group-title="Спорт", NBC Sports Bay Area US
-#EXTGRP:Спорт
-https://v1.thetvapp.to/hls/nbc-sports-bay-area/index.m3u8
 #EXTINF:-1 tvg-id="nfl-network" tvg-name="NFL Network HD CA" tvg-logo="http://epg.one/img/3568.png" group-title="Спорт", NFL Network HD CA
 #EXTGRP:Спорт
 http://fl3.moveonjoy.com/NFL_NETWORK/index.m3u8
@@ -2119,9 +2083,6 @@ https://ucdn.beetv.kz/bpk-tv/000008731/tve/index.m3u8
 #EXTINF:-1 tvg-name="Sports TV TR" tvg-logo="http://epg.one/img/3884.png" group-title="Спорт", Sports TV TR
 #EXTGRP:Спорт
 https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
-#EXTINF:-1 tvg-id="supertennis" tvg-name="Super Tennis HD" tvg-logo="http://epg.one/img/3117.png" group-title="Спорт", Super Tennis HD
-#EXTGRP:Спорт
-https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/h24_supertennix/manifest.m3u8
 #EXTINF:-1 tvg-name="TENNIS HD US" tvg-logo="http://epg.one/img/3118.png" group-title="Спорт", TENNIS HD US
 #EXTGRP:Спорт
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
