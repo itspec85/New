@@ -983,7 +983,7 @@ https://osnmedia.servicecdn.ru/streams/17603_88089/720n/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000000308/tve/index.m3u8
 #EXTINF:-1 tvg-id="oxota-i-rybalka" tvg-name="Охота и Рыбалка" tvg-logo="http://epg.one/img/2419.png" group-title="Познавательные", Охота и Рыбалка
 #EXTGRP:Познавательные
-http://65.21.85.175:8000/play/a01k/index.m3u8?token=livetv
+http://195.245.99.242/Ohota_i_ribalka/playlist.m3u8
 #EXTINF:-1 tvg-id="oxotnik-i-rybolov" tvg-name="Охотник и рыболов" tvg-logo="http://epg.one/img/1681.png" group-title="Познавательные", Охотник и рыболов
 #EXTGRP:Познавательные
 https://mhd128.iptv2022.com/p/Gsw81jIMNmfqSGQv3rhymQ,1749934811/streaming/ohotnikhd/324/1/tracks-v5a1/mono.m3u8
@@ -1136,7 +1136,7 @@ http://dmitry-tv.ddns.net/hls/CH_DW_ENGLISHHD.m3u8
 https://ucdn.beetv.kz/bpk-tv/000001496/tve/index.m3u8
 #EXTINF:-1 tvg-id="discovery-channel" tvg-name="Discovery Channel (резерв)" tvg-logo="http://epg.one/img/325.png" group-title="Познавательные", Discovery Channel (резерв)
 #EXTGRP:Познавательные
-http://65.21.85.175:8000/play/a02u/index.m3u8?token=livetv
+http://195.245.99.242/Discovery/playlist.m3u8
 #EXTINF:-1 tvg-name="Discovery Science UK" tvg-logo="http://epg.one/img/3067.png" group-title="Познавательные", Discovery Science UK
 #EXTGRP:Познавательные
 http://cord-cutter.net:8080/LeeAv21/AvantL12/53695
@@ -1181,7 +1181,7 @@ https://stream.maxssw.com/hhq/live/chunklist.m3u8
 https://ucdn.beetv.kz/bpk-tv/000001000/tve/index.m3u8
 #EXTINF:-1 tvg-id="history" tvg-name="History (резерв)" tvg-logo="http://epg.one/img/1394.png" group-title="Познавательные", History (резерв)
 #EXTGRP:Познавательные
-http://65.21.85.175:8000/play/a01s/index.m3u8?token=livetv
+http://95.67.12.81:10619
 #EXTINF:-1 tvg-id="h2" tvg-name="History 2" tvg-logo="http://epg.one/img/2356.png" group-title="Познавательные", History 2
 #EXTGRP:Познавательные
 http://95.67.12.81:10620?key=fas-tv.com
@@ -1499,7 +1499,7 @@ https://ucdn.beetv.kz/bpk-tv/000004582/tve/index.m3u8
 http://188.113.190.12/329/index.m3u8
 #EXTINF:-1 tvg-id="zee-tv" tvg-name="Индия" tvg-logo="http://epg.one/img/2233.png" group-title="Кино", Индия
 #EXTGRP:Кино
-http://65.21.85.175:8000/play/a01u/index.m3u8?token=livetv
+http://195.245.99.242/ZeeTV/playlist.m3u8
 #EXTINF:-1 tvg-id="kamedi" tvg-name="Камеди HD" tvg-logo="http://epg.one/img/2836.png" group-title="Кино", Камеди HD
 #EXTGRP:Кино
 https://mhd128.iptv2022.com/p/EMkP3o0b34AzHTOEus5LNg,1749934808/streaming/kamedi/324/1/tracks-v5a1/mono.m3u8
@@ -1530,7 +1530,7 @@ https://mhd128.iptv2022.com/p/z3jVV2UNJ2SLGSz41UlA9g,1749934809/streaming/kinoco
 https://mhd128.iptv2022.com/p/jbgHWXZ9RHC3U3YLc-Ox8A,1749934808/streaming/kinomix/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="kinopokaz" tvg-name="Кинопоказ" tvg-logo="http://epg.one/img/2834.png" group-title="Кино", Кинопоказ
 #EXTGRP:Кино
-http://65.21.85.175:8000/play/a02a/index.m3u8?token=livetv
+http://31.148.48.15/Kinopokaz/index.m3u8
 #EXTINF:-1 tvg-id="kinopremiera-hd" tvg-name="Кинопремьера" tvg-logo="http://epg.one/img/566.png" group-title="Кино", Кинопремьера
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000002864/tve/index.m3u8
@@ -1917,7 +1917,7 @@ https://mhd128.iptv2022.com/p/B4eSbdlY-fznMUuPPFnJjA,1749934816/streaming/footba
 https://mhd128.iptv2022.com/p/z9h0bCpNMuxfLVo20u0Mkg,1749934816/streaming/footbal3hd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="mir-basketbola" tvg-name="Мир Баскетбола" tvg-logo="http://epg.one/img/4629.png" group-title="Спорт", Мир Баскетбола
 #EXTGRP:Спорт
-http://65.21.85.175:8000/play/a00c/index.m3u8?token=livetv
+http://92.242.110.52:9835/udp/238.1.1.17:1234
 #EXTINF:-1 tvg-id="start" tvg-name="Старт" tvg-logo="http://epg.one/img/2530.png" group-title="Спорт", Старт
 #EXTGRP:Спорт
 http://sltv2.be:8080/DeNiSoNkEl/nPcCsz5hHn/510637
