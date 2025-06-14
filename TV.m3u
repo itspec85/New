@@ -869,7 +869,7 @@ http://178.212.71.253:8000/play/92/index.m3u8
 http://dumatv.iptv2022.com/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="ege-tv" tvg-name="ЕГЭ ТВ" tvg-logo="http://epg.one/img/2420.png" group-title="Познавательные", ЕГЭ ТВ
 #EXTGRP:Познавательные
-http://dmitry-tv.ddns.net/hls/CH_EGETV.m3u8
+http://dmi3y-tv.ru/hls/CH_EGETV.m3u8
 #EXTINF:-1 tvg-id="eda-hd-int" tvg-name="ЕДА Премиум" tvg-logo="http://epg.one/img/930.png" group-title="Познавательные", ЕДА Премиум
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000000588/tve/index.m3u8
@@ -944,7 +944,7 @@ http://195.26.83.96:7007/play/11/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000000286/tve/index.m3u8
 #EXTINF:-1 tvg-id="nadezhda" tvg-name="Надежда" tvg-logo="http://epg.one/img/1732.png" group-title="Познавательные", Надежда
 #EXTGRP:Познавательные
-http://dmitry-tv.ddns.net/hls/CH_NADEZHDAHD720.m3u8
+http://dmi3y-tv.ru/hls/CH_NADEZHDAHD720.m3u8
 #EXTINF:-1 tvg-id="narod-vsio-vidit" tvg-name="Народ Всё Видит" tvg-logo="https://iptvx.one/picons/narod-vsio-vidit.png" group-title="Познавательные", Народ Всё Видит
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000008614/tve/index.m3u8
@@ -1130,7 +1130,7 @@ https://ucdn.beetv.kz/bpk-tv/000000707/tve/index.m3u8
 http://95.67.12.82:9083
 #EXTINF:-1 tvg-id="deutsche-welle-eu" tvg-name="Deutsche Welle EN" tvg-logo="http://epg.one/img/8638.png" group-title="Познавательные", Deutsche Welle EN
 #EXTGRP:Познавательные
-http://dmitry-tv.ddns.net/hls/CH_DW_ENGLISHHD.m3u8
+http://dmi3y-tv.ru/hls/CH_DW_ENGLISHHD.m3u8
 #EXTINF:-1 tvg-id="discovery-channel" tvg-name="Discovery Channel" tvg-logo="http://epg.one/img/325.png" group-title="Познавательные", Discovery Channel
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000001496/tve/index.m3u8
@@ -1205,7 +1205,7 @@ http://95.67.12.82:9098
 https://s1.tv-nano.com/Luxury_rec/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="nano-hd" tvg-name="NANO TV" tvg-logo="http://epg.one/img/2428.png" group-title="Познавательные", NANO TV
 #EXTGRP:Познавательные
-http://dmitry-tv.ddns.net/hls/CH_NANOTVHD.m3u8
+http://dmi3y-tv.ru/hls/CH_NANOTVHD.m3u8
 #EXTINF:-1 tvg-id="nat-geo-wild" tvg-name="Nat Geo Wild" tvg-logo="http://epg.one/img/223.png" group-title="Познавательные", Nat Geo Wild
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000004474/tve/index.m3u8
@@ -1563,7 +1563,7 @@ https://ucdn.beetv.kz/bpk-tv/000004485/tve/index.m3u8
 http://141.95.55.143/CH231/index.m3u8
 #EXTINF:-1 tvg-name="Кошмар HD" tvg-logo="https://avatars.mds.yandex.net/i?id=c872d891d61f5db18c83c97bdf2e7df2b83df1a71091be81-12643871-images-thumbs&n=13" group-title="Кино", Кошмар HD
 #EXTGRP:Кино
-http://dmitry-tv.ddns.net/hls/CH_KOSHMAR.m3u8
+http://dmi3y-tv.ru/hls/CH_KOSHMAR.m3u8
 #EXTINF:-1 tvg-name="Любимое индийское кино" tvg-logo="https://tvapp.live/images/logo-channel/lyubimoe-indijskoe-kino-tv.png" group-title="Кино", Любимое индийское кино
 #EXTGRP:Кино
 http://autopilot.catcast.tv/content/41596/index.m3u8
@@ -1800,6 +1800,9 @@ http://92.53.64.197:5050/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 tvg-name="IPTVPLAY Promo" tvg-logo="https://i.ibb.co/0ccNSdV/image-16.png" group-title="Кино", IPTVPLAY Promo
 #EXTGRP:Кино
 http://92.53.64.197:5050/IPTVPLAYPROMO.tv/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 tvg-id="kino-24" tvg-name="Kino 24" tvg-logo="https://epgx.club/picons/kino-24.png" group-title="Кино", Kino 24
+#EXTGRP:Кино
+http://dmi3y-tv.ru/hls/CH_KINO24.m3u8
 #EXTINF:-1 tvg-id="kinoliving" tvg-name="KinoLiving" tvg-logo="http://epg.one/img/9123.png" group-title="Кино", KinoLiving
 #EXTGRP:Кино
 http://109.200.130.123:7537/play/a03k
@@ -3594,16 +3597,16 @@ https://restreamer.livetv.az/memfs/a6cecb21-e17c-4f32-8854-0b72d57211d8.m3u8
 
 #EXTINF:-1 tvg-id="belarus1" tvg-name="Беларусь 1 HD" tvg-logo="http://epg.one/img/2538.png" group-title="Беларусь", Беларусь 1 HD
 #EXTGRP:Беларусь
-http://dmitry-tv.ddns.net/hls/blrus/CH_BELARUS1HD.m3u8
+http://dmi3y-tv.ru/hls/blrus/CH_BELARUS1HD.m3u8
 #EXTINF:-1 tvg-id="belarus2" tvg-name="Беларусь 2 HD" tvg-logo="http://epg.one/img/2539.png" group-title="Беларусь", Беларусь 2 HD
 #EXTGRP:Беларусь
-http://dmitry-tv.ddns.net/hls/blrus/CH_BELARUS2HD.m3u8
+http://dmi3y-tv.ru/hls/blrus/CH_BELARUS2HD.m3u8
 #EXTINF:-1 tvg-id="belarus3" tvg-name="Беларусь 3 HD" tvg-logo="http://epg.one/img/2540.png" group-title="Беларусь", Беларусь 3 HD
 #EXTGRP:Беларусь
-http://dmitry-tv.ddns.net/hls/blrus/CH_BELARUS3HD.m3u8
+http://dmi3y-tv.ru/hls/blrus/CH_BELARUS3HD.m3u8
 #EXTINF:-1 tvg-id="belarus24" tvg-name="Беларусь 24" tvg-logo="http://epg.one/img/2170.png" group-title="Беларусь", Беларусь 24
 #EXTGRP:Беларусь
-http://dmitry-tv.ddns.net/hls/blrus/CH_BELARUS24HD.m3u8
+http://dmi3y-tv.ru/hls/blrus/CH_BELARUS24HD.m3u8
 #EXTINF:-1 tvg-id="tro" tvg-name="БелРос" tvg-logo="http://epg.one/img/2294.png" group-title="Беларусь", БелРос
 #EXTGRP:Беларусь
 https://live.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
@@ -3633,7 +3636,7 @@ http://176.107.219.20:9000/play/a009/index.m3u8
 http://95.46.208.8:24432/skif
 #EXTINF:-1 tvg-id="stv-by" tvg-name="СТВ" tvg-logo="http://epg.one/img/2543.png" group-title="Беларусь", СТВ
 #EXTGRP:Беларусь
-http://dmitry-tv.ddns.net/hls/blrus/CH_CTBHD720.m3u8
+http://dmi3y-tv.ru/hls/blrus/CH_CTBHD720.m3u8
 
 
 
