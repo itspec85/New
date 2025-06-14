@@ -815,7 +815,7 @@ https://ucdn.beetv.kz/bpk-tv/000001921/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000008877/tve/index.m3u8
 #EXTINF:-1 tvg-id="arsenaltv" tvg-name="Арсенал HD" tvg-logo="http://epg.one/img/2768.png" group-title="Познавательные", Арсенал HD
 #EXTGRP:Познавательные
-https://mhd128.iptv2022.com/p/UBn_JzTumLxyfj2TqfLnFg,1749934811/streaming/multikhd/324/1/tracks-v5a1/mono.m3u8
+http://178.217.72.66:8080/arsenalhd/index.m3u8
 #EXTINF:-1 tvg-id="bobior" tvg-name="Бобёр" tvg-logo="http://epg.one/img/2026.png" group-title="Познавательные", Бобёр
 #EXTGRP:Познавательные
 http://195.18.23.20:8000/play/1/index.m3u8
@@ -1897,6 +1897,9 @@ https://mhd128.iptv2022.com/p/828FSg0YRdsyQuTNgUsVUg,1749934815/streaming/boectv
 #EXTINF:-1 tvg-id="match-igra" tvg-name="Матч! Игра" tvg-logo="http://epg.one/img/2050.png" group-title="Спорт", Матч! Игра
 #EXTGRP:Спорт
 http://87.120.142.11:18000/Match!Igra
+#EXTINF:-1 tvg-id="match-igra" tvg-name="Матч! Игра" tvg-logo="http://epg.one/img/2050.png" group-title="Спорт", Матч! Игра HD
+#EXTGRP:Спорт
+http://178.217.72.66:8080/Match_Igra_HD/video.m3u8
 #EXTINF:-1 tvg-id="match-planeta" tvg-name="Матч! Планета" tvg-logo="http://epg.one/img/2043.png" group-title="Спорт", Матч! Планета
 #EXTGRP:Спорт
 https://ucdn.beetv.kz/bpk-tv/000001695/tve/index.m3u8
