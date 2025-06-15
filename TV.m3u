@@ -1558,9 +1558,6 @@ https://mhd128.iptv2022.com/p/bteCt5iwDp--LZQaM6Ctdg,1750021207/streaming/kinouj
 #EXTINF:-1 tvg-id="kinoxit" tvg-name="Кинохит" tvg-logo="http://epg.one/img/542.png" group-title="Кино", Кинохит
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000004485/tve/index.m3u8
-#EXTINF:-1 tvg-id="komedijnoe-hd" tvg-name="Комедийное HD" tvg-logo="http://epg.one/img/138.png" group-title="Кино", Комедийное HD
-#EXTGRP:Кино
-http://141.95.55.143/CH231/index.m3u8
 #EXTINF:-1 tvg-name="Кошмар HD" tvg-logo="https://avatars.mds.yandex.net/i?id=c872d891d61f5db18c83c97bdf2e7df2b83df1a71091be81-12643871-images-thumbs&n=13" group-title="Кино", Кошмар HD
 #EXTGRP:Кино
 http://dmi3y-tv.ru/hls/CH_KOSHMAR.m3u8
@@ -1599,9 +1596,6 @@ http://cdn.ntv.ru/th_serial/mono.m3u8
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=ntv
 http://cdn.ntv.ru/th_hit/mono.m3u8
-#EXTINF:-1 tvg-id="ostrosiuzhetnoe-hd" tvg-name="Остросюжетное HD" tvg-logo="http://epg.one/img/1588.png" group-title="Кино", Остросюжетное HD
-#EXTGRP:Кино
-http://141.95.55.143/CH547/index.m3u8
 #EXTINF:-1 tvg-id="patriot" tvg-name="Патриот" tvg-logo="https://epgx.club/picons/patriot.png" group-title="Кино", Патриот
 #EXTGRP:Кино
 http://catchup.videoline.ru/asvtv/index.m3u8
@@ -1666,9 +1660,6 @@ http://hls.goodgame.ru:8080/hls/208358.m3u8
 #EXTINF:-1 tvg-id="khit-hd" tvg-name="Хит HD" tvg-logo="http://epg.one/img/2833.png" group-title="Кино", Хит HD
 #EXTGRP:Кино
 https://mhd128.iptv2022.com/p/b9YdwPhiGhU4XMZ3JA2EVw,1750021208/streaming/hit/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-id="shokiruyushchee-hd" tvg-name="Шокирующее HD" tvg-logo="http://epg.one/img/2309.png" group-title="Кино", Шокирующее HD
-#EXTGRP:Кино
-http://141.95.55.143/CH229/index.m3u8
 #EXTINF:-1 tvg-id="sony-turbo" tvg-name=".black" tvg-logo="http://epg.one/img/935.png" group-title="Кино", .black
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000000520/tve/index.m3u8
