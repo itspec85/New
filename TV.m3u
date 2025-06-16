@@ -1933,6 +1933,9 @@ https://ucdn.beetv.kz/bpk-tv/000007802/tve/index.m3u8
 #EXTINF:-1 tvg-id="football-ru" tvg-name="Футбол" tvg-logo="http://epg.one/img/2782.png" group-title="Спорт", Футбол
 #EXTGRP:Спорт
 https://mhd128.iptv2022.com/p/v6kni_R7epVKEuJ8yw8q0A,1750107622/streaming/footbal/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-name="A21 Network" tvg-logo="https://a21network.ru/wp-content/uploads/2022/02/a21_live.jpg" group-title="Спорт", A21 Network
+#EXTGRP:Спорт
+https://autopilot.catcast.tv/content/37909/index.m3u8
 #EXTINF:-1 tvg-name="beIN Sports 1 HD TR" tvg-logo="http://epg.one/img/5092.png" group-title="Спорт", beIN Sports 1 HD TR
 #EXTGRP:Спорт
 http://brsmrt1611.xyz:2095/mhmt9949/Thr5R8NvGcU5/67538
