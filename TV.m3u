@@ -332,9 +332,6 @@ http://vgtrkregion-reg.cdnvideo.ru/vgtrk/9/russia1-hd/index.m3u8
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA24.m3u8
-#EXTINF:-1 tvg-id="rossia-24" tvg-name="Россия 24" tvg-logo="http://epg.one/img/1683.png" group-title="Россия", Россия 24 (резерв)
-#EXTGRP:Россия
-http://178.212.236.3:8802/play/m3_17
 #EXTINF:-1 tvg-id="kultura" tvg-shift="+1" tvg-name="Россия К -1" tvg-logo="http://epg.one/img/187.png" group-title="Россия", Россия К -1
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
