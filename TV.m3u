@@ -1527,10 +1527,10 @@ https://ucdn.beetv.kz/bpk-tv/000008490/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000005449/tve/index.m3u8
 #EXTINF:-1 tvg-id="kinokomedia" tvg-name="Кинокомедия" tvg-logo="http://epg.one/img/821.png" group-title="Кино", Кинокомедия
 #EXTGRP:Кино
-https://mhd128.iptv2022.com/p/2xKh4Nd4UGgWE6b_va07gQ,1750194008/streaming/kinocomedia/324/1/tracks-v5a1/mono.m3u8
+http://178.124.193.53:8181/play/1170/index.m3u8
 #EXTINF:-1 tvg-id="kinomiks" tvg-name="Киномикс" tvg-logo="http://epg.one/img/644.png" group-title="Кино", Киномикс
 #EXTGRP:Кино
-https://mhd128.iptv2022.com/p/k8oIhdH27OY5ik2oW-CHrA,1750194007/streaming/kinomix/324/1/tracks-v5a1/mono.m3u8
+http://178.124.193.53:8181/play/1167/index.m3u8
 #EXTINF:-1 tvg-id="kinopokaz" tvg-name="Кинопоказ" tvg-logo="http://epg.one/img/2834.png" group-title="Кино", Кинопоказ
 #EXTGRP:Кино
 http://31.148.48.15/Kinopokaz/index.m3u8
@@ -1545,7 +1545,7 @@ https://ucdn.beetv.kz/bpk-tv/000009132/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000003871/tve/index.m3u8
 #EXTINF:-1 tvg-id="kinosvidanie" tvg-name="Киносвидание" tvg-logo="http://epg.one/img/462.png" group-title="Кино", Киносвидание
 #EXTGRP:Кино
-https://mhd128.iptv2022.com/p/6BISAJxoIYZw6k7jMKpvKQ,1750194006/streaming/film-watching/324/1/tracks-v5a1/mono.m3u8
+http://178.217.72.66:8080/Kinosvidanie/index.m3u8
 #EXTINF:-1 tvg-id="kinosemiya" tvg-name="Киносемья" tvg-logo="http://epg.one/img/987.png" group-title="Кино", Киносемья
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000004633/tve/index.m3u8
