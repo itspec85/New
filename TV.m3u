@@ -436,7 +436,7 @@ http://dmi3y-tv.ru/hls/zabava/CH_SUBBOTA-1.m3u8
 http://dmi3y-tv.ru/hls/zabava/CH_SUBBOTA.m3u8
 #EXTINF:-1 tvg-id="super" tvg-name="Суббота HD" tvg-logo="http://epg.one/img/2288.png" group-title="Россия", Суббота HD
 #EXTGRP:Россия
-http://river-1.rutube.ru/stream/genetta-319.m9.rutube.ru/uvKcCcfY6g72xSy43c4RIQ/1750690588/310744c10a5809da38aa445c952976da/1080p_stream.m3u8
+http://river-1.rutube.ru/stream/genetta-320.m9.rutube.ru/fK34LxnNwzh6EVyOmIT2XQ/1751015051/310744c10a5809da38aa445c952976da/1080p_stream.m3u8
 #EXTINF:-1 tvg-id="super" tvg-shift="-2" tvg-name="Суббота +2" tvg-logo="http://epg.one/img/7976.png" group-title="Россия", Суббота +2
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -1919,7 +1919,7 @@ https://mhd128.iptv2022.com/p/sJz3X0lloEyw8xk5zujlIw,1750539613/streaming/footba
 https://mhd128.iptv2022.com/p/yO5fzbaoHDQbhlgussTGrw,1750539613/streaming/footbal3hd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="mir-basketbola" tvg-name="Мир Баскетбола" tvg-logo="http://epg.one/img/4629.png" group-title="Спорт", Мир Баскетбола
 #EXTGRP:Спорт
-http://api.peers.tv/timeshift/mir_basketbola/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTAzMTYyNzMsImlhdCI6MTc1MDIyOTg3MywiY2lkIjo2LCJ1aWQiOjkyNDUzMjcxNywicmVnIjpmYWxzZSwiaXAiOjE1ODU2NzQ1NTksImFkdWx0IjpmYWxzZX0.-QUYPRADbNNumvWdomPZ5Vb11OwSl_lcro1cLNsYvn0&offset=10
+http://api.peers.tv/timeshift/mir_basketbola/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTA1MDI3ODAsImlhdCI6MTc1MDQxNjM4MCwiY2lkIjo2LCJ1aWQiOjkyNDk1NjQ3MCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.2gnj8wXsEfZ-sYffR1Ls7eaoGGwjCIf6Nf6mLycxbUo&offset=3
 #EXTINF:-1 tvg-id="start" tvg-name="Старт" tvg-logo="http://epg.one/img/2530.png" group-title="Спорт", Старт
 #EXTGRP:Спорт
 http://sltv2.be:8080/DeNiSoNkEl/nPcCsz5hHn/510637
