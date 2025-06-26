@@ -1618,7 +1618,7 @@ EXTVLCOPT:http-user-agent=Donate
 http://31.148.48.15/Russkiy_Bestseller/index.m3u8
 #EXTINF:-1 tvg-id="russky-detektiv" tvg-name="Русский детектив" tvg-logo="http://epg.one/img/1570.png" group-title="Кино", Русский детектив
 #EXTGRP:Кино
-http://178.212.71.253:8000/play/45/index.m3u8
+http://195.245.99.242/Detectiv/playlist.m3u8
 #EXTINF:-1 tvg-id="russky-illuzion" tvg-name="Русский иллюзион" tvg-logo="http://epg.one/img/53.png" group-title="Кино", Русский иллюзион
 #EXTGRP:Кино
 http://195.26.83.96:7006/play/a00y/index.m3u8
@@ -1742,7 +1742,7 @@ http://hls.goodgame.ru:8080/hls/163253.m3u8
 http://hls.goodgame.ru/hls/208358.m3u8
 #EXTINF:-1 tvg-id="filmbox-ru" tvg-name="FilmBox" tvg-logo="http://epg.one/img/2181.png" group-title="Кино", FilmBox
 #EXTGRP:Кино
-http://45.143.108.110:2200/FilmBOX
+http://213.169.39.30:5009
 #EXTINF:-1 tvg-id="filmbox-arthouse" tvg-name="Filmbox Arthouse" tvg-logo="http://epg.one/img/2182.png" group-title="Кино", Filmbox Arthouse
 #EXTGRP:Кино
 http://iptv.prosto.tv:7000/ch63/video.m3u8
@@ -1764,7 +1764,7 @@ https://ucdn.beetv.kz/bpk-tv/000004472/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000004471/tve/index.m3u8
 #EXTINF:-1 tvg-id="hollywood" tvg-name="Hollywood" tvg-logo="http://epg.one/img/608.png" group-title="Кино", Hollywood
 #EXTGRP:Кино
-http://109.200.130.123:7537/play/a03g
+http://31.173.165.29:8000/play/a055/index.m3u8
 #EXTINF:-1 tvg-id="hollywood-hd" tvg-name="Hollywood HD" tvg-logo="http://epg.one/img/934.png" group-title="Кино", Hollywood HD
 #EXTGRP:Кино
 http://sltv2.be:8080/DeNiSoNkEl/nPcCsz5hHn/550106
@@ -1792,9 +1792,6 @@ http://92.53.64.197:5050/IPTVPLAYPROMO.tv/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 tvg-id="kino-24" tvg-name="Kino 24" tvg-logo="https://epgx.club/picons/kino-24.png" group-title="Кино", Kino 24
 #EXTGRP:Кино
 http://dmi3y-tv.ru/hls/CH_KINO24.m3u8
-#EXTINF:-1 tvg-id="kinoliving" tvg-name="KinoLiving" tvg-logo="http://epg.one/img/9123.png" group-title="Кино", KinoLiving
-#EXTGRP:Кино
-http://109.200.130.123:7537/play/a03k
 #EXTINF:-1 tvg-id="plan-b" tvg-name="Plan B HD" tvg-logo="http://epg.one/img/6643.png" group-title="Кино", Plan B HD
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000007625/tve/index.m3u8
