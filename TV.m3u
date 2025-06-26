@@ -983,7 +983,7 @@ https://ucdn.beetv.kz/bpk-tv/000000308/tve/index.m3u8
 http://195.245.99.242/Ohota_i_ribalka/playlist.m3u8
 #EXTINF:-1 tvg-id="oxotnik-i-rybolov" tvg-name="Охотник и рыболов" tvg-logo="http://epg.one/img/1681.png" group-title="Познавательные", Охотник и рыболов
 #EXTGRP:Познавательные
-https://mhd128.iptv2022.com/p/xZrQVQZ3x3Lv0e37k2cOQQ,1750971611/streaming/ohotnikhd/324/1/tracks-v5a1/mono.m3u8
+http://80.245.95.243:8888/play/a00y/index.m3u8
 #EXTINF:-1 tvg-name="Первый медицинский канал" tvg-logo="https://avatars.mds.yandex.net/i?id=9494f3a37664c7da5f8f894e7169af2497116e6e-10767708-images-thumbs&n=13" group-title="Познавательные", Первый медицинский канал
 #EXTGRP:Познавательные
 https://rq3qltxnbx1.a.trbcdn.net/livemaster/8hwxnq4s0v_efir0_tcode1080p/playlist.m3u8
@@ -1815,6 +1815,12 @@ http://195.9.195.3:8080/hls/186021.m3u8
 #EXTINF:-1 tvg-id="shot-tv" tvg-name="SHOT TV" tvg-logo="http://epg.one/img/431.png" group-title="Кино", SHOT TV
 #EXTGRP:Кино
 http://sltv2.be:8080/DeNiSoNkEl/nPcCsz5hHn/550120
+#EXTINF:-1 tvg-id="star-cinema" tvg-name="Star Cinema Россия HD" tvg-logo="http://epg.one/img/3328.png" group-title="Кино", Star Cinema Россия HD
+#EXTGRP:Кино
+http://80.245.95.243:8888/play/a02f/index.m3u8
+#EXTINF:-1 tvg-id="star-family" tvg-name="Star Family Россия HD" tvg-logo="http://epg.one/img/9162.png" group-title="Кино", Star Family Россия HD
+#EXTGRP:Кино
+http://80.245.95.243:8888/play/a00e/index.m3u8
 #EXTINF:-1 tvg-id="start-air" tvg-name="START Air" tvg-logo="http://epg.one/img/6241.png" group-title="Кино", START Air
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000007815/tve/index.m3u8
