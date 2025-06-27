@@ -1080,24 +1080,12 @@ http://194.158.218.123:8880/Usadba/index.m3u8
 #EXTINF:-1 tvg-id="centralnoye-tv" tvg-name="Центральное телевидение" tvg-logo="http://epg.one/img/2400.png" group-title="Познавательные", Центральное телевидение
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000001880/tve/index.m3u8
-#EXTINF:-1 tvg-name="Что? Где? Когда?" tvg-logo="https://avatars.mds.yandex.net/i?id=9ff2b07eabc425c0fdfbb2e0cef9cd22d8bf948a-12569903-images-thumbs&n=13" group-title="Познавательные", Что? Где? Когда?
-#EXTGRP:Познавательные
-#EXTVLCOPT:http-user-agent=goodgame
-http://hlss.goodgame.ru/hls/192005.m3u8
 #EXTINF:-1 tvg-id="2na2" tvg-name="2x2" tvg-logo="http://epg.one/img/323.png" group-title="Познавательные", 2x2
 #EXTGRP:Познавательные
 http://31.148.48.15/2x2/index.m3u8
 #EXTINF:-1 tvg-name="555 Hunt Fishing TV" tvg-logo="https://avatars.mds.yandex.net/i?id=635b73799daf216d5519050021039012e1e8254f-10349168-images-thumbs&n=13" group-title="Познавательные", 555 Hunt Fishing TV
 #EXTGRP:Познавательные
 http://193.169.178.29:8081/podsekaiTV/chanelHD1080/playlist.m3u8
-#EXTINF:-1 tvg-name="alpha Funny" tvg-logo="https://avatars.mds.yandex.net/i?id=ccbf053705ab60b7de2d55e3dc58fa5cd9dc3abd-10752752-images-thumbs&n=13" group-title="Познавательные", alpha Funny
-#EXTGRP:Познавательные
-#EXTVLCOPT:http-user-agent=goodgame
-http://hls.goodgame.ru/hls/206963.m3u8
-#EXTINF:-1 tvg-name="alpha Games" tvg-logo="https://avatars.mds.yandex.net/i?id=ccbf053705ab60b7de2d55e3dc58fa5cd9dc3abd-10752752-images-thumbs&n=13" group-title="Познавательные", alpha Games
-#EXTGRP:Познавательные
-#EXTVLCOPT:http-user-agent=goodgame
-http://hls.goodgame.ru/hls/205115.m3u8
 #EXTINF:-1 tvg-id="animal-planet-eu" tvg-name="Animal Planet" tvg-logo="http://epg.one/img/365.png" group-title="Познавательные", Animal Planet
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000000216/tve/index.m3u8
@@ -1435,9 +1423,6 @@ https://ucdn.beetv.kz/bpk-tv/000000333/tve/index.m3u8
 #EXTINF:-1 tvg-id="gulli-girl" tvg-name="Gulli" tvg-logo="http://epg.one/img/810.png" group-title="Детские", Gulli
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000000284/tve/index.m3u8
-#EXTINF:-1 tvg-name="IPTVPLAY МультСказки" tvg-logo="https://i.ibb.co/0ccNSdV/image-16.png" group-title="Детские", IPTVPLAY МультСказки
-#EXTGRP:Детские
-http://92.53.64.197:5050/IPTVPLAYMultSkazki.tv/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 tvg-id="kidstv" tvg-name="Kids TV HD" tvg-logo="http://epg.one/img/9025.png" group-title="Детские", Kids TV HD
 #EXTGRP:Детские
 http://origin5.mediacdn.ru/live/kidstv/index.m3u8
@@ -1468,10 +1453,6 @@ https://132544.edgevideo.ru/streams/132544_806129/1325441080/index.m3u8
 #EXTINF:-1 tvg-name="Видеокассета Киномир" tvg-logo="http://epg.one/img/6005.png" group-title="Кино", Видеокассета Киномир
 #EXTGRP:Кино
 https://132544.edgevideo.ru/streams/132544_847220/1325441080/index.m3u8
-#EXTINF:-1 tvg-name="Восход ТВ" tvg-logo="https://avatars.mds.yandex.net/i?id=50ffadc5995694dc086fd1d3724a6bde0e3d19c2-9599837-images-thumbs&n=13" group-title="Кино", Восход ТВ
-#EXTGRP:Кино
-#EXTVLCOPT:http-user-agent=goodgame
-https://hls.goodgame.ru/manifest/202997_master.m3u8
 #EXTINF:-1 tvg-id="denpobedy" tvg-name="День Победы HD" tvg-logo="http://epg.one/img/2773.png" group-title="Кино", День Победы HD
 #EXTGRP:Кино
 https://mhd128.iptv2022.com/p/Cjam07OjiYl8_cphpBLwBg,1750971608/streaming/den-pobedi/324/1/tracks-v5a1/mono.m3u8
@@ -1508,10 +1489,6 @@ http://dmi3y-tv.ru/hls/CH_KINO1_INT.m3u8
 #EXTINF:-1 tvg-id="kino-tv" tvg-name="Кино ТВ" tvg-logo="http://epg.one/img/1037.png" group-title="Кино", Кино ТВ
 #EXTGRP:Кино
 http://vod.tuva.ru/kinotv/index.m3u8
-#EXTINF:-1 tvg-name="Кино Jam" tvg-logo="https://avatars.mds.yandex.net/i?id=cd369b0b05b230b27b4a16f0a83b4cbcc723ec20-5219947-images-thumbs&n=13" group-title="Кино", Кино Jam
-#EXTGRP:Кино
-#EXTVLCOPT:http-user-agent=goodgame
-http://hls.goodgame.ru/hls/210182.m3u8
 #EXTINF:-1 tvg-id="kinoboevik-kz" tvg-name="Кинобоевик KZ" tvg-logo="https://iptvx.one/picons/kinoboevik-kz.png" group-title="Кино", Кинобоевик KZ
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000008490/tve/index.m3u8
@@ -1554,9 +1531,6 @@ https://mhd128.iptv2022.com/p/MTPJCaYDcAcVQ8BlSDUf0g,1750971607/streaming/kinouj
 #EXTINF:-1 tvg-id="kinoxit" tvg-name="Кинохит" tvg-logo="http://epg.one/img/542.png" group-title="Кино", Кинохит
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000004485/tve/index.m3u8
-#EXTINF:-1 tvg-name="Кошмар HD" tvg-logo="https://avatars.mds.yandex.net/i?id=c872d891d61f5db18c83c97bdf2e7df2b83df1a71091be81-12643871-images-thumbs&n=13" group-title="Кино", Кошмар HD
-#EXTGRP:Кино
-https://ix.goodgame.ru/hls/204709.m3u8?expires=1751081368&token=bNKrLDdsex2uYSmSrGzyrQ
 #EXTINF:-1 tvg-id="lubimoe-kino" tvg-name="Любимое кино" tvg-logo="http://epg.one/img/477.png" group-title="Кино", Любимое кино
 #EXTGRP:Кино
 http://213.91.178.133:8000/play/a0af
@@ -1661,10 +1635,6 @@ http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 tvg-id="feniks-plus-kino" tvg-name="Феникс плюс Кино" tvg-logo="http://epg.one/img/2404.png" group-title="Кино", Феникс плюс Кино
 #EXTGRP:Кино
 http://158.101.222.193:88/georgia_play.php?id=fenikspluskino
-#EXTINF:-1 tvg-name="Фильм" tvg-logo="https://avatars.mds.yandex.net/i?id=f03cf2993d5ccec848d5139a747d9ad7134a0936-13104710-images-thumbs&n=13" group-title="Кино", Фильм
-#EXTGRP:Кино
-#EXTVLCOPT:http-user-agent=goodgame
-http://hls.goodgame.ru:8080/hls/208358.m3u8
 #EXTINF:-1 tvg-id="khit-hd" tvg-name="Хит HD" tvg-logo="http://epg.one/img/2833.png" group-title="Кино", Хит HD
 #EXTGRP:Кино
 https://mhd128.iptv2022.com/p/Uhrv7SUoGoJzb0eCU0xjMQ,1750971607/streaming/hit/324/1/tracks-v5a1/mono.m3u8
@@ -1677,26 +1647,6 @@ http://178.124.152.238:8088/sony
 #EXTINF:-1 tvg-id="sony-scifi" tvg-name=".sci-fi" tvg-logo="http://epg.one/img/516.png" group-title="Кино", .sci-fi
 #EXTGRP:Кино
 http://radio.tvs.by:8088/Sci-Fi/index.m3u8
-#EXTINF:-1 tvg-name="1FILMAX" tvg-logo="https://online-tv.live/images/1filmax.png" group-title="Кино", 1FILMAX
-#EXTGRP:Кино
-#EXTVLCOPT:http-user-agent=goodgame
-https://ix.goodgame.ru/hls/204708.m3u8?expires=1751081254&token=FGGYKq9UysybV6UMlmf3JQ
-#EXTINF:-1 tvg-name="2FILMAX" tvg-logo="https://online-tv.live/images/2filmax.png" group-title="Кино", 2FILMAX
-#EXTGRP:Кино
-#EXTVLCOPT:http-user-agent=goodgame
-https://hls.goodgame.ru/hls/204717.m3u8
-#EXTINF:-1 tvg-name="Akudji TV" tvg-logo="http://epg.one/img/5357.png" group-title="Кино", Akudji TV
-#EXTGRP:Кино
-#EXTVLCOPT:http-user-agent=goodgame
-https://lx.goodgame.ru/hls/5346.m3u8
-#EXTINF:-1 tvg-name="alpha Cinema" tvg-logo="https://avatars.mds.yandex.net/i?id=ccbf053705ab60b7de2d55e3dc58fa5cd9dc3abd-10752752-images-thumbs&n=13" group-title="Кино", alpha Cinema
-#EXTGRP:Кино
-#EXTVLCOPT:http-user-agent=goodgame
-http://hls.goodgame.ru/hls/205072.m3u8
-#EXTINF:-1 tvg-name="alpha Moretime" tvg-logo="https://avatars.mds.yandex.net/i?id=ccbf053705ab60b7de2d55e3dc58fa5cd9dc3abd-10752752-images-thumbs&n=13" group-title="Кино", alpha Moretime
-#EXTGRP:Кино
-#EXTVLCOPT:http-user-agent=goodgame
-http://hls.goodgame.ru/hls/205116.m3u8
 #EXTINF:-1 tvg-id="amedia1" tvg-name="Amedia 1" tvg-logo="http://epg.one/img/1371.png" group-title="Кино", Amedia 1
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000000710/tve/index.m3u8
@@ -1721,25 +1671,9 @@ http://178.124.152.238:8088/cinema
 #EXTINF:-1 tvg-id="paramount-comedy" tvg-name="Comedy Central" tvg-logo="http://epg.one/img/920.png" group-title="Кино", Comedy Central
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000000452/tve/index.m3u8
-#EXTINF:-1 tvg-name="Dimpon HD" tvg-logo="https://static.goodgame.ru/files/avatars/av_1643154_P8Jo.jpg" group-title="Кино", Dimpon HD
-#EXTGRP:Кино
-#EXTVLCOPT:http-user-agent=goodgame
-http://hls.goodgame.ru:8080/hls/210470.m3u8
 #EXTINF:-1 tvg-id="fanhd" tvg-name="FAN" tvg-logo="http://epg.one/img/2359.png" group-title="Кино", FAN
 #EXTGRP:Кино
 http://31.148.48.15/Fan/index.m3u8
-#EXTINF:-1 tvg-name="Fantom" tvg-logo="https://i.ibb.co/688SVFy/image-38.png" group-title="Кино", Fantom
-#EXTGRP:Кино
-#EXTVLCOPT:http-user-agent=goodgame
-https://hls.goodgame.ru/hls/204722.m3u8
-#EXTINF:-1 tvg-name="Film TV 1" tvg-logo="https://avatars.mds.yandex.net/i?id=8fc544dbc6ff0f253f65172b5dff52083662bdd2-9181395-images-thumbs&n=13" group-title="Кино", Film TV 1
-#EXTGRP:Кино
-#EXTVLCOPT:http-user-agent=goodgame
-http://hls.goodgame.ru:8080/hls/163253.m3u8
-#EXTINF:-1 tvg-name="Film TV 2" tvg-logo="https://avatars.mds.yandex.net/i?id=8fc544dbc6ff0f253f65172b5dff52083662bdd2-9181395-images-thumbs&n=13" group-title="Кино", Film TV 2
-#EXTGRP:Кино
-#EXTVLCOPT:http-user-agent=goodgame
-http://hls.goodgame.ru/hls/208358.m3u8
 #EXTINF:-1 tvg-id="filmbox-ru" tvg-name="FilmBox" tvg-logo="http://epg.one/img/2181.png" group-title="Кино", FilmBox
 #EXTGRP:Кино
 http://213.169.39.30:5009
@@ -1752,10 +1686,6 @@ https://ucdn.beetv.kz/bpk-tv/000003028/tve/index.m3u8
 #EXTINF:-1 tvg-id="flixsnip" tvg-name="Flix Snip" tvg-logo="http://epg.one/img/774.png" group-title="Кино", Flix Snip
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000004466/tve/index.m3u8
-#EXTINF:-1 tvg-name="FMC" tvg-logo="https://avatars.mds.yandex.net/i?id=7ce9af68e8ddc0bf9afa39db33172d1e40297488-7097242-images-thumbs&n=13" group-title="Кино", FMC
-#EXTGRP:Кино
-#EXTVLCOPT:http-user-agent=goodgame
-https://hls.goodgame.ru/hls/187741.m3u8
 #EXTINF:-1 tvg-id="fox" tvg-name="FX" tvg-logo="http://epg.one/img/1031.png" group-title="Кино", FX
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000004472/tve/index.m3u8
@@ -1771,24 +1701,6 @@ http://sltv2.be:8080/DeNiSoNkEl/nPcCsz5hHn/550106
 #EXTINF:-1 tvg-name="Horror TV" tvg-logo="http://epg.one/img/8792.png" group-title="Кино", Horror TV
 #EXTGRP:Кино
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/93dc292b-cbcf-4988-ab97-94feced4c14b/manifest.m3u8
-#EXTINF:-1 tvg-name="IPTVPLAY Ведьмак" tvg-logo="https://i.ibb.co/0ccNSdV/image-16.png" group-title="Кино", IPTVPLAY Ведьмак
-#EXTGRP:Кино
-http://92.53.64.197:5050/IPTVPLAYVEDMAK.tv/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 tvg-name="IPTVPLAY Десятое Королевство" tvg-logo="https://i.ibb.co/0ccNSdV/image-16.png" group-title="Кино", IPTVPLAY Десятое Королевство
-#EXTGRP:Кино
-http://92.53.64.197:5050/IPTVPLAY10KOROLEVSTVO.tv/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 tvg-name="IPTVPLAY Память" tvg-logo="https://i.ibb.co/0ccNSdV/image-16.png" group-title="Кино", IPTVPLAY Память
-#EXTGRP:Кино
-http://92.53.64.197:5050/IPTVPLAYPAMYAT.tv/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 tvg-name="IPTVPLAY Ужастик" tvg-logo="https://i.ibb.co/0ccNSdV/image-16.png" group-title="Кино", IPTVPLAY Ужастик
-#EXTGRP:Кино
-http://92.53.64.197:5050/IPTVPLAYUZHASTIK.tv/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 tvg-name="IPTVPLAY Фантастика" tvg-logo="https://i.ibb.co/0ccNSdV/image-16.png" group-title="Кино", IPTVPLAY Фантастика
-#EXTGRP:Кино
-http://92.53.64.197:5050/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 tvg-name="IPTVPLAY Promo" tvg-logo="https://i.ibb.co/0ccNSdV/image-16.png" group-title="Кино", IPTVPLAY Promo
-#EXTGRP:Кино
-http://92.53.64.197:5050/IPTVPLAYPROMO.tv/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 tvg-id="kino-24" tvg-name="Kino 24" tvg-logo="https://epgx.club/picons/kino-24.png" group-title="Кино", Kino 24
 #EXTGRP:Кино
 http://dmi3y-tv.ru/hls/CH_KINO24.m3u8
@@ -1798,13 +1710,6 @@ https://ucdn.beetv.kz/bpk-tv/000007625/tve/index.m3u8
 #EXTINF:-1 tvg-id="romance" tvg-name="Romance HD" tvg-logo="http://epg.one/img/9179.png" group-title="Кино", Romance HD
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000008780/tve/index.m3u8
-#EXTINF:-1 tvg-name="Runepi" tvg-logo="https://static.goodgame.ru/files/avatars/av_avatar_hum.png" group-title="Кино", Runepi
-#EXTGRP:Кино
-#EXTVLCOPT:http-user-agent=goodgame
-http://hls.goodgame.ru/hls/210953.m3u8
-#EXTINF:-1 tvg-name="Series TV" tvg-logo="https://avatars.mds.yandex.net/i?id=04d6781ecc0a36ff573e7e5a4e52cae96dca66d9-9149104-images-thumbs&n=13" group-title="Кино", Series TV
-#EXTGRP:Кино
-http://195.9.195.3:8080/hls/186021.m3u8
 #EXTINF:-1 tvg-id="shot-tv" tvg-name="SHOT TV" tvg-logo="http://epg.one/img/431.png" group-title="Кино", SHOT TV
 #EXTGRP:Кино
 http://sltv2.be:8080/DeNiSoNkEl/nPcCsz5hHn/550120
@@ -1823,7 +1728,7 @@ https://ucdn.beetv.kz/bpk-tv/000007818/tve/index.m3u8
 #EXTINF:-1 tvg-id="suspense" tvg-name="Suspense HD" tvg-logo="http://epg.one/img/9180.png" group-title="Кино", Suspense HD
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000008739/tve/index.m3u8
-#EXTINF:-1 tvg-id="timeless-dizi" tvg-name="Timeless Dizi Channel" tvg-logo="http://epg.one/img/6724.png" group-title="Кино", Timeless Dizi Channel
+#EXTINF:-1 tvg-id="timeless-dizi" tvg-name="Timeless Dizi annel" tvg-logo="http://epg.one/img/6724.png" group-title="Кино", Timeless Dizi Channel
 #EXTGRP:Кино
 http://193.27.209.122/dizi/index.m3u8
 #EXTINF:-1 tvg-id="tv1000" tvg-name="Viju TV1000" tvg-logo="http://epg.one/img/127.png" group-title="Кино", Viju TV1000
@@ -2372,10 +2277,6 @@ https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="QMusic" tvg-logo="https://qmusic.nl/assets/qmusic-a1d81a5f88375b3c5507cbc0b064ce1fc8778a076a245bddfd4f2a3e2417c330.png" group-title="Музыка", QMusic
 #EXTGRP:Музыка
 https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
-#EXTINF:-1 tvg-id="retro-music-cz" tvg-name="Retro Music" tvg-logo="http://epg.one/img/5380.png" group-title="Музыка", Retro Music
-#EXTGRP:Музыка
-#EXTVLCOPT:http-user-agent=goodgame
-http://hls.goodgame.ru/hls/206244.m3u8
 #EXTINF:-1 tvg-name="Retro TV" tvg-logo="http://epg.one/img/5380.png" group-title="Музыка", Retro TV
 #EXTGRP:Музыка
 https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist.m3u8
