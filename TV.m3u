@@ -1556,7 +1556,7 @@ https://mhd128.iptv2022.com/p/MTPJCaYDcAcVQ8BlSDUf0g,1750971607/streaming/kinouj
 https://ucdn.beetv.kz/bpk-tv/000004485/tve/index.m3u8
 #EXTINF:-1 tvg-name="Кошмар HD" tvg-logo="https://avatars.mds.yandex.net/i?id=c872d891d61f5db18c83c97bdf2e7df2b83df1a71091be81-12643871-images-thumbs&n=13" group-title="Кино", Кошмар HD
 #EXTGRP:Кино
-http://dmi3y-tv.ru/hls/CH_KOSHMAR.m3u8
+https://ix.goodgame.ru/hls/204709.m3u8?expires=1751081368&token=bNKrLDdsex2uYSmSrGzyrQ
 #EXTINF:-1 tvg-id="lubimoe-kino" tvg-name="Любимое кино" tvg-logo="http://epg.one/img/477.png" group-title="Кино", Любимое кино
 #EXTGRP:Кино
 http://213.91.178.133:8000/play/a0af
@@ -1680,7 +1680,7 @@ http://radio.tvs.by:8088/Sci-Fi/index.m3u8
 #EXTINF:-1 tvg-name="1FILMAX" tvg-logo="https://online-tv.live/images/1filmax.png" group-title="Кино", 1FILMAX
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=goodgame
-https://hls.goodgame.ru/hls/204708_720.m3u8
+https://ix.goodgame.ru/hls/204708.m3u8?expires=1751081254&token=FGGYKq9UysybV6UMlmf3JQ
 #EXTINF:-1 tvg-name="2FILMAX" tvg-logo="https://online-tv.live/images/2filmax.png" group-title="Кино", 2FILMAX
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=goodgame
@@ -1688,7 +1688,7 @@ https://hls.goodgame.ru/hls/204717.m3u8
 #EXTINF:-1 tvg-name="Akudji TV" tvg-logo="http://epg.one/img/5357.png" group-title="Кино", Akudji TV
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=goodgame
-https://hls.goodgame.ru/hls/5346.m3u8
+https://lx.goodgame.ru/hls/5346.m3u8
 #EXTINF:-1 tvg-name="alpha Cinema" tvg-logo="https://avatars.mds.yandex.net/i?id=ccbf053705ab60b7de2d55e3dc58fa5cd9dc3abd-10752752-images-thumbs&n=13" group-title="Кино", alpha Cinema
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=goodgame
