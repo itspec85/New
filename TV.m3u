@@ -3710,9 +3710,7 @@ https://iptv.itv.uz/hls/live/t/UAcSEExX5UamlFqFOIaXIA/e/1767191403/4000/index.m3
 #EXTINF:-1 tvg-name="iTV Music UZ" tvg-logo="http://epg.one/img/7920.png" group-title="Узбекистан", iTV Music UZ
 #EXTGRP:Узбекистан
 https://iptv.itv.uz/hls/live/t/IDvfbmZ5Ibmqs0plMhNejg/e/1767191403/4001/index.m3u8
-#EXTINF:-1 tvg-name="Kinoteatr" tvg-logo="http://epg.one/img/2652.png" group-title="Узбекистан", Kinoteatr
-#EXTGRP:Узбекистан
-#EXTINF:-1 tvg-name="My5 UZ" tvg-logo="http://epg.one/img/7928.png" group-title="Узбекистан", My5 UZ
+#EXTINF:-1 tvg-name="My5 UZ International" tvg-logo="http://epg.one/img/7928.png" group-title="Узбекистан", My5 UZ International
 #EXTGRP:Узбекистан
 https://st.my5.media/hls/fullhd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Ozbekiston 24 HD UZ" tvg-logo="http://epg.one/img/7931.png" group-title="Узбекистан", Ozbekiston 24 HD UZ
@@ -3747,7 +3745,8 @@ https://vod.splay.uz/live_splay/original/Dunyoboylab_HD/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="O'zbekiston tarixi" tvg-logo="http://epg.one/img/7931.png" group-title="Узбекистан", O'zbekiston tarixi
 #EXTGRP:Узбекистан
 https://vod.splay.uz/live_splay/original/Uzbekiston-TarixiHD/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="Kinoteatr" tvg-logo="http://epg.one/img/7931.png" group-title="Узбекистан", Kinoteatr
+
+#EXTINF:-1 tvg-name="Kinoteatr" tvg-logo="http://epg.one/img/2652.png" group-title="Узбекистан", Kinoteatr
 #EXTGRP:Узбекистан
 https://vod.splay.uz/live_splay/original/Kinoteatr_HD/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Navo" tvg-logo="http://epg.one/img/7931.png" group-title="Узбекистан", Navo
@@ -3763,15 +3762,42 @@ https://vod.splay.uz/live_splay/original/Bolajon/tracks-v1a1/mono.ts.m3u8
 #EXTGRP:Узбекистан
 https://vod.splay.uz/live_splay/original/Sport-UZ/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Futbol TV" tvg-logo="http://epg.one/img/7931.png" group-title="Узбекистан", Futbol TV
-#EXTGRP:УзбекEXTGRP:Узбекистанистан
+#EXTGRP:Узбекистан
 https://vod.splay.uz/live_splay/original/FutbolTV/tracks-v1a1/mono.ts.m3u8
-
+#EXTINF:-1 tvg-name="FTV" tvg-logo="http://epg.one/img/7931.png" group-title="Узбекистан", FTV
+#EXTGRP:Узбекистан
 https://vod.splay.uz/live_splay/original/FTVHD/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="Муз ТВ O'zbekiston" tvg-logo="http://epg.one/img/7931.png" group-title="Узбекистан", Муз ТВ O'zbekiston
+#EXTGRP:Узбекистан
+https://vod.splay.uz/live_splay/original/Muz_TV/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="Zo'r TV HD" tvg-logo="http://epg.one/img/7931.png" group-title="Узбекистан", Zo'r TV HD
+#EXTGRP:Узбекистан
+https://vod.splay.uz/live_splay/original/Zor_TVHD/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="Milliy TV" tvg-logo="http://epg.one/img/7931.png" group-title="Узбекистан", Milliy TV
+#EXTGRP:Узбекистан
+https://vod.splay.uz/live_splay/original/Milly_TVHD/tracks-v1a1/mono.ts.m3u8
 
-
-
-
-
+#EXTINF:-1 tvg-name="My5 UZ" tvg-logo="http://epg.one/img/7928.png" group-title="Узбекистан", My5 UZ
+#EXTGRP:Узбекистан
+https://vod.splay.uz/live_splay/original/Mening_YurtimHD/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="Dasturxon TV" tvg-logo="http://epg.one/img/7928.png" group-title="Узбекистан", Dasturxon TV
+#EXTGRP:Узбекистан
+https://vod.splay.uz/live_splay/original/DasturxonTV/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="MyDayTV" tvg-logo="http://epg.one/img/7928.png" group-title="Узбекистан", MyDayTV
+#EXTGRP:Узбекистан
+https://vod.splay.uz/live_splay/original/Myday/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="Lux TV" tvg-logo="http://epg.one/img/7928.png" group-title="Узбекистан", Lux TV
+#EXTGRP:Узбекистан
+https://vod.splay.uz/live_splay/original/LuxTV/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="Tasix-Media" tvg-logo="http://epg.one/img/7928.png" group-title="Узбекистан", Tasix-Media
+#EXTGRP:Узбекистан
+https://tt.tas-ix.media:444/telegram/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Makon TV" tvg-logo="http://epg.one/img/7928.png" group-title="Узбекистан", Makon TV
+#EXTGRP:Узбекистан
+https://st1.uzdigital.tv/Makon_TV/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="Renessans TV" tvg-logo="http://epg.one/img/7928.png" group-title="Узбекистан", Renessans TV
+#EXTGRP:Узбекистан
+https://vod.splay.uz/live_splay/original/Renessans_TV/tracks-v1a1/mono.ts.m3u8
 
 
 
