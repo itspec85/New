@@ -3732,6 +3732,48 @@ https://fl.biztv.media/TabiatTV_1080/tracks-v1a1/mono.m3u8
 https://st1.uzdigital.tv/TTV_Musiqa/video.m3u8
 
 
+#EXTINF:-1 tvg-name="Ozbekiston HD UZ" tvg-logo="http://epg.one/img/7931.png" group-title="Узбекистан", Ozbekiston HD UZ
+#EXTGRP:Узбекистан
+https://vod.splay.uz/live_splay/original/Uzbekiston/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="Yoshlar HD" tvg-logo="http://epg.one/img/7931.png" group-title="Узбекистан", Yoshlar HD
+#EXTGRP:Узбекистан
+https://vod.splay.uz/live_splay/original/YoshlarHD/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="Toshkent HD" tvg-logo="http://epg.one/img/7931.png" group-title="Узбекистан", Toshkent HD
+#EXTGRP:Узбекистан
+https://vod.splay.uz/live_splay/original/Toshkent/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="Dunyo Bo'ylab" tvg-logo="http://epg.one/img/7931.png" group-title="Узбекистан", Dunyo Bo'ylab
+#EXTGRP:Узбекистан
+https://vod.splay.uz/live_splay/original/Dunyoboylab_HD/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="O'zbekiston tarixi" tvg-logo="http://epg.one/img/7931.png" group-title="Узбекистан", O'zbekiston tarixi
+#EXTGRP:Узбекистан
+https://vod.splay.uz/live_splay/original/Uzbekiston-TarixiHD/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="Kinoteatr" tvg-logo="http://epg.one/img/7931.png" group-title="Узбекистан", Kinoteatr
+#EXTGRP:Узбекистан
+https://vod.splay.uz/live_splay/original/Kinoteatr_HD/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="Navo" tvg-logo="http://epg.one/img/7931.png" group-title="Узбекистан", Navo
+#EXTGRP:Узбекистан
+https://vod.splay.uz/live_splay/original/Navo/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="Mahalla" tvg-logo="http://epg.one/img/7931.png" group-title="Узбекистан", Mahalla
+#EXTGRP:Узбекистан
+https://vod.splay.uz/live_splay/original/Mahalla/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="Bolajon" tvg-logo="http://epg.one/img/7931.png" group-title="Узбекистан", Bolajon
+#EXTGRP:Узбекистан
+https://vod.splay.uz/live_splay/original/Bolajon/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="Sport UZ" tvg-logo="http://epg.one/img/7931.png" group-title="Узбекистан", Sport UZ
+#EXTGRP:Узбекистан
+https://vod.splay.uz/live_splay/original/Sport-UZ/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="Futbol TV" tvg-logo="http://epg.one/img/7931.png" group-title="Узбекистан", Futbol TV
+#EXTGRP:УзбекEXTGRP:Узбекистанистан
+https://vod.splay.uz/live_splay/original/FutbolTV/tracks-v1a1/mono.ts.m3u8
+
+https://vod.splay.uz/live_splay/original/FTVHD/tracks-v1a1/mono.ts.m3u8
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="1plus1" tvg-name="1+1 Марафон UA" tvg-logo="http://epg.one/img/2194.png" group-title="Украина", 1+1 Марафон UA
 #EXTGRP:Украина
