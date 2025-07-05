@@ -1713,12 +1713,12 @@ https://ucdn.beetv.kz/bpk-tv/000008780/tve/index.m3u8
 #EXTINF:-1 tvg-id="shot-tv" tvg-name="SHOT TV" tvg-logo="http://epg.one/img/431.png" group-title="Кино", SHOT TV
 #EXTGRP:Кино
 http://sltv2.be:8080/DeNiSoNkEl/nPcCsz5hHn/550120
-#EXTINF:-1 tvg-id="star-cinema" tvg-name="Star Cinema Россия HD" tvg-logo="http://epg.one/img/3328.png" group-title="Кино", Star Cinema Россия HD
+#EXTINF:-1 tvg-id="star-cinema" tvg-name="Star Cinema Россия" tvg-logo="http://epg.one/img/3328.png" group-title="Кино", Star Cinema Россия
 #EXTGRP:Кино
-http://80.245.95.243:8888/play/a02f/index.m3u8
-#EXTINF:-1 tvg-id="star-family" tvg-name="Star Family Россия HD" tvg-logo="http://epg.one/img/9162.png" group-title="Кино", Star Family Россия HD
+http://77.235.1.19:8000/play/a043/index.m3u8
+#EXTINF:-1 tvg-id="star-family" tvg-name="Star Family Россия" tvg-logo="http://epg.one/img/9162.png" group-title="Кино", Star Family Россия
 #EXTGRP:Кино
-http://80.245.95.243:8888/play/a00e/index.m3u8
+http://77.235.1.19:8000/play/a042/index.m3u8
 #EXTINF:-1 tvg-id="start-air" tvg-name="START Air" tvg-logo="http://epg.one/img/6241.png" group-title="Кино", START Air
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000007815/tve/index.m3u8
