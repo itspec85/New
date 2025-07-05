@@ -1872,6 +1872,9 @@ https://ucdn.beetv.kz/bpk-tv/000000026/tve/index.m3u8
 #EXTINF:-1 tvg-name="FITE 24/7" tvg-logo="https://i.imgur.com/ESV6qgH.png" group-title="Спорт", FITE 24/7
 #EXTGRP:Спорт
 https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8
+#EXTINF:-1 tvg-name="Futbol TV UZ" tvg-logo="https://avatars.mds.yandex.net/i?id=b3d8779b32c5e6436c226c090ad9d32bd372eac1-4271783-images-thumbs&n=13" group-title="Спорт", Futbol TV UZ
+#EXTGRP:Спорт
+https://vod.splay.uz/live_splay/original/FutbolTV/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Glory Kickboxing" tvg-logo="https://avatars.mds.yandex.net/i?id=abf21721486b2e4657813651412bc1e1a1a854a9-10304277-images-thumbs&n=13" group-title="Спорт", Glory Kickboxing
 #EXTGRP:Спорт
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f178-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=df3ca9c7-d700-4719-be3f-74dd169206f8
@@ -1986,6 +1989,9 @@ https://7pal.short.gy/ssportstn
 #EXTINF:-1 tvg-id="sport-plus-kz" tvg-name="Sport+ Qazaqstan" tvg-logo="https://avatars.mds.yandex.net/i?id=c14e904d7639f1e1e2e3bf732a13b2cf_sr-4957269-images-thumbs&n=13" group-title="Спорт", Sport+ Qazaqstan
 #EXTGRP:Спорт
 https://ucdn.beetv.kz/bpk-tv/000008731/tve/index.m3u8
+#EXTINF:-1 tvg-name="Sport UZ HD" tvg-logo="http://epg.one/img/7935.png" group-title="Спорт", Sport UZ HD
+#EXTGRP:Спорт
+https://vod.splay.uz/live_splay/original/Sport-UZ/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Sports TV TR" tvg-logo="http://epg.one/img/3884.png" group-title="Спорт", Sports TV TR
 #EXTGRP:Спорт
 https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
@@ -3704,9 +3710,15 @@ https://fl.biztv.media/biz_tv_720_uni8jhub4h8fub4idejswh8dh3j94finbu4nidj39inwsj
 #EXTINF:-1 tvg-name="Biznes TV" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/e/e9/Biznes_TV_%282015-.n.v.%29.png/revision/latest?cb=20230318203351" group-title="Узбекистан", Biznes TV
 #EXTGRP:Узбекистан
 https://fl.biztv.media/BiznesTV_1080/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Bolajon UZ" tvg-logo="http://epg.one/img/2650.png" group-title="Узбекистан", Bolajon UZ
+#EXTGRP:Узбекистан
+https://vod.splay.uz/live_splay/original/Bolajon/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Dasturxon TV UZ" tvg-logo="http://epg.one/img/7917.png" group-title="Узбекистан", Dasturxon TV UZ
 #EXTGRP:Узбекистан
 https://vod.splay.uz/live_splay/original/DasturxonTV/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="Dunyo Bo'ylab UZ" tvg-logo="http://epg.one/img/2649.png" group-title="Узбекистан", Dunyo Bo'ylab UZ
+#EXTGRP:Узбекистан
+https://vod.splay.uz/live_splay/original/Dunyoboylab_HD/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="iTV Cinema UZ" tvg-logo="http://epg.one/img/7920.png" group-title="Узбекистан", iTV Cinema UZ
 #EXTGRP:Узбекистан
 https://iptv.itv.uz/hls/live/t/UAcSEExX5UamlFqFOIaXIA/e/1767191403/4000/index.m3u8
@@ -3728,6 +3740,9 @@ https://vod.splay.uz/live_splay/original/Mening_YurtimHD/tracks-v1a1/mono.ts.m3u
 #EXTINF:-1 tvg-name="My5 UZ International" tvg-logo="http://epg.one/img/7928.png" group-title="Узбекистан", My5 UZ International
 #EXTGRP:Узбекистан
 https://st.my5.media/hls/fullhd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Navo UZ" tvg-logo="http://epg.one/img/2651.png" group-title="Узбекистан", Navo UZ
+#EXTGRP:Узбекистан
+https://vod.splay.uz/live_splay/original/Navo/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Ozbekiston 24 HD UZ" tvg-logo="http://epg.one/img/7931.png" group-title="Узбекистан", Ozbekiston 24 HD UZ
 #EXTGRP:Узбекистан
 https://st1.uzdigital.tv/Uzb24/tracks-v2a1a2/mono.m3u8
@@ -3764,23 +3779,11 @@ https://vod.splay.uz/live_splay/original/Zor_TVHD/tracks-v1a1/mono.ts.m3u8
 
 
 
-#EXTINF:-1 tvg-name="Dunyo Bo'ylab" tvg-logo="http://epg.one/img/7931.png" group-title="Узбекистан", Dunyo Bo'ylab
-#EXTGRP:Узбекистан
-https://vod.splay.uz/live_splay/original/Dunyoboylab_HD/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="Navo" tvg-logo="http://epg.one/img/7931.png" group-title="Узбекистан", Navo
-#EXTGRP:Узбекистан
-https://vod.splay.uz/live_splay/original/Navo/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="Bolajon" tvg-logo="http://epg.one/img/7931.png" group-title="Узбекистан", Bolajon
-#EXTGRP:Узбекистан
-https://vod.splay.uz/live_splay/original/Bolajon/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-name="Sport UZ HD" tvg-logo="http://epg.one/img/7935.png" group-title="Спорт", Sport UZ HD
-#EXTGRP:Спорт
-https://vod.splay.uz/live_splay/original/Sport-UZ/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="Futbol TV" tvg-logo="http://epg.one/img/7931.png" group-title="Спорт", Futbol TV
-#EXTGRP:Спорт
-https://vod.splay.uz/live_splay/original/FutbolTV/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="FTV" tvg-logo="http://epg.one/img/7931.png" group-title="Узбекистан", FTV
+
+
+
+#EXTINF:-1 tvg-name="FTV UZ" tvg-logo="http://epg.one/img/7931.png" group-title="Узбекистан", FTV UZ
 #EXTGRP:Узбекистан
 https://vod.splay.uz/live_splay/original/FTVHD/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Муз ТВ O'zbekiston" tvg-logo="http://epg.one/img/7931.png" group-title="Узбекистан", Муз ТВ O'zbekiston
