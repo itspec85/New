@@ -1872,6 +1872,12 @@ https://ucdn.beetv.kz/bpk-tv/000002479/tve/index.m3u8
 #EXTINF:-1 tvg-id="extreme-sports" tvg-name="Extreme Sports" tvg-logo="http://epg.one/img/2053.png" group-title="Спорт", Extreme Sports
 #EXTGRP:Спорт
 https://ucdn.beetv.kz/bpk-tv/000000026/tve/index.m3u8
+#EXTINF:-1 tvg-id="fastfunbox-hd" tvg-name="Fast & Fun Box" tvg-logo="http://epg.one/img/2362.png" group-title="Спорт", Fast & Fun Box
+#EXTGRP:Спорт
+http://77.235.1.19:8000/play/a07z/index.m3u8
+#EXTINF:-1 tvg-id="fightbox-pl" tvg-name="FightBox" tvg-logo="http://epg.one/img/3792.png" group-title="Спорт", FightBox
+#EXTGRP:Спорт
+http://77.235.1.19:8000/play/a080/index.m3u8
 #EXTINF:-1 tvg-name="FITE 24/7" tvg-logo="https://i.imgur.com/ESV6qgH.png" group-title="Спорт", FITE 24/7
 #EXTGRP:Спорт
 https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8
@@ -2028,6 +2034,12 @@ http://fl5.moveonjoy.com/TSN_5/index.m3u8
 #EXTINF:-1 tvg-name="Türkmenistan Sport" tvg-logo="https://avatars.mds.yandex.net/i?id=da678a9d544adb3ed0e3fe916af1b74d_l-5288772-images-thumbs&n=13" group-title="Спорт", Türkmenistan Sport
 #EXTGRP:Спорт
 http://217.174.225.146/hls/ch004_720/index.m3u8
+#EXTINF:-1 tvg-name="UFA TV" tvg-logo="https://tvapp.fun/images/logo-channel/ufa-sport-tv.png" group-title="Спорт", UFA TV
+#EXTGRP:Спорт
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/united-fight-alliance/master.m3u8
+#EXTINF:-1 tvg-name="UFC Network" tvg-logo="https://avatars.mds.yandex.net/i?id=fa611cddd035e36dcb2808aa3d911b00-5911267-images-thumbs&n=13" group-title="Спорт", UFC Network
+#EXTGRP:Спорт
+https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="viasat-sport" tvg-name="Viju+ Sport HD" tvg-logo="http://epg.one/img/2055.png" group-title="Спорт", Viju+ Sport HD
 #EXTGRP:Спорт
 https://ucdn.beetv.kz/bpk-tv/000000135/tve/index.m3u8
