@@ -1916,10 +1916,10 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 http://178.124.152.238:8088/khl
 #EXTINF:-1 tvg-id="kxl" tvg-name="KHL (резерв)" tvg-logo="http://epg.one/img/2048.png" group-title="Спорт", KHL (резерв)
 #EXTGRP:Спорт
-http://178.124.152.238:8088/khl
+http://77.235.1.19:8000/play/a05w/index.m3u8
 #EXTINF:-1 tvg-id="kxl-hd" tvg-name="KHL Prime HD" tvg-logo="http://epg.one/img/1038.png" group-title="Спорт", KHL Prime HD
 #EXTGRP:Спорт
-http://194.143.148.28:8080/KHL_HD/mpegts
+http://77.235.1.19:8000/play/a062/index.m3u8
 #EXTINF:-1 tvg-id="kxl-hd" tvg-name="KHL Prime HD (резерв)" tvg-logo="http://epg.one/img/1038.png" group-title="Спорт", KHL Prime HD (резерв)
 #EXTGRP:Спорт
 https://ucdn.beetv.kz/bpk-tv/000000711/tve/index.m3u8
