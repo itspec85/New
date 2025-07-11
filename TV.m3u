@@ -1893,9 +1893,6 @@ http://77.235.1.19:8000/play/a080/index.m3u8
 #EXTINF:-1 tvg-name="FITE 24/7" tvg-logo="https://i.imgur.com/ESV6qgH.png" group-title="Спорт", FITE 24/7
 #EXTGRP:Спорт
 https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8
-#EXTINF:-1 tvg-name="Futbol TV UZ" tvg-logo="https://avatars.mds.yandex.net/i?id=b3d8779b32c5e6436c226c090ad9d32bd372eac1-4271783-images-thumbs&n=13" group-title="Спорт", Futbol TV UZ
-#EXTGRP:Спорт
-https://vod.splay.uz/live_splay/original/FutbolTV/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Glory Kickboxing" tvg-logo="https://avatars.mds.yandex.net/i?id=abf21721486b2e4657813651412bc1e1a1a854a9-10304277-images-thumbs&n=13" group-title="Спорт", Glory Kickboxing
 #EXTGRP:Спорт
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f178-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=df3ca9c7-d700-4719-be3f-74dd169206f8
@@ -2012,7 +2009,7 @@ https://7pal.short.gy/ssportstn
 https://ucdn.beetv.kz/bpk-tv/000008731/tve/index.m3u8
 #EXTINF:-1 tvg-name="Sport UZ HD" tvg-logo="http://epg.one/img/7935.png" group-title="Спорт", Sport UZ HD
 #EXTGRP:Спорт
-https://vod.splay.uz/live_splay/original/Sport-UZ/tracks-v1a1/mono.ts.m3u8
+https://s04.watcher.uz/59/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
 #EXTINF:-1 tvg-name="Sports TV TR" tvg-logo="http://epg.one/img/3884.png" group-title="Спорт", Sports TV TR
 #EXTGRP:Спорт
 https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
