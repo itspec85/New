@@ -845,10 +845,10 @@ https://ucdn.beetv.kz/bpk-tv/000001414/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000003174/tve/index.m3u8
 #EXTINF:-1 tvg-id="dikaya-oxota-hd" tvg-name="Дикая охота HD" tvg-logo="http://epg.one/img/2483.png" group-title="Познавательные", Дикая охота HD
 #EXTGRP:Познавательные
-https://mhd128.iptv2022.com/p/vgnDrPimTrQrdaF8ng85Cg,1752181213/streaming/ohotahd/324/1/tracks-v5a1/mono.m3u8
+http://95.85.109.218:7000/play/a026
 #EXTINF:-1 tvg-id="dikaya-rybalka-hd" tvg-name="Дикая рыбалка HD" tvg-logo="http://epg.one/img/2484.png" group-title="Познавательные", Дикая рыбалка HD
 #EXTGRP:Познавательные
-https://mhd128.iptv2022.com/p/gbPqx6ZG_z0luOFJzILS5A,1752181213/streaming/ribalkahd/324/1/tracks-v5a1/mono.m3u8
+http://95.85.109.218:7000/play/a025
 #EXTINF:-1 tvg-id="dikiy" tvg-name="Дикий" tvg-logo="http://epg.one/img/2283.png" group-title="Познавательные", Дикий
 #EXTGRP:Познавательные
 http://95.156.76.230:33001/udp/230.4.34.78:1234
@@ -986,7 +986,7 @@ https://ucdn.beetv.kz/bpk-tv/000000308/tve/index.m3u8
 http://195.245.99.242/Ohota_i_ribalka/playlist.m3u8
 #EXTINF:-1 tvg-id="oxotnik-i-rybolov" tvg-name="Охотник и рыболов" tvg-logo="http://epg.one/img/1681.png" group-title="Познавательные", Охотник и рыболов
 #EXTGRP:Познавательные
-https://mhd128.iptv2022.com/p/-N8nDcvxbjRdLY7vzNRrFA,1752181213/streaming/ohotnikhd/324/1/tracks-v5a1/mono.m3u8
+http://80.245.95.243:8888/play/a00y/index.m3u8
 #EXTINF:-1 tvg-name="Первый медицинский канал" tvg-logo="https://avatars.mds.yandex.net/i?id=9494f3a37664c7da5f8f894e7169af2497116e6e-10767708-images-thumbs&n=13" group-title="Познавательные", Первый медицинский канал
 #EXTGRP:Познавательные
 https://rq3qltxnbx1.a.trbcdn.net/livemaster/8hwxnq4s0v_efir0_tcode1080p/playlist.m3u8
@@ -1796,7 +1796,7 @@ http://194.143.148.28:8080/MatchArena/mpegts
 http://178.217.72.66:8080/Match_Arena_HD/video.m3u8
 #EXTINF:-1 tvg-id="match-boets" tvg-name="Матч! Боец" tvg-logo="http://epg.one/img/2054.png" group-title="Спорт", Матч! Боец
 #EXTGRP:Спорт
-https://mhd128.iptv2022.com/p/4TaxSS_UC4db6nyHJSaK6w,1752181217/streaming/boectv/324/1/tracks-v5a1/mono.m3u8
+http://87.120.142.11:18000/Match
 #EXTINF:-1 tvg-id="match-boets" tvg-name="Матч! Боец (резерв)" tvg-logo="http://epg.one/img/2054.png" group-title="Спорт", Матч! Боец (резерв)
 #EXTGRP:Спорт
 http://77.235.1.19:8000/play/a008/index.m3u8
@@ -1811,7 +1811,7 @@ http://178.217.72.66:8080/Match_Igra_HD/video.m3u8
 https://ucdn.beetv.kz/bpk-tv/000001695/tve/index.m3u8
 #EXTINF:-1 tvg-id="match-premier" tvg-name="Матч! Премьер" tvg-logo="http://epg.one/img/2250.png" group-title="Спорт", Матч! Премьер
 #EXTGRP:Спорт
-https://mhd128.iptv2022.com/p/wDc3ozSbaeTaEgXpzY_5zw,1752181218/streaming/match_premyer/324/1/tracks-v5a1/mono.m3u8
+http://178.212.71.253:8000/play/57/index.m3u8
 #EXTINF:-1 tvg-id="match-premier" tvg-name="Матч! Премьер HD" tvg-logo="http://epg.one/img/2250.png" group-title="Спорт", Матч! Премьер HD
 #EXTGRP:Спорт
 https://mhd128.iptv2022.com/p/MadtpICxmiecv41cYwDPiQ,1752181218/streaming/match_premyerhd/324/1/tracks-v5a1/mono.m3u8
