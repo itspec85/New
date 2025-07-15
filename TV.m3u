@@ -680,7 +680,7 @@ https://ucdn.beetv.kz/bpk-tv/000000670/tve/index.m3u8
 https://stream.kaztrk.kz/regional/pavlodartv/index.m3u8
 #EXTINF:-1 tvg-id="jambyl-kz" tvg-name="Jambyl KZ" tvg-logo="http://epg.one/img/9172.png" group-title="Казахстан", Jambyl KZ
 #EXTGRP:Казахстан
-https://stream.kaztrk.kz/regional/taraztv/index.m3u8
+https://ucdn.beetv.kz/bpk-tv/000003244/tve/index.m3u8
 #EXTINF:-1 tvg-id="zhetysu" tvg-name="Жетысу" tvg-logo="https://avatars.mds.yandex.net/i?id=baf82383c5b3dde6363b6a6026bf46b4866e3ab7-6431007-images-thumbs&n=13" group-title="Казахстан", Жетысу
 #EXTGRP:Казахстан
 https://ucdn.beetv.kz/bpk-tv/000001458/tve/index.m3u8
@@ -698,7 +698,7 @@ https://ucdn.beetv.kz/bpk-tv/000004208/tve/index.m3u8
 https://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8
 #EXTINF:-1 tvg-id="kokshe" tvg-name="Kokshe" tvg-logo="https://avatars.mds.yandex.net/i?id=8d16f478bc2652b5be7f5c5758baf6504557f3fe-10681994-images-thumbs&n=13" group-title="Казахстан", Kokshe
 #EXTGRP:Казахстан
-http://stream.kaztrk.kz/regional/kokshetautv/index.m3u8
+https://ucdn.beetv.kz/bpk-tv/000003021/tve/index.m3u8
 #EXTINF:-1 tvg-id="koktem-kz" tvg-name="Köktem" tvg-logo="https://iptvx.one/picons/koktem-kz.png" group-title="Казахстан", Köktem
 #EXTGRP:Казахстан
 https://ucdn.beetv.kz/bpk-tv/000008934/tve/index.m3u8
@@ -716,7 +716,7 @@ https://ucdn.beetv.kz/bpk-tv/000000672/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000003249/tve/index.m3u8
 #EXTINF:-1 tvg-id="qyzylorda-kz" tvg-name="Qyzylorda KZ" tvg-logo="http://epg.one/img/9171.png" group-title="Казахстан", Qyzylorda KZ
 #EXTGRP:Казахстан
-http://stream.kaztrk.kz/regional/kyzylordatv/index.m3u8
+https://ucdn.beetv.kz/bpk-tv/000003246/tve/index.m3u8
 #EXTINF:-1 tvg-id="mangystay" tvg-name="Mangystay" tvg-logo="https://avatars.mds.yandex.net/i?id=abdd0058bd05aa17175f7f71555ffb0c0bc5a589-4949243-images-thumbs&n=13" group-title="Казахстан", Mangystay
 #EXTGRP:Казахстан
 https://ucdn.beetv.kz/bpk-tv/000003247/tve/index.m3u8
