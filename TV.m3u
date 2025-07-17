@@ -1335,7 +1335,7 @@ http://stv.mediacdn.ru/live/cdn/multimuzika/playlist.m3u8
 https://ucdn.beetv.kz/bpk-tv/000000203/tve/index.m3u8
 #EXTINF:-1 tvg-id="o_" tvg-name="О!" tvg-logo="http://epg.one/img/1757.png" group-title="Детские", О!
 #EXTGRP:Детские
-http://178.124.193.53:8181/play/1139/index.m3u8
+http://195.245.99.242/O/playlist.m3u8
 #EXTINF:-1 tvg-id="ryzhy" tvg-name="Рыжий" tvg-logo="http://epg.one/img/2437.png" group-title="Детские", Рыжий
 #EXTGRP:Детские
 http://31.148.48.15/Rizhiy/index.m3u8
