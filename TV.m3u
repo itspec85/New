@@ -860,7 +860,7 @@ http://195.18.23.20:8000/play/10/index.m3u8
 http://185.57.68.33/40/mpegts
 #EXTINF:-1 tvg-id="zagorodny" tvg-name="Загородный" tvg-logo="http://epg.one/img/2463.png" group-title="Познавательные", Загородный
 #EXTGRP:Познавательные
-https://mhd128.iptv2022.com/p/9UXI3HXnkJfWskmqhUWMVw,1752872412/streaming/country/324/1/tracks-v5a1/mono.m3u8
+http://45.159.74.22/DTX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="zal-suda" tvg-name="Зал суда HD" tvg-logo="http://epg.one/img/3550.png" group-title="Познавательные", Зал суда HD
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000006638/tve/index.m3u8
@@ -1826,7 +1826,7 @@ http://sltv2.be:8080/DeNiSoNkEl/nPcCsz5hHn/510637
 https://ucdn.beetv.kz/bpk-tv/000007802/tve/index.m3u8
 #EXTINF:-1 tvg-id="football-ru" tvg-name="Футбол" tvg-logo="http://epg.one/img/2782.png" group-title="Спорт", Футбол
 #EXTGRP:Спорт
-https://mhd128.iptv2022.com/p/uHEs2zsxGCuTqnTUqqFgqg,1752872421/streaming/footbal/324/1/tracks-v5a1/mono.m3u8
+http://31.148.48.15/Futbol_HD/index.m3u8
 #EXTINF:-1 tvg-name="A21 Network" tvg-logo="https://a21network.ru/wp-content/uploads/2022/02/a21_live.jpg" group-title="Спорт", A21 Network
 #EXTGRP:Спорт
 https://autopilot.catcast.tv/content/37909/index.m3u8
