@@ -1796,7 +1796,7 @@ https://ucdn.beetv.kz/bpk-tv/000001695/tve/index.m3u8
 http://178.212.71.253:8000/play/57/index.m3u8
 #EXTINF:-1 tvg-id="match-premier" tvg-name="Матч! Премьер HD" tvg-logo="http://epg.one/img/2250.png" group-title="Спорт", Матч! Премьер HD
 #EXTGRP:Спорт
-https://mhd128.iptv2022.com/p/OqR12SKg3fwQ7WpVmjTmxQ,1753563616/streaming/match_premyerhd/324/1/tracks-v5a1/mono.m3u8
+http://95.181.17.26/dvr01/hd1/NashFutHD/chunks.m3u8?&&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDI1IDY6NTY6MjYgQU0maGFzaF92YWx1ZT16a0VZbVRITHJYbENsbWI3Yk5pVzFBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 #EXTINF:-1 tvg-id="match-nash-sport" tvg-name="Матч! Страна" tvg-logo="http://epg.one/img/2042.png" group-title="Спорт", Матч! Страна
 #EXTGRP:Спорт
 http://178.212.71.253:8000/play/51/index.m3u8
