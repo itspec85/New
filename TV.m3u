@@ -1283,7 +1283,7 @@ http://autopilot.catcast.tv/content/38720/index.m3u8
 https://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ginger-hd" tvg-name="Капитан Фантастика" tvg-logo="http://epg.one/img/2438.png" group-title="Детские", Капитан Фантастика
 #EXTGRP:Детские
-https://mhd128.iptv2022.com/p/2bpkpv2GwmFyxh8X_U8vHw,1753650012/streaming/gingerhd/324/1/tracks-v5a1/mono.m3u8
+http://158.160.149.81:8080/1578/index.m3u8
 #EXTINF:-1 tvg-id="karusel" tvg-shift="+1" tvg-name="Карусель -1" tvg-logo="http://epg.one/img/740.png" group-title="Детские", Карусель -1
 #EXTGRP:Детские
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -1533,7 +1533,7 @@ https://ucdn.beetv.kz/bpk-tv/000006365/tve/index.m3u8
 http://158.101.222.193:88/georgia_play.php?id=interesnoetv
 #EXTINF:-1 tvg-id="nash-kinopokaz" tvg-name="Наш кинопоказ" tvg-logo="http://epg.one/img/2831.png" group-title="Кино", Наш кинопоказ
 #EXTGRP:Кино
-https://mhd128.iptv2022.com/p/GGrNAt3chFfsfsPj35Re4A,1753650010/streaming/nashpokaz/324/1/tracks-v5a1/mono.m3u8
+http://178.217.72.66:8080/nashkinopokazhd/index.m3u8
 #EXTINF:-1 tvg-id="nashe-muzhskoe" tvg-name="Наше мужское" tvg-logo="http://epg.one/img/2835.png" group-title="Кино", Наше мужское
 #EXTGRP:Кино
 https://mhd128.iptv2022.com/p/wknNkZ4vf2h0OQuXVhu7zA,1753650010/streaming/nashemuzskoe/324/1/tracks-v5a1/mono.m3u8
@@ -1622,7 +1622,7 @@ http://tvoetv.space:8080/tvoetv/index.m3u8
 http://158.101.222.193:88/georgia_play.php?id=fenikspluskino
 #EXTINF:-1 tvg-id="khit-hd" tvg-name="Хит HD" tvg-logo="http://epg.one/img/2833.png" group-title="Кино", Хит HD
 #EXTGRP:Кино
-https://mhd128.iptv2022.com/p/O0EDfpYsRijPM-NpcVmaaQ,1753650010/streaming/hit/324/1/tracks-v5a1/mono.m3u8
+http://178.217.72.66:8080/hithd/index.m3u8
 #EXTINF:-1 tvg-id="sony-turbo" tvg-name=".black" tvg-logo="http://epg.one/img/935.png" group-title="Кино", .black
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000000520/tve/index.m3u8
@@ -1796,7 +1796,7 @@ https://ucdn.beetv.kz/bpk-tv/000001695/tve/index.m3u8
 http://s7.merlive.am/matchpremier/index.m3u8
 #EXTINF:-1 tvg-id="match-premier" tvg-name="Матч! Премьер HD" tvg-logo="http://epg.one/img/2250.png" group-title="Спорт", Матч! Премьер HD
 #EXTGRP:Спорт
-https://mhd128.iptv2022.com/p/YEZy18sb2rgpcsf01SHf5A,1753650018/streaming/match_premyerhd/324/1/tracks-v5a1/mono.m3u8
+http://158.160.149.81:8080/777/index.m3u8
 #EXTINF:-1 tvg-id="match-nash-sport" tvg-name="Матч! Страна" tvg-logo="http://epg.one/img/2042.png" group-title="Спорт", Матч! Страна
 #EXTGRP:Спорт
 http://178.212.71.253:8000/play/51/index.m3u8
@@ -1805,19 +1805,19 @@ http://178.212.71.253:8000/play/51/index.m3u8
 http://45.11.139.43:8555/fut1/index.m3u8
 #EXTINF:-1 tvg-id="match-football1" tvg-name="Матч! Футбол 1 HD" tvg-logo="http://epg.one/img/2044.png" group-title="Спорт", Матч! Футбол 1 HD
 #EXTGRP:Спорт
-https://mhd128.iptv2022.com/p/W1KT4418k68wkgB4bRRhtQ,1753650018/streaming/footbal1hd/324/1/tracks-v5a1/mono.m3u8
+http://185.26.157.3:8080/live/matchfutbol1hd/mono.m3u8
 #EXTINF:-1 tvg-id="match-football2" tvg-name="Матч! Футбол 2" tvg-logo="http://epg.one/img/1042.png" group-title="Спорт", Матч! Футбол 2
 #EXTGRP:Спорт
 http://45.11.139.43:8555/fut2/index.m3u8
 #EXTINF:-1 tvg-id="match-football2" tvg-name="Матч! Футбол 2 HD" tvg-logo="http://epg.one/img/1042.png" group-title="Спорт", Матч! Футбол 2 HD
 #EXTGRP:Спорт
-https://mhd128.iptv2022.com/p/9vRLs8KNxOPVH7ZKZtw7zg,1753650018/streaming/footbal2hd/324/1/tracks-v5a1/mono.m3u8
+http://185.26.157.3:8080/live/matchfutbol2hd/mono.m3u8
 #EXTINF:-1 tvg-id="match-football3" tvg-name="Матч! Футбол 3" tvg-logo="http://epg.one/img/2005.png" group-title="Спорт", Матч! Футбол 3
 #EXTGRP:Спорт
 http://185.57.68.33/110/mpegts
 #EXTINF:-1 tvg-id="match-football3" tvg-name="Матч! Футбол 3 HD" tvg-logo="http://epg.one/img/2005.png" group-title="Спорт", Матч! Футбол 3 HD
 #EXTGRP:Спорт
-https://mhd128.iptv2022.com/p/tmVvT_M4Kv6cEpiLlreHeQ,1753650018/streaming/footbal3hd/324/1/tracks-v5a1/mono.m3u8
+http://185.26.157.3:8080/live/matchfutbol3hd/mono.m3u8
 #EXTINF:-1 tvg-id="mir-basketbola" tvg-name="Мир Баскетбола" tvg-logo="http://epg.one/img/4629.png" group-title="Спорт", Мир Баскетбола
 #EXTGRP:Спорт
 http://176.62.72.48:8001/play/a009/index.m3u8
