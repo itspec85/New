@@ -2109,7 +2109,7 @@ http://fl5.moveonjoy.com/TSN_5/index.m3u8
 #EXTINF:-1 tvg-name="Türkmenistan Sport" tvg-logo="https://avatars.mds.yandex.net/i?id=da678a9d544adb3ed0e3fe916af1b74d_l-5288772-images-thumbs&n=13" group-title="Спорт", Türkmenistan Sport
 #EXTGRP:Спорт
 http://217.174.225.146/hls/ch004_720/index.m3u8
-#EXTINF:-1 tvg-name="UFA TV" tvg-logo="https://tvapp.fun/images/logo-channel/ufa-sport-tv.png" group-title="Спорт", UFA TV
+#EXTINF:-1 tvg-name="UFA TV" tvg-logo="https://yootv.host/images/logo-channel/ufa-sport-tv.png" group-title="Спорт", UFA TV
 #EXTGRP:Спорт
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/united-fight-alliance/master.m3u8
 #EXTINF:-1 tvg-name="UFC Network" tvg-logo="https://avatars.mds.yandex.net/i?id=fa611cddd035e36dcb2808aa3d911b00-5911267-images-thumbs&n=13" group-title="Спорт", UFC Network
