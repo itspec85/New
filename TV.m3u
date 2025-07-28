@@ -1049,7 +1049,7 @@ http://31.148.48.15/Teleputeshestviya/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000003208/tve/index.m3u8
 #EXTINF:-1 tvg-id="hd-life" tvg-name="Точка РФ" tvg-logo="https://epgx.club/picons/hdl.png" group-title="Познавательные", Точка РФ
 #EXTGRP:Познавательные
-http://178.212.71.253:8000/play/61/index.m3u8
+http://178.217.72.66:8080/HDL/index.m3u8
 #EXTINF:-1 tvg-id="tochka-tv" tvg-name="Точка ТВ" tvg-logo="http://epg.one/img/2457.png" group-title="Познавательные", Точка ТВ
 #EXTGRP:Познавательные
 http://31.148.48.15/Tochka_TV/tracks-v1a1/mono.m3u8
@@ -1485,7 +1485,7 @@ https://ucdn.beetv.kz/bpk-tv/000005449/tve/index.m3u8
 http://45.159.74.22/Kinokomedia/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="kinomiks" tvg-name="Киномикс" tvg-logo="http://epg.one/img/644.png" group-title="Кино", Киномикс
 #EXTGRP:Кино
-http://5.134.87.11:4600/kinomiks/index.m3u8
+http://158.160.149.81:8080/4468/index.m3u8
 #EXTINF:-1 tvg-id="kinopokaz" tvg-name="Кинопоказ" tvg-logo="http://epg.one/img/2834.png" group-title="Кино", Кинопоказ
 #EXTGRP:Кино
 http://31.148.48.15/Kinopokaz/index.m3u8
