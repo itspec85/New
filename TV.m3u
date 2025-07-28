@@ -1194,6 +1194,9 @@ http://45.11.139.43:8555/ocean/index.m3u8
 #EXTINF:-1 tvg-id="one-planet" tvg-name="One Planet" tvg-logo="https://epgx.club/picons/one-planet.png" group-title="Познавательные", One Planet
 #EXTGRP:Познавательные
 http://95.67.12.82:9088
+#EXTINF:-1 tvg-id="ostwest" tvg-name="OstWest" tvg-logo="http://epg.one/img/7670.png" group-title="Познавательные", OstWest
+#EXTGRP:Познавательные
+http://81.198.190.9:7878/RTVD/video.m3u8
 #EXTINF:-1 tvg-id="ostwest24" tvg-name="OstWest24" tvg-logo="https://iptvx.one/picons/ostwest24.png" group-title="Познавательные", OstWest24
 #EXTGRP:Познавательные
 http://95.67.12.82:9077
