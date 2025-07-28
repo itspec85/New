@@ -1270,6 +1270,10 @@ http://live-3.otcnet.ru/wfcrus/index.m3u8
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000000260/tve/index.m3u8
 
+#EXTINF:-1 tvg-id="zoopark" tvg-name="DocuBox" tvg-logo="http://epg.one/img/367.png" group-title="Познавательные", DocuBox
+#EXTGRP:Познавательные
+http://158.160.149.81:8080/1961/index.m3u8
+
 
 
 #EXTINF:-1 tvg-id="v-gostiax-u-skazki" tvg-name="В гостях у сказки" tvg-logo="http://epg.one/img/2027.png" group-title="Детские", В гостях у сказки
@@ -1426,6 +1430,19 @@ https://ucdn.beetv.kz/bpk-tv/000008864/tve/index.m3u8
 #EXTINF:-1 tvg-id="tiji" tvg-name="Tiji TV" tvg-logo="http://epg.one/img/555.png" group-title="Детские", Tiji TV
 #EXTGRP:Детские
 http://193.27.209.122/tiji/index.m3u8
+
+#EXTINF:-1 tvg-id="tiji" tvg-name="Sumiko HD" tvg-logo="http://epg.one/img/555.png" group-title="Детские", Sumiko HD
+#EXTGRP:Детские
+http://158.160.149.81:8080/8709/index.m3u8
+#EXTINF:-1 tvg-id="tiji" tvg-name="FamilyJam HD" tvg-logo="http://epg.one/img/555.png" group-title="Детские", FamilyJam HD
+#EXTGRP:Детские
+http://158.160.149.81:8080/8425/index.m3u8
+#EXTINF:-1 tvg-id="tiji" tvg-name="Baby Time" tvg-logo="http://epg.one/img/555.png" group-title="Детские", Baby Time
+#EXTGRP:Детские
+http://158.160.149.81:8080/8185/index.m3u8
+#EXTINF:-1 tvg-id="tiji" tvg-name="JimJam" tvg-logo="http://epg.one/img/555.png" group-title="Детские", JimJam
+#EXTGRP:Детские
+http://178.217.72.66:8080/JimJam/index.m3u8
 
 
 
@@ -1785,6 +1802,22 @@ https://ucdn.beetv.kz/bpk-tv/000000868/tve/index.m3u8
 #EXTINF:-1 tvg-id="vip-serial" tvg-name="Viju+ Serial" tvg-logo="http://epg.one/img/2838.png" group-title="Кино", Viju+ Serial
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000004375/tve/index.m3u8
+
+#EXTINF:-1 tvg-id="vip-serial" tvg-name="VHS-ка HD" tvg-logo="http://epg.one/img/2838.png" group-title="Кино", VHS-ка HD
+#EXTGRP:Кино
+http://158.160.149.81:8080/8270/index.m3u8
+#EXTINF:-1 tvg-id="vip-serial" tvg-name="Scream HD" tvg-logo="http://epg.one/img/2838.png" group-title="Кино", Scream HD
+#EXTGRP:Кино
+http://158.160.149.81:8080/8229/index.m3u8
+#EXTINF:-1 tvg-id="vip-serial" tvg-name="Novella TV" tvg-logo="http://epg.one/img/2838.png" group-title="Кино", Novella TV
+#EXTGRP:Кино
+http://158.160.149.81:8080/8327/index.m3u8
+#EXTINF:-1 tvg-id="vip-serial" tvg-name="KinoJam 1 HD" tvg-logo="http://epg.one/img/2838.png" group-title="Кино", KinoJam 1 HD
+#EXTGRP:Кино
+http://158.160.149.81:8080/8194/index.m3u8
+#EXTINF:-1 tvg-id="vip-serial" tvg-name="DetectiveJam HD" tvg-logo="http://epg.one/img/2838.png" group-title="Кино", DetectiveJam HD
+#EXTGRP:Кино
+http://158.160.149.81:8080/8426/index.m3u8
 
 
 
