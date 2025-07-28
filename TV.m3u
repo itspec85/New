@@ -1750,38 +1750,39 @@ https://ucdn.beetv.kz/bpk-tv/000000868/tve/index.m3u8
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000004375/tve/index.m3u8
 
-#EXTINF:-1 tvg-id="vip-serial" tvg-name="Премиальное HD" tvg-logo="http://epg.one/img/2838.png" group-title="Кино", Премиальное HD
+#EXTINF:-1 tvg-id="premialnoe-hd" tvg-name="Премиальное HD" tvg-logo="http://epg.one/img/2732.png" group-title="Кино", Премиальное HD
 #EXTGRP:Кино
 http://185.26.157.3:8080/live/kinopremiumhd/mono.m3u8
-#EXTINF:-1 tvg-id="vip-serial" tvg-name="Остросюжетное HD" tvg-logo="http://epg.one/img/2838.png" group-title="Кино", Остросюжетное HD
+#EXTINF:-1 tvg-id="ostrosiuzhetnoe-hd" tvg-name="Остросюжетное HD" tvg-logo="http://epg.one/img/1588.png" group-title="Кино", Остросюжетное HD
 #EXTGRP:Кино
 http://185.26.157.3:8080/live/ostrosyzhetnoe/mono.m3u8
-#EXTINF:-1 tvg-id="vip-serial" tvg-name="НАШЕ HD" tvg-logo="http://epg.one/img/2838.png" group-title="Кино", НАШЕ HD
+#EXTINF:-1 tvg-id="nashehd" tvg-name="Наше HD" tvg-logo="http://epg.one/img/2018.png" group-title="Кино", Наше HD
 #EXTGRP:Кино
 http://185.26.157.3:8080/live/nashe_hd/mono.m3u8
-#EXTINF:-1 tvg-id="vip-serial" tvg-name="Страшное HD" tvg-logo="http://epg.one/img/2838.png" group-title="Кино", Страшное HD
+#EXTINF:-1 tvg-id="strashnoe-hd" tvg-name="Страшное HD" tvg-logo="http://epg.one/img/2857.png" group-title="Кино", Страшное HD
 #EXTGRP:Кино
 http://185.26.157.3:8080/live/strashnoe_hd/mono.m3u8
-#EXTINF:-1 tvg-id="vip-serial" tvg-name="FilmZone" tvg-logo="http://epg.one/img/2838.png" group-title="Кино", FilmZone
+#EXTINF:-1 tvg-id="filmzone-lt" tvg-name="FilmZone" tvg-logo="http://epg.one/img/9094.png" group-title="Кино", FilmZone
 #EXTGRP:Кино
 http://81.198.190.9:7878/FilmZone/video.m3u8
-#EXTINF:-1 tvg-id="vip-serial" tvg-name="Kino 1" tvg-logo="http://epg.one/img/2838.png" group-title="Кино", Kino 1
+#EXTINF:-1 tvg-id="kino-1" tvg-name="Kino 1" tvg-logo="https://epgx.club/picons/kino-1.png" group-title="Кино", Kino 1
 #EXTGRP:Кино
 http://81.198.190.9:7878/kino1/video.m3u8
-#EXTINF:-1 tvg-id="vip-serial" tvg-name="Kino 7" tvg-logo="http://epg.one/img/2838.png" group-title="Кино", Kino 7
+#EXTINF:-1 tvg-id="kino7-lv" tvg-name="Kino 7" tvg-logo="https://epgx.club/picons/kino7-lv.png" group-title="Кино", Kino 7
 #EXTGRP:Кино
 http://81.198.190.9:7878/kino7/video.m3u8
-#EXTINF:-1 tvg-id="vip-serial" tvg-name="Viasat Kino Comedy" tvg-logo="http://epg.one/img/2838.png" group-title="Кино", Viasat Kino Comedy
+#EXTINF:-1 tvg-id="vip-comedy-cee" tvg-name="Viasat Kino Comedy HD" tvg-logo="http://epg.one/img/8880.png" group-title="Кино", Viasat Kino Comedy HD
 #EXTGRP:Кино
 http://81.198.190.9:7878/VIPComedyHD/video.m3u8
-#EXTINF:-1 tvg-id="vip-serial" tvg-name="Super+" tvg-logo="http://epg.one/img/2838.png" group-title="Кино", Super+
+#EXTINF:-1 tvg-id="super-plus" tvg-name="Супер+" tvg-logo="https://epgx.club/picons/super-plus.png" group-title="Кино", Супер+
 #EXTGRP:Кино
 http://81.198.190.9:7878/superplus/video.m3u8
-#EXTINF:-1 tvg-id="vip-serial" tvg-name="BOLT HD" tvg-logo="http://epg.one/img/2838.png" group-title="Кино", BOLT HD
+#EXTINF:-1 tvg-id="bolt" tvg-name="Bolt HD" tvg-logo="http://epg.one/img/2138.png" group-title="Кино", Bolt HD
 #EXTGRP:Кино
 http://81.198.190.9:7878/BOLT/video.m3u8
-
-
+#EXTINF:-1 tvg-id="bolt-ru" tvg-name="Bolt HD Россия" tvg-logo="http://epg.one/img/2138.png" group-title="Кино", Bolt HD Россия
+#EXTGRP:Кино
+http://178.217.72.66:8080/bolt/index.m3u8
 
 #EXTINF:-1 tvg-id="belarus5" tvg-name="Беларусь 5 HD" tvg-logo="http://epg.one/img/2541.png" group-title="Спорт", Беларусь 5 HD
 #EXTGRP:Спорт
