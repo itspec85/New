@@ -1695,6 +1695,9 @@ http://178.124.152.238:8088/cinema
 #EXTINF:-1 tvg-id="paramount-comedy" tvg-name="Comedy Central" tvg-logo="http://epg.one/img/920.png" group-title="Кино", Comedy Central
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000000452/tve/index.m3u8
+#EXTINF:-1 tvg-id="detectivejam" tvg-name="DetectiveJam HD" tvg-logo="http://epg.one/img/7901.png" group-title="Кино", DetectiveJam HD
+#EXTGRP:Кино
+http://158.160.149.81:8080/8426/index.m3u8
 #EXTINF:-1 tvg-id="fanhd" tvg-name="FAN" tvg-logo="http://epg.one/img/2359.png" group-title="Кино", FAN
 #EXTGRP:Кино
 http://31.148.48.15/Fan/index.m3u8
@@ -1737,12 +1740,21 @@ http://81.198.190.9:7878/kino7/video.m3u8
 #EXTINF:-1 tvg-id="kino-24" tvg-name="Kino 24" tvg-logo="https://epgx.club/picons/kino-24.png" group-title="Кино", Kino 24
 #EXTGRP:Кино
 http://dmi3y-tv.ru/hls/CH_KINO24.m3u8
+#EXTINF:-1 tvg-id="kinojam1" tvg-name="KinoJam 1 HD" tvg-logo="http://epg.one/img/4466.png" group-title="Кино", KinoJam 1 HD
+#EXTGRP:Кино
+http://158.160.149.81:8080/8194/index.m3u8
+#EXTINF:-1 tvg-id="novellatv" tvg-name="Novella TV" tvg-logo="https://epgx.club/picons/novellatv.png" group-title="Кино", Novella TV
+#EXTGRP:Кино
+http://158.160.149.81:8080/8327/index.m3u8
 #EXTINF:-1 tvg-id="plan-b" tvg-name="Plan B" tvg-logo="http://epg.one/img/6643.png" group-title="Кино", Plan B
 #EXTGRP:Кино
 http://31.133.36.244:8000/90
 #EXTINF:-1 tvg-id="romance" tvg-name="Romance HD" tvg-logo="http://epg.one/img/9179.png" group-title="Кино", Romance HD
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000008780/tve/index.m3u8
+#EXTINF:-1 tvg-id="scream" tvg-name="Scream HD" tvg-logo="http://epg.one/img/9069.png" group-title="Кино", Scream HD
+#EXTGRP:Кино
+http://158.160.149.81:8080/8229/index.m3u8
 #EXTINF:-1 tvg-id="shot-tv" tvg-name="SHOT TV" tvg-logo="http://epg.one/img/431.png" group-title="Кино", SHOT TV
 #EXTGRP:Кино
 http://sltv2.be:8080/DeNiSoNkEl/nPcCsz5hHn/550120
@@ -1764,6 +1776,12 @@ https://ucdn.beetv.kz/bpk-tv/000008739/tve/index.m3u8
 #EXTINF:-1 tvg-id="timeless-dizi" tvg-name="Timeless Dizi annel" tvg-logo="http://epg.one/img/6724.png" group-title="Кино", Timeless Dizi Channel
 #EXTGRP:Кино
 http://193.27.209.122/dizi/index.m3u8
+#EXTINF:-1 tvg-id="trashtv" tvg-name="Trash HD" tvg-logo="http://epg.one/img/3361.png" group-title="Кино", Trash HD
+#EXTGRP:Кино
+http://31.211.77.158:8000/play/a051/index.m3u8
+#EXTINF:-1 tvg-id="vhs-ka" tvg-name="VHS-ка HD" tvg-logo="https://epgx.club/picons/vhs-ka.png" group-title="Кино", VHS-ка HD
+#EXTGRP:Кино
+http://158.160.149.81:8080/8270/index.m3u8
 #EXTINF:-1 tvg-id="vip-comedy-cee" tvg-name="Viasat Kino Comedy HD" tvg-logo="http://epg.one/img/8880.png" group-title="Кино", Viasat Kino Comedy HD
 #EXTGRP:Кино
 http://81.198.190.9:7878/VIPComedyHD/video.m3u8
@@ -1800,22 +1818,6 @@ https://ucdn.beetv.kz/bpk-tv/000000868/tve/index.m3u8
 #EXTINF:-1 tvg-id="vip-serial" tvg-name="Viju+ Serial" tvg-logo="http://epg.one/img/2838.png" group-title="Кино", Viju+ Serial
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000004375/tve/index.m3u8
-
-#EXTINF:-1 tvg-id="vip-serial" tvg-name="VHS-ка HD" tvg-logo="http://epg.one/img/2838.png" group-title="Кино", VHS-ка HD
-#EXTGRP:Кино
-http://158.160.149.81:8080/8270/index.m3u8
-#EXTINF:-1 tvg-id="vip-serial" tvg-name="Scream HD" tvg-logo="http://epg.one/img/2838.png" group-title="Кино", Scream HD
-#EXTGRP:Кино
-http://158.160.149.81:8080/8229/index.m3u8
-#EXTINF:-1 tvg-id="vip-serial" tvg-name="Novella TV" tvg-logo="http://epg.one/img/2838.png" group-title="Кино", Novella TV
-#EXTGRP:Кино
-http://158.160.149.81:8080/8327/index.m3u8
-#EXTINF:-1 tvg-id="vip-serial" tvg-name="KinoJam 1 HD" tvg-logo="http://epg.one/img/2838.png" group-title="Кино", KinoJam 1 HD
-#EXTGRP:Кино
-http://158.160.149.81:8080/8194/index.m3u8
-#EXTINF:-1 tvg-id="vip-serial" tvg-name="DetectiveJam HD" tvg-logo="http://epg.one/img/2838.png" group-title="Кино", DetectiveJam HD
-#EXTGRP:Кино
-http://158.160.149.81:8080/8426/index.m3u8
 
 
 
