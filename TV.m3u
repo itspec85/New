@@ -1110,6 +1110,9 @@ http://45.159.74.22/DiscoveryChannel/mono.m3u8
 #EXTINF:-1 tvg-name="Discovery Science UK" tvg-logo="http://epg.one/img/3067.png" group-title="Познавательные", Discovery Science UK
 #EXTGRP:Познавательные
 http://cord-cutter.net:8080/LeeAv21/AvantL12/53695
+#EXTINF:-1 tvg-id="docubox-hd" tvg-name="DocuBox" tvg-logo="http://epg.one/img/2186.png" group-title="Познавательные", DocuBox
+#EXTGRP:Познавательные
+http://158.160.149.81:8080/1961/index.m3u8
 #EXTINF:-1 tvg-id="deutsche-welle-ru" tvg-name="DW Russia" tvg-logo="https://yandex.kz/images/touch/search?pos=9&img_url=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F7%2F75%2FDeutsche_Welle_symbol_2012.svg%2F1599px-Deutsche_Welle_symbol_2012.svg.png&text=Deutsche+Welle+Russia+%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF&rpt=simage&lr=20273" group-title="Познавательные", DW Russia
 #EXTGRP:Познавательные
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
@@ -1270,10 +1273,6 @@ http://live-3.otcnet.ru/wfcrus/index.m3u8
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000000260/tve/index.m3u8
 
-#EXTINF:-1 tvg-id="zoopark" tvg-name="DocuBox" tvg-logo="http://epg.one/img/367.png" group-title="Познавательные", DocuBox
-#EXTGRP:Познавательные
-http://158.160.149.81:8080/1961/index.m3u8
-
 
 
 #EXTINF:-1 tvg-id="v-gostiax-u-skazki" tvg-name="В гостях у сказки" tvg-logo="http://epg.one/img/2027.png" group-title="Детские", В гостях у сказки
@@ -1394,6 +1393,9 @@ http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:-1 tvg-id="ani" tvg-name="Ani" tvg-logo="http://epg.one/img/2011.png" group-title="Детские", Ani
 #EXTGRP:Детские
 http://stv.mediacdn.ru/live/cdn/ani/playlist.m3u8
+#EXTINF:-1 tvg-id="baby-time" tvg-name="Baby Time" tvg-logo="http://epg.one/img/9029.png" group-title="Детские", Baby Time
+#EXTGRP:Детские
+http://158.160.149.81:8080/8185/index.m3u8
 #EXTINF:-1 tvg-id="balapan" tvg-name="Balapan" tvg-logo="https://epgx.club/picons/balapan.png" group-title="Детские", Balapan
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000005178/tve/index.m3u8
@@ -1409,9 +1411,15 @@ https://ucdn.beetv.kz/bpk-tv/000000160/tve/index.m3u8
 #EXTINF:-1 tvg-id="da-vinci" tvg-name="Da Vinci HD" tvg-logo="http://epg.one/img/8908.png" group-title="Детские", Da Vinci HD
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000000333/tve/index.m3u8
+#EXTINF:-1 tvg-id="familyjam" tvg-name="FamilyJam HD" tvg-logo="http://epg.one/img/7902.png" group-title="Детские", FamilyJam HD
+#EXTGRP:Детские
+http://158.160.149.81:8080/8425/index.m3u8
 #EXTINF:-1 tvg-id="gulli-girl" tvg-name="Gulli" tvg-logo="http://epg.one/img/810.png" group-title="Детские", Gulli
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000000284/tve/index.m3u8
+#EXTINF:-1 tvg-id="jimjam" tvg-name="JimJam" tvg-logo="http://epg.one/img/494.png" group-title="Детские", JimJam
+#EXTGRP:Детские
+http://178.217.72.66:8080/JimJam/index.m3u8
 #EXTINF:-1 tvg-id="kidstv" tvg-name="Kids TV HD" tvg-logo="http://epg.one/img/9025.png" group-title="Детские", Kids TV HD
 #EXTGRP:Детские
 http://origin5.mediacdn.ru/live/kidstv/index.m3u8
@@ -1427,22 +1435,12 @@ https://ucdn.beetv.kz/bpk-tv/000004365/tve/index.m3u8
 #EXTINF:-1 tvg-id="salemalem-kz" tvg-name="Sälem älem!" tvg-logo="https://epgx.club/picons/salemalem-kz.png" group-title="Детские", Sälem älem!
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000008864/tve/index.m3u8
+#EXTINF:-1 tvg-id="sumiko" tvg-name="Sumiko HD" tvg-logo="http://epg.one/img/9181.png" group-title="Детские", Sumiko HD
+#EXTGRP:Детские
+http://158.160.149.81:8080/8709/index.m3u8
 #EXTINF:-1 tvg-id="tiji" tvg-name="Tiji TV" tvg-logo="http://epg.one/img/555.png" group-title="Детские", Tiji TV
 #EXTGRP:Детские
 http://193.27.209.122/tiji/index.m3u8
-
-#EXTINF:-1 tvg-id="tiji" tvg-name="Sumiko HD" tvg-logo="http://epg.one/img/555.png" group-title="Детские", Sumiko HD
-#EXTGRP:Детские
-http://158.160.149.81:8080/8709/index.m3u8
-#EXTINF:-1 tvg-id="tiji" tvg-name="FamilyJam HD" tvg-logo="http://epg.one/img/555.png" group-title="Детские", FamilyJam HD
-#EXTGRP:Детские
-http://158.160.149.81:8080/8425/index.m3u8
-#EXTINF:-1 tvg-id="tiji" tvg-name="Baby Time" tvg-logo="http://epg.one/img/555.png" group-title="Детские", Baby Time
-#EXTGRP:Детские
-http://158.160.149.81:8080/8185/index.m3u8
-#EXTINF:-1 tvg-id="tiji" tvg-name="JimJam" tvg-logo="http://epg.one/img/555.png" group-title="Детские", JimJam
-#EXTGRP:Детские
-http://178.217.72.66:8080/JimJam/index.m3u8
 
 
 
