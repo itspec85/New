@@ -963,7 +963,7 @@ https://ucdn.beetv.kz/bpk-tv/000000308/tve/index.m3u8
 #EXTINF:-1 tvg-id="oxota-i-rybalka" tvg-name="Охота и Рыбалка" tvg-logo="http://epg.one/img/2419.png" group-title="Познавательные", Охота и Рыбалка
 #EXTGRP:Познавательные
 http://85.117.61.97:8000/play/a01e/index.m3u8
-#EXTINF:-1 tvg-id="oxotnik-i-rybolov" tvg-name="Охотник и рыболов" tvg-logo="http://epg.one/img/1681.png" group-title="Познавательные", Охотник и рыболов
+#EXTINF:-1 tvg-id="oxotnik-i-rybolov-hd" tvg-name="Охотник и рыболов" tvg-logo="http://epg.one/img/1681.png" group-title="Познавательные", Охотник и рыболов
 #EXTGRP:Познавательные
 http://158.160.149.81:8080/689/index.m3u8
 #EXTINF:-1 tvg-name="Первый медицинский канал" tvg-logo="https://avatars.mds.yandex.net/i?id=9494f3a37664c7da5f8f894e7169af2497116e6e-10767708-images-thumbs&n=13" group-title="Познавательные", Первый медицинский канал
@@ -1008,6 +1008,9 @@ https://n1.slavmir.tv/live/slavmir/chunklist.m3u8
 #EXTINF:-1 tvg-id="rybalka-i-oxota" tvg-name="Рыбалка и охота" tvg-logo="https://iptvx.one/picons/rybalka-i-oxota.png" group-title="Познавательные", Рыбалка и охота
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000002510/tve/index.m3u8
+#EXTINF:-1 tvg-id="oxotnik-i-rybolov" tvg-name="Рыболов HD" tvg-logo="http://epg.one/img/6646.png" group-title="Познавательные", Рыболов HD
+#EXTGRP:Познавательные
+http://158.160.149.81:8080/351/index.m3u8
 #EXTINF:-1 tvg-id="sarafan" tvg-name="Сарафан" tvg-logo="http://epg.one/img/663.png" group-title="Познавательные", Сарафан
 #EXTGRP:Познавательные
 http://45.143.108.110:2200/sarafan
@@ -1848,6 +1851,30 @@ http://178.217.72.66:8080/BCUStarsHD/index.m3u8
 #EXTINF:-1 tvg-id="bcu-vhs" tvg-name="BCU VHS HD" tvg-logo="http://epg.one/img/4763.png" group-title="Кинозал", BCU VHS HD
 #EXTGRP:Кинозал
 http://178.217.72.66:8080/BCUVHSHD/index.m3u8
+#EXTINF:-1 tvg-id="cineman" tvg-name="CineMan" tvg-logo="http://epg.one/img/4682.png" group-title="Кинозал", CineMan
+#EXTGRP:Кинозал
+http://178.217.72.66:8080/CineMan/index.m3u8
+#EXTINF:-1 tvg-id="cineman-comedy" tvg-name="CineMan Комедия" tvg-logo="http://epg.one/img/4689.png" group-title="Кинозал", CineMan Комедия
+#EXTGRP:Кинозал
+http://178.217.72.66:8080/CineMan_Comedy/index.m3u8
+#EXTINF:-1 tvg-id="cineman-action" tvg-name="CineMan Action" tvg-logo="http://epg.one/img/4684.png" group-title="Кинозал", CineMan Action
+#EXTGRP:Кинозал
+http://178.217.72.66:8080/CineMan_Action/index.m3u8
+#EXTINF:-1 tvg-id="cineman-marvel" tvg-name="CineMan Marvel" tvg-logo="http://epg.one/img/4687.png" group-title="Кинозал", CineMan Marvel
+#EXTGRP:Кинозал
+http://178.217.72.66:8080/CineMan_Marvel/index.m3u8
+#EXTINF:-1 tvg-id="cineman-melodrama" tvg-name="CineMan Melodrama" tvg-logo="http://epg.one/img/4686.png" group-title="Кинозал", CineMan Melodrama
+#EXTGRP:Кинозал
+http://178.217.72.66:8080/CineMan_Melodrama/index.m3u8
+#EXTINF:-1 tvg-id="cineman-thriller" tvg-name="CineMan Thriller" tvg-logo="http://epg.one/img/4685.png" group-title="Кинозал", CineMan Thriller
+#EXTGRP:Кинозал
+http://178.217.72.66:8080/CineMan_Thriller/index.m3u8
+#EXTINF:-1 tvg-id="cineman-top" tvg-name="CineMan Top" tvg-logo="http://epg.one/img/4683.png" group-title="Кинозал", CineMan Top
+#EXTGRP:Кинозал
+http://178.217.72.66:8080/CineMan_Top/index.m3u8
+#EXTINF:-1 tvg-id="cineman-vhs" tvg-name="CineMan VHS" tvg-logo="http://epg.one/img/4690.png" group-title="Кинозал", CineMan VHS
+#EXTGRP:Кинозал
+http://178.217.72.66:8080/CineMan_VHS/index.m3u8
 
 
 
