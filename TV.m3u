@@ -1068,6 +1068,9 @@ http://194.158.218.123:8880/Usadba/index.m3u8
 #EXTINF:-1 tvg-id="centralnoye-tv" tvg-name="Центральное телевидение" tvg-logo="http://epg.one/img/2400.png" group-title="Познавательные", Центральное телевидение
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000001880/tve/index.m3u8
+#EXTINF:-1 tvg-id="1-2" tvg-name="1+2" tvg-logo="http://epg.one/img/7232.png" group-title="Познавательные", 1+2
+#EXTGRP:Познавательные
+http://81.198.190.9:7878/1plus2/playlist.m3u8
 #EXTINF:-1 tvg-id="2na2" tvg-name="2x2" tvg-logo="http://epg.one/img/323.png" group-title="Познавательные", 2x2
 #EXTGRP:Познавательные
 http://31.148.48.15/2x2/index.m3u8
@@ -1791,6 +1794,9 @@ http://193.27.209.122/dizi/index.m3u8
 #EXTINF:-1 tvg-id="trashtv" tvg-name="Trash HD" tvg-logo="http://epg.one/img/3361.png" group-title="Кино", Trash HD
 #EXTGRP:Кино
 http://31.211.77.158:8000/play/a051/index.m3u8
+#EXTINF:-1 tvg-id="tv-extra" tvg-name="TV Extra" tvg-logo="https://epgx.club/picons/tv-extra.png" group-title="Кино", TV Extra
+#EXTGRP:Кино
+http://81.198.190.9:7878/tvextra/video.m3u8
 #EXTINF:-1 tvg-id="vhs-ka" tvg-name="VHS-ка HD" tvg-logo="https://epgx.club/picons/vhs-ka.png" group-title="Кино", VHS-ка HD
 #EXTGRP:Кино
 http://158.160.149.81:8080/8270/index.m3u8
@@ -2268,6 +2274,9 @@ http://k3.usastreams.com/CableLatino/88stereo/chunklist_w986835325.m3u8
 #EXTINF:-1 tvg-name="91 Nrg HD" tvg-logo="http://epg.one/img/4650.png" group-title="Музыка", 91 Nrg HD
 #EXTGRP:Музыка
 http://tv.nrg91.gr:1935/onweb/live/master.m3u8
+#EXTINF:-1 tvg-id="360-tunebox" tvg-name="360 TuneBox" tvg-logo="https://epgx.club/picons/360-tunebox.png" group-title="Музыка", 360 TuneBox
+#EXTGRP:Музыка
+http://81.198.190.9:7878/360TUNEBOX/video.m3u8
 #EXTINF:-1 tvg-name="AIVA HD" tvg-logo="http://epg.one/img/2837.png" group-title="Музыка", AIVA HD
 #EXTGRP:Музыка
 http://158.160.149.81:8080/4642/index.m3u8
