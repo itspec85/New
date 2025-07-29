@@ -1079,7 +1079,7 @@ http://193.169.178.29:8081/podsekaiTV/chanelHD1080/playlist.m3u8
 https://ucdn.beetv.kz/bpk-tv/000000216/tve/index.m3u8
 #EXTINF:-1 tvg-id="animal-planet-eu" tvg-name="Animal Planet (резерв)" tvg-logo="http://epg.one/img/365.png" group-title="Познавательные", Animal Planet (резерв)
 #EXTGRP:Познавательные
-http://135.181.115.81:8000/play/a03i/index.m3u8?token=livetv
+http://185.26.157.3:8080/live/animalplanet/mono.m3u8
 #EXTINF:-1 tvg-id="bbc" tvg-name="BBC World News" tvg-logo="http://epg.one/img/828.png" group-title="Познавательные", BBC World News
 #EXTGRP:Познавательные
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
@@ -1160,7 +1160,7 @@ https://stream.maxssw.com/hhq/live/chunklist.m3u8
 https://ucdn.beetv.kz/bpk-tv/000001000/tve/index.m3u8
 #EXTINF:-1 tvg-id="history" tvg-name="History (резерв)" tvg-logo="http://epg.one/img/1394.png" group-title="Познавательные", History (резерв)
 #EXTGRP:Познавательные
-http://95.67.12.81:10619
+http://185.26.157.3:8080/live/historyhd/mono.m3u8
 #EXTINF:-1 tvg-id="h2" tvg-name="History 2" tvg-logo="http://epg.one/img/2356.png" group-title="Познавательные", History 2
 #EXTGRP:Познавательные
 http://95.67.12.81:10620?key=fas-tv.com
@@ -1190,13 +1190,13 @@ http://dmi3y-tv.ru/hls/CH_NANOTVHD.m3u8
 https://ucdn.beetv.kz/bpk-tv/000004474/tve/index.m3u8
 #EXTINF:-1 tvg-id="nat-geo-wild" tvg-name="Nat Geo Wild (резерв)" tvg-logo="http://epg.one/img/223.png" group-title="Познавательные", Nat Geo Wild (резерв)
 #EXTGRP:Познавательные
-http://135.181.115.81:8000/play/a03v/index.m3u8?token=livetv
+http://185.26.157.3:8080/live/natgeowildhd/mono.m3u8
 #EXTINF:-1 tvg-id="national-geographic" tvg-name="National Geographic" tvg-logo="http://epg.one/img/102.png" group-title="Познавательные", National Geographic
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000000034/tve/index.m3u8
 #EXTINF:-1 tvg-id="national-geographic" tvg-name="National Geographic (резерв)" tvg-logo="http://epg.one/img/102.png" group-title="Познавательные", National Geographic (резерв)
 #EXTGRP:Познавательные
-http://135.181.115.81:8000/play/a03w/index.m3u8?token=livetv
+http://185.26.157.3:8080/live/nationalgeographic/mono.m3u8
 #EXTINF:-1 tvg-id="ocean-tv" tvg-name="OCEAN-TV" tvg-logo="http://epg.one/img/55.png" group-title="Познавательные", OCEAN-TV
 #EXTGRP:Познавательные
 http://45.11.139.43:8555/ocean/index.m3u8
@@ -1239,6 +1239,9 @@ https://ucdn.beetv.kz/bpk-tv/000008142/tve/index.m3u8
 #EXTINF:-1 tvg-id="tlc" tvg-name="TLC" tvg-logo="http://epg.one/img/2345.png" group-title="Познавательные", TLC
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000001498/tve/index.m3u8
+#EXTINF:-1 tvg-id="tlc" tvg-name="TLC HD" tvg-logo="http://epg.one/img/2345.png" group-title="Познавательные", TLC HD
+#EXTGRP:Познавательные
+http://185.26.157.3:8080/live/tlc/mono.m3u8
 #EXTINF:-1 tvg-id="travel-adventure" tvg-name="travel+adventure" tvg-logo="http://epg.one/img/1035.png" group-title="Познавательные", travel+adventure
 #EXTGRP:Познавательные
 http://sltv2.be:8080/DeNiSoNkEl/nPcCsz5hHn/550285
@@ -1250,19 +1253,19 @@ http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
 https://ucdn.beetv.kz/bpk-tv/000004157/tve/index.m3u8
 #EXTINF:-1 tvg-id="viasat-explore" tvg-name="Viju Explore (резерв)" tvg-logo="http://epg.one/img/521.png" group-title="Познавательные", Viju Explore (резерв)
 #EXTGRP:Познавательные
-http://45.143.108.110:2200/viasatexp
+http://185.26.157.3:8080/live/viasat_explore/mono.m3u8
 #EXTINF:-1 tvg-id="viasat-history" tvg-name="Viju History" tvg-logo="http://epg.one/img/277.png" group-title="Познавательные", Viju History
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000005528/tve/index.m3u8
 #EXTINF:-1 tvg-id="viasat-history" tvg-name="Viju History (резерв)" tvg-logo="http://epg.one/img/277.png" group-title="Познавательные", Viju History (резерв)
 #EXTGRP:Познавательные
-http://45.143.108.110:2200/viasathistory
+http://185.26.157.3:8080/live/viasat-history/mono.m3u8
 #EXTINF:-1 tvg-id="viasat-nature" tvg-name="Viju Nature" tvg-logo="http://epg.one/img/765.png" group-title="Познавательные", Viju Nature
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000006482/tve/index.m3u8
 #EXTINF:-1 tvg-id="viasat-nature" tvg-name="Viju Nature (резерв)" tvg-logo="http://epg.one/img/765.png" group-title="Познавательные", Viju Nature (резерв)
 #EXTGRP:Познавательные
-http://45.143.108.110:2200/viasatnature
+http://185.26.157.3:8080/live/viasat_nature/mono.m3u8
 #EXTINF:-1 tvg-id="viasat-nature-history-hd" tvg-name="Viju+ Planet HD" tvg-logo="http://epg.one/img/2012.png" group-title="Познавательные", Viju+ Planet HD
 #EXTGRP:Познавательные
 http://sltv2.be:8080/DeNiSoNkEl/nPcCsz5hHn/581432
@@ -1497,7 +1500,7 @@ http://dmi3y-tv.ru/hls/CH_KINO1_INT.m3u8
 http://178.212.71.253:8000/play/78/index.m3u8
 #EXTINF:-1 tvg-id="kino-tv" tvg-name="Кино ТВ HD" tvg-logo="http://epg.one/img/1037.png" group-title="Кино", Кино ТВ HD
 #EXTGRP:Кино
-http://s1.merlive.am/kinotvhd/index.m3u8
+http://185.26.157.3:8080/live/kinotvhd/mono.m3u8
 #EXTINF:-1 tvg-id="kinoboevik-kz" tvg-name="Кинобоевик KZ" tvg-logo="https://iptvx.one/picons/kinoboevik-kz.png" group-title="Кино", Кинобоевик KZ
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000008490/tve/index.m3u8
@@ -1806,6 +1809,9 @@ https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Novella_HD.smil/playlist.
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino" tvg-name="Viju TV1000 Русское" tvg-logo="http://epg.one/img/267.png" group-title="Кино", Viju TV1000 Русское
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000003748/tve/index.m3u8
+#EXTINF:-1 tvg-id="tv1000-russkoe-kino" tvg-name="Viju TV1000 Русское HD" tvg-logo="http://epg.one/img/267.png" group-title="Кино", Viju TV1000 Русское HD
+#EXTGRP:Кино
+http://185.26.157.3:8080/live/tv1000russkoekino/mono.m3u8
 #EXTINF:-1 tvg-id="tv1000-action" tvg-name="Viju TV1000 Action" tvg-logo="http://epg.one/img/125.png" group-title="Кино", Viju TV1000 Action
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000003910/tve/index.m3u8
@@ -3950,6 +3956,9 @@ https://stream.uagit.tv/gittv.m3u8
 #EXTINF:-1 tvg-name="Измаил TV" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/4/48/1590170841579.png/revision/latest/scale-to-width-down/150?cb=20200522180822&path-prefix=ru" group-title="Украина", Измаил TV
 #EXTGRP:Украина
 http://cdn10.live-tv.od.ua:8081/izod/izod/playlist.m3u8
+#EXTINF:-1 tvg-id="inter-ua" tvg-name="Інтер" tvg-logo="http://epg.one/img/2106.png" group-title="Украина", Інтер
+#EXTGRP:Украина
+http://185.26.157.3:8080/live/inter/mono.m3u8
 #EXTINF:-1 tvg-id="islandiya" tvg-name="Ісландія HD" tvg-logo="http://epg.one/img/8884.png" group-title="Украина", Ісландія HD
 #EXTGRP:Украина
 https://ext.cdn.nashnet.tv/228.0.3.231/index.m3u8
