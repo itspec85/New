@@ -184,6 +184,9 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_FRIDAY-1.m3u8
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://dmi3y-tv.ru/hls/DVB-T2/CH_FRIDAY.m3u8
+#EXTINF:-1 tvg-id="piatnica" tvg-name="Пятница! HD" tvg-logo="http://epg.one/img/2765.png" group-title="Россия", Пятница! HD
+#EXTGRP:Россия
+http://178.217.72.66:8080/Pyatnitsa/index.m3u8
 #EXTINF:-1 tvg-id="piatnica-pl2" tvg-name="Пятница +2" tvg-logo="http://epg.one/img/3016.png" group-title="Россия", Пятница +2
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -1082,7 +1085,7 @@ http://193.169.178.29:8081/podsekaiTV/chanelHD1080/playlist.m3u8
 https://ucdn.beetv.kz/bpk-tv/000000216/tve/index.m3u8
 #EXTINF:-1 tvg-id="animal-planet-eu" tvg-name="Animal Planet (резерв)" tvg-logo="http://epg.one/img/365.png" group-title="Познавательные", Animal Planet (резерв)
 #EXTGRP:Познавательные
-http://185.26.157.3:8080/live/animalplanet/mono.m3u8
+http://178.217.72.66:8080/Animal_Planet_HD/index.m3u8
 #EXTINF:-1 tvg-id="bbc" tvg-name="BBC World News" tvg-logo="http://epg.one/img/828.png" group-title="Познавательные", BBC World News
 #EXTGRP:Познавательные
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
@@ -1142,7 +1145,7 @@ https://ucdn.beetv.kz/bpk-tv/000000439/tve/index.m3u8
 http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
 #EXTINF:-1 tvg-id="food-network-eu" tvg-name="Food Network" tvg-logo="http://epg.one/img/3607.png" group-title="Познавательные", Food Network
 #EXTGRP:Познавательные
-http://ott-cdn.ucom.am/s18/04.m3u8
+http://178.217.72.66:8080/food_network/index.m3u8
 #EXTINF:-1 tvg-id="fox-news-us" tvg-name="FOX NEWS CHANNEL FHD" tvg-logo="http://epg.one/img/6683.png" group-title="Познавательные", FOX NEWS CHANNEL FHD
 #EXTGRP:Познавательные
 http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
@@ -1193,13 +1196,13 @@ http://dmi3y-tv.ru/hls/CH_NANOTVHD.m3u8
 https://ucdn.beetv.kz/bpk-tv/000004474/tve/index.m3u8
 #EXTINF:-1 tvg-id="nat-geo-wild" tvg-name="Nat Geo Wild (резерв)" tvg-logo="http://epg.one/img/223.png" group-title="Познавательные", Nat Geo Wild (резерв)
 #EXTGRP:Познавательные
-http://185.26.157.3:8080/live/natgeowildhd/mono.m3u8
+http://178.217.72.66:8080/Nat_Geo_Wild_HD/index.m3u8
 #EXTINF:-1 tvg-id="national-geographic" tvg-name="National Geographic" tvg-logo="http://epg.one/img/102.png" group-title="Познавательные", National Geographic
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000000034/tve/index.m3u8
 #EXTINF:-1 tvg-id="national-geographic" tvg-name="National Geographic (резерв)" tvg-logo="http://epg.one/img/102.png" group-title="Познавательные", National Geographic (резерв)
 #EXTGRP:Познавательные
-http://185.26.157.3:8080/live/nationalgeographic/mono.m3u8
+http://178.217.72.66:8080/National_Geographic_HD/index.m3u8
 #EXTINF:-1 tvg-id="ocean-tv" tvg-name="OCEAN-TV" tvg-logo="http://epg.one/img/55.png" group-title="Познавательные", OCEAN-TV
 #EXTGRP:Познавательные
 http://45.11.139.43:8555/ocean/index.m3u8
@@ -1245,6 +1248,9 @@ https://ucdn.beetv.kz/bpk-tv/000001498/tve/index.m3u8
 #EXTINF:-1 tvg-id="tlc" tvg-name="TLC HD" tvg-logo="http://epg.one/img/2345.png" group-title="Познавательные", TLC HD
 #EXTGRP:Познавательные
 http://185.26.157.3:8080/live/tlc/mono.m3u8
+#EXTINF:-1 tvg-id="travel-channel" tvg-name="Travel Channel" tvg-logo="http://epg.one/img/613.png" group-title="Познавательные", Travel Channel
+#EXTGRP:Познавательные
+http://178.217.72.66:8080/Travel_Channel/index.m3u8
 #EXTINF:-1 tvg-id="travel-adventure" tvg-name="travel+adventure" tvg-logo="http://epg.one/img/1035.png" group-title="Познавательные", travel+adventure
 #EXTGRP:Познавательные
 http://sltv2.be:8080/DeNiSoNkEl/nPcCsz5hHn/550285
@@ -1256,19 +1262,19 @@ http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
 https://ucdn.beetv.kz/bpk-tv/000004157/tve/index.m3u8
 #EXTINF:-1 tvg-id="viasat-explore" tvg-name="Viju Explore (резерв)" tvg-logo="http://epg.one/img/521.png" group-title="Познавательные", Viju Explore (резерв)
 #EXTGRP:Познавательные
-http://185.26.157.3:8080/live/viasat_explore/mono.m3u8
+http://178.217.72.66:8080/Viasat_Explorer/index.m3u8
 #EXTINF:-1 tvg-id="viasat-history" tvg-name="Viju History" tvg-logo="http://epg.one/img/277.png" group-title="Познавательные", Viju History
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000005528/tve/index.m3u8
 #EXTINF:-1 tvg-id="viasat-history" tvg-name="Viju History (резерв)" tvg-logo="http://epg.one/img/277.png" group-title="Познавательные", Viju History (резерв)
 #EXTGRP:Познавательные
-http://185.26.157.3:8080/live/viasat-history/mono.m3u8
+http://178.217.72.66:8080/Viasat_History/index.m3u8
 #EXTINF:-1 tvg-id="viasat-nature" tvg-name="Viju Nature" tvg-logo="http://epg.one/img/765.png" group-title="Познавательные", Viju Nature
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000006482/tve/index.m3u8
 #EXTINF:-1 tvg-id="viasat-nature" tvg-name="Viju Nature (резерв)" tvg-logo="http://epg.one/img/765.png" group-title="Познавательные", Viju Nature (резерв)
 #EXTGRP:Познавательные
-http://185.26.157.3:8080/live/viasat_nature/mono.m3u8
+http://178.217.72.66:8080/Viasat_Nature/index.m3u8
 #EXTINF:-1 tvg-id="viasat-nature-history-hd" tvg-name="Viju+ Planet HD" tvg-logo="http://epg.one/img/2012.png" group-title="Познавательные", Viju+ Planet HD
 #EXTGRP:Познавательные
 http://sltv2.be:8080/DeNiSoNkEl/nPcCsz5hHn/581432
@@ -1797,6 +1803,9 @@ http://31.211.77.158:8000/play/a051/index.m3u8
 #EXTINF:-1 tvg-id="tv-extra" tvg-name="TV Extra" tvg-logo="https://epgx.club/picons/tv-extra.png" group-title="Кино", TV Extra
 #EXTGRP:Кино
 http://81.198.190.9:7878/tvextra/video.m3u8
+#EXTINF:-1 tvg-id="tv-rus" tvg-name="TVRUS" tvg-logo="http://epg.one/img/7280.png" group-title="Кино", TVRUS
+#EXTGRP:Кино
+http://85.187.13.40:18000/sts
 #EXTINF:-1 tvg-id="vhs-ka" tvg-name="VHS-ка HD" tvg-logo="https://epgx.club/picons/vhs-ka.png" group-title="Кино", VHS-ка HD
 #EXTGRP:Кино
 http://158.160.149.81:8080/8270/index.m3u8
