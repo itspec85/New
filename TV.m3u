@@ -1799,7 +1799,7 @@ https://ucdn.beetv.kz/bpk-tv/000008739/tve/index.m3u8
 http://193.27.209.122/dizi/index.m3u8
 #EXTINF:-1 tvg-id="trashtv" tvg-name="Trash HD" tvg-logo="http://epg.one/img/3361.png" group-title="Кино", Trash HD
 #EXTGRP:Кино
-http://31.211.77.158:8000/play/a051/index.m3u8
+https://mhd128.iptv2022.com/p/bv9hxWPEH51tknQpRpaC1g,1753822810/streaming/trash/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="tv-extra" tvg-name="TV Extra" tvg-logo="https://epgx.club/picons/tv-extra.png" group-title="Кино", TV Extra
 #EXTGRP:Кино
 http://81.198.190.9:7878/tvextra/video.m3u8
