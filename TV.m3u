@@ -827,10 +827,10 @@ https://ucdn.beetv.kz/bpk-tv/000001414/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000003174/tve/index.m3u8
 #EXTINF:-1 tvg-id="dikaya-oxota-hd" tvg-name="Дикая охота HD" tvg-logo="http://epg.one/img/2483.png" group-title="Познавательные", Дикая охота HD
 #EXTGRP:Познавательные
-http://s1.merlive.am/dikayaoxota/index.m3u8
+https://mhd128.iptv2022.com/p/iqg5YOXKyW58cJN7trqdAA,1754254812/streaming/ohotahd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="dikaya-rybalka-hd" tvg-name="Дикая рыбалка HD" tvg-logo="http://epg.one/img/2484.png" group-title="Познавательные", Дикая рыбалка HD
 #EXTGRP:Познавательные
-http://45.159.74.22/Channel_126/tracks-v1a1/mono.m3u8
+https://mhd128.iptv2022.com/p/kGTbkv5LtR10rty6kzWLHQ,1754254812/streaming/ribalkahd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="dikiy" tvg-name="Дикий" tvg-logo="http://epg.one/img/2283.png" group-title="Познавательные", Дикий
 #EXTGRP:Познавательные
 http://176.62.72.48:8001/play/a00s/index.m3u8
@@ -1046,7 +1046,7 @@ http://195.26.83.96:7005/play/16/index.m3u8
 https://v2.catcast.tv/content/34114/index.m3u8
 #EXTINF:-1 tvg-id="spas" tvg-name="Телеканал СПАС" tvg-logo="http://epg.one/img/2141.png" group-title="Познавательные", Телеканал СПАС
 #EXTGRP:Познавательные
-http://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
+http://tvspas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="telekafe" tvg-name="Телекафе" tvg-logo="http://epg.one/img/2304.png" group-title="Познавательные", Телекафе
 #EXTGRP:Познавательные
 http://31.148.48.15:80/Telekafe/index.m3u8
