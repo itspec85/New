@@ -2034,6 +2034,9 @@ https://ucdn.beetv.kz/bpk-tv/000002478/tve/index.m3u8
 #EXTINF:-1 tvg-id="eurosport2-ru" tvg-name="Eurosport 2" tvg-logo="http://epg.one/img/4313.png" group-title="Спорт", Eurosport 2
 #EXTGRP:Спорт
 https://ucdn.beetv.kz/bpk-tv/000002479/tve/index.m3u8
+#EXTINF:-1 tvg-id="eurosport-4k" tvg-name="Eurosport 4K" tvg-logo="http://epg.one/img/2747.png" group-title="Спорт", Eurosport 4K
+#EXTGRP:Спорт
+https://7pal.short.gy/eusport4k
 #EXTINF:-1 tvg-id="extreme-sports" tvg-name="Extreme Sports" tvg-logo="http://epg.one/img/2053.png" group-title="Спорт", Extreme Sports
 #EXTGRP:Спорт
 https://ucdn.beetv.kz/bpk-tv/000000026/tve/index.m3u8
