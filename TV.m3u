@@ -1857,15 +1857,27 @@ http://178.217.72.66:8080/BCUActionHD/index.m3u8
 #EXTINF:-1 tvg-id="bcu-catastrophe" tvg-name="BCU Catastrophe HD" tvg-logo="http://epg.one/img/4749.png" group-title="Кинозал", BCU Catastrophe HD
 #EXTGRP:Кинозал
 http://178.217.72.66:8080/BCUCatastropheHD/index.m3u8
+#EXTINF:-1 tvg-id="bcu-cinema" tvg-name="BCU Cinema HD" tvg-logo="http://epg.one/img/4750.png" group-title="Кинозал", BCU Cinema HD
+#EXTGRP:Кинозал
+http://178.217.72.66:8080/BCUCinemaHD/index.m3u8
 #EXTINF:-1 tvg-id="bcu-comedy" tvg-name="BCU Comedy HD" tvg-logo="http://epg.one/img/5515.png" group-title="Кинозал", BCU Comedy HD
 #EXTGRP:Кинозал
 http://178.217.72.66:8080/BCUComedyHD/index.m3u8
 #EXTINF:-1 tvg-id="bcu-fantastic" tvg-name="BCU Fantastic HD" tvg-logo="http://epg.one/img/4753.png" group-title="Кинозал", BCU Fantastic HD
 #EXTGRP:Кинозал
 http://178.217.72.66:8080/BCUFantasticHD/index.m3u8
+#EXTINF:-1 tvg-id="bcu-filmystic" tvg-name="BCU FilMystic HD" tvg-logo="http://epg.one/img/4754.png" group-title="Кинозал", BCU FilMystic HD
+#EXTGRP:Кинозал
+http://178.217.72.66:8080/BCUFilMysticHD/index.m3u8
+#EXTINF:-1 tvg-id="bcu-history" tvg-name="BCU History HD" tvg-logo="http://epg.one/img/4755.png" group-title="Кинозал", BCU History HD
+#EXTGRP:Кинозал
+http://178.217.72.66:8080/BCUHistoryHD/index.m3u8
 #EXTINF:-1 tvg-id="bcu-kinorating" tvg-name="BCU Kinorating HD" tvg-logo="http://epg.one/img/4758.png" group-title="Кинозал", BCU Kinorating HD
 #EXTGRP:Кинозал
 http://178.217.72.66:8080/BCUKinoratingHD/index.m3u8
+#EXTINF:-1 tvg-id="bcu-premiere" tvg-name="BCU Premiere HD" tvg-logo="http://epg.one/img/4760.png" group-title="Кинозал", BCU Premiere HD
+#EXTGRP:Кинозал
+http://178.217.72.66:8080/BCUPremiereHD/index.m3u8
 #EXTINF:-1 tvg-id="bcu-romantic" tvg-name="BCU Romantic HD" tvg-logo="http://epg.one/img/4761.png" group-title="Кинозал", BCU Romantic HD
 #EXTGRP:Кинозал
 http://178.217.72.66:8080/BCURomanticHD/index.m3u8
