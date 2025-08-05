@@ -145,7 +145,7 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV-1.m3u8
 http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV.m3u8
 #EXTINF:-1 tvg-id="pervy" tvg-name="Первый канал HD" tvg-logo="http://epg.one/img/983.png" group-title="Россия", Первый канал HD
 #EXTGRP:Россия
-http://185.26.157.3:8080/live/perviyhd/mono.m3u8
+http://85.117.61.97:8000/play/a01n/index.m3u8
 #EXTINF:-1 tvg-id="pervy-pl2" tvg-name="Первый канал +2" tvg-logo="http://epg.one/img/2034.png" group-title="Россия", Первый канал +2
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -1166,7 +1166,7 @@ https://stream.maxssw.com/hhq/live/chunklist.m3u8
 https://ucdn.beetv.kz/bpk-tv/000001000/tve/index.m3u8
 #EXTINF:-1 tvg-id="history" tvg-name="History (резерв)" tvg-logo="http://epg.one/img/1394.png" group-title="Познавательные", History (резерв)
 #EXTGRP:Познавательные
-http://185.26.157.3:8080/live/historyhd/mono.m3u8
+http://95.85.109.219:7000/play/a069
 #EXTINF:-1 tvg-id="h2" tvg-name="History 2" tvg-logo="http://epg.one/img/2356.png" group-title="Познавательные", History 2
 #EXTGRP:Познавательные
 http://95.67.12.81:10620?key=fas-tv.com
@@ -1247,7 +1247,7 @@ https://ucdn.beetv.kz/bpk-tv/000008142/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000001498/tve/index.m3u8
 #EXTINF:-1 tvg-id="tlc" tvg-name="TLC HD" tvg-logo="http://epg.one/img/2345.png" group-title="Познавательные", TLC HD
 #EXTGRP:Познавательные
-http://185.26.157.3:8080/live/tlc/mono.m3u8
+http://45.159.74.22/TLC/mono.m3u8
 #EXTINF:-1 tvg-id="travel-channel" tvg-name="Travel Channel" tvg-logo="http://epg.one/img/613.png" group-title="Познавательные", Travel Channel
 #EXTGRP:Познавательные
 http://178.217.72.66:8080/Travel_Channel/index.m3u8
@@ -1509,7 +1509,7 @@ http://dmi3y-tv.ru/hls/CH_KINO1_INT.m3u8
 http://178.217.72.66:8080/Kino_TV/index.m3u8
 #EXTINF:-1 tvg-id="kino-tv" tvg-name="Кино ТВ HD" tvg-logo="http://epg.one/img/1037.png" group-title="Кино", Кино ТВ HD
 #EXTGRP:Кино
-http://185.26.157.3:8080/live/kinotvhd/mono.m3u8
+http://77.235.1.19:8000/play/a05l/index.m3u8
 #EXTINF:-1 tvg-id="kinoboevik-kz" tvg-name="Кинобоевик KZ" tvg-logo="https://iptvx.one/picons/kinoboevik-kz.png" group-title="Кино", Кинобоевик KZ
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000008490/tve/index.m3u8
@@ -1575,7 +1575,7 @@ http://158.101.222.193:88/georgia_play.php?id=interesnoetv
 http://178.217.72.66:8080/nashkinopokazhd/index.m3u8
 #EXTINF:-1 tvg-id="nashehd" tvg-name="Наше крутое HD" tvg-logo="http://epg.one/img/2018.png" group-title="Кино", Наше крутое HD
 #EXTGRP:Кино
-http://185.26.157.3:8080/live/nashe_hd/mono.m3u8
+http://178.217.72.66:8080/nashekrutoe/index.m3u8
 #EXTINF:-1 tvg-id="nashe-muzhskoe" tvg-name="Наше мужское" tvg-logo="http://epg.one/img/2835.png" group-title="Кино", Наше мужское
 #EXTGRP:Кино
 https://mhd128.iptv2022.com/p/yBVRjKn3eEw226O9adOScw,1754427609/streaming/nashemuzskoe/324/1/tracks-v5a1/mono.m3u8
@@ -1593,9 +1593,6 @@ http://cdn.ntv.ru/th_serial/mono.m3u8
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=ntv
 http://cdn.ntv.ru/th_hit/mono.m3u8
-#EXTINF:-1 tvg-id="ostrosiuzhetnoe-hd" tvg-name="Остросюжетное HD" tvg-logo="http://epg.one/img/1588.png" group-title="Кино", Остросюжетное HD
-#EXTGRP:Кино
-http://185.26.157.3:8080/live/ostrosyzhetnoe/mono.m3u8
 #EXTINF:-1 tvg-id="patriot" tvg-name="Патриот" tvg-logo="https://epgx.club/picons/patriot.png" group-title="Кино", Патриот
 #EXTGRP:Кино
 http://catchup.videoline.ru/asvtv/index.m3u8
@@ -1604,7 +1601,7 @@ http://catchup.videoline.ru/asvtv/index.m3u8
 https://streaming101.goodstream.cyou/live/43-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 tvg-id="premialnoe-hd" tvg-name="Премиальное HD" tvg-logo="http://epg.one/img/2732.png" group-title="Кино", Премиальное HD
 #EXTGRP:Кино
-http://185.26.157.3:8080/live/kinopremiumhd/mono.m3u8
+http://178.217.72.66:8080/kinopremium/index.m3u8
 #EXTINF:-1 tvg-id="premium-kino-kz" tvg-name="Премиум кино KZ" tvg-logo="https://iptvx.one/picons/premium-kino-kz.png" group-title="Кино", Премиум кино KZ
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000008491/tve/index.m3u8
@@ -1659,9 +1656,6 @@ https://mhd128.iptv2022.com/p/-CxjmIWuICZKGkYTTq05Xg,1754427631/streaming/sovet_
 #EXTINF:-1 tvg-id="sovkino" tvg-name="Советское кино" tvg-logo="http://epg.one/img/9399.png" group-title="Кино", Советское кино
 #EXTGRP:Кино
 https://mhd128.iptv2022.com/p/dTCW6oEuTbkEFT6wt8M_lw,1754427611/streaming/sovietmovs/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-id="strashnoe-hd" tvg-name="Страшное HD" tvg-logo="http://epg.one/img/2857.png" group-title="Кино", Страшное HD
-#EXTGRP:Кино
-http://185.26.157.3:8080/live/strashnoe_hd/mono.m3u8
 #EXTINF:-1 tvg-id="super-plus" tvg-name="Супер+" tvg-logo="https://epgx.club/picons/super-plus.png" group-title="Кино", Супер+
 #EXTGRP:Кино
 http://81.198.190.9:7878/superplus/video.m3u8
@@ -1826,7 +1820,7 @@ https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Novella_HD.smil/playlist.
 https://ucdn.beetv.kz/bpk-tv/000003748/tve/index.m3u8
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino" tvg-name="Viju TV1000 Русское HD" tvg-logo="http://epg.one/img/267.png" group-title="Кино", Viju TV1000 Русское HD
 #EXTGRP:Кино
-http://185.26.157.3:8080/live/tv1000russkoekino/mono.m3u8
+http://95.85.109.219:7000/play/a08x
 #EXTINF:-1 tvg-id="tv1000-action" tvg-name="Viju TV1000 Action" tvg-logo="http://epg.one/img/125.png" group-title="Кино", Viju TV1000 Action
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000003910/tve/index.m3u8
@@ -3983,9 +3977,6 @@ https://stream.uagit.tv/gittv.m3u8
 #EXTINF:-1 tvg-name="Измаил TV" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/4/48/1590170841579.png/revision/latest/scale-to-width-down/150?cb=20200522180822&path-prefix=ru" group-title="Украина", Измаил TV
 #EXTGRP:Украина
 http://cdn10.live-tv.od.ua:8081/izod/izod/playlist.m3u8
-#EXTINF:-1 tvg-id="inter-ua" tvg-name="Інтер" tvg-logo="http://epg.one/img/2106.png" group-title="Украина", Інтер
-#EXTGRP:Украина
-http://185.26.157.3:8080/live/inter/mono.m3u8
 #EXTINF:-1 tvg-id="islandiya" tvg-name="Ісландія HD" tvg-logo="http://epg.one/img/8884.png" group-title="Украина", Ісландія HD
 #EXTGRP:Украина
 https://ext.cdn.nashnet.tv/228.0.3.231/index.m3u8
