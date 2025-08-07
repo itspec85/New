@@ -1983,6 +1983,9 @@ http://178.217.72.66:8080/Match_Futbol_3_HD/index.m3u8
 #EXTINF:-1 tvg-id="mir-basketbola" tvg-name="Мир Баскетбола" tvg-logo="http://epg.one/img/4629.png" group-title="Спорт", Мир Баскетбола
 #EXTGRP:Спорт
 http://176.62.72.48:8001/play/a009/index.m3u8
+#EXTINF:-1 tvg-id="okko-sport" tvg-name="Окко Спорт HD" tvg-logo="http://epg.one/img/7889.png" group-title="Спорт", Окко Спорт HD
+#EXTGRP:Спорт
+http://srvru.play-x.ru/channel/23bda41b/index.m3u8?q=577950063c2ab3f157549e419e16d765
 #EXTINF:-1 tvg-id="start" tvg-name="Старт" tvg-logo="http://epg.one/img/2530.png" group-title="Спорт", Старт
 #EXTGRP:Спорт
 http://sltv2.be:8080/DeNiSoNkEl/nPcCsz5hHn/510637
