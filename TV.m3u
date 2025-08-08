@@ -1767,7 +1767,7 @@ http://158.160.149.81:8080/8194/index.m3u8
 #EXTINF:-1 tvg-id="novellatv" tvg-name="Novella TV" tvg-logo="https://epgx.club/picons/novellatv.png" group-title="Кино", Novella TV
 #EXTGRP:Кино
 http://158.160.149.81:8080/8327/index.m3u8
-#EXTINF:-1 tvg-id="plan-b" tvg-name="Plan B" tvg-logo="http://epg.one/img/6643.png" group-title="Кино", Plan B
+#EXTINF:-1 tvg-id="plan-b" tvg-name="Plan B HD" tvg-logo="http://epg.one/img/6643.png" group-title="Кино", Plan B HD
 #EXTGRP:Кино
 http://158.160.149.81:8080/7688/index.m3u8
 #EXTINF:-1 tvg-id="romance" tvg-name="Romance HD" tvg-logo="http://epg.one/img/9179.png" group-title="Кино", Romance HD
