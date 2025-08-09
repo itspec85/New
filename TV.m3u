@@ -1610,7 +1610,7 @@ http://178.217.72.66:8080/kinopremium/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000008491/tve/index.m3u8
 #EXTINF:-1 tvg-id="pro-lyubov" tvg-name="Про любовь" tvg-logo="http://epg.one/img/2829.png" group-title="Кино", Про любовь
 #EXTGRP:Кино
-https://mhd128.iptv2022.com/p/yd-QuiaovCWvX1MveyCo9A,1754686807/streaming/prolubov/324/1/tracks-v5a1/mono.m3u8
+http://vod.stb.tvime.ru/Pro_Lubov_HD/video.m3u8?token=Evgeshka
 #EXTINF:-1 tvg-id="retro-tv" tvg-name="Ретро" tvg-logo="http://epg.one/img/2402.png" group-title="Кино", Ретро
 #EXTGRP:Кино
 http://178.212.71.253:8000/play/90/index.m3u8
