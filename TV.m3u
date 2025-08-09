@@ -806,7 +806,7 @@ http://195.18.23.20:8000/play/1/index.m3u8
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="v-mire-zhivotnyx-hd" tvg-name="В мире животных HD" tvg-logo="http://epg.one/img/2498.png" group-title="Познавательные", В мире животных HD
 #EXTGRP:Познавательные
-https://mhd128.iptv2022.com/p/PvKE3GKQIy5G72fPmlI4kw,1754686813/streaming/animalshd/324/1/tracks-v5a1/mono.m3u8
+http://86.57.209.210/AnimalFamily/index.m3u8
 #EXTINF:-1 tvg-name="Вера 24" tvg-logo="https://i.imgur.com/Qer5Lnh.png" group-title="Познавательные", Вера 24
 #EXTGRP:Познавательные
 https://5d23269b3ec0c.streamlock.net/WEB_Vera24/Vera24.stream/playlist.m3u8
