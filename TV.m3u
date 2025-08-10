@@ -1958,6 +1958,41 @@ http://str6.oxtve.live:8080/Fresh_Thriller/mpegts
 http://str6.oxtve.live:8080/Fresh_VHS/mpegts
 
 
+#EXTINF:-1 tvg-id="fresh-vhs" tvg-name="KBC-В.О.В" tvg-logo="http://epg.one/img/6715.png" group-title="Кинозал", KBC-В.О.В
+#EXTGRP:Кинозал
+http://str6.oxtve.live:8080/KBC_vov/mpegts
+#EXTINF:-1 tvg-id="fresh-vhs" tvg-name="KBC-Вестерн" tvg-logo="http://epg.one/img/6715.png" group-title="Кинозал", KBC-Вестерн
+#EXTGRP:Кинозал
+http://str6.oxtve.live:8080/KBC_western/mpegts
+#EXTINF:-1 tvg-id="fresh-vhs" tvg-name="KBC-Видак" tvg-logo="http://epg.one/img/6715.png" group-title="Кинозал", KBC-Видак
+#EXTGRP:Кинозал
+http://str6.oxtve.live:8080/KBC_vidac/mpegts
+#EXTINF:-1 tvg-id="fresh-vhs" tvg-name="KBC-Гай Ritchie & Tarantino" tvg-logo="http://epg.one/img/6715.png" group-title="Кинозал", KBC-Гай Ritchie & Tarantino
+#EXTGRP:Кинозал
+http://str6.oxtve.live:8080/KBC_guyrichieandtarantino/mpegts
+#EXTINF:-1 tvg-id="fresh-vhs" tvg-name="KBC-Гоблин" tvg-logo="http://epg.one/img/6715.png" group-title="Кинозал", KBC-Гоблин
+#EXTGRP:Кинозал
+http://str6.oxtve.live:8080/KBC_goblin/mpegts
+#EXTINF:-1 tvg-id="fresh-vhs" tvg-name="KBC-Драма Tic" tvg-logo="http://epg.one/img/6715.png" group-title="Кинозал", KBC-Драма Tic
+#EXTGRP:Кинозал
+http://str6.oxtve.live:8080/KBC_dramatic/mpegts
+#EXTINF:-1 tvg-id="fresh-vhs" tvg-name="KBC-Кошмарное" tvg-logo="http://epg.one/img/6715.png" group-title="Кинозал", KBC-Кошмарное
+#EXTGRP:Кинозал
+http://str6.oxtve.live:8080/KBC_koshmarnoe/mpegts
+#EXTINF:-1 tvg-id="fresh-vhs" tvg-name="KBC-Легендарное" tvg-logo="http://epg.one/img/6715.png" group-title="Кинозал", KBC-Легендарное
+#EXTGRP:Кинозал
+http://str6.oxtve.live:8080/KBC_legend/mpegts
+#EXTINF:-1 tvg-id="fresh-vhs" tvg-name="KBC-СпортМикс" tvg-logo="http://epg.one/img/6715.png" group-title="Кинозал", KBC-СпортМикс
+#EXTGRP:Кинозал
+http://str6.oxtve.live:8080/KBC_sportmix/mpegts
+#EXTINF:-1 tvg-id="fresh-vhs" tvg-name="KBC-Страна СССР" tvg-logo="http://epg.one/img/6715.png" group-title="Кинозал", KBC-Страна СССР
+#EXTGRP:Кинозал
+http://str6.oxtve.live:8080/KBC_stranaUSSR/mpegts
+#EXTINF:-1 tvg-id="fresh-vhs" tvg-name="KBC-Шпионское" tvg-logo="http://epg.one/img/6715.png" group-title="Кинозал", KBC-Шпионское
+#EXTGRP:Кинозал
+http://str6.oxtve.live:8080/KBC_shpionskoe/mpegts
+
+
 #EXTINF:-1 tvg-id="fresh-vhs" tvg-name="KBC-Comics" tvg-logo="http://epg.one/img/6715.png" group-title="Кинозал", KBC-Comics
 #EXTGRP:Кинозал
 http://str6.oxtve.live:8080/KBC_comics/mpegts
