@@ -1432,6 +1432,9 @@ https://ucdn.beetv.kz/bpk-tv/000000333/tve/index.m3u8
 #EXTINF:-1 tvg-id="familyjam" tvg-name="FamilyJam HD" tvg-logo="http://epg.one/img/7902.png" group-title="Детские", FamilyJam HD
 #EXTGRP:Детские
 http://158.160.149.81:8080/8425/index.m3u8
+#EXTINF:-1 tvg-id="familyjam" tvg-name="Fresh Kids" tvg-logo="http://epg.one/img/7902.png" group-title="Детские", Fresh Kids
+#EXTGRP:Детские
+http://str6.oxtve.live:8080/Fresh_Kids/mpegts
 #EXTINF:-1 tvg-id="gulli-girl" tvg-name="Gulli" tvg-logo="http://epg.one/img/810.png" group-title="Детские", Gulli
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000000284/tve/index.m3u8
@@ -1911,6 +1914,58 @@ http://178.217.72.66:8080/CineMan_Top/index.m3u8
 #EXTINF:-1 tvg-id="cineman-vhs" tvg-name="CineMan VHS" tvg-logo="http://epg.one/img/4690.png" group-title="Кинозал", CineMan VHS
 #EXTGRP:Кинозал
 http://178.217.72.66:8080/CineMan_VHS/index.m3u8
+
+
+#EXTINF:-1 tvg-id="cineman-vhs" tvg-name="Fresh Adventure" tvg-logo="http://epg.one/img/4690.png" group-title="Кинозал", Fresh Adventure
+#EXTGRP:Кинозал
+http://str6.oxtve.live:8080/Fresh_Adventure/mpegts
+#EXTINF:-1 tvg-id="cineman-vhs" tvg-name="Fresh Cinema" tvg-logo="http://epg.one/img/4690.png" group-title="Кинозал", Fresh Cinema
+#EXTGRP:Кинозал
+http://str6.oxtve.live:8080/Fresh_Cinema/mpegts
+#EXTINF:-1 tvg-id="cineman-vhs" tvg-name="Fresh Comedy" tvg-logo="http://epg.one/img/4690.png" group-title="Кинозал", Fresh Comedy
+#EXTGRP:Кинозал
+http://str6.oxtve.live:8080/Fresh_Comedy/mpegts
+#EXTINF:-1 tvg-id="cineman-vhs" tvg-name="Fresh Family" tvg-logo="http://epg.one/img/4690.png" group-title="Кинозал", Fresh Family
+#EXTGRP:Кинозал
+http://str6.oxtve.live:8080/Fresh_Family/mpegts
+#EXTINF:-1 tvg-id="cineman-vhs" tvg-name="Fresh Fantastic" tvg-logo="http://epg.one/img/4690.png" group-title="Кинозал", Fresh Fantastic
+#EXTGRP:Кинозал
+http://str6.oxtve.live:8080/Fresh_Fantastic/mpegts
+#EXTINF:-1 tvg-id="cineman-vhs" tvg-name="Fresh Horror" tvg-logo="http://epg.one/img/4690.png" group-title="Кинозал", Fresh Horror
+#EXTGRP:Кинозал
+http://str6.oxtve.live:8080/Fresh_Horror/mpegts
+#EXTINF:-1 tvg-id="cineman-vhs" tvg-name="Fresh Premiere" tvg-logo="http://epg.one/img/4690.png" group-title="Кинозал", Fresh Premiere
+#EXTGRP:Кинозал
+http://str6.oxtve.live:8080/Fresh_Premiere/mpegts
+#EXTINF:-1 tvg-id="cineman-vhs" tvg-name="Fresh Rating" tvg-logo="http://epg.one/img/4690.png" group-title="Кинозал", Fresh Rating
+#EXTGRP:Кинозал
+http://str6.oxtve.live:8080/Fresh_Rating/mpegts
+#EXTINF:-1 tvg-id="cineman-vhs" tvg-name="Fresh Romantic" tvg-logo="http://epg.one/img/4690.png" group-title="Кинозал", Fresh Romantic
+#EXTGRP:Кинозал
+http://str6.oxtve.live:8080/Fresh_Romantic/mpegts
+#EXTINF:-1 tvg-id="cineman-vhs" tvg-name="Fresh Russian" tvg-logo="http://epg.one/img/4690.png" group-title="Кинозал", Fresh Russian
+#EXTGRP:Кинозал
+http://str6.oxtve.live:8080/Fresh_Russian/mpegts
+#EXTINF:-1 tvg-id="cineman-vhs" tvg-name="Fresh Series" tvg-logo="http://epg.one/img/4690.png" group-title="Кинозал", Fresh Series
+#EXTGRP:Кинозал
+http://str6.oxtve.live:8080/Fresh_Series/mpegts
+#EXTINF:-1 tvg-id="cineman-vhs" tvg-name="Fresh Soviet" tvg-logo="http://epg.one/img/4690.png" group-title="Кинозал", Fresh Soviet
+#EXTGRP:Кинозал
+http://str6.oxtve.live:8080/Fresh_Soviet/mpegts
+#EXTINF:-1 tvg-id="cineman-vhs" tvg-name="Fresh Thriller" tvg-logo="http://epg.one/img/4690.png" group-title="Кинозал", Fresh Thriller
+#EXTGRP:Кинозал
+http://str6.oxtve.live:8080/Fresh_Thriller/mpegts
+#EXTINF:-1 tvg-id="cineman-vhs" tvg-name="Fresh VHS" tvg-logo="http://epg.one/img/4690.png" group-title="Кинозал", Fresh VHS
+#EXTGRP:Кинозал
+http://str6.oxtve.live:8080/Fresh_VHS/mpegts
+
+
+
+
+
+
+
+
 
 
 
