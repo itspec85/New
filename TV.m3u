@@ -2013,14 +2013,42 @@ http://str6.oxtve.live:8080/KBC_Russiancomedy/mpegts
 #EXTINF:-1 tvg-id="kbc-war" tvg-name="KBC-WAR" tvg-logo="https://epgx.club/picons/kbc-war.png" group-title="Кинозал", KBC-WAR
 #EXTGRP:Кинозал
 http://str6.oxtve.live:8080/KBC_war/mpegts
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="magic-action" tvg-name="Magic Action HD" tvg-logo="http://epg.one/img/6253.png" group-title="Кинозал", Magic Action HD
+#EXTGRP:Кинозал
+http://str6.oxtve.live:8080/Magic_Action/mpegts
+#EXTINF:-1 tvg-id="magic-adventure" tvg-name="Magic Adventure HD" tvg-logo="http://epg.one/img/7487.png" group-title="Кинозал", Magic Adventure HD
+#EXTGRP:Кинозал
+http://str6.oxtve.live:8080/Magic_Adventure/mpegts
+#EXTINF:-1 tvg-id="magic-comedy" tvg-name="Magic Comedy HD" tvg-logo="http://epg.one/img/6250.png" group-title="Кинозал", Magic Comedy HD
+#EXTGRP:Кинозал
+http://str6.oxtve.live:8080/Magic_Comedy/mpegts
+#EXTINF:-1 tvg-id="magic-family" tvg-name="Magic Family HD" tvg-logo="http://epg.one/img/6337.png" group-title="Кинозал", Magic Family HD
+#EXTGRP:Кинозал
+http://str6.oxtve.live:8080/Magic_Family/mpegts
+#EXTINF:-1 tvg-id="magic-galaxy" tvg-name="Magic Galaxy HD" tvg-logo="http://epg.one/img/6254.png" group-title="Кинозал", Magic Galaxy HD
+#EXTGRP:Кинозал
+http://str6.oxtve.live:8080/Magic_Galaxy/mpegts
+#EXTINF:-1 tvg-id="magic-horror" tvg-name="Magic Horror HD" tvg-logo="http://epg.one/img/6255.png" group-title="Кинозал", Magic Horror HD
+#EXTGRP:Кинозал
+http://str6.oxtve.live:8080/Magic_Horror/mpegts
+#EXTINF:-1 tvg-id="magic-karate" tvg-name="Magic Karate HD" tvg-logo="http://epg.one/img/6248.png" group-title="Кинозал", Magic Karate HD
+#EXTGRP:Кинозал
+http://str6.oxtve.live:8080/Magic_Karate/mpegts
+#EXTINF:-1 tvg-id="magic-love" tvg-name="Magic Love HD" tvg-logo="http://epg.one/img/6338.png" group-title="Кинозал", Magic Love HD
+#EXTGRP:Кинозал
+http://str6.oxtve.live:8080/Magic_Love/mpegts
+#EXTINF:-1 tvg-id="magic-premiere" tvg-name="Magic Premiere HD" tvg-logo="https://epgx.club/picons/magic-premiere.png" group-title="Кинозал", Magic Premiere HD
+#EXTGRP:Кинозал
+http://str6.oxtve.live:8080/Magic_Premiere/mpegts
+#EXTINF:-1 tvg-id="magic-russian" tvg-name="Magic Russian HD" tvg-logo="http://epg.one/img/8754.png" group-title="Кинозал", Magic Russian HD
+#EXTGRP:Кинозал
+http://str6.oxtve.live:8080/Magic_Russian/mpegts
+#EXTINF:-1 tvg-id="magic-thriller" tvg-name="Magic Thriller HD" tvg-logo="http://epg.one/img/6252.png" group-title="Кинозал", Magic Thriller HD
+#EXTGRP:Кинозал
+http://str6.oxtve.live:8080/Magic_Thriller/mpegts
+#EXTINF:-1 tvg-id="magic-vhs" tvg-name="Magic VHS HD" tvg-logo="http://epg.one/img/6249.png" group-title="Кинозал", Magic VHS HD
+#EXTGRP:Кинозал
+http://str6.oxtve.live:8080/Magic_VHS/mpegts
 
 
 
