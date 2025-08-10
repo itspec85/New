@@ -2050,11 +2050,48 @@ http://str6.oxtve.live:8080/Magic_Thriller/mpegts
 #EXTGRP:Кинозал
 http://str6.oxtve.live:8080/Magic_VHS/mpegts
 
-
-
-
-
-
+#EXTINF:-1 tvg-id="skyhigh-chbu" tvg-name="Sky High Чбу" tvg-logo="http://epg.one/img/6249.png" group-title="Кинозал", Sky High Чбу
+#EXTGRP:Кинозал
+http://str6.oxtve.live:8080/SKYHIGHBYSLONKA/mpegts
+#EXTINF:-1 tvg-id="skyhigh-drama-4k-hdr" tvg-name="Sky High Drama 4K HDR" tvg-logo="http://epg.one/img/6249.png" group-title="Кинозал", Sky High Drama 4K HDR
+#EXTGRP:Кинозал
+http://str6.oxtve.live:8080/SKYHIGH3D/mpegts
+#EXTINF:-1 tvg-id="skyhigh-epoch" tvg-name="Sky High Epoch" tvg-logo="http://epg.one/img/6249.png" group-title="Кинозал", Sky High Epoch
+#EXTGRP:Кинозал
+http://str6.oxtve.live:8080/SKYHIGHEPOCHHD/mpegts
+#EXTINF:-1 tvg-id="skyhigh-fresh" tvg-name="Sky High Fresh" tvg-logo="http://epg.one/img/6249.png" group-title="Кинозал", Sky High Fresh
+#EXTGRP:Кинозал
+http://str6.oxtve.live:8080/SKYHIGHFRESHHD/mpegts
+#EXTINF:-1 tvg-name="Sky High Fresh 60" tvg-logo="http://epg.one/img/6249.png" group-title="Кинозал", Sky High Fresh 60
+#EXTGRP:Кинозал
+http://str6.oxtve.live:8080/SKYHIGHNEW60/mpegts
+#EXTINF:-1 tvg-id="skyhigh-fresh-hdr" tvg-name="Sky High Fresh HDR" tvg-logo="http://epg.one/img/6249.png" group-title="Кинозал", Sky High Fresh HDR
+#EXTGRP:Кинозал
+http://str6.oxtve.live:8080/SKYHIGHFRESHHDR/mpegts
+#EXTINF:-1 tvg-id="skyhigh-heroes" tvg-name="Sky High Heroes" tvg-logo="http://epg.one/img/6249.png" group-title="Кинозал", Sky High Heroes
+#EXTGRP:Кинозал
+http://str6.oxtve.live:8080/SKYHIGHHEROESHD/mpegts
+#EXTINF:-1 tvg-id="skyhigh-mix4k" tvg-name="Sky High Mix 4K" tvg-logo="http://epg.one/img/6249.png" group-title="Кинозал", Sky High Mix 4K
+#EXTGRP:Кинозал
+http://str6.oxtve.live:8080/SKYHIGHMIX4K/mpegts
+#EXTINF:-1 tvg-id="skyhigh-russian" tvg-name="Sky High Russian" tvg-logo="http://epg.one/img/6249.png" group-title="Кинозал", Sky High Russian
+#EXTGRP:Кинозал
+http://str6.oxtve.live:8080/SKYHIGHRUSSIANHD/mpegts
+#EXTINF:-1 tvg-id="skyhigh-series" tvg-name="Sky High Series" tvg-logo="http://epg.one/img/6249.png" group-title="Кинозал", Sky High Series
+#EXTGRP:Кинозал
+http://str6.oxtve.live:8080/SKYHIGHSERIESHD/mpegts
+#EXTINF:-1 tvg-id="skyhigh-space-4k-hdr" tvg-name="Sky High Space" tvg-logo="http://epg.one/img/6249.png" group-title="Кинозал", Sky High Space
+#EXTGRP:Кинозал
+http://str6.oxtve.live:8080/SKYHIGHFUTUREHD/mpegts
+#EXTINF:-1 tvg-id="skyhigh-spirit" tvg-name="Sky High Spirit" tvg-logo="http://epg.one/img/6249.png" group-title="Кинозал", Sky High Spirit
+#EXTGRP:Кинозал
+http://str6.oxtve.live:8080/SKYHIGHSPIRITHD/mpegts
+#EXTINF:-1 tvg-id="skyhigh-uhdhdr" tvg-name="Sky High UHD HDR" tvg-logo="http://epg.one/img/6249.png" group-title="Кинозал", Sky High UHD HDR
+#EXTGRP:Кинозал
+http://str6.oxtve.live:8080/SKYHIGHUHDHDR/mpegts
+#EXTINF:-1 tvg-id="skyhigh-vhsuhd" tvg-name="Sky High VHS UHD" tvg-logo="http://epg.one/img/6249.png" group-title="Кинозал", Sky High VHS UHD
+#EXTGRP:Кинозал
+http://str6.oxtve.live:8080/SKYHIGHVHSUHD/mpegts
 
 
 
