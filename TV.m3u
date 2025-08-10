@@ -1956,67 +1956,79 @@ http://str6.oxtve.live:8080/Fresh_Thriller/mpegts
 #EXTINF:-1 tvg-id="fresh-vhs" tvg-name="Fresh VHS" tvg-logo="http://epg.one/img/6715.png" group-title="Кинозал", Fresh VHS
 #EXTGRP:Кинозал
 http://str6.oxtve.live:8080/Fresh_VHS/mpegts
-
-
-#EXTINF:-1 tvg-id="fresh-vhs" tvg-name="KBC-В.О.В" tvg-logo="http://epg.one/img/6715.png" group-title="Кинозал", KBC-В.О.В
+#EXTINF:-1 tvg-id="kbc-vov" tvg-name="KBC-В.О.В" tvg-logo="https://epgx.club/picons/kbc-vov.png" group-title="Кинозал", KBC-В.О.В
 #EXTGRP:Кинозал
 http://str6.oxtve.live:8080/KBC_vov/mpegts
-#EXTINF:-1 tvg-id="fresh-vhs" tvg-name="KBC-Вестерн" tvg-logo="http://epg.one/img/6715.png" group-title="Кинозал", KBC-Вестерн
+#EXTINF:-1 tvg-id="kbc-western" tvg-name="KBC-Вестерн" tvg-logo="https://epgx.club/picons/kbc-western.png" group-title="Кинозал", KBC-Вестерн
 #EXTGRP:Кинозал
 http://str6.oxtve.live:8080/KBC_western/mpegts
-#EXTINF:-1 tvg-id="fresh-vhs" tvg-name="KBC-Видак" tvg-logo="http://epg.one/img/6715.png" group-title="Кинозал", KBC-Видак
+#EXTINF:-1 tvg-id="kbc-vidak" tvg-name="KBC-Видак" tvg-logo="https://epgx.club/picons/kbc-vidak.png" group-title="Кинозал", KBC-Видак
 #EXTGRP:Кинозал
 http://str6.oxtve.live:8080/KBC_vidac/mpegts
-#EXTINF:-1 tvg-id="fresh-vhs" tvg-name="KBC-Гай Ritchie & Tarantino" tvg-logo="http://epg.one/img/6715.png" group-title="Кинозал", KBC-Гай Ritchie & Tarantino
+#EXTINF:-1 tvg-id="kbc-ritchie-tarantino" tvg-name="KBC-Гай Ritchie & Tarantino" tvg-logo="https://epgx.club/picons/kbc-ritchie-tarantino.png" group-title="Кинозал", KBC-Гай Ritchie & Tarantino
 #EXTGRP:Кинозал
 http://str6.oxtve.live:8080/KBC_guyrichieandtarantino/mpegts
-#EXTINF:-1 tvg-id="fresh-vhs" tvg-name="KBC-Гоблин" tvg-logo="http://epg.one/img/6715.png" group-title="Кинозал", KBC-Гоблин
+#EXTINF:-1 tvg-id="kbc-goblin" tvg-name="KBC-Гоблин" tvg-logo="https://epgx.club/picons/kbc-goblin.png" group-title="Кинозал", KBC-Гоблин
 #EXTGRP:Кинозал
 http://str6.oxtve.live:8080/KBC_goblin/mpegts
-#EXTINF:-1 tvg-id="fresh-vhs" tvg-name="KBC-Драма Tic" tvg-logo="http://epg.one/img/6715.png" group-title="Кинозал", KBC-Драма Tic
+#EXTINF:-1 tvg-id="kbc-dramatic" tvg-name="KBC-Драма Tic" tvg-logo="https://epgx.club/picons/kbc-dramatic.png" group-title="Кинозал", KBC-Драма Tic
 #EXTGRP:Кинозал
 http://str6.oxtve.live:8080/KBC_dramatic/mpegts
-#EXTINF:-1 tvg-id="fresh-vhs" tvg-name="KBC-Кошмарное" tvg-logo="http://epg.one/img/6715.png" group-title="Кинозал", KBC-Кошмарное
+#EXTINF:-1 tvg-id="kbc-koshmar" tvg-name="KBC-Кошмарное" tvg-logo="https://epgx.club/picons/kbc-koshmar.png" group-title="Кинозал", KBC-Кошмарное
 #EXTGRP:Кинозал
 http://str6.oxtve.live:8080/KBC_koshmarnoe/mpegts
-#EXTINF:-1 tvg-id="fresh-vhs" tvg-name="KBC-Легендарное" tvg-logo="http://epg.one/img/6715.png" group-title="Кинозал", KBC-Легендарное
+#EXTINF:-1 tvg-id="kbc-ultra" tvg-name="KBC-Легендарное кино" tvg-logo="https://epgx.club/picons/kbc-ultra.png" group-title="Кинозал", KBC-Легендарное кино
 #EXTGRP:Кинозал
 http://str6.oxtve.live:8080/KBC_legend/mpegts
-#EXTINF:-1 tvg-id="fresh-vhs" tvg-name="KBC-СпортМикс" tvg-logo="http://epg.one/img/6715.png" group-title="Кинозал", KBC-СпортМикс
+#EXTINF:-1 tvg-id="kbc-sportmiks" tvg-name="KBC-СпортМикс" tvg-logo="https://epgx.club/picons/kbc-sportmiks.png" group-title="Кинозал", KBC-СпортМикс
 #EXTGRP:Кинозал
 http://str6.oxtve.live:8080/KBC_sportmix/mpegts
-#EXTINF:-1 tvg-id="fresh-vhs" tvg-name="KBC-Страна СССР" tvg-logo="http://epg.one/img/6715.png" group-title="Кинозал", KBC-Страна СССР
+#EXTINF:-1 tvg-id="kbc-sssr" tvg-name="KBC-Страна СССР" tvg-logo="https://epgx.club/picons/kbc-sssr.png" group-title="Кинозал", KBC-Страна СССР
 #EXTGRP:Кинозал
 http://str6.oxtve.live:8080/KBC_stranaUSSR/mpegts
-#EXTINF:-1 tvg-id="fresh-vhs" tvg-name="KBC-Шпионское" tvg-logo="http://epg.one/img/6715.png" group-title="Кинозал", KBC-Шпионское
+#EXTINF:-1 tvg-id="kbc-spy" tvg-name="KBC-Шпионское" tvg-logo="https://epgx.club/picons/kbc-spy.png" group-title="Кинозал", KBC-Шпионское
 #EXTGRP:Кинозал
 http://str6.oxtve.live:8080/KBC_shpionskoe/mpegts
-
-
-#EXTINF:-1 tvg-id="fresh-vhs" tvg-name="KBC-Comics" tvg-logo="http://epg.one/img/6715.png" group-title="Кинозал", KBC-Comics
+#EXTINF:-1 tvg-id="kbc-comics" tvg-name="KBC-Comics" tvg-logo="https://epgx.club/picons/kbc-comics.png" group-title="Кинозал", KBC-Comics
 #EXTGRP:Кинозал
 http://str6.oxtve.live:8080/KBC_comics/mpegts
-#EXTINF:-1 tvg-id="fresh-vhs" tvg-name="KBC-Elite Comedy`s" tvg-logo="http://epg.one/img/6715.png" group-title="Кинозал", KBC-Elite Comedy`s
+#EXTINF:-1 tvg-id="kbc-elite-comedys" tvg-name="KBC-Elite Comedy's" tvg-logo="https://epgx.club/picons/kbc-elite-comedys.png" group-title="Кинозал", KBC-Elite Comedy's
 #EXTGRP:Кинозал
 http://str6.oxtve.live:8080/KBC_elitecomedys/mpegts
-#EXTINF:-1 tvg-id="fresh-vhs" tvg-name="KBC-Fantastic" tvg-logo="http://epg.one/img/6715.png" group-title="Кинозал", KBC-Fantastic
+#EXTINF:-1 tvg-id="kbc-fantastic" tvg-name="KBC-Fantastic" tvg-logo="https://epgx.club/picons/kbc-fantastic.png" group-title="Кинозал", KBC-Fantastic
 #EXTGRP:Кинозал
 http://str6.oxtve.live:8080/KBC_fantastic/mpegts
-#EXTINF:-1 tvg-id="fresh-vhs" tvg-name="KBC-History" tvg-logo="http://epg.one/img/6715.png" group-title="Кинозал", KBC-History
+#EXTINF:-1 tvg-id="kbc-history" tvg-name="KBC-History" tvg-logo="https://epgx.club/picons/kbc-history.png" group-title="Кинозал", KBC-History
 #EXTGRP:Кинозал
 http://str6.oxtve.live:8080/KBC_History/mpegts
-#EXTINF:-1 tvg-id="fresh-vhs" tvg-name="KBC-MusKino" tvg-logo="http://epg.one/img/6715.png" group-title="Кинозал", KBC-MusKino
+#EXTINF:-1 tvg-id="kbc-muskino" tvg-name="KBC-MusKino" tvg-logo="https://epgx.club/picons/kbc-muskino.png" group-title="Кинозал", KBC-MusKino
 #EXTGRP:Кинозал
 http://str6.oxtve.live:8080/KBC_muskino/mpegts
-#EXTINF:-1 tvg-id="fresh-vhs" tvg-name="KBC-New Film" tvg-logo="http://epg.one/img/6715.png" group-title="Кинозал", KBC-New Film
+#EXTINF:-1 tvg-id="kbc-newfilm" tvg-name="KBC-New Film" tvg-logo="https://epgx.club/picons/kbc-newfilm.png" group-title="Кинозал", KBC-New Film
 #EXTGRP:Кинозал
 http://str6.oxtve.live:8080/KBC_Newfilm/mpegts
-#EXTINF:-1 tvg-id="fresh-vhs" tvg-name="KBC-Russian Комедия" tvg-logo="http://epg.one/img/6715.png" group-title="Кинозал", KBC-Russian Комедия
+#EXTINF:-1 tvg-id="kbc-russian-comedia" tvg-name="KBC-Russian Комедия" tvg-logo="https://epgx.club/picons/kbc-russian-comedia.png" group-title="Кинозал", KBC-Russian Комедия
 #EXTGRP:Кинозал
 http://str6.oxtve.live:8080/KBC_Russiancomedy/mpegts
-#EXTINF:-1 tvg-id="fresh-vhs" tvg-name="KBC-WAR" tvg-logo="http://epg.one/img/6715.png" group-title="Кинозал", KBC-WAR
+#EXTINF:-1 tvg-id="kbc-war" tvg-name="KBC-WAR" tvg-logo="https://epgx.club/picons/kbc-war.png" group-title="Кинозал", KBC-WAR
 #EXTGRP:Кинозал
 http://str6.oxtve.live:8080/KBC_war/mpegts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-id="belarus5" tvg-name="Беларусь 5 HD" tvg-logo="http://epg.one/img/2541.png" group-title="Спорт", Беларусь 5 HD
