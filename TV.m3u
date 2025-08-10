@@ -1958,22 +1958,30 @@ http://str6.oxtve.live:8080/Fresh_Thriller/mpegts
 http://str6.oxtve.live:8080/Fresh_VHS/mpegts
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="fresh-vhs" tvg-name="KBC-Comics" tvg-logo="http://epg.one/img/6715.png" group-title="Кинозал", KBC-Comics
+#EXTGRP:Кинозал
+http://str6.oxtve.live:8080/KBC_comics/mpegts
+#EXTINF:-1 tvg-id="fresh-vhs" tvg-name="KBC-Elite Comedy`s" tvg-logo="http://epg.one/img/6715.png" group-title="Кинозал", KBC-Elite Comedy`s
+#EXTGRP:Кинозал
+http://str6.oxtve.live:8080/KBC_elitecomedys/mpegts
+#EXTINF:-1 tvg-id="fresh-vhs" tvg-name="KBC-Fantastic" tvg-logo="http://epg.one/img/6715.png" group-title="Кинозал", KBC-Fantastic
+#EXTGRP:Кинозал
+http://str6.oxtve.live:8080/KBC_fantastic/mpegts
+#EXTINF:-1 tvg-id="fresh-vhs" tvg-name="KBC-History" tvg-logo="http://epg.one/img/6715.png" group-title="Кинозал", KBC-History
+#EXTGRP:Кинозал
+http://str6.oxtve.live:8080/KBC_History/mpegts
+#EXTINF:-1 tvg-id="fresh-vhs" tvg-name="KBC-MusKino" tvg-logo="http://epg.one/img/6715.png" group-title="Кинозал", KBC-MusKino
+#EXTGRP:Кинозал
+http://str6.oxtve.live:8080/KBC_muskino/mpegts
+#EXTINF:-1 tvg-id="fresh-vhs" tvg-name="KBC-New Film" tvg-logo="http://epg.one/img/6715.png" group-title="Кинозал", KBC-New Film
+#EXTGRP:Кинозал
+http://str6.oxtve.live:8080/KBC_Newfilm/mpegts
+#EXTINF:-1 tvg-id="fresh-vhs" tvg-name="KBC-Russian Комедия" tvg-logo="http://epg.one/img/6715.png" group-title="Кинозал", KBC-Russian Комедия
+#EXTGRP:Кинозал
+http://str6.oxtve.live:8080/KBC_Russiancomedy/mpegts
+#EXTINF:-1 tvg-id="fresh-vhs" tvg-name="KBC-WAR" tvg-logo="http://epg.one/img/6715.png" group-title="Кинозал", KBC-WAR
+#EXTGRP:Кинозал
+http://str6.oxtve.live:8080/KBC_war/mpegts
 
 
 #EXTINF:-1 tvg-id="belarus5" tvg-name="Беларусь 5 HD" tvg-logo="http://epg.one/img/2541.png" group-title="Спорт", Беларусь 5 HD
