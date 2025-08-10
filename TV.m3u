@@ -2091,7 +2091,18 @@ http://str6.oxtve.live:8080/SKYHIGHUHDHDR/mpegts
 #EXTINF:-1 tvg-id="skyhigh-vhsuhd" tvg-name="SKY HIGH VHS UHD" tvg-logo="https://epgx.club/picons/skyhigh-vhsuhd.png" group-title="Кинозал", SKY HIGH VHS UHD
 #EXTGRP:Кинозал
 http://str6.oxtve.live:8080/SKYHIGHVHSUHD/mpegts
-
+#EXTINF:-1 tvg-name="TOP Великолепный Век HD" tvg-logo="http://epg.one/img/5113.png" group-title="Кинозал", TOP Великолепный Век HD
+#EXTGRP:Кинозал
+http://str6.oxtve.live:8080/topVelikolepnyyVek/mpegts
+#EXTINF:-1 tvg-name="TOP BUDO HD" tvg-logo="http://epg.one/img/5115.png" group-title="Кинозал", TOP BUDO HD
+#EXTGRP:Кинозал
+http://str6.oxtve.live:8080/topbudohd/mpegts
+#EXTINF:-1 tvg-name="TOP Cinema HD" tvg-logo="http://epg.one/img/5116.png" group-title="Кинозал", TOP Cinema HD
+#EXTGRP:Кинозал
+http://str6.oxtve.live:8080/topcinemahd/mpegts
+#EXTINF:-1 tvg-name="TOP USSR HD" tvg-logo="http://epg.one/img/5117.png" group-title="Кинозал", TOP USSR HD
+#EXTGRP:Кинозал
+http://str6.oxtve.live:8080/topussr/mpegts
 
 
 
