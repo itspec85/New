@@ -3459,7 +3459,7 @@ https://e10-ll.facecast.net/rtv/0.m3u8
 #EXTINF:-1 tvg-id="rgvk-dagestan" tvg-name="РГВК Дагестан FHD" tvg-logo="https://cdn.epg.one/img/7710.png" group-title="Региональные РФ", РГВК Дагестан FHD
 #EXTGRP:Региональные РФ
 http://dagestan.mediacdn.ru/cdn/dagestan/playlist_hdhigh.m3u8
-#EXTINF:-1 tvg-id="region29" tvg-name="Регион 29 Архангельск" tvg-logo="https://avatars.mds.yandex.net/i?id=1d553f8ebb485f64276194a163d018dc-3873335-images-thumbs&n=13" group-title="Региональные РФ", Регион 29 Архангельск
+#EXTINF:-1 tvg-id="region29" tvg-name="Регион 29 Архангельск" tvg-logo="https://avatars.mds.yandex.net/get-socsnippets/10235467/2a00000197c35f38cabb2a7a68e5051fb4bb/square_216" group-title="Региональные РФ", Регион 29 Архангельск
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://dmi3y-tv.ru/hls/zabava/region/ARKH/CH_REGION29.m3u8
