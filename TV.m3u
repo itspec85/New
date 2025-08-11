@@ -1260,6 +1260,9 @@ http://195.26.83.96:7029/play/a008
 #EXTINF:-1 tvg-id="terra-ru" tvg-name="TERRA" tvg-logo="http://epg.one/img/7632.png" group-title="Познавательные", TERRA
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000008142/tve/index.m3u8
+#EXTINF:-1 tvg-id="the-explorers" tvg-name="The Explorers" tvg-logo="http://epg.one/img/9082.png" group-title="Познавательные", The Explorers
+#EXTGRP:Познавательные
+http://77.235.1.19:8000/play/a058/index.m3u8
 #EXTINF:-1 tvg-id="tlc" tvg-name="TLC" tvg-logo="http://epg.one/img/2345.png" group-title="Познавательные", TLC
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000001498/tve/index.m3u8
