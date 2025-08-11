@@ -1319,7 +1319,7 @@ https://ucdn.beetv.kz/bpk-tv/000006482/tve/index.m3u8
 http://178.217.72.66:8080/Viasat_Nature/index.m3u8
 #EXTINF:-1 tvg-id="viasat-nature-history-hd" tvg-name="Viju+ Planet HD" tvg-logo="http://epg.one/img/2012.png" group-title="Познавательные", Viju+ Planet HD
 #EXTGRP:Познавательные
-http://sltv2.be:8080/DeNiSoNkEl/nPcCsz5hHn/581432
+http://77.235.1.19:8000/play/a05m/index.m3u8
 #EXTINF:-1 tvg-name="VIP HD" tvg-logo="https://avatars.mds.yandex.net/i?id=caa18786cf719cb262caf54d3cbbd750_sr-9099210-images-thumbs&n=13" group-title="Познавательные", VIP HD
 #EXTGRP:Познавательные
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/vip.m3u8
