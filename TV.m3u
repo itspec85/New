@@ -1260,6 +1260,24 @@ https://ucdn.beetv.kz/bpk-tv/000000039/tve/index.m3u8
 #EXTINF:-1 tvg-id="russky-ekstrim" tvg-name="Russian Extreme HD" tvg-logo="http://epg.one/img/4110.png" group-title="Познавательные", Russian Extreme HD
 #EXTGRP:Познавательные
 http://195.26.83.96:7029/play/a008
+#EXTINF:-1 tvg-id="skyhigh-brain" tvg-name="SKY HIGH BRAIN HD" tvg-logo="https://epgx.club/picons/skyhigh-brain.png" group-title="Познавательные", SKY HIGH BRAIN HD
+#EXTGRP:Познавательные
+http://str6.oxtve.live:8080/SKYHIGHBRAINHD/mpegts
+#EXTINF:-1 tvg-id="skyhigh-doc" tvg-name="SKY HIGH DOC HD" tvg-logo="https://epgx.club/picons/skyhigh-doc.png" group-title="Познавательные", SKY HIGH DOC HD
+#EXTGRP:Познавательные
+http://str6.oxtve.live:8080/SKYHIGHDOCHD/mpegts
+#EXTINF:-1 tvg-id="skyhigh-docu" tvg-name="SKY HIGH DOC UHD" tvg-logo="https://epgx.club/picons/skyhigh-docu.png" group-title="Познавательные", SKY HIGH DOC UHD
+#EXTGRP:Познавательные
+http://str6.oxtve.live:8080/SKYHIGHDOCUHD/mpegts
+#EXTINF:-1 tvg-id="skyhigh-nature4k" tvg-name="SKY HIGH NATURE 4K" tvg-logo="https://epgx.club/picons/skyhigh-nature4k.png" group-title="Познавательные", SKY HIGH NATURE 4K
+#EXTGRP:Познавательные
+http://str6.oxtve.live:8080/SKYHIGHNATURE4K/mpegts
+#EXTINF:-1 tvg-id="skyhigh-new-4k-hdr" tvg-name="SKY HIGH NATURE 4K HDR" tvg-logo="https://epgx.club/picons/skyhigh-new-4k-hdr.png" group-title="Познавательные", SKY HIGH NATURE 4K HDR
+#EXTGRP:Познавательные
+http://str6.oxtve.live:8080/SKYHIGHNATURE4KHDR/mpegts
+#EXTINF:-1 tvg-id="skyhigh-nature" tvg-name="SKY HIGH NATURE HD" tvg-logo="https://epgx.club/picons/skyhigh-nature.png" group-title="Познавательные", SKY HIGH NATURE HD
+#EXTGRP:Познавательные
+http://str6.oxtve.live:8080/SKYHIGHNATUREFHD/mpegts
 #EXTINF:-1 tvg-id="terra-ru" tvg-name="TERRA" tvg-logo="http://epg.one/img/7632.png" group-title="Познавательные", TERRA
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000008142/tve/index.m3u8
