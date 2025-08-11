@@ -810,6 +810,9 @@ http://86.57.209.210/AnimalFamily/index.m3u8
 #EXTINF:-1 tvg-name="Вера 24" tvg-logo="https://i.imgur.com/Qer5Lnh.png" group-title="Познавательные", Вера 24
 #EXTGRP:Познавательные
 https://5d23269b3ec0c.streamlock.net/WEB_Vera24/Vera24.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="vkus" tvg-name="Вкус" tvg-logo="https://epgx.club/picons/vkus.png" group-title="Познавательные", Вкус
+#EXTGRP:Познавательные
+http://tvip.btk.teleos.ru:8081/chid515/index.m3u8
 #EXTINF:-1 tvg-id="vmeste-rf" tvg-name="Вместе-РФ" tvg-logo="http://epg.one/img/2398.png" group-title="Познавательные", Вместе-РФ
 #EXTGRP:Познавательные
 https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
@@ -924,6 +927,9 @@ http://195.26.83.96:7007/play/11/index.m3u8
 #EXTINF:-1 tvg-id="muzhskoy" tvg-name="Мужской HD" tvg-logo="http://epg.one/img/2444.png" group-title="Познавательные", Мужской HD
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000000286/tve/index.m3u8
+#EXTINF:-1 tvg-id="myy" tvg-name="Мы" tvg-logo="http://epg.one/img/8951.png" group-title="Познавательные", Мы
+#EXTGRP:Познавательные
+http://77.235.1.19:8000/play/a02z/index.m3u8
 #EXTINF:-1 tvg-id="nadezhda" tvg-name="Надежда" tvg-logo="http://epg.one/img/1732.png" group-title="Познавательные", Надежда
 #EXTGRP:Познавательные
 http://dmi3y-tv.ru/hls/CH_NADEZHDAHD720.m3u8
@@ -1053,6 +1059,9 @@ http://31.148.48.15:80/Telekafe/index.m3u8
 #EXTINF:-1 tvg-id="teleputeshestvia" tvg-name="Телепутешествия" tvg-logo="http://epg.one/img/2424.png" group-title="Познавательные", Телепутешествия
 #EXTGRP:Познавательные
 http://31.148.48.15/Teleputeshestviya/index.m3u8
+#EXTINF:-1 tvg-id="terra-inkognita" tvg-name="Терра Инкогнита" tvg-logo="https://epgx.club/picons/terra-inkognita.png" group-title="Познавательные", Терра Инкогнита
+#EXTGRP:Познавательные
+http://178.124.153.123:44400/terra
 #EXTINF:-1 tvg-id="tochka-otryva" tvg-name="Точка отрыва" tvg-logo="http://epg.one/img/617.png" group-title="Познавательные", Точка отрыва
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000003208/tve/index.m3u8
@@ -1110,6 +1119,9 @@ https://ucdn.beetv.kz/bpk-tv/000000707/tve/index.m3u8
 #EXTINF:-1 tvg-id="continent-e" tvg-name="Continent E" tvg-logo="https://epgx.club/picons/continent-e.png" group-title="Познавательные", Continent E
 #EXTGRP:Познавательные
 http://95.67.12.82:9083
+#EXTINF:-1 tvg-id="curiosity-stream" tvg-name="Curiosity Stream HD" tvg-logo="http://epg.one/img/7266.png" group-title="Познавательные", Curiosity Stream HD
+#EXTGRP:Познавательные
+http://178.217.72.66:8080/curiositystream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="deutsche-welle-eu" tvg-name="Deutsche Welle EN" tvg-logo="http://epg.one/img/8638.png" group-title="Познавательные", Deutsche Welle EN
 #EXTGRP:Познавательные
 http://dmi3y-tv.ru/hls/CH_DW_ENGLISHHD.m3u8
@@ -1158,6 +1170,9 @@ https://ucdn.beetv.kz/bpk-tv/000000332/tve/index.m3u8
 #EXTINF:-1 tvg-name="Gameplay" tvg-logo="https://avatars.mds.yandex.net/i?id=c575f44cab8db1ef668138254a3e76f3355940db-4292261-images-thumbs&n=13" group-title="Познавательные", Gameplay
 #EXTGRP:Познавательные
 https://fl1001.bozztv.com/ushba31/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="hgtv" tvg-name="HGTV HD" tvg-logo="http://epg.one/img/2377.png" group-title="Познавательные", HGTV HD
+#EXTGRP:Познавательные
+http://str6.oxtve.live:8080/HGTV_HD/mpegts
 #EXTINF:-1 tvg-name="HHQ" tvg-logo="https://avatars.mds.yandex.net/i?id=7a0a2713e4257dc393e55ded3c1e89de34ca5d21-8411463-images-thumbs&n=13" group-title="Познавательные", HHQ
 #EXTGRP:Познавательные
 https://stream.maxssw.com/hhq/live/chunklist.m3u8
@@ -1170,6 +1185,9 @@ http://95.85.109.219:7000/play/a069
 #EXTINF:-1 tvg-id="h2" tvg-name="History 2" tvg-logo="http://epg.one/img/2356.png" group-title="Познавательные", History 2
 #EXTGRP:Познавательные
 http://95.67.12.81:10620?key=fas-tv.com
+#EXTINF:-1 tvg-id="insight-tv-hd" tvg-name="Insight TV HD" tvg-logo="http://epg.one/img/2800.png" group-title="Познавательные", Insight TV HD
+#EXTGRP:Познавательные
+http://178.217.72.66:8080/insight/index.m3u8
 #EXTINF:-1 tvg-id="id-xtra-eu" tvg-name="Investigation Discovery" tvg-logo="http://epg.one/img/2507.png" group-title="Познавательные", Investigation Discovery
 #EXTGRP:Познавательные
 http://45.159.74.22/InvestigationDiscovery/mono.m3u8
