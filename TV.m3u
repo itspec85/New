@@ -1158,6 +1158,9 @@ http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_de
 #EXTINF:-1 tvg-id="food-network-eu" tvg-name="Food Network" tvg-logo="http://epg.one/img/3607.png" group-title="Познавательные", Food Network
 #EXTGRP:Познавательные
 http://178.217.72.66:8080/food_network/index.m3u8
+#EXTINF:-1 tvg-id="eda-hd" tvg-name="FoodTime" tvg-logo="http://epg.one/img/7635.png" group-title="Познавательные", FoodTime
+#EXTGRP:Познавательные
+http://31.148.48.15/Eda_Premium_HD/index.m3u8
 #EXTINF:-1 tvg-id="fox-news-us" tvg-name="FOX NEWS CHANNEL FHD" tvg-logo="http://epg.one/img/6683.png" group-title="Познавательные", FOX NEWS CHANNEL FHD
 #EXTGRP:Познавательные
 http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
@@ -2220,6 +2223,9 @@ http://srvru.play-x.ru/channel/23bda41b/index.m3u8?q=577950063c2ab3f157549e419e1
 #EXTINF:-1 tvg-id="start" tvg-name="Старт" tvg-logo="http://epg.one/img/2530.png" group-title="Спорт", Старт
 #EXTGRP:Спорт
 http://sltv2.be:8080/DeNiSoNkEl/nPcCsz5hHn/510637
+#EXTINF:-1 tvg-id="start-triumf" tvg-name="Старт Триумф HD" tvg-logo="http://epg.one/img/9112.png" group-title="Спорт", Старт Триумф HD
+#EXTGRP:Спорт
+http://31.133.36.244:8000/109
 #EXTINF:-1 tvg-id="ufc" tvg-name="Удар HD" tvg-logo="http://epg.one/img/2480.png" group-title="Спорт", Удар HD
 #EXTGRP:Спорт
 https://ucdn.beetv.kz/bpk-tv/000007802/tve/index.m3u8
@@ -2361,6 +2367,9 @@ https://ucdn.beetv.kz/bpk-tv/000008848/tve/index.m3u8
 #EXTINF:-1 tvg-id="q-sport-ext" tvg-name="Q League HD KZ" tvg-logo="http://epg.one/img/7236.png" group-title="Спорт", Q League HD KZ
 #EXTGRP:Спорт
 https://ucdn.beetv.kz/bpk-tv/000006969/tve/index.m3u8
+#EXTINF:-1 tvg-id="qsport-kg" tvg-name="Q Sport.KG HD" tvg-logo="http://epg.one/img/5891.png" group-title="Спорт", Q Sport.KG HD
+#EXTGRP:Спорт
+http://95.85.109.219:7000/play/a05u
 #EXTINF:-1 tvg-id="kazsport" tvg-name="Qazsport KZ" tvg-logo="http://epg.one/img/7509.png" group-title="Спорт", Qazsport KZ
 #EXTGRP:Спорт
 https://ucdn.beetv.kz/bpk-tv/000003038/tve/index.m3u8
