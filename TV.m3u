@@ -1417,6 +1417,9 @@ http://158.160.149.81:8080/8185/index.m3u8
 #EXTINF:-1 tvg-id="balapan" tvg-name="Balapan" tvg-logo="https://epgx.club/picons/balapan.png" group-title="Детские", Balapan
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000005178/tve/index.m3u8
+#EXTINF:-1 tvg-id="skyhigh-bunny" tvg-name="BUNNY HD" tvg-logo="https://epgx.club/picons/skyhigh-bunny.png" group-title="Детские", BUNNY HD
+#EXTGRP:Детские
+http://str6.oxtve.live:8080/BUNNYHD/mpegts
 #EXTINF:-1 tvg-id="cartoon-classics" tvg-name="Cartoon Classics" tvg-logo="http://epg.one/img/9183.png" group-title="Детские", Cartoon Classics
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000008795/tve/index.m3u8
@@ -1441,9 +1444,21 @@ https://ucdn.beetv.kz/bpk-tv/000000284/tve/index.m3u8
 #EXTINF:-1 tvg-id="jimjam" tvg-name="JimJam" tvg-logo="http://epg.one/img/494.png" group-title="Детские", JimJam
 #EXTGRP:Детские
 http://178.217.72.66:8080/JimJam/index.m3u8
+#EXTINF:-1 tvg-id="kbc-multzal" tvg-name="KBC-Союзмультzal" tvg-logo="https://epgx.club/picons/kbc-multzal.png" group-title="Детские", KBC-Союзмультzal
+#EXTGRP:Детские
+http://str6.oxtve.live:8080/KBC_soyuzmultzal/mpegts
+#EXTINF:-1 tvg-id="kbc-family-animation" tvg-name="KBC-Family Animation" tvg-logo="https://epgx.club/picons/kbc-family-animation.png" group-title="Детские", KBC-Family Animation
+#EXTGRP:Детские
+http://str6.oxtve.live:8080/KBC_FamilyAnimation/mpegts
 #EXTINF:-1 tvg-id="kidstv" tvg-name="Kids TV HD" tvg-logo="http://epg.one/img/9025.png" group-title="Детские", Kids TV HD
 #EXTGRP:Детские
 http://origin5.mediacdn.ru/live/kidstv/index.m3u8
+#EXTINF:-1 tvg-id="magic-disney" tvg-name="Magic Disney HD" tvg-logo="http://epg.one/img/6251.png" group-title="Детские", Magic Disney HD
+#EXTGRP:Детские
+http://str6.oxtve.live:8080/Magic_Disney/mpegts
+#EXTINF:-1 tvg-id="minimax-animated-ms" tvg-name="MS Animated HD" tvg-logo="http://epg.one/img/6166.png" group-title="Детские", MS Animated HD
+#EXTGRP:Детские
+http://str6.oxtve.live:8080/MSANIMATED/mpegts
 #EXTINF:-1 tvg-id="nick-jr" tvg-name="Nick Jr" tvg-logo="http://epg.one/img/917.png" group-title="Детские", Nick Jr
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000000449/tve/index.m3u8
@@ -1456,6 +1471,9 @@ https://ucdn.beetv.kz/bpk-tv/000004365/tve/index.m3u8
 #EXTINF:-1 tvg-id="salemalem-kz" tvg-name="Sälem älem!" tvg-logo="https://epgx.club/picons/salemalem-kz.png" group-title="Детские", Sälem älem!
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000008864/tve/index.m3u8
+#EXTINF:-1 tvg-id="skyhigh-kidsussr" tvg-name="SKY HIGH KIDS USSR" tvg-logo="https://epgx.club/picons/skyhigh-kidsussr.png" group-title="Детские", SKY HIGH KIDS USSR
+#EXTGRP:Детские
+http://str6.oxtve.live:8080/SKYHIGHKIDSUSSR/mpegts
 #EXTINF:-1 tvg-id="sumiko" tvg-name="Sumiko HD" tvg-logo="http://epg.one/img/9181.png" group-title="Детские", Sumiko HD
 #EXTGRP:Детские
 http://158.160.149.81:8080/8709/index.m3u8
