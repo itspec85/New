@@ -1557,7 +1557,7 @@ https://ucdn.beetv.kz/bpk-tv/000004485/tve/index.m3u8
 http://178.217.72.66:8080/komediynoe/index.m3u8
 #EXTINF:-1 tvg-id="lubimoe-kino" tvg-name="Любимое кино" tvg-logo="http://epg.one/img/477.png" group-title="Кино", Любимое кино
 #EXTGRP:Кино
-http://213.91.178.133:8000/play/a0af
+http://178.217.72.66:8080/Lyubimoe_Kino/index.m3u8
 #EXTINF:-1 tvg-id="mir-seriala" tvg-name="Мир сериала" tvg-logo="http://epg.one/img/2275.png" group-title="Кино", Мир сериала
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000000319/tve/index.m3u8
@@ -1640,13 +1640,13 @@ https://ucdn.beetv.kz/bpk-tv/000008135/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000008489/tve/index.m3u8
 #EXTINF:-1 tvg-name="Сити Эдем - КиноКлассика" tvg-logo="https://www.cityeden.info/logotv/logotip_kinoklassika.png" group-title="Кино", Сити Эдем - КиноКлассика
 #EXTGRP:Кино
-https://v2.catcast.tv/content/34185/index.m3u8
+http://autopilot.catcast.tv/content/34185/index.m3u8
 #EXTINF:-1 tvg-name="Сити Эдем - КиноМистика" tvg-logo="https://www.cityeden.info/logotv/logotip_kinomostika.png" group-title="Кино", Сити Эдем - КиноМистика
 #EXTGRP:Кино
-https://v2.catcast.tv/content/40783/index.m3u8
+https://autopilot.catcast.tv/content/40783/index.m3u8
 #EXTINF:-1 tvg-name="Сити Эдем - КиноЭкшен" tvg-logo="https://www.cityeden.info/logotv/logotip_siti_ehdem-kinoehkshen2.png" group-title="Кино", Сити Эдем - КиноЭкшен
 #EXTGRP:Кино
-https://v2.catcast.tv/content/41333/index.m3u8
+http://autopilot.catcast.tv/content/41333/index.m3u8
 #EXTINF:-1 tvg-name="Сити Эдем - ТелеНовелла" tvg-logo="https://www.cityeden.info/logotv/logotip_telenovella.png" group-title="Кино", Сити Эдем - ТелеНовелла
 #EXTGRP:Кино
 https://autopilot.catcast.tv/content/46209/index.m3u8
@@ -1659,9 +1659,6 @@ https://mhd128.iptv2022.com/p/I7DW-G9rpyfW0nMdalWDSQ,1755118821/streaming/sovet_
 #EXTINF:-1 tvg-id="sovkino" tvg-name="Советское кино" tvg-logo="http://epg.one/img/9399.png" group-title="Кино", Советское кино
 #EXTGRP:Кино
 https://mhd128.iptv2022.com/p/cjPuQrA2DcuyZqsp2MuXew,1755118807/streaming/sovietmovs/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-id="super-plus" tvg-name="Супер+" tvg-logo="https://epgx.club/picons/super-plus.png" group-title="Кино", Супер+
-#EXTGRP:Кино
-http://81.198.190.9:7878/superplus/video.m3u8
 #EXTINF:-1 tvg-id="tvxxi" tvg-name="ТВ 21" tvg-logo="http://epg.one/img/309.png" group-title="Кино", ТВ 21
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000000006/tve/index.m3u8
