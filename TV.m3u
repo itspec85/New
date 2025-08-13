@@ -809,7 +809,7 @@ https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 http://86.57.209.210/AnimalFamily/index.m3u8
 #EXTINF:-1 tvg-name="Вера 24" tvg-logo="https://i.imgur.com/Qer5Lnh.png" group-title="Познавательные", Вера 24
 #EXTGRP:Познавательные
-https://5d23269b3ec0c.streamlock.net/WEB_Vera24/Vera24.stream/playlist.m3u8
+https://5f05e059699ae.streamlock.net/WEB_Vera24/ngrp:Vera24.stream-adaptive/playlist.m3u8
 #EXTINF:-1 tvg-id="vkus" tvg-name="Вкус" tvg-logo="https://epgx.club/picons/vkus.png" group-title="Познавательные", Вкус
 #EXTGRP:Познавательные
 http://tvip.btk.teleos.ru:8081/chid515/index.m3u8
@@ -821,7 +821,7 @@ https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/play
 https://ucdn.beetv.kz/bpk-tv/000000195/tve/index.m3u8
 #EXTINF:-1 tvg-id="vremia" tvg-name="Время" tvg-logo="http://epg.one/img/669.png" group-title="Познавательные", Время
 #EXTGRP:Познавательные
-http://45.143.108.110:2200/vremia
+http://178.217.72.66:8080/Vremya/index.m3u8
 #EXTINF:-1 tvg-id="glazami-turista" tvg-name="Глазами туриста HD" tvg-logo="http://epg.one/img/2508.png" group-title="Познавательные", Глазами туриста HD
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000001414/tve/index.m3u8
@@ -872,7 +872,7 @@ http://45.159.74.22/DTX/tracks-v1a1/mono.m3u8
 https://ucdn.beetv.kz/bpk-tv/000006638/tve/index.m3u8
 #EXTINF:-1 tvg-id="zdorovoe-tv" tvg-name="Здоровое ТВ" tvg-logo="http://epg.one/img/2449.png" group-title="Познавательные", Здоровое ТВ
 #EXTGRP:Познавательные
-http://194.158.218.123:8880/ZdorovoeTV/index.m3u8
+http://178.212.71.253:8000/play/94/index.m3u8
 #EXTINF:-1 tvg-id="zootv" tvg-name="Зоо ТВ" tvg-logo="http://epg.one/img/2431.png" group-title="Познавательные", Зоо ТВ
 #EXTGRP:Познавательные
 http://31.148.48.15:80/Zoo_TV/index.m3u8?token=test
@@ -911,7 +911,7 @@ https://ucdn.beetv.kz/bpk-tv/000001377/tve/index.m3u8
 http://178.124.152.238:8088/kuhnya
 #EXTINF:-1 tvg-id="lapki-live" tvg-name="Лапки Live HD" tvg-logo="http://epg.one/img/9093.png" group-title="Познавательные", Лапки Live HD
 #EXTGRP:Познавательные
-http://91.247.68.229:8000/play/Lapki/index.m3u8
+http://tvip.btk.teleos.ru:8081/chid514/index.m3u8
 #EXTINF:-1 tvg-id="ldpr-tv" tvg-name="ЛДПР ТВ" tvg-logo="http://epg.one/img/2465.png" group-title="Познавательные", ЛДПР ТВ
 #EXTGRP:Познавательные
 http://46.46.143.222:1935/live/mp4:ldpr.stream_480p/playlist.m3u8
