@@ -1073,7 +1073,7 @@ http://178.217.72.66:8080/HDL/index.m3u8
 http://31.148.48.15/Tochka_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tri-angela" tvg-name="Три ангела" tvg-logo="http://epg.one/img/2469.png" group-title="Познавательные", Три ангела
 #EXTGRP:Познавательные
-http://hls.tv.3angels.ru/stream/HD/HD.m3u8
+https://hls.tv.3angels.ru/stream/HQ.m3u8
 #EXTINF:-1 tvg-id="usadba" tvg-name="Усадьба" tvg-logo="http://epg.one/img/434.png" group-title="Познавательные", Усадьба
 #EXTGRP:Познавательные
 http://194.158.218.123:8880/Usadba/index.m3u8
