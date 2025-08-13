@@ -1074,9 +1074,6 @@ http://158.160.149.81:8080/145/index.m3u8
 #EXTINF:-1 tvg-id="centralnoye-tv" tvg-name="Центральное телевидение" tvg-logo="http://epg.one/img/2400.png" group-title="Познавательные", Центральное телевидение
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000001880/tve/index.m3u8
-#EXTINF:-1 tvg-id="1-2" tvg-name="1+2" tvg-logo="http://epg.one/img/7232.png" group-title="Познавательные", 1+2
-#EXTGRP:Познавательные
-http://81.198.190.9:7878/1plus2/playlist.m3u8
 #EXTINF:-1 tvg-id="2na2" tvg-name="2x2" tvg-logo="http://epg.one/img/323.png" group-title="Познавательные", 2x2
 #EXTGRP:Познавательные
 http://31.148.48.15/2x2/index.m3u8
@@ -1148,7 +1145,7 @@ https://ucdn.beetv.kz/bpk-tv/000002455/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000000439/tve/index.m3u8
 #EXTINF:-1 tvg-id="fashion-one-4k" tvg-name="Fashion TV UHD" tvg-logo="http://epg.one/img/2748.png" group-title="Познавательные", Fashion TV UHD
 #EXTGRP:Познавательные
-http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="food-network-eu" tvg-name="Food Network" tvg-logo="http://epg.one/img/3607.png" group-title="Познавательные", Food Network
 #EXTGRP:Познавательные
 http://178.217.72.66:8080/food_network/index.m3u8
@@ -1167,12 +1164,6 @@ https://ucdn.beetv.kz/bpk-tv/000000332/tve/index.m3u8
 #EXTINF:-1 tvg-name="Gameplay" tvg-logo="https://avatars.mds.yandex.net/i?id=c575f44cab8db1ef668138254a3e76f3355940db-4292261-images-thumbs&n=13" group-title="Познавательные", Gameplay
 #EXTGRP:Познавательные
 https://fl1001.bozztv.com/ushba31/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="hgtv" tvg-name="HGTV HD" tvg-logo="http://epg.one/img/2377.png" group-title="Познавательные", HGTV HD
-#EXTGRP:Познавательные
-http://str6.oxtve.live:8080/HGTV_HD/mpegts
-#EXTINF:-1 tvg-name="HHQ" tvg-logo="https://avatars.mds.yandex.net/i?id=7a0a2713e4257dc393e55ded3c1e89de34ca5d21-8411463-images-thumbs&n=13" group-title="Познавательные", HHQ
-#EXTGRP:Познавательные
-https://stream.maxssw.com/hhq/live/chunklist.m3u8
 #EXTINF:-1 tvg-id="history" tvg-name="History" tvg-logo="http://epg.one/img/1394.png" group-title="Познавательные", History
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000001000/tve/index.m3u8
@@ -1194,9 +1185,6 @@ https://api.alpaca.t62a.com/hls/9104/stream0.m3u8
 #EXTINF:-1 tvg-name="Kulinar TV" tvg-logo="https://bem-media.de/wp-content/uploads/Kulinar.png" group-title="Познавательные", Kulinar TV
 #EXTGRP:Познавательные
 http://api.alpaca.t62a.com/hls/9110/stream0.m3u8
-#EXTINF:-1 tvg-id="love-nature-4k" tvg-name="Love Nature 4K" tvg-logo="http://epg.one/img/2801.png" group-title="Познавательные", Love Nature 4K
-#EXTGRP:Познавательные
-https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-name="LOVE NATURE HD" tvg-logo="http://epg.one/img/3919.png" group-title="Познавательные", LOVE NATURE HD
 #EXTGRP:Познавательные
 http://95.67.12.82:9098
@@ -1220,13 +1208,10 @@ https://ucdn.beetv.kz/bpk-tv/000000034/tve/index.m3u8
 http://178.217.72.66:8080/National_Geographic_HD/index.m3u8
 #EXTINF:-1 tvg-id="ocean-tv" tvg-name="OCEAN-TV" tvg-logo="http://epg.one/img/55.png" group-title="Познавательные", OCEAN-TV
 #EXTGRP:Познавательные
-http://45.11.139.43:8555/ocean/index.m3u8
+http://217.11.177.57/streams/media/teatr_720x576/index.m3u8
 #EXTINF:-1 tvg-id="one-planet" tvg-name="One Planet" tvg-logo="https://epgx.club/picons/one-planet.png" group-title="Познавательные", One Planet
 #EXTGRP:Познавательные
 http://95.67.12.82:9088
-#EXTINF:-1 tvg-id="ostwest" tvg-name="OstWest" tvg-logo="http://epg.one/img/7670.png" group-title="Познавательные", OstWest
-#EXTGRP:Познавательные
-http://81.198.190.9:7878/RTVD/video.m3u8
 #EXTINF:-1 tvg-id="ostwest24" tvg-name="OstWest24" tvg-logo="https://iptvx.one/picons/ostwest24.png" group-title="Познавательные", OstWest24
 #EXTGRP:Познавательные
 http://95.67.12.82:9077
@@ -1241,7 +1226,7 @@ https://iptv.prosto.tv/id532/video.m3u8
 https://streaming.televizor-24-tochka.ru/live/554.m3u8
 #EXTINF:-1 tvg-id="rt-news" tvg-name="RT News" tvg-logo="http://epg.one/img/2269.png" group-title="Познавательные", RT News
 #EXTGRP:Познавательные
-http://cdn-01.bonus-tv.ru/RussiaToday/tracks-v1a1/index.m3u8
+https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-4/mxtm-wdfe_1080p/chunklist_DVR.m3u8
 #EXTINF:-1 tvg-id="rtg-hd" tvg-name="RTG HD" tvg-logo="http://epg.one/img/648.png" group-title="Познавательные", RTG HD
 #EXTGRP:Познавательные
 http://194.143.148.28:8080/RTG_HD/index.m3u8
@@ -1254,24 +1239,6 @@ https://ucdn.beetv.kz/bpk-tv/000000039/tve/index.m3u8
 #EXTINF:-1 tvg-id="russky-ekstrim" tvg-name="Russian Extreme HD" tvg-logo="http://epg.one/img/4110.png" group-title="Познавательные", Russian Extreme HD
 #EXTGRP:Познавательные
 http://195.26.83.96:7029/play/a008
-#EXTINF:-1 tvg-id="skyhigh-brain" tvg-name="SKY HIGH BRAIN HD" tvg-logo="https://epgx.club/picons/skyhigh-brain.png" group-title="Познавательные", SKY HIGH BRAIN HD
-#EXTGRP:Познавательные
-http://str6.oxtve.live:8080/SKYHIGHBRAINHD/mpegts
-#EXTINF:-1 tvg-id="skyhigh-doc" tvg-name="SKY HIGH DOC HD" tvg-logo="https://epgx.club/picons/skyhigh-doc.png" group-title="Познавательные", SKY HIGH DOC HD
-#EXTGRP:Познавательные
-http://str6.oxtve.live:8080/SKYHIGHDOCHD/mpegts
-#EXTINF:-1 tvg-id="skyhigh-docu" tvg-name="SKY HIGH DOC UHD" tvg-logo="https://epgx.club/picons/skyhigh-docu.png" group-title="Познавательные", SKY HIGH DOC UHD
-#EXTGRP:Познавательные
-http://str6.oxtve.live:8080/SKYHIGHDOCUHD/mpegts
-#EXTINF:-1 tvg-id="skyhigh-nature4k" tvg-name="SKY HIGH NATURE 4K" tvg-logo="https://epgx.club/picons/skyhigh-nature4k.png" group-title="Познавательные", SKY HIGH NATURE 4K
-#EXTGRP:Познавательные
-http://str6.oxtve.live:8080/SKYHIGHNATURE4K/mpegts
-#EXTINF:-1 tvg-id="skyhigh-new-4k-hdr" tvg-name="SKY HIGH NATURE 4K HDR" tvg-logo="https://epgx.club/picons/skyhigh-new-4k-hdr.png" group-title="Познавательные", SKY HIGH NATURE 4K HDR
-#EXTGRP:Познавательные
-http://str6.oxtve.live:8080/SKYHIGHNATURE4KHDR/mpegts
-#EXTINF:-1 tvg-id="skyhigh-nature" tvg-name="SKY HIGH NATURE HD" tvg-logo="https://epgx.club/picons/skyhigh-nature.png" group-title="Познавательные", SKY HIGH NATURE HD
-#EXTGRP:Познавательные
-http://str6.oxtve.live:8080/SKYHIGHNATUREFHD/mpegts
 #EXTINF:-1 tvg-id="terra-ru" tvg-name="TERRA" tvg-logo="http://epg.one/img/7632.png" group-title="Познавательные", TERRA
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000008142/tve/index.m3u8
@@ -1289,7 +1256,7 @@ http://45.159.74.22/TLC/mono.m3u8
 http://178.217.72.66:8080/Travel_Channel/index.m3u8
 #EXTINF:-1 tvg-id="travel-adventure" tvg-name="travel+adventure" tvg-logo="http://epg.one/img/1035.png" group-title="Познавательные", travel+adventure
 #EXTGRP:Познавательные
-http://sltv2.be:8080/DeNiSoNkEl/nPcCsz5hHn/550285
+http://31.133.36.244:8000/171
 #EXTINF:-1 tvg-id="tv-brics" tvg-name="TV BRICS" tvg-logo="https://iptvx.one/picons/tv-brics.png" group-title="Познавательные", TV BRICS
 #EXTGRP:Познавательные
 http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
