@@ -268,7 +268,7 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_RENTV_6.m3u8
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RENTV_7.m3u8
 #EXTINF:-1 tvg-name="Рен ТВ International" tvg-logo="https://i.postimg.cc/SsRGs7Y7/International.png" group-title="Россия", Рен ТВ International
 #EXTGRP:Россия
-http://213.91.178.133:8000/play/a0ax
+http://85.117.61.97:8000/play/a01t/index.m3u8
 #EXTINF:-1 tvg-id="rossia1" tvg-shift="+1" tvg-name="Россия 1 -1" tvg-logo="http://epg.one/img/711.png" group-title="Россия", Россия 1 -1
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -403,7 +403,7 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_STS_6.m3u8
 http://dmi3y-tv.ru/hls/DVB-T2/CH_STS_7.m3u8
 #EXTINF:-1 tvg-id="sts-int" tvg-name="СТС International" tvg-logo="http://epg.one/img/5652.png" group-title="Россия", СТС International
 #EXTGRP:Россия
-http://213.91.178.133:8000/play/a05u
+http://85.117.61.97:8000/play/a01j/index.m3u8
 #EXTINF:-1 tvg-id="sts-love" tvg-shift="+1" tvg-name="СТС Love -1" tvg-logo="http://epg.one/img/1322.png" group-title="Россия", СТС Love -1
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -710,7 +710,7 @@ https://tvcdn01.oktv.kz/tv/mtrk/index.m3u8
 https://hls.live.31kz.adapto.kz/muzzone/index.m3u8
 #EXTINF:-1 tvg-id="novoe-televidenie" tvg-name="Новое телевидение KZ" tvg-logo="http://epg.one/img/2638.png" group-title="Казахстан", Новое телевидение KZ
 #EXTGRP:Казахстан
-https://live.zhanafm.kz:8181/memfs/fd715789-382f-4ec6-b4ba-d8e2fde59c7b.m3u8
+https://ucdn.beetv.kz/bpk-tv/000001380/tve/index.m3u8
 #EXTINF:-1 tvg-id="ntk-kz" tvg-name="НТК KZ" tvg-logo="http://epg.one/img/2640.png" group-title="Казахстан", НТК KZ
 #EXTGRP:Казахстан
 https://ucdn.beetv.kz/bpk-tv/000000673/tve/index.m3u8
@@ -738,7 +738,7 @@ https://ucdn.beetv.kz/bpk-tv/000003250/tve/index.m3u8
 #EXTINF:-1 audio-track="Kazakh" tvg-name="Silk Way" tvg-logo="http://epg.one/img/9033.png" group-title="Казахстан", Silk Way
 #EXTGRP:Казахстан
 https://ikomg-kazakh.akamaized.net/kazakh/kazakh.m3u8
-#EXTINF:-1 tvg-id="show-kz" tvg-name="Show KZ" tvg-logo="https://altel.server-img.lfstrm.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3Nob3dfa3pfMTA0Mjk1LnBuZw==?width=340&height=192&quality=93" group-title="Казахстан", Show KZ
+#EXTINF:-1 tvg-id="show-kz" tvg-name="Show KZ" tvg-logo="https://avatars.mds.yandex.net/i?id=3394d23815299c170a33bb6c5608ef20b0bd64ff-12635946-images-thumbs&n=13" group-title="Казахстан", Show KZ
 #EXTGRP:Казахстан
 https://ucdn.beetv.kz/bpk-tv/000008944/tve/index.m3u8
 #EXTINF:-1 tvg-name="ТВК 6" tvg-logo="https://avatars.mds.yandex.net/i?id=21b52ae0fa9957f7ad5d535b48b839820ecb86f5-5569020-images-thumbs&n=13" group-title="Казахстан", ТВК 6
