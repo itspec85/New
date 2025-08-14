@@ -1919,7 +1919,7 @@ http://194.143.148.28:8080/MatchArena/mpegts
 http://178.217.72.66:8080/Match_Arena_HD/video.m3u8
 #EXTINF:-1 tvg-id="match-boets" tvg-name="Матч! Боец" tvg-logo="http://epg.one/img/2054.png" group-title="Спорт", Матч! Боец
 #EXTGRP:Спорт
-http://87.120.142.11:18000/Match
+http://31.148.48.15/Match_Boec/index.m3u8
 #EXTINF:-1 tvg-id="match-boets" tvg-name="Матч! Боец (резерв)" tvg-logo="http://epg.one/img/2054.png" group-title="Спорт", Матч! Боец (резерв)
 #EXTGRP:Спорт
 http://77.235.1.19:8000/play/a008/index.m3u8
@@ -2030,16 +2030,13 @@ https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f178-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=df3ca9c7-d700-4719-be3f-74dd169206f8
 #EXTINF:-1 tvg-name="Golf Channel PL" tvg-logo="http://epg.one/img/3624.png" group-title="Спорт", Golf Channel PL
 #EXTGRP:Спорт
-http://185.236.229.62:9981/play/a03m
+https://fl3.moveonjoy.com/GOLF/index.m3u8
 #EXTINF:-1 tvg-name="Horse & Country HD SE" tvg-logo="http://epg.one/img/4850.png" group-title="Спорт", Horse & Country HD SE
 #EXTGRP:Спорт
 https://hncfree-samsungau.amagi.tv/playlist720-p.m3u8
 #EXTINF:-1 tvg-name="Horse TV" tvg-logo="https://i.imgur.com/9lctpnP.png" group-title="Спорт", Horse TV
 #EXTGRP:Спорт
 https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
-#EXTINF:-1 tvg-name="IMPACT! Wrestling" tvg-logo="https://avatars.mds.yandex.net/i?id=4ee4e51d9719d686b271893cc74d6fe5e8489b89-9289753-images-thumbs&n=13" group-title="Спорт", IMPACT! Wrestling
-#EXTGRP:Спорт
-https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 tvg-id="kxl" tvg-name="KHL" tvg-logo="http://epg.one/img/2048.png" group-title="Спорт", KHL
 #EXTGRP:Спорт
 http://178.124.152.238:8088/khl
@@ -2067,18 +2064,12 @@ http://fl3.moveonjoy.com/NFL_NETWORK/index.m3u8
 #EXTINF:-1 tvg-name="NHL Network US" tvg-logo="http://epg.one/img/4562.png" group-title="Спорт", NHL Network US
 #EXTGRP:Спорт
 https://apollo.production-public.tubi.io/live/ac-nhl.m3u8
-#EXTINF:-1 tvg-id="nova-sport-bg" tvg-name="NOVA Sport BG" tvg-logo="https://epgx.club/picons/nova-sport-bg.png" group-title="Спорт", NOVA Sport BG
-#EXTGRP:Спорт
-http://213.91.178.133:8000/play/a04a
 #EXTINF:-1 tvg-name="Pac 12 Insider USA" tvg-logo="https://i.imgur.com/736QREy.png" group-title="Спорт", Pac 12 Insider USA
 #EXTGRP:Спорт
 https://pac12-roku-us.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="PokerGo" tvg-logo="https://avatars.mds.yandex.net/i?id=7822bfec4e4ddfe39ced9e298ca559e312340267-5295169-images-thumbs&n=13" group-title="Спорт", PokerGo
 #EXTGRP:Спорт
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fc54366b04b2300072e31af/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b6274-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a68d07ef-a794-43f8-a287-3bd7f27d909b
-#EXTINF:-1 tvg-id="polsat-sport-fight" tvg-name="Polsat Sport Fight PL" tvg-logo="http://epg.one/img/4557.png" group-title="Спорт", Polsat Sport Fight PL
-#EXTGRP:Спорт
-https://32tech0steam0dp01.org/live/PL_PolsatSportFight/chunks.m3u8
 #EXTINF:-1 tvg-name="Prosto Drive" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00349.png" group-title="Спорт", Prosto Drive
 #EXTGRP:Спорт
 http://iptv.prosto.tv:7000/ch326/video.m3u8
@@ -2139,27 +2130,18 @@ https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:-1 tvg-name="TENNIS HD US" tvg-logo="http://epg.one/img/3118.png" group-title="Спорт", TENNIS HD US
 #EXTGRP:Спорт
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/3118.png" group-title="Спорт", Tennis channel 2
-#EXTGRP:Спорт
-https://d3qg0hadt0dkov.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3sfgyrfz9zduo-prod/35a24fd8-60c3-45d0-bd8a-ee3cc914581f/3.m3u8
 #EXTINF:-1 tvg-id="trace-sport-stars" tvg-name="Trace Sport Stars HD" tvg-logo="http://epg.one/img/7507.png" group-title="Спорт", Trace Sport Stars HD
 #EXTGRP:Спорт
 http://95.67.12.82:9067
 #EXTINF:-1 tvg-id="trt-3-hd" tvg-name="TRT Spor" tvg-logo="http://epg.one/img/6525.png" group-title="Спорт", TRT Spor
 #EXTGRP:Спорт
 http://185.234.111.229:8000/play/a00e
-#EXTINF:-1 tvg-id="tsn1-ca" tvg-name="TSN 1 HD CA" tvg-logo="http://epg.one/img/3663.png" group-title="Спорт", TSN 1 HD CA
-#EXTGRP:Спорт
-http://212.102.60.231/TSN_1/index.m3u8
 #EXTINF:-1 tvg-id="tsn2-ca" tvg-name="TSN 2 HD CA" tvg-logo="http://epg.one/img/3635.png" group-title="Спорт", TSN 2 HD CA
 #EXTGRP:Спорт
 http://fl5.moveonjoy.com/TSN_2/index.m3u8
 #EXTINF:-1 tvg-id="tsn3-ca" tvg-name="TSN 3 HD CA" tvg-logo="http://epg.one/img/3664.png" group-title="Спорт", TSN 3 HD CA
 #EXTGRP:Спорт
 http://fl5.moveonjoy.com/TSN_3/index.m3u8
-#EXTINF:-1 tvg-id="tsn4-ca" tvg-name="TSN 4 HD CA" tvg-logo="http://epg.one/img/3588.png" group-title="Спорт", TSN 4 HD CA
-#EXTGRP:Спорт
-http://fl5.moveonjoy.com/TSN_4/index.m3u8
 #EXTINF:-1 tvg-id="tsn5-ca" tvg-name="TSN 5 HD CA" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/07/tsn-5.png" group-title="Спорт", TSN 5 HD CA
 #EXTGRP:Спорт
 http://fl5.moveonjoy.com/TSN_5/index.m3u8
