@@ -2001,12 +2001,6 @@ http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:BB:EE:72&stream=31400&extension
 #EXTINF:-1 tvg-id="cbs-sports-network-us" tvg-name="CBS Sports Network US" tvg-logo="http://epg.one/img/4560.png" group-title="Спорт", CBS Sports Network US
 #EXTGRP:Спорт
 http://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="daznbar1" tvg-name="DAZN 1 HD DE" tvg-logo="http://epg.one/img/6501.png" group-title="Спорт", DAZN 1 HD DE
-#EXTGRP:Спорт
-http://viptwso.top:8080/VIP01123172309603392/1a4a5177a150/1383
-#EXTINF:-1 tvg-id="daznbar2" tvg-name="DAZN 2 HD DE" tvg-logo="http://epg.one/img/6502.png" group-title="Спорт", DAZN 2 HD DE
-#EXTGRP:Спорт
-http://viptwso.top:8080/VIP01123172309603392/1a4a5177a150/1384
 #EXTINF:-1 tvg-name="DAZN Combat" tvg-logo="https://i.postimg.cc/VsW3Jsrz/logo-DAZN-Combat.png" group-title="Спорт", DAZN Combat
 #EXTGRP:Спорт
 https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
@@ -2019,9 +2013,6 @@ https://ucdn.beetv.kz/bpk-tv/000002478/tve/index.m3u8
 #EXTINF:-1 tvg-id="eurosport2-ru" tvg-name="Eurosport 2" tvg-logo="http://epg.one/img/4313.png" group-title="Спорт", Eurosport 2
 #EXTGRP:Спорт
 https://ucdn.beetv.kz/bpk-tv/000002479/tve/index.m3u8
-#EXTINF:-1 tvg-id="eurosport-4k" tvg-name="Eurosport 4K" tvg-logo="http://epg.one/img/2747.png" group-title="Спорт", Eurosport 4K
-#EXTGRP:Спорт
-https://7pal.short.gy/eusport4k
 #EXTINF:-1 tvg-id="extreme-sports" tvg-name="Extreme Sports" tvg-logo="http://epg.one/img/2053.png" group-title="Спорт", Extreme Sports
 #EXTGRP:Спорт
 https://ucdn.beetv.kz/bpk-tv/000000026/tve/index.m3u8
@@ -2061,18 +2052,6 @@ http://77.235.1.19:8000/play/a062/index.m3u8
 #EXTINF:-1 tvg-id="kxl-hd" tvg-name="KHL Prime HD (резерв)" tvg-logo="http://epg.one/img/1038.png" group-title="Спорт", KHL Prime HD (резерв)
 #EXTGRP:Спорт
 https://ucdn.beetv.kz/bpk-tv/000000711/tve/index.m3u8
-#EXTINF:-1 tvg-id="max-sport-1" tvg-name="MAX Sport 1 HD" tvg-logo="https://epgx.club/picons/max-sport-1.png" group-title="Спорт", MAX Sport 1 HD
-#EXTGRP:Спорт
-http://213.91.178.133:8000/play/a0as
-#EXTINF:-1 tvg-id="max-sport-2" tvg-name="MAX Sport 2 HD" tvg-logo="https://epgx.club/picons/max-sport-2.png" group-title="Спорт", MAX Sport 2 HD
-#EXTGRP:Спорт
-http://213.91.178.133:8000/play/a0at
-#EXTINF:-1 tvg-id="max-sport-3" tvg-name="MAX Sport 3 HD" tvg-logo="https://epgx.club/picons/max-sport-3.png" group-title="Спорт", MAX Sport 3 HD
-#EXTGRP:Спорт
-http://213.91.178.133:8000/play/a0ar
-#EXTINF:-1 tvg-id="max-sport-4" tvg-name="MAX Sport 4 HD" tvg-logo="https://epgx.club/picons/max-sport-4.png" group-title="Спорт", MAX Sport 4 HD
-#EXTGRP:Спорт
-http://213.91.178.133:8000/play/a05n
 #EXTINF:-1 tvg-id="mlb-network-us" tvg-name="MLB Network HD CA" tvg-logo="http://epg.one/img/3654.png" group-title="Спорт", MLB Network HD CA
 #EXTGRP:Спорт
 http://fl3.moveonjoy.com/MLB_NETWORK/index.m3u8
