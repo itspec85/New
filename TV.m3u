@@ -2798,9 +2798,6 @@ https://v.dzertv.ru:8588/dzertv/live_yandex/tracks-v1a1/mono.m3u8
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://dmi3y-tv.ru/hls/zabava/region/RD/CH_DON24HD.m3u8
-#EXTINF:-1 tvg-id="ewpatorya24" tvg-name="Евпатория 24 Крым" tvg-logo="https://iptvx.one/picons/ewpatorya24.png" group-title="Региональные РФ", Евпатория 24 Крым
-#EXTGRP:Региональные РФ
-http://195.26.83.96:7021/play/52/index.m3u8
 #EXTINF:-1 tvg-name="Елец ТВ Липецк" tvg-logo="https://avatars.mds.yandex.net/i?id=d0bab245ad356f45e58535b8709de4f44fdd0d96-10833537-images-thumbs&n=13" group-title="Региональные РФ", Елец ТВ Липецк
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -2869,10 +2866,6 @@ rtmp://89.107.113.89/live/kamensktv
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://dmi3y-tv.ru/hls/zabava/region/DV_HVSK/CH_6TVKMS.m3u8
-#EXTINF:-1 tvg-id="kotlastv" tvg-name="Котлас 24" tvg-logo="https://iptvx.one/picons/kotlastv.png" group-title="Региональные РФ", Котлас 24
-#EXTGRP:Региональные РФ
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmi3y-tv.ru/hls/zabava/region/ARKH/CH_KOTLAS24_KTLAS.m3u8
 #EXTINF:-1 tvg-id="krasnodar" tvg-name="Краснодар" tvg-logo="https://avatars.mds.yandex.net/i?id=a8d7284ae992ed62aec9d5816bbfe4b488a557cd-9123151-images-thumbs&n=13" group-title="Региональные РФ", Краснодар
 #EXTGRP:Региональные РФ
 https://live-tvkrasnodar-soc.cdnvideo.ru/tvkrasnodar-soc/social/playlist.m3u8
@@ -2986,10 +2979,6 @@ http://dmi3y-tv.ru/hls/zabava/region/YOLA/CH_METR.m3u8
 #EXTINF:-1 tvg-id="vestnik-nadyma" tvg-name="Надымский вестник" tvg-logo="http://epg.one/img/5709.png" group-title="Региональные РФ", Надымский вестник
 #EXTGRP:Региональные РФ
 https://0werof7ib0p.a.trbcdn.net/livemaster/6r10qa9k6d_trknadym.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="naczhk" tvg-name="Национальный Жилищный Канал" tvg-logo="https://epgx.club/picons/naczhk.png" group-title="Региональные РФ", Национальный Жилищный Канал
-#EXTGRP:Региональные РФ
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmi3y-tv.ru/hls/zabava/region/NN/CH_NZHK.m3u8
 #EXTINF:-1 tvg-id="nash-dom" tvg-name="Наш дом Пенза" tvg-logo="https://iptvx.one/picons/nash-dom.png" group-title="Региональные РФ", Наш дом Пенза
 #EXTGRP:Региональные РФ
 http://85.234.33.64/stream/c11.m3u8
