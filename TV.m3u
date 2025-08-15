@@ -3077,10 +3077,10 @@ https://live.overtime26.ru/app/potok/playlist.m3u8
 http://dmi3y-tv.ru/hls/zabava/region/OMSK/CH_OMSKTVHD.m3u8
 #EXTINF:-1 tvg-name="Оплот ТВ Донецк" tvg-logo="https://avatars.mds.yandex.net/i?id=b298b92731dd2e2335bbe03e339217daa3c9ef58-9289753-images-thumbs&n=13" group-title="Региональные РФ", Оплот ТВ Донецк
 #EXTGRP:Региональные РФ
-http://92.53.64.197:5050/oplot_hd/video.m3u8?token=m3VIth-Rou_bM1
+http://31.133.36.244:8000/23
 #EXTINF:-1 tvg-name="Оплот ТВ 2 Донецк" tvg-logo="https://avatars.mds.yandex.net/i?id=4ff43c3298403a5499bdc16f2c1c619a8b25b8e6-4531115-images-thumbs&n=13" group-title="Региональные РФ", Оплот ТВ 2 Донецк
 #EXTGRP:Региональные РФ
-http://92.53.64.197:5050/oplot_2/video.m3u8?token=m3VIth-Rou_bM1
+http://31.133.36.244:8000/24
 #EXTINF:-1 tvg-id="ort-planeta-orenburg" tvg-name="ОРТ Планета" tvg-logo="http://epg.one/img/5558.png" group-title="Региональные РФ", ОРТ Планета
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
