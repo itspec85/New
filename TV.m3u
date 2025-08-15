@@ -782,7 +782,7 @@ http://v4.proofix.ru:80/8tv-europe/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000000008/tve/index.m3u8
 #EXTINF:-1 tvg-id="365-dnej" tvg-name="365 дней ТВ" tvg-logo="http://epg.one/img/2423.png" group-title="Познавательные", 365 дней ТВ
 #EXTGRP:Познавательные
-http://178.212.71.253:8000/play/67/index.m3u8
+http://158.101.222.193:88/georgia_play.php?id=365day
 #EXTINF:-1 tvg-id="avto24" tvg-name="Авто 24" tvg-logo="http://epg.one/img/2008.png" group-title="Познавательные", Авто 24
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000000815/tve/index.m3u8
@@ -902,7 +902,7 @@ https://live-3.otcnet.ru/congresstv-multi/index.m3u8
 https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="kto-est-kto" tvg-name="Кто есть кто" tvg-logo="http://epg.one/img/2456.png" group-title="Познавательные", Кто есть кто
 #EXTGRP:Познавательные
-http://178.212.71.253:8000/play/132/index.m3u8
+http://158.101.222.193:88/georgia_play.php?id=ktoestkto
 #EXTINF:-1 tvg-id="mir-uvlecheniy" tvg-name="Кто куда" tvg-logo="http://epg.one/img/2467.png" group-title="Познавательные", Кто куда
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000001377/tve/index.m3u8
@@ -1581,7 +1581,7 @@ http://178.217.72.66:8080/nashekrutoe/index.m3u8
 https://mhd128.iptv2022.com/p/5yMck5ZlJwKr2ocH00uv0Q,1755291612/streaming/nashemuzskoe/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="nashe-novoe-kino" tvg-name="Наше новое кино" tvg-logo="http://epg.one/img/485.png" group-title="Кино", Наше новое кино
 #EXTGRP:Кино
-http://178.212.71.253:8000/play/128/index.m3u8
+http://158.101.222.193:88/georgia_play.php?id=nashanovoekino
 #EXTINF:-1 tvg-id="nst" tvg-name="НСТ" tvg-logo="http://epg.one/img/518.png" group-title="Кино", НСТ
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000000078/tve/index.m3u8
@@ -1940,7 +1940,10 @@ http://178.219.160.169:8880/139/index.m3u8
 http://178.219.160.169:8880/193/index.m3u8
 #EXTINF:-1 tvg-id="match-nash-sport" tvg-name="Матч! Страна" tvg-logo="http://epg.one/img/2042.png" group-title="Спорт", Матч! Страна
 #EXTGRP:Спорт
-http://178.212.71.253:8000/play/51/index.m3u8
+http://192.162.64.99:5000/play/a032/index.m3u8
+#EXTINF:-1 tvg-id="match-nash-sport" tvg-name="Матч! Страна HD" tvg-logo="http://epg.one/img/2042.png" group-title="Спорт", Матч! Страна HD
+#EXTGRP:Спорт
+http://178.219.160.169:8880/175/index.m3u8
 #EXTINF:-1 tvg-id="match-football1" tvg-name="Матч! Футбол 1" tvg-logo="http://epg.one/img/2044.png" group-title="Спорт", Матч! Футбол 1
 #EXTGRP:Спорт
 http://45.11.139.43:8555/fut1/index.m3u8
@@ -3108,7 +3111,7 @@ http://dmi3y-tv.ru/hls/zabava/region/KIROV/CH_1GORODSKOYHD720.m3u8
 http://dmi3y-tv.ru/hls/zabava/region/OMSK/CH_1GORODSKOY.m3u8
 #EXTINF:-1 tvg-id="pervy-krymsky" tvg-name="Первый Крымский" tvg-logo="https://cdn.epg.one/img/2472.png" group-title="Региональные РФ", Первый Крымский
 #EXTGRP:Региональные РФ
-http://178.212.71.253:8000/play/22/index.m3u8
+http://178.219.160.169:8880/23/index.m3u8
 #EXTINF:-1 tvg-id="pervy-oblastnoy-orel" tvg-name="Первый областной Орел" tvg-logo="https://avatars.mds.yandex.net/i?id=111dbe3f721ba45c688976d444142329_sr-4277590-images-thumbs&n=13" group-title="Региональные РФ", Первый областной Орел
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
