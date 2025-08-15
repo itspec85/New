@@ -2174,13 +2174,13 @@ http://iptv.prosto.tv:7000/ch313/video.m3u8
 
 #EXTINF:-1 tvg-id="vostok-tv" tvg-name="Восток ТВ" tvg-logo="http://epg.one/img/2353.png" group-title="Музыка", Восток ТВ
 #EXTGRP:Музыка
-http://911play.ru:3456/live/VostokSite/cdnVostaoc911tv123456/489.m3u8
+http://77.235.1.19:8000/play/a077/index.m3u8
 #EXTINF:-1 tvg-id="zhar-ptica" tvg-name="Жар Птица" tvg-logo="http://epg.one/img/2415.png" group-title="Музыка", Жар Птица
 #EXTGRP:Музыка
 http://streamer.rtcommufa.ru:1935/ptica/ptica1/chunklist.m3u8
 #EXTINF:-1 tvg-id="zhara" tvg-name="Жара" tvg-logo="http://epg.one/img/165.png" group-title="Музыка", Жара
 #EXTGRP:Музыка
-http://109.200.130.123:7537/play/a03u
+http://31.133.36.244:8000/155
 #EXTINF:-1 tvg-id="muzsoyuz" tvg-name="МузСоюз" tvg-logo="http://epg.one/img/2413.png" group-title="Музыка", МузСоюз
 #EXTGRP:Музыка
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
@@ -2228,7 +2228,7 @@ http://195.26.83.96:7006/play/1/index.m3u8
 http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:-1 tvg-id="onemuz" tvg-name="Первый музыкальный RU" tvg-logo="http://epg.one/img/5364.png" group-title="Музыка", Первый музыкальный RU
 #EXTGRP:Музыка
-https://162.212.179.32/dvrfl05/gin-1muscom/tracks-v1a1/mono.m3u8
+http://rtmp.one.by:2300
 #EXTINF:-1 tvg-id="radio-strana-fm-tv" tvg-name="Страна FM HD" tvg-logo="http://epg.one/img/5369.png" group-title="Музыка", Страна FM HD
 #EXTGRP:Музыка
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
@@ -2247,9 +2247,6 @@ http://k3.usastreams.com/CableLatino/88stereo/chunklist_w986835325.m3u8
 #EXTINF:-1 tvg-name="91 Nrg HD" tvg-logo="http://epg.one/img/4650.png" group-title="Музыка", 91 Nrg HD
 #EXTGRP:Музыка
 http://tv.nrg91.gr:1935/onweb/live/master.m3u8
-#EXTINF:-1 tvg-id="360-tunebox" tvg-name="360 TuneBox" tvg-logo="https://epgx.club/picons/360-tunebox.png" group-title="Музыка", 360 TuneBox
-#EXTGRP:Музыка
-http://81.198.190.9:7878/360TUNEBOX/video.m3u8
 #EXTINF:-1 tvg-name="AIVA HD" tvg-logo="http://epg.one/img/2837.png" group-title="Музыка", AIVA HD
 #EXTGRP:Музыка
 http://158.160.149.81:8080/4642/index.m3u8
@@ -2267,7 +2264,7 @@ https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m
 http://195.26.83.96:7007/play/a00m/index.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-ruxit" tvg-name="Bridge TV Русский хит" tvg-logo="http://epg.one/img/591.png" group-title="Музыка", Bridge TV Русский хит
 #EXTGRP:Музыка
-http://217.113.25.29:8001/play/a020/index.m3u8
+http://31.133.36.244:8000/145
 #EXTINF:-1 tvg-id="bridge-tv-shlager" tvg-name="Bridge TV Шлягер" tvg-logo="http://epg.one/img/4621.png" group-title="Музыка", Bridge TV Шлягер
 #EXTGRP:Музыка
 http://178.212.71.253:8000/play/142/index.m3u8
@@ -2282,13 +2279,13 @@ http://31.148.48.15/Bridge_TV_Classic/index.m3u8
 http://tvip.btk.teleos.ru:8081/chid519/index.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-dance" tvg-name="Bridge TV Hits" tvg-logo="http://epg.one/img/2024.png" group-title="Музыка", Bridge TV Hits
 #EXTGRP:Музыка
-http://217.113.25.29:8001/play/a02w/index.m3u8
+http://31.133.36.244:8000/144
 #EXTINF:-1 tvg-id="bridge-tv-rock" tvg-name="Bridge TV Rock" tvg-logo="http://epg.one/img/6188.png" group-title="Музыка", Bridge TV Rock
 #EXTGRP:Музыка
-http://31.173.165.29:8000/play/a01v/index.m3u8
+http://31.133.36.244:8000/143
 #EXTINF:-1 tvg-id="clubbing-tv" tvg-name="Clubbing TV" tvg-logo="http://epg.one/img/2628.png" group-title="Музыка", Clubbing TV
 #EXTGRP:Музыка
-https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
+https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uze1m6xh4fiyr-ssai-prd/master.m3u8
 #EXTINF:-1 tvg-name="Deluxe Dance" tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2023/01/DLX_KONTOR_RGB-1.png" group-title="Музыка", Deluxe Dance
 #EXTGRP:Музыка
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
@@ -2306,13 +2303,13 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
 #EXTINF:-1 tvg-id="europa-plus-tv" tvg-name="Europa Plus TV" tvg-logo="http://epg.one/img/681.png" group-title="Музыка", Europa Plus TV
 #EXTGRP:Музыка
-http://135.181.115.81:8000/play/a03l/index.m3u8?token=livetv
+http://77.235.1.19:8000/play/a06h/index.m3u8
 #EXTINF:-1 tvg-name="Fresh TV Armenia" tvg-logo="http://epg.it999.ru/img/5606.png" group-title="Музыка", Fresh TV Armenia
 #EXTGRP:Музыка
 https://freshtv-live.ru/FreshTV/tracks-v1a1/mono.m3u8?token=livestream
 #EXTINF:-1 tvg-id="inrating" tvg-name="InRating TV HD" tvg-logo="http://epg.one/img/6011.png" group-title="Музыка", InRating TV HD
 #EXTGRP:Музыка
-http://95.67.12.89:9034
+http://inrating-tv.cdn-04.cosmonova.net.ua/hls/inrating-tv_ua_hi/index.m3u8
 #EXTINF:-1 tvg-name="Kiss Kiss Italia HD" tvg-logo="http://epg.one/img/6117.png" group-title="Музыка", Kiss Kiss Italia HD
 #EXTGRP:Музыка
 https://59253971be783.streamlock.net/KKTV01/livestream/playlist.m3u8
@@ -2337,9 +2334,6 @@ http://193.27.209.122/mcm_top/index.m3u8
 #EXTINF:-1 tvg-id="mezzo" tvg-name="Mezzo" tvg-logo="http://epg.one/img/801.png" group-title="Музыка", Mezzo
 #EXTGRP:Музыка
 https://ucdn.beetv.kz/bpk-tv/000000030/tve/index.m3u8
-#EXTINF:-1 tvg-name="MIX M TV HD" tvg-logo="http://epg.one/img/4654.png" group-title="Музыка", MIX M TV HD
-#EXTGRP:Музыка
-http://195.9.195.3:8080/hls/181490.m3u8
 #EXTINF:-1 tvg-id="mtv-us" tvg-name="MTV" tvg-logo="http://epg.one/img/1021.png" group-title="Музыка", MTV
 #EXTGRP:Музыка
 http://fl5.moveonjoy.com/MTV/index.m3u8
