@@ -2675,7 +2675,8 @@ https://live.mediacdn.ru/sr1/arhis24/playlist.m3u8
 https://dpoiyvp3kma.a.trbcdn.net/astv24/astv24.m3u8
 #EXTINF:-1 tvg-id="astraxan24" tvg-name="Астрахань 24" tvg-logo="http://epg.one/img/2168.png" group-title="Региональные РФ", Астрахань 24
 #EXTGRP:Региональные РФ
-http://astrakhan24.mediacdn.ru/cdn/astrakhan24/playlist_hdlow.m3u8
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://dmi3y-tv.ru/hls/zabava/region/ASTRH/CH_ASTRAKHAN24HD.m3u8
 #EXTINF:-1 tvg-id="atv-stavropol" tvg-name="АТВ Ставрополь" tvg-logo="http://epg.one/img/5767.png" group-title="Региональные РФ", АТВ Ставрополь
 #EXTGRP:Региональные РФ
 http://hls.atvmedia.ru/atv.m3u8
@@ -2740,7 +2741,8 @@ https://136723.edgevideo.ru/streams/136723_657205/720n/index.m3u8
 http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
 #EXTINF:-1 tvg-id="volga" tvg-name="Волга" tvg-logo="http://epg.one/img/2468.png" group-title="Региональные РФ", Волга
 #EXTGRP:Региональные РФ
-http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist.m3u8
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://dmi3y-tv.ru/hls/zabava/region/NN/CH_VOLGA.m3u8
 #EXTINF:-1 tvg-id="nn-24" tvg-name="Волга 24 HD" tvg-logo="http://epg.one/img/6756.png" group-title="Региональные РФ", Волга 24 HD
 #EXTGRP:Региональные РФ
 http://live-nntv2.cdnvideo.ru/nntv2/vremyan/playlist.m3u8
@@ -2896,7 +2898,8 @@ http://dmi3y-tv.ru/hls/zabava/region/KRDAR/CH_KUBAN24.m3u8
 http://rmhkuzbass.ru:8082/10kanal/k24/playlist.m3u8
 #EXTINF:-1 tvg-id="kuraj" tvg-name="Курай HD" tvg-logo="http://epg.one/img/2475.png" group-title="Региональные РФ", Курай HD
 #EXTGRP:Региональные РФ
-http://bsttv.bonus-tv.ru:80/cdn/kurai/playlist_sdhigh.m3u8
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://dmi3y-tv.ru/hls/zabava/region/UFA/CH_KURAYTV.m3u8
 #EXTINF:-1 tvg-id="legendarny24" tvg-name="Легендарный 24 Крым" tvg-logo="https://iptvx.one/picons/legendarny24.png" group-title="Региональные РФ", Легендарный 24 Крым
 #EXTGRP:Региональные РФ
 https://sevas.1tvcrimea.ru/legendarniy24.m3u8
@@ -3134,7 +3137,8 @@ http://dmi3y-tv.ru/hls/zabava/region/SUR/CH_1SOVETSKIYHD.m3u8
 http://5.164.24.83/tula/1tv_low/index.m3u8
 #EXTINF:-1 tvg-id="pervy-yaroslavsky" tvg-name="Первый Ярославский FHD" tvg-logo="https://cdn.epg.one/img/7711.png" group-title="Региональные РФ", Первый Ярославский FHD
 #EXTGRP:Региональные РФ
-http://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist_hdlow.m3u8
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://dmi3y-tv.ru/hls/zabava/region/YARL/CH_1YAROSLAVSKIYHD.m3u8
 #EXTINF:-1 tvg-name="Прибой ТВ Дагестан" tvg-logo="https://avatars.mds.yandex.net/i?id=4d21f0f907841aba7534bc497b6ec2f11a613ebe-6946654-images-thumbs&n=13" group-title="Региональные РФ", Прибой ТВ Дагестан
 #EXTGRP:Региональные РФ
 http://iptv46.mcx-ix.ru:8077/priboy_tv_hd/index.m3u8
@@ -3200,7 +3204,8 @@ http://dmi3y-tv.ru/hls/zabava/region/KOSTROMA/CH_RUS.m3u8
 http://dmi3y-tv.ru/hls/zabava/region/RYB/CH_RYBINSK40HD.m3u8
 #EXTINF:-1 tvg-id="salam" tvg-name="Салям Уфа" tvg-logo="https://iptvx.one/picons/salam.png" group-title="Региональные РФ", Салям Уфа
 #EXTGRP:Региональные РФ
-https://bsttv.bonus-tv.ru/cdn/salyam/playlist_sdhigh.m3u8
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://dmi3y-tv.ru/hls/zabava/region/UFA/CH_SALYAMHD.m3u8
 #EXTINF:-1 tvg-id="samara24" tvg-name="Самара 24 HD" tvg-logo="https://cdn.epg.one/img/7694.png" group-title="Региональные РФ", Самара 24 HD
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
