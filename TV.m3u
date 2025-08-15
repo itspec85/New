@@ -3536,9 +3536,6 @@ https://rtmp.baku.tv/hls/bakutv.m3u8
 #EXTINF:-1 tvg-id="cbc-az" tvg-name="CBC AZ" tvg-logo="http://epg.one/img/2158.png" group-title="Азербайджан", CBC AZ
 #EXTGRP:Азербайджан
 https://stream.cbctv.az:5443/LiveApp/streams/cbctv.m3u8
-#EXTINF:-1 tvg-name="CTV Azərbaycan" tvg-logo="https://avatars.mds.yandex.net/i?id=f736b44ab0f43e26084f5fd854ae769a25e8ba93-3107405-images-thumbs&n=13" group-title="Азербайджан", CTV Azərbaycan
-#EXTGRP:Азербайджан
-https://a8.radyotelekom.com.tr:3434/stream/play.m3u8
 #EXTINF:-1 tvg-name="Dünya TV" tvg-logo="https://i.imgur.com/A3yaU4J.png" group-title="Азербайджан", Dünya TV
 #EXTGRP:Азербайджан
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/dunya-tv.m3u8
@@ -3566,9 +3563,6 @@ http://tv.mobyservice.ru/livetv/index.m3u8
 #EXTINF:-1 tvg-name="Mahni TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nnoltRcl7EP5euFg-fglzYprDjLHgBVur6cnN2j7xuMQ=s160-c-k-c0x00ffffff-no-rj" group-title="Азербайджан", Mahni TV
 #EXTGRP:Азербайджан
 http://xantv.site:41480/MahniTV/video.m3u8
-#EXTINF:-1 tvg-name="Mega TV GƏNCƏ" tvg-logo="https://i.postimg.cc/XvLGt0wY/IMG-20250209-164211-031.jpg" group-title="Азербайджан", Mega TV GƏNCƏ
-#EXTGRP:Азербайджан
-https://raw.githubusercontent.com/Elvin4K/restream/refs/heads/pro4k/1ganjatv.m3u8
 #EXTINF:-1 tvg-name="Mədəniyyət TV" tvg-logo="http://epg.one/img/2557.png" group-title="Азербайджан", Mədəniyyət TV
 #EXTGRP:Азербайджан
 https://str.yodacdn.net/medeniyyet/index.m3u8
@@ -3578,9 +3572,6 @@ https://cdn-sinematv.yayin.com.tr/sinematv/sinematv/playlist.m3u8
 #EXTINF:-1 tvg-name="Retro TV" tvg-logo="https://avatars.mds.yandex.net/i?id=2a00000179ed9f0efd3d05aae40782ce96a8-3756503-images-thumbs&n=13" group-title="Азербайджан", Retro TV
 #EXTGRP:Азербайджан
 https://a8.radyotelekom.com.tr:3706/stream/play.m3u8
-#EXTINF:-1 tvg-name="Şirvan TV" tvg-logo="https://avatars.mds.yandex.net/i?id=33f48f5d542d242d75ccc765a78b7ade-5434761-images-thumbs&n=13" group-title="Азербайджан", Şirvan TV
-#EXTGRP:Азербайджан
-https://tv208.radyotelekom.com.tr/p/3326/hybrid/play.m3u8
 #EXTINF:-1 tvg-name="Son Ümi̇d TV" tvg-logo="https://i.postimg.cc/KYd9RVqF/In-Shot-20250209-195931309.png" group-title="Азербайджан", Son Ümi̇d TV
 #EXTGRP:Азербайджан
 https://cdn-sonumidtv.yayin.com.tr/sonumidtv/sonumidtv/playlist.m3u8
