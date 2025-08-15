@@ -3128,9 +3128,6 @@ http://5.164.24.83/tula/1tv_low/index.m3u8
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://dmi3y-tv.ru/hls/zabava/region/YARL/CH_1YAROSLAVSKIYHD.m3u8
-#EXTINF:-1 tvg-name="Прибой ТВ Дагестан" tvg-logo="https://avatars.mds.yandex.net/i?id=4d21f0f907841aba7534bc497b6ec2f11a613ebe-6946654-images-thumbs&n=13" group-title="Региональные РФ", Прибой ТВ Дагестан
-#EXTGRP:Региональные РФ
-http://iptv46.mcx-ix.ru:8077/priboy_tv_hd/index.m3u8
 #EXTINF:-1 tvg-name="Прим24 Владивосток" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/9/9a/%D0%9F%D1%80%D0%B8%D0%BC24_%28%D0%B1%D0%B5%D0%B7_%D1%84%D0%BE%D0%BD%D0%B0%29.png/revision/latest/scale-to-width-down/220?cb=20201209064345&path-prefix=ru" group-title="Региональные РФ", Прим24 Владивосток
 #EXTGRP:Региональные РФ
 http://flussonic2.podryad.net/prim24/index.m3u8
@@ -3169,9 +3166,6 @@ http://dmi3y-tv.ru/hls/zabava/region/EKT/CH_RIMHD.m3u8
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://dmi3y-tv.ru/hls/zabava/region/PERM/CH_RIFEY.m3u8
-#EXTINF:-1 tvg-id="rossia1" tvg-name="Россия 1 Вайнах" tvg-logo="http://epg.one/img/711.png" group-title="Региональные РФ", Россия 1 Вайнах
-#EXTGRP:Региональные РФ
-https://live.chechensoft.ru/vainahtv/ngrp:vaynahtv_all/playlist.m3u8
 #EXTINF:-1 tvg-id="zabajkajkalje" tvg-name="РТК Забайкалье" tvg-logo="https://avatars.mds.yandex.net/i?id=d0237e1bc0f56b6c68d5454f0a325090366ef658-3965918-images-thumbs&n=13" group-title="Региональные РФ", РТК Забайкалье
 #EXTGRP:Региональные РФ
 https://stream.zrtk.ru/zrtk.m3u8
@@ -3398,9 +3392,6 @@ http://dmi3y-tv.ru/hls/smotrim/region/CH_URAL24HD_CHEL.m3u8
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://dmi3y-tv.ru/hls/zabava/region/UFA/CH_UCHALYTV.m3u8
-#EXTINF:-1 tvg-name="ФРТ Новомичуринск" tvg-logo="https://avatars.mds.yandex.net/i?id=6066a838bc8778f0b5653e03eee0df48_sr-9068519-images-thumbs&n=13" group-title="Региональные РФ", ФРТ Новомичуринск
-#EXTGRP:Региональные РФ
-https://tv.tele-mag.ru/FRTHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="xuzur-tv" tvg-name="Хузур ТВ" tvg-logo="http://epg.one/img/2478.png" group-title="Региональные РФ", Хузур ТВ
 #EXTGRP:Региональные РФ
 http://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
