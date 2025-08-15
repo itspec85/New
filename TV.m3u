@@ -3926,15 +3926,9 @@ http://ext.cdn.nashnet.tv/228.0.2.165/index.m3u8
 #EXTINF:-1 tvg-name="Балта ТВ" tvg-logo="https://avatars.mds.yandex.net/i?id=64754581c4ae415f4859c0edf1509fa9_sr-4825035-images-thumbs&n=13" group-title="Украина", Балта ТВ
 #EXTGRP:Украина
 http://194.50.51.34/playlist.m3u8
-#EXTINF:-1 tvg-name="ГIТ" tvg-logo="https://avatars.mds.yandex.net/get-socsnippets/7132265/2a0000018e1707bcb8e2d68ab086d6b595f5/square_216" group-title="Украина", ГIТ
-#EXTGRP:Украина
-https://stream.uagit.tv/gittv.m3u8
 #EXTINF:-1 tvg-name="Измаил TV" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/4/48/1590170841579.png/revision/latest/scale-to-width-down/150?cb=20200522180822&path-prefix=ru" group-title="Украина", Измаил TV
 #EXTGRP:Украина
 http://cdn10.live-tv.od.ua:8081/izod/izod/playlist.m3u8
-#EXTINF:-1 tvg-id="islandiya" tvg-name="Ісландія HD" tvg-logo="http://epg.one/img/8884.png" group-title="Украина", Ісландія HD
-#EXTGRP:Украина
-https://ext.cdn.nashnet.tv/228.0.3.231/index.m3u8
 #EXTINF:-1 tvg-name="ITV Media Group" tvg-logo="https://avatars.mds.yandex.net/i?id=73d18f083f462886d765a3ff693e48ad513076fa-4409822-images-thumbs&n=13" group-title="Украина", ITV Media Group
 #EXTGRP:Украина
 http://cdn10.live-tv.od.ua:8081/itvrv/720p/playlist.m3u8
@@ -3977,9 +3971,6 @@ https://iptv.prosto.tv/ch7/video.m3u8
 #EXTINF:-1 tvg-name="ТIС ТВ" tvg-logo="https://avatars.mds.yandex.net/i?id=e9d76d0ada2906a2a66cdd8b4be05b92e4786536-10311550-images-thumbs&n=13" group-title="Украина", ТIС ТВ
 #EXTGRP:Украина
 http://cdn10.live-tv.od.ua:8081/riood/tisod504/playlist.m3u8
-#EXTINF:-1 tvg-name="TVA" tvg-logo="http://epg.one/img/2199.png" group-title="Украина", TVA
-#EXTGRP:Украина
-http://hls.cdn.ua/tva.ua_live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="ua-pershy" tvg-name="UA:Перший" tvg-logo="http://epg.one/img/2147.png" group-title="Украина", UA:Перший
 #EXTGRP:Украина
 http://193.107.168.98:7006/play/526/index.m3u8
@@ -3989,6 +3980,5 @@ https://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8
 #EXTINF:-1 tvg-id="espreso-tv" tvg-name="Эспресо TV UA" tvg-logo="http://epg.one/img/2096.png" group-title="Украина", Эспресо TV UA
 #EXTGRP:Украина
 http://ext.cdn.nashnet.tv/228.0.0.191/index.m3u8
-
 
 
