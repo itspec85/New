@@ -3038,7 +3038,7 @@ http://171.22.212.250/NTK/index.m3u8
 http://dmi3y-tv.ru/hls/zabava/region/SRNK/CH_NTM.m3u8
 #EXTINF:-1 tvg-id="ntrk-ingushetia" tvg-name="НТРК Ингушетия" tvg-logo="https://avatars.mds.yandex.net/i?id=6040cd15bc41b7ae95b07e304cb662c9216add6a-12411982-images-thumbs&n=13" group-title="Региональные РФ", НТРК Ингушетия
 #EXTGRP:Региональные РФ
-http://ingushetia.mediacdn.ru/cdn/ingushetia/playlist_hdhigh.m3u8
+https://ingushetia.mediacdn.ru/cdn/ingushetia/playlist.m3u8
 #EXTINF:-1 tvg-id="nts-sevastopol" tvg-name="НТС" tvg-logo="https://cdn.epg.one/img/1117.png" group-title="Региональные РФ", НТС
 #EXTGRP:Региональные РФ
 http://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/chunklist.m3u8
