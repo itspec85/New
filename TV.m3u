@@ -848,7 +848,7 @@ http://31.148.48.15/Doktor/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000000146/tve/index.m3u8
 #EXTINF:-1 tvg-id="drive" tvg-name="Драйв" tvg-logo="http://epg.one/img/2443.png" group-title="Познавательные", Драйв
 #EXTGRP:Познавательные
-http://178.212.71.253:8000/play/92/index.m3u8
+http://86.57.209.210/Drive/index.m3u8
 #EXTINF:-1 tvg-id="dumatv" tvg-name="Дума ТВ" tvg-logo="https://iptvx.one/picons/dumatv.png" group-title="Познавательные", Дума ТВ
 #EXTGRP:Познавательные
 http://dumatv.iptv2022.com/tracks-v5a1/mono.m3u8
@@ -1613,7 +1613,7 @@ https://ucdn.beetv.kz/bpk-tv/000008491/tve/index.m3u8
 http://vod.stb.tvime.ru/Pro_Lubov_HD/video.m3u8?token=Evgeshka
 #EXTINF:-1 tvg-id="retro-tv" tvg-name="Ретро" tvg-logo="http://epg.one/img/2402.png" group-title="Кино", Ретро
 #EXTGRP:Кино
-http://178.212.71.253:8000/play/90/index.m3u8
+http://86.57.209.210/Retro/index.m3u8
 #EXTINF:-1 tvg-id="rodnoe-kino" tvg-name="Родное кино" tvg-logo="http://epg.one/img/12.png" group-title="Кино", Родное кино
 #EXTGRP:Кино
 http://31.148.48.15/Rodnoe_kino/index.m3u8
