@@ -3710,9 +3710,6 @@ https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="SDM Si̇nema" tvg-logo="https://i.postimg.cc/B621rdsw/In-Shot-20250210-104639637.png" group-title="Турция", SDM Si̇nema
 #EXTGRP:Турция
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Show Max TR" tvg-logo="http://epg.one/img/3943.png" group-title="Турция", Show Max TR
-#EXTGRP:Турция
-https://github.com/rideordie16/YouTube/raw/main/ch/showmax.m3u8
 #EXTINF:-1 tvg-id="show-hd-tr" tvg-name="Show TV TR" tvg-logo="http://epg.one/img/2608.png" group-title="Турция", Show TV TR
 #EXTGRP:Турция
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
@@ -3728,18 +3725,9 @@ http://75.119.144.48/SUPERTURK_MAX_HD/index.m3u8
 #EXTINF:-1 tvg-name="TBMM" tvg-logo="https://avatars.mds.yandex.net/i?id=4573b709670ca587c35226ccc6031096df760058-5537820-images-thumbs&n=13" group-title="Турция", TBMM
 #EXTGRP:Турция
 https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
-#EXTINF:-1 tvg-name="Tele 1 TR" tvg-logo="http://epg.one/img/3982.png" group-title="Турция", Tele 1 TR
-#EXTGRP:Турция
-http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/78612
 #EXTINF:-1 tvg-name="Teve 2 HD" tvg-logo="http://epg.one/img/2607.png" group-title="Турция", Teve 2 HD
 #EXTGRP:Турция
 https://live.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
-#EXTINF:-1 tvg-name="TGRT EU TR" tvg-logo="http://epg.one/img/3855.png" group-title="Турция", TGRT EU TR
-#EXTGRP:Турция
-http://185.234.111.229:8000/play/a048
-#EXTINF:-1 tvg-name="Ti̇vi̇ Türk" tvg-logo="https://i.postimg.cc/rpNBfNPX/In-Shot-20250210-120408886.png" group-title="Турция", Ti̇vi̇ Türk
-#EXTGRP:Турция
-https://stream.tiviturk.de/live/tiviturk.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="tlc-tr" tvg-name="TLC TR" tvg-logo="http://epg.one/img/3968.png" group-title="Турция", TLC TR
 #EXTGRP:Турция
 https://dogus-live.daioncdn.net/tlc/tlc.m3u8
@@ -3749,9 +3737,6 @@ http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:BB:EE:72&stream=2837&extension=
 #EXTINF:-1 tvg-name="TRT 2 HD" tvg-logo="http://epg.one/img/3939.png" group-title="Турция", TRT 2 HD
 #EXTGRP:Турция
 http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:BB:EE:72&stream=29026&extension=ts
-#EXTINF:-1 tvg-id="trt4k-tr" tvg-name="TRT 4K" tvg-logo="http://epg.one/img/2744.png" group-title="Турция", TRT 4K
-#EXTGRP:Турция
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:BB:EE:72&stream=7326&extension=ts
 #EXTINF:-1 tvg-id="trt-avaz" tvg-name="TRT AVAZ" tvg-logo="http://epg.one/img/3858.png" group-title="Турция", TRT AVAZ
 #EXTGRP:Турция
 https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
@@ -3779,9 +3764,6 @@ https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="TV4 TR" tvg-logo="https://i.ibb.co/pXncfpb/tv422.png" group-title="Турция", TV4 TR
 #EXTGRP:Турция
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
-#EXTINF:-1 tvg-id="tv8-tr" tvg-name="TV8 HD" tvg-logo="http://epg.one/img/2596.png" group-title="Турция", TV8 HD
-#EXTGRP:Турция
-https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 #EXTINF:-1 tvg-id="tv85-tr" tvg-name="TV8.5 HD" tvg-logo="http://epg.one/img/2614.png" group-title="Турция", TV8.5 HD
 #EXTGRP:Турция
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=10773&extension=ts
