@@ -1467,10 +1467,7 @@ http://193.27.209.122/tiji/index.m3u8
 https://mhd128.iptv2022.com/p/7-uElFSx6zCwuP9a_ZpZKA,1755378011/streaming/blokbaster/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-name="Видеокассета VHS" tvg-logo="http://epg.one/img/6005.png" group-title="Кино", Видеокассета VHS
 #EXTGRP:Кино
-https://132544.edgevideo.ru/streams/132544_806129/1325441080/index.m3u8
-#EXTINF:-1 tvg-name="Видеокассета Киномир" tvg-logo="http://epg.one/img/6005.png" group-title="Кино", Видеокассета Киномир
-#EXTGRP:Кино
-https://132544.edgevideo.ru/streams/132544_847220/1325441080/index.m3u8
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=37925&token=d079b8f26aa77b15ebe78c90956fd563&server=v2.catcast.tv
 #EXTINF:-1 tvg-id="denpobedy" tvg-name="День Победы HD" tvg-logo="http://epg.one/img/2773.png" group-title="Кино", День Победы HD
 #EXTGRP:Кино
 https://mhd128.iptv2022.com/p/mHYh7it8mILreBaN8ZTSHA,1755378012/streaming/den-pobedi/324/1/tracks-v5a1/mono.m3u8
@@ -1668,6 +1665,9 @@ http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 tvg-id="feniks-plus-kino" tvg-name="Феникс плюс Кино" tvg-logo="http://epg.one/img/2404.png" group-title="Кино", Феникс плюс Кино
 #EXTGRP:Кино
 http://158.101.222.193:88/georgia_play.php?id=fenikspluskino
+#EXTINF:-1 tvg-name="Фильмы - VHS TV" tvg-logo="https://avatars.mds.yandex.net/i?id=16a4c79be6d16b1ea9da8683239ae933f19d034f-5105949-images-thumbs&n=13" group-title="Кино", Фильмы - VHS TV
+#EXTGRP:Кино
+https://autopilot.catcast.tv/content/47609/index.m3u8
 #EXTINF:-1 tvg-id="khit-hd" tvg-name="Хит HD" tvg-logo="http://epg.one/img/2833.png" group-title="Кино", Хит HD
 #EXTGRP:Кино
 http://178.217.72.66:8080/hithd/index.m3u8
