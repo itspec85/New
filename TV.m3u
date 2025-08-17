@@ -1644,9 +1644,15 @@ https://ucdn.beetv.kz/bpk-tv/000008489/tve/index.m3u8
 #EXTINF:-1 tvg-name="Сити Эдем - КиноАзия" tvg-logo="https://www.cityeden.info/logotv/kinoazija_logotip.png" group-title="Кино", Сити Эдем - КиноАзия
 #EXTGRP:Кино
 https://autopilot.catcast.tv/content/34393/index.m3u8
+#EXTINF:-1 tvg-name="Сити Эдем - КиноДетектив" tvg-logo="https://www.cityeden.info/logotv/logotip_kinodetektiv.png" group-title="Кино", Сити Эдем - КиноДетектив
+#EXTGRP:Кино
+https://autopilot.catcast.tv/content/41327/index.m3u8
 #EXTINF:-1 tvg-name="Сити Эдем - КиноКлассика" tvg-logo="https://www.cityeden.info/logotv/logotip_kinoklassika.png" group-title="Кино", Сити Эдем - КиноКлассика
 #EXTGRP:Кино
 http://autopilot.catcast.tv/content/34185/index.m3u8
+#EXTINF:-1 tvg-name="Сити Эдем - КиноКомедия" tvg-logo="https://www.cityeden.info/logotv/logotip_siti_ehdem-kinokomedija.png" group-title="Кино", Сити Эдем - КиноКомедия
+#EXTGRP:Кино
+https://autopilot.catcast.tv/content/41331/index.m3u8
 #EXTINF:-1 tvg-name="Сити Эдем - КиноМистика" tvg-logo="https://www.cityeden.info/logotv/logotip_kinomostika.png" group-title="Кино", Сити Эдем - КиноМистика
 #EXTGRP:Кино
 https://autopilot.catcast.tv/content/40783/index.m3u8
