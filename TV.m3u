@@ -1293,6 +1293,9 @@ https://ucdn.beetv.kz/bpk-tv/000008065/tve/index.m3u8
 #EXTINF:-1 tvg-id="world-fashion-channel" tvg-name="World Fashion Channel" tvg-logo="http://epg.one/img/2242.png" group-title="Познавательные", World Fashion Channel
 #EXTGRP:Познавательные
 http://live-3.otcnet.ru/wfcrus/index.m3u8
+#EXTINF:-1 tvg-name="WWW" tvg-logo="https://fsd.kopilkaurokov.ru/up/html/2020/01/27/k_5e2f1ef814d50/img_user_file_5e2f1ef9dd433_0_0.jpg" group-title="Познавательные", WWW
+#EXTGRP:Познавательные
+https://132544.edgevideo.ru/streams/132544_931349/1325441080/index.m3u8
 #EXTINF:-1 tvg-id="zoopark" tvg-name="ZOOпарк" tvg-logo="http://epg.one/img/367.png" group-title="Познавательные", ZOOпарк
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000000260/tve/index.m3u8
@@ -1360,6 +1363,9 @@ http://stv.mediacdn.ru/live/cdn/mult/playlist.m3u8
 #EXTINF:-1 tvg-id="multimuzyka" tvg-name="Мульт и музыка" tvg-logo="http://epg.one/img/284.png" group-title="Детские", Мульт и музыка
 #EXTGRP:Детские
 http://stv.mediacdn.ru/live/cdn/multimuzika/playlist.m3u8
+#EXTINF:-1 tvg-name="Мультики и Сказки tvg-logo="https://i.postimg.cc/YS90VJYX/image.png" group-title="Детские", Мультики и Сказки
+#EXTGRP:Детские
+https://132544.edgevideo.ru/streams/132544_931352/132544720/index.m3u8
 #EXTINF:-1 tvg-id="multimania" tvg-name="Мультиландия" tvg-logo="http://epg.one/img/2757.png" group-title="Детские", Мультиландия
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000000203/tve/index.m3u8
@@ -1746,6 +1752,9 @@ https://ucdn.beetv.kz/bpk-tv/000003028/tve/index.m3u8
 #EXTINF:-1 tvg-id="flixsnip" tvg-name="Flix Snip" tvg-logo="http://epg.one/img/774.png" group-title="Кино", Flix Snip
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000004466/tve/index.m3u8
+#EXTINF:-1 vg-name="FMC" tvg-logo="https://telik.live/images/fmc-tv.png" group-title="Кино", FMC
+#EXTGRP:Кино
+https://132544.edgevideo.ru/streams/132544_931346/1325441080/index.m3u8
 #EXTINF:-1 tvg-id="fox" tvg-name="FX" tvg-logo="http://epg.one/img/1031.png" group-title="Кино", FX
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000004472/tve/index.m3u8
@@ -1770,6 +1779,9 @@ http://158.160.149.81:8080/8194/index.m3u8
 #EXTINF:-1 tvg-name="KINOMIX" tvg-logo="https://avatars.mds.yandex.net/i?id=ca48c80ed038a6ab87a7e44912516524622407c6-5326992-images-thumbs&n=13" group-title="Кино", KINOMIX
 #EXTGRP:Кино
 https://132544.edgevideo.ru/streams/132544_940640/1325441080/index.m3u8
+#EXTINF:-1 tvg-name="MGM HD" tvg-logo="https://avatars.mds.yandex.net/i?id=6b5d8eb463bfc56b812fea18ac6bf41c2351955e-4120927-images-thumbs&n=13" group-title="Кино", MGM HD
+#EXTGRP:Кино
+https://autopilot.catcast.tv/content/44051/index.m3u8
 #EXTINF:-1 tvg-id="novellatv" tvg-name="Novella TV" tvg-logo="https://epgx.club/picons/novellatv.png" group-title="Кино", Novella TV
 #EXTGRP:Кино
 http://158.160.149.81:8080/8327/index.m3u8
@@ -1782,6 +1794,9 @@ https://ucdn.beetv.kz/bpk-tv/000008780/tve/index.m3u8
 #EXTINF:-1 tvg-id="scream" tvg-name="Scream HD" tvg-logo="http://epg.one/img/9069.png" group-title="Кино", Scream HD
 #EXTGRP:Кино
 http://158.160.149.81:8080/8229/index.m3u8
+#EXTINF:-1 tvg-name="SeriesTV" tvg-logo="https://pluspng.com/img-png/shows-hd-png--1920.jpg" group-title="Кино", SeriesTV
+#EXTGRP:Кино
+http://132544.edgevideo.ru/streams/132544_931337/1325441080/index.m3u8
 #EXTINF:-1 tvg-id="shot-tv" tvg-name="SHOT TV" tvg-logo="http://epg.one/img/431.png" group-title="Кино", SHOT TV
 #EXTGRP:Кино
 http://sltv2.be:8080/DeNiSoNkEl/nPcCsz5hHn/550120
