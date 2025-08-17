@@ -1788,9 +1788,18 @@ http://158.160.149.81:8080/8194/index.m3u8
 #EXTINF:-1 tvg-name="KINOMIX" tvg-logo="https://avatars.mds.yandex.net/i?id=ca48c80ed038a6ab87a7e44912516524622407c6-5326992-images-thumbs&n=13" group-title="Кино", KINOMIX
 #EXTGRP:Кино
 https://132544.edgevideo.ru/streams/132544_940640/1325441080/index.m3u8
+#EXTINF:-1 tvg-name="LAV-KINO" tvg-logo="https://avatars.mds.yandex.net/i?id=d345b761b1d177dd5e38d776f2ad20a51ab97ebf-5668792-images-thumbs&n=13" group-title="Кино", LAV-KINO
+#EXTGRP:Кино
+https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Logovo Films" tvg-logo="https://avatars.mds.yandex.net/i?id=0d2a36f62671a0501ca3cf27a5eb2b8d58d11926-5877910-images-thumbs&n=13" group-title="Кино", Logovo Films
+#EXTGRP:Кино
+https://stream.ushba.tv/akamaiushba/ushba-films-a/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="MGM HD" tvg-logo="https://avatars.mds.yandex.net/i?id=6b5d8eb463bfc56b812fea18ac6bf41c2351955e-4120927-images-thumbs&n=13" group-title="Кино", MGM HD
 #EXTGRP:Кино
 https://autopilot.catcast.tv/content/44051/index.m3u8
+#EXTINF:-1 tvg-name="Millennium" tvg-logo="https://avatars.mds.yandex.net/i?id=2a0000017a02ee5877ff634605b959eabe22-4435853-images-thumbs&n=13" group-title="Кино", Millennium
+#EXTGRP:Кино
+https://132544.edgevideo.ru/streams/132544_931202/132544480/index.m3u8
 #EXTINF:-1 tvg-id="novellatv" tvg-name="Novella TV" tvg-logo="https://epgx.club/picons/novellatv.png" group-title="Кино", Novella TV
 #EXTGRP:Кино
 http://158.160.149.81:8080/8327/index.m3u8
@@ -1800,9 +1809,18 @@ http://158.160.149.81:8080/7688/index.m3u8
 #EXTINF:-1 tvg-id="romance" tvg-name="Romance HD" tvg-logo="http://epg.one/img/9179.png" group-title="Кино", Romance HD
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000008780/tve/index.m3u8
+#EXTINF:-1 tvg-id="saga-tv" tvg-name="Saga TV" tvg-logo="https://epgx.club/picons/saga-tv.png" group-title="Кино", Saga TV
+#EXTGRP:Кино
+http://95.85.109.219:7000/play/a05w
 #EXTINF:-1 tvg-id="scream" tvg-name="Scream HD" tvg-logo="http://epg.one/img/9069.png" group-title="Кино", Scream HD
 #EXTGRP:Кино
 http://158.160.149.81:8080/8229/index.m3u8
+#EXTINF:-1 tvg-name="SeleCaoTV 1" tvg-logo="https://avatars.mds.yandex.net/i?id=d0474ff4a0ea5b32fdd602b0cb9b6d52-5233472-images-thumbs&n=13" group-title="Кино", SeleCaoTV 1
+#EXTGRP:Кино
+https://132544.edgevideo.ru/streams/132544_951371/playlist.m3u8
+#EXTINF:-1 tvg-name="SeleCaoTV 2" tvg-logo="https://avatars.mds.yandex.net/i?id=d0474ff4a0ea5b32fdd602b0cb9b6d52-5233472-images-thumbs&n=13" group-title="Кино", SeleCaoTV 2
+#EXTGRP:Кино
+https://132544.edgevideo.ru/streams/132544_954167/playlist.m3u8
 #EXTINF:-1 tvg-name="SeriesTV" tvg-logo="https://pluspng.com/img-png/shows-hd-png--1920.jpg" group-title="Кино", SeriesTV
 #EXTGRP:Кино
 http://132544.edgevideo.ru/streams/132544_931337/1325441080/index.m3u8
