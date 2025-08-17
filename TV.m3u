@@ -1086,6 +1086,9 @@ http://31.148.48.15/2x2/index.m3u8
 #EXTINF:-1 tvg-name="555 Hunt Fishing TV" tvg-logo="https://avatars.mds.yandex.net/i?id=635b73799daf216d5519050021039012e1e8254f-10349168-images-thumbs&n=13" group-title="Познавательные", 555 Hunt Fishing TV
 #EXTGRP:Познавательные
 http://193.169.178.29:8081/podsekaiTV/chanelHD1080/playlist.m3u8
+#EXTINF:-1 tvg-name="Alpha Funny" tvg-logo="https://avatars.mds.yandex.net/i?id=5881e5d66b4fd37d34441f48c9160147-4743742-images-thumbs&n=13" group-title="Познавательные", Alpha Funny
+#EXTGRP:Познавательные
+http://live.15plusmg.ru/memfs/90b76c71-a86e-488a-aac4-cb66d6f88781.m3u8
 #EXTINF:-1 tvg-id="animal-planet-eu" tvg-name="Animal Planet" tvg-logo="http://epg.one/img/365.png" group-title="Познавательные", Animal Planet
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000000216/tve/index.m3u8
@@ -1707,6 +1710,12 @@ http://178.124.152.238:8088/sony
 #EXTINF:-1 tvg-id="sony-scifi" tvg-name=".sci-fi" tvg-logo="http://epg.one/img/516.png" group-title="Кино", .sci-fi
 #EXTGRP:Кино
 http://radio.tvs.by:8088/Sci-Fi/index.m3u8
+#EXTINF:-1 tvg-name="Alpha Cinema" tvg-logo="https://avatars.mds.yandex.net/i?id=5881e5d66b4fd37d34441f48c9160147-4743742-images-thumbs&n=13" group-title="Кино", Alpha Cinema
+#EXTGRP:Кино
+http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
+#EXTINF:-1 tvg-name="Alpha Moretime" tvg-logo="https://avatars.mds.yandex.net/i?id=5881e5d66b4fd37d34441f48c9160147-4743742-images-thumbs&n=13" group-title="Кино", Alpha Moretime
+#EXTGRP:Кино
+http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
 #EXTINF:-1 tvg-id="amedia1" tvg-name="Amedia 1" tvg-logo="http://epg.one/img/1371.png" group-title="Кино", Amedia 1
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000000710/tve/index.m3u8
