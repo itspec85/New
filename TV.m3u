@@ -2487,13 +2487,13 @@ https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ru-tv" tvg-name="RU TV HD" tvg-logo="http://epg.one/img/2277.png" group-title="Музыка", RU TV HD
 #EXTGRP:Музыка
 https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
-#EXTINF:-1 tvg-id="song-tv" tvg-name="Song TV Armenia" tvg-logo="http://epg.one/img/3360.png" group-title="Музыка", Song TV Armenia
+#EXTINF:-1 tvg-id="song-tv" tvg-name="Song TV Armenia" tvg-logo="http://epg.one/img/3360.png" group-title="Музыка", SONGTV
 #EXTGRP:Музыка
 https://songtv.hls.iptvdc.com/web-armenia/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="song-tv-ru" tvg-name="Song TV Russia" tvg-logo="http://epg.one/img/3358.png" group-title="Музыка", Song TV Russia
+#EXTINF:-1 tvg-id="song-tv-ru" tvg-name="Song TV Russia" tvg-logo="http://epg.one/img/3358.png" group-title="Музыка", SONG TV RUSSIA
 #EXTGRP:Музыка
 https://songtv.hls.iptvdc.com/web-russia/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Spirit TV HD" tvg-logo="http://epg.one/img/4657.png" group-title="Музыка", Spirit TV HD
+#EXTINF:-1 tvg-name="Spirit TV HD" tvg-logo="http://epg.one/img/4657.png" group-title="Музыка", Spirit Tv HD
 #EXTGRP:Музыка
 http://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Trace Brazuca" tvg-logo="https://avatars.mds.yandex.net/i?id=0dbd9bbd22a21bc5fa5ba2a611c9504c12dc7fed-11377357-images-thumbs&n=13" group-title="Музыка", Trace Brazuca
