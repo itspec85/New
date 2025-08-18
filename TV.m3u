@@ -1092,7 +1092,7 @@ http://live.15plusmg.ru/memfs/90b76c71-a86e-488a-aac4-cb66d6f88781.m3u8
 #EXTINF:-1 tvg-id="animal-planet-eu" tvg-name="Animal Planet" tvg-logo="http://epg.one/img/365.png" group-title="Познавательные", Animal Planet
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000000216/tve/index.m3u8
-#EXTINF:-1 tvg-id="animal-planet-eu" tvg-name="Animal Planet (резерв)" tvg-logo="http://epg.one/img/365.png" group-title="Познавательные", Animal Planet (резерв)
+#EXTINF:-1 tvg-id="animal-planet-eu" tvg-name="Animal Planet" tvg-logo="http://epg.one/img/365.png" group-title="Познавательные", Animal Planet (резерв)
 #EXTGRP:Познавательные
 http://178.217.72.66:8080/Animal_Planet_HD/index.m3u8
 #EXTINF:-1 tvg-id="bbc" tvg-name="BBC World News" tvg-logo="http://epg.one/img/828.png" group-title="Познавательные", BBC World News
@@ -1131,7 +1131,7 @@ https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
 #EXTINF:-1 tvg-id="discovery-channel" tvg-name="Discovery Channel" tvg-logo="http://epg.one/img/325.png" group-title="Познавательные", Discovery Channel
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000001496/tve/index.m3u8
-#EXTINF:-1 tvg-id="discovery-channel" tvg-name="Discovery Channel (резерв)" tvg-logo="http://epg.one/img/325.png" group-title="Познавательные", Discovery Channel (резерв)
+#EXTINF:-1 tvg-id="discovery-channel" tvg-name="Discovery Channel" tvg-logo="http://epg.one/img/325.png" group-title="Познавательные", Discovery Channel (резерв)
 #EXTGRP:Познавательные
 http://45.159.74.22/DiscoveryChannel/mono.m3u8
 #EXTINF:-1 tvg-name="Discovery Science UK" tvg-logo="http://epg.one/img/3067.png" group-title="Познавательные", Discovery Science UK
@@ -1176,7 +1176,7 @@ https://fl1001.bozztv.com/ushba31/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="history" tvg-name="History" tvg-logo="http://epg.one/img/1394.png" group-title="Познавательные", History
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000001000/tve/index.m3u8
-#EXTINF:-1 tvg-id="history" tvg-name="History (резерв)" tvg-logo="http://epg.one/img/1394.png" group-title="Познавательные", History (резерв)
+#EXTINF:-1 tvg-id="history" tvg-name="History" tvg-logo="http://epg.one/img/1394.png" group-title="Познавательные", History (резерв)
 #EXTGRP:Познавательные
 http://95.85.109.219:7000/play/a069
 #EXTINF:-1 tvg-id="insight-tv-hd" tvg-name="Insight TV HD" tvg-logo="http://epg.one/img/2800.png" group-title="Познавательные", Insight TV HD
@@ -1203,13 +1203,13 @@ http://dmi3y-tv.ru/hls/CH_NANOTVHD.m3u8
 #EXTINF:-1 tvg-id="nat-geo-wild" tvg-name="Nat Geo Wild" tvg-logo="http://epg.one/img/223.png" group-title="Познавательные", Nat Geo Wild
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000004474/tve/index.m3u8
-#EXTINF:-1 tvg-id="nat-geo-wild" tvg-name="Nat Geo Wild (резерв)" tvg-logo="http://epg.one/img/223.png" group-title="Познавательные", Nat Geo Wild (резерв)
+#EXTINF:-1 tvg-id="nat-geo-wild" tvg-name="Nat Geo Wild" tvg-logo="http://epg.one/img/223.png" group-title="Познавательные", Nat Geo Wild (резерв)
 #EXTGRP:Познавательные
 http://178.217.72.66:8080/Nat_Geo_Wild_HD/index.m3u8
 #EXTINF:-1 tvg-id="national-geographic" tvg-name="National Geographic" tvg-logo="http://epg.one/img/102.png" group-title="Познавательные", National Geographic
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000000034/tve/index.m3u8
-#EXTINF:-1 tvg-id="national-geographic" tvg-name="National Geographic (резерв)" tvg-logo="http://epg.one/img/102.png" group-title="Познавательные", National Geographic (резерв)
+#EXTINF:-1 tvg-id="national-geographic" tvg-name="National Geographic" tvg-logo="http://epg.one/img/102.png" group-title="Познавательные", National Geographic (резерв)
 #EXTGRP:Познавательные
 http://178.217.72.66:8080/National_Geographic_HD/index.m3u8
 #EXTINF:-1 tvg-id="ocean-tv" tvg-name="OCEAN-TV" tvg-logo="http://epg.one/img/55.png" group-title="Познавательные", OCEAN-TV
@@ -1269,19 +1269,19 @@ http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="viasat-explore" tvg-name="Viju Explore" tvg-logo="http://epg.one/img/521.png" group-title="Познавательные", Viju Explore
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000004157/tve/index.m3u8
-#EXTINF:-1 tvg-id="viasat-explore" tvg-name="Viju Explore (резерв)" tvg-logo="http://epg.one/img/521.png" group-title="Познавательные", Viju Explore (резерв)
+#EXTINF:-1 tvg-id="viasat-explore" tvg-name="Viju Explore" tvg-logo="http://epg.one/img/521.png" group-title="Познавательные", Viju Explore (резерв)
 #EXTGRP:Познавательные
 http://178.217.72.66:8080/Viasat_Explorer/index.m3u8
 #EXTINF:-1 tvg-id="viasat-history" tvg-name="Viju History" tvg-logo="http://epg.one/img/277.png" group-title="Познавательные", Viju History
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000005528/tve/index.m3u8
-#EXTINF:-1 tvg-id="viasat-history" tvg-name="Viju History (резерв)" tvg-logo="http://epg.one/img/277.png" group-title="Познавательные", Viju History (резерв)
+#EXTINF:-1 tvg-id="viasat-history" tvg-name="Viju History" tvg-logo="http://epg.one/img/277.png" group-title="Познавательные", Viju History (резерв)
 #EXTGRP:Познавательные
 http://178.217.72.66:8080/Viasat_History/index.m3u8
 #EXTINF:-1 tvg-id="viasat-nature" tvg-name="Viju Nature" tvg-logo="http://epg.one/img/765.png" group-title="Познавательные", Viju Nature
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000006482/tve/index.m3u8
-#EXTINF:-1 tvg-id="viasat-nature" tvg-name="Viju Nature (резерв)" tvg-logo="http://epg.one/img/765.png" group-title="Познавательные", Viju Nature (резерв)
+#EXTINF:-1 tvg-id="viasat-nature" tvg-name="Viju Nature" tvg-logo="http://epg.one/img/765.png" group-title="Познавательные", Viju Nature (резерв)
 #EXTGRP:Познавательные
 http://178.217.72.66:8080/Viasat_Nature/index.m3u8
 #EXTINF:-1 tvg-id="viasat-nature-history-hd" tvg-name="Viju+ Planet HD" tvg-logo="http://epg.one/img/2012.png" group-title="Познавательные", Viju+ Planet HD
