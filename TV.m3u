@@ -1486,7 +1486,7 @@ https://autopilot.catcast.tv/mobile.m3u8?channel_id=37925&token=d079b8f26aa77b15
 #EXTINF:-1 tvg-id="denpobedy" tvg-name="День Победы HD" tvg-logo="http://epg.one/img/2773.png" group-title="Кино", День Победы HD
 #EXTGRP:Кино
 https://mhd128.iptv2022.com/p/xSjOpWL_u1LEXvCUU81wRw,1755550815/streaming/den-pobedi/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-id="domkino" tvg-name="Дом кино" tvg-logo="http://epg.one/img/834.png" group-title="Кино", Дом кино
+#EXTINF:-1 tvg-id="domkino" tvg-name="Дом кино" tvg-logo="http://epg.one/img/834.png" group-title="Кино", Дом Кино
 #EXTGRP:Кино
 http://176.96.241.40/DomKino/index.m3u8
 #EXTINF:-1 tvg-id="domkino-premium" tvg-name="Дом Кино Премиум HD" tvg-logo="http://epg.one/img/2020.png" group-title="Кино", Дом Кино Премиум HD
@@ -1501,7 +1501,7 @@ http://87.120.142.11:18000/STSLove
 #EXTINF:-1 tvg-name="Иллюзион+" tvg-logo="http://epg.one/img/2403.png" group-title="Кино", Иллюзион +
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000004582/tve/index.m3u8
-#EXTINF:-1 tvg-id="indiyskoe-kino" tvg-name="Индийское кино" tvg-logo="http://epg.one/img/798.png" group-title="Кино", Индийское кино
+#EXTINF:-1 tvg-id="indiyskoe-kino" tvg-name="Индийское кино" tvg-logo="http://epg.one/img/798.png" group-title="Кино", ИНДИЙСКОЕ КИНО
 #EXTGRP:Кино
 http://188.113.190.12/329/index.m3u8
 #EXTINF:-1 tvg-id="zee-tv" tvg-name="Индия" tvg-logo="http://epg.one/img/2233.png" group-title="Кино", Индия
@@ -1516,10 +1516,10 @@ https://ucdn.beetv.kz/bpk-tv/000008136/tve/index.m3u8
 #EXTINF:-1 tvg-id="kino1int-tviksel" tvg-name="Кино 1 International" tvg-logo="http://epg.one/img/6258.png" group-title="Кино", Кино 1 International
 #EXTGRP:Кино
 http://dmi3y-tv.ru/hls/CH_KINO1_INT.m3u8
-#EXTINF:-1 tvg-id="kino-tv" tvg-name="Кино ТВ" tvg-logo="http://epg.one/img/1037.png" group-title="Кино", Кино ТВ
+#EXTINF:-1 tvg-id="kino-tv" tvg-name="Кино ТВ" tvg-logo="http://epg.one/img/1037.png" group-title="Кино", КИНО ТВ
 #EXTGRP:Кино
 http://178.217.72.66:8080/Kino_TV/index.m3u8
-#EXTINF:-1 tvg-id="kino-tv" tvg-name="Кино ТВ HD" tvg-logo="http://epg.one/img/1037.png" group-title="Кино", Кино ТВ HD
+#EXTINF:-1 tvg-id="kino-tv" tvg-name="Кино ТВ HD" tvg-logo="http://epg.one/img/1037.png" group-title="Кино", КИНО ТВ HD
 #EXTGRP:Кино
 http://77.235.1.19:8000/play/a05l/index.m3u8
 #EXTINF:-1 tvg-id="kinoboevik-kz" tvg-name="Кинобоевик KZ" tvg-logo="https://iptvx.one/picons/kinoboevik-kz.png" group-title="Кино", Кинобоевик KZ
@@ -1528,10 +1528,10 @@ https://ucdn.beetv.kz/bpk-tv/000008490/tve/index.m3u8
 #EXTINF:-1 tvg-id="q-kino-hit" tvg-name="Кинодрама KZ" tvg-logo="https://iptvx.one/picons/q-kino-hit.png" group-title="Кино", Кинодрама KZ
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000005449/tve/index.m3u8
-#EXTINF:-1 tvg-id="kinokomedia" tvg-name="Кинокомедия" tvg-logo="http://epg.one/img/821.png" group-title="Кино", Кинокомедия
+#EXTINF:-1 tvg-id="kinokomedia" tvg-name="Кинокомедия" tvg-logo="http://epg.one/img/821.png" group-title="Кино", КИНОКОМЕДИЯ
 #EXTGRP:Кино
 http://45.159.74.22/Kinokomedia/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="kinomiks" tvg-name="Киномикс" tvg-logo="http://epg.one/img/644.png" group-title="Кино", Киномикс
+#EXTINF:-1 tvg-id="kinomiks" tvg-name="Киномикс" tvg-logo="http://epg.one/img/644.png" group-title="Кино", КИНОМИКС
 #EXTGRP:Кино
 http://158.160.149.81:8080/4468/index.m3u8
 #EXTINF:-1 tvg-id="kinopokaz" tvg-name="Кинопоказ" tvg-logo="http://epg.one/img/2834.png" group-title="Кино", Кинопоказ
@@ -1833,10 +1833,10 @@ http://77.235.1.19:8000/play/a043/index.m3u8
 #EXTINF:-1 tvg-id="star-family" tvg-name="Star Family Россия" tvg-logo="http://epg.one/img/9162.png" group-title="Кино", Star Family Россия
 #EXTGRP:Кино
 http://77.235.1.19:8000/play/a042/index.m3u8
-#EXTINF:-1 tvg-id="start-air" tvg-name="START Air" tvg-logo="http://epg.one/img/6241.png" group-title="Кино", START Air
+#EXTINF:-1 tvg-id="start-air" tvg-name="START Air" tvg-logo="http://epg.one/img/6241.png" group-title="Кино", START Air HD
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000007815/tve/index.m3u8
-#EXTINF:-1 tvg-id="start-world" tvg-name="START World" tvg-logo="http://epg.one/img/6240.png" group-title="Кино", START World
+#EXTINF:-1 tvg-id="start-world" tvg-name="START World" tvg-logo="http://epg.one/img/6240.png" group-title="Кино", START World HD
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000007818/tve/index.m3u8
 #EXTINF:-1 tvg-id="suspense" tvg-name="Suspense HD" tvg-logo="http://epg.one/img/9180.png" group-title="Кино", Suspense HD
