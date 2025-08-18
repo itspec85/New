@@ -2244,7 +2244,7 @@ http://77.235.1.19:8000/play/a077/index.m3u8
 #EXTINF:-1 tvg-id="zhar-ptica" tvg-name="Жар Птица" tvg-logo="http://epg.one/img/2415.png" group-title="Музыка", Жар Птица
 #EXTGRP:Музыка
 http://streamer.rtcommufa.ru:1935/ptica/ptica1/chunklist.m3u8
-#EXTINF:-1 tvg-id="zhara" tvg-name="Жара" tvg-logo="http://epg.one/img/165.png" group-title="Музыка", Жара
+#EXTINF:-1 tvg-id="zhara" tvg-name="Жара" tvg-logo="http://epg.one/img/165.png" group-title="Музыка", ЖАРА
 #EXTGRP:Музыка
 http://31.133.36.244:8000/155
 #EXTINF:-1 tvg-id="muzsoyuz" tvg-name="МузСоюз" tvg-logo="http://epg.one/img/2413.png" group-title="Музыка", МузСоюз
@@ -2254,7 +2254,7 @@ http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3
 #EXTGRP:Музыка
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://dmi3y-tv.ru/hls/DVB-T2/CH_MUZTV-1.m3u8
-#EXTINF:-1 tvg-id="muztv" tvg-name="Муз-ТВ" tvg-logo="http://epg.one/img/897.png" group-title="Музыка", Муз-ТВ
+#EXTINF:-1 tvg-id="muztv" tvg-name="Муз-ТВ" tvg-logo="http://epg.one/img/897.png" group-title="Музыка", МУЗ-ТВ
 #EXTGRP:Музыка
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://dmi3y-tv.ru/hls/DVB-T2/CH_MUZTV.m3u8
@@ -2280,7 +2280,7 @@ http://kino-1.catcast.tv/content/37745/index.m3u8
 #EXTINF:-1 tvg-name="Музыка 2 International" tvg-logo="http://epg.one/img/6268.png" group-title="Музыка", Музыка 2 International
 #EXTGRP:Музыка
 http://kino-1.catcast.tv/content/37742/index.m3u8
-#EXTINF:-1 tvg-name="Музыка кино International" tvg-logo="http://epg.one/img/6270.png" group-title="Музыка", Музыка кино International
+#EXTINF:-1 tvg-name="Музыка кино International" tvg-logo="http://epg.one/img/6270.png" group-title="Музыка", Музыка Кино International
 #EXTGRP:Музыка
 http://kino-1.catcast.tv/content/37739/index.m3u8
 #EXTINF:-1 tvg-id="muzyka-pervogo" tvg-name="Музыка Первого" tvg-logo="http://epg.one/img/715.png" group-title="Музыка", Музыка Первого
@@ -2298,7 +2298,7 @@ http://rtmp.one.by:2300
 #EXTINF:-1 tvg-id="radio-strana-fm-tv" tvg-name="Страна FM HD" tvg-logo="http://epg.one/img/5369.png" group-title="Музыка", Страна FM HD
 #EXTGRP:Музыка
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="tnt-music" tvg-name="ТНТ Music" tvg-logo="http://epg.one/img/680.png" group-title="Музыка", ТНТ Music
+#EXTINF:-1 tvg-id="tnt-music" tvg-name="ТНТ Music" tvg-logo="http://epg.one/img/680.png" group-title="Музыка", ТНТ MUSIC
 #EXTGRP:Музыка
 http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-id="shanson-tv" tvg-name="Шансон TB" tvg-logo="http://epg.one/img/2278.png" group-title="Музыка", Шансон TB
@@ -2313,7 +2313,7 @@ http://k3.usastreams.com/CableLatino/88stereo/chunklist_w986835325.m3u8
 #EXTINF:-1 tvg-name="91 Nrg HD" tvg-logo="http://epg.one/img/4650.png" group-title="Музыка", 91 Nrg HD
 #EXTGRP:Музыка
 http://tv.nrg91.gr:1935/onweb/live/master.m3u8
-#EXTINF:-1 tvg-name="AIVA HD" tvg-logo="http://epg.one/img/2837.png" group-title="Музыка", AIVA HD
+#EXTINF:-1 tvg-name="AIVA HD" tvg-logo="http://epg.one/img/2837.png" group-title="Музыка", AIVA TV HD
 #EXTGRP:Музыка
 http://158.160.149.81:8080/4642/index.m3u8
 #EXTINF:-1 tvg-name="AMC AF" tvg-logo="https://play-lh.googleusercontent.com/MYcrmTg-2FfK3mVvNsjttNsXXTLfUG7i3QjMd0fzticooxMwLMK0NQdyQSMnF0iC9lg" group-title="Музыка", AMC AF
@@ -2328,25 +2328,25 @@ https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m
 #EXTINF:-1 tvg-id="bridge-tv" tvg-name="Bridge TV" tvg-logo="http://epg.one/img/151.png" group-title="Музыка", Bridge TV
 #EXTGRP:Музыка
 http://195.26.83.96:7007/play/a00m/index.m3u8
-#EXTINF:-1 tvg-id="bridge-tv-ruxit" tvg-name="Bridge TV Русский хит" tvg-logo="http://epg.one/img/591.png" group-title="Музыка", Bridge TV Русский хит
+#EXTINF:-1 tvg-id="bridge-tv-ruxit" tvg-name="Bridge Русский хит" tvg-logo="http://epg.one/img/591.png" group-title="Музыка", Bridge Русский Хит
 #EXTGRP:Музыка
 http://31.133.36.244:8000/145
-#EXTINF:-1 tvg-id="bridge-tv-shlager" tvg-name="Bridge TV Шлягер" tvg-logo="http://epg.one/img/4621.png" group-title="Музыка", Bridge TV Шлягер
+#EXTINF:-1 tvg-id="bridge-tv-shlager" tvg-name="Bridge Шлягер" tvg-logo="http://epg.one/img/4621.png" group-title="Музыка", Bridge Шлягер
 #EXTGRP:Музыка
 http://178.212.71.253:8000/play/142/index.m3u8
-#EXTINF:-1 tvg-id="bridge-tv-etno" tvg-name="Bridge TV Этно" tvg-logo="https://epgx.club/picons/bridge-tv-etno.png" group-title="Музыка", Bridge TV Этно
+#EXTINF:-1 tvg-id="bridge-tv-etno" tvg-name="Bridge Этно" tvg-logo="https://epgx.club/picons/bridge-tv-etno.png" group-title="Музыка", Bridge Этно
 #EXTGRP:Музыка
 http://tvip.btk.teleos.ru:8081/chid520/index.m3u8
-#EXTINF:-1 tvg-id="bridge-tv-classic" tvg-name="Bridge TV Classic" tvg-logo="http://epg.one/img/4373.png" group-title="Музыка", Bridge TV Classic
+#EXTINF:-1 tvg-id="bridge-tv-classic" tvg-name="Bridge Classic" tvg-logo="http://epg.one/img/4373.png" group-title="Музыка", Bridge Classic orig
 #EXTGRP:Музыка
 http://31.148.48.15/Bridge_TV_Classic/index.m3u8
-#EXTINF:-1 tvg-id="bridge-hd" tvg-name="Bridge TV Deluxe" tvg-logo="http://epg.one/img/2022.png" group-title="Музыка", Bridge TV Deluxe
+#EXTINF:-1 tvg-id="bridge-hd" tvg-name="Bridge Deluxe" tvg-logo="http://epg.one/img/2022.png" group-title="Музыка", Bridge Deluxe HD
 #EXTGRP:Музыка
 http://tvip.btk.teleos.ru:8081/chid519/index.m3u8
-#EXTINF:-1 tvg-id="bridge-tv-dance" tvg-name="Bridge TV Hits" tvg-logo="http://epg.one/img/2024.png" group-title="Музыка", Bridge TV Hits
+#EXTINF:-1 tvg-id="bridge-tv-dance" tvg-name="Bridge TV Hits" tvg-logo="http://epg.one/img/2024.png" group-title="Музыка", Bridge Hits
 #EXTGRP:Музыка
 http://31.133.36.244:8000/144
-#EXTINF:-1 tvg-id="bridge-tv-rock" tvg-name="Bridge TV Rock" tvg-logo="http://epg.one/img/6188.png" group-title="Музыка", Bridge TV Rock
+#EXTINF:-1 tvg-id="bridge-tv-rock" tvg-name="Bridge Rock" tvg-logo="http://epg.one/img/6188.png" group-title="Музыка", Bridge Rock
 #EXTGRP:Музыка
 http://31.133.36.244:8000/143
 #EXTINF:-1 tvg-id="clubbing-tv" tvg-name="Clubbing TV" tvg-logo="http://epg.one/img/2628.png" group-title="Музыка", Clubbing TV
@@ -2364,7 +2364,7 @@ http://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m
 #EXTINF:-1 tvg-id="schlager-deluxe-de" tvg-name="Deluxe Schlager" tvg-logo="http://epg.one/img/8120.png" group-title="Музыка", Deluxe Schlager
 #EXTGRP:Музыка
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
-#EXTINF:-1 tvg-name="Dream Türk" tvg-logo="http://epg.one/img/3928.png" group-title="Музыка", Dream Türk
+#EXTINF:-1 tvg-id="dream-turk-tr" tvg-name="Dream Türk [TR]" tvg-logo="http://epg.one/img/3928.png" group-title="Музыка", DREAM TÜRK
 #EXTGRP:Музыка
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
 #EXTINF:-1 tvg-id="europa-plus-tv" tvg-name="Europa Plus TV" tvg-logo="http://epg.one/img/681.png" group-title="Музыка", Europa Plus TV
@@ -2373,7 +2373,7 @@ http://77.235.1.19:8000/play/a06h/index.m3u8
 #EXTINF:-1 tvg-name="Fresh TV Armenia" tvg-logo="http://epg.it999.ru/img/5606.png" group-title="Музыка", Fresh TV Armenia
 #EXTGRP:Музыка
 https://freshtv-live.ru/FreshTV/tracks-v1a1/mono.m3u8?token=livestream
-#EXTINF:-1 tvg-id="inrating" tvg-name="InRating TV HD" tvg-logo="http://epg.one/img/6011.png" group-title="Музыка", InRating TV HD
+#EXTINF:-1 tvg-id="inrating" tvg-name="InRating" tvg-logo="http://epg.one/img/6011.png" group-title="Музыка", INRATING TV HD
 #EXTGRP:Музыка
 http://inrating-tv.cdn-04.cosmonova.net.ua/hls/inrating-tv_ua_hi/index.m3u8
 #EXTINF:-1 tvg-name="Kiss Kiss Italia HD" tvg-logo="http://epg.one/img/6117.png" group-title="Музыка", Kiss Kiss Italia HD
@@ -2436,10 +2436,10 @@ http://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
 #EXTINF:-1 tvg-name="Muzzik ZZ" tvg-logo="https://avatars.mds.yandex.net/i?id=ca03722ba4159f7610aef5036ca02362_sr-5384260-images-thumbs&n=13" group-title="Музыка", Muzzik ZZ
 #EXTGRP:Музыка
 http://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
-#EXTINF:-1 tvg-id="now70s" tvg-name="NOW 70s HD UK" tvg-logo="http://epg.one/img/6626.png" group-title="Музыка", NOW 70s HD UK
+#EXTINF:-1 tvg-id="now70s" tvg-name="Now 70's" tvg-logo="http://epg.one/img/6626.png" group-title="Музыка", Now 70s HD UK
 #EXTGRP:Музыка
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="now80s" tvg-name="NOW 80s HD UK" tvg-logo="http://epg.one/img/6627.png" group-title="Музыка", NOW 80s HD UK
+#EXTINF:-1 tvg-id="now80s" tvg-name="Now 80's" tvg-logo="http://epg.one/img/6627.png" group-title="Музыка", Now 80s HD UK
 #EXTGRP:Музыка
 https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="NR1 HD TR" tvg-logo="http://epg.one/img/3929.png" group-title="Музыка", NR1 HD TR
@@ -2463,10 +2463,10 @@ https://musichls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Power Dance" tvg-logo="https://avatars.mds.yandex.net/i?id=dbc6a224507bc8e59dd33c39231f4e8082074e3e-10350562-images-thumbs&n=13" group-title="Музыка", Power Dance
 #EXTGRP:Музыка
 http://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Power HD" tvg-logo="http://epg.one/img/2665.png" group-title="Музыка", Power HD
+#EXTINF:-1 tvg-name="POWER HD TR" tvg-logo="http://epg.one/img/2665.png" group-title="Музыка", POWER HD TR
 #EXTGRP:Музыка
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="PowerTürk" tvg-logo="http://epg.one/img/2666.png" group-title="Музыка", PowerTürk
+#EXTINF:-1 tvg-id="power-turk-tr" tvg-name="Power Türk [TR]" tvg-logo="http://epg.one/img/2666.png" group-title="Музыка", POWERTURK HD TR
 #EXTGRP:Музыка
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="PowerTürk Akustik" tvg-logo="https://avatars.mds.yandex.net/i?id=134cbcb0470f3339760f22a617052f02a13d1315-5233285-images-thumbs&n=13" group-title="Музыка", PowerTürk Akustik
@@ -2481,7 +2481,7 @@ https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="QMusic" tvg-logo="https://qmusic.nl/assets/qmusic-a1d81a5f88375b3c5507cbc0b064ce1fc8778a076a245bddfd4f2a3e2417c330.png" group-title="Музыка", QMusic
 #EXTGRP:Музыка
 https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
-#EXTINF:-1 tvg-name="Retro TV" tvg-logo="http://epg.one/img/5380.png" group-title="Музыка", Retro TV
+#EXTINF:-1 tvg-id="retro-music-cz" tvg-name="Retro Music TV" tvg-logo="http://epg.one/img/5380.png" group-title="Музыка", RETRO TV
 #EXTGRP:Музыка
 https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ru-tv" tvg-name="RU TV HD" tvg-logo="http://epg.one/img/2277.png" group-title="Музыка", RU TV HD
