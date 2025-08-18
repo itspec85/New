@@ -1314,7 +1314,7 @@ http://178.124.152.238:8088/detmir
 #EXTINF:-1 tvg-id="detkinoint-tviksel" tvg-name="Детское кино International" tvg-logo="http://epg.one/img/6261.png" group-title="Детские", Детское кино International
 #EXTGRP:Детские
 http://autopilot.catcast.tv/content/38720/index.m3u8
-#EXTINF:-1 tvg-name="Ералаш" tvg-logo="https://avatars.mds.yandex.net/i?id=c6f5bc2f73653d3a20399ad99adef4d3378d348e-10255460-images-thumbs&n=13" group-title="Детские", Ералаш
+#EXTINF:-1 tvg-name="Ералаш" tvg-logo="https://avatars.mds.yandex.net/i?id=c6f5bc2f73653d3a20399ad99adef4d3378d348e-10255460-images-thumbs&n=13" group-title="Детские", Ералаш HD
 #EXTGRP:Детские
 https://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ginger-hd" tvg-name="Капитан Фантастика" tvg-logo="http://epg.one/img/2438.png" group-title="Детские", Капитан Фантастика
@@ -1363,15 +1363,15 @@ http://sirius.greenhosting.ru/MamontRu/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="mult" tvg-name="Мульт" tvg-logo="http://epg.one/img/1332.png" group-title="Детские", Мульт
 #EXTGRP:Детские
 http://stv.mediacdn.ru/live/cdn/mult/playlist.m3u8
-#EXTINF:-1 tvg-id="multimuzyka" tvg-name="Мульт и музыка" tvg-logo="http://epg.one/img/284.png" group-title="Детские", Мульт и музыка
-#EXTGRP:Детские
-http://stv.mediacdn.ru/live/cdn/multimuzika/playlist.m3u8
 #EXTINF:-1 tvg-name="Мультики и Сказки tvg-logo="https://i.postimg.cc/YS90VJYX/image.png" group-title="Детские", Мультики и Сказки
 #EXTGRP:Детские
 https://132544.edgevideo.ru/streams/132544_931352/132544720/index.m3u8
 #EXTINF:-1 tvg-id="multimania" tvg-name="Мультиландия" tvg-logo="http://epg.one/img/2757.png" group-title="Детские", Мультиландия
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000000203/tve/index.m3u8
+#EXTINF:-1 tvg-id="multimuzyka" tvg-name="Мульт и музыка" tvg-logo="http://epg.one/img/284.png" group-title="Детские", Мультимузыка
+#EXTGRP:Детские
+http://stv.mediacdn.ru/live/cdn/multimuzika/playlist.m3u8
 #EXTINF:-1 tvg-id="o_" tvg-name="О!" tvg-logo="http://epg.one/img/1757.png" group-title="Детские", О!
 #EXTGRP:Детские
 http://95.85.109.219:7000/play/a09b
@@ -1450,7 +1450,7 @@ http://158.160.149.81:8080/8425/index.m3u8
 #EXTINF:-1 tvg-id="gulli-girl" tvg-name="Gulli" tvg-logo="http://epg.one/img/810.png" group-title="Детские", Gulli
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000000284/tve/index.m3u8
-#EXTINF:-1 tvg-id="jimjam" tvg-name="JimJam" tvg-logo="http://epg.one/img/494.png" group-title="Детские", JimJam
+#EXTINF:-1 tvg-id="jimjam" tvg-name="JimJam" tvg-logo="http://epg.one/img/494.png" group-title="Детские", JimJam RO
 #EXTGRP:Детские
 http://158.160.149.81:8080/269/index.m3u8
 #EXTINF:-1 tvg-id="kidstv" tvg-name="Kids TV HD" tvg-logo="http://epg.one/img/9025.png" group-title="Детские", Kids TV HD
