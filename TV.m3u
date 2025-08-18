@@ -990,7 +990,7 @@ https://ucdn.beetv.kz/bpk-tv/000002991/tve/index.m3u8
 #EXTINF:-1 tvg-id="prikluchenia-hd" tvg-name="Приключения HD" tvg-logo="http://epg.one/img/2311.png" group-title="Познавательные", Приключения HD
 #EXTGRP:Познавательные
 http://tvip.btk.teleos.ru:8081/chid142/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="pro-business" tvg-name="ПРО бизнес" tvg-logo="http://epg.one/img/2753.png" group-title="Познавательные", ПРО бизнес
+#EXTINF:-1 tvg-id="pro-business" tvg-name="ПРО бизнес" tvg-logo="http://epg.one/img/2753.png" group-title="Познавательные", ПРО Бизнес
 #EXTGRP:Познавательные
 http://176.107.219.20:9000/play/a003/index.m3u8
 #EXTINF:-1 tvg-id="prosveschenie" tvg-name="Просвещение" tvg-logo="http://epg.one/img/2296.png" group-title="Познавательные", Просвещение
@@ -1110,7 +1110,7 @@ http://brodilo.tv/channel.php
 #EXTINF:-1 tvg-id="cars-n-stars" tvg-name="Cars & Stars TV" tvg-logo="https://iptvx.one/picons/cars-n-stars.png" group-title="Познавательные", Cars & Stars TV
 #EXTGRP:Познавательные
 https://iptv.prosto.tv/ch111/video.m3u8
-#EXTINF:-1 tvg-id="cgtn" tvg-name="CGTN Русский" tvg-logo="http://epg.one/img/2268.png" group-title="Познавательные", CGTN Русский
+#EXTINF:-1 tvg-id="cgtn" tvg-name="CGTN-Русский" tvg-logo="http://epg.one/img/2268.png" group-title="Познавательные", CGTN русский
 #EXTGRP:Познавательные
 http://english-livetx.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802_hd.m3u8
 #EXTINF:-1 tvg-id="cnn" tvg-name="CNN USA" tvg-logo="http://epg.one/img/3641.png" group-title="Познавательные", CNN USA
@@ -1137,7 +1137,7 @@ http://45.159.74.22/DiscoveryChannel/mono.m3u8
 #EXTINF:-1 tvg-name="Discovery Science UK" tvg-logo="http://epg.one/img/3067.png" group-title="Познавательные", Discovery Science UK
 #EXTGRP:Познавательные
 http://cord-cutter.net:8080/LeeAv21/AvantL12/53695
-#EXTINF:-1 tvg-id="docubox-hd" tvg-name="DocuBox" tvg-logo="http://epg.one/img/2186.png" group-title="Познавательные", DocuBox
+#EXTINF:-1 tvg-id="docubox-hd" tvg-name="DocuBox" tvg-logo="http://epg.one/img/2186.png" group-title="Познавательные", DocuBox HD
 #EXTGRP:Познавательные
 http://158.160.149.81:8080/1961/index.m3u8
 #EXTINF:-1 tvg-id="e-tv" tvg-name="E TV" tvg-logo="http://epg.one/img/1676.png" group-title="Познавательные", E TV
@@ -1299,7 +1299,7 @@ http://live-3.otcnet.ru/wfcrus/index.m3u8
 #EXTINF:-1 tvg-name="WWW" tvg-logo="https://fsd.kopilkaurokov.ru/up/html/2020/01/27/k_5e2f1ef814d50/img_user_file_5e2f1ef9dd433_0_0.jpg" group-title="Познавательные", WWW
 #EXTGRP:Познавательные
 https://132544.edgevideo.ru/streams/132544_931349/1325441080/index.m3u8
-#EXTINF:-1 tvg-id="zoopark" tvg-name="ZOOпарк" tvg-logo="http://epg.one/img/367.png" group-title="Познавательные", ZOOпарк
+#EXTINF:-1 tvg-id="zoopark" tvg-name="ZOOПарк" tvg-logo="http://epg.one/img/367.png" group-title="Познавательные", Zooпарк HD
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000000260/tve/index.m3u8
 
