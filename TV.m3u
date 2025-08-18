@@ -1983,7 +1983,7 @@ http://178.217.72.66:8080/Match_Arena_HD/video.m3u8
 #EXTINF:-1 tvg-id="match-boets" tvg-name="Матч! Боец" tvg-logo="http://epg.one/img/2054.png" group-title="Спорт", Матч! Боец
 #EXTGRP:Спорт
 http://31.148.48.15/Match_Boec/index.m3u8
-#EXTINF:-1 tvg-id="match-boets" tvg-name="Матч! Боец (резерв)" tvg-logo="http://epg.one/img/2054.png" group-title="Спорт", Матч! Боец (резерв)
+#EXTINF:-1 tvg-id="match-boets" tvg-name="Матч! Боец" tvg-logo="http://epg.one/img/2054.png" group-title="Спорт", Матч! Боец (резерв)
 #EXTGRP:Спорт
 http://77.235.1.19:8000/play/a008/index.m3u8
 #EXTINF:-1 tvg-id="match-igra" tvg-name="Матч! Игра" tvg-logo="http://epg.one/img/2050.png" group-title="Спорт", Матч! Игра
