@@ -1638,7 +1638,7 @@ http://31.148.48.15/Russkiy_Bestseller/index.m3u8
 #EXTINF:-1 tvg-id="russky-detektiv" tvg-name="Русский детектив" tvg-logo="http://epg.one/img/1570.png" group-title="Кино", Русский детектив
 #EXTGRP:Кино
 http://77.235.1.19:8000/play/a08f/index.m3u8
-#EXTINF:-1 tvg-id="russky-illuzion" tvg-name="Русский иллюзион" tvg-logo="http://epg.one/img/53.png" group-title="Кино", Русский иллюзион
+#EXTINF:-1 tvg-id="russky-illuzion" tvg-name="Русский иллюзион" tvg-logo="http://epg.one/img/53.png" group-title="Кино", Русский Иллюзион
 #EXTGRP:Кино
 http://195.26.83.96:7006/play/a00y/index.m3u8
 #EXTINF:-1 tvg-id="russky-roman" tvg-name="Русский роман" tvg-logo="http://epg.one/img/401.png" group-title="Кино", Русский роман
@@ -1683,9 +1683,6 @@ https://mhd128.iptv2022.com/p/WrQ5IXCaRdoR8DATnKsgSQ,1755550846/streaming/sovet_
 #EXTINF:-1 tvg-id="sovkino" tvg-name="Советское кино" tvg-logo="http://epg.one/img/9399.png" group-title="Кино", Советское кино
 #EXTGRP:Кино
 https://mhd128.iptv2022.com/p/pWncEqB89-a921BGIhhQDA,1755550817/streaming/sovietmovs/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-id="tvxxi" tvg-name="ТВ 21" tvg-logo="http://epg.one/img/309.png" group-title="Кино", ТВ 21
-#EXTGRP:Кино
-https://ucdn.beetv.kz/bpk-tv/000000006/tve/index.m3u8
 #EXTINF:-1 tvg-id="tvoyo-tv-hd" tvg-name="Твоё ТВ HD" tvg-logo="http://epg.one/img/5441.png" group-title="Кино", Твоё ТВ HD
 #EXTGRP:Кино
 http://tvoetv.space:8080/tvoetv/index.m3u8
@@ -1734,7 +1731,7 @@ http://193.27.209.122/bollywood/index.m3u8
 #EXTINF:-1 tvg-id="bolt-ru" tvg-name="Bolt HD Россия" tvg-logo="http://epg.one/img/2138.png" group-title="Кино", Bolt HD Россия
 #EXTGRP:Кино
 http://178.217.72.66:8080/bolt/index.m3u8
-#EXTINF:-1 tvg-id="cinema-ru" tvg-name="Cinema" tvg-logo="http://epg.one/img/2754.png" group-title="Кино", Cinema
+#EXTINF:-1 tvg-id="cinema-ru" tvg-name="Cinema HD" tvg-logo="http://epg.one/img/2754.png" group-title="Кино", Cinema HD
 #EXTGRP:Кино
 http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Cinema Космос ТВ HD BY" tvg-logo="http://epg.one/img/2549.png" group-title="Кино", Cinema Космос ТВ HD BY
@@ -1755,7 +1752,7 @@ http://213.169.39.30:5009
 #EXTINF:-1 tvg-id="filmbox-arthouse" tvg-name="Filmbox Arthouse" tvg-logo="http://epg.one/img/2182.png" group-title="Кино", Filmbox Arthouse
 #EXTGRP:Кино
 http://iptv.prosto.tv:7000/ch63/video.m3u8
-#EXTINF:-1 tvg-id="filmua-drama" tvg-name="Film.UA Drama" tvg-logo="http://epg.one/img/8911.png" group-title="Кино", Film.UA Drama
+#EXTINF:-1 tvg-id="filmua-drama" tvg-name="Film.UA Drama" tvg-logo="http://epg.one/img/8911.png" group-title="Кино", Film UA Drama
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000003028/tve/index.m3u8
 #EXTINF:-1 tvg-id="flixsnip" tvg-name="Flix Snip" tvg-logo="http://epg.one/img/774.png" group-title="Кино", Flix Snip
@@ -1827,10 +1824,10 @@ http://132544.edgevideo.ru/streams/132544_931337/1325441080/index.m3u8
 #EXTINF:-1 tvg-id="shot-tv" tvg-name="SHOT TV" tvg-logo="http://epg.one/img/431.png" group-title="Кино", SHOT TV
 #EXTGRP:Кино
 http://sltv2.be:8080/DeNiSoNkEl/nPcCsz5hHn/550120
-#EXTINF:-1 tvg-id="star-cinema" tvg-name="Star Cinema Россия" tvg-logo="http://epg.one/img/3328.png" group-title="Кино", Star Cinema Россия
+#EXTINF:-1 tvg-id="star-cinema" tvg-name="Star Cinema" tvg-logo="http://epg.one/img/3328.png" group-title="Кино", Star Cinema
 #EXTGRP:Кино
 http://77.235.1.19:8000/play/a043/index.m3u8
-#EXTINF:-1 tvg-id="star-family" tvg-name="Star Family Россия" tvg-logo="http://epg.one/img/9162.png" group-title="Кино", Star Family Россия
+#EXTINF:-1 tvg-id="star-family" tvg-name="Star Family" tvg-logo="http://epg.one/img/9162.png" group-title="Кино", Star Family
 #EXTGRP:Кино
 http://77.235.1.19:8000/play/a042/index.m3u8
 #EXTINF:-1 tvg-id="start-air" tvg-name="START Air" tvg-logo="http://epg.one/img/6241.png" group-title="Кино", START Air HD
@@ -1848,9 +1845,12 @@ http://193.27.209.122/dizi/index.m3u8
 #EXTINF:-1 tvg-id="trashtv" tvg-name="Trash HD" tvg-logo="http://epg.one/img/3361.png" group-title="Кино", Trash HD
 #EXTGRP:Кино
 https://mhd128.iptv2022.com/p/cZFwt2pX1MtI2xLL7jDkBQ,1755550816/streaming/trash/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-id="tv-rus" tvg-name="TVRUS" tvg-logo="http://epg.one/img/7280.png" group-title="Кино", TVRUS
+#EXTINF:-1 tvg-id="tv-rus" tvg-name="TV RUS" tvg-logo="http://epg.one/img/7280.png" group-title="Кино", TV Rus
 #EXTGRP:Кино
 http://85.187.13.40:18000/sts
+#EXTINF:-1 tvg-id="tvxxi" tvg-name="TV XXI" tvg-logo="http://epg.one/img/309.png" group-title="Кино", TV XXI
+#EXTGRP:Кино
+https://ucdn.beetv.kz/bpk-tv/000000006/tve/index.m3u8
 #EXTINF:-1 tvg-id="vhs-ka" tvg-name="VHS-ка HD" tvg-logo="https://epgx.club/picons/vhs-ka.png" group-title="Кино", VHS-ка HD
 #EXTGRP:Кино
 http://158.160.149.81:8080/8270/index.m3u8
@@ -1878,16 +1878,16 @@ https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD.smil/pla
 #EXTINF:-1 tvg-id="viju-tv1000-romantica" tvg-name="Viju TV1000 Romantica HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/97/Viju_TV1000_Romantica.svg/revision/latest/scale-to-width-down/284?cb=20240928200507" group-title="Кино", Viju TV1000 Romantica HD
 #EXTGRP:Кино
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/playlist.m3u8?e=1755746238&md5=Qk5Kjum5Du2LYhVP8iliVA
-#EXTINF:-1 tvg-id="vip-comedy" tvg-name="Viju+ Comedy" tvg-logo="http://epg.one/img/1011.png" group-title="Кино", Viju+ Comedy
+#EXTINF:-1 tvg-id="vip-comedy" tvg-name="viju+ Comedy HD" tvg-logo="http://epg.one/img/1011.png" group-title="Кино", Viju+ Comedy HD
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000000870/tve/index.m3u8
-#EXTINF:-1 tvg-id="vip-megahit" tvg-name="Viju+ Megahit" tvg-logo="http://epg.one/img/1012.png" group-title="Кино", Viju+ Megahit
+#EXTINF:-1 tvg-id="vip-megahit" tvg-name="viju+ Megahit HD" tvg-logo="http://epg.one/img/1012.png" group-title="Кино", Viju+ Megahit HD
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000000869/tve/index.m3u8
-#EXTINF:-1 tvg-id="vip-premiere" tvg-name="Viju+ Premiere" tvg-logo="http://epg.one/img/1013.png" group-title="Кино", Viju+ Premiere
+#EXTINF:-1 tvg-id="vip-premiere" tvg-name="viju+ Premiere HD" tvg-logo="http://epg.one/img/1013.png" group-title="Кино", Viju+ Premiere HD
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000000868/tve/index.m3u8
-#EXTINF:-1 tvg-id="vip-serial" tvg-name="Viju+ Serial" tvg-logo="http://epg.one/img/2838.png" group-title="Кино", Viju+ Serial
+#EXTINF:-1 tvg-id="vip-serial" tvg-name="viju+ Serial HD" tvg-logo="http://epg.one/img/2838.png" group-title="Кино", Viju+ Serial HD
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000004375/tve/index.m3u8
 
