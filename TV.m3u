@@ -3846,7 +3846,7 @@ https://iptv.itv.uz/hls/live/t/UAcSEExX5UamlFqFOIaXIA/e/1767191403/4000/index.m3
 #EXTINF:-1 tvg-name="iTV Music UZ" tvg-logo="http://epg.one/img/7920.png" group-title="Узбекистан", iTV Music UZ
 #EXTGRP:Узбекистан
 https://iptv.itv.uz/hls/live/t/IDvfbmZ5Ibmqs0plMhNejg/e/1767191403/4001/index.m3u8
-#EXTINF:-1 tvg-name="Kinoteatr" tvg-logo="http://epg.one/img/2652.png" group-title="Узбекистан", Kinoteatr
+#EXTINF:-1 tvg-name="Kinoteatr" tvg-logo="http://epg.one/img/2652.png" group-title="Узбекистан", Kinoteatr UZ
 #EXTGRP:Узбекистан
 https://s03.watcher.uz/83/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
 #EXTINF:-1 tvg-name="Madaniyat va Ma'rifat UZ" tvg-logo="http://epg.one/img/2648.png" group-title="Узбекистан", Madaniyat va Ma'rifat UZ
@@ -3873,10 +3873,10 @@ https://s03.watcher.uz/87/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.
 #EXTINF:-1 tvg-name="Ozbekiston 24 HD UZ" tvg-logo="http://epg.one/img/7931.png" group-title="Узбекистан", Ozbekiston 24 HD UZ
 #EXTGRP:Узбекистан
 https://s04.watcher.uz/8/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
-#EXTINF:-1 tvg-name="O'zbekiston Tarixi HD UZ" tvg-logo="http://epg.one/img/7932.png" group-title="Узбекистан", O'zbekiston Tarixi HD UZ
+#EXTINF:-1 tvg-name="O'zbekiston Tarixi HD UZ" tvg-logo="http://epg.one/img/7932.png" group-title="Узбекистан", Ozbekiston Tarixi HD UZ
 #EXTGRP:Узбекистан
 https://s03.watcher.uz/86/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
-#EXTINF:-1 tvg-name="O'zbekiston UZ" tvg-logo="http://epg.one/img/2644.png" group-title="Узбекистан", O'zbekiston UZ
+#EXTINF:-1 tvg-name="O'zbekiston UZ" tvg-logo="http://epg.one/img/2644.png" group-title="Узбекистан", Ozbekiston UZ
 #EXTGRP:Узбекистан
 https://s03.watcher.uz/56/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
 #EXTINF:-1 tvg-name="Shifo TV" tvg-logo="https://avatars.mds.yandex.net/i?id=4e620f55f4833e21f250ad7bf4271233d76065f9-13218119-images-thumbs&n=13" group-title="Узбекистан", Shifo TV
@@ -3918,7 +3918,7 @@ https://m3u8.ott.blue/watch/45/index.m3u8?geo=auto&token=94450098895765784220366
 #EXTINF:-1 tvg-id="5kanal-ua" tvg-name="5 канал UA" tvg-logo="http://epg.one/img/2079.png" group-title="Украина", 5 канал UA
 #EXTGRP:Украина
 http://ext.cdn.nashnet.tv/228.0.4.26/index.m3u8
-#EXTINF:-1 tvg-name="7 канал UA" tvg-logo="https://avatars.mds.yandex.net/i?id=421a5680c2e2ce504250932fa302f22c9cdcd4f7-4889316-images-thumbs&n=13" group-title="Украина", 7 канал UA
+#EXTINF:-1 tvg-name="7 канал UA" tvg-logo="https://avatars.mds.yandex.net/i?id=421a5680c2e2ce504250932fa302f22c9cdcd4f7-4889316-images-thumbs&n=13" group-title="Украина", 7 Канал UA
 #EXTGRP:Украина
 https://ext.cdn.nashnet.tv/228.0.0.162/index.m3u8
 #EXTINF:-1 tvg-name="24 канал" tvg-logo="http://epg.one/img/2084.png" group-title="Украина", 24 канал
@@ -3951,7 +3951,7 @@ https://stream.ntktv.ua/s/ntk/ntk.m3u8?cur=tva.org.ua&key=3i277
 #EXTINF:-1 tvg-name="Орбiта" tvg-logo="https://avatars.mds.yandex.net/i?id=be28ac93807a3bc2618f83df20e05808b0d3cd7d-8102231-images-thumbs&n=13" group-title="Украина", Орбiта
 #EXTGRP:Украина
 http://ftp.orbita.dn.ua/hls/orbita.m3u8
-#EXTINF:-1 tvg-id="otse" tvg-name="Оце" tvg-logo="http://epg.one/img/3351.png" group-title="Украина", Оце
+#EXTINF:-1 tvg-id="otse" tvg-name="Оце" tvg-logo="http://epg.one/img/3351.png" group-title="Украина", ОЦЕ
 #EXTGRP:Украина
 https://iptv.prosto.tv/ch18/video.m3u8
 #EXTINF:-1 tvg-name="Полтавское ТВ" tvg-logo="https://avatars.mds.yandex.net/i?id=c85320eb84c0ce8d3d494d9ada6d9f42e914ca6c-12523274-images-thumbs&n=13" group-title="Украина", Полтавское ТВ
