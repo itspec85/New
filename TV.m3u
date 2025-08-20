@@ -3687,13 +3687,13 @@ http://akittv-live.ercdn.net/akittv/akittv.m3u8
 #EXTINF:-1 tvg-name="ATV TR" tvg-logo="http://epg.one/img/2600.png" group-title="Турция", ATV TR
 #EXTGRP:Турция
 http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-name="Bengü Türk" tvg-logo="https://i.ibb.co/0MHPk8y/benguturk.png" group-title="Турция", Bengü Türk
+#EXTINF:-1 tvg-name="BENGÜTÜRK" tvg-logo="https://i.ibb.co/0MHPk8y/benguturk.png" group-title="Турция", BENGÜTÜRK
 #EXTGRP:Турция
 http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:BB:EE:72&stream=45338&extension=ts
 #EXTINF:-1 tvg-id="beyaz-tv-tr" tvg-name="Beyaz TV TR" tvg-logo="http://epg.one/img/2668.png" group-title="Турция", Beyaz TV TR
 #EXTGRP:Турция
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
-#EXTINF:-1 tvg-id="bloomberg-ht-tr" tvg-name="Bloomberg HT" tvg-logo="http://epg.one/img/2613.png" group-title="Турция", Bloomberg HT
+#EXTINF:-1 tvg-id="bloomberg-ht-tr" tvg-name="Bloomberg HT TR" tvg-logo="http://epg.one/img/2613.png" group-title="Турция", Bloomberg HT TR
 #EXTGRP:Турция
 https://bloomberght-live.daioncdn.net/bloomberght/bloomberght.m3u8
 #EXTINF:-1 tvg-name="Can TV" tvg-logo="https://yt3.ggpht.com/a/AATXAJxQje5n5vTBcpygj-LvPVxQ2PGSK_2KAuiLvg=s900-c-k-c0xffffffff-no-rj-mo" group-title="Турция", Can TV
@@ -3714,7 +3714,7 @@ https://cdn1-ercistv.yayin.com.tr/ercistv/amlst:ercistv/chunklist.m3u8
 #EXTINF:-1 tvg-name="Euro D TR" tvg-logo="http://epg.one/img/3945.png" group-title="Турция", Euro D TR
 #EXTGRP:Турция
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
-#EXTINF:-1 tvg-name="Flash TV" tvg-logo="https://cdn.epg.one/img/8653.png" group-title="Турция", Flash TV
+#EXTINF:-1 tvg-name="Flash TV TR" tvg-logo="https://cdn.epg.one/img/8653.png" group-title="Турция", Flash TV TR
 #EXTGRP:Турция
 https://flashhaber-live.ercdn.net/flashhaber/flashhaber.m3u8
 #EXTINF:-1 tvg-name="Global Haber TV TR" tvg-logo="http://epg.one/img/3980.png" group-title="Турция", Global Haber TV TR
@@ -3723,7 +3723,7 @@ https://ensonhaber-live.ercdn.net/haberglobal/haberglobal.m3u8
 #EXTINF:-1 tvg-name="Haber 61" tvg-logo="https://avatars.mds.yandex.net/i?id=7da4911edf799e93e2957af4a33f308e4dc9116d-12384153-images-thumbs&n=13" group-title="Турция", Haber 61
 #EXTGRP:Турция
 http://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/iptvdelisi.m3u8
-#EXTINF:-1 tvg-name="Haberturk HD" tvg-logo="http://epg.one/img/3979.png" group-title="Турция", Haberturk HD
+#EXTINF:-1 tvg-name="Haberturk HD TR" tvg-logo="http://epg.one/img/3979.png" group-title="Турция", Haberturk HD TR
 #EXTGRP:Турция
 https://ensonhaber-live.ercdn.net/haberturk/haberturk.m3u8
 #EXTINF:-1 tvg-name="HALK TV" tvg-logo="http://epg.one/img/8661.png" group-title="Турция", HALK TV
@@ -3756,7 +3756,7 @@ https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="show-hd-tr" tvg-name="Show TV TR" tvg-logo="http://epg.one/img/2608.png" group-title="Турция", Show TV TR
 #EXTGRP:Турция
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
-#EXTINF:-1 tvg-name="Star TV HD" tvg-logo="http://epg.one/img/2667.png" group-title="Турция", Star TV HD
+#EXTINF:-1 tvg-id="star-tv-hd-tr" tvg-name="Star TV HD TR" tvg-logo="http://epg.one/img/2667.png" group-title="Турция", STAR TV HD TR
 #EXTGRP:Турция
 http://dogus-live.daioncdn.net/startv/startv_720p.m3u8
 #EXTINF:-1 tvg-name="Super Türk" tvg-logo="https://i.postimg.cc/QCMn4kZC/Fqf-J37n-Xs-AAD9-2.png" group-title="Турция", Super Türk
@@ -3768,25 +3768,25 @@ http://75.119.144.48/SUPERTURK_MAX_HD/index.m3u8
 #EXTINF:-1 tvg-name="TBMM" tvg-logo="https://avatars.mds.yandex.net/i?id=4573b709670ca587c35226ccc6031096df760058-5537820-images-thumbs&n=13" group-title="Турция", TBMM
 #EXTGRP:Турция
 https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
-#EXTINF:-1 tvg-name="Teve 2 HD" tvg-logo="http://epg.one/img/2607.png" group-title="Турция", Teve 2 HD
+#EXTINF:-1 tvg-name="Teve 2 HD" tvg-logo="http://epg.one/img/2607.png" group-title="Турция", Teve 2 HD TR
 #EXTGRP:Турция
 https://live.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
 #EXTINF:-1 tvg-id="tlc-tr" tvg-name="TLC TR" tvg-logo="http://epg.one/img/3968.png" group-title="Турция", TLC TR
 #EXTGRP:Турция
 https://dogus-live.daioncdn.net/tlc/tlc.m3u8
-#EXTINF:-1 tvg-id="trt-1-hd" tvg-name="TRT 1 HD" tvg-logo="http://epg.one/img/2598.png" group-title="Турция", TRT 1 HD
+#EXTINF:-1 tvg-id="trt-1-hd" tvg-name="TRT 1 HD" tvg-logo="http://epg.one/img/2598.png" group-title="Турция", TRT 1 HD TR
 #EXTGRP:Турция
 http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:BB:EE:72&stream=2837&extension=ts
 #EXTINF:-1 tvg-name="TRT 2 HD" tvg-logo="http://epg.one/img/3939.png" group-title="Турция", TRT 2 HD
 #EXTGRP:Турция
 http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:BB:EE:72&stream=29026&extension=ts
-#EXTINF:-1 tvg-id="trt-avaz" tvg-name="TRT AVAZ" tvg-logo="http://epg.one/img/3858.png" group-title="Турция", TRT AVAZ
+#EXTINF:-1 tvg-id="trt-avaz" tvg-name="TRT Avaz [TR]" tvg-logo="http://epg.one/img/3858.png" group-title="Турция", TRT Avaz TR
 #EXTGRP:Турция
 https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="TRT Belgesel TR" tvg-logo="http://epg.one/img/3907.png" group-title="Турция", TRT Belgesel TR
 #EXTGRP:Турция
 http://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-name="TRT Çocuk" tvg-logo="http://epg.one/img/3896.png" group-title="Турция", TRT Çocuk
+#EXTINF:-1 tvg-id="trt-cocuk-tr" tvg-name="TRT Çocuk [TR]" tvg-logo="http://epg.one/img/3896.png" group-title="Турция", TRT Çocuk TR
 #EXTGRP:Турция
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="TRT Diyanet TR" tvg-logo="http://epg.one/img/3853.png" group-title="Турция", TRT Diyanet TR
@@ -3798,19 +3798,19 @@ https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="TRT EBATV ORTAOKUL" tvg-logo="http://epg.one/img/3973.png" group-title="Турция", TRT EBATV ORTAOKUL
 #EXTGRP:Турция
 https://tv-e-okul01.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="trt-haber-hd" tvg-name="TRT Haber" tvg-logo="http://epg.one/img/3974.png" group-title="Турция", TRT Haber
+#EXTINF:-1 tvg-id="trt-haber-hd" tvg-name="TRT Haber HD" tvg-logo="http://epg.one/img/3974.png" group-title="Турция", TRT Haber HD TR
 #EXTGRP:Турция
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="TRT TÜRK" tvg-logo="http://epg.one/img/2951.png" group-title="Турция", TRT TÜRK
 #EXTGRP:Турция
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-name="TV4 TR" tvg-logo="https://i.ibb.co/pXncfpb/tv422.png" group-title="Турция", TV4 TR
+#EXTINF:-1 tvg-name="TV 4 HD TR" tvg-logo="https://i.ibb.co/pXncfpb/tv422.png" group-title="Турция", TV 4 HD TR
 #EXTGRP:Турция
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
-#EXTINF:-1 tvg-id="tv85-tr" tvg-name="TV8.5 HD" tvg-logo="http://epg.one/img/2614.png" group-title="Турция", TV8.5 HD
+#EXTINF:-1 tvg-id="tv85-tr" tvg-name="TV 8.5 HD [TR]" tvg-logo="http://epg.one/img/2614.png" group-title="Турция", TV 8.5 HD TR
 #EXTGRP:Турция
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=10773&extension=ts
-#EXTINF:-1 tvg-name="TV 100 HD" tvg-logo="http://epg.one/img/2622.png" group-title="Турция", TV 100 HD
+#EXTINF:-1 tvg-name="TV 100 HD TR" tvg-logo="http://epg.one/img/2622.png" group-title="Турция", TV 100 HD TR
 #EXTGRP:Турция
 https://tv100-live.daioncdn.net/tv100/tv100_1080p.m3u8
 
