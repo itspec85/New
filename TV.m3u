@@ -672,10 +672,10 @@ https://ucdn.beetv.kz/bpk-tv/000000941/tve/index.m3u8
 #EXTINF:-1 tvg-id="irbis" tvg-name="Ирбис" tvg-logo="https://iptvx.one/picons/irbis.png" group-title="Казахстан", Ирбис
 #EXTGRP:Казахстан
 https://ucdn.beetv.kz/bpk-tv/000001513/tve/index.m3u8
-#EXTINF:-1 tvg-id="kazakhstan" tvg-name="Qazaqstan HD" tvg-logo="http://epg.one/img/2569.png" group-title="Казахстан", Qazaqstan HD
+#EXTINF:-1 tvg-id="kazakhstan" tvg-name="Казахстан" tvg-logo="http://epg.one/img/2569.png" group-title="Казахстан", Казахстан KZ
 #EXTGRP:Казахстан
 https://ucdn.beetv.kz/bpk-tv/000004208/tve/index.m3u8
-#EXTINF:-1 tvg-id="qazaqstan-int" tvg-name="Qazaqstan International" tvg-logo="https://iptvx.one/picons/qazaqstan-int.png" group-title="Казахстан", Qazaqstan International
+#EXTINF:-1 tvg-id="qazaqstan-int" tvg-name="QAZAQSTAN HD Int" tvg-logo="https://iptvx.one/picons/qazaqstan-int.png" group-title="Казахстан", Qazaqstan International
 #EXTGRP:Казахстан
 https://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8
 #EXTINF:-1 tvg-id="kokshe" tvg-name="Kokshe" tvg-logo="https://avatars.mds.yandex.net/i?id=8d16f478bc2652b5be7f5c5758baf6504557f3fe-10681994-images-thumbs&n=13" group-title="Казахстан", Kokshe
