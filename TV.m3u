@@ -3168,7 +3168,7 @@ http://stream.fastlnk.ru:88/Panorama_TV_HD/index.m3u8
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://dmi3y-tv.ru/hls/zabava/region/KIROV/CH_1GORODSKOYHD720.m3u8
-#EXTINF:-1 tvg-id="pervy-gorodskoy-omsk" tvg-name="Первый городской Омск" tvg-logo="https://avatars.mds.yandex.net/i?id=3b9bd3c795bd07ca6173efd47cd72a12a516445f-5275502-images-thumbs&n=13" group-title="Региональные РФ", Первый городской Омск
+#EXTINF:-1 tvg-id="pervy-gorodskoy-omsk" tvg-name="Первый городской (Омск)" tvg-logo="http://epg.one/img/5855.png" group-title="Региональные РФ", Первый городской (Омск)
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://dmi3y-tv.ru/hls/zabava/region/OMSK/CH_1GORODSKOY.m3u8
@@ -3353,7 +3353,7 @@ http://stream.fastlnk.ru:88/Tverskojj_prospekt_hd/index.m3u8
 #EXTINF:-1 tvg-name="ТВК FHD" tvg-logo="http://epg.one/img/5821.png" group-title="Региональные РФ", ТВК FHD
 #EXTGRP:Региональные РФ
 http://air.tvk6.ru/tvk24/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-id="teledom" tvg-name="Теледом HD" tvg-logo="https://cdn.epg.one/img/2139.png" group-title="Региональные РФ", Теледом HD
+#EXTINF:-1 tvg-id="teledom" tvg-name="Теледом" tvg-logo="https://cdn.epg.one/img/2139.png" group-title="Региональные РФ", ТелеДом HD
 #EXTGRP:Региональные РФ
 https://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 #EXTINF:-1 tvg-name="Телеканал Новороссийск" tvg-logo="https://avatars.mds.yandex.net/i?id=3ee1e8d6870281c74be8ad1890af98916d3c8ba0-9181139-images-thumbs&n=13" group-title="Региональные РФ", Телеканал Новороссийск
@@ -3387,7 +3387,7 @@ http://planeta.mediacdn.ru/cdn/tnvplanet/tracks-v1a1/mono.m3u8
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://dmi3y-tv.ru/hls/zabava/region/SUR/CH_TNR7HD.m3u8
-#EXTINF:-1 tvg-name="ТНР24 (Нижневартовск)" tvg-logo="https://cdn.epg.one/img/9119.png" group-title="Региональные РФ", ТНР24 (Нижневартовск)
+#EXTINF:-1 tvg-name="ТНР24 (Нижневартовск)" tvg-logo="https://cdn.epg.one/img/9119.png" group-title="Региональные РФ", ТНР 24 (Нижневартовск)
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://dmi3y-tv.ru/hls/zabava/region/SUR/CH_TNR24HD_NIZH.m3u8
@@ -3401,7 +3401,7 @@ https://live-tolknews.cdnvideo.ru/tolknews/stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tolyatti24" tvg-name="Тольятти 24" tvg-logo="https://avatars.mds.yandex.net/i?id=1f5a0a2c0fd247bd42eb28bd9087b9f41860c420-9097093-images-thumbs&n=13" group-title="Региональные РФ", Тольятти 24
 #EXTGRP:Региональные РФ
 https://tvtogliatti24.ru/hls/live720/index.m3u8
-#EXTINF:-1 tvg-id="tomskoe-vremia" tvg-name="Томское время" tvg-logo="https://cdn.epg.one/img/7681.png" group-title="Региональные РФ", Томское время
+#EXTINF:-1 tvg-id="tomskoe-vremia" tvg-name="Томское время" tvg-logo="https://cdn.epg.one/img/7681.png" group-title="Региональные РФ", Томское Время
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://dmi3y-tv.ru/hls/zabava/region/TOMSK/CH_TOMSKVREMYAHD.m3u8
@@ -3439,7 +3439,7 @@ http://dmi3y-tv.ru/hls/zabava/region/EKT/CH_VEKTORHD720_TRNSK.m3u8
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://dmi3y-tv.ru/hls/zabava/region/DV_BLAG/CH_TYNDATV_TYNDA.m3u8
-#EXTINF:-1 tvg-id="tumenskoe-vremia" tvg-name="Тюменское время" tvg-logo="https://cdn.epg.one/img/4639.png" group-title="Региональные РФ", Тюменское время
+#EXTINF:-1 tvg-id="tumenskoe-vremia" tvg-name="Тюменское время" tvg-logo="https://cdn.epg.one/img/4639.png" group-title="Региональные РФ", Тюменское Время
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://dmi3y-tv.ru/hls/zabava/region/TUM/CH_TUMVREMYA.m3u8
@@ -3512,7 +3512,7 @@ http://195.26.83.96:7029/play/a006
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://dmi3y-tv.ru/hls/zabava/region/NBK/CH_YAMAL1HD.m3u8
-#EXTINF:-1 tvg-id="yamal-region" tvg-name="Ямал Регион HD" tvg-logo="https://cdn.epg.one/img/9329.png" group-title="Региональные РФ", Ямал Регион HD
+#EXTINF:-1 tvg-id="yamal-region" tvg-name="Ямал-Регион" tvg-logo="https://cdn.epg.one/img/9329.png" group-title="Региональные РФ", Ямал регион HD
 #EXTGRP:Региональные РФ
 https://bl.webcaster.pro/media/playlist/free_eb0182bd41004b93570aa08119ad9151/4_97090908/1080p/5b7cf483e6b0ccafcd0c6e9052677dbc/4846138545.m3u8?live=15&ref=https://yamal-media.ru/
 #EXTINF:-1 tvg-id="gln24" tvg-name="GLN 24 Геленджик" tvg-logo="https://avatars.mds.yandex.net/i?id=fda5e6ac5ccb8ea7711d0f8f0b91d36bf5cd8c84-10871934-images-thumbs&n=13" group-title="Региональные РФ", GLN 24 Геленджик
