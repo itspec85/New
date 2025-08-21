@@ -2653,7 +2653,7 @@ https://7channel.iptv2022.com/tracks-v1a1/mono.m3u8
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_OTT8KANAL/variant.m3u8
-#EXTINF:-1 tvg-name="8 канал Красноярск" tvg-logo="http://epg.one/img/2167.png" group-title="Региональные РФ", 8 канал Красноярск
+#EXTINF:-1 tvg-id="8kanal-krasnoyarsk" tvg-name="8 канал (Красноярский край)" tvg-logo="http://epg.one/img/2167.png" group-title="Региональные РФ", 8 канал Красноярский край
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://dmi3y-tv.ru/hls/zabava/region/ABAKAN/CH_8CHANNEL_KRSK.m3u8
@@ -2670,7 +2670,7 @@ https://live-10chanel.cdnvideo.ru/10chanel/streamtr_1/playlist.m3u8
 #EXTINF:-1 tvg-name="11 канал Пенза" tvg-logo="https://avatars.mds.yandex.net/i?id=bafabb21bdf607eb00218e800fe2a61deff69521-8265302-images-thumbs&n=13" group-title="Региональные РФ", 11 канал Пенза
 #EXTGRP:Региональные РФ
 http://85.234.33.63/stream/c11.m3u8
-#EXTINF:-1 tvg-id="12-omsk" tvg-name="12 канал Омск HD" tvg-logo="http://epg.one/img/5841.png" group-title="Региональные РФ", 12 канал Омск HD
+#EXTINF:-1 tvg-id="12-omsk" tvg-name="12 канал Омск" tvg-logo="http://epg.one/img/5841.png" group-title="Региональные РФ", 12 канал ОМСК HD
 #EXTGRP:Региональные РФ
 http://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-id="25-region-vladik" tvg-name="25 регион (Владивосток)" tvg-logo="https://epgx.club/picons/25-region-vladik.png" group-title="Региональные РФ", 25 регион (Владивосток)
@@ -2805,7 +2805,7 @@ https://136723.edgevideo.ru/streams/136723_657205/720n/index.m3u8
 #EXTINF:-1 tvg-id="vetta24" tvg-name="Ветта 24 Пермь" tvg-logo="https://iptvx.one/picons/vetta24.png" group-title="Региональные РФ", Ветта 24 Пермь
 #EXTGRP:Региональные РФ
 http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
-#EXTINF:-1 tvg-id="volga" tvg-name="Волга" tvg-logo="http://epg.one/img/2468.png" group-title="Региональные РФ", Волга
+#EXTINF:-1 tvg-id="volga" tvg-name="Волга" tvg-logo="http://epg.one/img/2468.png" group-title="Региональные РФ", Волга ТВ
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://dmi3y-tv.ru/hls/zabava/region/NN/CH_VOLGA.m3u8
@@ -2819,7 +2819,7 @@ http://dmi3y-tv.ru/hls/zabava/region/RD/CH_VOLGVEST_VOLG.m3u8
 #EXTINF:-1 tvg-id="vostok-24" tvg-name="Восток 24 FHD" tvg-logo="http://epg.one/img/7705.png" group-title="Региональные РФ", Восток 24 FHD
 #EXTGRP:Региональные РФ
 http://109.126.27.2:6484/v24/index.m3u8
-#EXTINF:-1 tvg-id="vostochnyj-ekspress" tvg-name="Восточный экспресс" tvg-logo="https://iptvx.one/picons/vostochnyj-ekspress.png" group-title="Региональные РФ", Восточный экспресс
+#EXTINF:-1 tvg-id="vostochnyj-ekspress" tvg-name="Восточный экспресс" tvg-logo="https://iptvx.one/picons/vostochnyj-ekspress.png" group-title="Региональные РФ", Восточный Экспресс
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://dmi3y-tv.ru/hls/zabava/region/CHEL/CH_VOSTEXPRESSHD.m3u8
@@ -2935,7 +2935,7 @@ http://dmi3y-tv.ru/hls/zabava/region/DV_HVSK/CH_6TVKMS.m3u8
 #EXTINF:-1 tvg-id="krasnodar" tvg-name="Краснодар" tvg-logo="https://avatars.mds.yandex.net/i?id=a8d7284ae992ed62aec9d5816bbfe4b488a557cd-9123151-images-thumbs&n=13" group-title="Региональные РФ", Краснодар
 #EXTGRP:Региональные РФ
 https://live-tvkrasnodar-soc.cdnvideo.ru/tvkrasnodar-soc/social/playlist.m3u8
-#EXTINF:-1 tvg-id="krik-tv" tvg-name="Крик-ТВ" tvg-logo="http://epg.one/img/2032.png" group-title="Региональные РФ", Крик-ТВ
+#EXTINF:-1 tvg-id="krik-tv" tvg-name="Крик-ТВ" tvg-logo="http://epg.one/img/2032.png" group-title="Региональные РФ", КРИК-ТВ
 #EXTGRP:Региональные РФ
 http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
 #EXTINF:-1 tvg-name="КРТВ Красногорск" tvg-logo="https://i.imgur.com/AqJSzL7.png" group-title="Региональные РФ", КРТВ Красногорск
@@ -2948,7 +2948,7 @@ http://iptv.crimea.net:8787
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://dmi3y-tv.ru/hls/zabava/region/SAMARA/CH_KTVLUCH.m3u8
-#EXTINF:-1 tvg-id="kuban-24-orbita" tvg-name="Кубань 24 ОРБИТА" tvg-logo="http://epg.one/img/6027.png" group-title="Региональные РФ", Кубань 24 ОРБИТА
+#EXTINF:-1 tvg-id="kuban-24" tvg-name="Кубань 24" tvg-logo="http://epg.one/img/6027.png" group-title="Региональные РФ", Кубань 24 орбита
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://dmi3y-tv.ru/hls/zabava/region/KRDAR/CH_KUBAN24.m3u8
@@ -3068,7 +3068,7 @@ http://185.78.112.46:8077/nnttv_hd/index.m3u8
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://dmi3y-tv.ru/hls/zabava/region/NN/CH_NNTVHD720.m3u8
-#EXTINF:-1 tvg-id="novgorodskoe-obl-tv" tvg-name="Новгородское областное телевидение" tvg-logo="https://iptvx.one/picons/novgorodskoe-obl-tv.png" group-title="Региональные РФ", Новгородское областное телевидение
+#EXTINF:-1 tvg-id="novgorodskoe-obl-tv" tvg-name="Новгородское Областное телевидение" tvg-logo="https://iptvx.one/picons/novgorodskoe-obl-tv.png" group-title="Региональные РФ", Новгородское Областное Телевидение
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://dmi3y-tv.ru/hls/zabava/region/NOVG/CH_NOVGORODTV.m3u8
