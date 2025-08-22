@@ -528,7 +528,7 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_TNT_6.m3u8
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TNT_7.m3u8
-#EXTINF:-1 tvg-name="ТНТ International" tvg-logo="http://epg.one/img/5692.png" group-title="Россия", ТНТ International
+#EXTINF:-1 tvg-id="tnt-int-cis" tvg-name="ТНТ-International (СНГ)" tvg-logo="http://epg.one/img/5692.png" group-title="Россия", ТНТ International
 #EXTGRP:Россия
 http://85.187.13.40:18000/tntint
 #EXTINF:-1 tvg-id="tnt4" tvg-shift="+1" tvg-name="ТНТ4 -1" tvg-logo="http://epg.one/img/1649.png" group-title="Россия", ТНТ4 -1
@@ -654,7 +654,7 @@ https://ucdn.beetv.kz/bpk-tv/000005322/tve/index.m3u8
 #EXTINF:-1 tvg-id="atyray" tvg-name="Atyray" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/d/df/Atyrau.png/revision/latest?cb=20200225165956&path-prefix=ru" group-title="Казахстан", Atyray
 #EXTGRP:Казахстан
 https://ucdn.beetv.kz/bpk-tv/000001570/tve/index.m3u8
-#EXTINF:-1 tvg-name="Dostyq" tvg-logo="https://avatars.mds.yandex.net/i?id=a27eca1618d036ea317720c9869d2bed19406443-12935593-images-thumbs&n=13" group-title="Казахстан", Dostyq
+#EXTINF:-1 tvg-id="dostyk-kz" tvg-name="Dostyk [KZ]" tvg-logo="https://epgx.club/picons/dostyk-kz.png" group-title="Казахстан", Dostyq
 #EXTGRP:Казахстан
 https://ucdn.beetv.kz/bpk-tv/000007625/tve/index.m3u8
 #EXTINF:-1 tvg-id="ertis" tvg-name="Ertis" tvg-logo="https://avatars.mds.yandex.net/i?id=2a00000179f624829d76604fcc2ee4429836-4012435-images-thumbs&n=13" group-title="Казахстан", Ertis
