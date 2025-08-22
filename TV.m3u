@@ -1134,12 +1134,9 @@ https://ucdn.beetv.kz/bpk-tv/000001496/tve/index.m3u8
 #EXTINF:-1 tvg-id="discovery-channel" tvg-name="Discovery Channel" tvg-logo="http://epg.one/img/325.png" group-title="Познавательные", Discovery Channel (резерв)
 #EXTGRP:Познавательные
 http://45.159.74.22/DiscoveryChannel/mono.m3u8
-#EXTINF:-1 tvg-name="Discovery Science UK" tvg-logo="http://epg.one/img/3067.png" group-title="Познавательные", Discovery Science UK
-#EXTGRP:Познавательные
-http://cord-cutter.net:8080/LeeAv21/AvantL12/53695
 #EXTINF:-1 tvg-id="docubox-hd" tvg-name="DocuBox" tvg-logo="http://epg.one/img/2186.png" group-title="Познавательные", DocuBox HD
 #EXTGRP:Познавательные
-http://158.160.149.81:8080/1961/index.m3u8
+http://85.117.61.97:8000/play/a01h/index.m3u8
 #EXTINF:-1 tvg-id="e-tv" tvg-name="E TV" tvg-logo="http://epg.one/img/1676.png" group-title="Познавательные", E TV
 #EXTGRP:Познавательные
 http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
