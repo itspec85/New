@@ -1465,6 +1465,9 @@ http://193.27.209.122/tiji/index.m3u8
 #EXTINF:-1 tvg-id="blokbaster" tvg-name="Блокбастер" tvg-logo="http://epg.one/img/2832.png" group-title="Кино", Блокбастер
 #EXTGRP:Кино
 https://mhd128.iptv2022.com/p/JFqGuKWkejBZIgTBTDmm0Q,1756069209/streaming/blokbaster/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="blokbaster-hd" tvg-name="Блокбастер HD" tvg-logo="http://epg.one/img/2832.png" group-title="Кино", Блокбастер HD
+#EXTGRP:Кино
+http://178.217.72.66:8080/blockbasterhd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Видеокассета VHS" tvg-logo="http://epg.one/img/6005.png" group-title="Кино", Видеокассета VHS
 #EXTGRP:Кино
 https://autopilot.catcast.tv/mobile.m3u8?channel_id=37925&token=d079b8f26aa77b15ebe78c90956fd563&server=v2.catcast.tv
@@ -1494,7 +1497,7 @@ http://188.113.190.12/329/index.m3u8
 http://31.148.48.15/Zee_TV_Russia/index.m3u8
 #EXTINF:-1 tvg-id="kamedi" tvg-name="Камеди HD" tvg-logo="http://epg.one/img/2836.png" group-title="Кино", Камеди HD
 #EXTGRP:Кино
-https://mhd128.iptv2022.com/p/-y1P27pYNf8jvPAsOwkBdg,1756069209/streaming/kamedi/324/1/tracks-v5a1/mono.m3u8
+http://178.217.72.66:8080/kamedyhd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="kineko" tvg-name="Кинеко" tvg-logo="http://epg.one/img/7314.png" group-title="Кино", Кинеко
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000008136/tve/index.m3u8
@@ -1967,7 +1970,7 @@ http://178.217.72.66:8080/Match_Igra_HD/video.m3u8
 https://ucdn.beetv.kz/bpk-tv/000001695/tve/index.m3u8
 #EXTINF:-1 tvg-id="match-premier" tvg-name="Матч! Премьер" tvg-logo="http://epg.one/img/2250.png" group-title="Спорт", МАТЧ ПРЕМЬЕР
 #EXTGRP:Спорт
-http://192.162.64.99:5000/play/a02b/index.m3u8
+http://178.212.71.253:8000/play/57/index.m3u8
 #EXTINF:-1 tvg-id="match-premier" tvg-name="Матч! Премьер HD" tvg-logo="http://epg.one/img/2250.png" group-title="Спорт", МАТЧ ПРЕМЬЕР HD
 #EXTGRP:Спорт
 https://mhd128.iptv2022.com/p/_RbQ2CahSsIeItEyDljXWw,1756069217/streaming/match_premyerhd/324/1/tracks-v5a1/mono.m3u8
