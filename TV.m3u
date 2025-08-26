@@ -1468,9 +1468,6 @@ https://mhd128.iptv2022.com/p/hZmSSwtfg_jqP3UXB3y4lg,1756242009/streaming/blokba
 #EXTINF:-1 tvg-id="blokbaster-hd" tvg-name="Блокбастер HD" tvg-logo="http://epg.one/img/2832.png" group-title="Кино", Блокбастер HD
 #EXTGRP:Кино
 http://178.217.72.66:8080/blockbasterhd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Видеокассета VHS" tvg-logo="http://epg.one/img/6005.png" group-title="Кино", Видеокассета VHS
-#EXTGRP:Кино
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=37925&token=d079b8f26aa77b15ebe78c90956fd563&server=v2.catcast.tv
 #EXTINF:-1 tvg-id="denpobedy" tvg-name="День Победы HD" tvg-logo="http://epg.one/img/2773.png" group-title="Кино", День Победы HD
 #EXTGRP:Кино
 https://mhd128.iptv2022.com/p/9N5ENnWT_K17OiTvi7TXJg,1756242010/streaming/den-pobedi/324/1/tracks-v5a1/mono.m3u8
