@@ -1961,7 +1961,7 @@ http://178.217.72.66:8080/Match_Igra_HD/video.m3u8
 https://ucdn.beetv.kz/bpk-tv/000001695/tve/index.m3u8
 #EXTINF:-1 tvg-id="match-premier" tvg-name="Матч! Премьер" tvg-logo="http://epg.one/img/2250.png" group-title="Спорт", МАТЧ ПРЕМЬЕР
 #EXTGRP:Спорт
-http://178.212.71.253:8000/play/57/index.m3u8
+https://mhd128.iptv2022.com/p/ElenTFLGeSHbaavRQYHG3A,1756711643/streaming/match_premyer/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="match-premier" tvg-name="Матч! Премьер HD" tvg-logo="http://epg.one/img/2250.png" group-title="Спорт", МАТЧ ПРЕМЬЕР HD
 #EXTGRP:Спорт
 https://mhd128.iptv2022.com/p/q1jbWWKqmokNgaSllYxBDA,1756674015/streaming/match_premyerhd/324/1/tracks-v5a1/mono.m3u8
