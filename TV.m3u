@@ -1011,7 +1011,7 @@ https://n1.slavmir.tv/live/slavmir/chunklist.m3u8
 #EXTINF:-1 tvg-id="rybalka-i-oxota" tvg-name="Рыбалка и охота" tvg-logo="https://iptvx.one/picons/rybalka-i-oxota.png" group-title="Познавательные", Рыбалка и охота
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000002510/tve/index.m3u8
-#EXTINF:-1 tvg-id="oxotnik-i-rybolov" tvg-name="Рыболов" tvg-logo="https://iptvx.one/picons/rybalka-i-oxota.png" group-title="Познавательные", Рыболов HD
+#EXTINF:-1 tvg-id="oxotnik-i-rybolov" tvg-name="Рыболов" tvg-logo="http://epg.one/img/6646.png" group-title="Познавательные", Рыболов HD
 #EXTGRP:Познавательные
 http://dmi3y-tv.ru/hls/CH_RYBOLOV.m3u8
 #EXTINF:-1 tvg-id="sarafan" tvg-name="Сарафан" tvg-logo="http://epg.one/img/663.png" group-title="Познавательные", Сарафан
