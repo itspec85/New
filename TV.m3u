@@ -2001,9 +2001,12 @@ http://sltv2.be:8080/DeNiSoNkEl/nPcCsz5hHn/510637
 #EXTINF:-1 tvg-id="start-triumf" tvg-name="Старт Триумф HD" tvg-logo="http://epg.one/img/9112.png" group-title="Спорт", Старт Триумф HD
 #EXTGRP:Спорт
 http://31.133.36.244:8000/109
-#EXTINF:-1 tvg-id="ufc" tvg-name="Удар HD" tvg-logo="http://epg.one/img/2480.png" group-title="Спорт", Удар HD
+#EXTINF:-1 tvg-id="ufc" tvg-name="Удар" tvg-logo="http://epg.one/img/2480.png" group-title="Спорт", Удар
 #EXTGRP:Спорт
 https://ucdn.beetv.kz/bpk-tv/000007802/tve/index.m3u8
+#EXTINF:-1 tvg-id="ufc" tvg-name="Удар" tvg-logo="http://epg.one/img/2480.png" group-title="Спорт", Удар HD
+#EXTGRP:Спорт
+http://95.85.109.219:7000/play/a066
 #EXTINF:-1 tvg-id="football-ru" tvg-name="Футбол" tvg-logo="http://epg.one/img/2782.png" group-title="Спорт", Футбол
 #EXTGRP:Спорт
 http://31.148.48.15/Futbol_HD/index.m3u8
@@ -2043,12 +2046,18 @@ http://cord-cutter.net:8080/LeeAv21/AvantL12/14197
 #EXTINF:-1 tvg-id="espn-u-us" tvg-name="ESPN U US" tvg-logo="http://epg.one/img/8396.png" group-title="Спорт", ESPN U US
 #EXTGRP:Спорт
 http://fl3.moveonjoy.com/ESPN_U/index.m3u8
-#EXTINF:-1 tvg-id="eurosport1-ru" tvg-name="Eurosport 1" tvg-logo="http://epg.one/img/2052.png" group-title="Спорт", Eurosport 1
+#EXTINF:-1 tvg-id="eurosport1" tvg-name="Eurosport 1" tvg-logo="http://epg.one/img/2052.png" group-title="Спорт", Eurosport 1
 #EXTGRP:Спорт
 https://ucdn.beetv.kz/bpk-tv/000002478/tve/index.m3u8
-#EXTINF:-1 tvg-id="eurosport2-ru" tvg-name="Eurosport 2" tvg-logo="http://epg.one/img/4313.png" group-title="Спорт", Eurosport 2
+#EXTINF:-1 tvg-id="eurosport1" tvg-name="Eurosport 1" tvg-logo="http://epg.one/img/2052.png" group-title="Спорт", Eurosport 1 HD
+#EXTGRP:Спорт
+http://138.201.250.184/eurosport1/index.m3u8
+#EXTINF:-1 tvg-id="eurosport2" tvg-name="Eurosport 2" tvg-logo="http://epg.one/img/4313.png" group-title="Спорт", Eurosport 2
 #EXTGRP:Спорт
 https://ucdn.beetv.kz/bpk-tv/000002479/tve/index.m3u8
+#EXTINF:-1 tvg-id="eurosport2" tvg-name="Eurosport 2" tvg-logo="http://epg.one/img/4313.png" group-title="Спорт", Eurosport 2 HD
+#EXTGRP:Спорт
+http://138.201.250.184/eurosport2/index.m3u8
 #EXTINF:-1 tvg-id="extreme-sports" tvg-name="Extreme Sports" tvg-logo="http://epg.one/img/2053.png" group-title="Спорт", Extreme Sports
 #EXTGRP:Спорт
 https://ucdn.beetv.kz/bpk-tv/000000026/tve/index.m3u8
