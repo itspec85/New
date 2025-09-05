@@ -3779,6 +3779,9 @@ https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="TV 4 HD TR" tvg-logo="https://i.ibb.co/pXncfpb/tv422.png" group-title="Турция", TV 4 HD TR
 #EXTGRP:Турция
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
+#EXTINF:-1 tvg-id="tv8-tr" tvg-name="TV8 HD TR" tvg-logo="http://epg.one/img/2596.png" group-title="Турция", TV8 HD TR
+#EXTGRP:Турция
+http://focustv.live:8080/emin1909sky317/emin.190924/328682
 #EXTINF:-1 tvg-id="tv85-tr" tvg-name="TV 8.5 HD [TR]" tvg-logo="http://epg.one/img/2614.png" group-title="Турция", TV 8.5 HD TR
 #EXTGRP:Турция
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=10773&extension=ts
