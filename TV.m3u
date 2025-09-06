@@ -1369,6 +1369,12 @@ https://ucdn.beetv.kz/bpk-tv/000000203/tve/index.m3u8
 #EXTINF:-1 tvg-id="multimuzyka" tvg-name="Мульт и музыка" tvg-logo="http://epg.one/img/284.png" group-title="Детские", Мультимузыка
 #EXTGRP:Детские
 http://stv.mediacdn.ru/live/cdn/multimuzika/playlist.m3u8
+#EXTINF:-1 tvg-name="Мультсериалы VHS" tvg-logo="https://i.pinimg.com/736x/d5/6a/fd/d56afd3c61b34c581bf79e422676d0cb.jpg" group-title="Детские", Мультсериалы VHS
+#EXTGRP:Детские
+https://v2.catcast.tv/content/47757/index.m3u8?token=0672ea07ad1628d0641ef181145c7c28
+#EXTINF:-1 tvg-name="Мультфильмы СССР" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFvuAaClEfQy9e0f4hP7qLgECKmjvv7k7iFw&s" group-title="Детские", Мультфильмы СССР
+#EXTGRP:Детские
+https://v2.catcast.tv/content/47786/index.m3u8?token=a2dd039065a4816f6c078ce82615ede3
 #EXTINF:-1 tvg-id="o_" tvg-name="О!" tvg-logo="http://epg.one/img/1757.png" group-title="Детские", О!
 #EXTGRP:Детские
 http://95.85.109.219:7000/play/a09b
