@@ -1527,7 +1527,7 @@ https://ucdn.beetv.kz/bpk-tv/000005449/tve/index.m3u8
 http://45.159.74.22/Kinokomedia/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="kinomiks" tvg-name="Киномикс" tvg-logo="http://epg.one/img/644.png" group-title="Кино", КИНОМИКС
 #EXTGRP:Кино
-http://87.246.54.249:8085/Kinomiks/mpegts
+http://77.235.1.19:8000/play/a05k/index.m3u8
 #EXTINF:-1 tvg-id="kinopokaz" tvg-name="Кинопоказ" tvg-logo="http://epg.one/img/2834.png" group-title="Кино", Кинопоказ
 #EXTGRP:Кино
 http://31.148.48.15/Kinopokaz/index.m3u8
