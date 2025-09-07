@@ -1485,7 +1485,7 @@ https://132544.edgevideo.ru/streams/132544_806129/playlist.m3u8
 https://mhd128.iptv2022.com/p/JMKwyrQ9WSIpSPgkhMgUgA,1757278813/streaming/den-pobedi/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="domkino" tvg-name="Дом кино" tvg-logo="http://epg.one/img/834.png" group-title="Кино", Дом Кино
 #EXTGRP:Кино
-http://109.200.130.123:7537/play/a03d
+http://dmi3y-tv.ru/hls/CH_DOMKINO.m3u8
 #EXTINF:-1 tvg-id="domkino-premium" tvg-name="Дом Кино Премиум HD" tvg-logo="http://epg.one/img/2020.png" group-title="Кино", Дом Кино Премиум HD
 #EXTGRP:Кино
 http://178.217.72.66:8080/Dom_Kino_Premium_HD/index.m3u8
