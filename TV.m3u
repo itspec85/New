@@ -1316,7 +1316,7 @@ http://autopilot.catcast.tv/content/38720/index.m3u8
 https://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ginger-hd" tvg-name="Капитан Фантастика" tvg-logo="http://epg.one/img/2438.png" group-title="Детские", Капитан Фантастика
 #EXTGRP:Детские
-https://mhd128.iptv2022.com/p/FThSSdY2lpgKxunEWLYQHg,1757278815/streaming/gingerhd/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/6QFge6HfybNIHwVhgoKZoA,1757365209/streaming/gingerhd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="karusel" tvg-shift="+1" tvg-name="Карусель -1" tvg-logo="http://epg.one/img/740.png" group-title="Детские", Карусель -1
 #EXTGRP:Детские
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -1386,7 +1386,7 @@ http://31.148.48.15/Rizhiy/index.m3u8
 https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
 #EXTINF:-1 tvg-id="sovmultf" tvg-name="Советские мультфильмы" tvg-logo="https://epgx.club/picons/sovmultf.png" group-title="Детские", Советские мультфильмы
 #EXTGRP:Детские
-https://mhd128.iptv2022.com/p/eyNPjr0LWHLdJUNJFKeU0Q,1757278816/streaming/rusmult/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/yXYN56Q0Mzz49awm983PpA,1757365209/streaming/rusmult/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="solnce" tvg-shift="+1" tvg-name="Солнце -1" tvg-logo="http://epg.one/img/7669.png" group-title="Детские", Солнце -1
 #EXTGRP:Детские
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -1473,7 +1473,7 @@ http://193.27.209.122/tiji/index.m3u8
 
 #EXTINF:-1 tvg-id="blokbaster" tvg-name="Блокбастер" tvg-logo="http://epg.one/img/2832.png" group-title="Кино", Блокбастер
 #EXTGRP:Кино
-https://mhd128.iptv2022.com/p/FOJ21syRXWhWZju1sZI5Qg,1757278812/streaming/blokbaster/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/TZZbJ5WP8JrSdIg37wz4sw,1757365207/streaming/blokbaster/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="blokbaster-hd" tvg-name="Блокбастер HD" tvg-logo="http://epg.one/img/2832.png" group-title="Кино", Блокбастер HD
 #EXTGRP:Кино
 http://178.217.72.66:8080/blockbasterhd/tracks-v1a1/mono.m3u8
@@ -1482,7 +1482,7 @@ http://178.217.72.66:8080/blockbasterhd/tracks-v1a1/mono.m3u8
 https://132544.edgevideo.ru/streams/132544_806129/playlist.m3u8
 #EXTINF:-1 tvg-id="denpobedy" tvg-name="День Победы HD" tvg-logo="http://epg.one/img/2773.png" group-title="Кино", День Победы HD
 #EXTGRP:Кино
-https://mhd128.iptv2022.com/p/JMKwyrQ9WSIpSPgkhMgUgA,1757278813/streaming/den-pobedi/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/-UbVp4aaiaagEedsPU1kNg,1757365208/streaming/den-pobedi/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="domkino" tvg-name="Дом кино" tvg-logo="http://epg.one/img/834.png" group-title="Кино", Дом Кино
 #EXTGRP:Кино
 http://93.125.121.61:8383/play/a02l
@@ -1584,7 +1584,7 @@ http://178.217.72.66:8080/nashkinopokazhd/index.m3u8
 http://178.217.72.66:8080/nashekrutoe/index.m3u8
 #EXTINF:-1 tvg-id="nashe-muzhskoe" tvg-name="Наше Мужское HD" tvg-logo="http://epg.one/img/2835.png" group-title="Кино", Наше Мужское HD
 #EXTGRP:Кино
-https://mhd128.iptv2022.com/p/5K_5aApuZu8i7mtLUxNtSg,1757278812/streaming/nashemuzskoe/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/hJPYg4Fz0Ui-euXuxxEIqg,1757365207/streaming/nashemuzskoe/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="nashe-novoe-kino" tvg-name="Наше новое кино" tvg-logo="http://epg.one/img/485.png" group-title="Кино", Наше новое кино
 #EXTGRP:Кино
 http://158.101.222.193:88/georgia_play.php?id=nashanovoekino
@@ -1616,7 +1616,7 @@ http://178.217.72.66:8080/kinopremium/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000008491/tve/index.m3u8
 #EXTINF:-1 tvg-id="pro-lyubov" tvg-name="Про любовь" tvg-logo="http://epg.one/img/2829.png" group-title="Кино", Про любовь
 #EXTGRP:Кино
-https://mhd128.iptv2022.com/p/KTz7vOOp3HOOqHaSbI0ITA,1757278812/streaming/prolubov/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/WXm-VZ594KPrC9DQD8j0bQ,1757365207/streaming/prolubov/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="retro-tv" tvg-name="Ретро ТВ" tvg-logo="http://epg.one/img/2402.png" group-title="Кино", Ретро ТВ
 #EXTGRP:Кино
 http://86.57.209.210/Retro/index.m3u8
@@ -1685,10 +1685,10 @@ https://autopilot.catcast.tv/content/46209/index.m3u8
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="sov-kinklass" tvg-shift="-3" tvg-name="Советская киноклассика HD" tvg-logo="http://epg.one/img/9002.png" group-title="Кино", Советская киноклассика HD
 #EXTGRP:Кино
-https://mhd128.iptv2022.com/p/pLB1gmwnb0UE2QvjWb3Lxg,1757278852/streaming/sovet_classic/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/-4JZpWxCZ3E1g3EMG0wSkw,1757365223/streaming/sovet_classic/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="sovkino" tvg-name="Советское кино" tvg-logo="http://epg.one/img/9399.png" group-title="Кино", Советское кино
 #EXTGRP:Кино
-https://mhd128.iptv2022.com/p/7sGwvn9GrmZp6ZdQtC6isw,1757278814/streaming/sovietmovs/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/2bM17Rbrp157_SeAQbKzSw,1757365208/streaming/sovietmovs/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="tvoyo-tv-hd" tvg-name="Твоё ТВ HD" tvg-logo="http://epg.one/img/5441.png" group-title="Кино", Твоё ТВ HD
 #EXTGRP:Кино
 http://tvoetv.space:8080/tvoetv/index.m3u8
@@ -1838,7 +1838,7 @@ https://ucdn.beetv.kz/bpk-tv/000008739/tve/index.m3u8
 http://193.27.209.122/dizi/index.m3u8
 #EXTINF:-1 tvg-id="trashtv" tvg-name="Trash HD" tvg-logo="http://epg.one/img/3361.png" group-title="Кино", Trash HD
 #EXTGRP:Кино
-https://mhd128.iptv2022.com/p/qEfwvz5zk_yfhuz2v4SZgQ,1757278814/streaming/trash/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/hNWP1taRzpNUBL1s-OHyfw,1757365208/streaming/trash/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="tvxxi" tvg-name="TV XXI" tvg-logo="http://epg.one/img/309.png" group-title="Кино", TV XXI
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000000006/tve/index.m3u8
@@ -1988,10 +1988,10 @@ http://178.217.72.66:8080/Match_Igra_HD/video.m3u8
 https://ucdn.beetv.kz/bpk-tv/000001695/tve/index.m3u8
 #EXTINF:-1 tvg-id="match-premier" tvg-name="Матч! Премьер" tvg-logo="http://epg.one/img/2250.png" group-title="Спорт", МАТЧ ПРЕМЬЕР
 #EXTGRP:Спорт
-https://mhd128.iptv2022.com/p/uqLNjMKYp7HGL8k7tK7Iwg,1757278824/streaming/match_premyer/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/v1IFWcdHKSAwwhg6r_-qTw,1757365213/streaming/match_premyer/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="match-premier" tvg-name="Матч! Премьер HD" tvg-logo="http://epg.one/img/2250.png" group-title="Спорт", МАТЧ ПРЕМЬЕР HD
 #EXTGRP:Спорт
-https://mhd128.iptv2022.com/p/DD7hjE3ePo-lzfXS9bxw1g,1757278824/streaming/match_premyerhd/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/O0Y1rWmM692NexvwoGxhfw,1757365213/streaming/match_premyerhd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="match-nash-sport" tvg-name="Матч! Страна" tvg-logo="http://epg.one/img/2042.png" group-title="Спорт", МАТЧ! СТРАНА
 #EXTGRP:Спорт
 http://77.235.1.19:8000/play/a00f/index.m3u8
