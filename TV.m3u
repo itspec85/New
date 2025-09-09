@@ -65,7 +65,7 @@ http://77.235.1.19:8000/play/a02v/index.m3u8
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/mono.ts.m3u8
 #EXTINF:-1 tvg-id="izvestia" tvg-name="Известия" tvg-logo="http://epg.one/img/2271.png" group-title="Россия", Известия
 #EXTGRP:Россия
-http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+http://dmi3y-tv.ru/hls/CH_IZVESTIYAHD.m3u8
 #EXTINF:-1 tvg-id="mir" tvg-shift="+1" tvg-name="Мир -1" tvg-logo="http://epg.one/img/726.png" group-title="Россия", Мир -1
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
