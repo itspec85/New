@@ -1474,9 +1474,6 @@ http://193.27.209.122/tiji/index.m3u8
 #EXTINF:-1 tvg-id="blokbaster" tvg-name="Блокбастер" tvg-logo="http://epg.one/img/2832.png" group-title="Кино", Блокбастер
 #EXTGRP:Кино
 https://mhd128.iptv2022.com/p/XgqHw60EW6RhSupUcI-74Q,1757624408/streaming/blokbaster/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-id="blokbaster-hd" tvg-name="Блокбастер HD" tvg-logo="http://epg.one/img/2832.png" group-title="Кино", Блокбастер HD
-#EXTGRP:Кино
-http://178.217.72.66:8080/blockbasterhd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Видеокассета TV" tvg-logo="https://avatars.mds.yandex.net/i?id=aa54d677b7da13a106d22ee95411b140d0009712-15274206-images-thumbs&n=13" group-title="Кино", Видеокассета TV
 #EXTGRP:Кино
 https://132544.edgevideo.ru/streams/132544_806129/playlist.m3u8
@@ -1527,10 +1524,10 @@ https://ucdn.beetv.kz/bpk-tv/000008490/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000005449/tve/index.m3u8
 #EXTINF:-1 tvg-id="kinokomedia" tvg-name="Кинокомедия" tvg-logo="http://epg.one/img/821.png" group-title="Кино", КИНОКОМЕДИЯ
 #EXTGRP:Кино
-http://45.159.74.22/Kinokomedia/tracks-v1a1/mono.m3u8
+http://95.85.109.219:7000/play/a086
 #EXTINF:-1 tvg-id="kinomiks" tvg-name="Киномикс" tvg-logo="http://epg.one/img/644.png" group-title="Кино", КИНОМИКС
 #EXTGRP:Кино
-http://77.235.1.19:8000/play/a05k/index.m3u8
+http://158.101.222.193:88/georgia_play.php?id=kinomiks
 #EXTINF:-1 tvg-id="kinopokaz" tvg-name="Кинопоказ" tvg-logo="http://epg.one/img/2834.png" group-title="Кино", Кинопоказ
 #EXTGRP:Кино
 http://31.148.48.15/Kinopokaz/index.m3u8
@@ -1557,7 +1554,7 @@ http://158.101.222.193:88/georgia_play.php?id=kinoseria
 http://178.217.72.66:8080/kinoujas/video.m3u8
 #EXTINF:-1 tvg-id="kinoxit" tvg-name="Кинохит" tvg-logo="http://epg.one/img/542.png" group-title="Кино", КИНОХИТ
 #EXTGRP:Кино
-https://ucdn.beetv.kz/bpk-tv/000004485/tve/index.m3u8
+http://93.125.121.61:8383/play/Intelsat85k308
 #EXTINF:-1 tvg-id="komedijnoe-hd" tvg-name="Комедийное HD" tvg-logo="http://epg.one/img/138.png" group-title="Кино", Комедийное HD
 #EXTGRP:Кино
 http://178.217.72.66:8080/komediynoe/index.m3u8
@@ -1566,7 +1563,7 @@ http://178.217.72.66:8080/komediynoe/index.m3u8
 https://autopilot.catcast.tv/content/41596/index.m3u8
 #EXTINF:-1 tvg-id="lubimoe-kino" tvg-name="Любимое кино" tvg-logo="http://epg.one/img/477.png" group-title="Кино", Любимое Кино
 #EXTGRP:Кино
-http://178.217.72.66:8080/Lyubimoe_Kino/index.m3u8
+http://93.125.121.61:8383/play/Intelsat85k306
 #EXTINF:-1 tvg-id="mir-seriala" tvg-name="Мир сериала" tvg-logo="http://epg.one/img/2275.png" group-title="Кино", Мир Сериала
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000000319/tve/index.m3u8
@@ -1704,15 +1701,12 @@ https://autopilot.catcast.tv/content/47609/index.m3u8
 #EXTINF:-1 tvg-id="khit-hd" tvg-name="Хит HD" tvg-logo="http://epg.one/img/2833.png" group-title="Кино", Хит HD
 #EXTGRP:Кино
 http://178.217.72.66:8080/hithd/index.m3u8
-#EXTINF:-1 tvg-id="shokiruyushchee-hd" tvg-name="Шокирующее HD" tvg-logo="http://epg.one/img/2309.png" group-title="Кино", Шокирующее HD
-#EXTGRP:Кино
-http://srvru.play-x.ru/channel/47d8a9ff/index.m3u8?q=577950063c2ab3f157549e419e16d765
 #EXTINF:-1 tvg-id="sony-turbo" tvg-name=".black" tvg-logo="http://epg.one/img/935.png" group-title="Кино", .black
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000000520/tve/index.m3u8
 #EXTINF:-1 tvg-id="sony-tv" tvg-name=".red" tvg-logo="http://epg.one/img/311.png" group-title="Кино", .red
 #EXTGRP:Кино
-http://178.124.152.238:8088/sony
+https://ucdn.beetv.kz/bpk-tv/000000213/tve/index.m3u8
 #EXTINF:-1 tvg-id="sony-scifi" tvg-name=".sci-fi" tvg-logo="http://epg.one/img/516.png" group-title="Кино", .sci-fi
 #EXTGRP:Кино
 http://radio.tvs.by:8088/Sci-Fi/index.m3u8
@@ -1739,7 +1733,7 @@ https://ucdn.beetv.kz/bpk-tv/000000709/tve/index.m3u8
 http://193.27.209.122/bollywood/index.m3u8
 #EXTINF:-1 tvg-id="bolt-ru" tvg-name="Bolt HD Россия" tvg-logo="http://epg.one/img/2138.png" group-title="Кино", Bolt HD Россия
 #EXTGRP:Кино
-http://178.217.72.66:8080/bolt/index.m3u8
+http://93.125.121.61:8383/play/a017
 #EXTINF:-1 tvg-id="cinema-ru" tvg-name="Cinema HD" tvg-logo="http://epg.one/img/2754.png" group-title="Кино", Cinema HD
 #EXTGRP:Кино
 http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
@@ -1757,7 +1751,7 @@ http://178.217.72.66:8080/fan/index.m3u8
 https://132544.edgevideo.ru/streams/132544_847220/1325441080/index.m3u8
 #EXTINF:-1 tvg-id="filmbox-ru" tvg-name="FilmBox" tvg-logo="http://epg.one/img/2181.png" group-title="Кино", FilmBox
 #EXTGRP:Кино
-http://213.169.39.30:5009
+http://146.120.212.5:8004/play/a021/index.m3u8
 #EXTINF:-1 tvg-id="filmbox-arthouse" tvg-name="Filmbox Arthouse" tvg-logo="http://epg.one/img/2182.png" group-title="Кино", Filmbox Arthouse
 #EXTGRP:Кино
 http://iptv.prosto.tv:7000/ch63/video.m3u8
