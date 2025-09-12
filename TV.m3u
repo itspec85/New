@@ -833,7 +833,7 @@ https://ucdn.beetv.kz/bpk-tv/000003174/tve/index.m3u8
 http://45.159.74.22/Channel_127/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="dikaya-rybalka-hd" tvg-name="Дикая рыбалка HD" tvg-logo="http://epg.one/img/2484.png" group-title="Познавательные", Дикая рыбалка HD
 #EXTGRP:Познавательные
-http://194.32.242.245/DikayarybalkaHD/index.m3u8
+https://mhd128.iptv2022.com/p/34OFkV51DXE4ARYzXDf1VA,1757710815/streaming/ribalkahd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="dikiy" tvg-name="Дикий" tvg-logo="http://epg.one/img/2283.png" group-title="Познавательные", Дикий
 #EXTGRP:Познавательные
 http://178.217.72.66:8080/Dikiy/video.m3u8
