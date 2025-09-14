@@ -2199,15 +2199,6 @@ http://95.67.12.82:9067
 #EXTINF:-1 tvg-id="trt-3-hd" tvg-name="TRT Spor" tvg-logo="http://epg.one/img/6525.png" group-title="Спорт", TRT Spor TR
 #EXTGRP:Спорт
 http://185.234.111.229:8000/play/a00e
-#EXTINF:-1 tvg-id="tsn2-ca" tvg-name="TSN 2 HD CA" tvg-logo="http://epg.one/img/3635.png" group-title="Спорт", TSN 2 HD CA
-#EXTGRP:Спорт
-http://fl5.moveonjoy.com/TSN_2/index.m3u8
-#EXTINF:-1 tvg-id="tsn3-ca" tvg-name="TSN 3 HD CA" tvg-logo="http://epg.one/img/3664.png" group-title="Спорт", TSN 3 HD CA
-#EXTGRP:Спорт
-http://fl5.moveonjoy.com/TSN_3/index.m3u8
-#EXTINF:-1 tvg-id="tsn5-ca" tvg-name="TSN 5 HD CA" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/07/tsn-5.png" group-title="Спорт", TSN 5 HD CA
-#EXTGRP:Спорт
-http://fl5.moveonjoy.com/TSN_5/index.m3u8
 #EXTINF:-1 tvg-name="Türkmenistan Sport" tvg-logo="https://avatars.mds.yandex.net/i?id=da678a9d544adb3ed0e3fe916af1b74d_l-5288772-images-thumbs&n=13" group-title="Спорт", Türkmenistan Sport
 #EXTGRP:Спорт
 http://217.174.225.146/hls/ch004_720/index.m3u8
