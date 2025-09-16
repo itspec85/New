@@ -1202,7 +1202,7 @@ http://dmi3y-tv.ru/hls/CH_NANOTVHD.m3u8
 https://ucdn.beetv.kz/bpk-tv/000004474/tve/index.m3u8
 #EXTINF:-1 tvg-id="nat-geo-wild" tvg-name="Nat Geo Wild" tvg-logo="http://epg.one/img/223.png" group-title="Познавательные", Nat Geo Wild (резерв)
 #EXTGRP:Познавательные
-http://178.217.72.66:8080/Nat_Geo_Wild_HD/index.m3u8
+http://188.237.47.212:6005
 #EXTINF:-1 tvg-id="national-geographic" tvg-name="National Geographic" tvg-logo="http://epg.one/img/102.png" group-title="Познавательные", National Geographic
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000000034/tve/index.m3u8
