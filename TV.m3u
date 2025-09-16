@@ -1067,7 +1067,7 @@ http://178.124.153.123:44400/terra
 https://ucdn.beetv.kz/bpk-tv/000003208/tve/index.m3u8
 #EXTINF:-1 tvg-id="hd-life" tvg-name="Точка РФ" tvg-logo="https://epgx.club/picons/hdl.png" group-title="Познавательные", Точка РФ
 #EXTGRP:Познавательные
-http://178.217.72.66:8080/HDL/index.m3u8
+http://158.101.222.193:88/georgia_play.php?id=hdlife
 #EXTINF:-1 tvg-id="tochka-tv" tvg-name="Точка ТВ" tvg-logo="http://epg.one/img/2457.png" group-title="Познавательные", Точка ТВ
 #EXTGRP:Познавательные
 http://31.148.48.15/Tochka_TV/tracks-v1a1/mono.m3u8
@@ -1268,19 +1268,19 @@ http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
 https://ucdn.beetv.kz/bpk-tv/000004157/tve/index.m3u8
 #EXTINF:-1 tvg-id="viasat-explore" tvg-name="Viju Explore" tvg-logo="http://epg.one/img/521.png" group-title="Познавательные", Viju Explore (резерв)
 #EXTGRP:Познавательные
-http://178.217.72.66:8080/Viasat_Explorer/index.m3u8
+http://158.101.222.193:88/georgia_play.php?id=viasatexp
 #EXTINF:-1 tvg-id="viasat-history" tvg-name="Viju History" tvg-logo="http://epg.one/img/277.png" group-title="Познавательные", Viju History
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000005528/tve/index.m3u8
 #EXTINF:-1 tvg-id="viasat-history" tvg-name="Viju History" tvg-logo="http://epg.one/img/277.png" group-title="Познавательные", Viju History (резерв)
 #EXTGRP:Познавательные
-http://178.217.72.66:8080/Viasat_History/index.m3u8
+http://158.101.222.193:88/georgia_play.php?id=viasathist
 #EXTINF:-1 tvg-id="viasat-nature" tvg-name="Viju Nature" tvg-logo="http://epg.one/img/765.png" group-title="Познавательные", Viju Nature
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000006482/tve/index.m3u8
 #EXTINF:-1 tvg-id="viasat-nature" tvg-name="Viju Nature" tvg-logo="http://epg.one/img/765.png" group-title="Познавательные", Viju Nature (резерв)
 #EXTGRP:Познавательные
-http://178.217.72.66:8080/Viasat_Nature/index.m3u8
+http://158.101.222.193:88/georgia_play.php?id=viasatnat
 #EXTINF:-1 tvg-id="viasat-nature-history-hd" tvg-name="Viju+ Planet HD" tvg-logo="http://epg.one/img/2012.png" group-title="Познавательные", Viju+ Planet HD
 #EXTGRP:Познавательные
 http://77.235.1.19:8000/play/a05m/index.m3u8
