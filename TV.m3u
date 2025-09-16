@@ -833,7 +833,7 @@ https://ucdn.beetv.kz/bpk-tv/000003174/tve/index.m3u8
 http://45.159.74.22/Channel_127/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="dikaya-rybalka-hd" tvg-name="Дикая рыбалка HD" tvg-logo="http://epg.one/img/2484.png" group-title="Познавательные", Дикая рыбалка HD
 #EXTGRP:Познавательные
-https://mhd128.iptv2022.com/p/3zp1FYhB-CaYI60gQ_xJpQ,1758056419/streaming/ribalkahd/324/1/tracks-v5a1/mono.m3u8
+http://93.125.121.61:8383/play/a00n
 #EXTINF:-1 tvg-id="dikiy" tvg-name="Дикий" tvg-logo="http://epg.one/img/2283.png" group-title="Познавательные", Дикий
 #EXTGRP:Познавательные
 http://178.217.72.66:8080/Dikiy/video.m3u8
@@ -1769,7 +1769,7 @@ https://ucdn.beetv.kz/bpk-tv/000004471/tve/index.m3u8
 http://77.235.1.19:8000/play/a00w/index.m3u8
 #EXTINF:-1 tvg-id="hollywood-hd" tvg-name="Hollywood HD" tvg-logo="http://epg.one/img/934.png" group-title="Кино", Hollywood HD
 #EXTGRP:Кино
-http://178.217.72.66:8080/hollywoodhd/index.m3u8
+http://194.32.242.245/hollywoodhd/index.m3u8
 #EXTINF:-1 tvg-name="Horror TV" tvg-logo="http://epg.one/img/8792.png" group-title="Кино", Horror TV
 #EXTGRP:Кино
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/93dc292b-cbcf-4988-ab97-94feced4c14b/manifest.m3u8
@@ -1958,7 +1958,7 @@ http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_
 http://194.143.148.28:8080/MatchArena/mpegts
 #EXTINF:-1 tvg-id="match-arena" tvg-name="Матч! Арена" tvg-logo="http://epg.one/img/2003.png" group-title="Спорт", Матч! Арена HD
 #EXTGRP:Спорт
-http://178.217.72.66:8080/Match_Arena_HD/video.m3u8
+http://94.130.221.219/matcharena/mpegts
 #EXTINF:-1 tvg-id="match-boets" tvg-name="Матч! Боец" tvg-logo="http://epg.one/img/2054.png" group-title="Спорт", Матч! Боец
 #EXTGRP:Спорт
 http://31.148.48.15/Match_Boec/index.m3u8
@@ -1991,19 +1991,19 @@ http://178.219.160.169:8880/175/index.m3u8
 http://45.11.139.43:8555/fut1/index.m3u8
 #EXTINF:-1 tvg-id="match-football1" tvg-name="Матч! Футбол 1 HD" tvg-logo="http://epg.one/img/2044.png" group-title="Спорт", Матч! Футбол 1 HD
 #EXTGRP:Спорт
-http://178.217.72.66:8080/Match_Futbol_1_HD/index.m3u8
+http://94.130.221.219/m1/mpegts
 #EXTINF:-1 tvg-id="match-football2" tvg-name="Матч! Футбол 2" tvg-logo="http://epg.one/img/1042.png" group-title="Спорт", Матч! Футбол 2
 #EXTGRP:Спорт
 http://77.235.1.19:8000/play/a003/index.m3u8
 #EXTINF:-1 tvg-id="match-football2" tvg-name="Матч! Футбол 2 HD" tvg-logo="http://epg.one/img/1042.png" group-title="Спорт", Матч! Футбол 2 HD
 #EXTGRP:Спорт
-http://178.217.72.66:8080/Match_Futbol_2_HD/index.m3u8
+http://94.130.221.219/m2/mpegts
 #EXTINF:-1 tvg-id="match-football3" tvg-name="Матч! Футбол 3" tvg-logo="http://epg.one/img/2005.png" group-title="Спорт", Матч! Футбол 3
 #EXTGRP:Спорт
 http://185.57.68.33/110/mpegts
 #EXTINF:-1 tvg-id="match-football3" tvg-name="Матч! Футбол 3 HD" tvg-logo="http://epg.one/img/2005.png" group-title="Спорт", Матч! Футбол 3 HD
 #EXTGRP:Спорт
-http://178.217.72.66:8080/Match_Futbol_3_HD/index.m3u8
+http://94.130.221.219/m3/mpegts
 #EXTINF:-1 tvg-id="mir-basketbola" tvg-name="Мир Баскетбола" tvg-logo="http://epg.one/img/4629.png" group-title="Спорт", Мир Баскетбола
 #EXTGRP:Спорт
 http://178.217.72.66:8080/mir_basketbola/index.m3u8
