@@ -59,7 +59,7 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_ZVEZDA_6.m3u8
 http://dmi3y-tv.ru/hls/DVB-T2/CH_ZVEZDA_7.m3u8
 #EXTINF:-1 tvg-id="zvezda-plus" tvg-name="Звезда Плюс" tvg-logo="http://epg.one/img/6669.png" group-title="Россия", Звезда Плюс
 #EXTGRP:Россия
-http://77.235.1.19:8000/play/a02v/index.m3u8
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v2a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="zvezda-plus" tvg-name="Звезда Плюс HD" tvg-logo="http://epg.one/img/6669.png" group-title="Россия", Звезда Плюс HD
 #EXTGRP:Россия
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/mono.ts.m3u8
@@ -145,7 +145,7 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV-1.m3u8
 http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV.m3u8
 #EXTINF:-1 tvg-id="pervy" tvg-name="Первый канал HD" tvg-logo="http://epg.one/img/983.png" group-title="Россия", Первый канал FHD
 #EXTGRP:Россия
-http://85.117.61.97:8000/play/a01n/index.m3u8
+https://livetv.mylifeisgood.net.ru/channels/perviytest.m3u8
 #EXTINF:-1 tvg-id="pervy-pl2" tvg-name="Первый канал +2" tvg-logo="http://epg.one/img/2034.png" group-title="Россия", Первый канал +2
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
