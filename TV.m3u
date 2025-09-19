@@ -267,7 +267,7 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_RENTV_6.m3u8
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RENTV_7.m3u8
 #EXTINF:-1 tvg-name="Рен ТВ International" tvg-logo="https://i.postimg.cc/SsRGs7Y7/International.png" group-title="Россия", Рен ТВ International
 #EXTGRP:Россия
-http://85.117.61.97:8000/play/a01t/index.m3u8
+https://ucdn.beetv.kz/bpk-tv/000002472/tve/index.m3u8
 #EXTINF:-1 tvg-id="rossia1" tvg-shift="+1" tvg-name="Россия 1 -1" tvg-logo="http://epg.one/img/711.png" group-title="Россия", Россия 1 -1
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -528,7 +528,7 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_TNT_6.m3u8
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TNT_7.m3u8
 #EXTINF:-1 tvg-id="tnt-int-cis" tvg-name="ТНТ-International (СНГ)" tvg-logo="http://epg.one/img/5692.png" group-title="Россия", ТНТ International
 #EXTGRP:Россия
-http://85.187.13.40:18000/tntint
+https://ucdn.beetv.kz/bpk-tv/000007833/tve/index.m3u8
 #EXTINF:-1 tvg-id="tnt4" tvg-shift="+1" tvg-name="ТНТ4 -1" tvg-logo="http://epg.one/img/1649.png" group-title="Россия", ТНТ4 -1
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
