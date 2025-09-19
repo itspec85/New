@@ -274,8 +274,7 @@ http://85.117.61.97:8000/play/a01t/index.m3u8
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1-1.m3u8
 #EXTINF:-1 tvg-id="rossia1" tvg-name="Россия 1" tvg-logo="http://epg.one/img/711.png" group-title="Россия", Россия 1
 #EXTGRP:Россия
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1.m3u8
+http://194.32.242.245/rossiya1/index.m3u8
 #EXTINF:-1 tvg-id="rossia1" tvg-name="Россия 1 HD" tvg-logo="http://epg.one/img/984.png" group-title="Россия", Россия 1 HD
 #EXTGRP:Россия
 http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1HD.m3u8
@@ -383,7 +382,7 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_STS-1.m3u8
 http://dmi3y-tv.ru/hls/DVB-T2/CH_STS.m3u8
 #EXTINF:-1 tvg-id="sts" tvg-name="СТС HD" tvg-logo="http://epg.one/img/79.png" group-title="Россия", СТС HD
 #EXTGRP:Россия
-http://77.235.1.19:8000/play/a00b/index.m3u8
+http://178.217.72.66:8080/STS/index.m3u8
 #EXTINF:-1 tvg-id="sts-pl2" tvg-name="СТС +2" tvg-logo="http://epg.one/img/3007.png" group-title="Россия", СТС +2
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -402,7 +401,7 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_STS_6.m3u8
 http://dmi3y-tv.ru/hls/DVB-T2/CH_STS_7.m3u8
 #EXTINF:-1 tvg-id="sts-int" tvg-name="СТС International" tvg-logo="http://epg.one/img/5652.png" group-title="Россия", СТС International
 #EXTGRP:Россия
-http://85.117.61.97:8000/play/a01j/index.m3u8
+http://95.85.109.219:7000/play/a098
 #EXTINF:-1 tvg-id="sts-love" tvg-shift="+1" tvg-name="СТС Love -1" tvg-logo="http://epg.one/img/1322.png" group-title="Россия", СТС Love -1
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
