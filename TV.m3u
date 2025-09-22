@@ -3432,6 +3432,9 @@ http://rhsbjv7k.tvclub.xyz/iptv/VCGVCRSZW9BLY4/2189/index.m3u8
 #EXTINF:-1 tvg-name="ATV AZ" tvg-logo="https://avatars.mds.yandex.net/i?id=0951c25562181a03d31e9b44d854fb138a4a2001-8539554-images-thumbs&n=13" group-title="Азербайджан", ATV AZ
 #EXTGRP:Азербайджан
 https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920.m3u8
+#EXTINF:-1 tvg-name="ATV Sinema" tvg-logo="https://yt3.ggpht.com/_TslKcfA8VwQh4Q3CxFAiaRWeZivx7LSRtADmoC3QIYuQT7dOtcAhg1uJ4lrztTQ4HfEJIXL=s88-c-k-c0x00ffffff-no-rj" group-title="Азербайджан", ATV Sinema
+#EXTGRP:Азербайджан
+https://tv.mobyservice.ru/ATV/SINEMA/index.m3u8
 #EXTINF:-1 tvg-name="Ayaz TV" tvg-logo="https://vipotv.com/wp-content/uploads/2024/07/ayaz-tv-izle-vipotv.png" group-title="Азербайджан", Ayaz TV
 #EXTGRP:Азербайджан
 https://janya-ayaztv.vgcdn.net/ptnr-Vipo%20TV/title-Ayaz_TV/v1/vglive-sk-934820/AyazTV_1500k.m3u8
@@ -3453,6 +3456,9 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-
 #EXTINF:-1 tvg-name="Hadi TV" tvg-logo="https://i.postimg.cc/MKZVbydH/download-1.png" group-title="Азербайджан", Hadi TV
 #EXTGRP:Азербайджан
 https://live.ishiacloud.com/hls/1d6e10dc-7bfc-4abb-9bb3-0dfe80b3d7df_720p.m3u8
+#EXTINF:-1 tvg-name="HT Sinema" tvg-logo="https://avatars.mds.yandex.net/i?id=2683287896e7eed783b935caca4f1ef775e72a98-9871403-images-thumbs&n=13" group-title="Азербайджан", HT Sinema
+#EXTGRP:Азербайджан
+http://208.79.153.42/akamaissh101/ssh101/htvcinema/chunks.m3u8
 #EXTINF:-1 tvg-id="ictimai-tv" tvg-name="Ictimai TV" tvg-logo="http://epg.one/img/2555.png" group-title="Азербайджан", Ictimai TV AZ
 #EXTGRP:Азербайджан
 http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:BB:EE:72&stream=31398&extension=ts
@@ -3471,6 +3477,9 @@ https://str.yodacdn.net/medeniyyet/index.m3u8
 #EXTINF:-1 tvg-name="Musi̇c Azerbaycan" tvg-logo="https://i.postimg.cc/PJbFG4MH/In-Shot-20250209-195400220.png" group-title="Азербайджан", Musi̇c Azerbaycan
 #EXTGRP:Азербайджан
 https://cdn-sinematv.yayin.com.tr/sinematv/sinematv/playlist.m3u8
+#EXTINF:-1 tvg-name="Real TV" tvg-logo="https://avatars.mds.yandex.net/get-entity_search/1220991/1001033896/S104x104FitScale_2x" group-title="Азербайджан", Real TV
+#EXTGRP:Азербайджан
+https://tv.mobyservice.ru/Real/index.m3u8
 #EXTINF:-1 tvg-name="Retro TV AZ" tvg-logo="https://avatars.mds.yandex.net/i?id=2a00000179ed9f0efd3d05aae40782ce96a8-3756503-images-thumbs&n=13" group-title="Азербайджан", Retro TV AZ
 #EXTGRP:Азербайджан
 https://a8.radyotelekom.com.tr:3706/stream/play.m3u8
