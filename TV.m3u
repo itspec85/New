@@ -2003,7 +2003,7 @@ https://hncfree-samsungau.amagi.tv/playlist720-p.m3u8
 https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="kxl" tvg-name="KHL" tvg-logo="http://epg.one/img/2048.png" group-title="Спорт", KHL TV Channel
 #EXTGRP:Спорт
-https://mhd128.iptv2022.com/p/lYZV5GrkxI0funnVN7Nr3g,1758574823/streaming/khltv/324/1/tracks-v5a1/mono.m3u8
+http://195.26.83.96:7007/play/4/index.m3u8
 #EXTINF:-1 tvg-id="kxl-hd" tvg-name="KHL Prime HD" tvg-logo="http://epg.one/img/1038.png" group-title="Спорт", KHL Prime HD
 #EXTGRP:Спорт
 http://93.125.121.61:8383/play/a028
