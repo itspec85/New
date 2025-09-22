@@ -8,6 +8,9 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_DOMASHNIY-1.m3u8
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://dmi3y-tv.ru/hls/DVB-T2/CH_DOMASHNIY.m3u8
+#EXTINF:-1 tvg-id="domashny" tvg-name="Домашний HD" tvg-logo="http://epg.one/img/304.png" group-title="Россия", Домашний HD
+#EXTGRP:Россия
+http://193.33.88.172/domashniy_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="domashny-pl2" tvg-name="Домашний +2" tvg-logo="http://epg.one/img/3010.png" group-title="Россия", Домашний +2
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -183,7 +186,7 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_FRIDAY-1.m3u8
 http://dmi3y-tv.ru/hls/DVB-T2/CH_FRIDAY.m3u8
 #EXTINF:-1 tvg-id="piatnica" tvg-name="Пятница! HD" tvg-logo="http://epg.one/img/2765.png" group-title="Россия", Пятница! HD
 #EXTGRP:Россия
-http://river-1.rutube.ru/stream/genetta-324.m9.rutube.ru/KqSldQn0TtpQoiNS1CFoiw/1758964645/9f87a9a0cecbe773be6fddcbd93585ac/1080p_stream.m3u8
+http://193.33.88.172/pyatnica_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="piatnica-pl2" tvg-name="Пятница +2" tvg-logo="http://epg.one/img/3016.png" group-title="Россия", Пятница +2
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -376,7 +379,7 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_STS-1.m3u8
 http://dmi3y-tv.ru/hls/DVB-T2/CH_STS.m3u8
 #EXTINF:-1 tvg-id="sts" tvg-name="СТС HD" tvg-logo="http://epg.one/img/79.png" group-title="Россия", СТС HD
 #EXTGRP:Россия
-http://87.246.54.249:8085/CTC/index.m3u8
+http://193.33.88.172/sts_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="sts-pl2" tvg-name="СТС +2" tvg-logo="http://epg.one/img/3007.png" group-title="Россия", СТС +2
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -446,7 +449,7 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3-1.m3u8
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3.m3u8
 #EXTINF:-1 tvg-id="tv3-ru" tvg-name="ТВ3 HD" tvg-logo="http://epg.one/img/698.png" group-title="Россия", ТВ3 HD
 #EXTGRP:Россия
-http://river-1.rutube.ru/stream/genetta-524.ost.rutube.ru/v4gybGZbWCq6CmZbnud65g/1758964642/7bf12d9c050f9a7ef3728db5730432ae/1080p_stream.m3u8
+http://193.33.88.172/tv3_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tv3-ru-pl2" tvg-name="ТВ3 +2" tvg-logo="http://epg.one/img/3013.png" group-title="Россия", ТВ3 +2
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
