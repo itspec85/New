@@ -965,10 +965,10 @@ https://osnmedia.servicecdn.ru/streams/17603_88089/720n/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000000308/tve/index.m3u8
 #EXTINF:-1 tvg-id="oxota-i-rybalka" tvg-name="Охота и Рыбалка" tvg-logo="http://epg.one/img/2419.png" group-title="Познавательные", Охота и Рыбалка
 #EXTGRP:Познавательные
-http://89.221.57.5:8000/play/a00q/index.m3u8
+http://93.125.121.61:8383/play/a032
 #EXTINF:-1 tvg-id="oxotnik-i-rybolov-hd" tvg-name="Охотник и рыболов" tvg-logo="http://epg.one/img/1681.png" group-title="Познавательные", Охотник и рыболов
 #EXTGRP:Познавательные
-http://45.159.74.22/Channel_124/tracks-v1a1/mono.m3u8
+http://193.33.88.172:8080/ohot_i_rybolov_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Первый медицинский канал" tvg-logo="https://avatars.mds.yandex.net/i?id=9494f3a37664c7da5f8f894e7169af2497116e6e-10767708-images-thumbs&n=13" group-title="Познавательные", Первый медицинский канал
 #EXTGRP:Познавательные
 https://rq3qltxnbx1.a.trbcdn.net/livemaster/8hwxnq4s0v_efir0_tcode1080p/playlist.m3u8
@@ -1007,7 +1007,7 @@ https://n1.slavmir.tv/live/slavmir/chunklist.m3u8
 https://ucdn.beetv.kz/bpk-tv/000002510/tve/index.m3u8
 #EXTINF:-1 tvg-id="oxotnik-i-rybolov" tvg-name="Рыболов" tvg-logo="http://epg.one/img/6646.png" group-title="Познавательные", Рыболов HD
 #EXTGRP:Познавательные
-http://dmi3y-tv.ru/hls/CH_RYBOLOV.m3u8
+http://193.33.88.172:8080/ohotnik/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="sarafan" tvg-name="Сарафан" tvg-logo="http://epg.one/img/663.png" group-title="Познавательные", Сарафан
 #EXTGRP:Познавательные
 http://93.125.121.61:8383/play/exp80k606
@@ -1450,6 +1450,9 @@ http://193.27.209.122/tiji/index.m3u8
 #EXTINF:-1 tvg-id="blokbaster" tvg-name="Блокбастер" tvg-logo="http://epg.one/img/2832.png" group-title="Кино", Блокбастер
 #EXTGRP:Кино
 https://mhd128.iptv2022.com/p/UmgUoojEV4SAU7ZDQae7yg,1758574811/streaming/blokbaster/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="blokbaster-hd" tvg-name="Блокбастер HD" tvg-logo="http://epg.one/img/2832.png" group-title="Кино", Блокбастер HD
+#EXTGRP:Кино
+http://193.33.88.172/blokbaster_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Видеокассета TV" tvg-logo="https://avatars.mds.yandex.net/i?id=aa54d677b7da13a106d22ee95411b140d0009712-15274206-images-thumbs&n=13" group-title="Кино", Видеокассета TV
 #EXTGRP:Кино
 https://132544.edgevideo.ru/streams/132544_806129/playlist.m3u8
@@ -1479,7 +1482,7 @@ http://188.113.190.12/329/index.m3u8
 http://31.148.48.15/Zee_TV_Russia/index.m3u8
 #EXTINF:-1 tvg-id="kamedi" tvg-name="Камеди HD" tvg-logo="http://epg.one/img/2836.png" group-title="Кино", Камеди HD
 #EXTGRP:Кино
-https://mhd128.iptv2022.com/p/GDmtZ7CahxAzWOF7UE8g1A,1758574811/streaming/kamedi/324/1/tracks-v5a1/mono.m3u8
+http://193.33.88.172/kamedi_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="kineko" tvg-name="Кинеко" tvg-logo="http://epg.one/img/7314.png" group-title="Кино", Кинеко
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000008136/tve/index.m3u8
@@ -1551,7 +1554,7 @@ https://ucdn.beetv.kz/bpk-tv/000006365/tve/index.m3u8
 http://158.101.222.193:88/georgia_play.php?id=interesnoetv
 #EXTINF:-1 tvg-id="nash-kinopokaz" tvg-name="Наш кинопоказ" tvg-logo="http://epg.one/img/2831.png" group-title="Кино", Наш кинопоказ
 #EXTGRP:Кино
-https://mhd128.iptv2022.com/p/tZs86wn3yTQroDNB5yGdeA,1758574811/streaming/nashpokaz/324/1/tracks-v5a1/mono.m3u8
+http://193.33.88.172/nash_kinopokaz_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="nashe-muzhskoe" tvg-name="Наше Мужское HD" tvg-logo="http://epg.one/img/2835.png" group-title="Кино", Наше Мужское HD
 #EXTGRP:Кино
 https://mhd128.iptv2022.com/p/jq4Qgh80cMGMlUpLkBKEcg,1758574811/streaming/nashemuzskoe/324/1/tracks-v5a1/mono.m3u8
@@ -1664,7 +1667,7 @@ http://158.101.222.193:88/georgia_play.php?id=fenikspluskino
 https://autopilot.catcast.tv/content/47609/index.m3u8
 #EXTINF:-1 tvg-id="khit-hd" tvg-name="Хит HD" tvg-logo="http://epg.one/img/2833.png" group-title="Кино", Хит HD
 #EXTGRP:Кино
-https://mhd128.iptv2022.com/p/tUEiTmGU-YZP_zBmiaHm4w,1758574811/streaming/hit/324/1/tracks-v5a1/mono.m3u8
+http://193.33.88.172/hit_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="sony-turbo" tvg-name=".black" tvg-logo="http://epg.one/img/935.png" group-title="Кино", .black
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000000520/tve/index.m3u8
@@ -1883,10 +1886,10 @@ http://94.130.221.219/matchigra/mpegts
 https://ucdn.beetv.kz/bpk-tv/000001695/tve/index.m3u8
 #EXTINF:-1 tvg-id="match-premier" tvg-name="Матч! Премьер" tvg-logo="http://epg.one/img/2250.png" group-title="Спорт", МАТЧ ПРЕМЬЕР
 #EXTGRP:Спорт
-https://mhd128.iptv2022.com/p/iVqeECsLScF9vHi38oR-cA,1758574822/streaming/match_premyer/324/1/tracks-v5a1/mono.m3u8
+http://193.33.88.172/nash-football/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="match-premier" tvg-name="Матч! Премьер HD" tvg-logo="http://epg.one/img/2250.png" group-title="Спорт", МАТЧ ПРЕМЬЕР HD
 #EXTGRP:Спорт
-https://mhd128.iptv2022.com/p/kLqEgKdj84NX-nkgXmiPVA,1758574822/streaming/match_premyerhd/324/1/tracks-v5a1/mono.m3u8
+http://193.33.88.172/nash_football_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="match-nash-sport" tvg-name="Матч! Страна" tvg-logo="http://epg.one/img/2042.png" group-title="Спорт", МАТЧ! СТРАНА
 #EXTGRP:Спорт
 http://77.235.1.19:8000/play/a00f/index.m3u8
