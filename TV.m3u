@@ -56,7 +56,7 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_ZVEZDA_6.m3u8
 http://dmi3y-tv.ru/hls/DVB-T2/CH_ZVEZDA_7.m3u8
 #EXTINF:-1 tvg-id="zvezda-plus" tvg-name="Звезда Плюс" tvg-logo="http://epg.one/img/6669.png" group-title="Россия", Звезда Плюс
 #EXTGRP:Россия
-http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v2a1/mono.ts.m3u8
+http://178.212.71.253:8000/play/130/index.m3u8
 #EXTINF:-1 tvg-id="zvezda-plus" tvg-name="Звезда Плюс HD" tvg-logo="http://epg.one/img/6669.png" group-title="Россия", Звезда Плюс HD
 #EXTGRP:Россия
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/mono.ts.m3u8
