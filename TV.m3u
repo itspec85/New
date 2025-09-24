@@ -924,9 +924,6 @@ http://195.26.83.96:7007/play/11/index.m3u8
 #EXTINF:-1 tvg-id="muzhskoy" tvg-name="Мужской HD" tvg-logo="http://epg.one/img/2444.png" group-title="Познавательные", Мужской HD
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000000286/tve/index.m3u8
-#EXTINF:-1 tvg-id="myy" tvg-name="Мы" tvg-logo="http://epg.one/img/8951.png" group-title="Познавательные", Мы
-#EXTGRP:Познавательные
-http://77.235.1.19:8000/play/a02z/index.m3u8
 #EXTINF:-1 tvg-id="nadezhda" tvg-name="Надежда" tvg-logo="http://epg.one/img/1732.png" group-title="Познавательные", Надежда
 #EXTGRP:Познавательные
 http://dmi3y-tv.ru/hls/CH_NADEZHDAHD720.m3u8
@@ -1230,9 +1227,6 @@ http://195.26.83.96:7029/play/a008
 #EXTINF:-1 tvg-id="terra-ru" tvg-name="TERRA" tvg-logo="http://epg.one/img/7632.png" group-title="Познавательные", TERRA
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000008142/tve/index.m3u8
-#EXTINF:-1 tvg-id="the-explorers" tvg-name="The Explorers" tvg-logo="http://epg.one/img/9082.png" group-title="Познавательные", The Explorers
-#EXTGRP:Познавательные
-http://77.235.1.19:8000/play/a058/index.m3u8
 #EXTINF:-1 tvg-id="tlc" tvg-name="TLC" tvg-logo="http://epg.one/img/2345.png" group-title="Познавательные", TLC
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000001498/tve/index.m3u8
@@ -1263,9 +1257,6 @@ https://ucdn.beetv.kz/bpk-tv/000006482/tve/index.m3u8
 #EXTINF:-1 tvg-id="viasat-nature" tvg-name="Viju Nature" tvg-logo="http://epg.one/img/765.png" group-title="Познавательные", Viju Nature (резерв)
 #EXTGRP:Познавательные
 http://158.101.222.193:88/georgia_play.php?id=viasatnat
-#EXTINF:-1 tvg-id="viasat-nature-history-hd" tvg-name="Viju+ Planet HD" tvg-logo="http://epg.one/img/2012.png" group-title="Познавательные", Viju+ Planet HD
-#EXTGRP:Познавательные
-http://77.235.1.19:8000/play/a05m/index.m3u8
 #EXTINF:-1 tvg-name="VIP HD" tvg-logo="https://avatars.mds.yandex.net/i?id=caa18786cf719cb262caf54d3cbbd750_sr-9099210-images-thumbs&n=13" group-title="Познавательные", VIP HD
 #EXTGRP:Познавательные
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/vip.m3u8
@@ -1601,7 +1592,7 @@ EXTVLCOPT:http-user-agent=Donate
 http://31.148.48.15/Russkiy_Bestseller/index.m3u8
 #EXTINF:-1 tvg-id="russky-detektiv" tvg-name="Русский детектив" tvg-logo="http://epg.one/img/1570.png" group-title="Кино", Русский детектив
 #EXTGRP:Кино
-http://77.235.1.19:8000/play/a08f/index.m3u8
+http://193.33.88.172:8080/rus-detective/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="russky-illuzion" tvg-name="Русский иллюзион" tvg-logo="http://epg.one/img/53.png" group-title="Кино", Русский Иллюзион
 #EXTGRP:Кино
 http://93.125.121.61:8383/play/a02t
@@ -1782,12 +1773,6 @@ http://132544.edgevideo.ru/streams/132544_931337/1325441080/index.m3u8
 #EXTINF:-1 tvg-id="shot-tv" tvg-name="SHOT TV" tvg-logo="http://epg.one/img/431.png" group-title="Кино", SHOT TV
 #EXTGRP:Кино
 http://sltv2.be:8080/DeNiSoNkEl/nPcCsz5hHn/550120
-#EXTINF:-1 tvg-id="star-cinema" tvg-name="Star Cinema" tvg-logo="http://epg.one/img/3328.png" group-title="Кино", Star Cinema
-#EXTGRP:Кино
-http://77.235.1.19:8000/play/a043/index.m3u8
-#EXTINF:-1 tvg-id="star-family" tvg-name="Star Family" tvg-logo="http://epg.one/img/9162.png" group-title="Кино", Star Family
-#EXTGRP:Кино
-http://77.235.1.19:8000/play/a042/index.m3u8
 #EXTINF:-1 tvg-id="start-air" tvg-name="START Air" tvg-logo="http://epg.oe/img/6241.png" group-title="Кино", START Air HD
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000007815/tve/index.m3u8
@@ -1871,7 +1856,7 @@ http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_
 http://194.143.148.28:8080/MatchArena/mpegts
 #EXTINF:-1 tvg-id="match-arena" tvg-name="Матч! Арена" tvg-logo="http://epg.one/img/2003.png" group-title="Спорт", Матч! Арена HD
 #EXTGRP:Спорт
-http://94.130.221.219/matcharena/mpegts
+http://193.33.88.172/arena_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="match-boets" tvg-name="Матч! Боец" tvg-logo="http://epg.one/img/2054.png" group-title="Спорт", Матч! Боец
 #EXTGRP:Спорт
 http://31.148.48.15/Match_Boec/index.m3u8
@@ -1881,9 +1866,6 @@ http://87.120.142.11:18000/Match
 #EXTINF:-1 tvg-id="match-igra" tvg-name="Матч! Игра" tvg-logo="http://epg.one/img/2050.png" group-title="Спорт", Матч! Игра
 #EXTGRP:Спорт
 http://87.120.142.11:18000/Match!Igra
-#EXTINF:-1 tvg-id="match-igra" tvg-name="Матч! Игра" tvg-logo="http://epg.one/img/2050.png" group-title="Спорт", Матч! Игра HD
-#EXTGRP:Спорт
-http://94.130.221.219/matchigra/mpegts
 #EXTINF:-1 tvg-id="match-planeta" tvg-name="Матч! Планета" tvg-logo="http://epg.one/img/2043.png" group-title="Спорт", Матч! Планета
 #EXTGRP:Спорт
 https://ucdn.beetv.kz/bpk-tv/000001695/tve/index.m3u8
@@ -1895,19 +1877,10 @@ http://193.33.88.172/nash-football/tracks-v1a1/mono.m3u8
 http://193.33.88.172/nash_football_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="match-nash-sport" tvg-name="Матч! Страна" tvg-logo="http://epg.one/img/2042.png" group-title="Спорт", МАТЧ! СТРАНА
 #EXTGRP:Спорт
-http://77.235.1.19:8000/play/a00f/index.m3u8
-#EXTINF:-1 tvg-id="match-nash-sport" tvg-name="Матч! Страна HD" tvg-logo="http://epg.one/img/2042.png" group-title="Спорт", Матч! Страна HD
-#EXTGRP:Спорт
-http://178.219.160.169:8880/175/index.m3u8
-#EXTINF:-1 tvg-id="match-football1" tvg-name="Матч! Футбол 1" tvg-logo="http://epg.one/img/2044.png" group-title="Спорт", Матч! Футбол 1
-#EXTGRP:Спорт
-http://193.33.88.172/football1_hd/tracks-v1a1/mono.m3u8
+http://178.212.71.253:8000/play/51/index.m3u8
 #EXTINF:-1 tvg-id="match-football1" tvg-name="Матч! Футбол 1 HD" tvg-logo="http://epg.one/img/2044.png" group-title="Спорт", Матч! Футбол 1 HD
 #EXTGRP:Спорт
 http://193.33.88.172/football1_hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="match-football2" tvg-name="Матч! Футбол 2" tvg-logo="http://epg.one/img/1042.png" group-title="Спорт", Матч! Футбол 2
-#EXTGRP:Спорт
-http://193.33.88.172/football2_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="match-football2" tvg-name="Матч! Футбол 2 HD" tvg-logo="http://epg.one/img/1042.png" group-title="Спорт", Матч! Футбол 2 HD
 #EXTGRP:Спорт
 http://193.33.88.172/football2_hd/tracks-v1a1/mono.m3u8
@@ -1916,7 +1889,7 @@ http://193.33.88.172/football2_hd/tracks-v1a1/mono.m3u8
 http://185.57.68.33/110/mpegts
 #EXTINF:-1 tvg-id="match-football3" tvg-name="Матч! Футбол 3 HD" tvg-logo="http://epg.one/img/2005.png" group-title="Спорт", Матч! Футбол 3 HD
 #EXTGRP:Спорт
-http://94.130.221.219/m3/mpegts
+http://193.33.88.172/football3_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="okko-sport-2" tvg-name="Окко.Прайм Спорт" tvg-logo="http://epg.one/img/9324.png" group-title="Спорт", Окко Прайм Спорт
 #EXTGRP:Спорт
 http://185.221.213.254:8080/Okko/index.m3u8
@@ -1986,12 +1959,6 @@ http://138.201.250.184/eurosport2/index.m3u8
 #EXTINF:-1 tvg-id="extreme-sports" tvg-name="Extreme Sports" tvg-logo="http://epg.one/img/2053.png" group-title="Спорт", Extreme Sports
 #EXTGRP:Спорт
 https://ucdn.beetv.kz/bpk-tv/000000026/tve/index.m3u8
-#EXTINF:-1 tvg-id="fastfunbox-hd" tvg-name="Fast & Fun Box" tvg-logo="http://epg.one/img/2362.png" group-title="Спорт", Fast & Fun Box
-#EXTGRP:Спорт
-http://77.235.1.19:8000/play/a07z/index.m3u8
-#EXTINF:-1 tvg-id="fightbox-hd" tvg-name="FightBox" tvg-logo="http://epg.one/img/3792.png" group-title="Спорт", Fightbox
-#EXTGRP:Спорт
-http://77.235.1.19:8000/play/a080/index.m3u8
 #EXTINF:-1 tvg-name="FITE 24/7" tvg-logo="https://i.imgur.com/ESV6qgH.png" group-title="Спорт", FITE 24/7
 #EXTGRP:Спорт
 https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8
