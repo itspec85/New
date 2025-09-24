@@ -1878,9 +1878,15 @@ http://193.33.88.172/nash_football_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="match-nash-sport" tvg-name="Матч! Страна" tvg-logo="http://epg.one/img/2042.png" group-title="Спорт", МАТЧ! СТРАНА
 #EXTGRP:Спорт
 http://178.212.71.253:8000/play/51/index.m3u8
+#EXTINF:-1 tvg-id="match-football1" tvg-name="Матч! Футбол 1" tvg-logo="http://epg.one/img/2044.png" group-title="Спорт", Матч! Футбол 1
+#EXTGRP:Спорт
+http://193.33.88.172/football1_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="match-football1" tvg-name="Матч! Футбол 1 HD" tvg-logo="http://epg.one/img/2044.png" group-title="Спорт", Матч! Футбол 1 HD
 #EXTGRP:Спорт
 http://193.33.88.172/football1_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="match-football2" tvg-name="Матч! Футбол 2" tvg-logo="http://epg.one/img/1042.png" group-title="Спорт", Матч! Футбол 2
+#EXTGRP:Спорт
+http://178.217.72.67:8080/Match_Futbol_2_HD/video.m3u8
 #EXTINF:-1 tvg-id="match-football2" tvg-name="Матч! Футбол 2 HD" tvg-logo="http://epg.one/img/1042.png" group-title="Спорт", Матч! Футбол 2 HD
 #EXTGRP:Спорт
 http://193.33.88.172/football2_hd/tracks-v1a1/mono.m3u8
