@@ -1866,6 +1866,9 @@ http://87.120.142.11:18000/Match
 #EXTINF:-1 tvg-id="match-igra" tvg-name="Матч! Игра" tvg-logo="http://epg.one/img/2050.png" group-title="Спорт", Матч! Игра
 #EXTGRP:Спорт
 http://87.120.142.11:18000/Match!Igra
+#EXTINF:-1 tvg-id="match-igra" tvg-name="Матч! Игра" tvg-logo="http://epg.one/img/2050.png" group-title="Спорт", Матч! Игра HD
+#EXTGRP:Спорт
+http://178.217.72.67:8080/Match_Igra_HD/video.m3u8
 #EXTINF:-1 tvg-id="match-planeta" tvg-name="Матч! Планета" tvg-logo="http://epg.one/img/2043.png" group-title="Спорт", Матч! Планета
 #EXTGRP:Спорт
 https://ucdn.beetv.kz/bpk-tv/000001695/tve/index.m3u8
@@ -1877,7 +1880,10 @@ http://193.33.88.172/nash-football/tracks-v1a1/mono.m3u8
 http://193.33.88.172/nash_football_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="match-nash-sport" tvg-name="Матч! Страна" tvg-logo="http://epg.one/img/2042.png" group-title="Спорт", МАТЧ! СТРАНА
 #EXTGRP:Спорт
-http://178.212.71.253:8000/play/51/index.m3u8
+http://178.217.72.67:8080/Match_Nash_Sport/index.m3u8
+#EXTINF:-1 tvg-id="match-nash-sport" tvg-name="Матч! Страна" tvg-logo="http://epg.one/img/2042.png" group-title="Спорт", МАТЧ! СТРАНА HD
+#EXTGRP:Спорт
+http://31.148.48.15/Match_Strana/index.m3u8
 #EXTINF:-1 tvg-id="match-football1" tvg-name="Матч! Футбол 1" tvg-logo="http://epg.one/img/2044.png" group-title="Спорт", Матч! Футбол 1
 #EXTGRP:Спорт
 http://193.33.88.172/football1_hd/tracks-v1a1/mono.m3u8
