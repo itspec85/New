@@ -1543,6 +1543,9 @@ https://ucdn.beetv.kz/bpk-tv/000008488/tve/index.m3u8
 #EXTINF:-1 tvg-id="mosfilm" tvg-name="Мосфильм. Золотая коллекция" tvg-logo="http://epg.one/img/3357.png" group-title="Кино", Мосфильм. Золотая коллекция
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000006365/tve/index.m3u8
+#EXTINF:-1 tvg-id="mosfilm" tvg-name="Мосфильм. Золотая коллекция" tvg-logo="http://epg.one/img/3357.png" group-title="Кино", Мосфильм. Золотая коллекция HD
+#EXTGRP:Кино
+http://193.33.88.172/mosfilm/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="muzhskoe-kino" tvg-name="Мужское кино" tvg-logo="http://epg.one/img/1584.png" group-title="Кино", МУЖСКОЕ КИНО
 #EXTGRP:Кино
 http://158.101.222.193:88/georgia_play.php?id=interesnoetv
