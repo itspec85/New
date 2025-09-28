@@ -2166,6 +2166,9 @@ https://s04.watcher.uz/59/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.
 #EXTINF:-1 tvg-name="Sports TV TR" tvg-logo="http://epg.one/img/3884.png" group-title="Спорт", Sports TV TR
 #EXTGRP:Спорт
 https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+#EXTINF:-1 tvg-id="supertennis" tvg-name="SuperTennis" tvg-logo="http://epg.one/img/6539.png" group-title="Спорт", Super Tennis HD
+#EXTGRP:Спорт
+http://viphlvp.xyz:8080/VIP0122170888755824/7mrf7wivs6zz/136511
 #EXTINF:-1 tvg-name="TENNIS HD US" tvg-logo="http://epg.one/img/3118.png" group-title="Спорт", TENNIS HD US
 #EXTGRP:Спорт
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
