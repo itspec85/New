@@ -145,7 +145,7 @@ http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV-1.m3u8
 http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV.m3u8
 #EXTINF:-1 tvg-id="pervy" tvg-name="Первый канал HD" tvg-logo="http://epg.one/img/983.png" group-title="Россия", Первый канал FHD
 #EXTGRP:Россия
-http://193.33.88.172/ort_hd/tracks-v1a1/mono.m3u8
+http://95.66.188.74/PerviyHD/mono.m3u8
 #EXTINF:-1 tvg-id="pervy-pl2" tvg-name="Первый канал +2" tvg-logo="http://epg.one/img/2034.png" group-title="Россия", Первый канал +2
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -381,7 +381,7 @@ http://dmitry-tv.ddns.net/hls/DVB-T2/CH_STS-1.m3u8
 http://dmitry-tv.ddns.net/hls/DVB-T2/CH_STS.m3u8
 #EXTINF:-1 tvg-id="sts" tvg-name="СТС HD" tvg-logo="http://epg.one/img/79.png" group-title="Россия", СТС HD
 #EXTGRP:Россия
-http://193.33.88.172/sts_hd/tracks-v1a1/mono.m3u8
+http://95.66.188.74/CTC_HD/mono.m3u8
 #EXTINF:-1 tvg-id="sts-pl2" tvg-name="СТС +2" tvg-logo="http://epg.one/img/3007.png" group-title="Россия", СТС +2
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
