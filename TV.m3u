@@ -2033,7 +2033,7 @@ https://ucdn.beetv.kz/bpk-tv/000003689/tve/index.m3u8
 http://viphlvp.xyz:8080/VIP0122170888755824/7mrf7wivs6zz/144859
 #EXTINF:-1 tvg-id="nfl-network" tvg-name="NFL Network HD CA" tvg-logo="http://epg.one/img/3568.png" group-title="Спорт", NFL Network HD CA
 #EXTGRP:Спорт
-http://fl3.moveonjoy.com/NFL_NETWORK/index.m3u8
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ced7d5df64be98e07ed47b6&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=708&terminate=false&userId=
 #EXTINF:-1 tvg-name="NHL Network US" tvg-logo="http://epg.one/img/4562.png" group-title="Спорт", NHL Network US
 #EXTGRP:Спорт
 http://river-1.rutube.ru/stream/genetta-512.ost.rutube.ru/R2141pxtQznA1CCg86yeLg/1759684897/7a485ef5da9fe50ba939f36ca3e6ed96/1080p_stream.m3u8
