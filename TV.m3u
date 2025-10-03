@@ -2033,10 +2033,10 @@ https://ucdn.beetv.kz/bpk-tv/000003689/tve/index.m3u8
 http://viphlvp.xyz:8080/VIP0122170888755824/7mrf7wivs6zz/144859
 #EXTINF:-1 tvg-id="nfl-network" tvg-name="NFL Network HD CA" tvg-logo="http://epg.one/img/3568.png" group-title="Спорт", NFL Network HD CA
 #EXTGRP:Спорт
-http://river-1.rutube.ru/stream/genetta-512.ost.rutube.ru/R2141pxtQznA1CCg86yeLg/1759684897/7a485ef5da9fe50ba939f36ca3e6ed96/1080p_stream.m3u8
+http://fl3.moveonjoy.com/NFL_NETWORK/index.m3u8
 #EXTINF:-1 tvg-name="NHL Network US" tvg-logo="http://epg.one/img/4562.png" group-title="Спорт", NHL Network US
 #EXTGRP:Спорт
-https://apollo.production-public.tubi.io/live/ac-nhl.m3u8
+http://river-1.rutube.ru/stream/genetta-512.ost.rutube.ru/R2141pxtQznA1CCg86yeLg/1759684897/7a485ef5da9fe50ba939f36ca3e6ed96/1080p_stream.m3u8
 #EXTINF:-1 tvg-name="Pac 12 Insider USA" tvg-logo="https://i.imgur.com/736QREy.png" group-title="Спорт", Pac 12 Insider USA
 #EXTGRP:Спорт
 https://pac12-roku-us.amagi.tv/playlist.m3u8
