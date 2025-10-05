@@ -1479,13 +1479,13 @@ https://mhd128.iptv2022.com/p/Grpe82xDbOIita0P15AFrQ,1759611610/streaming/kamedi
 https://ucdn.beetv.kz/bpk-tv/000008136/tve/index.m3u8
 #EXTINF:-1 tvg-id="kino1int-tviksel" tvg-name="Кино 1 International" tvg-logo="http://epg.one/img/6258.png" group-title="Кино", Кино 1 International
 #EXTGRP:Кино
-http://dmitry-tv.ddns.net/hls/CH_KINO1_INT.m3u8
+http://a0925677.xsph.ru/hls/CH_KINO1_INT.m3u8
 #EXTINF:-1 tvg-id="kino-tv" tvg-name="Кино ТВ" tvg-logo="http://epg.one/img/1037.png" group-title="Кино", КИНО ТВ
 #EXTGRP:Кино
 http://194.32.242.245/kinotv/index.m3u8
 #EXTINF:-1 tvg-id="kino-tv" tvg-name="Кино ТВ" tvg-logo="http://epg.one/img/1037.png" group-title="Кино", КИНО ТВ HD
 #EXTGRP:Кино
-http://dmitry-tv.ddns.net/hls/CH_KINOTV.m3u8
+http://a0925677.xsph.ru/hls/CH_KINOTV.m3u8
 #EXTINF:-1 tvg-id="kinoboevik-kz" tvg-name="Кинобоевик KZ" tvg-logo="https://iptvx.one/picons/kinoboevik-kz.png" group-title="Кино", Кинобоевик KZ
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000008490/tve/index.m3u8
@@ -1745,7 +1745,7 @@ http://194.32.242.245/hollywoodhd/index.m3u8
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/93dc292b-cbcf-4988-ab97-94feced4c14b/manifest.m3u8
 #EXTINF:-1 tvg-id="kino-24" tvg-name="Kino 24" tvg-logo="https://epgx.club/picons/kino-24.png" group-title="Кино", Kino 24
 #EXTGRP:Кино
-http://dmitry-tv.ddns.net/hls/CH_KINO24.m3u8
+http://a0925677.xsph.ru/hls/CH_KINO24.m3u8
 #EXTINF:-1 tvg-name="KINOMIX" tvg-logo="https://avatars.mds.yandex.net/i?id=ca48c80ed038a6ab87a7e44912516524622407c6-5326992-images-thumbs&n=13" group-title="Кино", KINOMIX
 #EXTGRP:Кино
 https://132544.edgevideo.ru/streams/132544_940640/1325441080/index.m3u8
@@ -2234,7 +2234,7 @@ http://tvip.btk.teleos.ru:8081/chid520/index.m3u8
 http://31.148.48.15/Bridge_TV_Classic/index.m3u8
 #EXTINF:-1 tvg-id="bridge-hd" tvg-name="Bridge Deluxe" tvg-logo="http://epg.one/img/2022.png" group-title="Музыка", Bridge Deluxe HD
 #EXTGRP:Музыка
-http://dmitry-tv.ddns.net/hls/CH_BRIDGETV_DELUXEHD.m3u8
+http://a0925677.xsph.ru/hls/CH_BRIDGETV_DELUXEHD.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-dance" tvg-name="Bridge TV Hits" tvg-logo="http://epg.one/img/2024.png" group-title="Музыка", Bridge Hits
 #EXTGRP:Музыка
 http://31.133.36.244:8000/144
