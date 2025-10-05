@@ -1455,7 +1455,7 @@ http://193.27.209.122/tiji/index.m3u8
 https://mhd128.iptv2022.com/p/WEl0KURYuidJ4KJp1oPIsw,1759698012/streaming/blokbaster/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-name="Видеокассета TV" tvg-logo="https://avatars.mds.yandex.net/i?id=aa54d677b7da13a106d22ee95411b140d0009712-15274206-images-thumbs&n=13" group-title="Кино", Видеокассета TV
 #EXTGRP:Кино
-https://132544.edgevideo.ru/streams/132544_806129/playlist.m3u8
+https://132544.edgevideo.ru/streams/132544_973517/1325441080/index.m3u8
 #EXTINF:-1 tvg-id="denpobedy" tvg-name="День Победы HD" tvg-logo="http://epg.one/img/2773.png" group-title="Кино", День Победы HD
 #EXTGRP:Кино
 http://91.194.191.241:8081/chid168/tracks-v1a1/mono.m3u8
@@ -1721,7 +1721,7 @@ https://ucdn.beetv.kz/bpk-tv/000000452/tve/index.m3u8
 http://91.194.191.241:8081/chid439/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Film Best TV" tvg-logo="https://avatars.mds.yandex.net/i?id=c5e9421c8de2437b79ebe48c6e2d0ab08e3f74b2-16413791-images-thumbs&n=13" group-title="Кино", Film Best TV
 #EXTGRP:Кино
-https://132544.edgevideo.ru/streams/132544_847220/1325441080/index.m3u8
+https://132544.edgevideo.ru/streams/132544_975653/1325441080/index.m3u8
 #EXTINF:-1 tvg-id="filmbox-ru" tvg-name="FilmBox" tvg-logo="http://epg.one/img/2181.png" group-title="Кино", FilmBox
 #EXTGRP:Кино
 http://146.120.212.5:8004/play/a021/index.m3u8
