@@ -3,30 +3,30 @@
 #EXTINF:-1 tvg-id="domashny" tvg-shift="+1" tvg-name="Домашний -1" tvg-logo="http://epg.one/img/304.png" group-title="Россия", Домашний -1
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_DOMASHNIY-1.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_DOMASHNIY-1.m3u8
 #EXTINF:-1 tvg-id="domashny" tvg-name="Домашний" tvg-logo="http://epg.one/img/304.png" group-title="Россия", Домашний
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_DOMASHNIY.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_DOMASHNIY.m3u8
 #EXTINF:-1 tvg-id="domashny" tvg-name="Домашний HD" tvg-logo="http://epg.one/img/304.png" group-title="Россия", Домашний HD
 #EXTGRP:Россия
 http://185.78.112.17/domashniy_hd/index.m3u8
 #EXTINF:-1 tvg-id="domashny-pl2" tvg-name="Домашний +2" tvg-logo="http://epg.one/img/3010.png" group-title="Россия", Домашний +2
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_DOMASHNIY_2.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_DOMASHNIY_2.m3u8
 #EXTINF:-1 tvg-id="domashny-pl4" tvg-name="Домашний +4" tvg-logo="http://epg.one/img/3011.png" group-title="Россия", Домашний +4
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_DOMASHNIY_4.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_DOMASHNIY_4.m3u8
 #EXTINF:-1 tvg-id="domashny" tvg-shift="-6" tvg-name="Домашний +6" tvg-logo="http://epg.one/img/3012.png" group-title="Россия", Домашний +6
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_DOMASHNIY_6.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_DOMASHNIY_6.m3u8
 #EXTINF:-1 tvg-id="domashny-pl7" tvg-name="Домашний +7" tvg-logo="http://epg.one/img/3012.png" group-title="Россия", Домашний +7
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_DOMASHNIY_7.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_DOMASHNIY_7.m3u8
 #EXTINF:-1 tvg-id="domashny-int" tvg-name="Домашний International" tvg-logo="https://iptvx.one/picons/domashny-int.png" group-title="Россия", Домашний International
 #EXTGRP:Россия
 http://93.125.121.61:8383/play/a009
