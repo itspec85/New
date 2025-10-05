@@ -1011,9 +1011,15 @@ http://185.78.112.17/ohotnik/index.m3u8
 #EXTINF:-1 tvg-id="sarafan" tvg-name="Сарафан" tvg-logo="http://epg.one/img/663.png" group-title="Познавательные", Сарафан
 #EXTGRP:Познавательные
 http://93.125.121.61:8383/play/exp80k606
+#EXTINF:-1 tvg-name="Сити Эдем - АвтоГид" tvg-logo="https://www.cityeden.info/logotv/logotip_avtogid1.png" group-title="Познавательные", Сити Эдем - АвтоГид
+#EXTGRP:Познавательные
+https://cityeden.catcast.tv/content/47515/index.m3u8
 #EXTINF:-1 tvg-name="Сити Эдем - КиноДок" tvg-logo="https://www.cityeden.info/logotv/logotip_kinodok1.png" group-title="Познавательные", Сити Эдем - КиноДок
 #EXTGRP:Познавательные
 https://autopilot.catcast.tv/content/38354/index.m3u8
+#EXTINF:-1 tvg-name="Сити Эдем - МедЗдрав" tvg-logo="https://www.cityeden.info/logotv/logotip_medzdrav1.png" group-title="Познавательные", Сити Эдем - МедЗдрав
+#EXTGRP:Познавательные
+https://cityeden.catcast.tv/content/47519/index.m3u8
 #EXTINF:-1 tvg-name="Сити Эдем - Христианский" tvg-logo="https://www.cityeden.info/logotv/siti_ehdem_tv_2024.png" group-title="Познавательные", Сити Эдем - Христианский
 #EXTGRP:Познавательные
 https://autopilot.catcast.tv/content/34246/index.m3u8
