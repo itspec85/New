@@ -1461,7 +1461,7 @@ https://ucdn.beetv.kz/bpk-tv/000002943/tve/index.m3u8
 http://193.27.209.122/dorama/index.m3u8
 #EXTINF:-1 tvg-id="evrokino" tvg-name="Еврокино" tvg-logo="http://epg.one/img/352.png" group-title="Кино", Еврокино
 #EXTGRP:Кино
-http://87.120.142.11:18000/STSLove
+http://46.8.46.14/eurokino/index.m3u8
 #EXTINF:-1 tvg-name="Иллюзион+" tvg-logo="http://epg.one/img/2403.png" group-title="Кино", Иллюзион +
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000004582/tve/index.m3u8
@@ -1874,7 +1874,10 @@ http://31.148.48.15/Match_Boec/index.m3u8
 http://91.194.191.241:8081/chid143/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="match-igra" tvg-name="Матч! Игра" tvg-logo="http://epg.one/img/2050.png" group-title="Спорт", Матч! Игра
 #EXTGRP:Спорт
-http://87.120.142.11:18000/Match!Igra
+http://91.194.191.241:8081/chid53/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="match-igra" tvg-name="Матч! Игра" tvg-logo="http://epg.one/img/2050.png" group-title="Спорт", Матч! Игра HD
+#EXTGRP:Спорт
+http://185.78.112.17/match_igra_hd/index.m3u8
 #EXTINF:-1 tvg-id="match-planeta" tvg-name="Матч! Планета" tvg-logo="http://epg.one/img/2043.png" group-title="Спорт", Матч! Планета
 #EXTGRP:Спорт
 https://ucdn.beetv.kz/bpk-tv/000001695/tve/index.m3u8
