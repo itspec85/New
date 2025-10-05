@@ -1432,6 +1432,9 @@ https://ucdn.beetv.kz/bpk-tv/000000499/tve/index.m3u8
 #EXTINF:-1 tvg-id="nicktoons" tvg-name="NickToons" tvg-logo="http://epg.one/img/2994.png" group-title="Детские", NickToons
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000004365/tve/index.m3u8
+#EXTINF:-1 tvg-name="Red Junior" https://avatars.mds.yandex.net/i?id=cdd9270059d5efa81c0acb20eca3aaed669e0a3d-5869830-images-thumbs&n=13" group-title="Детские", Red Junior
+#EXTGRP:Детские
+http://95.85.109.219:7000/play/a06h
 #EXTINF:-1 tvg-id="salemalem-kz" tvg-name="Sälem älem!" tvg-logo="https://epgx.club/picons/salemalem-kz.png" group-title="Детские", Sälem älem!
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000008864/tve/index.m3u8
@@ -1746,6 +1749,9 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/93
 #EXTINF:-1 tvg-id="kino-24" tvg-name="Kino 24" tvg-logo="https://epgx.club/picons/kino-24.png" group-title="Кино", Kino 24
 #EXTGRP:Кино
 http://a0925677.xsph.ru/hls/CH_KINO24.m3u8
+#EXTINF:-1 tvg-id="kinoliving" tvg-name="KinoLiving" tvg-logo="http://epg.one/img/9123.png" group-title="Кино", KinoLiving
+#EXTGRP:Кино
+http://95.85.109.219:7000/play/a05x
 #EXTINF:-1 tvg-name="KINOMIX" tvg-logo="https://avatars.mds.yandex.net/i?id=ca48c80ed038a6ab87a7e44912516524622407c6-5326992-images-thumbs&n=13" group-title="Кино", KINOMIX
 #EXTGRP:Кино
 https://132544.edgevideo.ru/streams/132544_940640/1325441080/index.m3u8
@@ -1758,6 +1764,9 @@ https://stream.ushba.tv/akamaiushba/ushba-films-a/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="plan-b" tvg-name="Plan B HD" tvg-logo="htp://epg.one/img/6643.png" group-title="Кино", Plan B HD
 #EXTGRP:Кино
 http://85.117.61.97:8000/play/a016/index.m3u8
+#EXTINF:-1 tvg-name="Red Premium" https://avatars.mds.yandex.net/i?id=cdd9270059d5efa81c0acb20eca3aaed669e0a3d-5869830-images-thumbs&n=13" group-title="Кино", Red Premium
+#EXTGRP:Кино
+http://95.85.109.219:7000/play/a06e
 #EXTINF:-1 tvg-id="romance" tvg-name="Romance HD" tvg-logo="http://epg.one/img/9179.png" group-title="Кино", Romance HD
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000008780/tve/index.m3u8
