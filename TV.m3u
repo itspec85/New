@@ -1860,12 +1860,9 @@ https://ucdn.beetv.kz/bpk-tv/000004375/tve/index.m3u8
 #EXTINF:-1 tvg-id="belarus5" tvg-name="Беларусь 5 HD" tvg-logo="http://epg.one/img/2541.png" group-title="Спорт", Беларусь 5 HD
 #EXTGRP:Спорт
 https://edge50.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="belarus5-inet" tvg-name="Беларусь 5 Интернет" tvg-logo="https://epgx.club/picons/belarus5-inet.png" group-title="Спорт", Беларусь 5 Интернет
-#EXTGRP:Спорт
-https://edge55.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int/chklist_w601692199_b2660000_sleng.m3u8
 #EXTINF:-1 tvg-id="box-tv" tvg-name="Бокс ТВ" tvg-logo="http://epg.one/img/2285.png" group-title="Спорт", Бокс ТВ
 #EXTGRP:Спорт
-https://ucdn.beetv.kz/bpk-tv/000001243/tve/index.m3u8
+http://tvip.btk.teleos.ru:8081/chid460/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="konny-mir" tvg-name="Конный Мир" tvg-logo="http://epg.one/img/1679.png" group-title="Спорт", Конный Мир
 #EXTGRP:Спорт
 http://cdn-01.bonus-tv.ru/kmir/mono.m3u8
@@ -1895,7 +1892,7 @@ http://91.194.191.241:8081/chid53/tracks-v1a1/mono.m3u8
 http://185.78.112.17/match_igra_hd/index.m3u8
 #EXTINF:-1 tvg-id="match-planeta" tvg-name="Матч! Планета" tvg-logo="http://epg.one/img/2043.png" group-title="Спорт", Матч! Планета
 #EXTGRP:Спорт
-https://ucdn.beetv.kz/bpk-tv/000001695/tve/index.m3u8
+http://93.125.121.61:8383/play/a00q
 #EXTINF:-1 tvg-id="match-premier" tvg-name="Матч! Премьер" tvg-logo="http://epg.one/img/2250.png" group-title="Спорт", МАТЧ ПРЕМЬЕР
 #EXTGRP:Спорт
 http://91.194.191.241:8081/chid172/tracks-v1a1/mono.m3u8
@@ -1905,9 +1902,6 @@ http://185.78.112.17/nash_football_hd/index.m3u8
 #EXTINF:-1 tvg-id="match-nash-sport" tvg-name="Матч! Страна" tvg-logo="http://epg.one/img/2042.png" group-title="Спорт", МАТЧ! СТРАНА
 #EXTGRP:Спорт
 http://178.212.71.253:8000/play/51/index.m3u8
-#EXTINF:-1 tvg-id="match-nash-sport" tvg-name="Матч! Страна" tvg-logo="http://epg.one/img/2042.png" group-title="Спорт", МАТЧ! СТРАНА HD
-#EXTGRP:Спорт
-http://31.148.48.15/Match_Strana/index.m3u8
 #EXTINF:-1 tvg-id="match-football1" tvg-name="Матч! Футбол 1" tvg-logo="http://epg.one/img/2044.png" group-title="Спорт", Матч! Футбол 1
 #EXTGRP:Спорт
 http://195.64.140.147:10100/100
@@ -1926,15 +1920,15 @@ http://185.57.68.33/110/mpegts
 #EXTINF:-1 tvg-id="match-football3" tvg-name="Матч! Футбол 3 HD" tvg-logo="http://epg.one/img/2005.png" group-title="Спорт", Матч! Футбол 3 HD
 #EXTGRP:Спорт
 http://195.64.140.147:10102/102
+#EXTINF:-1 tvg-id="mir-basketbola" tvg-name="Мир баскетбола" tvg-logo="http://epg.one/img/4629.png" group-title="Спорт", Мир Баскетбола
+#EXTGRP:Спорт
+http://195.64.140.147:10111/111
 #EXTINF:-1 tvg-id="okko-sport-2" tvg-name="Окко.Прайм Спорт" tvg-logo="http://epg.one/img/9324.png" group-title="Спорт", Окко Прайм Спорт
 #EXTGRP:Спорт
 http://185.221.213.254:8080/Okko/index.m3u8
 #EXTINF:-1 tvg-id="start" tvg-name="Старт" tvg-logo="http://epg.one/img/2530.png" group-title="Спорт", СТАРТ
 #EXTGRP:Спорт
 http://sltv2.be:8080/DeNiSoNkEl/nPcCsz5hHn/510637
-#EXTINF:-1 tvg-id="start-triumf" tvg-name="Старт Триумф HD" tvg-logo="http://epg.one/img/9112.png" group-title="Спорт", Старт Триумф HD
-#EXTGRP:Спорт
-http://31.133.36.244:8000/109
 #EXTINF:-1 tvg-id="ufc" tvg-name="Удар" tvg-logo="http://epg.one/img/2480.png" group-title="Спорт", Удар
 #EXTGRP:Спорт
 https://ucdn.beetv.kz/bpk-tv/000007802/tve/index.m3u8
@@ -1968,9 +1962,9 @@ http://78.130.250.2:8023/play/a02w/index.m3u8
 #EXTINF:-1 tvg-id="cbc-sport" tvg-name="CBC Sport" tvg-logo="http://epg.one/img/2636.png" group-title="Спорт", CBC Sport
 #EXTGRP:Спорт
 http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:BB:EE:72&stream=31400&extension=ts
-#EXTINF:-1 tvg-id="cbs-sports-network-us" tvg-name="CBS Sports Network US" tvg-logo="http://epg.one/img/4560.png" group-title="Спорт", CBS Sports Network US
+#EXTINF:-1 tvg-name="CBS Sports HQ" tvg-logo="https://avatars.mds.yandex.net/i?id=3bba1b82138d3d7fcc44e762363c393f6cac1664-9161202-images-thumbs&n=13" group-title="Спорт", CBS Sports HQ
 #EXTGRP:Спорт
-http://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3a15356b-8467-4ae7-b2f6-9c8467fcf41d
 #EXTINF:-1 tvg-id="daznbar1" tvg-name="DAZN 1 HD" tvg-logo="http://epg.one/img/6501.png" group-title="Спорт", Dazn 1 HD
 #EXTGRP:Спорт
 http://viphlvp.xyz:8080/VIP0122170888755824/7mrf7wivs6zz/135423
@@ -1995,21 +1989,18 @@ http://viphlvp.xyz:8080/VIP0122170888755824/7mrf7wivs6zz/3177
 #EXTINF:-1 tvg-id="espn-us" tvg-name="ESPN USA" tvg-logo="http://epg.one/img/6582.png" group-title="Спорт", ESPN USA
 #EXTGRP:Спорт
 http://cord-cutter.net:8080/LeeAv21/AvantL12/14197
-#EXTINF:-1 tvg-id="espn-u-us" tvg-name="ESPN U US" tvg-logo="http://epg.one/img/8396.png" group-title="Спорт", ESPN U US
-#EXTGRP:Спорт
-http://fl3.moveonjoy.com/ESPN_U/index.m3u8
 #EXTINF:-1 tvg-id="eurosport1" tvg-name="Eurosport 1" tvg-logo="http://epg.one/img/2052.png" group-title="Спорт", Eurosport 1
 #EXTGRP:Спорт
 https://ucdn.beetv.kz/bpk-tv/000002478/tve/index.m3u8
 #EXTINF:-1 tvg-id="eurosport1" tvg-name="Eurosport 1" tvg-logo="http://epg.one/img/2052.png" group-title="Спорт", Eurosport 1 HD
 #EXTGRP:Спорт
-http://138.201.250.184/eurosport1/index.m3u8
+http://95.85.109.219:7000/play/a076
 #EXTINF:-1 tvg-id="eurosport2" tvg-name="Eurosport 2" tvg-logo="http://epg.one/img/4313.png" group-title="Спорт", Eurosport 2
 #EXTGRP:Спорт
 https://ucdn.beetv.kz/bpk-tv/000002479/tve/index.m3u8
 #EXTINF:-1 tvg-id="eurosport2" tvg-name="Eurosport 2" tvg-logo="http://epg.one/img/4313.png" group-title="Спорт", Eurosport 2 HD
 #EXTGRP:Спорт
-http://138.201.250.184/eurosport2/index.m3u8
+http://tvip.btk.teleos.ru:8081/chid52/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="extreme-sports" tvg-name="Extreme Sports" tvg-logo="http://epg.one/img/2053.png" group-title="Спорт", Extreme Sports
 #EXTGRP:Спорт
 https://ucdn.beetv.kz/bpk-tv/000000026/tve/index.m3u8
@@ -2021,7 +2012,7 @@ https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f178-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=df3ca9c7-d700-4719-be3f-74dd169206f8
 #EXTINF:-1 tvg-name="Golf Channel PL" tvg-logo="http://epg.one/img/3624.png" group-title="Спорт", Golf Channel PL
 #EXTGRP:Спорт
-https://fl3.moveonjoy.com/GOLF/index.m3u8
+http://185.236.229.62:9981/play/a03m
 #EXTINF:-1 tvg-name="HORSE & COUNTRY HD SE" tvg-logo="http://epg.one/img/4850.png" group-title="Спорт", HORSE & COUNTRY HD SE
 #EXTGRP:Спорт
 https://hncfree-samsungau.amagi.tv/playlist720-p.m3u8
@@ -2042,10 +2033,10 @@ http://93.125.121.61:8383/play/a028
 http://87.246.54.249:8085/KHL/index.m3u8
 #EXTINF:-1 tvg-id="mlb-network-us" tvg-name="MLB Network HD CA" tvg-logo="http://epg.one/img/3654.png" group-title="Спорт", MLB Network HD CA
 #EXTGRP:Спорт
-http://fl3.moveonjoy.com/MLB_NETWORK/index.m3u8
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e66968a70f34c0007d050be/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c29dbd3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0f1d3baf-2f1b-47d7-9966-3e92a98f1c8a&serverSideAds=false
 #EXTINF:-1 tvg-id="m1global" tvg-name="MMA-TV.com" tvg-logo="http://epg.one/img/2326.png" group-title="Спорт", MMA-TV.com
 #EXTGRP:Спорт
-https://ucdn.beetv.kz/bpk-tv/000003689/tve/index.m3u8
+http://95.85.109.219:7000/play/a089
 #EXTINF:-1 tvg-id="nba-tv" tvg-name="NBA TV HD US" tvg-logo="http://epg.one/img/4587.png" group-title="Спорт", NBA TV HD US
 #EXTGRP:Спорт
 http://viphlvp.xyz:8080/VIP0122170888755824/7mrf7wivs6zz/144859
@@ -2105,7 +2096,7 @@ http://184585.ipturk.eu/ozgurozdemir/19051907ok/230406
 https://7pal.short.gy/ssportplus
 #EXTINF:-1 tvg-id="sky-sports-apl" tvg-name="Sky Sports Premiere League UK" tvg-logo="http://epg.one/img/4569.png" group-title="Спорт", Sky Sports Premiere League UK
 #EXTGRP:Спорт
-https://7pal.short.gy/ssportspl
+http://kstv.us:8080/c2Q2HDqQfM/111770/47871
 #EXTINF:-1 tvg-id="sky-sports-tennis" tvg-name="Sky Sports Tennis HD UK" tvg-logo="http://epg.one/img/9400.png" group-title="Спорт", Sky Sports Tennis HD UK
 #EXTGRP:Спорт
 https://7pal.short.gy/ssportstn
@@ -2129,7 +2120,7 @@ https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 http://95.67.12.82:9067
 #EXTINF:-1 tvg-id="trt-3-hd" tvg-name="TRT Spor" tvg-logo="http://epg.one/img/6525.png" group-title="Спорт", TRT Spor TR
 #EXTGRP:Спорт
-http://185.234.111.229:8000/play/a00e
+http://viphlvp.xyz:8080/VIP0122170888755824/7mrf7wivs6zz/141449
 #EXTINF:-1 tvg-name="Türkmenistan Sport" tvg-logo="https://avatars.mds.yandex.net/i?id=da678a9d544adb3ed0e3fe916af1b74d_l-5288772-images-thumbs&n=13" group-title="Спорт", Türkmenistan Sport
 #EXTGRP:Спорт
 http://217.174.225.146/hls/ch004_720/index.m3u8
