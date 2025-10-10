@@ -1426,6 +1426,9 @@ https://ucdn.beetv.kz/bpk-tv/000000333/tve/index.m3u8
 #EXTINF:-1 tvg-id="gulli-girl" tvg-name="Gulli" tvg-logo="http://epg.one/img/810.png" group-title="Детские", Gulli
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000000284/tve/index.m3u8
+#EXTINF:-1 tvg-name="IPTVPLAY МультСказки" tvg-logo="https://i122.fastpic.org/big/2024/0112/65/b20ebb09af08ef55dbdffa919a047c65.png" group-title="Детские", IPTVPLAY МультСказки
+#EXTGRP:Детские
+http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1 tvg-id="kidstv" tvg-name="Kids TV HD" tvg-logo="http://epg.one/img/9025.png" group-title="Детские", Kids TV HD
 #EXTGRP:Детские
 http://origin5.mediacdn.ru/live/kidstv/index.m3u8
@@ -1746,6 +1749,27 @@ http://194.32.242.245/hollywoodhd/index.m3u8
 #EXTINF:-1 tvg-name="Horror TV" tvg-logo="http://epg.one/img/8792.png" group-title="Кино", Horror TV
 #EXTGRP:Кино
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/93dc292b-cbcf-4988-ab97-94feced4c14b/manifest.m3u8
+#EXTINF:-1 tvg-name="IPTVPLAY Ведьмак" tvg-logo="https://i123.fastpic.org/big/2024/0826/01/adbb4692281cf3cc6540f47f4460c701.png" group-title="Кино", IPTVPLAY Ведьмак
+#EXTGRP:Кино
+http://5.188.158.65:4040/IPTVPLAYVEDMAK.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 tvg-name="IPTVPLAY Великая Отечественная" tvg-logo="https://img.catcast.tv/uploads/21102022/logos/39161-6352c0c04b9bd.png" group-title="Кино", IPTVPLAY Великая Отечественная
+#EXTGRP:Кино
+http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 tvg-name="IPTVPLAY Десятое Королевство" tvg-logo="https://i123.fastpic.org/big/2024/0826/ac/f4f87b57a79f0fbc6381996811439dac.png" group-title="Кино", IPTVPLAY Десятое Королевство
+#EXTGRP:Кино
+http://5.188.158.65:4040/IPTVPLAY10KOROLEVSTVO.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 tvg-name="IPTVPLAY Интерны" tvg-logo="https://i123.fastpic.org/big/2024/0826/ee/6d269a3701fd505b42ad593a52cd9eee.png" group-title="Кино", IPTVPLAY Интерны
+#EXTGRP:Кино
+http://5.188.158.65:4040/IPTVPLAYINTERNY.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 tvg-name="IPTVPLAY Память" tvg-logo="https://i.ibb.co/7gj4dQM/Pamyat.png" group-title="Кино", IPTVPLAY Память
+#EXTGRP:Кино
+http://5.188.158.65:4040/IPTVPLAYPAMYAT.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 tvg-name="IPTVPLAY Ужастик" tvg-logo="https://i.ibb.co/LZkQq0x/Uzhastik.png" group-title="Кино", IPTVPLAY Ужастик
+#EXTGRP:Кино
+http://5.188.158.65:4040/IPTVPLAYUZHASTIK.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 tvg-name="IPTVPLAY Фантастика" tvg-logo="https://i.ibb.co/pbxx3Sd/Fantastika.png" group-title="Кино", IPTVPLAY Фантастика
+#EXTGRP:Кино
+http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1 tvg-id="kino-24" tvg-name="Kino 24" tvg-logo="https://epgx.club/picons/kino-24.png" group-title="Кино", Kino 24
 #EXTGRP:Кино
 http://a0925677.xsph.ru/hls/CH_KINO24.m3u8
