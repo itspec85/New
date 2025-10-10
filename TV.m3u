@@ -397,7 +397,7 @@ http://a0925677.xsph.ru/hls/DVB-T2/CH_STS_6.m3u8
 http://a0925677.xsph.ru/hls/DVB-T2/CH_STS_7.m3u8
 #EXTINF:-1 tvg-id="sts-int" tvg-name="СТС International" tvg-logo="http://epg.one/img/5652.png" group-title="Россия", СТС International
 #EXTGRP:Россия
-http://95.85.109.219:7000/play/a098
+https://cdn4.skygo.mn/live/disk1/STS/HLSv3-FTA/STS.m3u8
 #EXTINF:-1 tvg-id="sts-love" tvg-shift="+1" tvg-name="СТС Love -1" tvg-logo="http://epg.one/img/1322.png" group-title="Россия", СТС Love -1
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -1841,7 +1841,7 @@ https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Novella_HD.smil/playlist.
 https://ucdn.beetv.kz/bpk-tv/000003748/tve/index.m3u8
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino" tvg-name="Viju TV1000 Русское HD" tvg-logo="http://epg.one/img/267.png" group-title="Кино", Viju TV1000 Русское HD
 #EXTGRP:Кино
-http://95.85.109.219:7000/play/a08x
+http://192.162.64.99:5100/play/a023/index.m3u8
 #EXTINF:-1 tvg-id="tv1000-action" tvg-name="Viju TV1000 Action" tvg-logo="http://epg.one/img/125.png" group-title="Кино", Viju TV1000 Action
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000003910/tve/index.m3u8
