@@ -1824,6 +1824,9 @@ https://mhd128.iptv2022.com/p/DCcAsxCrNvtsdmYhtJJGxQ,1760302809/streaming/trash/
 #EXTINF:-1 tvg-id="tvxxi" tvg-name="TV XXI" tvg-logo="http://epg.one/img/309.png" group-title="Кино", TV XXI
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000000006/tve/index.m3u8
+#EXTINF:-1 tvg-id="vhs-ka" tvg-name="VHS-ка" tvg-logo="http://epg.one/img/9065.png" group-title="Кино", VHS-ка HD
+#EXTGRP:Кино
+http://95.66.188.74/VHS/index.m3u8
 #EXTINF:-1 tvg-name="VideoArsenal" tvg-logo="https://i.postimg.cc/MTw7GvDw/Video-Arsenal.png" group-title="Кино", VideoArsenal
 #EXTGRP:Кино
 https://132544.edgevideo.ru/streams/132544_931730/1325441080/index.m3u8
