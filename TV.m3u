@@ -1788,6 +1788,9 @@ http://85.117.61.97:8000/play/a016/index.m3u8
 #EXTINF:-1 tvg-id="romance" tvg-name="Romance HD" tvg-logo="http://epg.one/img/9179.png" group-title="Кино", Romance HD
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000008780/tve/index.m3u8
+#EXTINF:-1 tvg-name="Scripach TV" tvg-logo="https://avatars.mds.yandex.net/i?id=400848349a31cad07c86125558fe48c347ccde11-8340358-images-thumbs&n=13" group-title="Кино", Scripach TV
+#EXTGRP:Кино
+http://132544.edgevideo.ru/streams/132544_935537/1325441080/index.m3u8
 #EXTINF:-1 tvg-name="SeleCaoTV 1" tvg-logo="https://avatars.mds.yandex.net/i?id=d0474ff4a0ea5b32fdd602b0cb9b6d52-5233472-images-thumbs&n=13" group-title="Кино", SeleCaoTV 1
 #EXTGRP:Кино
 https://132544.edgevideo.ru/streams/132544_951371/playlist.m3u8
@@ -1824,6 +1827,12 @@ https://mhd128.iptv2022.com/p/OrgxzsLDmdgVcGMfUKxe5w,1760389212/streaming/trash/
 #EXTINF:-1 tvg-id="tvxxi" tvg-name="TV XXI" tvg-logo="http://epg.one/img/309.png" group-title="Кино", TV XXI
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000000006/tve/index.m3u8
+#EXTINF:-1 tvg-id="vip-comedy-cee" tvg-name="	Viasat Kino Comedy" tvg-logo="http://epg.one/img/8880.png" group-title="Кино", Viasat Kino Comedy HD
+#EXTGRP:Кино
+http://ukr.ukrainske.tv/493/tvainua/video.m3u8
+#EXTINF:-1 tvg-id="tv1000-worldkino" tvg-name="Viasat Kino World" tvg-logo="http://epg.one/img/8883.png" group-title="Кино", Viasat World Kino
+#EXTGRP:Кино
+http://5.188.159.128:8070/TV1000_World_Kino/index.m3u8
 #EXTINF:-1 tvg-id="vhs-ka" tvg-name="VHS-ка" tvg-logo="http://epg.one/img/9065.png" group-title="Кино", VHS-ка HD
 #EXTGRP:Кино
 http://95.66.188.74/VHS/index.m3u8
@@ -2057,7 +2066,7 @@ http://viphlvp.xyz:8080/VIP0122170888755824/7mrf7wivs6zz/144859
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ced7d5df64be98e07ed47b6&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=708&terminate=false&userId=
 #EXTINF:-1 tvg-name="NHL Network US" tvg-logo="http://epg.one/img/4562.png" group-title="Спорт", NHL Network US
 #EXTGRP:Спорт
-http://river-1.rutube.ru/stream/genetta-512.ost.rutube.ru/fXmzKLL-ynjZg53UyAZ84A/1760278562/7a485ef5da9fe50ba939f36ca3e6ed96/1080p_stream.m3u8
+http://river-1.rutube.ru/stream/genetta-512.ost.rutube.ru/WVpLHJ7G4G30wUOEd5hpLA/1760881575/7a485ef5da9fe50ba939f36ca3e6ed96/1080p_stream.m3u8
 #EXTINF:-1 tvg-name="Pac 12 Insider USA" tvg-logo="https://i.imgur.com/736QREy.png" group-title="Спорт", Pac 12 Insider USA
 #EXTGRP:Спорт
 https://pac12-roku-us.amagi.tv/playlist.m3u8
