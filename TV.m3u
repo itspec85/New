@@ -645,9 +645,6 @@ https://ucdn.beetv.kz/bpk-tv/000005322/tve/index.m3u8
 #EXTINF:-1 tvg-id="atyray" tvg-name="Atyray" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/d/df/Atyrau.png/revision/latest?cb=20200225165956&path-prefix=ru" group-title="Казахстан", Atyray
 #EXTGRP:Казахстан
 https://ucdn.beetv.kz/bpk-tv/000001570/tve/index.m3u8
-#EXTINF:-1 tvg-id="dostyk-kz" tvg-name="Dostyk [KZ]" tvg-logo="https://epgx.club/picons/dostyk-kz.png" group-title="Казахстан", Dostyq
-#EXTGRP:Казахстан
-https://ucdn.beetv.kz/bpk-tv/000007625/tve/index.m3u8
 #EXTINF:-1 tvg-id="ertis" tvg-name="Ertis" tvg-logo="https://avatars.mds.yandex.net/i?id=2a00000179f624829d76604fcc2ee4429836-4012435-images-thumbs&n=13" group-title="Казахстан", Ertis
 #EXTGRP:Казахстан
 https://stream.kaztrk.kz/regional/pavlodartv/index.m3u8
@@ -1784,7 +1781,7 @@ https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
 https://stream.ushba.tv/akamaiushba/ushba-films-a/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="plan-b" tvg-name="Plan B HD" tvg-logo="htp://epg.one/img/6643.png" group-title="Кино", Plan B HD
 #EXTGRP:Кино
-http://85.117.61.97:8000/play/a016/index.m3u8
+https://ucdn.beetv.kz/bpk-tv/000007625/tve/index.m3u8
 #EXTINF:-1 tvg-id="romance" tvg-name="Romance HD" tvg-logo="http://epg.one/img/9179.png" group-title="Кино", Romance HD
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000008780/tve/index.m3u8
