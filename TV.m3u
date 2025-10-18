@@ -1336,7 +1336,7 @@ http://sirius.greenhosting.ru/MamontRu/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="mult" tvg-name="Мульт" tvg-logo="http://epg.one/img/1332.png" group-title="Детские", Мульт
 #EXTGRP:Детские
 http://stv.mediacdn.ru/live/cdn/mult/playlist.m3u8
-#EXTINF:-1 tvg-name="Мультики и Сказки tvg-logo="https://i.postimg.cc/YS90VJYX/image.png" group-title="Детские", Мультики и Сказки
+#EXTINF:-1 tvg-name="Мультики и Сказки tvg-logo="https://avatars.mds.yandex.net/i?id=1c01a12ce450dcb6d59c77935c6cecf374937561-10995513-images-thumbs&n=13" group-title="Детские", Мультики и Сказки
 #EXTGRP:Детские
 https://132544.edgevideo.ru/streams/132544_931352/132544720/index.m3u8
 #EXTINF:-1 tvg-id="multimania" tvg-name="Мультиландия" tvg-logo="http://epg.one/img/2757.png" group-title="Детские", Мультиландия
@@ -2229,7 +2229,7 @@ http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="1hd" tvg-name="1HD" tvg-logo="http://epg.one/img/4037.png" group-title="Музыка", 1HD
 #EXTGRP:Музыка
 https://ucdn.beetv.kz/bpk-tv/000001020/tve/index.m3u8
-#EXTINF:-1 tvg-name="88 Stereo" tvg-logo="https://i.ibb.co/8BnNdTB/image-24.png" group-title="Музыка", 88 Stereo
+#EXTINF:-1 tvg-name="88 Stereo" tvg-logo="https://www.88stereo.com/wp-content/uploads/2017/05/88Stereo-logoweb.png" group-title="Музыка", 88 Stereo
 #EXTGRP:Музыка
 http://k3.usastreams.com/CableLatino/88stereo/chunklist_w986835325.m3u8
 #EXTINF:-1 tvg-name="91 Nrg HD" tvg-logo="http://epg.one/img/4650.png" group-title="Музыка", 91 Nrg HD
@@ -3333,9 +3333,6 @@ http://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://a0925677.xsph.ru/hls/zabava/region/SUR/CH_YUGANSK_YUNSK.m3u8
-#EXTINF:-1 tvg-name="Тротек ТВ Троицк" tvg-logo="https://trotek.online/img/logo.png" group-title="Региональные РФ", Тротек ТВ Троицк
-#EXTGRP:Региональные РФ
-http://trotek.keenetic.pro/play.m3u8
 #EXTINF:-1 tvg-name="ТСТ Черемхово" tvg-logo="https://avatars.mds.yandex.net/i?id=31c44c940ddbc1217df332c9bfbfc1d03fca81fb-4233236-images-thumbs&n=13" group-title="Региональные РФ", ТСТ Черемхово
 #EXTGRP:Региональные РФ
 http://5.183.155.8:88/stream.m3u8
