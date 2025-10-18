@@ -1779,7 +1779,7 @@ https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Logovo Films" tvg-logo="https://avatars.mds.yandex.net/i?id=0d2a36f62671a0501ca3cf27a5eb2b8d58d11926-5877910-images-thumbs&n=13" group-title="Кино", Logovo Films
 #EXTGRP:Кино
 https://stream.ushba.tv/akamaiushba/ushba-films-a/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="plan-b" tvg-name="Plan B HD" tvg-logo="htp://epg.one/img/6643.png" group-title="Кино", Plan B HD
+#EXTINF:-1 tvg-id="plan-b" tvg-name="Plan B HD" tvg-logo="http://epg.one/img/6643.png" group-title="Кино", Plan B HD
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000007625/tve/index.m3u8
 #EXTINF:-1 tvg-id="romance" tvg-name="Romance HD" tvg-logo="http://epg.one/img/9179.png" group-title="Кино", Romance HD
@@ -1806,7 +1806,7 @@ http://84.245.224.71/StarCinemaHD/mono.m3u8
 #EXTINF:-1 tvg-id="star-family" tvg-name="Star Family" tvg-logo="http://epg.one/img/9162.png" group-title="Кино", Star Family
 #EXTGRP:Кино
 http://84.245.224.71/StarFamilyHD/mono.m3u8
-#EXTINF:-1 tvg-id="start-air" tvg-name="START Air" tvg-logo="http://epg.oe/img/6241.png" group-title="Кино", START Air HD
+#EXTINF:-1 tvg-id="start-air" tvg-name="START Air" tvg-logo="http://epg.one/img/6241.png" group-title="Кино", START Air HD
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000007815/tve/index.m3u8
 #EXTINF:-1 tvg-id="start-world" tvg-name="START World" tvg-logo="http://epg.one/img/6240.png" group-title="Кино", START World HD
