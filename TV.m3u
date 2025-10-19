@@ -1455,7 +1455,7 @@ https://mhd128.iptv2022.com/p/iC0f-iSBSw7iw98pxd8Vgw,1760907611/streaming/blokba
 https://132544.edgevideo.ru/streams/132544_973517/1325441080/index.m3u8
 #EXTINF:-1 tvg-id="denpobedy" tvg-name="День Победы HD" tvg-logo="http://epg.one/img/2773.png" group-title="Кино", День Победы HD
 #EXTGRP:Кино
-http://tvip.btk.teleos.ru:8081/chid168/tracks-v1a1/mono.m3u8
+https://mhd128.iptv2022.com/p/v3oYgdecC176k8_GxIWiWQ,1760907612/streaming/den-pobedi/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="domkino" tvg-name="Дом кино" tvg-logo="http://epg.one/img/834.png" group-title="Кино", Дом Кино
 #EXTGRP:Кино
 http://46.8.46.14/domkino/index.m3u8
