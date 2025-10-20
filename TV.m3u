@@ -1161,12 +1161,9 @@ https://fl1001.bozztv.com/ushba31/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="history" tvg-name="History" tvg-logo="http://epg.one/img/1394.png" group-title="Познавательные", History
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000001000/tve/index.m3u8
-#EXTINF:-1 tvg-id="history" tvg-name="History" tvg-logo="http://epg.one/img/1394.png" group-title="Познавательные", History (резерв)
-#EXTGRP:Познавательные
-http://213.252.199.137:8000/play/ch316_History_RUS_hd/index.m3u8
 #EXTINF:-1 tvg-id="id-xtra-eu" tvg-name="Investigation Discovery" tvg-logo="http://epg.one/img/2507.png" group-title="Познавательные", Investigation Discovery
 #EXTGRP:Познавательные
-http://45.159.74.22/InvestigationDiscovery/mono.m3u8
+http://195.64.140.147:10152/152
 #EXTINF:-1 tvg-name="Jarmarka" tvg-logo="https://i.ytimg.com/an/23MIFU9IMsNtE2K6FfBBCQ/featured_channel.jpg" group-title="Познавательные", Jarmarka
 #EXTGRP:Познавательные
 https://api.alpaca.t62a.com/hls/9104/stream0.m3u8
@@ -1179,24 +1176,18 @@ http://95.67.12.82:9098
 #EXTINF:-1 tvg-id="luxury" tvg-name="Luxury" tvg-logo="http://epg.one/img/2759.png" group-title="Познавательные", Luxury
 #EXTGRP:Познавательные
 https://s1.tv-nano.com/Luxury_rec/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="nano-hd" tvg-name="NANO TV" tvg-logo="http://epg.one/img/2428.png" group-title="Познавательные", NANO TV
-#EXTGRP:Познавательные
-http://46.8.46.14/Nano/index.m3u8
 #EXTINF:-1 tvg-id="nano-hd" tvg-name="NANO TV" tvg-logo="http://epg.one/img/2428.png" group-title="Познавательные", NANO TV HD
 #EXTGRP:Познавательные
 http://194.143.148.28:8080/NanoTV/mpegts
 #EXTINF:-1 tvg-id="nat-geo-wild" tvg-name="Nat Geo Wild" tvg-logo="http://epg.one/img/223.png" group-title="Познавательные", Nat Geo Wild
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000004474/tve/index.m3u8
-#EXTINF:-1 tvg-id="nat-geo-wild" tvg-name="Nat Geo Wild" tvg-logo="http://epg.one/img/223.png" group-title="Познавательные", Nat Geo Wild (резерв)
-#EXTGRP:Познавательные
-http://188.237.47.212:6005
 #EXTINF:-1 tvg-id="national-geographic" tvg-name="National Geographic" tvg-logo="http://epg.one/img/102.png" group-title="Познавательные", National Geographic
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000000034/tve/index.m3u8
 #EXTINF:-1 tvg-id="ocean-tv" tvg-name="OCEAN-TV" tvg-logo="http://epg.one/img/55.png" group-title="Познавательные", OCEAN-TV
 #EXTGRP:Познавательные
-http://217.11.177.57/streams/media/teatr_720x576/index.m3u8
+http://86.57.209.210/Ocean/index.m3u8
 #EXTINF:-1 tvg-id="one-planet" tvg-name="One Planet" tvg-logo="https://epgx.club/picons/one-planet.png" group-title="Познавательные", One Planet
 #EXTGRP:Познавательные
 http://95.67.12.82:9088
@@ -1212,7 +1203,7 @@ https://iptv.prosto.tv/id532/video.m3u8
 #EXTINF:-1 tvg-name="RTД" tvg-logo="http://epg.one/img/2295.png" group-title="Познавательные", RT Док
 #EXTGRP:Познавательные
 https://streaming.televizor-24-tochka.ru/live/554.m3u8
-#EXTINF:-1 tvg-id="rt-news" tvg-name="RT News" tvg-logo="http://epg.one/img/2269.png" group-title="Познавательные", RT News
+#EXTINF:-1 tvg-id="rt-news" tve="RT News" tvg-logo="http://epg.one/img/2269.png" group-title="Познавательные", RT News
 #EXTGRP:Познавательные
 https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-4/mxtm-wdfe_1080p/chunklist_DVR.m3u8
 #EXTINF:-1 tvg-id="rtg-hd" tvg-name="RTG HD" tvg-logo="http://epg.one/img/648.png" group-title="Познавательные", RTG HD
@@ -1235,31 +1226,28 @@ https://ucdn.beetv.kz/bpk-tv/000008142/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000001498/tve/index.m3u8
 #EXTINF:-1 tvg-id="tlc" tvg-name="TLC HD" tvg-logo="http://epg.one/img/2345.png" group-title="Познавательные", TLC HD
 #EXTGRP:Познавательные
-http://45.159.74.22/TLC/mono.m3u8
+http://5.188.159.128:8070/TLC/index.m3u8
+#EXTINF:-1 tvg-id="travel-channel" tvg-name="Travel Channel" tvg-logo="http://epg.one/img/613.png" group-title="Познавательные", Travel Channel
+#EXTGRP:Познавательные
+http://195.64.140.147:10158/158
+#EXTINF:-1 tvg-id="travel-guide-tv" tvg-name="Travel Guide-TV" tvg-logo="https://epgx.club/picons/travel-guide-tv.png" group-title="Познавательные", Travel Guide-TV
+#EXTGRP:Познавательные
+http://cdn10.live-tv.od.ua:8081/leonovtv/test1/playlist.m3u8
 #EXTINF:-1 tvg-id="travel-adventure" tvg-name="travel+adventure" tvg-logo="http://epg.one/img/1035.png" group-title="Познавательные", travel+adventure
 #EXTGRP:Познавательные
-http://31.133.36.244:8000/171
+http://tvip.btk.teleos.ru:8081/chid418/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tv-brics" tvg-name="TV BRICS" tvg-logo="https://iptvx.one/picons/tv-brics.png" group-title="Познавательные", TV BRICS
 #EXTGRP:Познавательные
 http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="viasat-explore" tvg-name="Viju Explore" tvg-logo="http://epg.one/img/521.png" group-title="Познавательные", Viju Explore
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000004157/tve/index.m3u8
-#EXTINF:-1 tvg-id="viasat-explore" tvg-name="Viju Explore" tvg-logo="http://epg.one/img/521.png" group-title="Познавательные", Viju Explore (резерв)
-#EXTGRP:Познавательные
-http://158.101.222.193:88/georgia_play.php?id=viasatexp
 #EXTINF:-1 tvg-id="viasat-history" tvg-name="Viju History" tvg-logo="http://epg.one/img/277.png" group-title="Познавательные", Viju History
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000005528/tve/index.m3u8
-#EXTINF:-1 tvg-id="viasat-history" tvg-name="Viju History" tvg-logo="http://epg.one/img/277.png" group-title="Познавательные", Viju History (резерв)
-#EXTGRP:Познавательные
-http://158.101.222.193:88/georgia_play.php?id=viasathist
 #EXTINF:-1 tvg-id="viasat-nature" tvg-name="Viju Nature" tvg-logo="http://epg.one/img/765.png" group-title="Познавательные", Viju Nature
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000006482/tve/index.m3u8
-#EXTINF:-1 tvg-id="viasat-nature" tvg-name="Viju Nature" tvg-logo="http://epg.one/img/765.png" group-title="Познавательные", Viju Nature (резерв)
-#EXTGRP:Познавательные
-http://158.101.222.193:88/georgia_play.php?id=viasatnat
 #EXTINF:-1 tvg-id="viasat-nature-history-hd" tvg-name="viju+ Planet" tvg-logo="http://epg.one/img/2012.png" group-title="Познавательные", Viju+ Planet HD
 #EXTGRP:Познавательные
 http://195.64.140.147:10147/147
@@ -1272,7 +1260,7 @@ https://ucdn.beetv.kz/bpk-tv/000008065/tve/index.m3u8
 #EXTINF:-1 tvg-id="world-fashion-channel" tvg-name="World Fashion Channel" tvg-logo="http://epg.one/img/2242.png" group-title="Познавательные", World Fashion Channel
 #EXTGRP:Познавательные
 http://live-3.otcnet.ru/wfcrus/index.m3u8
-#EXTINF:-1 tvg-name="WWW" tvg-logo="https://fsd.kopilkaurokov.ru/up/html/2020/01/27/k_5e2f1ef814d50/img_user_file_5e2f1ef9dd433_0_0.jpg" group-title="Познавательные", WWW
+#EXTINF:-1 t-name="WWW" tvg-logo="https://fsd.kopilkaurokov.ru/up/html/2020/01/27/k_5e2f1ef814d50/img_user_file_5e2f1ef9dd433_0_0.jpg" group-title="Познавательные", WWW
 #EXTGRP:Познавательные
 https://132544.edgevideo.ru/streams/132544_931349/1325441080/index.m3u8
 #EXTINF:-1 tvg-id="zoopark" tvg-name="ZOOПарк" tvg-logo="http://epg.one/img/367.png" group-title="Познавательные", Zooпарк HD
