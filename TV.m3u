@@ -956,7 +956,7 @@ http://cdn.ntv.ru/th_pravo/mono.m3u8
 http://cdn.ntv.ru/th_style/mono.m3u8
 #EXTINF:-1 tvg-name="Общественная Служба Новостей HD" tvg-logo="http://epg.one/img/6744.png" group-title="Познавательные", Общественная Служба Новостей HD
 #EXTGRP:Познавательные
-https://osnmedia.servicecdn.ru/streams/17603_88089/720n/index.m3u8
+https://osnmedia.servicecdn.ru/streams/17603_88089/1080n/index.m3u8
 #EXTINF:-1 tvg-id="oruzhie" tvg-name="Оружие" tvg-logo="http://epg.one/img/2430.png" group-title="Познавательные", Оружие
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000000308/tve/index.m3u8
@@ -1002,9 +1002,6 @@ https://n1.slavmir.tv/live/slavmir/chunklist.m3u8
 #EXTINF:-1 tvg-id="rybalka-i-oxota" tvg-name="Рыбалка и охота" tvg-logo="https://iptvx.one/picons/rybalka-i-oxota.png" group-title="Познавательные", Рыбалка и охота
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000002510/tve/index.m3u8
-#EXTINF:-1 tvg-id="oxotnik-i-rybolov" tvg-name="Рыболов" tvg-logo="http://epg.one/img/6646.png" group-title="Познавательные", Рыболов HD
-#EXTGRP:Познавательные
-http://213.252.199.137:8000/play/ch318_Okhotnik_i_rybolov/index.m3u8
 #EXTINF:-1 tvg-id="sarafan" tvg-name="Сарафан" tvg-logo="http://epg.one/img/663.png" group-title="Познавательные", Сарафан
 #EXTGRP:Познавательные
 http://91.194.191.241:8081/chid39/tracks-v1a1/mono.m3u8
@@ -1056,9 +1053,6 @@ http://193.25.8.59:8000/telecafe
 #EXTINF:-1 tvg-id="teleputeshestvia" tvg-name="Телепутешествия" tvg-logo="http://epg.one/img/2424.png" group-title="Познавательные", Телепутешествия
 #EXTGRP:Познавательные
 http://tvip.btk.teleos.ru:8081/chid433/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="terra-inkognita" tvg-name="Терра Инкогнита" tvg-logo="https://epgx.club/picons/terra-inkognita.png" group-title="Познавательные", Терра Инкогнита
-#EXTGRP:Познавательные
-http://178.124.153.123:44400/terra
 #EXTINF:-1 tvg-id="tochka-otryva" tvg-name="Точка отрыва" tvg-logo="http://epg.one/img/617.png" group-title="Познавательные", Точка отрыва
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000003208/tve/index.m3u8
