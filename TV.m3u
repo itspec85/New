@@ -1268,7 +1268,7 @@ https://ucdn.beetv.kz/bpk-tv/000000260/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000002762/tve/index.m3u8
 #EXTINF:-1 tvg-id="detsky-mir" tvg-name="Детский мир" tvg-logo="http://epg.one/img/923.png" group-title="Детские", Детский мир
 #EXTGRP:Детские
-http://178.124.152.238:8088/detmir
+http://192.162.64.99:4000/play/a06e/index.m3u8
 #EXTINF:-1 tvg-id="detkinoint-tviksel" tvg-name="Детское кино International" tvg-logo="http://epg.one/img/6261.png" group-title="Детские", Детское кино International
 #EXTGRP:Детские
 http://autopilot.catcast.tv/content/38720/index.m3u8
@@ -1330,12 +1330,7 @@ https://ucdn.beetv.kz/bpk-tv/000000203/tve/index.m3u8
 #EXTINF:-1 tvg-id="multimuzyka" tvg-name="Мульт и музыка" tvg-logo="http://epg.one/img/284.png" group-title="Детские", Мультимузыка
 #EXTGRP:Детские
 http://stv.mediacdn.ru/live/cdn/multimuzika/playlist.m3u8
-#EXTINF:-1 tvg-name="Мультсериалы VHS" tvg-logo="https://i.pinimg.com/736x/d5/6a/fd/d56afd3c61b34c581bf79e422676d0cb.jpg" group-title="Детские", Мультсериалы VHS
-#EXTGRP:Детские
-https://v2.catcast.tv/content/47757/index.m3u8?token=0672ea07ad1628d0641ef181145c7c28
-#EXTINF:-1 tvg-name="Мультфильмы СССР" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFvuAaClEfQy9e0f4hP7qLgECKmjvv7k7iFw&s" group-title="Детские", Мультфильмы СССР
-#EXTGRP:Детские
-https://v2.catcast.tv/content/47786/index.m3u8?token=a2dd039065a4816f6c078ce82615ede3
+
 #EXTINF:-1 tvg-id="o_" tvg-name="О!" tvg-logo="http://epg.one/img/1757.png" group-title="Детские", О!
 #EXTGRP:Детские
 http://tvip.btk.teleos.ru:8081/chid405/tracks-v1a1/mono.m3u8
@@ -1359,7 +1354,7 @@ http://a0925677.xsph.ru/hls/zabava/CH_DISNEY.m3u8
 #EXTINF:-1 tvg-id="solnce-pl2" tvg-name="Солнце +2" tvg-logo="https://epgx.club/picons/solnce-pl2.png" group-title="Детские", Солнце +2
 #EXTGRP:Детские
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://a0925677.xsph.ru/hls/zabava/CH_DISNEY_2.m3u8
+http://a0925677.xsph.ru/ls/zabava/CH_DISNEY_2.m3u8
 #EXTINF:-1 tvg-id="solnce-pl4" tvg-name="Солнце +4" tvg-logo="https://epgx.club/picons/solnce-pl4.png" group-title="Детские", Солнце +4
 #EXTGRP:Детские
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -1380,7 +1375,7 @@ http://194.26.229.213/souzmultfilm/index.m3u8
 http://195.26.83.96:7006/play/a00z/index.m3u8
 #EXTINF:-1 tvg-id="malysh" tvg-name="СуперГерои" tvg-logo="http://epg.one/img/2239.png" group-title="Детские", СуперГерои
 #EXTGRP:Детские
-http://radio.tvs.by:8088/Malish/index.m3u8
+http://iptv46.mcx-ix.ru:8077/malish/index.m3u8
 #EXTINF:-1 tvg-id="detsky" tvg-name="Уникум" tvg-logo="http://epg.one/img/66.png" group-title="Детские", Уникум
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000000048/tve/index.m3u8
