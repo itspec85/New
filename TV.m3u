@@ -1942,36 +1942,15 @@ http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:BB:EE:72&stream=3028&extension=
 #EXTINF:-1 tvg-name="Billiard TV" tvg-logo="https://avatars.mds.yandex.net/i?id=b42dfcc65e0421933184166140afd83040f5ba1b-5369205-images-thumbs&n=13" group-title="Спорт", Billiard TV
 #EXTGRP:Спорт
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65df0cff66eec8000897b3a4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1cc775-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=36e4c683-680e-486f-91f0-ce1f0f88c4b6
-#EXTINF:-1 tvg-id="canal-pl-sport-2" tvg-name="Canal+ Sport 2 HD [PL]" tvg-logo="http://epg.one/img/3058.png" group-title="Спорт", CANAL+ Sport 2 HD PL
-#EXTGRP:Спорт
-http://78.130.250.2:8023/play/a02w/index.m3u8
 #EXTINF:-1 tvg-id="cbc-sport" tvg-name="CBC Sport" tvg-logo="http://epg.one/img/2636.png" group-title="Спорт", CBC Sport AZ
 #EXTGRP:Спорт
 http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:BB:EE:72&stream=31400&extension=ts
 #EXTINF:-1 tvg-name="CBS Sports HQ" tvg-logo="https://avatars.mds.yandex.net/i?id=3bba1b82138d3d7fcc44e762363c393f6cac1664-9161202-images-thumbs&n=13" group-title="Спорт", CBS Sports HQ
 #EXTGRP:Спорт
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3a15356b-8467-4ae7-b2f6-9c8467fcf41d
-#EXTINF:-1 tvg-id="daznbar1" tvg-name="DAZN 1 HD" tvg-logo="http://epg.one/img/6501.png" group-title="Спорт", Dazn 1 HD
-#EXTGRP:Спорт
-http://viphlvp.xyz:8080/VIP0122170888755824/7mrf7wivs6zz/135423
-#EXTINF:-1 tvg-id="daznbar2" tvg-name="DAZN 2 HD" tvg-logo="http://epg.one/img/6502.png" group-title="Спорт", Dazn 2 HD
-#EXTGRP:Спорт
-http://viphlvp.xyz:8080/VIP0122170888755824/7mrf7wivs6zz/135424
 #EXTINF:-1 tvg-name="DAZN Combat" tvg-logo="https://i.postimg.cc/VsW3Jsrz/logo-DAZN-Combat.png" group-title="Спорт", DAZN Combat
 #EXTGRP:Спорт
 https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
-#EXTINF:-1 tvg-id="digisport1" tvg-name="DIGI Sport 1 HD RO" tvg-logo="http://epg.one/img/2907.png" group-title="Спорт", DIGI Sport 1 HD RO
-#EXTGRP:Спорт
-http://viphlvp.xyz:8080/VIP0122170888755824/7mrf7wivs6zz/3174
-#EXTINF:-1 tvg-id="digisport2" tvg-name="DIGI Sport 2 HD RO" tvg-logo="http://epg.one/img/2906.png" group-title="Спорт", DIGI Sport 2 HD RO
-#EXTGRP:Спорт
-http://viphlvp.xyz:8080/VIP0122170888755824/7mrf7wivs6zz/3175
-#EXTINF:-1 tvg-id="digisport3" tvg-name="DIGI Sport 3 HD RO" tvg-logo="http://epg.one/img/2908.png" group-title="Спорт", DIGI Sport 3 HD RO
-#EXTGRP:Спорт
-http://viphlvp.xyz:8080/VIP0122170888755824/7mrf7wivs6zz/3176
-#EXTINF:-1 tvg-id="digisport4" tvg-name="DIGI Sport 4 HD RO" tvg-logo="http://epg.one/img/2922.png" group-title="Спорт", DIGI Sport 4 HD RO
-#EXTGRP:Спорт
-http://viphlvp.xyz:8080/VIP0122170888755824/7mrf7wivs6zz/3177
 #EXTINF:-1 tvg-id="espn-us" tvg-name="ESPN USA" tvg-logo="http://epg.one/img/6582.png" group-title="Спорт", ESPN USA
 #EXTGRP:Спорт
 http://cord-cutter.net:8080/LeeAv21/AvantL12/14197
@@ -2025,13 +2004,13 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e
 http://87.246.54.249:8085/MMATV/index.m3u8
 #EXTINF:-1 tvg-id="nba-tv" tvg-name="NBA TV HD US" tvg-logo="http://epg.one/img/4587.png" group-title="Спорт", NBA TV HD US
 #EXTGRP:Спорт
-http://viphlvp.xyz:8080/VIP0122170888755824/7mrf7wivs6zz/144859
+http://nxsmrt4.xyz:80/live/ismailbekci1/3X6DMdu9GR/865608.ts
 #EXTINF:-1 tvg-id="nfl-network" tvg-name="NFL Network HD CA" tvg-logo="http://epg.one/img/3568.png" group-title="Спорт", NFL Network HD CA
 #EXTGRP:Спорт
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ced7d5df64be98e07ed47b6&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=708&terminate=false&userId=
 #EXTINF:-1 tvg-name="NHL Network US" tvg-logo="http://epg.one/img/4562.png" group-title="Спорт", NHL Network US
 #EXTGRP:Спорт
-http://river-1.rutube.ru/stream/genetta-512.ost.rutube.ru/kkXFoVh0RyjwIUWudi_QAA/1761490711/7a485ef5da9fe50ba939f36ca3e6ed96/1080p_stream.m3u8
+http://kstv.us:8080/c2Q2HDqQfM/111770/15941
 #EXTINF:-1 tvg-name="Pac 12 Insider USA" tvg-logo="https://i.imgur.com/736QREy.png" group-title="Спорт", Pac 12 Insider USA
 #EXTGRP:Спорт
 https://pac12-roku-us.amagi.tv/playlist.m3u8
@@ -2095,9 +2074,6 @@ https://s04.watcher.uz/59/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.
 #EXTINF:-1 tvg-name="Sports TV TR" tvg-logo="http://epg.one/img/3884.png" group-title="Спорт", Sports TV TR
 #EXTGRP:Спорт
 https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
-#EXTINF:-1 tvg-id="supertennis" tvg-name="SuperTennis" tvg-logo="http://epg.one/img/6539.png" group-title="Спорт", Super Tennis HD
-#EXTGRP:Спорт
-http://viphlvp.xyz:8080/VIP0122170888755824/7mrf7wivs6zz/136511
 #EXTINF:-1 tvg-id="tennis-cnl-us" tvg-name="Tennis Channel [US]" tvg-logo="http://epg.one/img/3118.png" group-title="Спорт", TENNIS HD US
 #EXTGRP:Спорт
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
@@ -2109,7 +2085,7 @@ https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
 http://95.67.12.82:9067
 #EXTINF:-1 tvg-id="trt-3-hd" tvg-name="TRT Spor" tvg-logo="http://epg.one/img/6525.png" group-title="Спорт", TRT Spor TR
 #EXTGRP:Спорт
-http://viphlvp.xyz:8080/VIP0122170888755824/7mrf7wivs6zz/141449
+http://favoritest25.shop:8080/635fundaorlu/937fundaorlu/6109
 #EXTINF:-1 tvg-name="Türkmenistan Sport" tvg-logo="https://avatars.mds.yandex.net/i?id=da678a9d544adb3ed0e3fe916af1b74d_l-5288772-images-thumbs&n=13" group-title="Спорт", Türkmenistan Sport
 #EXTGRP:Спорт
 http://217.174.225.146/hls/ch004_720/index.m3u8
