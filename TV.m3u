@@ -1606,9 +1606,6 @@ https://autopilot.catcast.tv/content/41331/index.m3u8
 #EXTINF:-1 tvg-name="Сити Эдем - КиноМистика" tvg-logo="https://www.cityeden.info/logotv/logotip_kinomostika.png" group-title="Кино", Сити Эдем - КиноМистика
 #EXTGRP:Кино
 https://autopilot.catcast.tv/content/40783/index.m3u8
-#EXTINF:-1 tvg-name="Сити Эдем - КиноСемья" tvg-logo="https://www.cityeden.info/logotv/logotip_kinosemja.png" group-title="Кино", Сити Эдем - КиноСемья
-#EXTGRP:Кино
-https://cityeden.catcast.tv/content/38128/index.m3u8
 #EXTINF:-1 tvg-name="Сити Эдем - КиноФантастика" tvg-logo="https://www.cityeden.info/logotv/kinofantastika_logotip.png" group-title="Кино", Сити Эдем - КиноФантастика
 #EXTGRP:Кино
 https://cityeden.catcast.tv/content/45268/index.m3u8
@@ -1944,7 +1941,7 @@ http://nxsmrt4.xyz:80/live/ismailbekci1/3X6DMdu9GR/181792.ts
 http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:BB:EE:72&stream=3028&extension=ts
 #EXTINF:-1 tvg-name="Billiard TV" tvg-logo="https://avatars.mds.yandex.net/i?id=b42dfcc65e0421933184166140afd83040f5ba1b-5369205-images-thumbs&n=13" group-title="Спорт", Billiard TV
 #EXTGRP:Спорт
-https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE_Max.m3u8
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65df0cff66eec8000897b3a4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1cc775-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=36e4c683-680e-486f-91f0-ce1f0f88c4b6
 #EXTINF:-1 tvg-id="canal-pl-sport-2" tvg-name="Canal+ Sport 2 HD [PL]" tvg-logo="http://epg.one/img/3058.png" group-title="Спорт", CANAL+ Sport 2 HD PL
 #EXTGRP:Спорт
 http://78.130.250.2:8023/play/a02w/index.m3u8
@@ -2101,9 +2098,12 @@ https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:-1 tvg-id="supertennis" tvg-name="SuperTennis" tvg-logo="http://epg.one/img/6539.png" group-title="Спорт", Super Tennis HD
 #EXTGRP:Спорт
 http://viphlvp.xyz:8080/VIP0122170888755824/7mrf7wivs6zz/136511
-#EXTINF:-1 tvg-name="TENNIS HD US" tvg-logo="http://epg.one/img/3118.png" group-title="Спорт", TENNIS HD US
+#EXTINF:-1 tvg-id="tennis-cnl-us" tvg-name="Tennis Channel [US]" tvg-logo="http://epg.one/img/3118.png" group-title="Спорт", TENNIS HD US
 #EXTGRP:Спорт
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Tennis+" tvg-logo="https://avatars.mds.yandex.net/i?id=26b7ad6af5b884c9d329427d05133b2d1e2ded89-4011855-images-thumbs&n=13" group-title="Спорт", Tennis+
+#EXTGRP:Спорт
+https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="trace-sport-stars" tvg-name="Trace Sport Stars HD" tvg-logo="http://epg.one/img/7507.png" group-title="Спорт", Trace Sport Stars HD
 #EXTGRP:Спорт
 http://95.67.12.82:9067
@@ -2119,9 +2119,12 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-name="UFC Network" tvg-logo="https://avatars.mds.yandex.net/i?id=fa611cddd035e36dcb2808aa3d911b00-5911267-images-thumbs&n=13" group-title="Спорт", UFC Network
 #EXTGRP:Спорт
 https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="viasat-sport" tvg-name="Viju+ Sport" tvg-logo="http://epg.one/img/2055.png" group-title="Спорт", Viju+ Sport
+#EXTGRP:Спорт
+http://194.32.242.245/viasatsport/index.m3u8
 #EXTINF:-1 tvg-id="viasat-sport" tvg-name="Viju+ Sport HD" tvg-logo="http://epg.one/img/2055.png" group-title="Спорт", Viju+ Sport HD
 #EXTGRP:Спорт
-https://ucdn.beetv.kz/bpk-tv/000000135/tve/index.m3u8
+http://iptv46.mcx-ix.ru:8077/ViasatSportHD/index.m3u8
 #EXTINF:-1 tvg-name="World Poker Tour USA" tvg-logo="https://avatars.mds.yandex.net/i?id=bc2003e45785f22c83853338865075e9c9638944-9877580-images-thumbs&n=13" group-title="Спорт", World Poker Tour USA
 #EXTGRP:Спорт
 http://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
