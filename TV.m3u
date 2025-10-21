@@ -1914,7 +1914,10 @@ http://195.64.140.147:10111/111
 http://185.221.213.254:8080/Okko/index.m3u8
 #EXTINF:-1 tvg-id="start" tvg-name="Старт" tvg-logo="http://epg.one/img/2530.png" group-title="Спорт", СТАРТ
 #EXTGRP:Спорт
-http://sltv2.be:8080/DeNiSoNkEl/nPcCsz5hHn/510637
+http://iptv46.mcx-ix.ru:8077/start_hd/index.m3u8
+#EXTINF:-1 tvg-id="start-basket" tvg-name="Старт Баскет" tvg-logo="https://epgx.club/picons/start-basket.png" group-title="Спорт", Старт Баскет
+#EXTGRP:Спорт
+https://bl.webcaster.pro/media/playlist/free_621d169e5c631c638136df3cb136c5c9/33_68881676/1080p/b32eaae5fbf1d2b8211543566a1d9a78/4914392769.m3u8?live=15&ref=https://tvstart.ru/channels/start-basket-test/
 #EXTINF:-1 tvg-id="ufc" tvg-name="Удар" tvg-logo="http://epg.one/img/2480.png" group-title="Спорт", Удар
 #EXTGRP:Спорт
 https://ucdn.beetv.kz/bpk-tv/000007802/tve/index.m3u8
