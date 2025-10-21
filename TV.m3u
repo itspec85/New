@@ -1951,6 +1951,18 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e
 #EXTINF:-1 tvg-name="DAZN Combat" tvg-logo="https://i.postimg.cc/VsW3Jsrz/logo-DAZN-Combat.png" group-title="Спорт", DAZN Combat
 #EXTGRP:Спорт
 https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
+#EXTINF:-1 tvg-id="digisport1" tvg-name="DIGI Sport 1 HD RO" tvg-logo="http://epg.one/img/2907.png" group-title="Спорт", DIGI Sport 1 HD RO
+#EXTGRP:Спорт
+http://newborne.pro:8080/Fati/998/86413
+#EXTINF:-1 tvg-id="digisport2" tvg-name="DIGI Sport 2 HD RO" tvg-logo="http://epg.one/img/2906.png" group-title="Спорт", DIGI Sport 2 HD RO
+#EXTGRP:Спорт
+http://newborne.pro:8080/Fati/998/86414
+#EXTINF:-1 tvg-id="digisport3" tvg-name="DIGI Sport 3 HD RO" tvg-logo="http://epg.one/img/2908.png" group-title="Спорт", DIGI Sport 3 HD RO
+#EXTGRP:Спорт
+http://newborne.pro:8080/Fati/998/86415
+#EXTINF:-1 tvg-id="digisport4" tvg-name="DIGI Sport 4 HD RO" tvg-logo="http://epg.one/img/2922.png" group-title="Спорт", DIGI Sport 4 HD RO
+#EXTGRP:Спорт
+http://newborne.pro:8080/Fati/998/86416
 #EXTINF:-1 tvg-id="espn-us" tvg-name="ESPN USA" tvg-logo="http://epg.one/img/6582.png" group-title="Спорт", ESPN USA
 #EXTGRP:Спорт
 http://cord-cutter.net:8080/LeeAv21/AvantL12/14197
@@ -2086,6 +2098,9 @@ http://95.67.12.82:9067
 #EXTINF:-1 tvg-id="trt-3-hd" tvg-name="TRT Spor" tvg-logo="http://epg.one/img/6525.png" group-title="Спорт", TRT Spor TR
 #EXTGRP:Спорт
 http://favoritest25.shop:8080/635fundaorlu/937fundaorlu/6109
+#EXTINF:-1 tvg-id="trt-spor-yild-tr" tvg-name="TRT Spor Yıldız [TR]" tvg-logo="https://avatars.mds.yandex.net/i?id=cf9bb06b92b88cc4cbe97810f53496a8f3579629-4303862-images-thumbs&n=13" group-title="Спорт", TRT Spor Yildiz HD TR
+#EXTGRP:Спорт
+http://favoritest25.shop:8080/635fundaorlu/937fundaorlu/353402
 #EXTINF:-1 tvg-name="Türkmenistan Sport" tvg-logo="https://avatars.mds.yandex.net/i?id=da678a9d544adb3ed0e3fe916af1b74d_l-5288772-images-thumbs&n=13" group-title="Спорт", Türkmenistan Sport
 #EXTGRP:Спорт
 http://217.174.225.146/hls/ch004_720/index.m3u8
