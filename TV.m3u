@@ -2884,9 +2884,6 @@ http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8
 #EXTINF:-1 tvg-name="МИТВ (Местное Илимское TV)" tvg-logo="https://avatars.mds.yandex.net/i?id=2f75654c64b41c92fb514034ce2012f8e0722bb4-12421110-images-thumbs&n=13" group-title="Региональные РФ", МИТВ (Местное Илимское TV)
 #EXTGRP:Региональные РФ
 http://193.33.233.109:9000/tv
-#EXTINF:-1 tvg-name="Мой Дагестан" tvg-logo="https://avatars.mds.yandex.net/i?id=f282f2c6e7ba5e2f81962738f0e422a4a57d8b77-9228658-images-thumbs&n=13" group-title="Региональные РФ", Мой Дагестан
-#EXTGRP:Региональные РФ
-http://185.78.112.46:8077/MAYAK_moydag_channel/index.m3u8
 #EXTINF:-1 tvg-id="mordovia-24" tvg-name="Мордовия 24" tvg-logo="https://iptvx.one/picons/mordovia-24.png" group-title="Региональные РФ", Мордовия 24
 #EXTGRP:Региональные РФ
 https://live-mordovia24.cdnvideo.ru/mordovia24/streamtr/playlist.m3u8
@@ -3011,9 +3008,6 @@ http://a0925677.xsph.ru/hls/zabava/region/OMSK/CH_OMSKTVHD.m3u8
 #EXTINF:-1 tvg-name="Оплот ТВ Донецк" tvg-logo="https://avatars.mds.yandex.net/i?id=b298b92731dd2e2335bbe03e339217daa3c9ef58-9289753-images-thumbs&n=13" group-title="Региональные РФ", Оплот ТВ Донецк
 #EXTGRP:Региональные РФ
 http://192.162.64.99:4000/play/a06k/index.m3u8
-#EXTINF:-1 tvg-name="Оплот ТВ 2 Донецк" tvg-logo="https://avatars.mds.yandex.net/i?id=4ff43c3298403a5499bdc16f2c1c619a8b25b8e6-4531115-images-thumbs&n=13" group-title="Региональные РФ", Оплот ТВ 2 Донецк
-#EXTGRP:Региональные РФ
-http://31.133.36.244:8000/24
 #EXTINF:-1 tvg-id="ort-planeta-orenburg" tvg-name="ОРТ Планета" tvg-logo="http://epg.one/img/5558.png" group-title="Региональные РФ", ОРТ Планета
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -3307,10 +3301,6 @@ http://tv.tuva.ru/tuva24/index.m3u8
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://a0925677.xsph.ru/hls/zabava/region/UFA/CH_TUGANTEL.m3u8
-#EXTINF:-1 tvg-name="Туринская телекомпания Вектор" tvg-logo="https://avatars.mds.yandex.net/i?id=12614f382268af07983a17d51de268c70865cd62-4011423-images-thumbs&n=13" group-title="Региональные РФ", Туринская телекомпания Вектор
-#EXTGRP:Региональные РФ
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://a0925677.xsph.ru/hls/zabava/region/EKT/CH_VEKTORHD720_TRNSK.m3u8
 #EXTINF:-1 tvg-name="Тында ТВ" tvg-logo="https://avatars.mds.yandex.net/i?id=da0751661eda948f26c7a35893e65701c46272e7-5843118-images-thumbs&n=13" group-title="Региональные РФ", Тында ТВ
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
