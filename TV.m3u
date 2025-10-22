@@ -2942,7 +2942,7 @@ http://live-vestinn.cdnvideo.ru/vestinn/nn24/playlist.m3u8
 http://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="nnt" tvg-name="ННТ Дагестан" tvg-logo="https://avatars.mds.yandex.net/i?id=df93077d8808b00b798f083409f59b06a01e0e0d-11596005-images-thumbs&n=13" group-title="Региональные РФ", ННТ Дагестан
 #EXTGRP:Региональные РФ
-http://185.78.112.46:8077/nnttv_hd/index.m3u8
+http://iptv46.mcx-ix.ru:8077/nnttv_hd/index.m3u8
 #EXTINF:-1 tvg-id="nntv" tvg-name="ННТВ Нижний Новгород" tvg-logo="http://epg.one/img/5706.png" group-title="Региональные РФ", ННТВ Нижний Новгород
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -3011,7 +3011,7 @@ https://live.overtime26.ru/app/potok/playlist.m3u8
 http://a0925677.xsph.ru/hls/zabava/region/OMSK/CH_OMSKTVHD.m3u8
 #EXTINF:-1 tvg-name="Оплот ТВ Донецк" tvg-logo="https://avatars.mds.yandex.net/i?id=b298b92731dd2e2335bbe03e339217daa3c9ef58-9289753-images-thumbs&n=13" group-title="Региональные РФ", Оплот ТВ Донецк
 #EXTGRP:Региональные РФ
-http://31.133.36.244:8000/23
+http://192.162.64.99:4000/play/a06k/index.m3u8
 #EXTINF:-1 tvg-name="Оплот ТВ 2 Донецк" tvg-logo="https://avatars.mds.yandex.net/i?id=4ff43c3298403a5499bdc16f2c1c619a8b25b8e6-4531115-images-thumbs&n=13" group-title="Региональные РФ", Оплот ТВ 2 Донецк
 #EXTGRP:Региональные РФ
 http://31.133.36.244:8000/24
@@ -3053,7 +3053,7 @@ http://a0925677.xsph.ru/hls/zabava/region/KIROV/CH_1GORODSKOYHD720.m3u8
 http://a0925677.xsph.ru/hls/zabava/region/OMSK/CH_1GORODSKOY.m3u8
 #EXTINF:-1 tvg-id="pervy-krymsky" tvg-name="Первый Крымский" tvg-logo="https://cdn.epg.one/img/2472.png" group-title="Региональные РФ", Первый Крымский
 #EXTGRP:Региональные РФ
-http://178.219.160.169:8880/23/index.m3u8
+http://192.162.64.99:4000/play/a068/index.m3u8
 #EXTINF:-1 tvg-id="pervy-oblastnoy-orel" tvg-name="Первый областной Орел" tvg-logo="https://avatars.mds.yandex.net/i?id=111dbe3f721ba45c688976d444142329_sr-4277590-images-thumbs&n=13" group-title="Региональные РФ", Первый областной Орел
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -3202,7 +3202,7 @@ http://a0925677.xsph.ru/hls/zabava/region/SUR/CH_SURGUT24HD.m3u8
 http://sitv.ru/hls/s86.m3u8
 #EXTINF:-1 tvg-id="tavria" tvg-name="Таврия Херсон" tvg-logo="https://iptvx.one/picons/tavria.png" group-title="Региональные РФ", Таврия Херсон
 #EXTGRP:Региональные РФ
-http://tavr.mediacdn.ru/cdn/tavria/playlist_sdhigh.m3u8
+http://192.162.64.99:5000/play/a03n/index.m3u8
 #EXTINF:-1 tvg-name="Таганрог 5" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/1/1b/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%8D%D1%84%D0%B8%D1%80.png/revision/latest/scale-to-width-down/220?cb=20220318093152&path-prefix=ru" group-title="Региональные РФ", Таганрог 5
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
