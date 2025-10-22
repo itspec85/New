@@ -3495,6 +3495,28 @@ https://restreamer.livetv.az/memfs/a6cecb21-e17c-4f32-8854-0b72d57211d8.m3u8
 
 
 
+#EXTINF:-1 tvg-name="APA TV" tvg-logo="https://avatars.mds.yandex.net/i?id=a070309ffadd3ca9e285c0d92165281c9572cde8-16467784-images-thumbs&n=13" group-title="Азербайджан", APA TV
+#EXTGRP:Азербайджан
+http://rtmp.apa.tv/@pagroup!23.m3u8
+#EXTINF:-1 tvg-name="ARI Music" tvg-logo="https://avatars.mds.yandex.net/i?id=8927ff9f08530fa3fcf90f9cb65e65e2557284bf-10650891-images-thumbs&n=13" group-title="Азербайджан", ARI Music
+#EXTGRP:Азербайджан
+https://cdn-arimusic.yayin.com.tr/arimusic/arimusic/playlist.m3u8
+#EXTINF:-1 tvg-name="Sirvan TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_l286LbWNbV1RlYFmTEXsqe0t2DTa9g5xJNi1SINCGWVQ=s160-c-k-c0x00ffffff-no-rj" group-title="Азербайджан", Sirvan TV
+#EXTGRP:Азербайджан
+https://a8.radyotelekom.com.tr:3326/hybrid/play.m3u8
+#EXTINF:-1 tvg-name="Könül TV Music" tvg-logo="https://avatars.mds.yandex.net/i?id=35d4d6e66826ece1a7c35917675f30e349bcdc6e-4087837-images-thumbs&n=13" group-title="Азербайджан", Könül TV Music
+#EXTGRP:Азербайджан
+https://cdn4.yayin.com.tr/bakixebertv/video.m3u8
+#EXTINF:-1 tvg-name="Music Hit AZ" tvg-logo="https://pbs.twimg.com/profile_images/690541902823833600/7N-iqryQ_200x200.png" group-title="Азербайджан", Music Hit AZ
+#EXTGRP:Азербайджан
+https://cdn4.yayin.com.tr/musicazhit/video.m3u8
+#EXTINF:-1 tvg-name="Music Plus AZ" tvg-logo="https://avatars.mds.yandex.net/i?id=9e8fbe48876bcd4df982e71e9a67d54cb110362f-11464670-images-thumbs&n=13" group-title="Азербайджан", Music Plus AZ
+#EXTGRP:Азербайджан
+https://cdn4.yayin.com.tr/baltvmusic/video.m3u8
+#EXTINF:-1 tvg-name="Now Play TV" tvg-logo="https://avatars.mds.yandex.net/i?id=78b143e54d36353ecd13c17df6271bc1c005b871-5234651-images-thumbs&n=13" group-title="Азербайджан", Now Play TV
+#EXTGRP:Азербайджан
+https://cdn18.yayin.com.tr/nowplay/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="belarus1" tvg-name="Беларусь 1 HD" tvg-logo="http://epg.one/img/2538.png" group-title="Беларусь", Беларусь 1 HD
 #EXTGRP:Беларусь
 http://a0925677.xsph.ru/hls/blrus/CH_BELARUS1HD.m3u8
