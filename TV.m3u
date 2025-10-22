@@ -3851,7 +3851,7 @@ http://cdn10.live-tv.od.ua:8081/hrpl/720p/playlist.m3u8
 https://ext.cdn.nashnet.tv/228.0.0.122/index.m3u8
 #EXTINF:-1 tvg-id="rada-ua" tvg-name="Рада" tvg-logo="http://epg.one/img/2118.png" group-title="Украина", Рада
 #EXTGRP:Украина
-http://95.67.12.89:9018
+https://ext.cdn.nashnet.tv/228.0.0.24/index.m3u8
 #EXTINF:-1 tvg-id="ck1-ua" tvg-name="СК1" tvg-logo="http://epg.one/img/2123.png" group-title="Украина", СК1
 #EXTGRP:Украина
 http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt720p/playlist.m3u8
@@ -3864,12 +3864,9 @@ http://ott.columbus.te.ua/ternopil1/index.m3u8
 #EXTINF:-1 tvg-id="tet-ua" tvg-name="ТЕТ" tvg-logo="http://epg.one/img/2171.png" group-title="Украина", ТЕТ
 #EXTGRP:Украина
 https://iptv.prosto.tv/ch7/video.m3u8
-#EXTINF:-1 tvg-name="ТIС ТВ" tvg-logo="https://avatars.mds.yandex.net/i?id=e9d76d0ada2906a2a66cdd8b4be05b92e4786536-10311550-images-thumbs&n=13" group-title="Украина", ТIС ТВ
-#EXTGRP:Украина
-http://cdn10.live-tv.od.ua:8081/riood/tisod504/playlist.m3u8
 #EXTINF:-1 tvg-id="ua-pershy" tvg-name="UA:Перший" tvg-logo="http://epg.one/img/2147.png" group-title="Украина", UA:Перший
 #EXTGRP:Украина
-http://193.107.168.98:7006/play/526/index.m3u8
+https://ext.cdn.nashnet.tv/228.0.2.45/index.m3u8
 #EXTINF:-1 tvg-name="Freedom" tvg-logo="http://epg.one/img/8057.png" group-title="Украина", Freedom
 #EXTGRP:Украина
 https://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8
