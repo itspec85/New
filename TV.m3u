@@ -3425,13 +3425,10 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-24.m
 http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:BB:EE:72&stream=100390&extension=ts
 #EXTINF:-1 tvg-id="arb-gunes" tvg-name="ARB Gunes HD" tvg-logo="http://epg.one/img/2552.png" group-title="Азербайджан", ARB Gunes HD
 #EXTGRP:Азербайджан
-http://rhsbjv7k.tvclub.xyz/iptv/VCGVCRSZW9BLY4/2189/index.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8
 #EXTINF:-1 tvg-name="ATV AZ" tvg-logo="https://avatars.mds.yandex.net/i?id=0951c25562181a03d31e9b44d854fb138a4a2001-8539554-images-thumbs&n=13" group-title="Азербайджан", ATV AZ
 #EXTGRP:Азербайджан
 https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920.m3u8
-#EXTINF:-1 tvg-name="ATV Sinema" tvg-logo="https://yt3.ggpht.com/_TslKcfA8VwQh4Q3CxFAiaRWeZivx7LSRtADmoC3QIYuQT7dOtcAhg1uJ4lrztTQ4HfEJIXL=s88-c-k-c0x00ffffff-no-rj" group-title="Азербайджан", ATV Sinema
-#EXTGRP:Азербайджан
-https://tv.mobyservice.ru/ATV/SINEMA/index.m3u8
 #EXTINF:-1 tvg-name="Ayaz TV" tvg-logo="https://vipotv.com/wp-content/uploads/2024/07/ayaz-tv-izle-vipotv.png" group-title="Азербайджан", Ayaz TV
 #EXTGRP:Азербайджан
 https://janya-ayaztv.vgcdn.net/ptnr-Vipo%20TV/title-Ayaz_TV/v1/vglive-sk-934820/AyazTV_1500k.m3u8
@@ -3440,7 +3437,7 @@ https://janya-ayaztv.vgcdn.net/ptnr-Vipo%20TV/title-Ayaz_TV/v1/vglive-sk-934820/
 http://live.azstartv.com/azstar/azstar_1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="aztv" tvg-name="AzTV" tvg-logo="http://epg.one/img/2134.png" group-title="Азербайджан", AzTV
 #EXTGRP:Азербайджан
-http://str.yodacdn.net/aztv/index.m3u8
+http://favoritest25.shop:8080/635fundaorlu/937fundaorlu/197037
 #EXTINF:-1 tvg-name="Baku TV AZ" tvg-logo="http://epg.one/img/9144.png" group-title="Азербайджан", Baku TV AZ
 #EXTGRP:Азербайджан
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/baku-tv.m3u8
@@ -3474,9 +3471,6 @@ https://str.yodacdn.net/medeniyyet/index.m3u8
 #EXTINF:-1 tvg-name="Musi̇c Azerbaycan" tvg-logo="https://i.postimg.cc/PJbFG4MH/In-Shot-20250209-195400220.png" group-title="Азербайджан", Musi̇c Azerbaycan
 #EXTGRP:Азербайджан
 https://cdn-sinematv.yayin.com.tr/sinematv/sinematv/playlist.m3u8
-#EXTINF:-1 tvg-name="Real TV" tvg-logo="https://avatars.mds.yandex.net/get-entity_search/1220991/1001033896/S104x104FitScale_2x" group-title="Азербайджан", Real TV
-#EXTGRP:Азербайджан
-https://tv.mobyservice.ru/Real/index.m3u8
 #EXTINF:-1 tvg-name="Retro TV AZ" tvg-logo="https://avatars.mds.yandex.net/i?id=2a00000179ed9f0efd3d05aae40782ce96a8-3756503-images-thumbs&n=13" group-title="Азербайджан", Retro TV AZ
 #EXTGRP:Азербайджан
 https://a8.radyotelekom.com.tr:3706/stream/play.m3u8
@@ -3488,7 +3482,7 @@ https://cdn-sonumidtv.yayin.com.tr/sonumidtv/sonumidtv/playlist.m3u8
 http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:BB:EE:72&stream=31394&extension=ts
 #EXTINF:-1 tvg-name="TMB TV" tvg-logo="https://cdn.epg.one/img/8714.png" group-title="Азербайджан", TMB TV
 #EXTGRP:Азербайджан
-https://tv.mobyservice.ru/TMB/AZ/tracks-v1a1/mono.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/tmb-azerbaycan.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-name="Vi̇layət TV" tvg-logo="https://i.postimg.cc/KYvDsfdB/logo.png" group-title="Азербайджан", Vi̇layət TV
 #EXTGRP:Азербайджан
 https://nl.livekadeh.com/hls2/vilayet_high.m3u8
@@ -3560,7 +3554,7 @@ http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:BB:EE:72&stream=45338&extension
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
 #EXTINF:-1 tvg-id="bloomberg-ht-tr" tvg-name="Bloomberg HT TR" tvg-logo="http://epg.one/img/2613.png" group-title="Турция", Bloomberg HT TR
 #EXTGRP:Турция
-https://bloomberght-live.daioncdn.net/bloomberght/bloomberght.m3u8
+https://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8
 #EXTINF:-1 tvg-name="Can TV" tvg-logo="https://yt3.ggpht.com/a/AATXAJxQje5n5vTBcpygj-LvPVxQ2PGSK_2KAuiLvg=s900-c-k-c0xffffffff-no-rj-mo" group-title="Турция", Can TV
 #EXTGRP:Турция
 http://canbroadcast.com:7000/canlican/tv.m3u8
@@ -3569,7 +3563,7 @@ http://canbroadcast.com:7000/canlican/tv.m3u8
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
 #EXTINF:-1 tvg-id="dmax-tr" tvg-name="DMAX" tvg-logo="http://epg.one/img/2602.png" group-title="Турция", DMAX
 #EXTGRP:Турция
-https://dogus-live.daioncdn.net/dmax/dmax.m3u8
+http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=170683&extension=ts
 #EXTINF:-1 tvg-name="Dost TV TR" tvg-logo="http://epg.one/img/3852.png" group-title="Турция", Dost TV TR
 #EXTGRP:Турция
 https://dost.stream.emsal.im/tv/live.m3u8
@@ -3599,7 +3593,7 @@ https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 #EXTINF:-1 tvg-id="kanal-d-hd" tvg-name="Kanal D" tvg-logo="http://epg.one/img/2605.png" group-title="Турция", Kanal D
 #EXTGRP:Турция
-https://demiroren-live.daioncdn.net/kanald/kanald_720p.m3u8
+https://kdlive.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
 #EXTINF:-1 tvg-name="Kanal S TR" tvg-logo="http://epg.one/img/2612.png" group-title="Турция", Kanal S TR
 #EXTGRP:Турция
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/kanal-s.m3u8
@@ -3623,25 +3617,19 @@ https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist.m3u8
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="show-hd-tr" tvg-name="Show TV TR" tvg-logo="http://epg.one/img/2608.png" group-title="Турция", Show TV TR
 #EXTGRP:Турция
-https://ciner-live.daioncdn.net/showtv/showtv.m3u8
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shturk.m3u8
 #EXTINF:-1 tvg-id="star-tv-hd-tr" tvg-name="Star TV HD TR" tvg-logo="http://epg.one/img/2667.png" group-title="Турция", STAR TV HD TR
 #EXTGRP:Турция
-http://dogus-live.daioncdn.net/startv/startv_720p.m3u8
+https://dogus.daioncdn.net/startv/startv_720p.m3u8?app=startv_web
 #EXTINF:-1 tvg-name="Super Türk" tvg-logo="https://i.postimg.cc/QCMn4kZC/Fqf-J37n-Xs-AAD9-2.png" group-title="Турция", Super Türk
 #EXTGRP:Турция
 http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
-#EXTINF:-1 tvg-name="Super Türk Max" tvg-logo="https://i.postimg.cc/7YkNZnW2/In-Shot-20250210-104353828.png" group-title="Турция", Super Türk Max
-#EXTGRP:Турция
-http://75.119.144.48/SUPERTURK_MAX_HD/index.m3u8
 #EXTINF:-1 tvg-name="TBMM" tvg-logo="https://avatars.mds.yandex.net/i?id=4573b709670ca587c35226ccc6031096df760058-5537820-images-thumbs&n=13" group-title="Турция", TBMM
 #EXTGRP:Турция
 https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
 #EXTINF:-1 tvg-name="Teve 2 HD" tvg-logo="http://epg.one/img/2607.png" group-title="Турция", Teve 2 HD TR
 #EXTGRP:Турция
 https://live.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
-#EXTINF:-1 tvg-id="tlc-tr" tvg-name="TLC TR" tvg-logo="http://epg.one/img/3968.png" group-title="Турция", TLC TR
-#EXTGRP:Турция
-https://dogus-live.daioncdn.net/tlc/tlc.m3u8
 #EXTINF:-1 tvg-id="trt-1-hd" tvg-name="TRT 1 HD" tvg-logo="http://epg.one/img/2598.png" group-title="Турция", TRT 1 HD TR
 #EXTGRP:Турция
 http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:BB:EE:72&stream=2837&extension=ts
@@ -3653,7 +3641,7 @@ http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:BB:EE:72&stream=29026&extension
 https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="TRT Belgesel TR" tvg-logo="http://epg.one/img/3907.png" group-title="Турция", TRT Belgesel TR
 #EXTGRP:Турция
-http://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+https://tv-trtbelgesel-dai.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="trt-cocuk-tr" tvg-name="TRT Çocuk [TR]" tvg-logo="http://epg.one/img/3896.png" group-title="Турция", TRT Çocuk TR
 #EXTGRP:Турция
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
