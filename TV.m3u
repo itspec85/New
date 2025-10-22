@@ -2798,13 +2798,13 @@ http://a0925677.xsph.ru/hls/zabava/region/KLGR/CH_KASKAD.m3u8
 http://a0925677.xsph.ru/hls/zabava/region/BUL/CH_KATUN24.m3u8
 #EXTINF:-1 tvg-name="Кизилюрт ТВ" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_lUI75wcWxo86V29FXp4oToLpU5bw9FkloztTOSgFw=s88-c-k-c0x00ffffff-no-rj" group-title="Региональные РФ", Кизилюрт ТВ
 #EXTGRP:Региональные РФ
-http://185.78.112.46:8077/KTV/index.m3u8
+http://iptv46.mcx-ix.ru:8077/KTV/index.m3u8
 #EXTINF:-1 tvg-id="kolyma-plus" tvg-name="Колыма-Плюс Магадан" tvg-logo="https://iptvx.one/picons/kolyma-plus.png" group-title="Региональные РФ", Колыма-Плюс Магадан
 #EXTGRP:Региональные РФ
 https://tw2ywfm7jbp.a.trbcdn.net/livemaster/w91n1qa6dh_kolymaplus_live/playlist.m3u8
 #EXTINF:-1 tvg-name="Компас ТВ Каменск-Уральский" tvg-logo="https://static.mts.ru/dpc_upload/contents/482/350x350/epg759.png" group-title="Региональные РФ", Компас ТВ Каменск-Уральский
 #EXTGRP:Региональные РФ
-rtmp://89.107.113.89/live/kamensktv
+http://46.48.96.88:81/udp/239.255.3.172:1234
 #EXTINF:-1 tvg-name="Комсомольское время 6ТВ (Хабаровск)" tvg-logo="https://avatars.mds.yandex.net/i?id=1719a14d643469ac48fb538b96b914e411f92319-9293412-images-thumbs&n=13" group-title="Региональные РФ", Комсомольское время 6ТВ (Хабаровск)
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -2823,8 +2823,7 @@ http://live-krtv.cdnvideo.ru/krtv/krtv.sdp/playlist.m3u8
 http://iptv.crimea.net:8787
 #EXTINF:-1 tvg-id="ktv-luch" tvg-name="КТВ-Луч (Сызрань)" tvg-logo="https://epgx.club/picons/ktv-luch.png" group-title="Региональные РФ", КТВ-Луч (Сызрань)
 #EXTGRP:Региональные РФ
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://a0925677.xsph.ru/hls/zabava/region/SAMARA/CH_KTVLUCH.m3u8
+https://mow-9-ll.facecast.io:8443/hls_re/c631505e4fd6d14665c0.m3u8
 #EXTINF:-1 tvg-id="kuban-24" tvg-name="Кубань 24" tvg-logo="http://epg.one/img/6027.png" group-title="Региональные РФ", Кубань 24 орбита
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
