@@ -3450,6 +3450,12 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-
 #EXTINF:-1 tvg-id="cbc-az" tvg-name="CBC AZ" tvg-logo="http://epg.one/img/2158.png" group-title="Азербайджан", CBC AZ
 #EXTGRP:Азербайджан
 https://stream.cbctv.az:5443/LiveApp/streams/cbctv.m3u8
+#EXTINF:-1 tvg-name="Cine1" tvg-logo="https://avatars.mds.yandex.net/i?id=fe2b53d78688e440e797a6bf11dd56fb38a71fe0-10199799-images-thumbs&n=13" group-title="Азербайджан", Cine1
+#EXTGRP:Азербайджан
+https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
+#EXTINF:-1 tvg-name="Cine6 Max" tvg-logo="https://avatars.mds.yandex.net/i?id=83904fc824e445a94e47584a05456b061cd54183-8972142-images-thumbs&n=13" group-title="Азербайджан", Cine6 Max
+#EXTGRP:Азербайджан
+https://cinemax6.cinemax6.com:3118/stream/play.m3u8
 #EXTINF:-1 tvg-name="Dünya TV" tvg-logo="https://i.imgur.com/A3yaU4J.png" group-title="Азербайджан", Dünya TV
 #EXTGRP:Азербайджан
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/dunya-tv.m3u8
@@ -3492,6 +3498,9 @@ https://cdn18.yayin.com.tr/nowplay/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Retro TV AZ" tvg-logo="https://avatars.mds.yandex.net/i?id=2a00000179ed9f0efd3d05aae40782ce96a8-3756503-images-thumbs&n=13" group-title="Азербайджан", Retro TV AZ
 #EXTGRP:Азербайджан
 https://a8.radyotelekom.com.tr:3706/stream/play.m3u8
+#EXTINF:-1 tvg-name="Sinema Keyfi" tvg-logo="https://avatars.mds.yandex.net/i?id=7d10b7a0e57074eb551ada8c538ee52d0f33f86a-5220441-images-thumbs&n=13" group-title="Азербайджан", Sinema Keyfi
+#EXTGRP:Азербайджан
+https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Sirvan TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_l286LbWNbV1RlYFmTEXsqe0t2DTa9g5xJNi1SINCGWVQ=s160-c-k-c0x00ffffff-no-rj" group-title="Азербайджан", Sirvan TV
 #EXTGRP:Азербайджан
 https://a8.radyotelekom.com.tr:3326/hybrid/play.m3u8
