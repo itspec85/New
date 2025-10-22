@@ -642,6 +642,9 @@ https://ucdn.beetv.kz/bpk-tv/000005322/tve/index.m3u8
 #EXTINF:-1 tvg-id="atyray" tvg-name="Atyray" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/d/df/Atyrau.png/revision/latest?cb=20200225165956&path-prefix=ru" group-title="Казахстан", Atyray
 #EXTGRP:Казахстан
 https://ucdn.beetv.kz/bpk-tv/000001570/tve/index.m3u8
+#EXTINF:-1 tvg-name="Bilim TV" tvg-logo="https://avatars.mds.yandex.net/i?id=3ed21fea436431728b003aaa134b35c1d19ad599-16489618-images-thumbs&n=13" group-title="Казахстан", Bilim TV
+#EXTGRP:Казахстан
+http://sc.id-tv.kz/ElArna.m3u8
 #EXTINF:-1 tvg-id="ertis" tvg-name="Ertis" tvg-logo="https://avatars.mds.yandex.net/i?id=2a00000179f624829d76604fcc2ee4429836-4012435-images-thumbs&n=13" group-title="Казахстан", Ertis
 #EXTGRP:Казахстан
 https://stream.kaztrk.kz/regional/pavlodartv/index.m3u8
@@ -990,6 +993,9 @@ https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 #EXTINF:-1 tvg-id="rzhd-tv" tvg-name="РЖД ТВ" tvg-logo="http://epg.one/img/2471.png" group-title="Познавательные", РЖД ТВ
 #EXTGRP:Познавательные
 http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="rybalka" tvg-name="Рибалка" tvg-logo="http://epg.one/img/2950.png" group-title="Познавательные", Рибалка HD
+#EXTGRP:Познавательные
+https://176.116.105.82/Rybalka_HD/index.m3u8
 #EXTINF:-1 tvg-id="rodnoy-kanal" tvg-name="Родной канал HD" tvg-logo="http://epg.one/img/7626.png" group-title="Познавательные", Родной канал HD
 #EXTGRP:Познавательные
 https://n1.slavmir.tv/live/slavmir/chunklist.m3u8
@@ -1945,6 +1951,9 @@ http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:BB:EE:72&stream=3028&extension=
 #EXTINF:-1 tvg-name="Billiard TV" tvg-logo="https://avatars.mds.yandex.net/i?id=b42dfcc65e0421933184166140afd83040f5ba1b-5369205-images-thumbs&n=13" group-title="Спорт", Billiard TV
 #EXTGRP:Спорт
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65df0cff66eec8000897b3a4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1cc775-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=36e4c683-680e-486f-91f0-ce1f0f88c4b6
+#EXTINF:-1 tvg-id="canal-pl-sport2-cz" tvg-name="Canal+ Sport 2 [CZ]" tvg-logo="https://epgx.club/picons/canal-pl-sport-cz.png" group-title="Спорт", Canal+ Sport 2 CZ
+#EXTGRP:Спорт
+http://185.236.230.212:9982/play/a0b9
 #EXTINF:-1 tvg-id="cbc-sport" tvg-name="CBC Sport" tvg-logo="http://epg.one/img/2636.png" group-title="Спорт", CBC Sport AZ
 #EXTGRP:Спорт
 http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:BB:EE:72&stream=31400&extension=ts
