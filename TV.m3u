@@ -1417,6 +1417,9 @@ https://ucdn.beetv.kz/bpk-tv/000000284/tve/index.m3u8
 #EXTINF:-1 tvg-name="IPTVPLAY МультСказки" tvg-logo="https://i122.fastpic.org/big/2024/0112/65/b20ebb09af08ef55dbdffa919a047c65.png" group-title="Детские", IPTVPLAY МультСказки
 #EXTGRP:Детские
 http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 tvg-id="jimjam" tvg-name="JimJam" tvg-logo="http://epg.one/img/494.png" group-title="Детские", Jim Jam
+#EXTGRP:Детские
+http://178.217.72.72/JimJam/index.m3u8
 #EXTINF:-1 tvg-id="kidstv" tvg-name="Kids TV HD" tvg-logo="http://epg.one/img/9025.png" group-title="Детские", Kids TV HD
 #EXTGRP:Детские
 #EXTVLCOPT:http-user-agent=mediacdn
@@ -1523,6 +1526,9 @@ http://tvip.btk.teleos.ru:8081/chid461/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="kinoxit" tvg-name="Кинохит" tvg-logo="http://epg.one/img/542.png" group-title="Кино", КИНОХИТ
 #EXTGRP:Кино
 http://87.246.54.249:8085/KinoHit/index.m3u8
+#EXTINF:-1 tvg-id="komedijnoe-hd" tvg-name="Комедийное HD" tvg-logo="http://epg.one/img/138.png" group-title="Кино", Комедийное HD
+#EXTGRP:Кино
+http://178.217.72.72/komediynoe/index.m3u8
 #EXTINF:-1 tvg-name="Любимое индийское кино" tvg-logo="https://yootv.online/images/logo-channel/lyubimoe-indijskoe-kino-tv.png" group-title="Кино", Любимое индийское кино
 #EXTGRP:Кино
 https://autopilot.catcast.tv/content/41596/index.m3u8
@@ -1550,6 +1556,9 @@ https://mhd128.iptv2022.com/p/fxKfak8iCqieZJ_5vHiH3Q,1761339611/streaming/nashem
 #EXTINF:-1 tvg-id="nashe-novoe-kino" tvg-name="Наше новое кино" tvg-logo="http://epg.one/img/485.png" group-title="Кино", Наше новое кино
 #EXTGRP:Кино
 http://158.101.222.193:88/georgia_play.php?id=nashanovoekino
+#EXTINF:-1 tvg-id="nashehd" tvg-name="Наше HD" tvg-logo="http://epg.one/img/2018.png" group-title="Кино", Наше HD
+#EXTGRP:Кино
+http://178.217.72.72/nashekrutoe/index.m3u8
 #EXTINF:-1 tvg-id="nst" tvg-name="НСТ" tvg-logo="http://epg.one/img/518.png" group-title="Кино", НСТ
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000000078/tve/index.m3u8
@@ -1567,6 +1576,9 @@ http://catchup.videoline.ru/asvtv/index.m3u8
 #EXTINF:-1 tvg-id="pobeda" tvg-name="Победа" tvg-logo="http://epg.one/img/2447.png" group-title="Кино", Победа
 #EXTGRP:Кино
 https://streaming101.goodstream.cyou/live/43-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1 tvg-id="premialnoe-hd" tvg-name="Премиальное HD" tvg-logo="http://epg.one/img/2732.png" group-title="Кино", Премиальное HD
+#EXTGRP:Кино
+http://178.217.72.72/kinopremium/index.m3u8
 #EXTINF:-1 tvg-id="premium-kino-kz" tvg-name="Премиум кино KZ" tvg-logo="https://iptvx.one/picons/premium-kino-kz.png" group-title="Кино", Премиум кино KZ
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000008491/tve/index.m3u8
