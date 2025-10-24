@@ -1861,6 +1861,57 @@ https://ucdn.beetv.kz/bpk-tv/000004375/tve/index.m3u8
 
 
 
+#EXTINF:-1 tvg-id="bcu-action" tvg-name="BCU Action HD" tvg-logo="http://epg.one/img/4748.png" group-title="Кинозал", BCU Action HD
+#EXTGRP:Кинозал
+http://178.217.72.72/BCUActionHD/index.m3u8
+#EXTINF:-1 tvg-id="bcu-catastrophe" tvg-name="BCU Catastrophe HD" tvg-logo="http://epg.one/img/4749.png" group-title="Кинозал", BCU Catastrophe HD
+#EXTGRP:Кинозал
+http://178.217.72.72/BCUCatastropheHD/index.m3u8
+#EXTINF:-1 tvg-id="bcu-comedy" tvg-name="BCU Comedy HD" tvg-logo="http://epg.one/img/5515.png" group-title="Кинозал", BCU Comedy HD
+#EXTGRP:Кинозал
+http://178.217.72.72/BCUComedyHD/index.m3u8
+#EXTINF:-1 tvg-id="bcu-fantastic" tvg-name="BCU Fantastic HD" tvg-logo="http://epg.one/img/4753.png" group-title="Кинозал", BCU Fantastic HD
+#EXTGRP:Кинозал
+http://178.217.72.72/BCUFantasticHD/index.m3u8
+#EXTINF:-1 tvg-id="bcu-kinorating" tvg-name="BCU Kinorating HD" tvg-logo="http://epg.one/img/4758.png" group-title="Кинозал", BCU Kinorating HD
+#EXTGRP:Кинозал
+http://178.217.72.72/BCUKinoratingHD/index.m3u8
+#EXTINF:-1 tvg-id="bcu-romantic" tvg-name="BCU Romantic HD" tvg-logo="http://epg.one/img/4761.png" group-title="Кинозал", BCU Romantic HD
+#EXTGRP:Кинозал
+http://178.217.72.72/BCURomanticHD/index.m3u8
+#EXTINF:-1 tvg-id="bcu-stars" tvg-name="BCU Stars HD" tvg-logo="http://epg.one/img/4765.png" group-title="Кинозал", BCU Stars HD
+#EXTGRP:Кинозал
+http://178.217.72.72/BCUStarsHD/index.m3u8
+#EXTINF:-1 tvg-id="bcu-vhs" tvg-name="BCU VHS HD" tvg-logo="http://epg.one/img/4763.png" group-title="Кинозал", BCU VHS HD
+#EXTGRP:Кинозал
+http://178.217.72.72/BCUVHSHD/index.m3u8
+#EXTINF:-1 tvg-id="cineman" tvg-name="CineMan" tvg-logo="http://epg.one/img/4682.png" group-title="Кинозал", CineMan
+#EXTGRP:Кинозал
+http://178.217.72.72/CineMan/index.m3u8
+#EXTINF:-1 tvg-id="cineman-comedy" tvg-name="CineMan Комедия" tvg-logo="http://epg.one/img/4689.png" group-title="Кинозал", CineMan Комедия
+#EXTGRP:Кинозал
+http://178.217.72.72/CineMan_Comedy/index.m3u8
+#EXTINF:-1 tvg-id="cineman-action" tvg-name="CineMan Action" tvg-logo="http://epg.one/img/4684.png" group-title="Кинозал", CineMan Action
+#EXTGRP:Кинозал
+http://178.217.72.72/CineMan_Action/index.m3u8
+#EXTINF:-1 tvg-id="cineman-marvel" tvg-name="CineMan Marvel" tvg-logo="http://epg.one/img/4687.png" group-title="Кинозал", CineMan Marvel
+#EXTGRP:Кинозал
+http://178.217.72.72/CineMan_Marvel/index.m3u8
+#EXTINF:-1 tvg-id="cineman-melodrama" tvg-name="CineMan Melodrama" tvg-logo="http://epg.one/img/4686.png" group-title="Кинозал", CineMan Melodrama
+#EXTGRP:Кинозал
+http://178.217.72.72/CineMan_Melodrama/index.m3u8
+#EXTINF:-1 tvg-id="cineman-thriller" tvg-name="CineMan Thriller" tvg-logo="http://epg.one/img/4685.png" group-title="Кинозал", CineMan Thriller
+#EXTGRP:Кинозал
+http://178.217.72.72/CineMan_Thriller/index.m3u8
+#EXTINF:-1 tvg-id="cineman-top" tvg-name="CineMan Top" tvg-logo="http://epg.one/img/4683.png" group-title="Кинозал", CineMan Top
+#EXTGRP:Кинозал
+http://178.217.72.72/CineMan_Top/index.m3u8
+#EXTINF:-1 tvg-id="cineman-vhs" tvg-name="CineMan VHS" tvg-logo="http://epg.one/img/4690.png" group-title="Кинозал", CineMan VHS
+#EXTGRP:Кинозал
+http://178.217.72.72/CineMan_VHS/index.m3u8
+
+
+
 #EXTINF:-1 tvg-id="belarus5" tvg-name="Беларусь 5 HD" tvg-logo="http://epg.one/img/2541.png" group-title="Спорт", Беларусь 5 HD
 #EXTGRP:Спорт
 https://edge50.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
