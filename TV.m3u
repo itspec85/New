@@ -2035,6 +2035,9 @@ http://195.64.140.147:10111/111
 #EXTINF:-1 tvg-id="okko-sport-2" tvg-name="Окко.Прайм Спорт" tvg-logo="http://epg.one/img/9324.png" group-title="Спорт", Окко Прайм Спорт
 #EXTGRP:Спорт
 http://185.221.213.254:8080/Okko/index.m3u8
+#EXTINF:-1 tvg-id="okko-football" tvg-name="Окко.Футбол" tvg-logo="http://epg.one/img/9325.png" group-title="Спорт", Окко Футбол HD
+#EXTGRP:Спорт
+http://50.7.28.226/9170/index.m3u8
 #EXTINF:-1 tvg-id="start" tvg-name="Старт" tvg-logo="http://epg.one/img/2530.png" group-title="Спорт", СТАРТ
 #EXTGRP:Спорт
 http://iptv46.mcx-ix.ru:8077/start_hd/index.m3u8
