@@ -3505,9 +3505,6 @@ http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:BB:EE:72&stream=100390&extensio
 #EXTINF:-1 tvg-id="arb-gunes" tvg-name="ARB Gunes HD" tvg-logo="http://epg.one/img/2552.png" group-title="Азербайджан", ARB Gunes HD
 #EXTGRP:Азербайджан
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8
-#EXTINF:-1 tvg-name="ARI Music" tvg-logo="https://avatars.mds.yandex.net/i?id=8927ff9f08530fa3fcf90f9cb65e65e2557284bf-10650891-images-thumbs&n=13" group-title="Азербайджан", ARI Music
-#EXTGRP:Азербайджан
-https://cdn-arimusic.yayin.com.tr/arimusic/arimusic/playlist.m3u8
 #EXTINF:-1 tvg-name="ATV AZ" tvg-logo="https://avatars.mds.yandex.net/i?id=0951c25562181a03d31e9b44d854fb138a4a2001-8539554-images-thumbs&n=13" group-title="Азербайджан", ATV AZ
 #EXTGRP:Азербайджан
 https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920.m3u8
@@ -3526,12 +3523,6 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-
 #EXTINF:-1 tvg-id="cbc-az" tvg-name="CBC AZ" tvg-logo="http://epg.one/img/2158.png" group-title="Азербайджан", CBC AZ
 #EXTGRP:Азербайджан
 https://stream.cbctv.az:5443/LiveApp/streams/cbctv.m3u8
-#EXTINF:-1 tvg-name="Cine1" tvg-logo="https://avatars.mds.yandex.net/i?id=fe2b53d78688e440e797a6bf11dd56fb38a71fe0-10199799-images-thumbs&n=13" group-title="Азербайджан", Cine1
-#EXTGRP:Азербайджан
-https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
-#EXTINF:-1 tvg-name="Cine6 Max" tvg-logo="https://avatars.mds.yandex.net/i?id=83904fc824e445a94e47584a05456b061cd54183-8972142-images-thumbs&n=13" group-title="Азербайджан", Cine6 Max
-#EXTGRP:Азербайджан
-https://cinemax6.cinemax6.com:3118/stream/play.m3u8
 #EXTINF:-1 tvg-name="Dünya TV" tvg-logo="https://i.imgur.com/A3yaU4J.png" group-title="Азербайджан", Dünya TV
 #EXTGRP:Азербайджан
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/dunya-tv.m3u8
@@ -3667,6 +3658,9 @@ http://canbroadcast.com:7000/canlican/tv.m3u8
 #EXTINF:-1 tvg-name="Cine 1" tvg-logo="https://i.ibb.co/SnPFhXS/cnee12.png" group-title="Турция", Cine 1
 #EXTGRP:Турция
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
+#EXTINF:-1 tvg-name="Cine6 Max" tvg-logo="https://avatars.mds.yandex.net/i?id=83904fc824e445a94e47584a05456b061cd54183-8972142-images-thumbs&n=13" group-title="Турция", Cine6 Max
+#EXTGRP:Турция
+https://cinemax6.cinemax6.com:3118/stream/play.m3u8
 #EXTINF:-1 tvg-id="dmax-tr" tvg-name="DMAX" tvg-logo="http://epg.one/img/2602.png" group-title="Турция", DMAX
 #EXTGRP:Турция
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=170683&extension=ts
