@@ -8,6 +8,9 @@ http://a0925677.xsph.ru/hls/DVB-T2/CH_DOMASHNIY-1.m3u8
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://a0925677.xsph.ru/hls/DVB-T2/CH_DOMASHNIY.m3u8
+#EXTINF:-1 tvg-id="domashny" tvg-name="Домашний HD" tvg-logo="http://epg.one/img/304.png" group-title="Россия", Домашний HD
+#EXTGRP:Россия
+http://178.217.72.72/Domashniy/index.m3u8
 #EXTINF:-1 tvg-id="domashny-pl2" tvg-name="Домашний +2" tvg-logo="http://epg.one/img/3010.png" group-title="Россия", Домашний +2
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -181,6 +184,9 @@ http://a0925677.xsph.ru/hls/DVB-T2/CH_FRIDAY-1.m3u8
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://a0925677.xsph.ru/hls/DVB-T2/CH_FRIDAY.m3u8
+#EXTINF:-1 tvg-id="piatnica" tvg-name="Пятница! HD" tvg-logo="http://epg.one/img/2765.png" group-title="Россия", Пятница! HD
+#EXTGRP:Россия
+http://178.217.72.72/Pyatnitsa/index.m3u8
 #EXTINF:-1 tvg-id="piatnica-pl2" tvg-name="Пятница +2" tvg-logo="http://epg.one/img/3016.png" group-title="Россия", Пятница +2
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -241,6 +247,9 @@ http://a0925677.xsph.ru/hls/DVB-T2/CH_RENTV-1.m3u8
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://a0925677.xsph.ru/hls/DVB-T2/CH_RENTV.m3u8
+#EXTINF:-1 tvg-id="rentv" tvg-name="Рен ТВ HD" tvg-logo="http://epg.one/img/2487.png" group-title="Россия", Рен ТВ HD
+#EXTGRP:Россия
+http://178.217.72.72/REN_TV/index.m3u8
 #EXTINF:-1 tvg-id="rentv-pl2" tvg-name="Рен ТВ +2" tvg-logo="http://epg.one/img/2037.png" group-title="Россия", Рен ТВ +2
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -443,6 +452,9 @@ http://a0925677.xsph.ru/hls/DVB-T2/CH_TV3-1.m3u8
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://a0925677.xsph.ru/hls/DVB-T2/CH_TV3.m3u8
+#EXTINF:-1 tvg-id="tv3-ru" tvg-name="ТВ3 HD" tvg-logo="http://epg.one/img/698.png" group-title="Россия", ТВ3 HD
+#EXTGRP:Россия
+http://178.217.72.72/TV3/index.m3u8
 #EXTINF:-1 tvg-id="tv3-ru-pl2" tvg-name="ТВ3 +2" tvg-logo="http://epg.one/img/3013.png" group-title="Россия", ТВ3 +2
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
