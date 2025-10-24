@@ -1876,6 +1876,9 @@ https://ucdn.beetv.kz/bpk-tv/000004375/tve/index.m3u8
 
 
 
+#EXTINF:-1 tvg-id="bcu-svaty" tvg-name="BCU Сваты HD" tvg-logo="http://epg.one/img/4768.png" group-title="Кинозал", BCU Сваты HD
+#EXTGRP:Кинозал
+http://50.7.28.226/8889/index.m3u8
 #EXTINF:-1 tvg-id="bcu-action" tvg-name="BCU Action HD" tvg-logo="http://epg.one/img/4748.png" group-title="Кинозал", BCU Action HD
 #EXTGRP:Кинозал
 http://178.217.72.72/BCUActionHD/index.m3u8
@@ -1900,12 +1903,27 @@ http://178.217.72.72/BCUStarsHD/index.m3u8
 #EXTINF:-1 tvg-id="bcu-vhs" tvg-name="BCU VHS HD" tvg-logo="http://epg.one/img/4763.png" group-title="Кинозал", BCU VHS HD
 #EXTGRP:Кинозал
 http://178.217.72.72/BCUVHSHD/index.m3u8
+#EXTINF:-1 tvg-id="box-gangster" tvg-name="BOX Gangster HD" tvg-logo="http://epg.one/img/6699.png" group-title="Кинозал", BOX Gangster HD
+#EXTGRP:Кинозал
+http://50.7.28.226/8985/index.m3u8
+#EXTINF:-1 tvg-id="box-m-serial" tvg-name="BOX M.Serial HD" tvg-logo="http://epg.one/img/6702.png" group-title="Кинозал", BOX M.Serial HD
+#EXTGRP:Кинозал
+http://50.7.28.226/8988/index.m3u8
+#EXTINF:-1 tvg-id="box-spy" tvg-name="BOX Spy HD" tvg-logo="http://epg.one/img/6705.png" group-title="Кинозал", BOX Spy HD
+#EXTGRP:Кинозал
+http://50.7.28.226/8354/index.m3u8
+#EXTINF:-1 tvg-id="box-zombie" tvg-name="BOX Zombie HD" tvg-logo="http://epg.one/img/6833.png" group-title="Кинозал", BOX Zombie HD
+#EXTGRP:Кинозал
+http://50.7.28.226/8418/index.m3u8
 #EXTINF:-1 tvg-id="cineman" tvg-name="CineMan" tvg-logo="http://epg.one/img/4682.png" group-title="Кинозал", CineMan
 #EXTGRP:Кинозал
 http://178.217.72.72/CineMan/index.m3u8
 #EXTINF:-1 tvg-id="cineman-comedy" tvg-name="CineMan Комедия" tvg-logo="http://epg.one/img/4689.png" group-title="Кинозал", CineMan Комедия
 #EXTGRP:Кинозал
 http://178.217.72.72/CineMan_Comedy/index.m3u8
+#EXTINF:-1 tvg-id="cineman-rukino" tvg-name="CineMan РуКино" tvg-logo="http://epg.one/img/4691.png" group-title="Кинозал", CineMan РуКино
+#EXTGRP:Кинозал
+http://50.7.28.226/8871/index.m3u8
 #EXTINF:-1 tvg-id="cineman-action" tvg-name="CineMan Action" tvg-logo="http://epg.one/img/4684.png" group-title="Кинозал", CineMan Action
 #EXTGRP:Кинозал
 http://178.217.72.72/CineMan_Action/index.m3u8
@@ -1915,6 +1933,9 @@ http://178.217.72.72/CineMan_Marvel/index.m3u8
 #EXTINF:-1 tvg-id="cineman-melodrama" tvg-name="CineMan Melodrama" tvg-logo="http://epg.one/img/4686.png" group-title="Кинозал", CineMan Melodrama
 #EXTGRP:Кинозал
 http://178.217.72.72/CineMan_Melodrama/index.m3u8
+#EXTINF:-1 tvg-id="cineman-miniseries" tvg-name="CineMan MiniSeries" tvg-logo="http://epg.one/img/7150.png" group-title="Кинозал", CineMan MiniSeries
+#EXTGRP:Кинозал
+http://50.7.28.226/8961/index.m3u8
 #EXTINF:-1 tvg-id="cineman-thriller" tvg-name="CineMan Thriller" tvg-logo="http://epg.one/img/4685.png" group-title="Кинозал", CineMan Thriller
 #EXTGRP:Кинозал
 http://178.217.72.72/CineMan_Thriller/index.m3u8
@@ -1924,37 +1945,15 @@ http://178.217.72.72/CineMan_Top/index.m3u8
 #EXTINF:-1 tvg-id="cineman-vhs" tvg-name="CineMan VHS" tvg-logo="http://epg.one/img/4690.png" group-title="Кинозал", CineMan VHS
 #EXTGRP:Кинозал
 http://178.217.72.72/CineMan_VHS/index.m3u8
-
-#EXTINF:-1 tvg-id="box-spy" tvg-name="BOX Spy HD" tvg-logo="http://epg.one/img/4690.png" group-title="Кинозал", BOX Spy HD
-#EXTGRP:Кинозал
-http://50.7.28.226/8354/index.m3u8
-#EXTINF:-1 tvg-id="box-zombie" tvg-name="BOX Zombie HD" tvg-logo="http://epg.one/img/4690.png" group-title="Кинозал", BOX Zombie HD
-#EXTGRP:Кинозал
-http://50.7.28.226/8418/index.m3u8
-#EXTINF:-1 tvg-id="cineman-vhs" tvg-name="BOX Gangster HD" tvg-logo="http://epg.one/img/4690.png" group-title="Кинозал", BOX Gangster HD
-#EXTGRP:Кинозал
-http://50.7.28.226/8985/index.m3u8
-#EXTINF:-1 tvg-id="cineman-vhs" tvg-name="BOX M.Serial HD" tvg-logo="http://epg.one/img/4690.png" group-title="Кинозал", BOX M.Serial HD
-#EXTGRP:Кинозал
-http://50.7.28.226/8988/index.m3u8
-#EXTINF:-1 tvg-id="bcu-vhs" tvg-name="BCU Сваты HD" tvg-logo="http://epg.one/img/4763.png" group-title="Кинозал", BCU Сваты HD
-#EXTGRP:Кинозал
-http://50.7.28.226/8889/index.m3u8
-#EXTINF:-1 tvg-id="bcu-vhs" tvg-name="MM Драма" tvg-logo="http://epg.one/img/4763.png" group-title="Кинозал", MM Драма
+#EXTINF:-1 tvg-id="minimax-drama" tvg-name="MM Драма HD" tvg-logo="http://epg.one/img/6065.png" group-title="Кинозал", MM Драма HD
 #EXTGRP:Кинозал
 http://50.7.28.226/8634/index.m3u8
-#EXTINF:-1 tvg-id="bcu-vhs" tvg-name="MM Newfilm 3" tvg-logo="http://epg.one/img/4763.png" group-title="Кинозал", MM Newfilm 3
-#EXTGRP:Кинозал
-http://50.7.28.226/8743/index.m3u8
-#EXTINF:-1 tvg-id="bcu-vhs" tvg-name="MM Celebrity" tvg-logo="http://epg.one/img/4763.png" group-title="Кинозал", MM Celebrity
+#EXTINF:-1 tvg-id="minimax-celebrity" tvg-name="MM Celebrity HD" tvg-logo="http://epg.one/img/6063.png" group-title="Кинозал", MM Celebrity HD
 #EXTGRP:Кинозал
 http://50.7.28.226/8991/index.m3u8
-#EXTINF:-1 tvg-id="cineman-vhs" tvg-name="CineMan MiniSeries" tvg-logo="http://epg.one/img/4690.png" group-title="Кинозал", CineMan MiniSeries
+#EXTINF:-1 tvg-id="minimax-newfilm3" tvg-name="MM Newfilm 3 HD" tvg-logo="http://epg.one/img/5126.png" group-title="Кинозал", MM Newfilm 3 HD
 #EXTGRP:Кинозал
-http://50.7.28.226/8961/index.m3u8
-#EXTINF:-1 tvg-id="cineman-vhs" tvg-name="CineMan РуКино" tvg-logo="http://epg.one/img/4690.png" group-title="Кинозал", CineMan РуКино
-#EXTGRP:Кинозал
-http://50.7.28.226/8871/index.m3u8
+http://50.7.28.226/8743/index.m3u8
 
 
 
