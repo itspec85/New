@@ -1399,6 +1399,9 @@ http://stv.mediacdn.ru/live/cdn/ani/playlist.m3u8
 #EXTINF:-1 tvg-id="balapan" tvg-name="Balapan" tvg-logo="https://epgx.club/picons/balapan.png" group-title="Детские", Balapan
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000005178/tve/index.m3u8
+#EXTINF:-1 tvg-id="bcu-kids-plus" tvg-name="BCU Kids+ HD" tvg-logo="http://epg.one/img/4757.png" group-title="Детские", BCU Kids+ HD
+#EXTGRP:Детские
+http://50.7.28.226/8454/index.m3u8
 #EXTINF:-1 tvg-id="cartoon-classics" tvg-name="Cartoon Classics" tvg-logo="http://epg.one/img/9183.png" group-title="Детские", Cartoon Classics
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000008795/tve/index.m3u8
@@ -1408,6 +1411,9 @@ https://ucdn.beetv.kz/bpk-tv/000000015/tve/index.m3u8
 #EXTINF:-1 tvg-id="boomerang" tvg-name="Cartoonito" tvg-logo="http://epg.one/img/929.png" group-title="Детские", Cartoonito
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000000160/tve/index.m3u8
+#EXTINF:-1 tvg-id="cartoons-90" tvg-name="Cartoons 90" tvg-logo="http://epg.one/img/4728.png" group-title="Детские", Cartoons 90
+#EXTGRP:Детские
+http://50.7.28.226/8812/index.m3u8
 #EXTINF:-1 tvg-id="da-vinci" tvg-name="Da Vinci HD" tvg-logo="http://epg.one/img/8908.png" group-title="Детские", Da Vinci HD
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000000333/tve/index.m3u8
@@ -1424,6 +1430,9 @@ http://178.217.72.72/JimJam/index.m3u8
 #EXTGRP:Детские
 #EXTVLCOPT:http-user-agent=mediacdn
 http://origin5.mediacdn.ru/live/kidstv/index.m3u8
+#EXTINF:-1 tvg-id="minimax-honey" tvg-name="MM Honey HD" tvg-logo="http://epg.one/img/5139.png" group-title="Детские", MM Honey HD
+#EXTGRP:Детские
+http://50.7.28.226/8895/index.m3u8
 #EXTINF:-1 tvg-id="nick-jr" tvg-name="Nick Jr" tvg-logo="http://epg.one/img/917.png" group-title="Детские", Nick Jr
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000000449/tve/index.m3u8
