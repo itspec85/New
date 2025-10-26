@@ -3125,9 +3125,6 @@ https://live.overtime26.ru/app/potok/playlist.m3u8
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://a0925677.xsph.ru/hls/zabava/region/OMSK/CH_OMSKTVHD.m3u8
-#EXTINF:-1 tvg-name="Оплот ТВ Донецк" tvg-logo="https://avatars.mds.yandex.net/i?id=b298b92731dd2e2335bbe03e339217daa3c9ef58-9289753-images-thumbs&n=13" group-title="Региональные РФ", Оплот ТВ Донецк
-#EXTGRP:Региональные РФ
-http://192.162.64.99:4000/play/a06k/index.m3u8
 #EXTINF:-1 tvg-id="ort-planeta-orenburg" tvg-name="ОРТ Планета" tvg-logo="http://epg.one/img/5558.png" group-title="Региональные РФ", ОРТ Планета
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -3315,7 +3312,7 @@ http://a0925677.xsph.ru/hls/zabava/region/SUR/CH_SURGUT24HD.m3u8
 http://sitv.ru/hls/s86.m3u8
 #EXTINF:-1 tvg-id="tavria" tvg-name="Таврия Херсон" tvg-logo="https://iptvx.one/picons/tavria.png" group-title="Региональные РФ", Таврия Херсон
 #EXTGRP:Региональные РФ
-http://192.162.64.99:5000/play/a03n/index.m3u8
+https://streaming.televizor-24-tochka.ru/live/24.m3u8
 #EXTINF:-1 tvg-name="Таганрог 5" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/1/1b/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%8D%D1%84%D0%B8%D1%80.png/revision/latest/scale-to-width-down/220?cb=20220318093152&path-prefix=ru" group-title="Региональные РФ", Таганрог 5
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
