@@ -1353,7 +1353,7 @@ http://a0925677.xsph.ru/hls/zabava/CH_DISNEY.m3u8
 #EXTINF:-1 tvg-id="solnce-pl2" tvg-name="Солнце +2" tvg-logo="https://epgx.club/picons/solnce-pl2.png" group-title="Детские", Солнце +2
 #EXTGRP:Детские
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://a0925677.xsph.ru/ls/zabava/CH_DISNEY_2.m3u8
+http://a0925677.xsph.ru/hls/zabava/CH_DISNEY_2.m3u8
 #EXTINF:-1 tvg-id="solnce-pl4" tvg-name="Солнце +4" tvg-logo="https://epgx.club/picons/solnce-pl4.png" group-title="Детские", Солнце +4
 #EXTGRP:Детские
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
