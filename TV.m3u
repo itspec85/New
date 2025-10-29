@@ -3935,6 +3935,9 @@ http://194.50.51.34/playlist.m3u8
 #EXTINF:-1 tvg-name="Измаил TV" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/4/48/1590170841579.png/revision/latest/scale-to-width-down/150?cb=20200522180822&path-prefix=ru" group-title="Украина", Измаил TV
 #EXTGRP:Украина
 http://cdn10.live-tv.od.ua:8081/izod/izod/playlist.m3u8
+#EXTINF:-1 tvg-id="inter-ua" tvg-name="Iнтер" tvg-logo="http://epg.one/img/2227.png" group-title="Украина", Интер
+#EXTGRP:Украина
+https://blueberry.uvs.onlinetv.link/cdn_origin2/inter/chunks.m3u8
 #EXTINF:-1 tvg-name="ITV Media Group" tvg-logo="https://avatars.mds.yandex.net/i?id=73d18f083f462886d765a3ff693e48ad513076fa-4409822-images-thumbs&n=13" group-title="Украина", ITV Media Group
 #EXTGRP:Украина
 http://cdn10.live-tv.od.ua:8081/itvrv/720p/playlist.m3u8
