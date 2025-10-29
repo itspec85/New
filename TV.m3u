@@ -1588,7 +1588,7 @@ http://178.217.72.72/kinopremium/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000008491/tve/index.m3u8
 #EXTINF:-1 tvg-id="pro-lyubov" tvg-name="Про любовь" tvg-logo="http://epg.one/img/2829.png" group-title="Кино", Про Любовь HD
 #EXTGRP:Кино
-https://vod.stb.tvime.ru/Pro_Lubov_HD/tracks-v1a1/mono.m3u8?token=billing_wfc4fdIM3ow=
+http://217.25.80.16/pro_lubov_hd/mono.m3u8
 #EXTINF:-1 tvg-id="retro-tv" tvg-name="Ретро ТВ" tvg-logo="http://epg.one/img/2402.png" group-title="Кино", Ретро ТВ
 #EXTGRP:Кино
 http://91.194.191.241:8081/chid45/tracks-v1a1/mono.m3u8
