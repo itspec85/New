@@ -3641,16 +3641,33 @@ https://restreamer.livetv.az/memfs/a6cecb21-e17c-4f32-8854-0b72d57211d8.m3u8
 
 
 
+#EXTINF:-1 tvg-id="armenia-tv" tvg-name="Армения ТВ" tvg-logo="https://epgx.club/picons/artn-am.png" group-title="Армения", Արմենիա Tv
+#EXTGRP:Армения
+http://45.159.74.22/Kentron/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="artn-am" tvg-name="ARTN" tvg-logo="https://epgx.club/picons/artn-am.png" group-title="Армения", ARTN TV
 #EXTGRP:Армения
 https://streamer1.connectto.com/ARTN_mobile/index.m3u8
+#EXTINF:-1 tvg-name="Velari TV" tvg-logo="https://mytv.do.am/icon/velary.png" group-title="Армения", Velari TV
+#EXTGRP:Армения
+http://185.57.68.33:80/233/index.m3u8
+#EXTINF:-1 tvg-name="Գեղամա TV" tvg-logo="https://mytv.do.am/logo/geghama.png" group-title="Армения", Գեղամա TV
+#EXTGRP:Армения
+http://45.11.139.43:8555/geghama/index.m3u8
+#EXTINF:-1 tvg-name="Luys TV" tvg-logo="https://i.ibb.co/xS74qgH/SGN-12-18-2021-1639837346709.png" group-title="Армения", Luys TV
+#EXTGRP:Армения
+http://b01c02nl.mediatriple.net/videoonlylive/mtpayqrfkgirxelive/broadcast_5e91c5ac96898.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Միգ TV" tvg-logo="https://mytv.do.am/logo/mig-tv.png" group-title="Армения", Միգ TV
+#EXTGRP:Армения
+http://45.11.139.43:8555/mig/index.m3u8
 #EXTINF:-1 tvg-name="Շանթ" tvg-logo="https://i.ibb.co/Y7Rxs9J/SGN-03-22-2022-1647976102720.png" group-title="Армения", Շանթ
 #EXTGRP:Армения
 http://5.188.172.179/Shant/index.m3u8
 #EXTINF:-1 tvg-name="USArmeniaTV" tvg-logo="http://epg.one/img/5934.png" group-title="Армения", USArmeniaTV
 #EXTGRP:Армения
 http://livestream.usatv.com/hls/m3u8/USARMENIA_NET1080.m3u8
-
+#EXTINF:-1 tvg-name="Ֆիթնես TV" tvg-logo="https://mytv.do.am/logo/fitnes.png" group-title="Армения", Ֆիթնես TV
+#EXTGRP:Армения
+http://45.11.139.43:8555/fitnes/index.m3u8
 
 
 
