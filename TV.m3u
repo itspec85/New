@@ -3641,12 +3641,18 @@ https://restreamer.livetv.az/memfs/a6cecb21-e17c-4f32-8854-0b72d57211d8.m3u8
 
 
 
-#EXTINF:-1 tvg-id="armenia-tv" tvg-name="Армения ТВ" tvg-logo="https://epgx.club/picons/artn-am.png" group-title="Армения", Արմենիա Tv
+#EXTINF:-1 tvg-id="h1-am" tvg-name="Armenia 1" tvg-logo="http://epg.one/img/2060.png" group-title="Армения", Armenia 1
+#EXTGRP:Армения
+https://blueberry.uvs.onlinetv.link/cdn_origin2/ArmeniaH1/chunks.m3u8
+#EXTINF:-1 tvg-id="armenia-tv" tvg-name="Армения ТВ" tvg-logo="http://epg.one/img/2064.png" group-title="Армения", Արմենիա Tv
 #EXTGRP:Армения
 http://45.159.74.22/Kentron/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="artn-am" tvg-name="ARTN" tvg-logo="https://epgx.club/picons/artn-am.png" group-title="Армения", ARTN TV
 #EXTGRP:Армения
 https://streamer1.connectto.com/ARTN_mobile/index.m3u8
+#EXTINF:-1 tvg-id="atv-armenia" tvg-name="ATV Армения" tvg-logo="http://epg.one/img/2067.png" group-title="Армения", ATV
+#EXTGRP:Армения
+https://blueberry.uvs.onlinetv.link/cdn_origin2/AtvHD/chunks.m3u8
 #EXTINF:-1 tvg-name="Velari TV" tvg-logo="https://mytv.do.am/icon/velary.png" group-title="Армения", Velari TV
 #EXTGRP:Армения
 http://185.57.68.33:80/233/index.m3u8
@@ -3662,6 +3668,9 @@ http://45.11.139.43:8555/mig/index.m3u8
 #EXTINF:-1 tvg-name="Շանթ" tvg-logo="https://i.ibb.co/Y7Rxs9J/SGN-03-22-2022-1647976102720.png" group-title="Армения", Շանթ
 #EXTGRP:Армения
 http://5.188.172.179/Shant/index.m3u8
+#EXTINF:-1 tvg-id="shant-premium-hd" tvg-name="Shant Premium HD" tvg-logo="https://epgx.club/picons/shant-premium.png" group-title="Армения", Shant Premium FHD
+#EXTGRP:Армения
+https://blueberry.uvs.onlinetv.link/cdn_origin2/shant_premium_hd/chunks.m3u8
 #EXTINF:-1 tvg-name="USArmeniaTV" tvg-logo="http://epg.one/img/5934.png" group-title="Армения", USArmeniaTV
 #EXTGRP:Армения
 http://livestream.usatv.com/hls/m3u8/USARMENIA_NET1080.m3u8
