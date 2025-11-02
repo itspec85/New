@@ -10,7 +10,7 @@ http://a0925677.xsph.ru/hls/DVB-T2/CH_DOMASHNIY-1.m3u8
 http://a0925677.xsph.ru/hls/DVB-T2/CH_DOMASHNIY.m3u8
 #EXTINF:-1 tvg-id="domashny" tvg-name="Домашний HD" tvg-logo="http://epg.one/img/304.png" group-title="Россия", Домашний HD
 #EXTGRP:Россия
-http://178.217.72.72/Domashniy/index.m3u8
+http://217.25.80.16/domashniy_hd/mono.m3u8
 #EXTINF:-1 tvg-id="domashny-pl2" tvg-name="Домашний +2" tvg-logo="http://epg.one/img/3010.png" group-title="Россия", Домашний +2
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
