@@ -836,7 +836,7 @@ http://217.21.34.160:38007/dikayaohotahd/index.m3u8
 http://217.21.34.160:38007/dikayarybalkahd/index.m3u8
 #EXTINF:-1 tvg-id="dikiy" tvg-name="Дикий" tvg-logo="http://epg.one/img/2283.png" group-title="Познавательные", Дикий
 #EXTGRP:Познавательные
-https://vod.splay.uz/live_splay/original/Dikiy/tracks-v1a1/mono.m3u8
+http://139.28.255.188:8080/Dikij/index.m3u8
 #EXTINF:-1 tvg-id="dozhd" tvg-name="Дождь" tvg-logo="http://epg.one/img/2399.png" group-title="Познавательные", Дождь
 #EXTGRP:Познавательные
 https://m3u8.ott.blue/watch/7319/video.m3u8?geo=auto&token=94450098895765784220366841698509
