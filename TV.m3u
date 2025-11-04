@@ -2032,6 +2032,18 @@ http://50.7.28.226/9183/index.m3u8
 #EXTINF:-1 tvg-id="okko-football" tvg-name="Окко.Футбол" tvg-logo="http://epg.one/img/9325.png" group-title="Спорт", Окко Футбол HD
 #EXTGRP:Спорт
 http://50.7.28.226/9170/index.m3u8
+#EXTINF:-1 tvg-id="sport1-ua" tvg-name="Спорт 1 Украина" tvg-logo="https://epgx.club/picons/sport1ua.png" group-title="Спорт", Sport 1 UA
+#EXTGRP:Спорт
+http://95.85.109.219:7000/play/a08e
+#EXTINF:-1 tvg-id="sport2-ua" tvg-name="Спорт 2 Украина" tvg-logo="https://epgx.club/picons/sport2ua.png" group-title="Спорт", Sport 2 UA
+#EXTGRP:Спорт
+http://95.85.109.219:7000/play/a08f
+#EXTINF:-1 tvg-id="sport3-ua" tvg-name="Спорт 3 Украина" tvg-logo="https://epgx.club/picons/sport3-ua.png" group-title="Спорт", Sport 3 UA
+#EXTGRP:Спорт
+http://95.85.109.219:7000/play/a08g
+#EXTINF:-1 tvg-id="sport4-ua" tvg-name="Спорт 4 Украина" tvg-logo="https://epgx.club/picons/sport4-ua.png" group-title="Спорт", Sport 4 UA
+#EXTGRP:Спорт
+http://95.85.109.219:7000/play/a08h
 #EXTINF:-1 tvg-id="start" tvg-name="Старт" tvg-logo="http://epg.one/img/2530.png" group-title="Спорт", СТАРТ
 #EXTGRP:Спорт
 http://iptv46.mcx-ix.ru:8077/start_hd/index.m3u8
