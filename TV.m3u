@@ -1958,6 +1958,54 @@ http://50.7.28.226/8991/index.m3u8
 #EXTGRP:Кинозал
 http://50.7.28.226/8743/index.m3u8
 
+#EXTINF:-1 tvg-id="bcu-marvel" tvg-name="BCU Marvel HD" tvg-logo="http://epg.one/img/4758.png" group-title="Кинозал", BCU Marvel HD
+#EXTGRP:Кинозал
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDvzZezz2CrQYl8Z_Xa37sO8k/m3u8
+#EXTINF:-1 tvg-id="bcu-cinema" tvg-name="BCU Cinema HD" tvg-logo="http://epg.one/img/4758.png" group-title="Кинозал", BCU Cinema HD
+#EXTGRP:Кинозал
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv4I4rb8HB6HRT1m2r704nAw/m3u8
+#EXTINF:-1 tvg-id="bcu-premiere" tvg-name="BCU Premiere HD" tvg-logo="http://epg.one/img/4758.png" group-title="Кинозал", BCU Premiere HD
+#EXTGRP:Кинозал
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv-IbT0YqD94K8roB7swxNvI/m3u8
+#EXTINF:-1 tvg-id="bcu-cinemaplus" tvg-name="BCU Cinema+ HD" tvg-logo="http://epg.one/img/4758.png" group-title="Кинозал", BCU Cinema+ HD
+#EXTGRP:Кинозал
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv3ep5istILlJoTAz8cyQG0U/m3u8
+#EXTINF:-1 tvg-id="bcu-filmystic" tvg-name="BCU FilMystic HD" tvg-logo="http://epg.one/img/4758.png" group-title="Кинозал", BCU FilMystic HD
+#EXTGRP:Кинозал
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv-a-QhdPEhjwheqVhKaPx88/m3u8
+#EXTINF:-1 tvg-id="bcu-history" tvg-name="BCU History HD" tvg-logo="http://epg.one/img/4758.png" group-title="Кинозал", BCU History HD
+#EXTGRP:Кинозал
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv0HXetcxnD1ns5KIFtC2rOQ/m3u8
+#EXTINF:-1 tvg-id="bcu-sssr" tvg-name="BCU СССР HD" tvg-logo="http://epg.one/img/4758.png" group-title="Кинозал", BCU СССР HD
+#EXTGRP:Кинозал
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv2lEkhxN6MKHmepnlKJwNyw/m3u8
+#EXTINF:-1 tvg-id="bcu-kids" tvg-name="BCU Kids HD" tvg-logo="http://epg.one/img/4758.png" group-title="Детские", BCU Kids HD
+#EXTGRP:Детские
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDvwKeLvglHIE9szxGKxKsPkM/m3u8
+#EXTINF:-1 tvg-id="bcu-multserial" tvg-name="BCU Мультсериал HD" tvg-logo="http://epg.one/img/4758.png" group-title="Детские", BCU Мультсериал HD
+#EXTGRP:Детские
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv7JTnkmkdMT99PwNcZ5RVwE/m3u8
+#EXTINF:-1 tvg-id="bcu-little" tvg-name="BCU Little HD" tvg-logo="http://epg.one/img/4758.png" group-title="Детские", BCU Little HD
+#EXTGRP:Детские
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv2xdypzM8wFnIQl73Odc4iY/m3u8
+#EXTINF:-1 tvg-id="bcu-criminal" tvg-name="BCU Criminal HD" tvg-logo="http://epg.one/img/4758.png" group-title="Кинозал", BCU Criminal HD
+#EXTGRP:Кинозал
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv5SksEGtd7d3nuu2927oA-g/m3u8
+#EXTINF:-1 tvg-id="bcu-survival" tvg-name="BCU Survival HD" tvg-logo="http://epg.one/img/4758.png" group-title="Кинозал", BCU Survival HD
+#EXTGRP:Кинозал
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDvyerBpVTXuRwaTpz1Q0lAEI/m3u8
+#EXTINF:-1 tvg-id="bcu-cosmo" tvg-name="BCU Cosmo HD" tvg-logo="http://epg.one/img/4758.png" group-title="Кинозал", BCU Cosmo HD
+#EXTGRP:Кинозал
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv48nbqzix0io8M6uabX7_v8/m3u8
+#EXTINF:-1 tvg-id="bcu-ultra4k" tvg-name="BCU Ultra 4K" tvg-logo="http://epg.one/img/4758.png" group-title="Кинозал", BCU Ultra 4K
+#EXTGRP:Кинозал
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv_rw3dU4YBMISQwdwuZK9nA/m3u8
+#EXTINF:-1 tvg-id="bcu-premiere-4k" tvg-name="BCU Premiere Ultra 4K" tvg-logo="http://epg.one/img/4758.png" group-title="Кинозал", BCU Premiere Ultra 4K
+#EXTGRP:Кинозал
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDvxc3Zv7vg7VT_3AmRBZD8p8/m3u8
+#EXTINF:-1 tvg-id="bcu-trumotion" tvg-name="BCU TruMotion HD" tvg-logo="http://epg.one/img/4758.png" group-title="Кинозал", BCU TruMotion HD
+#EXTGRP:Кинозал
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv4xqWDWCCyLn2qp38HJ0cwY/m3u8
 
 
 #EXTINF:-1 tvg-id="belarus5" tvg-name="Беларусь 5 HD" tvg-logo="http://epg.one/img/2541.png" group-title="Спорт", Беларусь 5 HD
