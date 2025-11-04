@@ -3700,6 +3700,9 @@ https://restreamer.livetv.az/memfs/a6cecb21-e17c-4f32-8854-0b72d57211d8.m3u8
 #EXTINF:-1 tvg-id="5-am" tvg-name="5 TV [AM]" tvg-logo="http://epg.one/img/2372.png" group-title="Армения", 5TV AM
 #EXTGRP:Армения
 http://178.217.72.72/tv5/index.m3u8
+#EXTINF:-1 tvg-name="ABN" tvg-logo="https://avatars.mds.yandex.net/i?id=f0852ffd0e0ba446dccac85c0f59bb8b74727a03-6579542-images-thumbs&n=13" group-title="Армения", ABN
+#EXTGRP:Армения
+http://109.68.122.117:8899/armnews_24
 #EXTINF:-1 tvg-name="Amga TV" tvg-logo="https://avatars.mds.yandex.net/i?id=c7b36a89ec713c78cbf51713fd2d0cbc_sr-8449287-images-thumbs&n=13" group-title="Армения", Amga TV
 #EXTGRP:Армения
 https://streamer1.connectto.com/AMGA_WEB_1202/tracks-v1a1/mono.m3u8
@@ -3712,12 +3715,18 @@ http://178.217.72.72/h2/index.m3u8
 #EXTINF:-1 tvg-id="artn-am" tvg-name="ARTN" tvg-logo="https://epgx.club/picons/artn-am.png" group-title="Армения", ARTN TV
 #EXTGRP:Армения
 https://streamer1.connectto.com/ARTN_mobile/index.m3u8
+#EXTINF:-1 tvg-id="atv-armenia" tvg-name="ATV Армения" tvg-logo="http://epg.one/img/2067.png" group-title="Армения", ATV
+#EXTGRP:Армения
+http://45.11.139.43:8555/atv/index.m3u8
 #EXTINF:-1 tvg-name="Velari TV" tvg-logo="https://mytv.do.am/icon/velary.png" group-title="Армения", Velari TV
 #EXTGRP:Армения
 http://185.57.68.33:80/233/index.m3u8
 #EXTINF:-1 tvg-name="Գեղամա TV" tvg-logo="https://mytv.do.am/logo/geghama.png" group-title="Армения", Գեղամա TV
 #EXTGRP:Армения
 http://45.11.139.43:8555/geghama/index.m3u8
+#EXTINF:-1 tvg-name="Lurer" tvg-logo="http://epg.one/img/5930.png" group-title="Армения", Lurer
+#EXTGRP:Армения
+https://amtv.bozztv.com/amtv3/am3abr/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Luys TV" tvg-logo="https://i.ibb.co/xS74qgH/SGN-12-18-2021-1639837346709.png" group-title="Армения", Luys TV
 #EXTGRP:Армения
 http://b01c02nl.mediatriple.net/videoonlylive/mtpayqrfkgirxelive/broadcast_5e91c5ac96898.smil/playlist.m3u8
