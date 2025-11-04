@@ -1966,6 +1966,9 @@ https://edge50.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="box-tv" tvg-name="Бокс ТВ" tvg-logo="http://epg.one/img/2285.png" group-title="Спорт", Бокс ТВ
 #EXTGRP:Спорт
 http://tvip.btk.teleos.ru:8081/chid460/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="voleybol" tvg-name="Волейбол" tvg-logo="https://epgx.club/picons/voleybol.png" group-title="Спорт", Волейбол
+#EXTGRP:Спорт
+http://50.7.28.226/9192/index.m3u8
 #EXTINF:-1 tvg-id="konny-mir" tvg-name="Конный Мир" tvg-logo="http://epg.one/img/1679.png" group-title="Спорт", Конный Мир
 #EXTGRP:Спорт
 http://cdn-01.bonus-tv.ru/kmir/mono.m3u8
