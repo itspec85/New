@@ -3637,6 +3637,9 @@ https://restreamer.livetv.az/memfs/a6cecb21-e17c-4f32-8854-0b72d57211d8.m3u8
 #EXTINF:-1 tvg-id="5-am" tvg-name="5 TV [AM]" tvg-logo="http://epg.one/img/2372.png" group-title="Армения", 5TV AM
 #EXTGRP:Армения
 http://178.217.72.72/tv5/index.m3u8
+#EXTINF:-1 tvg-name="Amga TV" tvg-logo="https://avatars.mds.yandex.net/i?id=c7b36a89ec713c78cbf51713fd2d0cbc_sr-8449287-images-thumbs&n=13" group-title="Армения", Amga TV
+#EXTGRP:Армения
+https://streamer1.connectto.com/AMGA_WEB_1202/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="h1-am" tvg-name="Armenia 1" tvg-logo="http://epg.one/img/2060.png" group-title="Армения", Armenia 1
 #EXTGRP:Армения
 http://178.217.72.72/h1/index.m3u8
@@ -3655,6 +3658,9 @@ http://45.11.139.43:8555/geghama/index.m3u8
 #EXTINF:-1 tvg-name="Luys TV" tvg-logo="https://i.ibb.co/xS74qgH/SGN-12-18-2021-1639837346709.png" group-title="Армения", Luys TV
 #EXTGRP:Армения
 http://b01c02nl.mediatriple.net/videoonlylive/mtpayqrfkgirxelive/broadcast_5e91c5ac96898.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="nor-hayastan" tvg-name="Nor Hayastan (Армения)" tvg-logo="http://epg.one/img/7084.png" group-title="Армения", Nor Hayastan
+#EXTGRP:Армения
+http://45.11.139.43:8555/norhayastan/index.m3u8
 #EXTINF:-1 tvg-name="Միգ TV" tvg-logo="https://mytv.do.am/logo/mig-tv.png" group-title="Армения", Միգ TV
 #EXTGRP:Армения
 http://45.11.139.43:8555/mig/index.m3u8
