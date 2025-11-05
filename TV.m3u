@@ -1457,6 +1457,9 @@ http://193.27.209.122/tiji/index.m3u8
 #EXTINF:-1 tvg-id="blokbaster" tvg-name="Блокбастер" tvg-logo="http://epg.one/img/2832.png" group-title="Кино", Блокбастер
 #EXTGRP:Кино
 https://mhd128.iptv2022.com/p/PxEDQCkqEpPkdb0RoWjuTQ,1762376411/streaming/blokbaster/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="blokbaster" tvg-name="Блокбастер HD" tvg-logo="http://epg.one/img/2832.png" group-title="Кино", Блокбастер HD
+#EXTGRP:Кино
+http://iptv46.mcx-ix.ru:8077/blokbaster_hd/index.m3u8
 #EXTINF:-1 tvg-name="Видеокассета TV" tvg-logo="https://avatars.mds.yandex.net/i?id=aa54d677b7da13a106d22ee95411b140d0009712-15274206-images-thumbs&n=13" group-title="Кино", Видеокассета TV
 #EXTGRP:Кино
 https://132544.edgevideo.ru/streams/132544_973517/1325441080/index.m3u8
@@ -1687,6 +1690,9 @@ http://158.101.222.193:88/georgia_play.php?id=fenikspluskino
 #EXTINF:-1 tvg-id="khit-hd" tvg-name="Хит HD" tvg-logo="http://epg.one/img/2833.png" group-title="Кино", Хит HD
 #EXTGRP:Кино
 http://178.217.72.72/hithd/index.m3u8
+#EXTINF:-1 tvg-id="shokiruyushchee-hd" tvg-name="Шокирующее HD" tvg-logo="http://epg.one/img/2309.png" group-title="Кино", Шокирующее HD
+#EXTGRP:Кино
+http://178.217.72.72/shokiruushee/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="sony-turbo" tvg-name=".black" tvg-logo="http://epg.one/img/935.png" group-title="Кино", .black
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000000520/tve/index.m3u8
@@ -1726,21 +1732,30 @@ http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="paramount-comedy" tvg-name="Comedy Central" tvg-logo="http://epg.one/img/920.png" group-title="Кино", Comedy Central
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000000452/tve/index.m3u8
+#EXTINF:-1 tvg-id="sony-channel-ee" tvg-name="Duo 3 [EE]" tvg-logo="http://epg.one/img/5340.png" group-title="Кино", Duo3 HD EE
+#EXTGRP:Кино
+http://94.232.127.28:8080/sony/index.m3u8
+#EXTINF:-1 tvg-id="sony-turbo-ee" tvg-name="Duo 6 [EE]" tvg-logo="http://epg.one/img/5341.png" group-title="Кино", Duo6 HD EE
+#EXTGRP:Кино
+http://94.232.127.28:8080/sony-turbo/index.m3u8
 #EXTINF:-1 tvg-id="fanhd" tvg-name="FAN" tvg-logo="http://epg.one/img/2359.png" group-title="Кино", FAN
 #EXTGRP:Кино
 http://91.194.191.241:8081/chid439/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Film Best TV" tvg-logo="https://avatars.mds.yandex.net/i?id=c5e9421c8de2437b79ebe48c6e2d0ab08e3f74b2-16413791-images-thumbs&n=13" group-title="Кино", Film Best TV
 #EXTGRP:Кино
 https://132544.edgevideo.ru/streams/132544_975653/1325441080/index.m3u8
+#EXTINF:-1 tvg-id="filmua-drama" tvg-name="Film.UA Drama" tvg-logo="http://epg.one/img/8911.png" group-title="Кино", Film UA Drama
+#EXTGRP:Кино
+https://ucdn.beetv.kz/bpk-tv/000003028/tve/index.m3u8
 #EXTINF:-1 tvg-id="filmbox-ru" tvg-name="FilmBox" tvg-logo="http://epg.one/img/2181.png" group-title="Кино", FilmBox
 #EXTGRP:Кино
 http://188.190.222.53/FilmBOX/index.m3u8
 #EXTINF:-1 tvg-id="filmbox-arthouse" tvg-name="Filmbox Arthouse" tvg-logo="http://epg.one/img/2182.png" group-title="Кино", Filmbox Arthouse
 #EXTGRP:Кино
 http://iptv.prosto.tv:7000/ch63/video.m3u8
-#EXTINF:-1 tvg-id="filmua-drama" tvg-name="Film.UA Drama" tvg-logo="http://epg.one/img/8911.png" group-title="Кино", Film UA Drama
+#EXTINF:-1 tvg-id="filmzone-ee" tvg-name="FilmZone [EE]" tvg-logo="http://epg.one/img/9094.png" group-title="Кино", FILMZONE EE
 #EXTGRP:Кино
-https://ucdn.beetv.kz/bpk-tv/000003028/tve/index.m3u8
+http://fs1.starnet.lv:8080/FilmZone/index.m3u8
 #EXTINF:-1 tvg-id="flixsnip" tvg-name="Flix Snip" tvg-logo="http://epg.one/img/774.png" group-title="Кино", Flix Snip
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000004466/tve/index.m3u8
@@ -1753,6 +1768,9 @@ https://ucdn.beetv.kz/bpk-tv/000004472/tve/index.m3u8
 #EXTINF:-1 tvg-id="foxlife" tvg-name="FX Life" tvg-logo="http://epg.one/img/615.png" group-title="Кино", FX Life
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000004471/tve/index.m3u8
+#EXTINF:-1 tvg-id="tv1000-premium" tvg-name="Go3 Films" tvg-logo="http://epg.one/img/4821.png" group-title="Кино", Go3 Films HD LV
+#EXTGRP:Кино
+http://94.232.127.28:8080/tv1000premium/index.m3u8
 #EXTINF:-1 tvg-id="hollywood" tvg-name="Hollywood" tvg-logo="http://epg.one/img/608.png" group-title="Кино", Hollywood
 #EXTGRP:Кино
 http://194.32.242.245/hollywood/index.m3u8
