@@ -1849,6 +1849,12 @@ https://ucdn.beetv.kz/bpk-tv/000007815/tve/index.m3u8
 #EXTINF:-1 tvg-id="start-world" tvg-name="START World" tvg-logo="http://epg.one/img/6240.png" group-title="Кино", START World HD
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000007818/tve/index.m3u8
+#EXTINF:-1 tvg-id="super-baltic" tvg-name="Super Baltic" tvg-logo="https://epgx.club/picons/super-baltic.png" group-title="Кино", Super Baltic
+#EXTGRP:Кино
+http://84.245.224.71/SuperBaltic/mono.m3u8
+#EXTINF:-1 tvg-id="super-plus" tvg-name="Super Plus" tvg-logo="https://epgx.club/picons/super-plus.png" group-title="Кино", Super Plus
+#EXTGRP:Кино
+http://84.245.224.71/SuperPlus/mono.m3u8
 #EXTINF:-1 tvg-id="suspense" tvg-name="Suspense HD" tvg-logo="http://epg.one/img/9180.png" group-title="Кино", Suspense HD
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000008739/tve/index.m3u8
