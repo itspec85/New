@@ -1880,6 +1880,20 @@ https://ucdn.beetv.kz/bpk-tv/000000868/tve/index.m3u8
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000004375/tve/index.m3u8
 
+#EXTINF:-1 tvg-id="bcu-cinema" tvg-name="BCU Cinema HD" tvg-logo="http://epg.one/img/4768.png" group-title="Кинозал", BCU Cinema HD
+#EXTGRP:Кинозал
+http://178.217.72.72/BCUCinemaHD/index.m3u8
+#EXTINF:-1 tvg-id="bcu-filmystic" tvg-name="BCU FilMystic HD" tvg-logo="http://epg.one/img/4768.png" group-title="Кинозал", BCU FilMystic HD
+#EXTGRP:Кинозал
+http://178.217.72.72/BCUFilMysticHD/index.m3u8
+#EXTINF:-1 tvg-id="bcu-history" tvg-name="BCU History HD" tvg-logo="http://epg.one/img/4768.png" group-title="Кинозал", BCU History HD
+#EXTGRP:Кинозал
+http://178.217.72.72/BCUHistoryHD/index.m3u8
+#EXTINF:-1 bcu-premiere" tvg-name="BCU Premiere HD" tvg-logo="http://epg.one/img/4768.png" group-title="Кинозал", BCU Premiere HD
+#EXTGRP:Кинозал
+http://178.217.72.72/BCUPremiereHD/index.m3u8
+
+
 
 
 #EXTINF:-1 tvg-id="bcu-svaty" tvg-name="BCU Сваты HD" tvg-logo="http://epg.one/img/4768.png" group-title="Кинозал", BCU Сваты HD
