@@ -2251,6 +2251,21 @@ https://pac12-roku-us.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="PokerGo" tvg-logo="https://avatars.mds.yandex.net/i?id=7822bfec4e4ddfe39ced9e298ca559e312340267-5295169-images-thumbs&n=13" group-title="Спорт", PokerGo
 #EXTGRP:Спорт
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fc54366b04b2300072e31af/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b6274-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a68d07ef-a794-43f8-a287-3bd7f27d909b
+#EXTINF:-1 tvg-id="prima-sport-1" tvg-name="Prima Sport 1 HD" tvg-logo="https://epgx.club/picons/prima-sport-1.png" group-title="Спорт", Prima Sport 1 HD RO
+#EXTGRP:Спорт
+http://andreeamarin.info:8008/Elena_rascu/vs1eNAT5/146486
+#EXTINF:-1 tvg-id="prima-sport-2" tvg-name="Prima Sport 2 HD" tvg-logo="https://epgx.club/picons/prima-sport-2.png" group-title="Спорт", Prima Sport 2 HD RO
+#EXTGRP:Спорт
+http://andreeamarin.info:8008/Elena_rascu/vs1eNAT5/146488
+#EXTINF:-1 tvg-id="prima-sport-3" tvg-name="Prima Sport 3 HD" tvg-logo="https://epgx.club/picons/prima-sport-3.png" group-title="Спорт", Prima Sport 3 HD RO
+#EXTGRP:Спорт
+http://andreeamarin.info:8008/Elena_rascu/vs1eNAT5/157160
+#EXTINF:-1 tvg-id="prima-sport-4" tvg-name="Prima Sport 4 HD" tvg-logo="https://epgx.club/picons/prima-sport-4.png" group-title="Спорт", Prima Sport 4 HD RO
+#EXTGRP:Спорт
+http://andreeamarin.info:8008/Elena_rascu/vs1eNAT5/157161
+#EXTINF:-1 tvg-id="prima-sport-5" tvg-name="Prima Sport 5 HD" tvg-logo="https://epgx.club/picons/prima-sport-5.png" group-title="Спорт", Prima Sport 5 HD RO
+#EXTGRP:Спорт
+http://andreeamarin.info:8008/Elena_rascu/vs1eNAT5/157162
 #EXTINF:-1 tvg-name="Prosto Drive" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00349.png" group-title="Спорт", Prosto Drive
 #EXTGRP:Спорт
 http://iptv.prosto.tv:7000/ch326/video.m3u8
