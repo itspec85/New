@@ -2101,6 +2101,36 @@ http://iptv46.mcx-ix.ru:8077/football/index.m3u8
 #EXTINF:-1 tvg-name="A21 Network" tvg-logo="https://a21network.ru/wp-content/uploads/2022/02/a21_live.jpg" group-title="Спорт", A21 Network
 #EXTGRP:Спорт
 https://autopilot.catcast.tv/content/37909/index.m3u8
+#EXTINF:-1 tvg-id="arena-sport-1-hr" tvg-name="Arena Sport 1 [HR]" tvg-logo="https://epgx.club/picons/arena-sport-1-hr.png" group-title="Спорт", Arena Sport 1 HR
+#EXTGRP:Спорт
+http://lisabontv.pro:8080/uPPfXAm8/qd3wzEx/551910
+#EXTINF:-1 tvg-id="arena-sport-2-hr" tvg-name="Arena Sport 2 [HR]" tvg-logo="https://epgx.club/picons/arena-sport-2-hr.png" group-title="Спорт", Arena Sport 2 HR
+#EXTGRP:Спорт
+http://lisabontv.pro:8080/uPPfXAm8/qd3wzEx/551908
+#EXTINF:-1 tvg-id="arena-sport-3-hr" tvg-name="Arena Sport 3 [HR]" tvg-logo="https://epgx.club/picons/arena-sport-3-hr.png" group-title="Спорт", Arena Sport 3 HR
+#EXTGRP:Спорт
+http://lisabontv.pro:8080/uPPfXAm8/qd3wzEx/551906
+#EXTINF:-1 tvg-id="arena-sport-4-hr" tvg-name="Arena Sport 4 [HR]" tvg-logo="https://epgx.club/picons/arena-sport-4-hr.png" group-title="Спорт", Arena Sport 4 HR
+#EXTGRP:Спорт
+http://lisabontv.pro:8080/uPPfXAm8/qd3wzEx/551904
+#EXTINF:-1 tvg-id="arena-sport-5-hr" tvg-name="Arena Sport 5 [HR]" tvg-logo="https://epgx.club/picons/arena-sport-5-hr.png" group-title="Спорт", Arena Sport 5 HR
+#EXTGRP:Спорт
+http://lisabontv.pro:8080/uPPfXAm8/qd3wzEx/551902
+#EXTINF:-1 tvg-id="arena-sport-6-hr" tvg-name="Arena Sport 6 [HR]" tvg-logo="https://epgx.club/picons/arena-sport-6-hr.png" group-title="Спорт", Arena Sport 6 HR
+#EXTGRP:Спорт
+http://lisabontv.pro:8080/uPPfXAm8/qd3wzEx/551900
+#EXTINF:-1 tvg-id="arena-sport-7-hr" tvg-name="Arena Sport 7 [HR]" tvg-logo="https://epgx.club/picons/arena-sport-7-hr.png" group-title="Спорт", Arena Sport 7 HR
+#EXTGRP:Спорт
+http://lisabontv.pro:8080/uPPfXAm8/qd3wzEx/551898
+#EXTINF:-1 tvg-id="arena-sport-8-hr" tvg-name="Arena Sport 8 [HR]" tvg-logo="https://epgx.club/picons/arena-sport-8-hr.png" group-title="Спорт", Arena Sport 8 HR
+#EXTGRP:Спорт
+http://lisabontv.pro:8080/uPPfXAm8/qd3wzEx/551896
+#EXTINF:-1 tvg-id="arena-sport-9-hr" tvg-name="Arena Sport 9 [HR]" tvg-logo="https://epgx.club/picons/arena-sport-9-hr.png" group-title="Спорт", Arena Sport 9 HR
+#EXTGRP:Спорт
+http://lisabontv.pro:8080/uPPfXAm8/qd3wzEx/551894
+#EXTINF:-1 tvg-id="arena-sport-10-hr" tvg-name="Arena Sport 10 [HR]" tvg-logo="https://epgx.club/picons/arena-sport-10-hr.png" group-title="Спорт", Arena Sport 10 HR
+#EXTGRP:Спорт
+http://lisabontv.pro:8080/uPPfXAm8/qd3wzEx/551892
 #EXTINF:-1 tvg-name="beIN Sports 1 HD TR" tvg-logo="http://epg.one/img/5092.png" group-title="Спорт", beIN Sports 1 HD TR
 #EXTGRP:Спорт
 http://nxsmrt4.xyz:80/live/ismailbekci1/3X6DMdu9GR/65245.ts
@@ -2125,6 +2155,12 @@ http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:BB:EE:72&stream=31400&extension
 #EXTINF:-1 tvg-name="CBS Sports HQ" tvg-logo="https://avatars.mds.yandex.net/i?id=3bba1b82138d3d7fcc44e762363c393f6cac1664-9161202-images-thumbs&n=13" group-title="Спорт", CBS Sports HQ
 #EXTGRP:Спорт
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3a15356b-8467-4ae7-b2f6-9c8467fcf41d
+#EXTINF:-1 tvg-id="daznbar1" tvg-name="DAZN 1 HD" tvg-logo="http://epg.one/img/6501.png" group-title="Спорт", DAZN 1 HD
+#EXTGRP:Спорт
+http://xcmaster.live:8080/dimich2/FndU5rTDk9/665137
+#EXTINF:-1 tvg-id="daznbar2" tvg-name="DAZN 2 HD" tvg-logo="http://epg.one/img/6502.png" group-title="Спорт", DAZN 2 HD
+#EXTGRP:Спорт
+http://xcmaster.live:8080/dimich2/FndU5rTDk9/665136
 #EXTINF:-1 tvg-name="DAZN Combat" tvg-logo="https://i.postimg.cc/VsW3Jsrz/logo-DAZN-Combat.png" group-title="Спорт", DAZN Combat
 #EXTGRP:Спорт
 https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
