@@ -798,6 +798,9 @@ https://ucdn.beetv.kz/bpk-tv/000008877/tve/index.m3u8
 #EXTINF:-1 tvg-id="arsenaltv" tvg-name="Арсенал HD" tvg-logo="http://epg.one/img/2768.png" group-title="Познавательные", Арсенал HD
 #EXTGRP:Познавательные
 http://95.66.188.74/Arsenal_HD/index.m3u8
+#EXTINF:-1 tvg-id="art-tv" tvg-name="Арт" tvg-logo="http://epg.one/img/9080.png" group-title="Познавательные", Арт
+#EXTGRP:Познавательные
+http://95.47.156.60:8000/play/a011/index.m3u8
 #EXTINF:-1 tvg-id="bobior" tvg-name="Бобёр" tvg-logo="http://epg.one/img/2026.png" group-title="Познавательные", Бобёр
 #EXTGRP:Познавательные
 http://95.66.188.74/Bober/mono.m3u8
@@ -984,6 +987,9 @@ https://serv25.vintera.tv/1pnk/prnk/chunks.m3u8
 #EXTINF:-1 tvg-id="perec-int" tvg-name="Перец International" tvg-logo="http://epg.one/img/5651.png" group-title="Познавательные", Перец International
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000001248/tve/index.m3u8
+#EXTINF:-1 tvg-id="ruskorabl" tvg-name="Плюс Минус 16" tvg-logo="https://epgx.club/picons/ruskorabl.png" group-title="Познавательные", Плюс Минус 16
+#EXTGRP:Познавательные
+http://media.16pm.ru/live/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="poexali" tvg-name="Поехали!" tvg-logo="http://epg.one/img/2350.png" group-title="Познавательные", Поехали!
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000002991/tve/index.m3u8
@@ -1137,6 +1143,9 @@ http://193.25.8.59:8000/24Doc
 #EXTINF:-1 tvg-id="e-tv" tvg-name="E TV" tvg-logo="http://epg.one/img/1676.png" group-title="Познавательные", E TV
 #EXTGRP:Познавательные
 http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="epic" tvg-name="Epic" tvg-logo="http://epg.one/img/9054.png" group-title="Познавательные", Epic HD
+#EXTGRP:Познавательные
+http://193.25.8.59:8000/dtx
 #EXTINF:-1 tvg-id="euronews" tvg-name="Euronews Россия" tvg-logo="http://epg.one/img/2266.png" group-title="Познавательные", Euronews Россия
 #EXTGRP:Познавательные
 http://portal.ott.pink/C1PL_EuronewsRU/mpegts?token=9ED1CC22511FE66191AD465072EEE8DF
