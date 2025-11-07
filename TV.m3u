@@ -1930,6 +1930,24 @@ https://ucdn.beetv.kz/bpk-tv/000004375/tve/index.m3u8
 
 
 
+#EXTINF:-1 tvg-name="НТВ Невский" tvg-logo="http://epg.one/img/162.png" group-title="Кинозал", НТВ Невский
+#EXTGRP:Кинозал
+https://cdn-dvr.ntv.ru/Nevskiy/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="НТВ Первый отдел" tvg-logo="http://epg.one/img/162.png" group-title="Кинозал", НТВ Первый отдел
+#EXTGRP:Кинозал
+https://cdn-dvr.ntv.ru/Perviy_otdel/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="НТВ Пёс" tvg-logo="http://epg.one/img/162.png" group-title="Кинозал", НТВ Пёс
+#EXTGRP:Кинозал
+https://cdn-dvr.ntv.ru/Pes/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="НТВ Скорая помощь" tvg-logo="http://epg.one/img/162.png" group-title="Кинозал", НТВ Скорая помощь
+#EXTGRP:Кинозал
+https://cdn-dvr.ntv.ru/Skoraja_pomosh/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="НТВ Следствие вели..." tvg-logo="http://epg.one/img/162.png" group-title="Кинозал", НТВ Следствие вели...
+#EXTGRP:Кинозал
+https://cdn-dvr.ntv.ru/sledstvie/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="НТВ Шеф" tvg-logo="http://epg.one/img/162.png" group-title="Кинозал", НТВ Шеф
+#EXTGRP:Кинозал
+https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="bcu-svaty" tvg-name="BCU Сваты HD" tvg-logo="http://epg.one/img/4768.png" group-title="Кинозал", BCU Сваты HD
 #EXTGRP:Кинозал
 http://50.7.28.226/8889/index.m3u8
