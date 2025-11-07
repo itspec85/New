@@ -3017,6 +3017,9 @@ https://v.dzertv.ru:8588/dzertv/live_yandex/tracks-v1a1/mono.m3u8
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://a0925677.xsph.ru/hls/zabava/region/RD/CH_DON24HD.m3u8
+#EXTINF:-1 tvg-name="ДОН Лайф" tvg-logo="https://avatars.mds.yandex.net/i?id=eb8b516e72dbfaf60a34dd5a46a17e1e0a89f1ad-10809692-images-thumbs&n=13" group-title="Региональные РФ", ДОН Лайф
+#EXTGRP:Региональные РФ
+http://live-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="Елец ТВ Липецк" tvg-logo="https://avatars.mds.yandex.net/i?id=d0bab245ad356f45e58535b8709de4f44fdd0d96-10833537-images-thumbs&n=13" group-title="Региональные РФ", Елец ТВ Липецк
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
