@@ -1315,6 +1315,18 @@ http://a0925677.xsph.ru/hls/DVB-T2/CH_KARUSEL_2.m3u8
 #EXTGRP:Детские
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://a0925677.xsph.ru/hls/DVB-T2/CH_KARUSEL_4.m3u8
+#EXTINF:-1 tvg-id="karusel" tvg-shift="-6" tvg-name="Карусель +6" tvg-logo="http://epg.one/img/740.png" group-title="Детские", Карусель +6
+#EXTGRP:Детские
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://a0925677.xsph.ru/hls/DVB-T2/CH_KARUSEL_6.m3u8
+#EXTINF:-1 tvg-id="karusel-pl7" tvg-name="Карусель (+7)" tvg-logo="http://epg.one/img/1107.png" group-title="Детские", Карусель +7
+#EXTGRP:Детские
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://a0925677.xsph.ru/hls/DVB-T2/CH_KARUSEL_7.m3u8
+#EXTINF:-1 tvg-id="karusel-pl8" tvg-name="Карусель (+8)" tvg-logo="http://epg.one/img/740.png" group-title="Детские", Карусель +8
+#EXTGRP:Детские
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://a0925677.xsph.ru/hls/DVB-T2/CH_KARUSEL_8.m3u8
 #EXTINF:-1 tvg-id="karusel-int" tvg-name="Карусель International" tvg-logo="https://iptvx.one/picons/karusel.png" group-title="Детские", Карусель International
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000000781/tve/index.m3u8
