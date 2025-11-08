@@ -1474,7 +1474,7 @@ http://193.27.209.122/tiji/index.m3u8
 https://mhd128.iptv2022.com/p/J2FZhUdQiA2D4uF2N9WDOQ,1762635609/streaming/blokbaster/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="blokbaster" tvg-name="Блокбастер HD" tvg-logo="http://epg.one/img/2832.png" group-title="Кино", Блокбастер HD
 #EXTGRP:Кино
-http://iptv46.mcx-ix.ru:8077/blokbaster_hd/index.m3u8
+http://193.33.88.172/blokbaster_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Видеокассета TV" tvg-logo="https://avatars.mds.yandex.net/i?id=aa54d677b7da13a106d22ee95411b140d0009712-15274206-images-thumbs&n=13" group-title="Кино", Видеокассета TV
 #EXTGRP:Кино
 https://132544.edgevideo.ru/streams/132544_973517/1325441080/index.m3u8
@@ -1510,7 +1510,7 @@ http://217.25.80.16/kamedi_hd/mono.m3u8
 https://ucdn.beetv.kz/bpk-tv/000008136/tve/index.m3u8
 #EXTINF:-1 tvg-id="kino1int-tviksel" tvg-name="Кино 1 International" tvg-logo="http://epg.one/img/6258.png" group-title="Кино", Кино 1 International
 #EXTGRP:Кино
-http://dmitry-tv.ddns.net/hls/CH_KINO1_INT.m3u8
+https://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 tvg-id="kino-tv" tvg-name="Кино ТВ" tvg-logo="http://epg.one/img/1037.png" group-title="Кино", КИНО ТВ
 #EXTGRP:Кино
 http://194.32.242.245/kinotv/index.m3u8
@@ -1534,7 +1534,7 @@ http://158.101.222.193:88/georgia_play.php?id=kinomiks
 http://95.66.188.74/Kinopokaz/mono.m3u8
 #EXTINF:-1 tvg-id="kinopremiera-hd" tvg-name="Кинопремьера" tvg-logo="http://epg.one/img/566.png" group-title="Кино", Кинопремьера
 #EXTGRP:Кино
-http://iptv46.mcx-ix.ru:8077/premiera/index.m3u8
+http://139.28.255.188:8080/kinoprem/index.m3u8
 #EXTINF:-1 tvg-id="kinosat" tvg-name="Киносат" tvg-logo="http://epg.one/img/2407.png" group-title="Кино", Киносат
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000003871/tve/index.m3u8
@@ -1555,13 +1555,10 @@ http://158.101.222.193:88/georgia_play.php?id=kinoseria
 http://tvip.btk.teleos.ru:8081/chid461/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="kinoxit" tvg-name="Кинохит" tvg-logo="http://epg.one/img/542.png" group-title="Кино", КИНОХИТ
 #EXTGRP:Кино
-http://87.246.54.249:8085/KinoHit/index.m3u8
+http://94.232.127.28:8080/kinohit/index.m3u8
 #EXTINF:-1 tvg-id="komedijnoe-hd" tvg-name="Комедийное HD" tvg-logo="http://epg.one/img/138.png" group-title="Кино", Комедийное HD
 #EXTGRP:Кино
 http://178.217.72.72/komediynoe/index.m3u8
-#EXTINF:-1 tvg-name="Любимое индийское кино" tvg-logo="https://yootv.online/images/logo-channel/lyubimoe-indijskoe-kino-tv.png" group-title="Кино", Любимое индийское кино
-#EXTGRP:Кино
-https://autopilot.catcast.tv/content/41596/index.m3u8
 #EXTINF:-1 tvg-id="lubimoe-kino" tvg-name="Любимое кино" tvg-logo="http://epg.one/img/477.png" group-title="Кино", Любимое Кино
 #EXTGRP:Кино
 http://46.8.46.14/Nashe_Lubimoe_Kino/index.m3u8
