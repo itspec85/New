@@ -1401,7 +1401,7 @@ http://194.26.229.213/souzmultfilm/index.m3u8
 http://195.26.83.96:7006/play/a00z/index.m3u8
 #EXTINF:-1 tvg-id="malysh" tvg-name="СуперГерои" tvg-logo="http://epg.one/img/2239.png" group-title="Детские", СуперГерои
 #EXTGRP:Детские
-http://iptv46.mcx-ix.ru:8077/malish/index.m3u8
+http://91.207.115.228:5000/c71
 #EXTINF:-1 tvg-id="detsky" tvg-name="Уникум" tvg-logo="http://epg.one/img/66.png" group-title="Детские", Уникум
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000000048/tve/index.m3u8
@@ -2115,7 +2115,7 @@ http://50.7.28.226/9183/index.m3u8
 http://50.7.28.226/9170/index.m3u8
 #EXTINF:-1 tvg-id="start" tvg-name="Старт" tvg-logo="http://epg.one/img/2530.png" group-title="Спорт", СТАРТ
 #EXTGRP:Спорт
-http://iptv46.mcx-ix.ru:8077/start_hd/index.m3u8
+http://193.33.88.172/start_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="start-basket" tvg-name="Старт Баскет" tvg-logo="https://epgx.club/picons/start-basket.png" group-title="Спорт", Старт Баскет
 #EXTGRP:Спорт
 https://bl.webcaster.pro/media/playlist/free_621d169e5c631c638136df3cb136c5c9/33_68881676/1080p/b32eaae5fbf1d2b8211543566a1d9a78/4914392769.m3u8?live=15&ref=https://tvstart.ru/channels/start-basket-test/
@@ -2127,7 +2127,7 @@ https://ucdn.beetv.kz/bpk-tv/000007802/tve/index.m3u8
 http://87.246.54.249:8085/UDAR/index.m3u8
 #EXTINF:-1 tvg-id="football-ru" tvg-name="Футбол" tvg-logo="http://epg.one/img/2782.png" group-title="Спорт", Футбол
 #EXTGRP:Спорт
-http://iptv46.mcx-ix.ru:8077/football/index.m3u8
+http://193.33.88.172/football/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="A21 Network" tvg-logo="https://a21network.ru/wp-content/uploads/2022/02/a21_live.jpg" group-title="Спорт", A21 Network
 #EXTGRP:Спорт
 https://autopilot.catcast.tv/content/37909/index.m3u8
@@ -2403,7 +2403,7 @@ https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
 http://194.32.242.245/viasatsport/index.m3u8
 #EXTINF:-1 tvg-id="viasat-sport" tvg-name="Viju+ Sport HD" tvg-logo="http://epg.one/img/2055.png" group-title="Спорт", Viju+ Sport HD
 #EXTGRP:Спорт
-http://iptv46.mcx-ix.ru:8077/ViasatSportHD/index.m3u8
+http://217.25.80.16/Viasat_Sport_HD/mono.m3u8
 #EXTINF:-1 tvg-name="World Poker Tour USA" tvg-logo="https://avatars.mds.yandex.net/i?id=bc2003e45785f22c83853338865075e9c9638944-9877580-images-thumbs&n=13" group-title="Спорт", World Poker Tour USA
 #EXTGRP:Спорт
 http://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
@@ -2574,7 +2574,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d
 https://ucdn.beetv.kz/bpk-tv/000000447/tve/index.m3u8
 #EXTINF:-1 tvg-id="russian-musicbox" tvg-name="Music Box Russia" tvg-logo="http://epg.one/img/2409.png" group-title="Музыка", Music Box Russia
 #EXTGRP:Музыка
-http://iptv46.mcx-ix.ru:8077/music-box-ru/index.m3u8
+http://193.33.88.172/music-box-ru/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Muzzik ELECTRO" tvg-logo="https://avatars.mds.yandex.net/i?id=ca03722ba4159f7610aef5036ca02362_sr-5384260-images-thumbs&n=13" group-title="Музыка", Muzzik ELECTRO
 #EXTGRP:Музыка
 http://muzzik-live.morescreens.com/mts-9/576p/chunklist.m3u8
@@ -3448,7 +3448,7 @@ https://simf.1tvcrimea.ru/simferopol24.m3u8
 http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Среда HD" tvg-logo="https://cdn.epg.one/img/9083.png" group-title="Региональные РФ", Среда HD
 #EXTGRP:Региональные РФ
-http://iptv46.mcx-ix.ru:8077/sreda/index.m3u8
+http://50.7.28.226/8295/index.m3u8
 #EXTINF:-1 tvg-id="stv24" tvg-name="СТВ Северодвинск" tvg-logo="https://avatars.mds.yandex.net/i?id=6d6550a7f6679f8c19c3052d5cdc972cad037f87-12509309-images-thumbs&n=13" group-title="Региональные РФ", СТВ Северодвинск
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
