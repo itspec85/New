@@ -935,7 +935,7 @@ https://ucdn.beetv.kz/bpk-tv/000000286/tve/index.m3u8
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
 #EXTINF:-1 tvg-id="nadezhda" tvg-name="Надежда" tvg-logo="http://epg.one/img/1732.png" group-title="Познавательные", Надежда
 #EXTGRP:Познавательные
-http://a0925677.xsph.ru/hls/CH_NADEZHDAHD720.m3u8
+http://dmitry-tv.ddns.net/hls/CH_NADEZHDAHD720.m3u8
 #EXTINF:-1 tvg-id="narod-vsio-vidit" tvg-name="Народ Всё Видит" tvg-logo="https://iptvx.one/picons/narod-vsio-vidit.png" group-title="Познавательные", Народ Всё Видит
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000008614/tve/index.m3u8
@@ -1133,7 +1133,7 @@ https://ucdn.beetv.kz/bpk-tv/000000707/tve/index.m3u8
 http://95.67.12.82:9083
 #EXTINF:-1 tvg-id="deutsche-welle-eu" tvg-name="Deutsche Welle EN" tvg-logo="http://epg.one/img/8638.png" group-title="Познавательные", Deutsche Welle EN
 #EXTGRP:Познавательные
-http://a0925677.xsph.ru/hls/CH_DW_ENGLISHHD.m3u8
+http://dmitry-tv.ddns.net/hls/CH_DW_ENGLISHHD.m3u8
 #EXTINF:-1 tvg-id="deutsche-welle-ru" tvg-name="Deutsche Welle Russia" tvg-logo="https://avatars.mds.yandex.net/i?id=dda236ab5b048258b8c49f5ceb446c5fecbcd7d3a9ea305b-13290936-images-thumbs&n=13" group-title="Познавательные", Deutsche Welle Russia
 #EXTGRP:Познавательные
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
@@ -1818,7 +1818,7 @@ http://5.188.158.65:4040/IPTVPLAYUZHASTIK.tv/video.m3u8?token=lqRGka5-YwwqF0
 http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1 tvg-id="kino-24" tvg-name="Kino 24" tvg-logo="https://epgx.club/picons/kino-24.png" group-title="Кино", Kino 24
 #EXTGRP:Кино
-http://a0925677.xsph.ru/hls/CH_KINO24.m3u8
+http://dmitry-tv.ddns.net/hls/CH_KINO24.m3u8
 #EXTINF:-1 tvg-id="kinoliving" tvg-name="KinoLiving" tvg-logo="http://epg.one/img/9123.png" group-title="Кино", KinoLiving
 #EXTGRP:Кино
 http://tvip.btk.teleos.ru:8081/chid413/tracks-v1a1/mono.m3u8
@@ -2794,7 +2794,7 @@ http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_EKB1/hls/1024x576@2024/playlis
 #EXTINF:-1 tvg-id="6kanal-vlad" tvg-name="6 канал Владимир" tvg-logo="https://avatars.mds.yandex.net/i?id=7822523f8afc5a6e544b534c0631a910fd673288-9103868-images-thumbs&n=13" group-title="Региональные РФ", 6 канал Владимир
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://a0925677.xsph.ru/hls/zabava/region/VLAD/CH_6KANALHD.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/VLAD/CH_6KANALHD.m3u8
 #EXTINF:-1 tvg-id="6tv" tvg-name="6 ТВ" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/2/24/6%D0%A2%D0%92_%D0%A5%D0%B0%D0%B1%D0%B0%D1%80%D0%BE%D0%B2%D1%81%D0%BA_2022-%D0%BD.%D0%B2.jpg/revision/latest/scale-to-width-down/220?cb=20221201035159&path-prefix=ru" group-title="Региональные РФ", 6 тв
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
