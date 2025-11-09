@@ -1713,7 +1713,7 @@ https://ucdn.beetv.kz/bpk-tv/000000520/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000000213/tve/index.m3u8
 #EXTINF:-1 tvg-id="sony-scifi" tvg-name=".sci-fi" tvg-logo="http://epg.one/img/516.png" group-title="Кино", .sci-fi
 #EXTGRP:Кино
-http://188.237.47.212:6001
+http://91.194.191.241:8081/chid77/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Alpha Cinema" tvg-logo="https://avatars.mds.yandex.net/i?id=5881e5d66b4fd37d34441f48c9160147-4743742-images-thumbs&n=13" group-title="Кино", Alpha Cinema
 #EXTGRP:Кино
 http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
@@ -1834,9 +1834,6 @@ https://ucdn.beetv.kz/bpk-tv/000007625/tve/index.m3u8
 #EXTINF:-1 tvg-id="romance" tvg-name="Romance HD" tvg-logo="http://epg.one/img/9179.png" group-title="Кино", Romance HD
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000008780/tve/index.m3u8
-#EXTINF:-1 tvg-name="Scripach TV" tvg-logo="https://avatars.mds.yandex.net/i?id=400848349a31cad07c86125558fe48c347ccde11-8340358-images-thumbs&n=13" group-title="Кино", Scripach TV
-#EXTGRP:Кино
-http://132544.edgevideo.ru/streams/132544_935537/1325441080/index.m3u8
 #EXTINF:-1 tvg-name="SeleCaoTV 1" tvg-logo="https://avatars.mds.yandex.net/i?id=d0474ff4a0ea5b32fdd602b0cb9b6d52-5233472-images-thumbs&n=13" group-title="Кино", SeleCaoTV 1
 #EXTGRP:Кино
 https://132544.edgevideo.ru/streams/132544_951371/playlist.m3u8
