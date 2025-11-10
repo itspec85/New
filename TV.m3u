@@ -1489,7 +1489,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/playlist.m3u8
 http://188.190.222.53/Den_pobedy_hd/index.m3u8
 #EXTINF:-1 tvg-name="Джеки Чан" tvg-logo="https://avatars.mds.yandex.net/i?id=67bcb97cb810adefe482042e861c0cf1f204c922-5219777-images-thumbs&n=13" group-title="Кино", Джеки Чан
 #EXTGRP:Кино
-
+https://live20.bozztv.com/akamaissh101/ssh101/livejackie50e/playlist.m3u8
 #EXTINF:-1 tvg-id="domkino" tvg-name="Дом кино" tvg-logo="http://epg.one/img/834.png" group-title="Кино", Дом Кино
 #EXTGRP:Кино
 http://46.8.46.14/domkino/index.m3u8
@@ -1957,6 +1957,9 @@ http://178.217.72.72/BCUCinemaHD/index.m3u8
 #EXTINF:-1 tvg-id="bcu-comedy" tvg-name="BCU Comedy HD" tvg-logo="http://epg.one/img/5515.png" group-title="Кинозал", BCU Comedy HD
 #EXTGRP:Кинозал
 http://178.217.72.72/BCUComedyHD/index.m3u8
+#EXTINF:-1 tvg-id="bcu-criminal" tvg-name="BCU Criminal HD" tvg-logo="http://epg.one/img/4769.png" group-title="Кинозал", BCU Criminal HD
+#EXTGRP:Кинозал
+http://50.7.28.226/8890/index.m3u8
 #EXTINF:-1 tvg-id="bcu-fantastic" tvg-name="BCU Fantastic HD" tvg-logo="http://epg.one/img/4753.png" group-title="Кинозал", BCU Fantastic HD
 #EXTGRP:Кинозал
 http://178.217.72.72/BCUFantasticHD/index.m3u8
@@ -1975,12 +1978,21 @@ http://lb.wisp.cat/lb0/BCUMarvelHD/mpegts?token=nPfO4rRaax
 #EXTINF:-1 tvg-id="bcu-premiere" tvg-name="BCU Premiere HD" tvg-logo="http://epg.one/img/4760.png" group-title="Кинозал", BCU Premiere HD
 #EXTGRP:Кинозал
 http://178.217.72.72/BCUPremiereHD/index.m3u8
+#EXTINF:-1 tvg-id="bcu-reality" tvg-name="BCU Reality HD" tvg-logo="http://epg.one/img/6131.png" group-title="Кинозал", BCU Reality HD
+#EXTGRP:Кинозал
+http://50.7.28.226/8910/index.m3u8
 #EXTINF:-1 tvg-id="bcu-romantic" tvg-name="BCU Romantic HD" tvg-logo="http://epg.one/img/4761.png" group-title="Кинозал", BCU Romantic HD
 #EXTGRP:Кинозал
 http://50.7.28.226/8884/index.m3u8
 #EXTINF:-1 tvg-id="bcu-stars" tvg-name="BCU Stars HD" tvg-logo="http://epg.one/img/4765.png" group-title="Кинозал", BCU Stars HD
 #EXTGRP:Кинозал
 http://178.217.72.72/BCUStarsHD/index.m3u8
+#EXTINF:-1 tvg-id="bcu-survival" tvg-name="BCU Survival HD" tvg-logo="http://epg.one/img/6175.png" group-title="Кинозал", BCU Survival HD
+#EXTGRP:Кинозал
+http://50.7.28.226/8912/index.m3u8
+#EXTINF:-1 tvg-id="bcu-trumotion" tvg-name="BCU TruMotion HD" tvg-logo="http://epg.one/img/6198.png" group-title="Кинозал", BCU TruMotion HD
+#EXTGRP:Кинозал
+http://50.7.28.226/8977/index.m3u8
 #EXTINF:-1 tvg-id="bcu-vhs" tvg-name="BCU VHS HD" tvg-logo="http://epg.one/img/4763.png" group-title="Кинозал", BCU VHS HD
 #EXTGRP:Кинозал
 http://178.217.72.72/BCUVHSHD/index.m3u8
