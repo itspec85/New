@@ -2610,7 +2610,7 @@ https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/
 #EXTINF:-1 tvg-name="Deluxe Rap" tvg-logo="https://i.imgur.com/s3h67hx.png" group-title="Музыка", Deluxe Rap
 #EXTGRP:Музыка
 http://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
-#EXTINF:-1 tvg-id="schlager-deluxe-de" tvg-name="Deluxe Schlager" tvg-logo="http:/epg.one/img/8120.png" group-title="Музыка", Deluxe Schlager
+#EXTINF:-1 tvg-id="schlager-deluxe-de" tvg-name="Deluxe Schlager" tvg-logo="http://epg.one/img/8120.png" group-title="Музыка", Deluxe Schlager
 #EXTGRP:Музыка
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
 #EXTINF:-1 tvg-id="dream-turk-tr" tvg-name="Dream Türk [TR]" tvg-logo="http://epg.one/img/3928.png" group-title="Музыка", DREAM TÜRK
