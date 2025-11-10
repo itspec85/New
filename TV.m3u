@@ -2197,15 +2197,6 @@ http://lisabontv.pro:8080/uPPfXAm8/qd3wzEx/551894
 #EXTINF:-1 tvg-id="arena-sport-10-rs" tvg-name="Arena Sport 10 [RS]" tvg-logo="https://epgx.club/picons/arena-sport-10-rs.png" group-title="Спорт", Arena Sport 10 RS
 #EXTGRP:Спорт
 http://lisabontv.pro:8080/uPPfXAm8/qd3wzEx/551892
-#EXTINF:-1 tvg-id="arena-adrenalin-rs" tvg-name="Arena Adrenalin [RS]" tvg-logo="https://epgx.club/picons/arena-adrenalin-rs.png" group-title="Спорт", Arena Adrenalin RS
-#EXTGRP:Спорт
-http://cms-portals.com:80/3HfCPHQ4YPhdhdjd*/FXi43QiKsO/13567
-#EXTINF:-1 tvg-id="arena-fight" tvg-name="Arena Fight HD" tvg-logo="http://epg.one/img/9270.png" group-title="Спорт", Arena Fight RS
-#EXTGRP:Спорт
-http://cms-portals.com:80/3HfCPHQ4YPhdhdjd*/FXi43QiKsO/13402
-#EXTINF:-1 tvg-id="arena-tenis-rs" tvg-name="Arena Tenis [RS]" tvg-logo="https://epgx.club/picons/arena-tenis-rs.png" group-title="Спорт", Arena Tenis RS
-#EXTGRP:Спорт
-http://cms-portals.com:80/3HfCPHQ4YPhdhdjd*/FXi43QiKsO/13568
 #EXTINF:-1 tvg-name="beIN Sports 1 HD TR" tvg-logo="http://epg.one/img/5092.png" group-title="Спорт", beIN Sports 1 HD TR
 #EXTGRP:Спорт
 http://nxsmrt4.xyz:80/live/ismailbekci1/3X6DMdu9GR/65245.ts
@@ -2239,18 +2230,6 @@ http://xcmaster.live:8080/dimich2/FndU5rTDk9/665136
 #EXTINF:-1 tvg-name="DAZN Combat" tvg-logo="https://i.postimg.cc/VsW3Jsrz/logo-DAZN-Combat.png" group-title="Спорт", DAZN Combat
 #EXTGRP:Спорт
 https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
-#EXTINF:-1 tvg-id="digisport1" tvg-name="DIGI Sport 1 HD RO" tvg-logo="http://epg.one/img/2907.png" group-title="Спорт", DIGI Sport 1 HD RO
-#EXTGRP:Спорт
-http://newborne.pro:8080/Fati/998/86413
-#EXTINF:-1 tvg-id="digisport2" tvg-name="DIGI Sport 2 HD RO" tvg-logo="http://epg.one/img/2906.png" group-title="Спорт", DIGI Sport 2 HD RO
-#EXTGRP:Спорт
-http://newborne.pro:8080/Fati/998/86414
-#EXTINF:-1 tvg-id="digisport3" tvg-name="DIGI Sport 3 HD RO" tvg-logo="http://epg.one/img/2908.png" group-title="Спорт", DIGI Sport 3 HD RO
-#EXTGRP:Спорт
-http://newborne.pro:8080/Fati/998/86415
-#EXTINF:-1 tvg-id="digisport4" tvg-name="DIGI Sport 4 HD RO" tvg-logo="http://epg.one/img/2922.png" group-title="Спорт", DIGI Sport 4 HD RO
-#EXTGRP:Спорт
-http://newborne.pro:8080/Fati/998/86416
 #EXTINF:-1 tvg-id="espn-us" tvg-name="ESPN USA" tvg-logo="http://epg.one/img/6582.png" group-title="Спорт", ESPN USA
 #EXTGRP:Спорт
 http://cord-cutter.net:8080/LeeAv21/AvantL12/14197
@@ -2259,14 +2238,14 @@ http://cord-cutter.net:8080/LeeAv21/AvantL12/14197
 https://ucdn.beetv.kz/bpk-tv/000002478/tve/index.m3u8
 #EXTINF:-1 tvg-id="eurosport1" tvg-name="Eurosport 1" tvg-logo="http://epg.one/img/2052.png" group-title="Спорт", Eurosport 1 HD
 #EXTGRP:Спорт
-http://195.64.140.147:10114/114
+http://87.76.32.36:8001/eurosport1hd
 #EXTINF:-1 tvg-id="eurosport2" tvg-name="Eurosport 2" tvg-logo="http://epg.one/img/4313.png" group-title="Спорт", Eurosport 2
 #EXTGRP:Спорт
 https://ucdn.beetv.kz/bpk-tv/000002479/tve/index.m3u8
 #EXTINF:-1 tvg-id="eurosport2" tvg-name="Eurosport 2" tvg-logo="http://epg.one/img/4313.png" group-title="Спорт", Eurosport 2 HD
 #EXTGRP:Спорт
 http://tvip.btk.teleos.ru:8081/chid52/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="extreme-sports" tvg-name="Extreme Sports" tvg-logo="http://epg.one/img/2053.png" group-title="Спорт", Extreme Sports
+#EXTINF:-1 tvg-id="extreme-sports" tvg-name="Extreme Sports" tvg-logo="http://epg.one/img2053.png" group-title="Спорт", Extreme Sports
 #EXTGRP:Спорт
 https://ucdn.beetv.kz/bpk-tv/000000026/tve/index.m3u8
 #EXTINF:-1 tvg-name="FITE 24/7" tvg-logo="https://i.imgur.com/ESV6qgH.png" group-title="Спорт", FITE 24/7
@@ -2295,13 +2274,13 @@ http://91.194.191.241:8081/chid55/tracks-v1a1/mono.m3u8
 http://194.143.148.28:8080/KHL_HD/mpegts
 #EXTINF:-1 tvg-id="kxl-hd" tvg-name="KHL Prime HD" tvg-logo="http://epg.one/img/1038.png" group-title="Спорт", KHL Prime HD (резерв)
 #EXTGRP:Спорт
-http://87.246.54.249:8085/KHL/index.m3u8
+http://50.7.28.226/8297/index.m3u8
 #EXTINF:-1 tvg-id="mlb-network-us" tvg-name="MLB Network HD CA" tvg-logo="http://epg.one/img/3654.png" group-title="Спорт", MLB Network HD CA
 #EXTGRP:Спорт
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e66968a70f34c0007d050be/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c29dbd3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0f1d3baf-2f1b-47d7-9966-3e92a98f1c8a&serverSideAds=false
 #EXTINF:-1 tvg-id="m1global" tvg-name="MMA-TV.com" tvg-logo="http://epg.one/img/2326.png" group-title="Спорт", MMA-TV.com
 #EXTGRP:Спорт
-http://87.246.54.249:8085/MMATV/index.m3u8
+http://87.76.32.36:8001/m1global
 #EXTINF:-1 tvg-id="nba-tv" tvg-name="NBA TV HD US" tvg-logo="http://epg.one/img/4587.png" group-title="Спорт", NBA TV HD US
 #EXTGRP:Спорт
 http://nxsmrt4.xyz:80/live/ismailbekci1/3X6DMdu9GR/865608.ts
@@ -2317,21 +2296,6 @@ https://pac12-roku-us.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="PokerGo" tvg-logo="https://avatars.mds.yandex.net/i?id=7822bfec4e4ddfe39ced9e298ca559e312340267-5295169-images-thumbs&n=13" group-title="Спорт", PokerGo
 #EXTGRP:Спорт
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fc54366b04b2300072e31af/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b6274-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a68d07ef-a794-43f8-a287-3bd7f27d909b
-#EXTINF:-1 tvg-id="prima-sport-1" tvg-name="Prima Sport 1 HD" tvg-logo="https://epgx.club/picons/prima-sport-1.png" group-title="Спорт", Prima Sport 1 HD RO
-#EXTGRP:Спорт
-http://andreeamarin.info:8008/Elena_rascu/vs1eNAT5/146486
-#EXTINF:-1 tvg-id="prima-sport-2" tvg-name="Prima Sport 2 HD" tvg-logo="https://epgx.club/picons/prima-sport-2.png" group-title="Спорт", Prima Sport 2 HD RO
-#EXTGRP:Спорт
-http://andreeamarin.info:8008/Elena_rascu/vs1eNAT5/146488
-#EXTINF:-1 tvg-id="prima-sport-3" tvg-name="Prima Sport 3 HD" tvg-logo="https://epgx.club/picons/prima-sport-3.png" group-title="Спорт", Prima Sport 3 HD RO
-#EXTGRP:Спорт
-http://andreeamarin.info:8008/Elena_rascu/vs1eNAT5/157160
-#EXTINF:-1 tvg-id="prima-sport-4" tvg-name="Prima Sport 4 HD" tvg-logo="https://epgx.club/picons/prima-sport-4.png" group-title="Спорт", Prima Sport 4 HD RO
-#EXTGRP:Спорт
-http://andreeamarin.info:8008/Elena_rascu/vs1eNAT5/157161
-#EXTINF:-1 tvg-id="prima-sport-5" tvg-name="Prima Sport 5 HD" tvg-logo="https://epgx.club/picons/prima-sport-5.png" group-title="Спорт", Prima Sport 5 HD RO
-#EXTGRP:Спорт
-http://andreeamarin.info:8008/Elena_rascu/vs1eNAT5/157162
 #EXTINF:-1 tvg-name="Prosto Drive" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00349.png" group-title="Спорт", Prosto Drive
 #EXTGRP:Спорт
 http://iptv.prosto.tv:7000/ch326/video.m3u8
