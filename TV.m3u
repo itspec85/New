@@ -2565,16 +2565,19 @@ https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m
 #EXTINF:-1 tvg-id="bridge-tv" tvg-name="Bridge TV" tvg-logo="http://epg.one/img/151.png" group-title="Музыка", Bridge TV
 #EXTGRP:Музыка
 http://95.66.188.74/BridgeTV/mono.m3u8
-#EXTINF:-1 tvg-id="bridge-tv-ruxit" tvg-name="Bridge Русский хит" tvg-logo="http://epg.one/img/591.png" group-title="Музыка", Bridge Русский Хит
+#EXTINF:-1 tvg-id="bridge-tv-ruxit" tvg-name="Bridge TV Русский хит" tvg-logo="http://epg.one/img/591.png" group-title="Музыка", Bridge Русский Хит
 #EXTGRP:Музыка
 http://193.25.8.59:8000/rusong
-#EXTINF:-1 tvg-id="bridge-tv-shlager" tvg-name="Bridge Шлягер" tvg-logo="http://epg.one/img/4621.png" group-title="Музыка", Bridge Шлягер
+#EXTINF:-1 tvg-id="bridge-tv-fresh" tvg-name="Bridge TV Фрэш" tvg-logo="http://epg.one/img/8803.png" group-title="Музыка", Bridge TV Фрэш HD
+#EXTGRP:Музыка
+http://50.7.28.226/9230/index.m3u8
+#EXTINF:-1 tvg-id="bridge-tv-shlager" tvg-name="Bridge TV Шлягер" tvg-logo="http://epg.one/img/4621.png" group-title="Музыка", Bridge Шлягер
 #EXTGRP:Музыка
 http://178.212.71.253:8000/play/142/index.m3u8
-#EXTINF:-1 tvg-id="bridge-tv-etno" tvg-name="Bridge Этно" tvg-logo="https://epgx.club/picons/bridge-tv-etno.png" group-title="Музыка", Bridge Этно
+#EXTINF:-1 tvg-id="bridge-tv-etno" tvg-name="Bridge TV Этно" tvg-logo="https://epgx.club/picons/bridge-tv-etno.png" group-title="Музыка", Bridge Этно
 #EXTGRP:Музыка
 http://tvip.btk.teleos.ru:8081/chid520/index.m3u8
-#EXTINF:-1 tvg-id="bridge-tv-classic" tvg-name="Bridge Classic" tvg-logo="http://epg.one/img/4373.png" group-title="Музыка", Bridge Classic orig
+#EXTINF:-1 tvg-id="bridge-tv-classic" tvg-name="Bridge TV Classic" tvg-logo="http://epg.one/img/4373.png" group-title="Музыка", Bridge Classic orig
 #EXTGRP:Музыка
 http://195.158.223.132:8004/Bridge_Classic
 #EXTINF:-1 tvg-id="bridge-hd" tvg-name="Bridge TV Deluxe" tvg-logo="http://epg.one/img/2022.png" group-title="Музыка", Bridge Deluxe HD
@@ -2583,7 +2586,7 @@ http://178.217.72.72/Bridge_HD/index.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-dance" tvg-name="Bridge TV Hits" tvg-logo="http://epg.one/img/2024.png" group-title="Музыка", Bridge Hits
 #EXTGRP:Музыка
 http://46.8.46.14/BridgeDance/index.m3u8
-#EXTINF:-1 tvg-id="bridge-tv-rock" tvg-name="Bridge Rock" tvg-logo="http://epg.one/img/6188.png" group-title="Музыка", Bridge Rock
+#EXTINF:-1 tvg-id="bridge-tv-rock" tvg-name="Bridge TV Rock" tvg-logo="http://epg.one/img/6188.png" group-title="Музыка", Bridge Rock
 #EXTGRP:Музыка
 http://50.7.28.226/9229/index.m3u8
 #EXTINF:-1 tvg-id="clubbing-tv" tvg-name="Clubbing TV" tvg-logo="http://epg.one/img/2628.png" group-title="Музыка", Clubbing TV
