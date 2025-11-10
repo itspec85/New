@@ -1339,9 +1339,6 @@ http://dmitry-tv.ddns.net/hls/DVB-T2/CH_KARUSEL_8.m3u8
 #EXTINF:-1 tvg-id="karusel-int" tvg-name="Карусель International" tvg-logo="https://iptvx.one/picons/karusel.png" group-title="Детские", Карусель International
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000000781/tve/index.m3u8
-#EXTINF:-1 tvg-id="kinomult" tvg-name="Киномульт" tvg-logo="http://epg.one/img/9024.png" group-title="Детские", КиноМульт
-#EXTGRP:Детские
-http://tvip.btk.teleos.ru:8081/chid173/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="liova" tvg-name="Лёва HD" tvg-logo="http://epg.one/img/7990.png" group-title="Детские", Лёва HD
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000008003/tve/index.m3u8
@@ -1447,10 +1444,6 @@ http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1 tvg-id="jimjam" tvg-name="JimJam" tvg-logo="http://epg.one/img/494.png" group-title="Детские", Jim Jam
 #EXTGRP:Детские
 http://178.217.72.72/JimJam/index.m3u8
-#EXTINF:-1 tvg-id="kidstv" tvg-name="Kids TV HD" tvg-logo="http://epg.one/img/9025.png" group-title="Детские", Kids TV HD
-#EXTGRP:Детские
-#EXTVLCOPT:http-user-agent=mediacdn
-http://origin5.mediacdn.ru/live/kidstv/index.m3u8
 #EXTINF:-1 tvg-id="minimax-honey" tvg-name="MM Honey HD" tvg-logo="http://epg.one/img/5139.png" group-title="Детские", MM Honey HD
 #EXTGRP:Детские
 http://50.7.28.226/8895/index.m3u8
