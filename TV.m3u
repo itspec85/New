@@ -2254,7 +2254,7 @@ http://xcmaster.live:8080/dimich2/FndU5rTDk9/665136
 #EXTINF:-1 tvg-name="DAZN Combat" tvg-logo="https://i.postimg.cc/VsW3Jsrz/logo-DAZN-Combat.png" group-title="Спорт", DAZN Combat
 #EXTGRP:Спорт
 https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
-#EXTINF:-1 tvg-name="DAZN RingSide" tvg-logo="https://assets.teleon.tv/180_webp/dazn-ringside-uk.webp" group-title="Спорт", DAZN RingSide
+#EXTINF:-1 tvg-name="DAZN RingSide" tvg-logo="https://avatars.mds.yandex.net/i?id=2f129d551c512dfaa59fbb04b62b22cc1058685e-16331225-images-thumbs&n=13" group-title="Спорт", DAZN RingSide
 #EXTGRP:Спорт
 https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/playlist.m3u8
 #EXTINF:-1 tvg-id="digisport1" tvg-name="DIGI Sport 1 HD RO" tvg-logo="http://epg.one/img/2907.png" group-title="Спорт", DIGI Sport 1 HD RO
@@ -2290,7 +2290,7 @@ https://ucdn.beetv.kz/bpk-tv/000002479/tve/index.m3u8
 #EXTINF:-1 tvg-id="eurosport2" tvg-name="Eurosport 2" tvg-logo="http://epg.one/img/4313.png" group-title="Спорт", Eurosport 2 HD
 #EXTGRP:Спорт
 http://tvip.btk.teleos.ru:8081/chid52/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="extreme-sports" tvg-name="Extreme Sports" tvg-logo="http://epg.one/img2053.png" group-title="Спорт", Extreme Sports
+#EXTINF:-1 tvg-id="extreme-sports" tvg-name="Extreme Sports" tvg-logo="http://epg.one/img/2053.png" group-title="Спорт", Extreme Sports
 #EXTGRP:Спорт
 https://ucdn.beetv.kz/bpk-tv/000000026/tve/index.m3u8
 #EXTINF:-1 tvg-name="FITE 24/7" tvg-logo="https://i.imgur.com/ESV6qgH.png" group-title="Спорт", FITE 24/7
