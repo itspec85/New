@@ -2464,6 +2464,18 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-name="UFC Network" tvg-logo="https://avatars.mds.yandex.net/i?id=fa611cddd035e36dcb2808aa3d911b00-5911267-images-thumbs&n=13" group-title="Спорт", UFC Network
 #EXTGRP:Спорт
 https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="v-sport-extra-se" tvg-name="V Sport Extra [SE]" tvg-logo="http://epg.one/img/4904.png" group-title="Спорт", V Sport Extra
+#EXTGRP:Спорт
+http://server.shamelforu.com:8080/d0:03:df:ff:cb:7b/alg05112024/6084
+#EXTINF:-1 tvg-id="v-sport-football-se" tvg-name="V Sport Football [SE]" tvg-logo="http://epg.one/img/4796.png" group-title="Спорт", V Sport Football FHD
+#EXTGRP:Спорт
+http://xcmaster.live:8080/dimich2/FndU5rTDk9/632588
+#EXTINF:-1 tvg-id="v-sport-premium-se" tvg-name="V Sport Premium [SE]" tvg-logo="http://epg.one/img/4909.png" group-title="Спорт", V Sport Premium
+#EXTGRP:Спорт
+http://xcmaster.live:8080/dimich2/FndU5rTDk9/632584
+#EXTINF:-1 tvg-id="viasat-hockey-hd" tvg-name="V Sport Vinter" tvg-logo="http://epg.one/img/4797.png" group-title="Спорт", V Sport Vinter FHD
+#EXTGRP:Спорт
+http://xcmaster.live:8080/dimich2/FndU5rTDk9/632572
 #EXTINF:-1 tvg-id="viasat-sport" tvg-name="Viju+ Sport" tvg-logo="http://epg.one/img/2055.png" group-title="Спорт", Viju+ Sport
 #EXTGRP:Спорт
 http://194.32.242.245/viasatsport/index.m3u8
