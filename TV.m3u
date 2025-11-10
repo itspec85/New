@@ -1477,10 +1477,13 @@ https://mhd128.iptv2022.com/p/PDYmB6y4-4rbN1y62TbGLQ,1762808412/streaming/blokba
 http://193.33.88.172/blokbaster_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Видеокассета TV" tvg-logo="https://avatars.mds.yandex.net/i?id=aa54d677b7da13a106d22ee95411b140d0009712-15274206-images-thumbs&n=13" group-title="Кино", Видеокассета TV
 #EXTGRP:Кино
-https://132544.edgevideo.ru/streams/132544_973517/1325441080/index.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/playlist.m3u8
 #EXTINF:-1 tvg-id="denpobedy" tvg-name="День Победы HD" tvg-logo="http://epg.one/img/2773.png" group-title="Кино", День Победы HD
 #EXTGRP:Кино
 http://188.190.222.53/Den_pobedy_hd/index.m3u8
+#EXTINF:-1 tvg-name="Джеки Чан" tvg-logo="https://avatars.mds.yandex.net/i?id=67bcb97cb810adefe482042e861c0cf1f204c922-5219777-images-thumbs&n=13" group-title="Кино", Джеки Чан
+#EXTGRP:Кино
+
 #EXTINF:-1 tvg-id="domkino" tvg-name="Дом кино" tvg-logo="http://epg.one/img/834.png" group-title="Кино", Дом Кино
 #EXTGRP:Кино
 http://46.8.46.14/domkino/index.m3u8
@@ -1755,7 +1758,7 @@ http://94.232.127.28:8080/sony-turbo/index.m3u8
 http://91.194.191.241:8081/chid439/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Film Best TV" tvg-logo="https://avatars.mds.yandex.net/i?id=c5e9421c8de2437b79ebe48c6e2d0ab08e3f74b2-16413791-images-thumbs&n=13" group-title="Кино", Film Best TV
 #EXTGRP:Кино
-https://132544.edgevideo.ru/streams/132544_975653/1325441080/index.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/livefilmbest20e/playlist.m3u8
 #EXTINF:-1 tvg-id="filmua-drama" tvg-name="Film.UA Drama" tvg-logo="http://epg.one/img/8911.png" group-title="Кино", Film UA Drama
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000003028/tve/index.m3u8
