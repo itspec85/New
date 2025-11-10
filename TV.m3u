@@ -2221,22 +2221,22 @@ http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:BB:EE:72&stream=3028&extension=
 #EXTINF:-1 tvg-name="Billiard TV" tvg-logo="https://avatars.mds.yandex.net/i?id=b42dfcc65e0421933184166140afd83040f5ba1b-5369205-images-thumbs&n=13" group-title="Спорт", Billiard TV
 #EXTGRP:Спорт
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65df0cff66eec8000897b3a4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1cc775-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=36e4c683-680e-486f-91f0-ce1f0f88c4b6
-#EXTINF:-1 tvg-id="canal-pl-sport-1" tvg-name="Canal+ Sport [PL]" tvg-logo="https://epgx.club/picons/canal-pl-sport.png" group-title="Спорт", Canal+ Sport PL
+#EXTINF:-1 tvg-id="canal-pl-sport-1" tvg-name="Canal+ Sport [PL]" tvg-logo="https://epgx.club/picons/canal-pl-sport.png" group-title="Спорт", Canal + Sport Polska
 #EXTGRP:Спорт
 http://xcmaster.live:8080/dimich2/FndU5rTDk9/665102
 #EXTINF:-1 tvg-id="canal-pl-sport2-cz" tvg-name="Canal+ Sport 2 [CZ]" tvg-logo="https://epgx.club/picons/canal-pl-sport-cz.png" group-title="Спорт", Canal+ Sport 2 CZ
 #EXTGRP:Спорт
 http://185.236.230.212:9982/play/a0b9
-#EXTINF:-1 tvg-id="canal-pl-sport2" tvg-name="Canal+ Sport 2 [PL]" tvg-logo="https://epgx.club/picons/canal-pl-sport-2.png" group-title="Спорт", Canal+ Sport 2 PL
+#EXTINF:-1 tvg-id="canal-pl-sport2" tvg-name="Canal+ Sport 2 [PL]" tvg-logo="https://epgx.club/picons/canal-pl-sport-2.png" group-title="Спорт", CANAL+ SPORT 2 PL
 #EXTGRP:Спорт
 http://xcmaster.live:8080/dimich2/FndU5rTDk9/665101
-#EXTINF:-1 tvg-id="canal-pl-sport3" tvg-name="Canal+ Sport 3 [PL]" tvg-logo="https://epgx.club/picons/canal-pl-sport-3.png" group-title="Спорт", Canal+ Sport 3 PL
+#EXTINF:-1 tvg-id="canal-pl-sport3" tvg-name="Canal+ Sport 3 [PL]" tvg-logo="https://epgx.club/picons/canal-pl-sport-3.png" group-title="Спорт", Canal + Sport 3 Polska
 #EXTGRP:Спорт
 http://xcmaster.live:8080/dimich2/FndU5rTDk9/665100
-#EXTINF:-1 tvg-id="canal-pl-sport4" tvg-name="Canal+ Sport 4 [PL]" tvg-logo="https://epgx.club/picons/canal-pl-sport-4.png" group-title="Спорт", Canal+ Sport 4 PL
+#EXTINF:-1 tvg-id="canal-pl-sport4" tvg-name="Canal+ Sport 4 [PL]" tvg-logo="https://epgx.club/picons/canal-pl-sport-4.png" group-title="Спорт", Canal + Sport 4 Polska
 #EXTGRP:Спорт
 http://xcmaster.live:8080/dimich2/FndU5rTDk9/665099
-#EXTINF:-1 tvg-id="canal-pl-sport5" tvg-name="Canal+ Sport 5 [PL]" tvg-logo="https://epgx.club/picons/canal-pl-sport-5.png" group-title="Спорт", Canal+ Sport 5 PL
+#EXTINF:-1 tvg-id="canal-pl-sport5" tvg-name="Canal+ Sport 5 [PL]" tvg-logo="https://epgx.club/picons/canal-pl-sport-5.png" group-title="Спорт", Canal + Sport 5 Polska
 #EXTGRP:Спорт
 http://xcmaster.live:8080/dimich2/FndU5rTDk9/665098
 #EXTINF:-1 tvg-id="cbc-sport" tvg-name="CBC Sport" tvg-logo="http://epg.one/img/2636.png" group-title="Спорт", CBC Sport AZ
