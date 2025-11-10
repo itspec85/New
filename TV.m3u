@@ -2254,6 +2254,9 @@ http://xcmaster.live:8080/dimich2/FndU5rTDk9/665136
 #EXTINF:-1 tvg-name="DAZN Combat" tvg-logo="https://i.postimg.cc/VsW3Jsrz/logo-DAZN-Combat.png" group-title="Спорт", DAZN Combat
 #EXTGRP:Спорт
 https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
+#EXTINF:-1 tvg-name="DAZN RingSide" tvg-logo="https://assets.teleon.tv/180_webp/dazn-ringside-uk.webp" group-title="Спорт", DAZN RingSide
+#EXTGRP:Спорт
+https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/playlist.m3u8
 #EXTINF:-1 tvg-id="digisport1" tvg-name="DIGI Sport 1 HD RO" tvg-logo="http://epg.one/img/2907.png" group-title="Спорт", DIGI Sport 1 HD RO
 #EXTGRP:Спорт
 http://xcmaster.live:8080/dimich2/FndU5rTDk9/551853
@@ -2269,6 +2272,12 @@ http://xcmaster.live:8080/dimich2/FndU5rTDk9/551847
 #EXTINF:-1 tvg-id="espn-us" tvg-name="ESPN USA" tvg-logo="http://epg.one/img/6582.png" group-title="Спорт", ESPN USA
 #EXTGRP:Спорт
 http://cord-cutter.net:8080/LeeAv21/AvantL12/14197
+#EXTINF:-1 tvg-id="espn2-us" tvg-name="ESPN2 [US]" tvg-logo="http://epg.one/img/6581.png" group-title="Спорт", ESPN 2 HD USA
+#EXTGRP:Спорт
+http://5startv.xyz:8080/7062390861/ksAGBaT29HEb/9568
+#EXTINF:-1 tvg-id="espn-u-us" tvg-name="ESPN U [US]" tvg-logo="http://epg.one/img/8396.png" group-title="Спорт", ESPN U US
+#EXTGRP:Спорт
+http://mains.services/live/0228902066/tc674KJ3du/643232cd-6053-4bbc-a0b7-2121b8d84ba8.m3u
 #EXTINF:-1 tvg-id="eurosport1" tvg-name="Eurosport 1" tvg-logo="http://epg.one/img/2052.png" group-title="Спорт", Eurosport 1
 #EXTGRP:Спорт
 https://ucdn.beetv.kz/bpk-tv/000002478/tve/index.m3u8
