@@ -972,6 +972,9 @@ https://osnmedia.servicecdn.ru/streams/17603_88089/1080n/index.m3u8
 #EXTINF:-1 tvg-id="oruzhie" tvg-name="Оружие" tvg-logo="http://epg.one/img/2430.png" group-title="Познавательные", Оружие
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000000308/tve/index.m3u8
+#EXTINF:-1 tvg-id="otkryty-mir" tvg-name="Открытый мир" tvg-logo="http://epg.one/img/2462.png" group-title="Познавательные", Открытый мир
+#EXTGRP:Познавательные
+http://v4.proofix.ru/0mir/index.m3u8
 #EXTINF:-1 tvg-id="oxota-i-rybalka" tvg-name="Охота и Рыбалка" tvg-logo="http://epg.one/img/2419.png" group-title="Познавательные", Охота и Рыбалка
 #EXTGRP:Познавательные
 http://91.194.191.241:8081/chid149/tracks-v1a1/mono.m3u8
@@ -1008,6 +1011,9 @@ http://178.212.71.253:8000/play/96/index.m3u8
 #EXTINF:-1 tvg-id="radost-moya" tvg-name="Радость моя" tvg-logo="http://epg.one/img/2287.png" group-title="Познавательные", Радость моя
 #EXTGRP:Познавательные
 https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
+#EXTINF:-1 tvg-id="ratnik" tvg-name="Ратник" tvg-logo="http://epg.one/img/2470.png" group-title="Познавательные", Ратник
+#EXTGRP:Познавательные
+http://lb.wisp.cat/lb0/RatnikHD/mpegts?token=nPfO4rRaax
 #EXTINF:-1 tvg-id="rezonans" tvg-name="Резонанс ТВ" tvg-logo="https://epgx.club/picons/rezonans.png" group-title="Познавательные", Резонанс ТВ
 #EXTGRP:Познавательные
 http://95.47.156.60:8000/play/a015/index.m3u8
