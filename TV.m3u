@@ -2167,6 +2167,15 @@ http://146.120.14.239:3001/play/a0fp
 #EXTINF:-1 tvg-name="A21 Network" tvg-logo="https://a21network.ru/wp-content/uploads/2022/02/a21_live.jpg" group-title="Спорт", A21 Network
 #EXTGRP:Спорт
 https://autopilot.catcast.tv/content/37909/index.m3u8
+#EXTINF:-1 tvg-id="arena-premium-1" tvg-name="Arena Premium 1 [RS]" tvg-logo="http://epg.one/img/9271.png" group-title="Спорт", Arena Premium 1 RS
+#EXTGRP:Спорт
+http://lisabontv.pro:8080/uPPfXAm8/qd3wzEx/551889
+#EXTINF:-1 tvg-id="arena-premium-2" tvg-name="Arena Premium 2 [RS]" tvg-logo="http://epg.one/img/9272.png" group-title="Спорт", Arena Premium 2 RS
+#EXTGRP:Спорт
+http://lisabontv.pro:8080/uPPfXAm8/qd3wzEx/551888
+#EXTINF:-1 tvg-id="arena-premium-3" tvg-name="Arena Premium 3 [RS]" tvg-logo="http://epg.one/img/9273.png" group-title="Спорт", Arena Premium 3 RS
+#EXTGRP:Спорт
+http://lisabontv.pro:8080/uPPfXAm8/qd3wzEx/551886
 #EXTINF:-1 tvg-id="arena-sport-1" tvg-name="Arena Sport 1 [RS]" tvg-logo="http://epg.one/img/9274.png" group-title="Спорт", Arena Sport 1 RS
 #EXTGRP:Спорт
 http://lisabontv.pro:8080/uPPfXAm8/qd3wzEx/551910
