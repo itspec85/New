@@ -186,7 +186,7 @@ http://dmitry-tv.ddns.net/hls/DVB-T2/CH_FRIDAY-1.m3u8
 http://dmitry-tv.ddns.net/hls/DVB-T2/CH_FRIDAY.m3u8
 #EXTINF:-1 tvg-id="piatnica" tvg-name="Пятница! HD" tvg-logo="http://epg.one/img/2765.png" group-title="Россия", Пятница! HD
 #EXTGRP:Россия
-http://178.217.72.72/Pyatnitsa/index.m3u8
+http://river-1.rutube.ru/stream/genetta-311.m9.rutube.ru/rY8xpgFxPkSyPnbMmvc0Sg/1763316317/9f87a9a0cecbe773be6fddcbd93585ac/1080p_stream.m3u8
 #EXTINF:-1 tvg-id="piatnica-pl2" tvg-name="Пятница +2" tvg-logo="http://epg.one/img/3016.png" group-title="Россия", Пятница +2
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -1948,7 +1948,7 @@ http://5.188.159.128:8070/TV1000_World_Kino/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000003747/tve/index.m3u8
 #EXTINF:-1 tvg-id="tv1000" tvg-name="Viju TV1000 HD" tvg-logo="http://epg.one/img/127.png" group-title="Кино", Viju TV1000 HD
 #EXTGRP:Кино
-http://217.25.80.16/TV1000_HD/mono.m3u8
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/playlist.m3u8?e=1764221170&md5=JF-3SN1RNiT6_DfGgzSNOQ
 #EXTINF:-1 tvg-id="viju-tv1000-novella" tvg-name="Viju TV1000 Новелла HD" tvg-logo="http://epg.one/img/9057.png" group-title="Кино", Viju TV1000 Новелла HD
 #EXTGRP:Кино
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Novella_HD.smil/playlist.m3u8?e=1763561847&md5=mnIv9rnQrfy6C3EqLYcu7A
@@ -1963,7 +1963,7 @@ http://95.85.109.219:7000/play/a08x
 https://ucdn.beetv.kz/bpk-tv/000003910/tve/index.m3u8
 #EXTINF:-1 tvg-id="tv1000-action" tvg-name="Viju TV1000 Action HD" tvg-logo="http://epg.one/img/125.png" group-title="Кино", Viju TV1000 Action HD
 #EXTGRP:Кино
-http://217.25.80.16/TV1000_Action_HD/mono.m3u8
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD.smil/playlist.m3u8?e=1764221208&md5=oJcyrhfWU96hbL91I3YS3g
 #EXTINF:-1 tvg-id="viju-tv1000-romantica" tvg-name="Viju TV1000 Romantica HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/97/Viju_TV1000_Romantica.svg/revision/latest/scale-to-width-down/284?cb=20240928200507" group-title="Кино", Viju TV1000 Romantica HD
 #EXTGRP:Кино
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=2Pd93dKx18RAyAJzNfyycA&e=1762891815&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
