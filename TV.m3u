@@ -1912,6 +1912,9 @@ http://lb.wisp.cat/lb0/Trash_HD/mpegts?token=nPfO4rRaax
 #EXTINF:-1 tvg-id="tvxxi" tvg-name="TV XXI" tvg-logo="http://epg.one/img/309.png" group-title="Кино", TV XXI
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000000006/tve/index.m3u8
+#EXTINF:-1 tvg-id="tvboomvip" tvg-name="TVBoom.VIP" tvg-logo="https://avatars.mds.yandex.net/i?id=d585bb96d394dbe78f1942b79112cbaf4ea75db9-5013945-images-thumbs&n=13" group-title="Кино", TVBoom.VIP
+#EXTGRP:Кино
+https://kb.catcast.tv/content/49702/index.m3u8
 #EXTINF:-1 tvg-id="vip-comedy-cee" tvg-name="	Viasat Kino Comedy" tvg-logo="http://epg.one/img/8880.png" group-title="Кино", Viasat Kino Comedy HD
 #EXTGRP:Кино
 http://ukr.ukrainske.tv/493/tvainua/video.m3u8
