@@ -1582,6 +1582,9 @@ http://46.8.46.14/Nashe_Lubimoe_Kino/index.m3u8
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=SmartTV
 http://195.9.195.3:8080/hls/153640.m3u8
+#EXTINF:-1 tvg-name="Малдер Мегахит" tvg-logo="https://avatars.mds.yandex.net/i?id=5fe06b2fcf372a18801a4e2c9ffa1928eabe2fd8-5884537-images-thumbs&n=13" group-title="Кино", Малдер Мегахит
+#EXTGRP:Кино
+https://autopilot.catcast.tv/content/47689/index.m3u8?password=vReMA2025.2
 #EXTINF:-1 tvg-id="mir-seriala" tvg-name="Мир сериала" tvg-logo="http://epg.one/img/2275.png" group-title="Кино", Мир Сериала
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000000319/tve/index.m3u8
