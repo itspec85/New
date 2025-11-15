@@ -1565,6 +1565,14 @@ http://158.101.222.193:88/georgia_play.php?id=kinoseria
 #EXTINF:-1 tvg-id="kinouzhas" tvg-name="Киноужас" tvg-logo="http://epg.one/img/2493.png" group-title="Кино", Киноужас
 #EXTGRP:Кино
 http://tvip.btk.teleos.ru:8081/chid461/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="КиноФраншизы" tvg-logo="https://avatars.mds.yandex.net/i?id=17507e527b188fdbd4354fc180529b2f31c9c8f2-9873252-images-thumbs&n=13" group-title="Кино", КиноФраншизы
+#EXTGRP:Кино
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/218193.m3u8
+#EXTINF:-1 tvg-name="КиноJam" tvg-logo="https://avatars.mds.yandex.net/i?id=2492ac4553c814ee3dc99d4c74a77961ff24bbf0-15439472-images-thumbs&n=13" group-title="Кино", КиноJam
+#EXTGRP:Кино
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/210182.m3u8
 #EXTINF:-1 tvg-id="kinoxit" tvg-name="Кинохит" tvg-logo="http://epg.one/img/542.png" group-title="Кино", КИНОХИТ
 #EXTGRP:Кино
 http://94.232.127.28:8080/kinohit/index.m3u8
@@ -1868,6 +1876,10 @@ https://stream.ushba.tv/akamaiushba/ushba-films-a/tracks-v1a1/mono.m3u8
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=SmartTV
 http://195.9.195.3:8080/hls/206461.m3u8
+#EXTINF:-1 tvg-name="Moviee Toper" tvg-logo="https://avatars.mds.yandex.net/i?id=b4b1e3e299d7e77c8e8c3298752b66b338f1309a-4575769-images-thumbs&n=13" group-title="Кино", Moviee Toper
+#EXTGRP:Кино
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/214749.m3u8
 #EXTINF:-1 tvg-id="plan-b" tvg-name="Plan B HD" tvg-logo="http://epg.one/img/6643.png" group-title="Кино", Plan B HD
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000007625/tve/index.m3u8
@@ -1918,15 +1930,19 @@ https://ucdn.beetv.kz/bpk-tv/000000006/tve/index.m3u8
 #EXTINF:-1 tvg-id="tvboomvip" tvg-name="TVBoom.VIP" tvg-logo="https://avatars.mds.yandex.net/i?id=d585bb96d394dbe78f1942b79112cbaf4ea75db9-5013945-images-thumbs&n=13" group-title="Кино", TVBoom.VIP
 #EXTGRP:Кино
 https://kb.catcast.tv/content/49702/index.m3u8
+#EXTINF:-1 tvg-name="VHS кино" tvg-logo="https://avatars.mds.yandex.net/i?id=49363d9774a20f08da18bbe2e6645285ad9d07aa-5239620-images-thumbs&n=13" group-title="Кино", VHS кино
+#EXTGRP:Кино
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/218531.m3u8
+#EXTINF:-1 tvg-id="vhs-ka" tvg-name="VHS-ка" tvg-logo="http://epg.one/img/9065.png" group-title="Кино", VHS-ка HD
+#EXTGRP:Кино
+http://95.66.188.74/VHS/index.m3u8
 #EXTINF:-1 tvg-id="vip-comedy-cee" tvg-name="	Viasat Kino Comedy" tvg-logo="http://epg.one/img/8880.png" group-title="Кино", Viasat Kino Comedy HD
 #EXTGRP:Кино
 http://ukr.ukrainske.tv/493/tvainua/video.m3u8
 #EXTINF:-1 tvg-id="tv1000-worldkino" tvg-name="Viasat Kino World" tvg-logo="http://epg.one/img/8883.png" group-title="Кино", Viasat World Kino
 #EXTGRP:Кино
 http://5.188.159.128:8070/TV1000_World_Kino/index.m3u8
-#EXTINF:-1 tvg-id="vhs-ka" tvg-name="VHS-ка" tvg-logo="http://epg.one/img/9065.png" group-title="Кино", VHS-ка HD
-#EXTGRP:Кино
-http://95.66.188.74/VHS/index.m3u8
 #EXTINF:-1 tvg-id="tv1000" tvg-name="Viju TV1000" tvg-logo="http://epg.one/img/127.png" group-title="Кино", Viju TV1000
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000003747/tve/index.m3u8
