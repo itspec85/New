@@ -1519,7 +1519,7 @@ https://kino-1.catcast.tv/content/38617/index.m3u8
 http://194.32.242.245/kinotv/index.m3u8
 #EXTINF:-1 tvg-id="kino-tv" tvg-name="Кино ТВ" tvg-logo="http://epg.one/img/1037.png" group-title="Кино", КИНО ТВ HD
 #EXTGRP:Кино
-http://dmitry-tv.ddns.net/hls/CH_KINOTV.m3u8
+http://46.8.46.14/kinotv/index.m3u8
 #EXTINF:-1 tvg-id="kinoboevik-kz" tvg-name="Кинобоевик KZ" tvg-logo="https://iptvx.one/picons/kinoboevik-kz.png" group-title="Кино", Кинобоевик KZ
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000008490/tve/index.m3u8
