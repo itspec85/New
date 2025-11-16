@@ -2402,10 +2402,10 @@ https://ucdn.beetv.kz/bpk-tv/000003038/tve/index.m3u8
 #EXTINF:-1 tvg-name="Red Bull TV" tvg-logo="http://epg.one/img/6039.png" group-title="Спорт", Red Bull TV
 #EXTGRP:Спорт
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 tvg-id="s-sport-tr" tvg-name="S Sport [TR]" tvg-logo="http://epg.one/img/2630.png" group-title="Спорт", S SPORT
+#EXTINF:-1 tvg-id="s-sport-tr" tvg-name="S Sport [TR]" tvg-logo="http://epg.one/img/3881.png" group-title="Спорт", S SPORT
 #EXTGRP:Спорт
 http://c.proserver.in:8080/2hwa6c7QpaZ/xBWcuBh25z9/4554
-#EXTINF:-1 tvg-id="s-sport-2-tr" tvg-name="S Sport 2 [TR]" tvg-logo="http://epg.one/img/2630.png" group-title="Спорт", S SPORT 2
+#EXTINF:-1 tvg-id="s-sport-2-tr" tvg-name="S Sport 2 [TR]" tvg-logo="http://epg.one/img/3881.png" group-title="Спорт", S SPORT 2
 #EXTGRP:Спорт
 http://c.proserver.in:8080/2hwa6c7QpaZ/xBWcuBh25z9/4553
 #EXTINF:-1 tvg-id="setanta-kz" tvg-name="Setanta Qazaqstan HD" tvg-logo="http://epg.one/img/2630.png" group-title="Спорт", Setanta Qazaqstan HD
