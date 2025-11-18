@@ -6,8 +6,10 @@
 http://dmitry-tv.ddns.net/hls/DVB-T2/CH_DOMASHNIY-1.m3u8
 #EXTINF:-1 tvg-id="domashny" tvg-name="Домашний" tvg-logo="http://epg.one/img/304.png" group-title="Россия", Домашний
 #EXTGRP:Россия
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_DOMASHNIY.m3u8
+http://195.158.223.132:8000/Domashniy
+#EXTINF:-1 tvg-id="domashny" tvg-name="Домашний HD" tvg-logo="http://epg.one/img/304.png" group-title="Россия", Домашний HD
+#EXTGRP:Россия
+http://195.158.223.132:8002/Domashniy
 #EXTINF:-1 tvg-id="domashny-pl2" tvg-name="Домашний +2" tvg-logo="http://epg.one/img/3010.png" group-title="Россия", Домашний +2
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -33,8 +35,7 @@ https://ucdn.beetv.kz/bpk-tv/000002348/tve/index.m3u8
 http://dmitry-tv.ddns.net/hls/DVB-T2/CH_ZVEZDA-1.m3u8
 #EXTINF:-1 tvg-id="zvezda" tvg-name="Звезда" tvg-logo="http://epg.one/img/405.png" group-title="Россия", Звезда
 #EXTGRP:Россия
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_ZVEZDA.m3u8
+http://95.66.188.74:80/Zvezda/mono.m3u8
 #EXTINF:-1 tvg-id="zvezda" tvg-name="Звезда HD" tvg-logo="http://epg.one/img/405.png" group-title="Россия", Звезда HD
 #EXTGRP:Россия
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
@@ -56,7 +57,7 @@ http://dmitry-tv.ddns.net/hls/DVB-T2/CH_ZVEZDA_6.m3u8
 http://dmitry-tv.ddns.net/hls/DVB-T2/CH_ZVEZDA_7.m3u8
 #EXTINF:-1 tvg-id="zvezda-plus" tvg-name="Звезда Плюс" tvg-logo="http://epg.one/img/6669.png" group-title="Россия", Звезда Плюс
 #EXTGRP:Россия
-http://178.212.71.253:8000/play/130/index.m3u8
+http://91.207.115.228:5000/c132
 #EXTINF:-1 tvg-id="zvezda-plus" tvg-name="Звезда Плюс HD" tvg-logo="http://epg.one/img/6669.png" group-title="Россия", Звезда Плюс HD
 #EXTGRP:Россия
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/mono.ts.m3u8
@@ -69,8 +70,7 @@ http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
 http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MIR-1.m3u8
 #EXTINF:-1 tvg-id="mir" tvg-name="Мир" tvg-logo="http://epg.one/img/726.png" group-title="Россия", Мир
 #EXTGRP:Россия
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MIR.m3u8
+http://95.66.188.74/MIR/index.m3u8
 #EXTINF:-1 tvg-id="mir" tvg-name="Мир HD" tvg-logo="http://epg.one/img/726.png" group-title="Россия", Мир HD
 #EXTGRP:Россия
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
