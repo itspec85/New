@@ -2395,6 +2395,9 @@ http://c.proserver.in:8080/2hwa6c7QpaZ/xBWcuBh25z9/4553
 #EXTINF:-1 tvg-id="setanta-kz" tvg-name="Setanta Qazaqstan HD" tvg-logo="http://epg.one/img/2630.png" group-title="Спорт", Setanta Qazaqstan HD
 #EXTGRP:Спорт
 https://ucdn.beetv.kz/bpk-tv/000002649/tve/index.m3u8
+#EXTINF:-1 tvg-id="setanta-plus-kz" tvg-name="Setanta Sport+ [KZ]" tvg-logo="http://epg.one/img/6860.png" group-title="Спорт", Setanta Sport+
+#EXTGRP:Спорт
+https://ucdn.beetv.kz/bpk-tv/000008786/tve/index.m3u8
 #EXTINF:-1 tvg-id="setanta-sports" tvg-name="Setanta Sports 1 HD" tvg-logo="http://epg.one/img/7238.png" group-title="Спорт", Setanta Sports
 #EXTGRP:Спорт
 http://vod.splay.uz/live_splay/original/Setanta1HD/tracks-v1a1/mono.m3u8
