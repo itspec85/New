@@ -2374,7 +2374,7 @@ https://ucdn.beetv.kz/bpk-tv/000004498/tve/index.m3u8
 #EXTINF:-1 tvg-id="setanta1-ge" tvg-name="Setanta Sports 1 GE" tvg-logo="http://epg.one/img/6806.png" group-title="Спорт", Setanta Sports 1 GE
 #EXTGRP:Спорт
 http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
-#EXTINF:-1 tvg-id="setanta-sports-plus" tvg-name="Setanta Sports 2 HD" tvg-logo="http://epg.one/img/7238.png" group-title="Спорт", Setanta Sports 2
+#EXTINF:-1 tvg-id="setanta-plus-ua" tvg-name="Setanta Sports 2 HD" tvg-logo="http://epg.one/img/7238.png" group-title="Спорт", Setanta Sports 2
 #EXTGRP:Спорт
 http://vod.splay.uz/live_splay/original/Setanta2HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="setanta2-kz" tvg-name="Setanta Sports 2 HD KZ" tvg-logo="http://epg.one/img/2363.png" group-title="Спорт", Setanta Sports 2 HD KZ
