@@ -408,6 +408,9 @@ http://dmitry-tv.ddns.net/hls/zabava/CH_SUBBOTA-1.m3u8
 #EXTINF:-1 tvg-id="super" tvg-name="Суббота" tvg-logo="http://epg.one/img/2288.png" group-title="Россия", Суббота
 #EXTGRP:Россия
 http://188.190.222.53/Super/index.m3u8
+#EXTINF:-1 tvg-id="super" tvg-name="Суббота HD" tvg-logo="http://epg.one/img/2288.png" group-title="Россия", Суббота HD
+#EXTGRP:Россия
+http://77.232.131.211/Subbota/index.m3u8
 #EXTINF:-1 tvg-id="super" tvg-shift="-2" tvg-name="Суббота +2" tvg-logo="http://epg.one/img/7976.png" group-title="Россия", Суббота +2
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -1462,6 +1465,9 @@ http://95.66.188.74/DomKinoPremiumHD/index.m3u8
 #EXTINF:-1 tvg-id="dorama" tvg-name="Дорама" tvg-logo="http://epg.one/img/2174.png" group-title="Кино", Дорама
 #EXTGRP:Кино
 http://95.85.109.219:7000/play/a05v
+#EXTINF:-1 tvg-id="dushevnoe-hd" tvg-name="Душевное HD" tvg-logo="http://epg.one/img/2019.png" group-title="Кино", Душевное HD
+#EXTGRP:Кино
+http://77.232.131.211/DushevnoeHD/index.m3u8
 #EXTINF:-1 tvg-id="evrokino" tvg-name="Еврокино" tvg-logo="http://epg.one/img/352.png" group-title="Кино", Еврокино
 #EXTGRP:Кино
 http://46.8.46.14/eurokino/index.m3u8
@@ -1574,6 +1580,9 @@ http://50.7.28.226/8740/index.m3u8
 #EXTINF:-1 tvg-id="nashe-novoe-kino" tvg-name="Наше новое кино" tvg-logo="http://epg.one/img/485.png" group-title="Кино", Наше новое кино
 #EXTGRP:Кино
 http://158.101.222.193:88/georgia_play.php?id=nashanovoekino
+#EXTINF:-1 tvg-id="nashehd" tvg-name="Наше HD" tvg-logo="http://epg.one/img/2018.png" group-title="Кино", Наше HD
+#EXTGRP:Кино
+http://77.232.131.211/NasheHD/index.m3u8
 #EXTINF:-1 tvg-id="nst" tvg-name="НСТ" tvg-logo="http://epg.one/img/518.png" group-title="Кино", НСТ
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000000078/tve/index.m3u8
