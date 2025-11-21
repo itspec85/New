@@ -1457,7 +1457,7 @@ http://193.27.209.122/tiji/index.m3u8
 https://mhd128.iptv2022.com/p/JKHLG5hRakdvfpcPZnsA7g,1763672407/streaming/blokbaster/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="blokbaster" tvg-name="Блокбастер HD" tvg-logo="http://epg.one/img/2832.png" group-title="Кино", Блокбастер HD
 #EXTGRP:Кино
-http://lb.wisp.cat/lb0/BlokbasterHD/mpegts?token=nPfO4rRaax
+http://77.232.131.211/BlokbasterHD/index.m3u8
 #EXTINF:-1 tvg-name="Видеокассета TV" tvg-logo="https://avatars.mds.yandex.net/i?id=aa54d677b7da13a106d22ee95411b140d0009712-15274206-images-thumbs&n=13" group-title="Кино", Видеокассета TV
 #EXTGRP:Кино
 https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/playlist.m3u8
@@ -1491,7 +1491,7 @@ http://188.113.190.12/329/index.m3u8
 http://91.194.191.241:8081/chid139/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="kamedi" tvg-name="Камеди HD" tvg-logo="http://epg.one/img/2836.png" group-title="Кино", Камеди HD
 #EXTGRP:Кино
-https://mhd128.iptv2022.com/p/CCSgY6uk78nkeEbWdmHFbA,1763672407/streaming/kamedi/324/1/tracks-v5a1/mono.m3u8
+http://77.232.131.211/KamediHD/index.m3u8
 #EXTINF:-1 tvg-id="kineko" tvg-name="Кинеко" tvg-logo="http://epg.one/img/7314.png" group-title="Кино", Кинеко
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000008136/tve/index.m3u8
@@ -1895,7 +1895,7 @@ https://ucdn.beetv.kz/bpk-tv/000008739/tve/index.m3u8
 http://193.25.8.59:8000/tlc
 #EXTINF:-1 tvg-id="trashtv" tvg-name="Trash HD" tvg-logo="http://epg.one/img/3361.png" group-title="Кино", Trash HD
 #EXTGRP:Кино
-http://lb.wisp.cat/lb0/Trash_HD/mpegts?token=nPfO4rRaax
+http://157.90.0.245:8070/Trash_HD/index.m3u8
 #EXTINF:-1 tvg-id="tvxxi" tvg-name="TV XXI" tvg-logo="http://epg.one/img/309.png" group-title="Кино", TV XXI
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000000006/tve/index.m3u8
@@ -1975,48 +1975,30 @@ https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="bcu-svaty" tvg-name="BCU Сваты HD" tvg-logo="http://epg.one/img/4768.png" group-title="Кинозал", BCU Сваты HD
 #EXTGRP:Кинозал
 http://50.7.28.226/8889/index.m3u8
-#EXTINF:-1 tvg-id="bcu-sssr" tvg-name="BCU СССР HD" tvg-logo="http://epg.one/img/4747.png" group-title="Кинозал", BCU СССР HD
-#EXTGRP:Кинозал
-http://lb.wisp.cat/lb0/BCUSSSRHD/mpegts?token=nPfO4rRaax
 #EXTINF:-1 tvg-id="bcu-action" tvg-name="BCU Action HD" tvg-logo="http://epg.one/img/4748.png" group-title="Кинозал", BCU Action HD
 #EXTGRP:Кинозал
-http://lb.wisp.cat/lb0/BCUActionHD/mpegts?token=nPfO4rRaax
+http://50.7.28.226/8478/index.m3u8
 #EXTINF:-1 tvg-id="bcu-catastrophe" tvg-name="BCU Catastrophe HD" tvg-logo="http://epg.one/img/4749.png" group-title="Кинозал", BCU Catastrophe HD
 #EXTGRP:Кинозал
 http://50.7.28.226/8877/index.m3u8
-#EXTINF:-1 tvg-id="bcu-comedy" tvg-name="BCU Comedy HD" tvg-logo="http://epg.one/img/5515.png" group-title="Кинозал", BCU Comedy HD
-#EXTGRP:Кинозал
-http://lb.wisp.cat/lb0/BCUComedyHD/mpegts?token=nPfO4rRaax
 #EXTINF:-1 tvg-id="bcu-criminal" tvg-name="BCU Criminal HD" tvg-logo="http://epg.one/img/4769.png" group-title="Кинозал", BCU Criminal HD
 #EXTGRP:Кинозал
 http://50.7.28.226/8890/index.m3u8
-#EXTINF:-1 tvg-id="bcu-fantastic" tvg-name="BCU Fantastic HD" tvg-logo="http://epg.one/img/4753.png" group-title="Кинозал", BCU Fantastic HD
-#EXTGRP:Кинозал
-http://lb.wisp.cat/lb0/BCUFantasticHD/mpegts?token=nPfO4rRaax
 #EXTINF:-1 tvg-id="bcu-kinorating" tvg-name="BCU Kinorating HD" tvg-logo="http://epg.one/img/4758.png" group-title="Кинозал", BCU Kinorating HD
 #EXTGRP:Кинозал
 http://50.7.28.226/8455/index.m3u8
-#EXTINF:-1 tvg-id="bcu-marvel" tvg-name="BCU Marvel HD" tvg-logo="http://epg.one/img/5514.png" group-title="Кинозал", BCU Marvel HD
-#EXTGRP:Кинозал
-http://lb.wisp.cat/lb0/BCUMarvelHD/mpegts?token=nPfO4rRaax
 #EXTINF:-1 tvg-id="bcu-reality" tvg-name="BCU Reality HD" tvg-logo="http://epg.one/img/6131.png" group-title="Кинозал", BCU Reality HD
 #EXTGRP:Кинозал
 http://50.7.28.226/8910/index.m3u8
 #EXTINF:-1 tvg-id="bcu-romantic" tvg-name="BCU Romantic HD" tvg-logo="http://epg.one/img/4761.png" group-title="Кинозал", BCU Romantic HD
 #EXTGRP:Кинозал
 http://50.7.28.226/8884/index.m3u8
-#EXTINF:-1 tvg-id="bcu-stars" tvg-name="BCU Stars HD" tvg-logo="http://epg.one/img/4765.png" group-title="Кинозал", BCU Stars HD
-#EXTGRP:Кинозал
-http://lb.wisp.cat/lb0/BCUStarsHD/mpegts?token=nPfO4rRaax
 #EXTINF:-1 tvg-id="bcu-survival" tvg-name="BCU Survival HD" tvg-logo="http://epg.one/img/6175.png" group-title="Кинозал", BCU Survival HD
 #EXTGRP:Кинозал
 http://50.7.28.226/8912/index.m3u8
 #EXTINF:-1 tvg-id="bcu-trumotion" tvg-name="BCU TruMotion HD" tvg-logo="http://epg.one/img/6198.png" group-title="Кинозал", BCU TruMotion HD
 #EXTGRP:Кинозал
 http://50.7.28.226/8977/index.m3u8
-#EXTINF:-1 tvg-id="bcu-vhs" tvg-name="BCU VHS HD" tvg-logo="http://epg.one/img/4763.png" group-title="Кинозал", BCU VHS HD
-#EXTGRP:Кинозал
-http://lb.wisp.cat/lb0/BCUVHSHD/mpegts?token=nPfO4rRaax
 #EXTINF:-1 tvg-id="box-gangster" tvg-name="BOX Gangster HD" tvg-logo="http://epg.one/img/6699.png" group-title="Кинозал", BOX Gangster HD
 #EXTGRP:Кинозал
 http://50.7.28.226/8985/index.m3u8
@@ -2026,27 +2008,18 @@ http://50.7.28.226/8354/index.m3u8
 #EXTINF:-1 tvg-id="box-zombie" tvg-name="BOX Zombie HD" tvg-logo="http://epg.one/img/6833.png" group-title="Кинозал", BOX Zombie HD
 #EXTGRP:Кинозал
 http://50.7.28.226/8418/index.m3u8
-#EXTINF:-1 tvg-id="cineman" tvg-name="CineMan" tvg-logo="http://epg.one/img/4682.png" group-title="Кинозал", CineMan
-#EXTGRP:Кинозал
-http://lb.wisp.cat/lb0/CineMan/mpegts?token=nPfO4rRaax
 #EXTINF:-1 tvg-id="cineman-rukino" tvg-name="CineMan РуКино" tvg-logo="http://epg.one/img/4691.png" group-title="Кинозал", CineMan РуКино
 #EXTGRP:Кинозал
 http://50.7.28.226/8871/index.m3u8
 #EXTINF:-1 tvg-id="cineman-miniseries" tvg-name="CineMan MiniSeries" tvg-logo="http://epg.one/img/7150.png" group-title="Кинозал", CineMan MiniSeries
 #EXTGRP:Кинозал
 http://50.7.28.226/8961/index.m3u8
-#EXTINF:-1 tvg-id="cineman-premium" tvg-name="CineMan Premium" tvg-logo="http://epg.one/img/7485.png" group-title="Кинозал", CineMan Premium
-#EXTGRP:Кинозал
-http://lb.wisp.cat/lb0/CineMan_Premium/mpegts?token=nPfO4rRaax
 #EXTINF:-1 tvg-id="cineman-thriller" tvg-name="CineMan Thriller" tvg-logo="http://epg.one/img/4685.png" group-title="Кинозал", CineMan Thriller
 #EXTGRP:Кинозал
 http://50.7.28.226/8954/index.m3u8
 #EXTINF:-1 tvg-id="cineman-vhs" tvg-name="CineMan VHS" tvg-logo="http://epg.one/img/4690.png" group-title="Кинозал", CineMan VHS
 #EXTGRP:Кинозал
 http://50.7.28.226/8807/index.m3u8
-#EXTINF:-1 tvg-id="magic-vhs" tvg-name="Magic VHS" tvg-logo="http://epg.one/img/6249.png" group-title="Кинозал", Magic VHS HD
-#EXTGRP:Кинозал
-http://lb.wisp.cat/lb0/Magic_VHS/mpegts?token=nPfO4rRaax
 #EXTINF:-1 tvg-id="minimax-boevik_classic" tvg-name="MM Боевик Classic HD" tvg-logo="http://epg.one/img/5140.png" group-title="Кинозал", MM Боевик Classic HD
 #EXTGRP:Кинозал
 http://50.7.28.226/8411/index.m3u8
