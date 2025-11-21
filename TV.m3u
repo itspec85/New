@@ -235,9 +235,6 @@ http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RENTV-1.m3u8
 #EXTINF:-1 tvg-id="rentv" tvg-name="Рен ТВ" tvg-logo="http://epg.one/img/18.png" group-title="Россия", РЕН ТВ
 #EXTGRP:Россия
 http://95.47.156.60:8000/play/11/index.m3u8
-#EXTINF:-1 tvg-id="rentv" tvg-name="Рен ТВ HD" tvg-logo="http://epg.one/img/2487.png" group-title="Россия", Рен ТВ HD
-#EXTGRP:Россия
-http://lb.wisp.cat/lb0/rentvhd/mpegts?token=nPfO4rRaax
 #EXTINF:-1 tvg-id="rentv-pl2" tvg-name="Рен ТВ +2" tvg-logo="http://epg.one/img/2037.png" group-title="Россия", Рен ТВ +2
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -988,9 +985,6 @@ http://178.212.71.253:8000/play/96/index.m3u8
 #EXTINF:-1 tvg-id="radost-moya" tvg-name="Радость моя" tvg-logo="http://epg.one/img/2287.png" group-title="Познавательные", Радость моя
 #EXTGRP:Познавательные
 https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
-#EXTINF:-1 tvg-id="ratnik" tvg-name="Ратник" tvg-logo="http://epg.one/img/2470.png" group-title="Познавательные", Ратник
-#EXTGRP:Познавательные
-http://lb.wisp.cat/lb0/RatnikHD/mpegts?token=nPfO4rRaax
 #EXTINF:-1 tvg-id="rezonans" tvg-name="Резонанс ТВ" tvg-logo="https://epgx.club/picons/rezonans.png" group-title="Познавательные", Резонанс ТВ
 #EXTGRP:Познавательные
 http://95.47.156.60:8000/play/a015/index.m3u8
@@ -1159,9 +1153,6 @@ https://ucdn.beetv.kz/bpk-tv/000000332/tve/index.m3u8
 #EXTINF:-1 tvg-name="Gameplay" tvg-logo="https://avatars.mds.yandex.net/i?id=c575f44cab8db1ef668138254a3e76f3355940db-4292261-images-thumbs&n=13" group-title="Познавательные", Gameplay
 #EXTGRP:Познавательные
 https://fl1001.bozztv.com/ushba31/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="hgtv" tvg-name="HGTV" tvg-logo="http://epg.one/img/2377.png" group-title="Познавательные", HGTV
-#EXTGRP:Познавательные
-http://lb.wisp.cat/lb0/HGTVHD/mpegts?token=nPfO4rRaax
 #EXTINF:-1 tvg-id="history" tvg-name="History" tvg-logo="http://epg.one/img/1394.png" group-title="Познавательные", History
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000001000/tve/index.m3u8
@@ -1222,9 +1213,6 @@ https://ucdn.beetv.kz/bpk-tv/000000039/tve/index.m3u8
 #EXTINF:-1 tvg-id="russky-ekstrim" tvg-name="Russian Extreme HD" tvg-logo="http://epg.one/img/4110.png" group-title="Познавательные", Russian Extreme HD
 #EXTGRP:Познавательные
 http://195.26.83.96:7029/play/a008
-#EXTINF:-1 tvg-id="sea-tv" tvg-name="Sea TV" tvg-logo="https://epgx.club/picons/sea-tv.png" group-title="Познавательные", Sea TV
-#EXTGRP:Познавательные
-http://lb.wisp.cat/lb0/SeaTV/mpegts?token=nPfO4rRaax
 #EXTINF:-1 tvg-id="terra-ru" tvg-name="TERRA" tvg-logo="http://epg.one/img/7632.png" group-title="Познавательные", TERRA
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000008142/tve/index.m3u8
@@ -1422,9 +1410,6 @@ https://ucdn.beetv.kz/bpk-tv/000000284/tve/index.m3u8
 #EXTINF:-1 tvg-name="IPTVPLAY МультСказки" tvg-logo="https://i122.fastpic.org/big/2024/0112/65/b20ebb09af08ef55dbdffa919a047c65.png" group-title="Детские", IPTVPLAY МультСказки
 #EXTGRP:Детские
 http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 tvg-id="jimjam" tvg-name="JimJam" tvg-logo="http://epg.one/img/494.png" group-title="Детские", Jim Jam
-#EXTGRP:Детские
-http://lb.wisp.cat/lb0/JimJam/mpegts?token=nPfO4rRaax
 #EXTINF:-1 tvg-id="kidstv" tvg-name="Kids TV" tvg-logo="http://epg.one/img/9025.png" group-title="Детские", Kids TV HD
 #EXTGRP:Детские
 http://origin5.mediacdn.ru/live/kidstv/index.m3u8
@@ -1620,7 +1605,7 @@ http://188.190.222.53/Kino_Premium_HD/tracks-v1a1/mono.ts.m3u8
 https://ucdn.beetv.kz/bpk-tv/000008491/tve/index.m3u8
 #EXTINF:-1 tvg-id="pro-lyubov" tvg-name="Про любовь" tvg-logo="http://epg.one/img/2829.png" group-title="Кино", Про Любовь HD
 #EXTGRP:Кино
-http://lb.wisp.cat/lb0/ProLubovHD/mpegts?token=nPfO4rRaax
+http://vod.stb.tvime.ru/Pro_Lubov_HD/video.m3u8
 #EXTINF:-1 tvg-id="retro-tv" tvg-name="Ретро ТВ" tvg-logo="http://epg.one/img/2402.png" group-title="Кино", Ретро ТВ
 #EXTGRP:Кино
 http://91.194.191.241:8081/chid45/tracks-v1a1/mono.m3u8
@@ -1698,7 +1683,7 @@ http://91.194.191.241:8081/chid276/tracks-v1a1/mono.m3u8
 https://mhd128.iptv2022.com/p/4sbhrkFSnMwkb1jmE8TCXg,1763672408/streaming/sovietmovs/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="strashnoe-hd" tvg-name="Страшное HD" tvg-logo="http://epg.one/img/2857.png" group-title="Кино", Страшное HD
 #EXTGRP:Кино
-http://lb.wisp.cat/lb0/strashnoehd/mpegts?token=nPfO4rRaax
+http://50.7.28.226/8198/index.m3u8
 #EXTINF:-1 tvg-id="tvoyo-tv-hd" tvg-name="Твоё ТВ HD" tvg-logo="http://epg.one/img/5441.png" group-title="Кино", Твоё ТВ HD
 #EXTGRP:Кино
 http://tvoetv.space:8080/tvoetv/index.m3u8
@@ -2466,7 +2451,7 @@ http://xcmaster.live:8080/dimich2/FndU5rTDk9/632572
 http://194.32.242.245/viasatsport/index.m3u8
 #EXTINF:-1 tvg-id="viasat-sport" tvg-name="Viju+ Sport HD" tvg-logo="http://epg.one/img/2055.png" group-title="Спорт", Viju+ Sport HD
 #EXTGRP:Спорт
-http://lb.wisp.cat/lb0/Viasat_Sport_HD/mpegts?token=nPfO4rRaax
+http://50.7.28.226/8015/index.m3u8
 #EXTINF:-1 tvg-name="World Poker Tour USA" tvg-logo="https://avatars.mds.yandex.net/i?id=bc2003e45785f22c83853338865075e9c9638944-9877580-images-thumbs&n=13" group-title="Спорт", World Poker Tour USA
 #EXTGRP:Спорт
 http://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
@@ -4194,9 +4179,6 @@ http://ext.cdn.nashnet.tv/228.0.2.165/index.m3u8
 #EXTINF:-1 tvg-name="Балта ТВ" tvg-logo="https://avatars.mds.yandex.net/i?id=64754581c4ae415f4859c0edf1509fa9_sr-4825035-images-thumbs&n=13" group-title="Украина", Балта ТВ
 #EXTGRP:Украина
 http://194.50.51.34/playlist.m3u8
-#EXTINF:-1 tvg-id="inter-ua" tvg-name="Інтер" tvg-logo="http://epg.one/img/2106.png" group-title="Украина", Интер
-#EXTGRP:Украина
-http://lb.wisp.cat/lb0/INTER/mpegts?token=nPfO4rRaax
 #EXTINF:-1 tvg-id="ua-kyiv" tvg-name="Київ HD" tvg-logo="http://epg.one/img/2227.png" group-title="Украина", Київ HD
 #EXTGRP:Украина
 https://ext.cdn.nashnet.tv/228.0.0.15/index.m3u8
