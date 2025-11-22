@@ -759,7 +759,7 @@ http://v4.proofix.ru:80/8tv-europe/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000000008/tve/index.m3u8
 #EXTINF:-1 tvg-id="365-dnej" tvg-name="365 дней ТВ" tvg-logo="http://epg.one/img/2423.png" group-title="Познавательные", 365 дней ТВ
 #EXTGRP:Познавательные
-http://158.101.222.193:88/georgia_play.php?id=365day
+http://91.194.191.241:8081/chid425/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="avto24" tvg-name="Авто 24" tvg-logo="http://epg.one/img/2008.png" group-title="Познавательные", Авто 24
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000000815/tve/index.m3u8
@@ -882,7 +882,7 @@ https://live-4.otcnet.ru/504/135/1080p/index.m3u8
 https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="kto-est-kto" tvg-name="Кто есть кто" tvg-logo="http://epg.one/img/2456.png" group-title="Познавательные", Кто есть кто
 #EXTGRP:Познавательные
-http://158.101.222.193:88/georgia_play.php?id=ktoestkto
+http://91.207.115.228:5000/c133
 #EXTINF:-1 tvg-id="mir-uvlecheniy" tvg-name="Кто куда" tvg-logo="http://epg.one/img/2467.png" group-title="Познавательные", Кто куда
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000001377/tve/index.m3u8
@@ -1059,7 +1059,7 @@ http://tvip.btk.teleos.ru:8081/chid433/tracks-v1a1/mono.m3u8
 https://ucdn.beetv.kz/bpk-tv/000003208/tve/index.m3u8
 #EXTINF:-1 tvg-id="hd-life" tvg-name="Точка РФ" tvg-logo="https://epgx.club/picons/hdl.png" group-title="Познавательные", Точка РФ
 #EXTGRP:Познавательные
-http://158.101.222.193:88/georgia_play.php?id=hdlife
+http://95.66.188.74:80/HD_Life/mono.m3u8
 #EXTINF:-1 tvg-id="tochka-tv" tvg-name="Точка ТВ" tvg-logo="http://epg.one/img/2457.png" group-title="Познавательные", Точка ТВ
 #EXTGRP:Познавательные
 http://31.148.48.15/Tochka_TV/tracks-v1a1/mono.m3u8
@@ -1506,7 +1506,7 @@ https://ucdn.beetv.kz/bpk-tv/000005449/tve/index.m3u8
 http://46.8.46.14/kinokomedia/index.m3u8
 #EXTINF:-1 tvg-id="kinomiks" tvg-name="Киномикс" tvg-logo="http://epg.one/img/644.png" group-title="Кино", КИНОМИКС
 #EXTGRP:Кино
-http://158.101.222.193:88/georgia_play.php?id=kinomiks
+http://46.8.46.14/kinomix/index.m3u8
 #EXTINF:-1 tvg-id="kinopokaz" tvg-name="Кинопоказ" tvg-logo="http://epg.one/img/2834.png" group-title="Кино", Кинопоказ
 #EXTGRP:Кино
 http://95.66.188.74/Kinopokaz/mono.m3u8
@@ -1527,7 +1527,7 @@ http://194.32.242.245/kinosemyahd/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000005450/tve/index.m3u8
 #EXTINF:-1 tvg-id="kinoseria" tvg-name="Киносерия" tvg-logo="http://epg.one/img/799.png" group-title="Кино", КИНОСЕРИЯ
 #EXTGRP:Кино
-http://158.101.222.193:88/georgia_play.php?id=kinoseria
+http://94.232.127.28:8080/kinoserija/index.m3u8
 #EXTINF:-1 tvg-id="kinouzhas" tvg-name="Киноужас" tvg-logo="http://epg.one/img/2493.png" group-title="Кино", Киноужас
 #EXTGRP:Кино
 http://tvip.btk.teleos.ru:8081/chid461/tracks-v1a1/mono.m3u8
@@ -1570,7 +1570,7 @@ https://ucdn.beetv.kz/bpk-tv/000008488/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000006365/tve/index.m3u8
 #EXTINF:-1 tvg-id="muzhskoe-kino" tvg-name="Мужское кино" tvg-logo="http://epg.one/img/1584.png" group-title="Кино", МУЖСКОЕ КИНО
 #EXTGRP:Кино
-http://158.101.222.193:88/georgia_play.php?id=interesnoetv
+http://157.90.0.245:8070/muzhskoe_kino/index.m3u8
 #EXTINF:-1 tvg-id="nash-kinopokaz" tvg-name="Наш кинопоказ" tvg-logo="http://epg.one/img/2831.png" group-title="Кино", Наш Кинопоказ HD
 #EXTGRP:Кино
 https://mhd128.iptv2022.com/p/rwh7WOOAVBs9d33Y5TrQYg,1763845212/streaming/nashpokaz/324/1/tracks-v5a1/mono.m3u8
@@ -1579,7 +1579,7 @@ https://mhd128.iptv2022.com/p/rwh7WOOAVBs9d33Y5TrQYg,1763845212/streaming/nashpo
 http://50.7.28.226/8740/index.m3u8
 #EXTINF:-1 tvg-id="nashe-novoe-kino" tvg-name="Наше новое кино" tvg-logo="http://epg.one/img/485.png" group-title="Кино", Наше новое кино
 #EXTGRP:Кино
-http://158.101.222.193:88/georgia_play.php?id=nashanovoekino
+http://91.207.115.228:5000/c41
 #EXTINF:-1 tvg-id="nashehd" tvg-name="Наше HD" tvg-logo="http://epg.one/img/2018.png" group-title="Кино", Наше HD
 #EXTGRP:Кино
 http://77.232.131.211/NasheHD/index.m3u8
@@ -1698,7 +1698,7 @@ http://50.7.28.226/8198/index.m3u8
 http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 tvg-id="feniks-plus-kino" tvg-name="Феникс плюс Кино" tvg-logo="http://epg.one/img/2404.png" group-title="Кино", Феникс плюс Кино
 #EXTGRP:Кино
-http://158.101.222.193:88/georgia_play.php?id=fenikspluskino
+http://91.194.191.241:8081/chid70/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="khit-hd" tvg-name="Хит HD" tvg-logo="http://epg.one/img/2833.png" group-title="Кино", Хит HD
 #EXTGRP:Кино
 https://mhd128.iptv2022.com/p/XDTPCHdsnNp3Scrv5dMTzQ,1763845212/streaming/hit/324/1/tracks-v5a1/mono.m3u8
@@ -1917,7 +1917,7 @@ https://ucdn.beetv.kz/bpk-tv/000003747/tve/index.m3u8
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/playlist.m3u8?e=1764221170&md5=JF-3SN1RNiT6_DfGgzSNOQ
 #EXTINF:-1 tvg-id="viju-tv1000-novella" tvg-name="Viju TV1000 Новелла HD" tvg-logo="http://epg.one/img/9057.png" group-title="Кино", Viju TV1000 Новелла HD
 #EXTGRP:Кино
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Novella_HD.smil/playlist.m3u8?e=1763561847&md5=mnIv9rnQrfy6C3EqLYcu7A
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Novella_HD.smil/playlist.m3u8?e=1764857522&md5=pH5r7qlgk_jRl3KCGkLRcQ
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino" tvg-name="Viju TV1000 Русское" tvg-logo="http://epg.one/img/267.png" group-title="Кино", Viju TV1000 Русское
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000003748/tve/index.m3u8
@@ -1932,7 +1932,7 @@ https://ucdn.beetv.kz/bpk-tv/000003910/tve/index.m3u8
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD.smil/playlist.m3u8?e=1764221208&md5=oJcyrhfWU96hbL91I3YS3g
 #EXTINF:-1 tvg-id="viju-tv1000-romantica" tvg-name="Viju TV1000 Romantica HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/97/Viju_TV1000_Romantica.svg/revision/latest/scale-to-width-down/284?cb=20240928200507" group-title="Кино", Viju TV1000 Romantica HD
 #EXTGRP:Кино
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=2Pd93dKx18RAyAJzNfyycA&e=1762891815&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/playlist.m3u8?e=1764857564&md5=gBKN08FRzAjrMmJ1Zw2ETA
 #EXTINF:-1 tvg-id="vip-comedy" tvg-name="viju+ Comedy HD" tvg-logo="http://epg.one/img/1011.png" group-title="Кино", Viju+ Comedy HD
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000000870/tve/index.m3u8
@@ -2085,7 +2085,7 @@ http://91.194.191.241:8081/chid53/tracks-v1a1/mono.m3u8
 http://91.207.115.228:5000/c104
 #EXTINF:-1 tvg-id="match-planeta" tvg-name="Матч! Планета" tvg-logo="http://epg.one/img/2043.png" group-title="Спорт", Матч! Планета
 #EXTGRP:Спорт
-http://158.101.222.193:88/georgia_play.php?id=matchplaneta
+http://87.76.32.36:8001/matchplaneta
 #EXTINF:-1 tvg-id="match-premier" tvg-name="Матч! Премьер" tvg-logo="http://epg.one/img/2250.png" group-title="Спорт", МАТЧ ПРЕМЬЕР
 #EXTGRP:Спорт
 http://46.8.46.14/premier/index.m3u8
