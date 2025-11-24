@@ -1341,7 +1341,7 @@ http://46.8.46.14/Ryzhiy/index.m3u8
 https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
 #EXTINF:-1 tvg-id="sovmultf" tvg-name="Советские мультфильмы" tvg-logo="https://epgx.club/picons/sovmultf.png" group-title="Детские", Советские мультфильмы
 #EXTGRP:Детские
-https://mhd128.iptv2022.com/p/TTyBhHQiCN3CaG-BIATXSA,1763931616/streaming/rusmult/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/nIFw9FQtzKnIQXgqDZRTww,1764018015/streaming/rusmult/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="solnce" tvg-shift="+1" tvg-name="Солнце -1" tvg-logo="http://epg.one/img/7669.png" group-title="Детские", Солнце -1
 #EXTGRP:Детские
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -1442,7 +1442,7 @@ http://193.27.209.122/tiji/index.m3u8
 
 #EXTINF:-1 tvg-id="blokbaster" tvg-name="Блокбастер" tvg-logo="http://epg.one/img/2832.png" group-title="Кино", Блокбастер
 #EXTGRP:Кино
-https://mhd128.iptv2022.com/p/qUUITMlLYu6XDd6SPUJEOA,1763931612/streaming/blokbaster/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/gm6SUGADjGsQLI0xkwPMYg,1764018011/streaming/blokbaster/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="blokbaster" tvg-name="Блокбастер HD" tvg-logo="http://epg.one/img/2832.png" group-title="Кино", Блокбастер HD
 #EXTGRP:Кино
 http://77.232.131.211/BlokbasterHD/index.m3u8
@@ -1573,10 +1573,10 @@ https://ucdn.beetv.kz/bpk-tv/000006365/tve/index.m3u8
 http://157.90.0.245:8070/muzhskoe_kino/index.m3u8
 #EXTINF:-1 tvg-id="nash-kinopokaz" tvg-name="Наш кинопоказ" tvg-logo="http://epg.one/img/2831.png" group-title="Кино", Наш Кинопоказ HD
 #EXTGRP:Кино
-https://mhd128.iptv2022.com/p/ONQC42KnB140F3LTNAubJQ,1763931612/streaming/nashpokaz/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/NEQfYXa8IYHoghvbuH90KQ,1764018012/streaming/nashpokaz/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="nashe-muzhskoe" tvg-name="Наше Мужское HD" tvg-logo="http://epg.one/img/2835.png" group-title="Кино", Наше Мужское HD
 #EXTGRP:Кино
-http://50.7.28.226/8740/index.m3u8
+https://mhd128.iptv2022.com/p/3ugHNO--RJUeQR49w9i0_w,1764018012/streaming/nashemuzskoe/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="nashe-novoe-kino" tvg-name="Наше новое кино" tvg-logo="http://epg.one/img/485.png" group-title="Кино", Наше новое кино
 #EXTGRP:Кино
 http://91.207.115.228:5000/c41
@@ -1651,36 +1651,6 @@ https://ucdn.beetv.kz/bpk-tv/000008135/tve/index.m3u8
 #EXTINF:-1 tvg-id="semejnoe-kino-kz" tvg-name="Семейное кино KZ" tvg-logo="https://iptvx.one/picons/semejnoe-kino-kz.png" group-title="Кино", Семейное кино KZ
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000008489/tve/index.m3u8
-#EXTINF:-1 tvg-name="Сити Эдем - КиноАзия" tvg-logo="https://www.cityeden.info/logotv/kinoazija_logotip.png" group-title="Кино", Сити Эдем - КиноАзия
-#EXTGRP:Кино
-https://autopilot.catcast.tv/content/34393/index.m3u8
-#EXTINF:-1 tvg-name="Сити Эдем - КиноАрт" tvg-logo="https://www.cityeden.info/logotv/logotip_kinoart.png" group-title="Кино", Сити Эдем - КиноАрт
-#EXTGRP:Кино
-https://cityeden.catcast.tv/content/38398/index.m3u8
-#EXTINF:-1 tvg-name="Сити Эдем - КиноДетектив" tvg-logo="https://www.cityeden.info/logotv/logotip_kinodetektiv.png" group-title="Кино", Сити Эдем - КиноДетектив
-#EXTGRP:Кино
-https://autopilot.catcast.tv/content/41327/index.m3u8
-#EXTINF:-1 tvg-name="Сити Эдем - КиноДрама" tvg-logo="https://www.cityeden.info/logotv/kinodrama_logotip.png" group-title="Кино", Сити Эдем - КиноДрама
-#EXTGRP:Кино
-https://cityeden.catcast.tv/content/45269/index.m3u8
-#EXTINF:-1 tvg-name="Сити Эдем - КиноКлассика" tvg-logo="https://www.cityeden.info/logotv/logotip_kinoklassika.png" group-title="Кино", Сити Эдем - КиноКлассика
-#EXTGRP:Кино
-http://autopilot.catcast.tv/content/34185/index.m3u8
-#EXTINF:-1 tvg-name="Сити Эдем - КиноКомедия" tvg-logo="https://www.cityeden.info/logotv/logotip_siti_ehdem-kinokomedija.png" group-title="Кино", Сити Эдем - КиноКомедия
-#EXTGRP:Кино
-https://autopilot.catcast.tv/content/41331/index.m3u8
-#EXTINF:-1 tvg-name="Сити Эдем - КиноМистика" tvg-logo="https://www.cityeden.info/logotv/logotip_kinomostika.png" group-title="Кино", Сити Эдем - КиноМистика
-#EXTGRP:Кино
-https://autopilot.catcast.tv/content/40783/index.m3u8
-#EXTINF:-1 tvg-name="Сити Эдем - КиноФантастика" tvg-logo="https://www.cityeden.info/logotv/kinofantastika_logotip.png" group-title="Кино", Сити Эдем - КиноФантастика
-#EXTGRP:Кино
-https://cityeden.catcast.tv/content/45268/index.m3u8
-#EXTINF:-1 tvg-name="Сити Эдем - КиноЭкшен" tvg-logo="https://www.cityeden.info/logotv/logotip_siti_ehdem-kinoehkshen2.png" group-title="Кино", Сити Эдем - КиноЭкшен
-#EXTGRP:Кино
-http://autopilot.catcast.tv/content/41333/index.m3u8
-#EXTINF:-1 tvg-name="Сити Эдем - ТелеНовелла" tvg-logo="https://www.cityeden.info/logotv/logotip_telenovella.png" group-title="Кино", Сити Эдем - ТелеНовелла
-#EXTGRP:Кино
-https://autopilot.catcast.tv/content/46209/index.m3u8
 #EXTINF:-1 tvg-name="Смотрим Кино и сериалы" tvg-logo="https://avatars.mds.yandex.net/i?id=bfe2e169d4858dbc0171205a9446ab66e1d7f510-5474802-images-thumbs&n=13" group-title="Кино", Смотрим Кино и сериалы
 #EXTGRP:Кино
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
@@ -1689,7 +1659,7 @@ http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5
 http://91.194.191.241:8081/chid276/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="sovkino" tvg-name="Советское кино" tvg-logo="http://epg.one/img/9399.png" group-title="Кино", Советское кино
 #EXTGRP:Кино
-https://mhd128.iptv2022.com/p/nF4YsvNaQXt3FVJTZlYMFA,1763931615/streaming/sovietmovs/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/NTyD1hxBOkZQMpVXr77NTQ,1764018014/streaming/sovietmovs/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="tvoyo-tv-hd" tvg-name="Твоё ТВ HD" tvg-logo="http://epg.one/img/5441.png" group-title="Кино", Твоё ТВ HD
 #EXTGRP:Кино
 http://tvoetv.space:8080/tvoetv/index.m3u8
@@ -1698,7 +1668,7 @@ http://tvoetv.space:8080/tvoetv/index.m3u8
 http://91.194.191.241:8081/chid70/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="khit-hd" tvg-name="Хит HD" tvg-logo="http://epg.one/img/2833.png" group-title="Кино", Хит HD
 #EXTGRP:Кино
-https://mhd128.iptv2022.com/p/vCrl-x_UogYQP52y31qviQ,1763931612/streaming/hit/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/9CE-VJiWj2nH0p-1UCGvcA,1764018012/streaming/hit/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="shokiruyushchee-hd" tvg-name="Шокирующее HD" tvg-logo="http://epg.one/img/2309.png" group-title="Кино", Шокирующее HD
 #EXTGRP:Кино
 http://195.191.208.11:8087/udp/238.2.48.137:1234
@@ -1802,27 +1772,6 @@ http://194.32.242.245/hollywoodhd/index.m3u8
 #EXTINF:-1 tvg-name="Horror TV" tvg-logo="http://epg.one/img/8792.png" group-title="Кино", Horror TV
 #EXTGRP:Кино
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/93dc292b-cbcf-4988-ab97-94feced4c14b/manifest.m3u8
-#EXTINF:-1 tvg-name="IPTVPLAY Ведьмак" tvg-logo="https://i123.fastpic.org/big/2024/0826/01/adbb4692281cf3cc6540f47f4460c701.png" group-title="Кино", IPTVPLAY Ведьмак
-#EXTGRP:Кино
-http://5.188.158.65:4040/IPTVPLAYVEDMAK.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 tvg-name="IPTVPLAY Великая Отечественная" tvg-logo="https://img.catcast.tv/uploads/21102022/logos/39161-6352c0c04b9bd.png" group-title="Кино", IPTVPLAY Великая Отечественная
-#EXTGRP:Кино
-http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 tvg-name="IPTVPLAY Десятое Королевство" tvg-logo="https://i123.fastpic.org/big/2024/0826/ac/f4f87b57a79f0fbc6381996811439dac.png" group-title="Кино", IPTVPLAY Десятое Королевство
-#EXTGRP:Кино
-http://5.188.158.65:4040/IPTVPLAY10KOROLEVSTVO.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 tvg-name="IPTVPLAY Интерны" tvg-logo="https://i123.fastpic.org/big/2024/0826/ee/6d269a3701fd505b42ad593a52cd9eee.png" group-title="Кино", IPTVPLAY Интерны
-#EXTGRP:Кино
-http://5.188.158.65:4040/IPTVPLAYINTERNY.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 tvg-name="IPTVPLAY Память" tvg-logo="https://i.ibb.co/7gj4dQM/Pamyat.png" group-title="Кино", IPTVPLAY Память
-#EXTGRP:Кино
-http://5.188.158.65:4040/IPTVPLAYPAMYAT.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 tvg-name="IPTVPLAY Ужастик" tvg-logo="https://i.ibb.co/LZkQq0x/Uzhastik.png" group-title="Кино", IPTVPLAY Ужастик
-#EXTGRP:Кино
-http://5.188.158.65:4040/IPTVPLAYUZHASTIK.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 tvg-name="IPTVPLAY Фантастика" tvg-logo="https://i.ibb.co/pbxx3Sd/Fantastika.png" group-title="Кино", IPTVPLAY Фантастика
-#EXTGRP:Кино
-http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1 tvg-id="kino-24" tvg-name="Kino 24" tvg-logo="https://epgx.club/picons/kino-24.png" group-title="Кино", Kino 24
 #EXTGRP:Кино
 http://dmitry-tv.ddns.net/hls/CH_KINO24.m3u8
@@ -1963,6 +1912,57 @@ https://cdn-dvr.ntv.ru/sledstvie/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="НТВ Шеф" tvg-logo="http://epg.one/img/162.png" group-title="Кинозал", НТВ Шеф
 #EXTGRP:Кинозал
 https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="Сити Эдем - КиноАзия" tvg-logo="https://www.cityeden.info/logotv/kinoazija_logotip.png" group-title="Кинозал", Сити Эдем - КиноАзия
+#EXTGRP:Кинозал
+https://autopilot.catcast.tv/content/34393/index.m3u8
+#EXTINF:-1 tvg-name="Сити Эдем - КиноАрт" tvg-logo="https://www.cityeden.info/logotv/logotip_kinoart.png" group-title="Кинозал", Сити Эдем - КиноАрт
+#EXTGRP:Кинозал
+https://cityeden.catcast.tv/content/38398/index.m3u8
+#EXTINF:-1 tvg-name="Сити Эдем - КиноДетектив" tvg-logo="https://www.cityeden.info/logotv/logotip_kinodetektiv.png" group-title="Кинозал", Сити Эдем - КиноДетектив
+#EXTGRP:Кинозал
+https://autopilot.catcast.tv/content/41327/index.m3u8
+#EXTINF:-1 tvg-name="Сити Эдем - КиноДрама" tvg-logo="https://www.cityeden.info/logotv/kinodrama_logotip.png" group-title="Кинозал", Сити Эдем - КиноДрама
+#EXTGRP:Кинозал
+https://cityeden.catcast.tv/content/45269/index.m3u8
+#EXTINF:-1 tvg-name="Сити Эдем - КиноКлассика" tvg-logo="https://www.cityeden.info/logotv/logotip_kinoklassika.png" group-title="Кинозал", Сити Эдем - КиноКлассика
+#EXTGRP:Кинозал
+http://autopilot.catcast.tv/content/34185/index.m3u8
+#EXTINF:-1 tvg-name="Сити Эдем - КиноКомедия" tvg-logo="https://www.cityeden.info/logotv/logotip_siti_ehdem-kinokomedija.png" group-title="Кинозал", Сити Эдем - КиноКомедия
+#EXTGRP:Кинозал
+https://autopilot.catcast.tv/content/41331/index.m3u8
+#EXTINF:-1 tvg-name="Сити Эдем - КиноМистика" tvg-logo="https://www.cityeden.info/logotv/logotip_kinomostika.png" group-title="Кинозал", Сити Эдем - КиноМистика
+#EXTGRP:Кинозал
+https://autopilot.catcast.tv/content/40783/index.m3u8
+#EXTINF:-1 tvg-name="Сити Эдем - КиноФантастика" tvg-logo="https://www.cityeden.info/logotv/kinofantastika_logotip.png" group-title="Кинозал", Сити Эдем - КиноФантастика
+#EXTGRP:Кинозал
+https://cityeden.catcast.tv/content/45268/index.m3u8
+#EXTINF:-1 tvg-name="Сити Эдем - КиноЭкшен" tvg-logo="https://www.cityeden.info/logotv/logotip_siti_ehdem-kinoehkshen2.png" group-title="Кинозал", Сити Эдем - КиноЭкшен
+#EXTGRP:Кинозал
+http://autopilot.catcast.tv/content/41333/index.m3u8
+#EXTINF:-1 tvg-name="Сити Эдем - ТелеНовелла" tvg-logo="https://www.cityeden.info/logotv/logotip_telenovella.png" group-title="Кинозал", Сити Эдем - ТелеНовелла
+#EXTGRP:Кинозал
+https://autopilot.catcast.tv/content/46209/index.m3u8
+#EXTINF:-1 tvg-name="IPTVPLAY Ведьмак" tvg-logo="https://i123.fastpic.org/big/2024/0826/01/adbb4692281cf3cc6540f47f4460c701.png" group-title="Кинозал", IPTVPLAY Ведьмак
+#EXTGRP:Кинозал
+http://5.188.158.65:4040/IPTVPLAYVEDMAK.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 tvg-name="IPTVPLAY Великая Отечественная" tvg-logo="https://img.catcast.tv/uploads/21102022/logos/39161-6352c0c04b9bd.png" group-title="Кинозал", IPTVPLAY Великая Отечественная
+#EXTGRP:Кинозал
+http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 tvg-name="IPTVPLAY Десятое Королевство" tvg-logo="https://i123.fastpic.org/big/2024/0826/ac/f4f87b57a79f0fbc6381996811439dac.png" group-title="Кинозал", IPTVPLAY Десятое Королевство
+#EXTGRP:Кинозал
+http://5.188.158.65:4040/IPTVPLAY10KOROLEVSTVO.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 tvg-name="IPTVPLAY Интерны" tvg-logo="https://i123.fastpic.org/big/2024/0826/ee/6d269a3701fd505b42ad593a52cd9eee.png" group-title="Кинозал", IPTVPLAY Интерны
+#EXTGRP:Кинозал
+http://5.188.158.65:4040/IPTVPLAYINTERNY.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 tvg-name="IPTVPLAY Память" tvg-logo="https://i.ibb.co/7gj4dQM/Pamyat.png" group-title="Кинозал", IPTVPLAY Память
+#EXTGRP:Кинозал
+http://5.188.158.65:4040/IPTVPLAYPAMYAT.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 tvg-name="IPTVPLAY Ужастик" tvg-logo="https://i.ibb.co/LZkQq0x/Uzhastik.png" group-title="Кинозал", IPTVPLAY Ужастик
+#EXTGRP:Кинозал
+http://5.188.158.65:4040/IPTVPLAYUZHASTIK.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 tvg-name="IPTVPLAY Фантастика" tvg-logo="https://i.ibb.co/pbxx3Sd/Fantastika.png" group-title="Кинозал", IPTVPLAY Фантастика
+#EXTGRP:Кинозал
+http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1 tvg-id="minimax-sport" tvg-name="MM Спорт HD" tvg-logo="http://epg.one/img/5167.png" group-title="Кинозал", MM Спорт HD
 #EXTGRP:Кинозал
 http://157.90.0.245:8070/minimax-sport/index.m3u8
@@ -2013,7 +2013,7 @@ http://87.76.32.36:8001/matchplaneta
 http://46.8.46.14/premier/index.m3u8
 #EXTINF:-1 tvg-id="match-premier" tvg-name="Матч! Премьер HD" tvg-logo="http://epg.one/img/2250.png" group-title="Спорт", МАТЧ ПРЕМЬЕР HD
 #EXTGRP:Спорт
-https://mhd128.iptv2022.com/p/WYroTYc75WMxRWzaXCBdVQ,1763931624/streaming/match_premyerhd/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/BVWgW83oVht3ovHKxheYkQ,1764018022/streaming/match_premyerhd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="match-nash-sport" tvg-name="Матч! Страна" tvg-logo="http://epg.one/img/2042.png" group-title="Спорт", МАТЧ! СТРАНА
 #EXTGRP:Спорт
 http://91.194.191.241:8081/chid56/tracks-v1a1/mono.m3u8
