@@ -408,9 +408,6 @@ http://dmitry-tv.ddns.net/hls/zabava/CH_SUBBOTA-1.m3u8
 #EXTINF:-1 tvg-id="super" tvg-name="Суббота" tvg-logo="http://epg.one/img/2288.png" group-title="Россия", Суббота
 #EXTGRP:Россия
 http://188.190.222.53/Super/index.m3u8
-#EXTINF:-1 tvg-id="super" tvg-name="Суббота HD" tvg-logo="http://epg.one/img/2288.png" group-title="Россия", Суббота HD
-#EXTGRP:Россия
-http://77.232.131.211/Subbota/index.m3u8
 #EXTINF:-1 tvg-id="super" tvg-shift="-2" tvg-name="Суббота +2" tvg-logo="http://epg.one/img/7976.png" group-title="Россия", Суббота +2
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -1443,9 +1440,6 @@ http://193.27.209.122/tiji/index.m3u8
 #EXTINF:-1 tvg-id="blokbaster" tvg-name="Блокбастер" tvg-logo="http://epg.one/img/2832.png" group-title="Кино", Блокбастер
 #EXTGRP:Кино
 https://mhd128.iptv2022.com/p/gm6SUGADjGsQLI0xkwPMYg,1764018011/streaming/blokbaster/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-id="blokbaster" tvg-name="Блокбастер HD" tvg-logo="http://epg.one/img/2832.png" group-title="Кино", Блокбастер HD
-#EXTGRP:Кино
-http://77.232.131.211/BlokbasterHD/index.m3u8
 #EXTINF:-1 tvg-name="Видеокассета TV" tvg-logo="https://avatars.mds.yandex.net/i?id=aa54d677b7da13a106d22ee95411b140d0009712-15274206-images-thumbs&n=13" group-title="Кино", Видеокассета TV
 #EXTGRP:Кино
 https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/playlist.m3u8
@@ -1465,9 +1459,6 @@ http://95.66.188.74/DomKinoPremiumHD/index.m3u8
 #EXTINF:-1 tvg-id="dorama" tvg-name="Дорама" tvg-logo="http://epg.one/img/2174.png" group-title="Кино", Дорама
 #EXTGRP:Кино
 http://95.85.109.219:7000/play/a05v
-#EXTINF:-1 tvg-id="dushevnoe-hd" tvg-name="Душевное HD" tvg-logo="http://epg.one/img/2019.png" group-title="Кино", Душевное HD
-#EXTGRP:Кино
-http://77.232.131.211/DushevnoeHD/index.m3u8
 #EXTINF:-1 tvg-id="evrokino" tvg-name="Еврокино" tvg-logo="http://epg.one/img/352.png" group-title="Кино", Еврокино
 #EXTGRP:Кино
 http://46.8.46.14/eurokino/index.m3u8
@@ -1482,7 +1473,7 @@ http://188.113.190.12/329/index.m3u8
 http://91.194.191.241:8081/chid139/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="kamedi" tvg-name="Камеди HD" tvg-logo="http://epg.one/img/2836.png" group-title="Кино", Камеди HD
 #EXTGRP:Кино
-http://77.232.131.211/KamediHD/index.m3u8
+https://mhd128.iptv2022.com/p/yx-lJ-pUnrlFoUyRLGYRWg,1764018012/streaming/kamedi/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="kineko" tvg-name="Кинеко" tvg-logo="http://epg.one/img/7314.png" group-title="Кино", Кинеко
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000008136/tve/index.m3u8
@@ -1580,9 +1571,6 @@ https://mhd128.iptv2022.com/p/3ugHNO--RJUeQR49w9i0_w,1764018012/streaming/nashem
 #EXTINF:-1 tvg-id="nashe-novoe-kino" tvg-name="Наше новое кино" tvg-logo="http://epg.one/img/485.png" group-title="Кино", Наше новое кино
 #EXTGRP:Кино
 http://91.207.115.228:5000/c41
-#EXTINF:-1 tvg-id="nashehd" tvg-name="Наше HD" tvg-logo="http://epg.one/img/2018.png" group-title="Кино", Наше HD
-#EXTGRP:Кино
-http://77.232.131.211/NasheHD/index.m3u8
 #EXTINF:-1 tvg-id="nst" tvg-name="НСТ" tvg-logo="http://epg.one/img/518.png" group-title="Кино", НСТ
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000000078/tve/index.m3u8
