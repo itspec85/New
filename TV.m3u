@@ -828,7 +828,7 @@ http://185.46.16.239:8000/Drayv
 http://dumatv.iptv2022.com/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="ege-tv" tvg-name="ЕГЭ ТВ" tvg-logo="http://epg.one/img/2420.png" group-title="Познавательные", ЕГЭ ТВ
 #EXTGRP:Познавательные
-http://91.194.191.241:8081/chid138/tracks-v1a1/mono.m3u8
+http://tv.streams.baikal-telecom.net:8080/RT_DOC/index.m3u8
 #EXTINF:-1 tvg-id="eda-hd-int" tvg-name="ЕДА Премиум" tvg-logo="http://epg.one/img/930.png" group-title="Познавательные", ЕДА Премиум
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000000588/tve/index.m3u8
@@ -903,7 +903,7 @@ https://ucdn.beetv.kz/bpk-tv/000000286/tve/index.m3u8
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
 #EXTINF:-1 tvg-id="nadezhda" tvg-name="Надежда" tvg-logo="http://epg.one/img/1732.png" group-title="Познавательные", Надежда
 #EXTGRP:Познавательные
-http://dmitry-tv.ddns.net/hls/CH_NADEZHDAHD720.m3u8
+http://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
 #EXTINF:-1 tvg-id="narod-vsio-vidit" tvg-name="Народ Всё Видит" tvg-logo="https://iptvx.one/picons/narod-vsio-vidit.png" group-title="Познавательные", Народ Всё Видит
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000008614/tve/index.m3u8
@@ -1104,7 +1104,7 @@ https://ucdn.beetv.kz/bpk-tv/000000707/tve/index.m3u8
 http://95.67.12.82:9083
 #EXTINF:-1 tvg-id="deutsche-welle-eu" tvg-name="Deutsche Welle EN" tvg-logo="http://epg.one/img/8638.png" group-title="Познавательные", Deutsche Welle EN
 #EXTGRP:Познавательные
-http://dmitry-tv.ddns.net/hls/CH_DW_ENGLISHHD.m3u8
+https://api-tv.ipnet.ua/api/v1/manifest/2118742360.m3u8
 #EXTINF:-1 tvg-id="deutsche-welle-ru" tvg-name="Deutsche Welle Russia" tvg-logo="https://avatars.mds.yandex.net/i?id=dda236ab5b048258b8c49f5ceb446c5fecbcd7d3a9ea305b-13290936-images-thumbs&n=13" group-title="Познавательные", Deutsche Welle Russia
 #EXTGRP:Познавательные
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
