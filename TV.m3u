@@ -46,7 +46,7 @@ http://dmitry-tv.ddns.net/hls/DVB-T2/CH_ZVEZDA_2.m3u8
 #EXTINF:-1 tvg-id="zvezda-pl4" tvg-name="Звезда +4" tvg-logo="http://epg.one/img/3035.png" group-title="Россия", Звезда +4
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_4/variant.m3u8
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_ZVEZDA_4.m3u8
 #EXTINF:-1 tvg-id="zvezda" tvg-shift="-6" tvg-name="Звезда +6" tvg-logo="http://epg.one/img/3036.png" group-title="Россия", Звезда +6
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
