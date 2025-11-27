@@ -894,7 +894,7 @@ https://fl1001.bozztv.com/ushba3/tracks-v1a1/mono.m3u8
 http://tv.streams.baikal-telecom.net:8080/MoyaPlanetaHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="muzhskoy" tvg-name="Мужской" tvg-logo="http://epg.one/img/2444.png" group-title="Познавательные", Мужской
 #EXTGRP:Познавательные
-http://195.26.83.96:7007/play/11/index.m3u8
+http://195.158.223.132:8009/Muzhskoy
 #EXTINF:-1 tvg-id="muzhskoy" tvg-name="Мужской HD" tvg-logo="http://epg.one/img/2444.png" group-title="Познавательные", Мужской HD
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000000286/tve/index.m3u8
@@ -1032,7 +1032,7 @@ https://5f05e059699ae.streamlock.net/WEB_TBN/ngrp:TBN.stream-adaptive/playlist.m
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 #EXTINF:-1 tvg-id="teatr" tvg-name="Театр" tvg-logo="http://epg.one/img/2827.png" group-title="Познавательные", Театр
 #EXTGRP:Познавательные
-http://195.26.83.96:7005/play/16/index.m3u8
+http://46.8.46.14/Teatr/index.m3u8
 #EXTINF:-1 tvg-name="Телеканал Андийцы" tvg-logo="https://avatars.mds.yandex.net/i?id=315311df530d8d11766b8df0094fccbcb49d92d3-11004153-images-thumbs&n=13" group-title="Познавательные", Телеканал Андийцы
 #EXTGRP:Познавательные
 https://v2.catcast.tv/content/34114/index.m3u8
@@ -1200,7 +1200,7 @@ https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-4/mxtm-wdfe_1080p/chunkl
 http://194.143.148.28:8080/RTG_HD/index.m3u8
 #EXTINF:-1 tvg-id="rtg-tv" tvg-name="RTG TV" tvg-logo="http://epg.one/img/2280.png" group-title="Познавательные", RTG TV
 #EXTGRP:Познавательные
-http://195.26.83.96:7007/play/a00n/index.m3u8
+http://46.8.46.14/rutravel/index.m3u8
 #EXTINF:-1 tvg-id="rtvi" tvg-name="RTVi" tvg-logo="http://epg.one/img/2401.png" group-title="Познавательные", RTVi
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000000039/tve/index.m3u8
@@ -2325,7 +2325,7 @@ http://kino-1.catcast.tv/content/37739/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000000204/tve/index.m3u8
 #EXTINF:-1 tvg-id="o2tv" tvg-name="О2 ТВ" tvg-logo="http://epg.one/img/2412.png" group-title="Музыка", О2 ТВ
 #EXTGRP:Музыка
-http://195.26.83.96:7006/play/1/index.m3u8
+http://195.158.223.132:8010/O!2
 #EXTINF:-1 tvg-name="Первый музыкальный BY" tvg-logo="http://epg.one/img/5365.png" group-title="Музыка", Первый музыкальный BY
 #EXTGRP:Музыка
 http://hz1.teleport.cc/HLS/HD.m3u8
