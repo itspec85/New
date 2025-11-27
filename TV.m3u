@@ -756,7 +756,7 @@ http://v4.proofix.ru:80/8tv-europe/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000000008/tve/index.m3u8
 #EXTINF:-1 tvg-id="365-dnej" tvg-name="365 дней ТВ" tvg-logo="http://epg.one/img/2423.png" group-title="Познавательные", 365 дней ТВ
 #EXTGRP:Познавательные
-http://91.194.191.241:8081/chid425/tracks-v1a1/mono.m3u8
+http://91.207.115.228:5000/c36
 #EXTINF:-1 tvg-id="avto24" tvg-name="Авто 24" tvg-logo="http://epg.one/img/2008.png" group-title="Познавательные", Авто 24
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000000815/tve/index.m3u8
@@ -783,7 +783,7 @@ http://95.66.188.74/Bober/mono.m3u8
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="v-mire-zhivotnyx-hd" tvg-name="В мире животных HD" tvg-logo="http://epg.one/img/2498.png" group-title="Познавательные", В мире животных HD
 #EXTGRP:Познавательные
-http://91.194.191.241:8081/chid209/tracks-v1a1/mono.m3u8
+https://streamer1.connectto.com/513/mono.m3u8
 #EXTINF:-1 tvg-name="Вера 24" tvg-logo="https://i.imgur.com/Qer5Lnh.png" group-title="Познавательные", Вера 24
 #EXTGRP:Познавательные
 https://5f05e059699ae.streamlock.net/WEB_Vera24/ngrp:Vera24.stream-adaptive/playlist.m3u8
@@ -861,7 +861,7 @@ http://edge3.uk.kab.tv/live/tvrus-rus-high/chunks.m3u8
 http://tv.streams.baikal-telecom.net:8080/KaleidoskopTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="kvn-tv" tvg-name="КВН ТВ" tvg-logo="http://epg.one/img/1700.png" group-title="Познавательные", КВН ТВ
 #EXTGRP:Познавательные
-http://91.194.191.241:8081/chid472/tracks-v1a1/mono.m3u8
+http://93.170.254.17/KVN/index.m3u8
 #EXTINF:-1 tvg-id="rus-hualiang-tv" tvg-name="Китай ТВ" tvg-logo="https://avatars.mds.yandex.net/i?id=436495c2f8fdbd1b22e12e22f18dabad29cee9d1-9840106-images-thumbs&ref=rim&n=33&w=379&h=379" group-title="Познавательные", Китай ТВ
 #EXTGRP:Познавательные
 https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
@@ -945,7 +945,7 @@ https://ucdn.beetv.kz/bpk-tv/000000308/tve/index.m3u8
 http://v4.proofix.ru/0mir/index.m3u8
 #EXTINF:-1 tvg-id="oxota-i-rybalka" tvg-name="Охота и Рыбалка" tvg-logo="http://epg.one/img/2419.png" group-title="Познавательные", Охота и Рыбалка
 #EXTGRP:Познавательные
-http://91.194.191.241:8081/chid149/tracks-v1a1/mono.m3u8
+http://95.66.188.74/Ohota_i_ribalka/mono.m3u8
 #EXTINF:-1 tvg-id="oxotnik-i-rybolov-hd" tvg-name="Охотник и рыболов" tvg-logo="http://epg.one/img/1681.png" group-title="Познавательные", Охотник и рыболов
 #EXTGRP:Познавательные
 http://195.64.140.147:10162/162
@@ -996,7 +996,7 @@ https://n1.slavmir.tv/live/slavmir/chunklist.m3u8
 https://ucdn.beetv.kz/bpk-tv/000002510/tve/index.m3u8
 #EXTINF:-1 tvg-id="sarafan" tvg-name="Сарафан" tvg-logo="http://epg.one/img/663.png" group-title="Познавательные", Сарафан
 #EXTGRP:Познавательные
-http://91.194.191.241:8081/chid39/tracks-v1a1/mono.m3u8
+http://2.57.217.85:8000/play/a08l/index.m3u8
 #EXTINF:-1 tvg-name="Сити Эдем - АвтоГид" tvg-logo="https://www.cityeden.info/logotv/logotip_avtogid1.png" group-title="Познавательные", Сити Эдем - АвтоГид
 #EXTGRP:Познавательные
 https://cityeden.catcast.tv/content/47515/index.m3u8
@@ -1272,34 +1272,10 @@ http://autopilot.catcast.tv/content/38720/index.m3u8
 https://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ginger-hd" tvg-name="Капитан Фантастика" tvg-logo="http://epg.one/img/2438.png" group-title="Детские", Капитан Фантастика
 #EXTGRP:Детские
-http://91.194.191.241:8081/chid292/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="karusel" tvg-shift="+1" tvg-name="Карусель -1" tvg-logo="http://epg.one/img/740.png" group-title="Детские", Карусель -1
-#EXTGRP:Детские
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_KARUSEL-1.m3u8
+https://stream11.itv.uz/1406/index.m3u8
 #EXTINF:-1 tvg-id="karusel" tvg-name="Карусель" tvg-logo="http://epg.one/img/740.png" group-title="Детские", Карусель
 #EXTGRP:Детские
 http://95.47.156.60:8000/play/8/index.m3u8
-#EXTINF:-1 tvg-id="karusel-pl2" tvg-name="Карусель (+2)" tvg-logo="http://epg.one/img/2033.png" group-title="Детские", Карусель +2
-#EXTGRP:Детские
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_KARUSEL_2.m3u8
-#EXTINF:-1 tvg-id="karusel-pl4" tvg-name="Карусель (+4)" tvg-logo="http://epg.one/img/7984.png" group-title="Детские", Карусель +4
-#EXTGRP:Детские
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_KARUSEL_4.m3u8
-#EXTINF:-1 tvg-id="karusel" tvg-shift="-6" tvg-name="Карусель +6" tvg-logo="http://epg.one/img/740.png" group-title="Детские", Карусель +6
-#EXTGRP:Детские
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_KARUSEL_6.m3u8
-#EXTINF:-1 tvg-id="karusel-pl7" tvg-name="Карусель (+7)" tvg-logo="http://epg.one/img/1107.png" group-title="Детские", Карусель +7
-#EXTGRP:Детские
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_KARUSEL_7.m3u8
-#EXTINF:-1 tvg-id="karusel-pl8" tvg-name="Карусель (+8)" tvg-logo="http://epg.one/img/740.png" group-title="Детские", Карусель +8
-#EXTGRP:Детские
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_KARUSEL_8.m3u8
 #EXTINF:-1 tvg-id="karusel-int" tvg-name="Карусель International" tvg-logo="https://iptvx.one/picons/karusel.png" group-title="Детские", Карусель International
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000000781/tve/index.m3u8
@@ -1333,29 +1309,9 @@ https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/play
 #EXTINF:-1 tvg-id="sovmultf" tvg-name="Советские мультфильмы" tvg-logo="https://epgx.club/picons/sovmultf.png" group-title="Детские", Советские мультфильмы
 #EXTGRP:Детские
 https://mhd128.iptv2022.com/p/Wi52zyAB00txM6OOGyRXOQ,1764277211/streaming/rusmult/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-id="solnce" tvg-shift="+1" tvg-name="Солнце -1" tvg-logo="http://epg.one/img/7669.png" group-title="Детские", Солнце -1
-#EXTGRP:Детские
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/zabava/CH_DISNEY-1.m3u8
 #EXTINF:-1 tvg-id="solnce" tvg-name="Солнце" tvg-logo="http://epg.one/img/7669.png" group-title="Детские", Солнце
 #EXTGRP:Детские
 http://91.207.115.228:5000/c167
-#EXTINF:-1 tvg-id="solnce-pl2" tvg-name="Солнце +2" tvg-logo="https://epgx.club/picons/solnce-pl2.png" group-title="Детские", Солнце +2
-#EXTGRP:Детские
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/zabava/CH_DISNEY_2.m3u8
-#EXTINF:-1 tvg-id="solnce-pl4" tvg-name="Солнце +4" tvg-logo="https://epgx.club/picons/solnce-pl4.png" group-title="Детские", Солнце +4
-#EXTGRP:Детские
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/zabava/CH_DISNEY_4.m3u8
-#EXTINF:-1 tvg-id="solnce" tvg-shift="-6" tvg-name="Солнце +6" tvg-logo="http://epg.one/img/7669.png" group-title="Детские", Солнце +6
-#EXTGRP:Детские
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/zabava/CH_DISNEY_6.m3u8
-#EXTINF:-1 tvg-id="solnce-pl7" tvg-name="Солнце +7" tvg-logo="http://epg.one/img/7669.png" group-title="Детские", Солнце +7
-#EXTGRP:Детские
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/zabava/CH_DISNEY_7.m3u8
 #EXTINF:-1 tvg-name="СоюзМультфильм" tvg-logo="https://i.postimg.cc/RCgvJhdQ/image.png" group-title="Детские", СоюзМультфильм
 #EXTGRP:Детские
 http://194.26.229.213/souzmultfilm/index.m3u8
@@ -1924,9 +1880,6 @@ https://edge50.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
 #EXTGRP:Спорт
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://a3285272783-s80718.cdn.ngenix.net/hls/CH_BOKS_TVHD/video_1920x1080_avc1/playlist.m3u8?useseq=t
-#EXTINF:-1 tvg-id="voleybol" tvg-name="Волейбол" tvg-logo="https://epgx.club/picons/voleybol.png" group-title="Спорт", Волейбол
-#EXTGRP:Спорт
-http://50.7.28.226/9192/index.m3u8
 #EXTINF:-1 tvg-id="konny-mir" tvg-name="Конный Мир" tvg-logo="http://epg.one/img/1679.png" group-title="Спорт", Конный Мир
 #EXTGRP:Спорт
 http://cdn-01.bonus-tv.ru/kmir/mono.m3u8
@@ -1939,7 +1892,7 @@ https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a
 #EXTINF:-1 tvg-id="match-arena" tvg-name="Матч! Арена" tvg-logo="http://epg.one/img/2003.png" group-title="Спорт", Матч! Арена
 #EXTGRP:Спорт
 http://194.143.148.28:8080/MatchArena/mpegts
-#EXTINF:-1 tvg-id="match-arena" tvg-name="Матч! Арена" tvg-logo="http://epg.one/img/2003.png" group-title="Спорт", Матч! Арена HD
+#EXTINF:-1 tvg-id="match-arena" tvg-name="Матч! Арена HD" tvg-logo="http://epg.one/img/2003.png" group-title="Спорт", Матч! Арена HD
 #EXTGRP:Спорт
 http://91.207.115.228:5000/c103
 #EXTINF:-1 tvg-id="match-boets" tvg-name="Матч! Боец" tvg-logo="http://epg.one/img/2054.png" group-title="Спорт", Матч! Боец
@@ -1947,8 +1900,8 @@ http://91.207.115.228:5000/c103
 http://46.8.46.14/boec/index.m3u8
 #EXTINF:-1 tvg-id="match-igra" tvg-name="Матч! Игра" tvg-logo="http://epg.one/img/2050.png" group-title="Спорт", Матч! Игра
 #EXTGRP:Спорт
-http://91.194.191.241:8081/chid53/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="match-igra" tvg-name="Матч! Игра" tvg-logo="http://epg.one/img/2050.png" group-title="Спорт", Матч! Игра HD
+http://95.66.188.74/MatchIgra/mono.m3u8
+#EXTINF:-1 tvg-id="match-igra" tvg-name="Матч! Игра HD" tvg-logo="http://epg.one/img/2050.png" group-title="Спорт", Матч! Игра HD
 #EXTGRP:Спорт
 http://91.207.115.228:5000/c104
 #EXTINF:-1 tvg-id="match-planeta" tvg-name="Матч! Планета" tvg-logo="http://epg.one/img/2043.png" group-title="Спорт", Матч! Планета
@@ -1962,8 +1915,8 @@ http://46.8.46.14/premier/index.m3u8
 https://mhd128.iptv2022.com/p/wFJ3DD9Kut_1V0xKHtUB1w,1764277215/streaming/match_premyerhd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="match-nash-sport" tvg-name="Матч! Страна" tvg-logo="http://epg.one/img/2042.png" group-title="Спорт", МАТЧ! СТРАНА
 #EXTGRP:Спорт
-http://91.194.191.241:8081/chid56/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="match-nash-sport" tvg-name="Матч! Страна" tvg-logo="http://epg.one/img/2042.png" group-title="Спорт", Матч! Страна HD
+http://ukr.ukrainske.tv/134/keytvainua/video.m3u8
+#EXTINF:-1 tvg-id="match-nash-sport" tvg-name="Матч! Страна HD" tvg-logo="http://epg.one/img/2042.png" group-title="Спорт", Матч! Страна HD
 #EXTGRP:Спорт
 http://91.207.115.228:5000/c106
 #EXTINF:-1 tvg-id="match-football1" tvg-name="Матч! Футбол 1" tvg-logo="http://epg.one/img/2044.png" group-title="Спорт", Матч! Футбол 1
@@ -1992,7 +1945,7 @@ http://195.64.140.147:10111/111
 http://185.221.213.254:8080/Okko/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="start" tvg-name="Старт" tvg-logo="http://epg.one/img/2530.png" group-title="Спорт", СТАРТ
 #EXTGRP:Спорт
-http://91.194.191.241:8081/chid231/tracks-v1a1/mono.m3u8
+http://85.88.175.48:2020/udp/239.4.10.86:2020
 #EXTINF:-1 tvg-id="start-basket" tvg-name="Старт Баскет" tvg-logo="https://epgx.club/picons/start-basket.png" group-title="Спорт", Старт Баскет
 #EXTGRP:Спорт
 https://bl.webcaster.pro/media/playlist/free_621d169e5c631c638136df3cb136c5c9/33_68881676/1080p/b32eaae5fbf1d2b8211543566a1d9a78/4914392769.m3u8?live=15&ref=https://tvstart.ru/channels/start-basket-test/
