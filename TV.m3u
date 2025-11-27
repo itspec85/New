@@ -89,7 +89,7 @@ http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MIR_6.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="mir-24" tvg-name="Мир 24" tvg-logo="http://epg.one/img/2078.png" group-title="Россия", Мир 24
 #EXTGRP:Россия
-http://dmitry-tv.ddns.net/hls/CH_MIR24.m3u8
+http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_mobil/playlist.m3u8
 #EXTINF:-1 tvg-id="mir-24" tvg-name="Мир 24 HD" tvg-logo="http://epg.one/img/2078.png" group-title="Россия", Мир 24 HD
 #EXTGRP:Россия
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
