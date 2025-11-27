@@ -1725,7 +1725,7 @@ http://157.90.0.245:8070/HOLLYWOOD_HD/index.m3u8
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/93dc292b-cbcf-4988-ab97-94feced4c14b/manifest.m3u8
 #EXTINF:-1 tvg-id="kino-24" tvg-name="Kino 24" tvg-logo="https://epgx.club/picons/kino-24.png" group-title="Кино", Kino 24
 #EXTGRP:Кино
-http://dmitry-tv.ddns.net/hls/CH_KINO24.m3u8
+http://sirius.greenhosting.ru/Kino24Ru/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="kinoliving" tvg-name="KinoLiving" tvg-logo="http://epg.one/img/9123.png" group-title="Кино", KinoLiving
 #EXTGRP:Кино
 http://91.207.115.228:5000/c61
