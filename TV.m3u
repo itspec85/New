@@ -3368,8 +3368,7 @@ https://0werof7ib0p.a.trbcdn.net/livemaster/6r10qa9k6d_trknadym.sdp/playlist.m3u
 http://85.234.33.64/stream/c11.m3u8
 #EXTINF:-1 tvg-name="Наши города Когалым" tvg-logo="https://avatars.mds.yandex.net/i?id=9b1571a8c5cad3067b45a96237bb9fa3276c7320-3828188-images-thumbs&n=13" group-title="Региональные РФ", Наши города Когалым
 #EXTGRP:Региональные РФ
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/zabava/region/SUR/CH_NGORHD.m3u8
+http://kogalimtv.servicecdn.ru/streams/775_913148/1080n/index.m3u8
 #EXTINF:-1 tvg-id="saxa" tvg-name="НВК Саха FHD" tvg-logo="http://epg.one/img/7699.png" group-title="Региональные РФ", НВК Саха FHD
 #EXTGRP:Региональные РФ
 http://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
@@ -3381,8 +3380,7 @@ http://live-vestinn.cdnvideo.ru/vestinn/nn24/playlist.m3u8
 http://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="nntv" tvg-name="ННТВ Нижний Новгород" tvg-logo="http://epg.one/img/5706.png" group-title="Региональные РФ", ННТВ Нижний Новгород
 #EXTGRP:Региональные РФ
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/zabava/region/NN/CH_NNTVHD720.m3u8
+http://live-nntv2.cdnvideo.ru/nntv2/cfd99gu0ai_nntv_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="novgorodskoe-obl-tv" tvg-name="Новгородское Областное телевидение" tvg-logo="https://iptvx.one/picons/novgorodskoe-obl-tv.png" group-title="Региональные РФ", Новгородское Областное Телевидение
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -3415,8 +3413,7 @@ http://rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_ELISTA_HAMDAN/vari
 http://171.22.212.250/NTK/index.m3u8
 #EXTINF:-1 tvg-id="ntm" tvg-name="НТМ Мордовия" tvg-logo="https://iptvx.one/picons/ntm.png" group-title="Региональные РФ", НТМ Мордовия
 #EXTGRP:Региональные РФ
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/zabava/region/SRNK/CH_NTM.m3u8
+http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ntrk-ingushetia" tvg-name="НТРК Ингушетия" tvg-logo="https://avatars.mds.yandex.net/i?id=6040cd15bc41b7ae95b07e304cb662c9216add6a-12411982-images-thumbs&n=13" group-title="Региональные РФ", НТРК Ингушетия
 #EXTGRP:Региональные РФ
 https://ingushetia.mediacdn.ru/cdn/ingushetia/playlist.m3u8
@@ -3429,8 +3426,7 @@ http://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/chunklist.m3u8
 http://dmitry-tv.ddns.net/hls/zabava/region/EKT/CH_IRBITVEST.m3u8
 #EXTINF:-1 tvg-id="nts-irkutsk" tvg-name="НТС FHD Иркутск" tvg-logo="http://epg.one/img/6745.png" group-title="Региональные РФ", НТС FHD Иркутск
 #EXTGRP:Региональные РФ
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/zabava/region/IRK/CH_NTSHD.m3u8
+https://air.nts-tv.ru/fhd.m3u8
 #EXTINF:-1 tvg-id="obkom" tvg-name="Обком ТВ" tvg-logo="http://epg.one/img/6743.png" group-title="Региональные РФ", Обком ТВ
 #EXTGRP:Региональные РФ
 http://www.omsk-kprf.ru/hls/stream.m3u8
