@@ -3159,7 +3159,7 @@ http://dmitry-tv.ddns.net/hls/zabava/region/CHEL/CH_VOSTEXPRESSHD.m3u8
 #EXTINF:-1 tvg-id="vot-tv" tvg-name="ВОТ ТВ Липецк" tvg-logo="https://avatars.mds.yandex.net/i?id=8408ac95ab3e19821dbbbf71f1ffb1cea565ef3d-6558101-images-thumbs&n=13" group-title="Региональные РФ", ВОТ ТВ Липецк
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/zabava/region/LIPETSK/CH_VOTTVHD.m3u8
+https://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_LIPETSK_VOTTV/variant.m3u8
 #EXTINF:-1 tvg-id="vtk-argus" tvg-name="ВТК Аргус Воронеж" tvg-logo="https://avatars.mds.yandex.net/i?id=aa97ac8843e5d4a123351649031bccf7_sr-10159322-images-thumbs&n=13" group-title="Региональные РФ", ВТК Аргус Воронеж
 #EXTGRP:Региональные РФ
 http://4kfp3cm483g.a.trbcdn.net/livemaster/753nqiuemp_VTC-41/tracks-v1a1/mono.m3u8
@@ -3179,7 +3179,7 @@ https://s68149.cdn.ngenix.net/s68149-media-origin/lvs/tvgub/tracks-v1a1/mono.m3u
 #EXTINF:-1 tvg-id="gubernia-33" tvg-name="Губерния 33 HD" tvg-logo="http://epg.one/img/2633.png" group-title="Региональные РФ", Губерния 33 HD
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/zabava/region/VLAD/CH_GUBERNIA33HD.m3u8
+http://rt-ct-vlad-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_VLAD_GUBERNIA33/variant.m3u8
 #EXTINF:-1 tvg-id="gubernia-samara" tvg-name="Губерния Самара" tvg-logo="http://epg.one/img/6750.png" group-title="Региональные РФ", Губерния Самара
 #EXTGRP:Региональные РФ
 http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
@@ -3195,7 +3195,7 @@ https://v.dzertv.ru:8588/dzertv/live_yandex/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="don-24" tvg-name="ДОН 24" tvg-logo="http://epg.one/img/2299.png" group-title="Региональные РФ", ДОН 24
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/zabava/region/RD/CH_DON24HD.m3u8
+https://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R02_OTT_STH_RD_DON24/variant.m3u8
 #EXTINF:-1 tvg-name="ДОН Лайф" tvg-logo="https://avatars.mds.yandex.net/i?id=eb8b516e72dbfaf60a34dd5a46a17e1e0a89f1ad-10809692-images-thumbs&n=13" group-title="Региональные РФ", ДОН Лайф
 #EXTGRP:Региональные РФ
 http://live-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/playlist.m3u8
@@ -3215,15 +3215,15 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-id="ivanovo-ot" tvg-name="Ивановское общественное телевидение" tvg-logo="https://iptvx.one/picons/ivanovo-ot.png" group-title="Региональные РФ", Ивановское общественное телевидение
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/zabava/region/IVAN/CH_IOT.m3u8
+https://rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_IVAN_IOT/variant.m3u8
 #EXTINF:-1 tvg-id="impuls-sewera" tvg-name="Импульс Севера Новый Уренгой" tvg-logo="https://iptvx.one/picons/impuls-sewera.png" group-title="Региональные РФ", Импульс Севера Новый Уренгой
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/zabava/region/NBK/CH_IMPULSHD.m3u8
+https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R02_IMPULS_NBK/variant.m3u8
 #EXTINF:-1 tvg-id="inf24shadr" tvg-name="Инфо 24 Шадринск" tvg-logo="https://avatars.mds.yandex.net/i?id=a1ed1033df1d0297ca0f74e4aa9e75bbd9c972ba-12416107-images-thumbs&n=13" group-title="Региональные РФ", Инфо 24 Шадринск
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/zabava/region/KRG/CH_INFO24HD.m3u8
+https://rt-ural-krg-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SHINFO_URAL_KRG/variant.m3u8
 #EXTINF:-1 tvg-id="rentv-istoki" tvg-name="Истоки Орёл" tvg-logo="http://epg.one/img/6032.png" group-title="Региональные РФ", Истоки Орёл
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -3249,7 +3249,7 @@ http://s20441.cdn.ngenix.net/hls/CH_R49_OTTKARIBU/variant.m3u8
 #EXTINF:-1 tvg-id="kaskad24" tvg-name="Каскад-24 Калининград" tvg-logo="https://iptvx.one/picons/kaskad24.png" group-title="Региональные РФ", Каскад-24 Калининград
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/zabava/region/KLGR/CH_KASKAD.m3u8
+http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R01_KASKAD/variant.m3u8
 #EXTINF:-1 tvg-id="katun-24" tvg-name="Катунь 24" tvg-logo="http://epg.one/img/5705.png" group-title="Региональные РФ", Катунь 24
 #EXTGRP:Региональные РФ
 https://live.katun24.ru:8082/katun/katun/index.m3u8
@@ -3281,7 +3281,7 @@ https://mow-9-ll.facecast.io:8443/hls_re/c631505e4fd6d14665c0.m3u8
 #EXTINF:-1 tvg-id="kuban-24" tvg-name="Кубань 24" tvg-logo="http://epg.one/img/6027.png" group-title="Региональные РФ", Кубань 24 орбита
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/zabava/region/KRDAR/CH_KUBAN24.m3u8
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8
 #EXTINF:-1 tvg-id="kuzbas1" tvg-name="Кузбасс 1 FHD" tvg-logo="http://epg.one/img/7702.png" group-title="Региональные РФ", Кузбасс 1 FHD
 #EXTGRP:Региональные РФ
 http://81.161.126.82:80/4200/index.m3u8
@@ -3294,7 +3294,7 @@ https://sevas.1tvcrimea.ru/legendarniy24.m3u8
 #EXTINF:-1 tvg-id="lot-47" tvg-name="Лен ТВ 24 FHD" tvg-logo="http://epg.one/img/7701.png" group-title="Региональные РФ", Лен ТВ 24 FHD
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/zabava/region/SPB/CH_LENTV24.m3u8
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_LENTVSD/variant.m3u8
 #EXTINF:-1 tvg-id="lipeck24" tvg-name="Липецк 24" tvg-logo="https://iptvx.one/picons/lipeck24.png" group-title="Региональные РФ", Липецк 24
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -3324,7 +3324,7 @@ http://megapolis.iptv2022.com/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="mig-tv-noyabrsk" tvg-name="Миг ТВ Ноябрьск" tvg-logo="https://iptvx.one/picons/mig-tv-noyabrsk.png" group-title="Региональные РФ", Миг ТВ Ноябрьск
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/zabava/region/NBK/CH_MIGTVHD.m3u8
+http://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_MIG_TV_URAL_YNF/variant.m3u8
 #EXTINF:-1 tvg-id="millet" tvg-name="Миллет" tvg-logo="http://epg.one/img/6680.png" group-title="Региональные РФ", Миллет
 #EXTGRP:Региональные РФ
 http://live.trkmillet.ru/millet/index.m3u8
@@ -3356,14 +3356,14 @@ https://hls-volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m
 #EXTINF:-1 tvg-id="muravlenko24" tvg-name="Муравленко 24" tvg-logo="https://iptvx.one/picons/muravlenko24.png" group-title="Региональные РФ", Муравленко 24
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/zabava/region/NBK/CH_MURAVLENKO24HD.m3u8
+https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_MURAVLENKO_24/variant.m3u8
 #EXTINF:-1 tvg-name="Муром ТВ" tvg-logo="https://avatars.mds.yandex.net/i?id=f24eba0a0f0bbb0ef28c018344961969d1162afb-5232628-images-thumbs&n=13" group-title="Региональные РФ", Муром ТВ
 #EXTGRP:Региональные РФ
 http://live.murom-tv.ru/hls/stream.m3u8
 #EXTINF:-1 tvg-id="metr" tvg-name="МЭТР Йошкар-Ола" tvg-logo="https://iptvx.one/picons/metr.png" group-title="Региональные РФ", МЭТР Йошкар-Ола
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/zabava/region/YOLA/CH_METR.m3u8
+https://rt-vlg-yola-htlive.cdn.ngenix.net/hls/CH_R03_METR/variant.m3u8
 #EXTINF:-1 tvg-id="vestnik-nadyma" tvg-name="Надымский вестник" tvg-logo="http://epg.one/img/5709.png" group-title="Региональные РФ", Надымский вестник
 #EXTGRP:Региональные РФ
 https://0werof7ib0p.a.trbcdn.net/livemaster/6r10qa9k6d_trknadym.sdp/playlist.m3u8
@@ -3388,11 +3388,11 @@ http://live-nntv2.cdnvideo.ru/nntv2/cfd99gu0ai_nntv_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="novgorodskoe-obl-tv" tvg-name="Новгородское Областное телевидение" tvg-logo="https://iptvx.one/picons/novgorodskoe-obl-tv.png" group-title="Региональные РФ", Новгородское Областное Телевидение
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/zabava/region/NOVG/CH_NOVGORODTV.m3u8
+https://rt-nw-novg-htlive.cdn.ngenix.net/hls/CH_R02_NOVGORODTV/variant.m3u8
 #EXTINF:-1 tvg-id="novoe-vremia" tvg-name="Новое время Радужный" tvg-logo="https://iptvx.one/picons/novoe-vremia.png" group-title="Региональные РФ", Новое время Радужный
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/zabava/region/SUR/CH_2TV_RADUZHNY.m3u8
+https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_RADUZNYI/variant.m3u8
 #EXTINF:-1 tvg-name="Новочеркасск ТВ" tvg-logo="https://pic.rutubelist.ru/user/2025-01-24/cc/d6/ccd6df7def33fdf77d61e7e30ecfb81c.jpg" group-title="Региональные РФ", Новочеркасск ТВ
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
