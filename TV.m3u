@@ -1,4 +1,5 @@
 
+#EXTM3U url-tvg="https://iptvx.one/EPG_NOARCH"
 #EXTINF:-1 tvg-id="5kanal-karaganda" tvg-name="5 канал KZ" tvg-logo="http://epg.one/img/2643.png" group-title="Казахстан", 5 канал KZ
 #EXTGRP:Казахстан
 https://ucdn.beetv.kz/bpk-tv/000000950/tve/index.m3u8
@@ -667,35 +668,146 @@ http://dmitry-tv.ddns.net/hls/zabava/CH_U_7.m3u8
 
 
 
-#EXTM3U url-tvg="https://iptvx.one/EPG_NOARCH"
 #EXTINF:-1 tvg-id="domashny" tvg-shift="+1" tvg-name="Домашний -1" tvg-logo="http://epg.one/img/304.png" group-title="Россия минусовые", Домашний -1
 #EXTGRP:Россия минусовые
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://dmitry-tv.ddns.net/hls/DVB-T2/CH_DOMASHNIY-1.m3u8
+#EXTINF:-1 tvg-id="domashny" tvg-shift="+2" tvg-name="Домашний -2" tvg-logo="http://epg.one/img/304.png" group-title="Россия минусовые", Домашний -2
+#EXTGRP:Россия минусовые
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8?version=2&offset=-7200
+#EXTINF:-1 tvg-id="domashny" tvg-shift="+3" tvg-name="Домашний -3" tvg-logo="http://epg.one/img/304.png" group-title="Россия минусовые", Домашний -3
+#EXTGRP:Россия минусовые
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8?version=2&offset=-10800
+#EXTINF:-1 tvg-id="domashny" tvg-shift="+4" tvg-name="Домашний -4" tvg-logo="http://epg.one/img/304.png" group-title="Россия минусовые", Домашний -4
+#EXTGRP:Россия минусовые
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8?version=2&offset=-14400
+#EXTINF:-1 tvg-id="domashny" tvg-shift="+5" tvg-name="Домашний -5" tvg-logo="http://epg.one/img/304.png" group-title="Россия минусовые", Домашний -5
+#EXTGRP:Россия минусовые
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8?version=2&offset=-18000
 #EXTINF:-1 tvg-id="zvezda" tvg-shift="+1" tvg-name="Звезда -1" tvg-logo="http://epg.one/img/405.png" group-title="Россия минусовые", Звезда -1
 #EXTGRP:Россия минусовые
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://dmitry-tv.ddns.net/hls/DVB-T2/CH_ZVEZDA-1.m3u8
+#EXTINF:-1 tvg-id="zvezda" tvg-shift="+2" tvg-name="Звезда -2" tvg-logo="http://epg.one/img/405.png" group-title="Россия минусовые", Звезда -2
+#EXTGRP:Россия минусовые
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8?version=2&offset=-7200
+#EXTINF:-1 tvg-id="zvezda" tvg-shift="+3" tvg-name="Звезда -3" tvg-logo="http://epg.one/img/405.png" group-title="Россия минусовые", Звезда -3
+#EXTGRP:Россия минусовые
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8?version=2&offset=-10800
+#EXTINF:-1 tvg-id="zvezda" tvg-shift="+4" tvg-name="Звезда -4" tvg-logo="http://epg.one/img/405.png" group-title="Россия минусовые", Звезда -4
+#EXTGRP:Россия минусовые
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8?version=2&offset=-14400
+#EXTINF:-1 tvg-id="zvezda" tvg-shift="+5" tvg-name="Звезда -5" tvg-logo="http://epg.one/img/405.png" group-title="Россия минусовые", Звезда -5
+#EXTGRP:Россия минусовые
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8?version=2&offset=-18000
 #EXTINF:-1 tvg-id="mir" tvg-shift="+1" tvg-name="Мир -1" tvg-logo="http://epg.one/img/726.png" group-title="Россия минусовые", Мир -1
 #EXTGRP:Россия минусовые
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MIR-1.m3u8
+#EXTINF:-1 tvg-id="mir" tvg-shift="+2" tvg-name="Мир -2" tvg-logo="http://epg.one/img/726.png" group-title="Россия минусовые", Мир -2
+#EXTGRP:Россия минусовые
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8?version=2&offset=-7200
+#EXTINF:-1 tvg-id="mir" tvg-shift="+3" tvg-name="Мир -3" tvg-logo="http://epg.one/img/726.png" group-title="Россия минусовые", Мир -3
+#EXTGRP:Россия минусовые
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8?version=2&offset=-10800
+#EXTINF:-1 tvg-id="mir" tvg-shift="+4" tvg-name="Мир -4" tvg-logo="http://epg.one/img/726.png" group-title="Россия минусовые", Мир -4
+#EXTGRP:Россия минусовые
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8?version=2&offset=-14400
+#EXTINF:-1 tvg-id="mir" tvg-shift="+5" tvg-name="Мир -5" tvg-logo="http://epg.one/img/726.png" group-title="Россия минусовые", Мир -5
+#EXTGRP:Россия минусовые
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8?version=2&offset=-18000
 #EXTINF:-1 tvg-id="ntv" tvg-shift="+1" tvg-name="НТВ -1" tvg-logo="http://epg.one/img/162.png" group-title="Россия минусовые", НТВ -1
 #EXTGRP:Россия минусовые
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://dmitry-tv.ddns.net/hls/DVB-T2/CH_NTV-1.m3u8
+#EXTINF:-1 tvg-id="ntv" tvg-shift="+2" tvg-name="НТВ -2" tvg-logo="http://epg.one/img/162.png" group-title="Россия минусовые", НТВ -2
+#EXTGRP:Россия минусовые
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8?version=2&offset=-7200
+#EXTINF:-1 tvg-id="ntv" tvg-shift="+3" tvg-name="НТВ -3" tvg-logo="http://epg.one/img/162.png" group-title="Россия минусовые", НТВ -3
+#EXTGRP:Россия минусовые
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8?version=2&offset=-10800
+#EXTINF:-1 tvg-id="ntv" tvg-shift="+4" tvg-name="НТВ -4" tvg-logo="http://epg.one/img/162.png" group-title="Россия минусовые", НТВ -4
+#EXTGRP:Россия минусовые
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8?version=2&offset=-14400
+#EXTINF:-1 tvg-id="ntv" tvg-shift="+5" tvg-name="НТВ -5" tvg-logo="http://epg.one/img/162.png" group-title="Россия минусовые", НТВ -5
+#EXTGRP:Россия минусовые
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8?version=2&offset=-18000
 #EXTINF:-1 tvg-id="pervy-mn1" tvg-name="Первый канал -1" tvg-logo="http://epg.one/img/146.png" group-title="Россия минусовые", Первый канал -1
 #EXTGRP:Россия минусовые
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV-1.m3u8
+#EXTINF:-1 tvg-id="pervy" tvg-shift="+2" tvg-name="Первый канал -2" tvg-logo="http://epg.one/img/146.png" group-title="Россия минусовые", Первый канал -2
+#EXTGRP:Россия минусовые
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8?version=2&offset=-7200
+#EXTINF:-1 tvg-id="pervy" tvg-shift="+3" tvg-name="Первый канал -3" tvg-logo="http://epg.one/img/146.png" group-title="Россия минусовые", Первый канал -3
+#EXTGRP:Россия минусовые
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8?version=2&offset=-10800
+#EXTINF:-1 tvg-id="pervy" tvg-shift="+4" tvg-name="Первый канал -4" tvg-logo="http://epg.one/img/146.png" group-title="Россия минусовые", Первый канал -4
+#EXTGRP:Россия минусовые
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8?version=2&offset=-14400
+#EXTINF:-1 tvg-id="pervy" tvg-shift="+5" tvg-name="Первый канал -5" tvg-logo="http://epg.one/img/146.png" group-title="Россия минусовые", Первый канал -5
+#EXTGRP:Россия минусовые
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8?version=2&offset=-18000
 #EXTINF:-1 tvg-id="piatnica" tvg-shift="+1" tvg-name="Пятница -1" tvg-logo="http://epg.one/img/1003.png" group-title="Россия минусовые", Пятница -1
 #EXTGRP:Россия минусовые
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://dmitry-tv.ddns.net/hls/DVB-T2/CH_FRIDAY-1.m3u8
+#EXTINF:-1 tvg-id="piatnica" tvg-shift="+2" tvg-name="Пятница -2" tvg-logo="http://epg.one/img/1003.png" group-title="Россия минусовые", Пятница -2
+#EXTGRP:Россия минусовые
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8?version=2&offset=-7200
+#EXTINF:-1 tvg-id="piatnica" tvg-shift="+3" tvg-name="Пятница -3" tvg-logo="http://epg.one/img/1003.png" group-title="Россия минусовые", Пятница -3
+#EXTGRP:Россия минусовые
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8?version=2&offset=-10800
+#EXTINF:-1 tvg-id="piatnica" tvg-shift="+4" tvg-name="Пятница -4" tvg-logo="http://epg.one/img/1003.png" group-title="Россия минусовые", Пятница -4
+#EXTGRP:Россия минусовые
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8?version=2&offset=-14400
+#EXTINF:-1 tvg-id="piatnica" tvg-shift="+5" tvg-name="Пятница -5" tvg-logo="http://epg.one/img/1003.png" group-title="Россия минусовые", Пятница -5
+#EXTGRP:Россия минусовые
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8?version=2&offset=-18000
 #EXTINF:-1 tvg-id="5kanal-ru" tvg-shift="+1" tvg-name="Пятый канал -1" tvg-logo="http://epg.one/img/427.png" group-title="Россия минусовые", Пятый канал -1
 #EXTGRP:Россия минусовые
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://dmitry-tv.ddns.net/hls/DVB-T2/CH_5TV-1.m3u8
+#EXTINF:-1 tvg-id="5kanal-ru" tvg-shift="+2" tvg-name="Пятый канал -2" tvg-logo="http://epg.one/img/427.png" group-title="Россия минусовые", Пятый канал -2
+#EXTGRP:Россия минусовые
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8?version=2&offset=-7200
+#EXTINF:-1 tvg-id="5kanal-ru" tvg-shift="+3" tvg-name="Пятый канал -3" tvg-logo="http://epg.one/img/427.png" group-title="Россия минусовые", Пятый канал -3
+#EXTGRP:Россия минусовые
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8?version=2&offset=-10800
+#EXTINF:-1 tvg-id="5kanal-ru" tvg-shift="+4" tvg-name="Пятый канал -4" tvg-logo="http://epg.one/img/427.png" group-title="Россия минусовые", Пятый канал -4
+#EXTGRP:Россия минусовые
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8?version=2&offset=-14400
+#EXTINF:-1 tvg-id="5kanal-ru" tvg-shift="+5" tvg-name="Пятый канал -5" tvg-logo="http://epg.one/img/427.png" group-title="Россия минусовые", Пятый канал -5
+#EXTGRP:Россия минусовые
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8?version=2&offset=-18000
 #EXTINF:-1 tvg-id="rentv" tvg-shift="+1" tvg-name="Рен ТВ -1" tvg-logo="http://epg.one/img/18.png" group-title="Россия минусовые", Рен ТВ -1
 #EXTGRP:Россия минусовые
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
