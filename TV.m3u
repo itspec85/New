@@ -3407,7 +3407,7 @@ http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/1280x720@2500/playlist
 #EXTINF:-1 tvg-id="49kanal" tvg-name="НСК-49" tvg-logo="http://epg.one/img/4625.png" group-title="Региональные РФ", НСК-49
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/zabava/region/NSK/CH_NSK49CHANNELHD.m3u8
+https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_49CHANNEL/variant.m3u8
 #EXTINF:-1 tvg-id="xamdan-kalm24" tvg-name="НТК Калмыкия" tvg-logo="http://epg.one/img/2459.png" group-title="Региональные РФ", НТК Калмыкия
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -3427,7 +3427,7 @@ http://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/chunklist.m3u8
 #EXTINF:-1 tvg-id="nts-irbit" tvg-name="НТС-Ирбит Екатеринбург" tvg-logo="https://iptvx.one/picons/nts-irbit.png" group-title="Региональные РФ", НТС-Ирбит Екатеринбург
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/zabava/region/EKT/CH_IRBITVEST.m3u8
+https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_IRBITVEST_EKT/variant.m3u8
 #EXTINF:-1 tvg-id="nts-irkutsk" tvg-name="НТС FHD Иркутск" tvg-logo="http://epg.one/img/6745.png" group-title="Региональные РФ", НТС FHD Иркутск
 #EXTGRP:Региональные РФ
 https://air.nts-tv.ru/fhd.m3u8
@@ -3437,7 +3437,7 @@ http://www.omsk-kprf.ru/hls/stream.m3u8
 #EXTINF:-1 tvg-id="oblast45" tvg-name="Область 45 Курган" tvg-logo="https://iptvx.one/picons/oblast45.png" group-title="Региональные РФ", Область 45 Курган
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/zabava/region/KRG/CH_OBLAST45HD720.m3u8
+https://rt-ural-krg-htlive.cdn.ngenix.net/hls/CH_R04_OTT_OBLAST45/variant.m3u8
 #EXTINF:-1 tvg-name="Овертайм HD Ставрополь" tvg-logo="https://sun9-41.userapi.com/impg/snq__Yn3Ni7mKRwsyWUHAhSTf1rm3TZF_3x3Ig/HNKtG0MPMPY.jpg?size=445x445&quality=96&sign=6c9b49e6393f2650b2dd03cff3697e6e&c_uniq_tag=BrICk9gPrxHAvtWO1k0kj6Qflj5AwJcmk-hGUhZcaoY&type=album" group-title="Региональные РФ", Овертайм HD Ставрополь
 #EXTGRP:Региональные РФ
 https://live.overtime26.ru/app/potok/playlist.m3u8
@@ -3448,7 +3448,7 @@ http://dmitry-tv.ddns.net/hls/zabava/region/OMSK/CH_OMSKTVHD.m3u8
 #EXTINF:-1 tvg-id="ort-planeta-orenburg" tvg-name="ОРТ Планета" tvg-logo="http://epg.one/img/5558.png" group-title="Региональные РФ", ОРТ Планета
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/zabava/region/ORB/CH_ORTPLANETA.m3u8
+https://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R03_ORTPLANET/variant.m3u8
 #EXTINF:-1 tvg-id="osetia-iryston" tvg-name="Осетия Иристон" tvg-logo="http://epg.one/img/5808.png" group-title="Региональные РФ", Осетия Иристон
 #EXTGRP:Региональные РФ
 http://catchup.videoline.ru/iriston/tracks-v1a1/mono.m3u8
@@ -3476,7 +3476,7 @@ http://stream.fastlnk.ru:88/Panorama_TV_HD/index.m3u8
 #EXTINF:-1 tvg-id="pervy-gorodskoy-kirov" tvg-name="Первый городской Киров" tvg-logo="https://avatars.mds.yandex.net/i?id=549c1aa62c10de328f757528fbeaa3f264996176-4571652-images-thumbs&n=13" group-title="Региональные РФ", Первый городской Киров
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/zabava/region/KIROV/CH_1GORODSKOYHD720.m3u8
+https://rt-vlg-kirov-htlive.cdn.ngenix.net/hls/CH_R03_PERVYGORODSKOY/variant.m3u8
 #EXTINF:-1 tvg-id="pervy-gorodskoy-omsk" tvg-name="Первый городской (Омск)" tvg-logo="http://epg.one/img/5855.png" group-title="Региональные РФ", Первый городской (Омск)
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -3487,7 +3487,7 @@ http://live1.1tvcrimea.ru/1tvcrimea.m3u8
 #EXTINF:-1 tvg-id="pervy-oblastnoy-orel" tvg-name="Первый областной Орел" tvg-logo="https://avatars.mds.yandex.net/i?id=111dbe3f721ba45c688976d444142329_sr-4277590-images-thumbs&n=13" group-title="Региональные РФ", Первый областной Орел
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/zabava/region/ORL/CH_1OBLASTNOY.m3u8
+https://rt-ct-orl-htlive.cdn.ngenix.net/hls/CH_R01_PERVOBL/variant.m3u8
 #EXTINF:-1 tvg-id="pervy-rostovsky" tvg-name="Первый Ростовский FHD" tvg-logo="https://cdn.epg.one/img/6766.png" group-title="Региональные РФ", Первый Ростовский FHD
 #EXTGRP:Региональные РФ
 https://rost.mediacdn.ru/cdn/rostov1/tracks-v1a1/mono.m3u8
