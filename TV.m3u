@@ -1,4 +1,169 @@
 
+#EXTINF:-1 tvg-id="5kanal-karaganda" tvg-name="5 канал KZ" tvg-logo="http://epg.one/img/2643.png" group-title="Казахстан", 5 канал KZ
+#EXTGRP:Казахстан
+https://ucdn.beetv.kz/bpk-tv/000000950/tve/index.m3u8
+#EXTINF:-1 tvg-id="xabar24" tvg-name="24 KZ" tvg-logo="http://epg.one/img/2578.png" group-title="Казахстан", 24 KZ
+#EXTGRP:Казахстан
+https://ucdn.beetv.kz/bpk-tv/000005177/tve/index.m3u8
+#EXTINF:-1 tvg-id="31-kanal-kz" tvg-name="31 канал KZ" tvg-logo="http://epg.one/img/2639.png" group-title="Казахстан", 31 канал KZ
+#EXTGRP:Казахстан
+https://ucdn.beetv.kz/bpk-tv/000000663/tve/index.m3u8
+#EXTINF:-1 tvg-id="77tv-kz" tvg-name="77 TV" tvg-logo="https://iptvx.one/picons/77tv-kz.png" group-title="Казахстан", 77 TV
+#EXTGRP:Казахстан
+https://ucdn.beetv.kz/bpk-tv/000002851/tve/index.m3u8
+#EXTINF:-1 tvg-id="abaitv" tvg-name="Abai TV" tvg-logo="https://iptvx.one/picons/abaitv.png" group-title="Казахстан", Abai TV
+#EXTGRP:Казахстан
+https://ucdn.beetv.kz/bpk-tv/000006116/tve/index.m3u8
+#EXTINF:-1 tvg-id="aifak-kz" tvg-name="Айгак KZ" tvg-logo="http://epg.one/img/9168.png" group-title="Казахстан", Айгак KZ
+#EXTGRP:Казахстан
+https://ucdn.beetv.kz/bpk-tv/000001510/tve/index.m3u8
+#EXTINF:-1 tvg-id="aqjaiyq" tvg-name="Aqjaiyq" tvg-logo="https://avatars.mds.yandex.net/i?id=f65c5e739a7add52f5632f6699ed4967-4429678-images-thumbs&n=13" group-title="Казахстан", Aqjaiyq
+#EXTGRP:Казахстан
+https://ucdn.beetv.kz/bpk-tv/000001689/tve/index.m3u8
+#EXTINF:-1 tvg-id="aqtobe" tvg-name="Aqtobe" tvg-logo="https://avatars.mds.yandex.net/i?id=2af894691b2f94daca2cb916838f3288c32d7974-4369663-images-thumbs&n=13" group-title="Казахстан", Aqtobe
+#EXTGRP:Казахстан
+http://stream.kaztrk.kz/regional/aktobetv/index.m3u8
+#EXTINF:-1 tvg-id="alautv" tvg-name="Алау" tvg-logo="https://iptvx.one/picons/alautv.png" group-title="Казахстан", Алау
+#EXTGRP:Казахстан
+https://otv.wotom.net/alau/stream.m3u8
+#EXTINF:-1 tvg-id="almaty" tvg-name="Алматы" tvg-logo="https://avatars.mds.yandex.net/i?id=068ad38a8d9d4c4967a35be571ab6716cbf893a4-9289427-images-thumbs&n=13" group-title="Казахстан", Алматы
+#EXTGRP:Казахстан
+https://ucdn.beetv.kz/bpk-tv/000000667/tve/index.m3u8
+#EXTINF:-1 tvg-id="altai-kz" tvg-name="Altai" tvg-logo="https://avatars.mds.yandex.net/i?id=930d6f90f0c96370e8814afd1fa9f0b10d1d9e0a-10340180-images-thumbs&n=13" group-title="Казахстан", Altai
+#EXTGRP:Казахстан
+https://ucdn.beetv.kz/bpk-tv/000001572/tve/index.m3u8
+#EXTINF:-1 tvg-id="astana" tvg-name="Astana TV KZ" tvg-logo="http://epg.one/img/2573.png" group-title="Казахстан", Astana TV KZ
+#EXTGRP:Казахстан
+https://ucdn.beetv.kz/bpk-tv/000000666/tve/index.m3u8
+#EXTINF:-1 tvg-id="astana" tvg-name="Astana TV KZ" tvg-logo="http://epg.one/img/2573.png" group-title="Казахстан", Astana TV KZ (резерв)
+#EXTGRP:Казахстан
+http://sc.id-tv.kz/Astana.m3u8
+#EXTINF:-1 tvg-id="atameken-business" tvg-name="Atameken Business" tvg-logo="https://iptvx.one/picons/atameken-business.png" group-title="Казахстан", Atameken Business
+#EXTGRP:Казахстан
+https://ucdn.beetv.kz/bpk-tv/000005322/tve/index.m3u8
+#EXTINF:-1 tvg-id="atyray" tvg-name="Atyray" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/d/df/Atyrau.png/revision/latest?cb=20200225165956&path-prefix=ru" group-title="Казахстан", Atyray
+#EXTGRP:Казахстан
+https://ucdn.beetv.kz/bpk-tv/000001570/tve/index.m3u8
+#EXTINF:-1 tvg-name="Bilim TV" tvg-logo="https://avatars.mds.yandex.net/i?id=3ed21fea436431728b003aaa134b35c1d19ad599-16489618-images-thumbs&n=13" group-title="Казахстан", Bilim TV
+#EXTGRP:Казахстан
+http://sc.id-tv.kz/ElArna.m3u8
+#EXTINF:-1 tvg-id="ertis" tvg-name="Ertis" tvg-logo="https://avatars.mds.yandex.net/i?id=2a00000179f624829d76604fcc2ee4429836-4012435-images-thumbs&n=13" group-title="Казахстан", Ertis
+#EXTGRP:Казахстан
+https://stream.kaztrk.kz/regional/pavlodartv/index.m3u8
+#EXTINF:-1 tvg-id="jambyl-kz" tvg-name="Jambyl KZ" tvg-logo="http://epg.one/img/9172.png" group-title="Казахстан", Jambyl KZ
+#EXTGRP:Казахстан
+https://ucdn.beetv.kz/bpk-tv/000003244/tve/index.m3u8
+#EXTINF:-1 tvg-id="zhetysu" tvg-name="Жетысу" tvg-logo="https://avatars.mds.yandex.net/i?id=baf82383c5b3dde6363b6a6026bf46b4866e3ab7-6431007-images-thumbs&n=13" group-title="Казахстан", Жетысу
+#EXTGRP:Казахстан
+https://ucdn.beetv.kz/bpk-tv/000001458/tve/index.m3u8
+#EXTINF:-1 tvg-id="kazakh-tv" tvg-name="Jibek Joly TV" tvg-logo="http://epg.one/img/7091.png" group-title="Казахстан", Jibek Joly TV
+#EXTGRP:Казахстан
+https://ucdn.beetv.kz/bpk-tv/000000941/tve/index.m3u8
+#EXTINF:-1 tvg-id="irbis" tvg-name="Ирбис" tvg-logo="https://iptvx.one/picons/irbis.png" group-title="Казахстан", Ирбис
+#EXTGRP:Казахстан
+https://ucdn.beetv.kz/bpk-tv/000001513/tve/index.m3u8
+#EXTINF:-1 tvg-id="kazakhstan" tvg-name="Казахстан" tvg-logo="http://epg.one/img/2569.png" group-title="Казахстан", Казахстан KZ
+#EXTGRP:Казахстан
+https://ucdn.beetv.kz/bpk-tv/000004208/tve/index.m3u8
+#EXTINF:-1 tvg-id="qazaqstan-int" tvg-name="QAZAQSTAN HD Int" tvg-logo="https://iptvx.one/picons/qazaqstan-int.png" group-title="Казахстан", Qazaqstan International
+#EXTGRP:Казахстан
+https://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8
+#EXTINF:-1 tvg-id="kokshe" tvg-name="Kokshe" tvg-logo="https://avatars.mds.yandex.net/i?id=8d16f478bc2652b5be7f5c5758baf6504557f3fe-10681994-images-thumbs&n=13" group-title="Казахстан", Kokshe
+#EXTGRP:Казахстан
+https://ucdn.beetv.kz/bpk-tv/000003021/tve/index.m3u8
+#EXTINF:-1 tvg-id="koktem-kz" tvg-name="Köktem" tvg-logo="https://iptvx.one/picons/koktem-kz.png" group-title="Казахстан", Köktem
+#EXTGRP:Казахстан
+https://ucdn.beetv.kz/bpk-tv/000008934/tve/index.m3u8
+#EXTINF:-1 tvg-id="qostanai-kz" tvg-name="Qostanai" tvg-logo="https://avatars.mds.yandex.net/i?id=b9c5446aad6bfc54fe6b4d7495cfd38a1d94d795-5628812-images-thumbs&n=13" group-title="Казахстан", Qostanai
+#EXTGRP:Казахстан
+http://stream.kaztrk.kz/regional/kostanaytv/index.m3u8
+#EXTINF:-1 tvg-name="КСК ТВ" tvg-logo="https://avatars.mds.yandex.net/i?id=27ca1b72b765d2578935a4001eea1ed35c0ed276-9147217-images-thumbs&n=13" group-title="Казахстан", КСК ТВ
+#EXTGRP:Казахстан
+https://otv.wotom.net/ksk/stream.m3u8
+#EXTINF:-1 tvg-id="ktk-kz" tvg-name="КТК" tvg-logo="http://epg.one/img/2570.png" group-title="Казахстан", КТК
+#EXTGRP:Казахстан
+https://ucdn.beetv.kz/bpk-tv/000000672/tve/index.m3u8
+#EXTINF:-1 tvg-id="qyzyljar" tvg-name="Qyzyljar" tvg-logo="https://avatars.mds.yandex.net/i?id=00a7490e0ef21c9524daccc66716bdb8e256ac82-5870034-images-thumbs&n=13" group-title="Казахстан", Qyzyljar
+#EXTGRP:Казахстан
+https://ucdn.beetv.kz/bpk-tv/000003249/tve/index.m3u8
+#EXTINF:-1 tvg-id="qyzylorda-kz" tvg-name="Qyzylorda KZ" tvg-logo="http://epg.one/img/9171.png" group-title="Казахстан", Qyzylorda KZ
+#EXTGRP:Казахстан
+https://ucdn.beetv.kz/bpk-tv/000003246/tve/index.m3u8
+#EXTINF:-1 tvg-id="mangystay" tvg-name="Mangystay" tvg-logo="https://avatars.mds.yandex.net/i?id=abdd0058bd05aa17175f7f71555ffb0c0bc5a589-4949243-images-thumbs&n=13" group-title="Казахстан", Mangystay
+#EXTGRP:Казахстан
+https://ucdn.beetv.kz/bpk-tv/000003247/tve/index.m3u8
+#EXTINF:-1 tvg-name="МТРК" tvg-logo="https://avatars.mds.yandex.net/i?id=9e95c80eab4113330bfe3a0a9bb467eb-4866980-images-thumbs&n=13" group-title="Казахстан", МТРК
+#EXTGRP:Казахстан
+https://tvcdn01.oktv.kz/tv/mtrk/index.m3u8
+#EXTINF:-1 tvg-id="muzzone" tvg-name="MuzzOne KZ" tvg-logo="https://iptvx.one/picons/muzzone.png" group-title="Казахстан", MuzzOne KZ
+#EXTGRP:Казахстан
+https://ucdn.beetv.kz/bpk-tv/000000783/tve/index.m3u8
+#EXTINF:-1 tvg-id="novoe-televidenie" tvg-name="Новое телевидение KZ" tvg-logo="http://epg.one/img/2638.png" group-title="Казахстан", Новое телевидение KZ
+#EXTGRP:Казахстан
+https://ucdn.beetv.kz/bpk-tv/000001380/tve/index.m3u8
+#EXTINF:-1 tvg-id="ntk-kz" tvg-name="НТК KZ" tvg-logo="http://epg.one/img/2640.png" group-title="Казахстан", НТК KZ
+#EXTGRP:Казахстан
+https://ucdn.beetv.kz/bpk-tv/000000673/tve/index.m3u8
+#EXTINF:-1 tvg-id="ontustik" tvg-name="Ontustik KZ" tvg-logo="http://epg.one/img/9169.png" group-title="Казахстан", Ontustik KZ
+#EXTGRP:Казахстан
+https://ucdn.beetv.kz/bpk-tv/000003251/tve/index.m3u8
+#EXTINF:-1 tvg-id="otyrar-tv" tvg-name="Otyrar KZ" tvg-logo="http://epg.one/img/9170.png" group-title="Казахстан", Otyrar KZ
+#EXTGRP:Казахстан
+https://ucdn.beetv.kz/bpk-tv/000001052/tve/index.m3u8
+#EXTINF:-1 tvg-id="pervy-kanal-eurasia-kz" tvg-name="Первый канал Евразия KZ" tvg-logo="http://epg.one/img/2571.png" group-title="Казахстан", Первый канал Евразия KZ
+#EXTGRP:Казахстан
+https://ucdn.beetv.kz/bpk-tv/000000669/tve/index.m3u8
+#EXTINF:-1 tvg-id="rika" tvg-name="Рика ТВ" tvg-logo="https://iptvx.one/picons/rika.png" group-title="Казахстан", Рика ТВ
+#EXTGRP:Казахстан
+https://ucdn.beetv.kz/bpk-tv/000001514/tve/index.m3u8
+#EXTINF:-1 tvg-id="saryarqa" tvg-name="Saryarqa KZ" tvg-logo="http://epg.one/img/7802.png" group-title="Казахстан", Saryarqa KZ
+#EXTGRP:Казахстан
+http://stream.kaztrk.kz/regional/karagandytv/index.m3u8
+#EXTINF:-1 tvg-id="7kanal-kz" tvg-name="Седьмой канал KZ" tvg-logo="http://epg.one/img/2572.png" group-title="Казахстан", Седьмой канал KZ
+#EXTGRP:Казахстан
+https://ucdn.beetv.kz/bpk-tv/000000659/tve/index.m3u8
+#EXTINF:-1 tvg-id="semei" tvg-name="Semei" tvg-logo="https://avatars.mds.yandex.net/i?id=5c86362e245a4b0792ca0d6fd92361ba1f68d3fb-7843541-images-thumbs&n=13" group-title="Казахстан", Semei
+#EXTGRP:Казахстан
+https://ucdn.beetv.kz/bpk-tv/000003250/tve/index.m3u8
+#EXTINF:-1 audio-track="Kazakh" tvg-name="Silk Way" tvg-logo="http://epg.one/img/9033.png" group-title="Казахстан", Silk Way
+#EXTGRP:Казахстан
+https://ikomg-kazakh.akamaized.net/kazakh/kazakh.m3u8
+#EXTINF:-1 tvg-id="show-kz" tvg-name="Show KZ" tvg-logo="https://avatars.mds.yandex.net/i?id=3394d23815299c170a33bb6c5608ef20b0bd64ff-12635946-images-thumbs&n=13" group-title="Казахстан", Show KZ
+#EXTGRP:Казахстан
+https://ucdn.beetv.kz/bpk-tv/000008944/tve/index.m3u8
+#EXTINF:-1 tvg-name="ТВК 6" tvg-logo="https://avatars.mds.yandex.net/i?id=21b52ae0fa9957f7ad5d535b48b839820ecb86f5-5569020-images-thumbs&n=13" group-title="Казахстан", ТВК 6
+#EXTGRP:Казахстан
+https://ucdn.beetv.kz/bpk-tv/000001516/tve/index.m3u8
+#EXTINF:-1 tvg-id="tvoyo-tv-kz" tvg-name="Твоё ТВ Казахстан" tvg-logo="https://iptvx.one/picons/tvoyo-tv-kz.png" group-title="Казахстан", Твоё ТВ Казахстан
+#EXTGRP:Казахстан
+https://ucdn.beetv.kz/bpk-tv/000002721/tve/index.m3u8
+#EXTINF:-1 tvg-id="tdk-42" tvg-name="ТДК-42" tvg-logo="https://iptvx.one/picons/tdk-42.png" group-title="Казахстан", ТДК-42
+#EXTGRP:Казахстан
+https://ucdn.beetv.kz/bpk-tv/000001507/tve/index.m3u8
+#EXTINF:-1 tvg-id="toy-duman" tvg-name="Той Думан" tvg-logo="https://iptvx.one/picons/toy-duman.png" group-title="Казахстан", Той Думан
+#EXTGRP:Казахстан
+https://ucdn.beetv.kz/bpk-tv/000002936/tve/index.m3u8
+#EXTINF:-1 tvg-id="turan-tv" tvg-name="Turan TV" tvg-logo="http://epg.one/img/7093.png" group-title="Казахстан", Turan TV
+#EXTGRP:Казахстан
+https://ucdn.beetv.kz/bpk-tv/000001404/tve/index.m3u8
+#EXTINF:-1 tvg-id="turkistan" tvg-name="Turkistan" tvg-logo="https://sun9-4.userapi.com/impg/g9iSugsudIuIyXHoTaaFsFI6VV5wkd6BfjUohQ/a1XtG-deUw8.jpg?size=604x604&quality=96&sign=d6856ab9d67093bc769b4c4805233de7&type=album" group-title="Казахстан", Turkistan
+#EXTGRP:Казахстан
+https://ucdn.beetv.kz/bpk-tv/000007248/tve/index.m3u8
+#EXTINF:-1 tvg-id="ulytau-kz" tvg-name="Ulytau KZ" tvg-logo="http://epg.one/img/9173.png" group-title="Казахстан", Ulytau KZ
+#EXTGRP:Казахстан
+https://ucdn.beetv.kz/bpk-tv/000003604/tve/index.m3u8
+#EXTINF:-1 tvg-name="Uygur TV News" tvg-logo="https://avatars.mds.yandex.net/i?id=8a768bceac86a63ce88445f8c58ff72b9c8bae2c7f7e69e5-11512273-images-thumbs&n=13" group-title="Казахстан", Uygur TV News
+#EXTGRP:Казахстан
+https://592f1881b3d5f.streamlock.net:1443/santraltv_742/santraltv_742/chunklist_w2070697692.m3u8
+#EXTINF:-1 tvg-id="xabar" tvg-name="Хабар KZ" tvg-logo="http://epg.one/img/2576.png" group-title="Казахстан", Хабар KZ
+#EXTGRP:Казахстан
+https://ucdn.beetv.kz/bpk-tv/000004211/tve/index.m3u8
+#EXTINF:-1 tvg-id="hit-tv" tvg-name="Hit TV KZ" tvg-logo="https://avatars.mds.yandex.net/i?id=63987aa3ae765cb7928145eb56a43371b08e982f3b880f20-12646988-images-thumbs&n=13" group-title="Казахстан", Hit TV KZ
+#EXTGRP:Казахстан
+https://ucdn.beetv.kz/bpk-tv/000001213/tve/index.m3u8
+
+
+
 #EXTINF:-1 tvg-id="domashny" tvg-name="Домашний" tvg-logo="http://epg.one/img/304.png" group-title="Россия", Домашний
 #EXTGRP:Россия
 http://195.158.223.132:8000/Domashniy
@@ -586,171 +751,6 @@ http://dmitry-tv.ddns.net/hls/zabava/CH_CHE-1.m3u8
 #EXTGRP:Россия минусовые
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://dmitry-tv.ddns.net/hls/zabava/CH_U-1.m3u8
-
-
-
-#EXTINF:-1 tvg-id="5kanal-karaganda" tvg-name="5 канал KZ" tvg-logo="http://epg.one/img/2643.png" group-title="Казахстан", 5 канал KZ
-#EXTGRP:Казахстан
-https://ucdn.beetv.kz/bpk-tv/000000950/tve/index.m3u8
-#EXTINF:-1 tvg-id="xabar24" tvg-name="24 KZ" tvg-logo="http://epg.one/img/2578.png" group-title="Казахстан", 24 KZ
-#EXTGRP:Казахстан
-https://ucdn.beetv.kz/bpk-tv/000005177/tve/index.m3u8
-#EXTINF:-1 tvg-id="31-kanal-kz" tvg-name="31 канал KZ" tvg-logo="http://epg.one/img/2639.png" group-title="Казахстан", 31 канал KZ
-#EXTGRP:Казахстан
-https://ucdn.beetv.kz/bpk-tv/000000663/tve/index.m3u8
-#EXTINF:-1 tvg-id="77tv-kz" tvg-name="77 TV" tvg-logo="https://iptvx.one/picons/77tv-kz.png" group-title="Казахстан", 77 TV
-#EXTGRP:Казахстан
-https://ucdn.beetv.kz/bpk-tv/000002851/tve/index.m3u8
-#EXTINF:-1 tvg-id="abaitv" tvg-name="Abai TV" tvg-logo="https://iptvx.one/picons/abaitv.png" group-title="Казахстан", Abai TV
-#EXTGRP:Казахстан
-https://ucdn.beetv.kz/bpk-tv/000006116/tve/index.m3u8
-#EXTINF:-1 tvg-id="aifak-kz" tvg-name="Айгак KZ" tvg-logo="http://epg.one/img/9168.png" group-title="Казахстан", Айгак KZ
-#EXTGRP:Казахстан
-https://ucdn.beetv.kz/bpk-tv/000001510/tve/index.m3u8
-#EXTINF:-1 tvg-id="aqjaiyq" tvg-name="Aqjaiyq" tvg-logo="https://avatars.mds.yandex.net/i?id=f65c5e739a7add52f5632f6699ed4967-4429678-images-thumbs&n=13" group-title="Казахстан", Aqjaiyq
-#EXTGRP:Казахстан
-https://ucdn.beetv.kz/bpk-tv/000001689/tve/index.m3u8
-#EXTINF:-1 tvg-id="aqtobe" tvg-name="Aqtobe" tvg-logo="https://avatars.mds.yandex.net/i?id=2af894691b2f94daca2cb916838f3288c32d7974-4369663-images-thumbs&n=13" group-title="Казахстан", Aqtobe
-#EXTGRP:Казахстан
-http://stream.kaztrk.kz/regional/aktobetv/index.m3u8
-#EXTINF:-1 tvg-id="alautv" tvg-name="Алау" tvg-logo="https://iptvx.one/picons/alautv.png" group-title="Казахстан", Алау
-#EXTGRP:Казахстан
-https://otv.wotom.net/alau/stream.m3u8
-#EXTINF:-1 tvg-id="almaty" tvg-name="Алматы" tvg-logo="https://avatars.mds.yandex.net/i?id=068ad38a8d9d4c4967a35be571ab6716cbf893a4-9289427-images-thumbs&n=13" group-title="Казахстан", Алматы
-#EXTGRP:Казахстан
-https://ucdn.beetv.kz/bpk-tv/000000667/tve/index.m3u8
-#EXTINF:-1 tvg-id="altai-kz" tvg-name="Altai" tvg-logo="https://avatars.mds.yandex.net/i?id=930d6f90f0c96370e8814afd1fa9f0b10d1d9e0a-10340180-images-thumbs&n=13" group-title="Казахстан", Altai
-#EXTGRP:Казахстан
-https://ucdn.beetv.kz/bpk-tv/000001572/tve/index.m3u8
-#EXTINF:-1 tvg-id="astana" tvg-name="Astana TV KZ" tvg-logo="http://epg.one/img/2573.png" group-title="Казахстан", Astana TV KZ
-#EXTGRP:Казахстан
-https://ucdn.beetv.kz/bpk-tv/000000666/tve/index.m3u8
-#EXTINF:-1 tvg-id="astana" tvg-name="Astana TV KZ" tvg-logo="http://epg.one/img/2573.png" group-title="Казахстан", Astana TV KZ (резерв)
-#EXTGRP:Казахстан
-http://sc.id-tv.kz/Astana.m3u8
-#EXTINF:-1 tvg-id="atameken-business" tvg-name="Atameken Business" tvg-logo="https://iptvx.one/picons/atameken-business.png" group-title="Казахстан", Atameken Business
-#EXTGRP:Казахстан
-https://ucdn.beetv.kz/bpk-tv/000005322/tve/index.m3u8
-#EXTINF:-1 tvg-id="atyray" tvg-name="Atyray" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/d/df/Atyrau.png/revision/latest?cb=20200225165956&path-prefix=ru" group-title="Казахстан", Atyray
-#EXTGRP:Казахстан
-https://ucdn.beetv.kz/bpk-tv/000001570/tve/index.m3u8
-#EXTINF:-1 tvg-name="Bilim TV" tvg-logo="https://avatars.mds.yandex.net/i?id=3ed21fea436431728b003aaa134b35c1d19ad599-16489618-images-thumbs&n=13" group-title="Казахстан", Bilim TV
-#EXTGRP:Казахстан
-http://sc.id-tv.kz/ElArna.m3u8
-#EXTINF:-1 tvg-id="ertis" tvg-name="Ertis" tvg-logo="https://avatars.mds.yandex.net/i?id=2a00000179f624829d76604fcc2ee4429836-4012435-images-thumbs&n=13" group-title="Казахстан", Ertis
-#EXTGRP:Казахстан
-https://stream.kaztrk.kz/regional/pavlodartv/index.m3u8
-#EXTINF:-1 tvg-id="jambyl-kz" tvg-name="Jambyl KZ" tvg-logo="http://epg.one/img/9172.png" group-title="Казахстан", Jambyl KZ
-#EXTGRP:Казахстан
-https://ucdn.beetv.kz/bpk-tv/000003244/tve/index.m3u8
-#EXTINF:-1 tvg-id="zhetysu" tvg-name="Жетысу" tvg-logo="https://avatars.mds.yandex.net/i?id=baf82383c5b3dde6363b6a6026bf46b4866e3ab7-6431007-images-thumbs&n=13" group-title="Казахстан", Жетысу
-#EXTGRP:Казахстан
-https://ucdn.beetv.kz/bpk-tv/000001458/tve/index.m3u8
-#EXTINF:-1 tvg-id="kazakh-tv" tvg-name="Jibek Joly TV" tvg-logo="http://epg.one/img/7091.png" group-title="Казахстан", Jibek Joly TV
-#EXTGRP:Казахстан
-https://ucdn.beetv.kz/bpk-tv/000000941/tve/index.m3u8
-#EXTINF:-1 tvg-id="irbis" tvg-name="Ирбис" tvg-logo="https://iptvx.one/picons/irbis.png" group-title="Казахстан", Ирбис
-#EXTGRP:Казахстан
-https://ucdn.beetv.kz/bpk-tv/000001513/tve/index.m3u8
-#EXTINF:-1 tvg-id="kazakhstan" tvg-name="Казахстан" tvg-logo="http://epg.one/img/2569.png" group-title="Казахстан", Казахстан KZ
-#EXTGRP:Казахстан
-https://ucdn.beetv.kz/bpk-tv/000004208/tve/index.m3u8
-#EXTINF:-1 tvg-id="qazaqstan-int" tvg-name="QAZAQSTAN HD Int" tvg-logo="https://iptvx.one/picons/qazaqstan-int.png" group-title="Казахстан", Qazaqstan International
-#EXTGRP:Казахстан
-https://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8
-#EXTINF:-1 tvg-id="kokshe" tvg-name="Kokshe" tvg-logo="https://avatars.mds.yandex.net/i?id=8d16f478bc2652b5be7f5c5758baf6504557f3fe-10681994-images-thumbs&n=13" group-title="Казахстан", Kokshe
-#EXTGRP:Казахстан
-https://ucdn.beetv.kz/bpk-tv/000003021/tve/index.m3u8
-#EXTINF:-1 tvg-id="koktem-kz" tvg-name="Köktem" tvg-logo="https://iptvx.one/picons/koktem-kz.png" group-title="Казахстан", Köktem
-#EXTGRP:Казахстан
-https://ucdn.beetv.kz/bpk-tv/000008934/tve/index.m3u8
-#EXTINF:-1 tvg-id="qostanai-kz" tvg-name="Qostanai" tvg-logo="https://avatars.mds.yandex.net/i?id=b9c5446aad6bfc54fe6b4d7495cfd38a1d94d795-5628812-images-thumbs&n=13" group-title="Казахстан", Qostanai
-#EXTGRP:Казахстан
-http://stream.kaztrk.kz/regional/kostanaytv/index.m3u8
-#EXTINF:-1 tvg-name="КСК ТВ" tvg-logo="https://avatars.mds.yandex.net/i?id=27ca1b72b765d2578935a4001eea1ed35c0ed276-9147217-images-thumbs&n=13" group-title="Казахстан", КСК ТВ
-#EXTGRP:Казахстан
-https://otv.wotom.net/ksk/stream.m3u8
-#EXTINF:-1 tvg-id="ktk-kz" tvg-name="КТК" tvg-logo="http://epg.one/img/2570.png" group-title="Казахстан", КТК
-#EXTGRP:Казахстан
-https://ucdn.beetv.kz/bpk-tv/000000672/tve/index.m3u8
-#EXTINF:-1 tvg-id="qyzyljar" tvg-name="Qyzyljar" tvg-logo="https://avatars.mds.yandex.net/i?id=00a7490e0ef21c9524daccc66716bdb8e256ac82-5870034-images-thumbs&n=13" group-title="Казахстан", Qyzyljar
-#EXTGRP:Казахстан
-https://ucdn.beetv.kz/bpk-tv/000003249/tve/index.m3u8
-#EXTINF:-1 tvg-id="qyzylorda-kz" tvg-name="Qyzylorda KZ" tvg-logo="http://epg.one/img/9171.png" group-title="Казахстан", Qyzylorda KZ
-#EXTGRP:Казахстан
-https://ucdn.beetv.kz/bpk-tv/000003246/tve/index.m3u8
-#EXTINF:-1 tvg-id="mangystay" tvg-name="Mangystay" tvg-logo="https://avatars.mds.yandex.net/i?id=abdd0058bd05aa17175f7f71555ffb0c0bc5a589-4949243-images-thumbs&n=13" group-title="Казахстан", Mangystay
-#EXTGRP:Казахстан
-https://ucdn.beetv.kz/bpk-tv/000003247/tve/index.m3u8
-#EXTINF:-1 tvg-name="МТРК" tvg-logo="https://avatars.mds.yandex.net/i?id=9e95c80eab4113330bfe3a0a9bb467eb-4866980-images-thumbs&n=13" group-title="Казахстан", МТРК
-#EXTGRP:Казахстан
-https://tvcdn01.oktv.kz/tv/mtrk/index.m3u8
-#EXTINF:-1 tvg-id="muzzone" tvg-name="MuzzOne KZ" tvg-logo="https://iptvx.one/picons/muzzone.png" group-title="Казахстан", MuzzOne KZ
-#EXTGRP:Казахстан
-https://ucdn.beetv.kz/bpk-tv/000000783/tve/index.m3u8
-#EXTINF:-1 tvg-id="novoe-televidenie" tvg-name="Новое телевидение KZ" tvg-logo="http://epg.one/img/2638.png" group-title="Казахстан", Новое телевидение KZ
-#EXTGRP:Казахстан
-https://ucdn.beetv.kz/bpk-tv/000001380/tve/index.m3u8
-#EXTINF:-1 tvg-id="ntk-kz" tvg-name="НТК KZ" tvg-logo="http://epg.one/img/2640.png" group-title="Казахстан", НТК KZ
-#EXTGRP:Казахстан
-https://ucdn.beetv.kz/bpk-tv/000000673/tve/index.m3u8
-#EXTINF:-1 tvg-id="ontustik" tvg-name="Ontustik KZ" tvg-logo="http://epg.one/img/9169.png" group-title="Казахстан", Ontustik KZ
-#EXTGRP:Казахстан
-https://ucdn.beetv.kz/bpk-tv/000003251/tve/index.m3u8
-#EXTINF:-1 tvg-id="otyrar-tv" tvg-name="Otyrar KZ" tvg-logo="http://epg.one/img/9170.png" group-title="Казахстан", Otyrar KZ
-#EXTGRP:Казахстан
-https://ucdn.beetv.kz/bpk-tv/000001052/tve/index.m3u8
-#EXTINF:-1 tvg-id="pervy-kanal-eurasia-kz" tvg-name="Первый канал Евразия KZ" tvg-logo="http://epg.one/img/2571.png" group-title="Казахстан", Первый канал Евразия KZ
-#EXTGRP:Казахстан
-https://ucdn.beetv.kz/bpk-tv/000000669/tve/index.m3u8
-#EXTINF:-1 tvg-id="rika" tvg-name="Рика ТВ" tvg-logo="https://iptvx.one/picons/rika.png" group-title="Казахстан", Рика ТВ
-#EXTGRP:Казахстан
-https://ucdn.beetv.kz/bpk-tv/000001514/tve/index.m3u8
-#EXTINF:-1 tvg-id="saryarqa" tvg-name="Saryarqa KZ" tvg-logo="http://epg.one/img/7802.png" group-title="Казахстан", Saryarqa KZ
-#EXTGRP:Казахстан
-http://stream.kaztrk.kz/regional/karagandytv/index.m3u8
-#EXTINF:-1 tvg-id="7kanal-kz" tvg-name="Седьмой канал KZ" tvg-logo="http://epg.one/img/2572.png" group-title="Казахстан", Седьмой канал KZ
-#EXTGRP:Казахстан
-https://ucdn.beetv.kz/bpk-tv/000000659/tve/index.m3u8
-#EXTINF:-1 tvg-id="semei" tvg-name="Semei" tvg-logo="https://avatars.mds.yandex.net/i?id=5c86362e245a4b0792ca0d6fd92361ba1f68d3fb-7843541-images-thumbs&n=13" group-title="Казахстан", Semei
-#EXTGRP:Казахстан
-https://ucdn.beetv.kz/bpk-tv/000003250/tve/index.m3u8
-#EXTINF:-1 audio-track="Kazakh" tvg-name="Silk Way" tvg-logo="http://epg.one/img/9033.png" group-title="Казахстан", Silk Way
-#EXTGRP:Казахстан
-https://ikomg-kazakh.akamaized.net/kazakh/kazakh.m3u8
-#EXTINF:-1 tvg-id="show-kz" tvg-name="Show KZ" tvg-logo="https://avatars.mds.yandex.net/i?id=3394d23815299c170a33bb6c5608ef20b0bd64ff-12635946-images-thumbs&n=13" group-title="Казахстан", Show KZ
-#EXTGRP:Казахстан
-https://ucdn.beetv.kz/bpk-tv/000008944/tve/index.m3u8
-#EXTINF:-1 tvg-name="ТВК 6" tvg-logo="https://avatars.mds.yandex.net/i?id=21b52ae0fa9957f7ad5d535b48b839820ecb86f5-5569020-images-thumbs&n=13" group-title="Казахстан", ТВК 6
-#EXTGRP:Казахстан
-https://ucdn.beetv.kz/bpk-tv/000001516/tve/index.m3u8
-#EXTINF:-1 tvg-id="tvoyo-tv-kz" tvg-name="Твоё ТВ Казахстан" tvg-logo="https://iptvx.one/picons/tvoyo-tv-kz.png" group-title="Казахстан", Твоё ТВ Казахстан
-#EXTGRP:Казахстан
-https://ucdn.beetv.kz/bpk-tv/000002721/tve/index.m3u8
-#EXTINF:-1 tvg-id="tdk-42" tvg-name="ТДК-42" tvg-logo="https://iptvx.one/picons/tdk-42.png" group-title="Казахстан", ТДК-42
-#EXTGRP:Казахстан
-https://ucdn.beetv.kz/bpk-tv/000001507/tve/index.m3u8
-#EXTINF:-1 tvg-id="toy-duman" tvg-name="Той Думан" tvg-logo="https://iptvx.one/picons/toy-duman.png" group-title="Казахстан", Той Думан
-#EXTGRP:Казахстан
-https://ucdn.beetv.kz/bpk-tv/000002936/tve/index.m3u8
-#EXTINF:-1 tvg-id="turan-tv" tvg-name="Turan TV" tvg-logo="http://epg.one/img/7093.png" group-title="Казахстан", Turan TV
-#EXTGRP:Казахстан
-https://ucdn.beetv.kz/bpk-tv/000001404/tve/index.m3u8
-#EXTINF:-1 tvg-id="turkistan" tvg-name="Turkistan" tvg-logo="https://sun9-4.userapi.com/impg/g9iSugsudIuIyXHoTaaFsFI6VV5wkd6BfjUohQ/a1XtG-deUw8.jpg?size=604x604&quality=96&sign=d6856ab9d67093bc769b4c4805233de7&type=album" group-title="Казахстан", Turkistan
-#EXTGRP:Казахстан
-https://ucdn.beetv.kz/bpk-tv/000007248/tve/index.m3u8
-#EXTINF:-1 tvg-id="ulytau-kz" tvg-name="Ulytau KZ" tvg-logo="http://epg.one/img/9173.png" group-title="Казахстан", Ulytau KZ
-#EXTGRP:Казахстан
-https://ucdn.beetv.kz/bpk-tv/000003604/tve/index.m3u8
-#EXTINF:-1 tvg-name="Uygur TV News" tvg-logo="https://avatars.mds.yandex.net/i?id=8a768bceac86a63ce88445f8c58ff72b9c8bae2c7f7e69e5-11512273-images-thumbs&n=13" group-title="Казахстан", Uygur TV News
-#EXTGRP:Казахстан
-https://592f1881b3d5f.streamlock.net:1443/santraltv_742/santraltv_742/chunklist_w2070697692.m3u8
-#EXTINF:-1 tvg-id="xabar" tvg-name="Хабар KZ" tvg-logo="http://epg.one/img/2576.png" group-title="Казахстан", Хабар KZ
-#EXTGRP:Казахстан
-https://ucdn.beetv.kz/bpk-tv/000004211/tve/index.m3u8
-#EXTINF:-1 tvg-id="hit-tv" tvg-name="Hit TV KZ" tvg-logo="https://avatars.mds.yandex.net/i?id=63987aa3ae765cb7928145eb56a43371b08e982f3b880f20-12646988-images-thumbs&n=13" group-title="Казахстан", Hit TV KZ
-#EXTGRP:Казахстан
-https://ucdn.beetv.kz/bpk-tv/000001213/tve/index.m3u8
 
 
 
