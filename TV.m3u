@@ -373,22 +373,26 @@ http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MIR_6.m3u8
 #EXTINF:-1 tvg-id="mir-pl7" tvg-name="Мир +7" tvg-logo="http://epg.one/img/3021.png" group-title="Россия плюсовые", Мир +7
 #EXTGRP:Россия плюсовые
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/playlist.m3u8
-#EXTINF:-1 tvg-id="ntv-pl2" tvg-name="НТВ +2" tvg-logo="http://epg.one/img/2036.png" group-title="Россия плюсовые", НТВ +2
+#EXTINF:-1 tvg-id="ntv-pl1" tvg-name="НТВ (+1)" tvg-logo="http://epg.one/img/162.png" group-title="Россия плюсовые", НТВ +1
 #EXTGRP:Россия плюсовые
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_NTV_2.m3u8
-#EXTINF:-1 tvg-id="ntv-pl4" tvg-name="НТВ +4" tvg-logo="http://epg.one/img/2964.png" group-title="Россия плюсовые", НТВ +4
+http://cdn2.ntv.ru/ntv1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ntv-pl2" tvg-name="НТВ (+2)" tvg-logo="http://epg.one/img/2036.png" group-title="Россия плюсовые", НТВ +2
 #EXTGRP:Россия плюсовые
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-https://cdn.ntv.ru/ntv4/tracks-v1a1/playlist.m3u8
+http://cdn2.ntv.ru/ntv2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ntv-pl4" tvg-name="НТВ (+4)" tvg-logo="http://epg.one/img/2964.png" group-title="Россия плюсовые", НТВ +4
+#EXTGRP:Россия плюсовые
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://cdn2.ntv.ru/ntv4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ntv" tvg-shift="-6" tvg-name="НТВ +6" tvg-logo="http://epg.one/img/3028.png" group-title="Россия плюсовые", НТВ +6
 #EXTGRP:Россия плюсовые
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://dmitry-tv.ddns.net/hls/DVB-T2/CH_NTV_6.m3u8
-#EXTINF:-1 tvg-id="ntv-pl7" tvg-name="НТВ +7" tvg-logo="http://epg.one/img/3028.png" group-title="Россия плюсовые", НТВ +7
+#EXTINF:-1 tvg-id="ntv-pl7" tvg-name="НТВ (+7)" tvg-logo="http://epg.one/img/3028.png" group-title="Россия плюсовые", НТВ +7
 #EXTGRP:Россия плюсовые
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_NTV_7.m3u8
+http://cdn2.ntv.ru/ntv7/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="otr-pl2" tvg-name="ОТР (+2)" tvg-logo="http://epg.one/img/1000.png" group-title="Россия плюсовые", ОТР +2
 #EXTGRP:Россия плюсовые
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
