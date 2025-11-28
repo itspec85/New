@@ -2626,29 +2626,9 @@ http://streamer.rtcommufa.ru:1935/ptica/ptica1/chunklist.m3u8
 #EXTINF:-1 tvg-id="zhara" tvg-name="Жара" tvg-logo="http://epg.one/img/165.png" group-title="Музыка", ЖАРА
 #EXTGRP:Музыка
 http://94.232.127.28:8080/zhara/index.m3u8
-#EXTINF:-1 tvg-id="muztv" tvg-shift="+1" tvg-name="Муз ТВ -1" tvg-logo="http://epg.one/img/897.png" group-title="Музыка", Муз ТВ -1
-#EXTGRP:Музыка
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MUZTV-1.m3u8
 #EXTINF:-1 tvg-id="muztv" tvg-name="Муз-ТВ" tvg-logo="http://epg.one/img/897.png" group-title="Музыка", МУЗ-ТВ
 #EXTGRP:Музыка
 http://95.47.156.60:8000/play/20/index.m3u8
-#EXTINF:-1 tvg-id="muztv-pl2" tvg-name="Муз ТВ +2" tvg-logo="http://epg.one/img/897.png" group-title="Музыка", Муз ТВ +2
-#EXTGRP:Музыка
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MUZTV_2.m3u8
-#EXTINF:-1 tvg-id="muztv-pl4" tvg-name="Муз ТВ +4" tvg-logo="http://epg.one/img/897.png" group-title="Музыка", Муз ТВ +4
-#EXTGRP:Музыка
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MUZTV_4.m3u8
-#EXTINF:-1 tvg-id="muztv" tvg-shift="-6" tvg-name="Муз ТВ +6" tvg-logo="http://epg.one/img/897.png" group-title="Музыка", Муз ТВ +6
-#EXTGRP:Музыка
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MUZTV_6.m3u8
-#EXTINF:-1 tvg-id="muztv-pl7" tvg-name="Муз ТВ +7" tvg-logo="http://epg.one/img/897.png" group-title="Музыка", Муз ТВ +7
-#EXTGRP:Музыка
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MUZTV_7.m3u8
 #EXTINF:-1 tvg-name="Музыка 1 International" tvg-logo="http://epg.one/img/6266.png" group-title="Музыка", Музыка 1 International
 #EXTGRP:Музыка
 http://kino-1.catcast.tv/content/37745/index.m3u8
