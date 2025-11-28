@@ -3012,7 +3012,7 @@ http://dmitry-tv.ddns.net/hls/zabava/region/DV_VLD/CH_25REGIONHD.m3u8
 #EXTINF:-1 tvg-id="31-kanal-chelyabinsk" tvg-name="31 канал Челябинск" tvg-logo="https://iptvx.one/picons/31-kanal-chelyabinsk.png" group-title="Региональные РФ", 31 канал Челябинск
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/zabava/region/CHEL/CH_31TV.m3u8
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_31TVK_CHEL/variant.m3u8
 #EXTINF:-1 tvg-id="41region" tvg-name="41 регион" tvg-logo="https://avatars.mds.yandex.net/i?id=7f1219a323cdc6cb127722da52b91cd1838cec20-3193980-images-thumbs&n=13" group-title="Региональные РФ", 41 регион
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -3023,7 +3023,7 @@ http://sochinskayatrk.ru/hdtv/hls/43K_HD/playlist.m3u8
 #EXTINF:-1 tvg-id="78kanal" tvg-name="78 канал Санкт-Петербург" tvg-logo="http://epg.one/img/7616.png" group-title="Региональные РФ", 78 канал Санкт-Петербург
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/zabava/region/SPB/CH_78CHANNELHD.m3u8
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_KANAL78/variant.m3u8
 #EXTINF:-1 tvg-id="360-podmoskovie" tvg-name="360°" tvg-logo="http://epg.one/img/2265.png" group-title="Региональные РФ", 360°
 #EXTGRP:Региональные РФ
 http://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1080.m3u8
@@ -3054,7 +3054,7 @@ https://s84942.cdn.ngenix.net/hls/CH_R28_OTT_DV_BLAG_AOT/variant.m3u8
 #EXTINF:-1 tvg-id="arig-us-24" tvg-name="Ариг Ус 24 Улан-Удэ" tvg-logo="https://iptvx.one/picons/arig-us-24.png" group-title="Региональные РФ", Ариг Ус 24 Улан-Удэ
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/zabava/region/UUDE/CH_ARIGUSHD.m3u8
+https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_ARIGUS/variant.m3u8
 #EXTINF:-1 tvg-id="aris24" tvg-name="Арис 24 HD" tvg-logo="http://epg.one/img/7708.png" group-title="Региональные РФ", Арис 24 HD
 #EXTGRP:Региональные РФ
 http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
@@ -3080,7 +3080,7 @@ http://hls.atvmedia.ru/atv.m3u8
 #EXTINF:-1 tvg-id="atv-media" tvg-name="АТВ-Медиа Улан-Удэ" tvg-logo="https://iptvx.one/picons/atv-media.png" group-title="Региональные РФ", АТВ-Медиа Улан-Удэ
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/zabava/region/UUDE/CH_ATVMEDIA.m3u8
+https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_ATVMEDIA/variant.m3u8
 #EXTINF:-1 tvg-id="afontovo-kr" tvg-name="Афонтово Красноярск" tvg-logo="http://epg.one/img/7879.png" group-title="Региональные РФ", Афонтово Красноярск
 #EXTGRP:Региональные РФ
 https://stream.afontovo.ru/hd.m3u8
@@ -3094,7 +3094,7 @@ http://stream01.bgu.ru:8081/1/1/playlist.m3u8
 #EXTINF:-1 tvg-id="bars" tvg-name="Барс Иваново" tvg-logo="https://iptvx.one/picons/bars.png" group-title="Региональные РФ", Барс Иваново
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/zabava/region/IVAN/CH_BARS.m3u8
+https://rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_IVAN_BARS/variant.m3u8
 #EXTINF:-1 tvg-name="Батайск ТВ" tvg-logo="https://pic.rutubelist.ru/user/28/7d/287d7a2d1840f856ab6ea33729999846.jpg" group-title="Региональные РФ", Батайск ТВ
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
