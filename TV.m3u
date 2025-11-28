@@ -213,10 +213,10 @@ https://streaming.goodstream.cyou/live/213.m3u8
 http://185.46.16.239:8000/OTR
 #EXTINF:-1 tvg-id="pervy" tvg-name="Первый канал" tvg-logo="http://epg.one/img/146.png" group-title="Россия", Первый канал
 #EXTGRP:Россия
-http://95.66.188.74:80/PerviyKanal/mono.m3u8
+http://194.8.128.38:8080/ort/playlist.m3u8
 #EXTINF:-1 tvg-id="pervy" tvg-name="Первый канал HD" tvg-logo="http://epg.one/img/983.png" group-title="Россия", Первый канал FHD
 #EXTGRP:Россия
-http://95.66.188.74/PerviyHD/mono.m3u8
+http://91.207.115.228:5000/c99
 #EXTINF:-1 tvg-id="pervy-kanal-eu" tvg-name="Первый канал Европа" tvg-logo="http://epg.one/img/4830.png" group-title="Россия", Первый Канал Европа
 #EXTGRP:Россия
 https://streaming.goodstream.cyou/live/210-req_offset_28000000-req_window_0-1k_v5.m3u8
