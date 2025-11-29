@@ -2159,9 +2159,6 @@ http://94.232.127.28:8080/sony/index.m3u8
 #EXTINF:-1 tvg-id="sony-turbo-ee" tvg-name="Duo 6 [EE]" tvg-logo="http://epg.one/img/5341.png" group-title="Кино", Duo6 HD EE
 #EXTGRP:Кино
 http://94.232.127.28:8080/sony-turbo/index.m3u8
-#EXTINF:-1 tvg-id="fanhd" tvg-name="FAN" tvg-logo="http://epg.one/img/2359.png" group-title="Кино", FAN
-#EXTGRP:Кино
-http://46.8.46.14/FAN/index.m3u8
 #EXTINF:-1 tvg-name="Fantoms" tvg-logo="https://static.goodgame.ru/files/pics/266268_VVSa.png" group-title="Кино", Fantoms
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=SmartTV
@@ -2192,7 +2189,7 @@ https://ucdn.beetv.kz/bpk-tv/000004471/tve/index.m3u8
 http://94.232.127.28:8080/tv1000premium/index.m3u8
 #EXTINF:-1 tvg-id="hollywood" tvg-name="Hollywood" tvg-logo="http://epg.one/img/608.png" group-title="Кино", Hollywood
 #EXTGRP:Кино
-http://46.8.46.14/amc/index.m3u8
+http://193.25.8.59:8000/interaz
 #EXTINF:-1 tvg-id="hollywood-hd" tvg-name="Hollywood HD" tvg-logo="http://epg.one/img/934.png" group-title="Кино", Hollywood HD
 #EXTGRP:Кино
 http://157.90.0.245:8070/HOLLYWOOD_HD/index.m3u8
@@ -2284,7 +2281,7 @@ http://195.9.195.3:8080/hls/218531.m3u8
 http://95.66.188.74/VHS/index.m3u8
 #EXTINF:-1 tvg-id="vip-comedy-cee" tvg-name="	Viasat Kino Comedy" tvg-logo="http://epg.one/img/8880.png" group-title="Кино", Viasat Kino Comedy HD
 #EXTGRP:Кино
-http://ukr.ukrainske.tv/493/tvainua/video.m3u8
+http://ukr2.ukrainske.tv/493/video.m3u8
 #EXTINF:-1 tvg-id="tv1000-worldkino" tvg-name="Viasat Kino World" tvg-logo="http://epg.one/img/8883.png" group-title="Кино", Viasat World Kino
 #EXTGRP:Кино
 http://94.232.127.28:8080/tv1000ru/index.m3u8
@@ -2293,7 +2290,7 @@ http://94.232.127.28:8080/tv1000ru/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000003747/tve/index.m3u8
 #EXTINF:-1 tvg-id="tv1000" tvg-name="Viju TV1000 HD" tvg-logo="http://epg.one/img/127.png" group-title="Кино", Viju TV1000 HD
 #EXTGRP:Кино
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/playlist.m3u8?e=1764221170&md5=JF-3SN1RNiT6_DfGgzSNOQ
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/playlist.m3u8?e=1765477871&md5=HffPyNWRjDrO_Xqt90D_Yw
 #EXTINF:-1 tvg-id="viju-tv1000-novella" tvg-name="Viju TV1000 Новелла HD" tvg-logo="http://epg.one/img/9057.png" group-title="Кино", Viju TV1000 Новелла HD
 #EXTGRP:Кино
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Novella_HD.smil/playlist.m3u8?e=1764857522&md5=pH5r7qlgk_jRl3KCGkLRcQ
@@ -2305,7 +2302,7 @@ https://ucdn.beetv.kz/bpk-tv/000003748/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000003910/tve/index.m3u8
 #EXTINF:-1 tvg-id="tv1000-action" tvg-name="Viju TV1000 Action HD" tvg-logo="http://epg.one/img/125.png" group-title="Кино", Viju TV1000 Action HD
 #EXTGRP:Кино
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD.smil/playlist.m3u8?e=1764221208&md5=oJcyrhfWU96hbL91I3YS3g
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD.smil/playlist.m3u8?e=1765477899&md5=G1J2GqGJeCZ8W2FtuHav5w
 #EXTINF:-1 tvg-id="viju-tv1000-romantica" tvg-name="Viju TV1000 Romantica HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/97/Viju_TV1000_Romantica.svg/revision/latest/scale-to-width-down/284?cb=20240928200507" group-title="Кино", Viju TV1000 Romantica HD
 #EXTGRP:Кино
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/playlist.m3u8?e=1764857564&md5=gBKN08FRzAjrMmJ1Zw2ETA
