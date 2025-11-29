@@ -604,8 +604,10 @@ http://dmitry-tv.ddns.net/hls/zabava/CH_SUBBOTA_2.m3u8
 #EXTGRP:Россия плюсовые
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://dmitry-tv.ddns.net/hls/zabava/CH_SUBBOTA_4.m3u8
-
-
+#EXTINF:-1 tvg-id="super" tvg-shift="-6" tvg-name="Суббота +6" tvg-logo="http://epg.one/img/2288.png" group-title="Россия плюсовые", Суббота +6
+#EXTGRP:Россия плюсовые
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://dmitry-tv.ddns.net/hls/zabava/CH_SUBBOTA_6.m3u8
 #EXTINF:-1 tvg-id="super" tvg-shift="-7" tvg-name="Суббота +7" tvg-logo="http://epg.one/img/1103.png" group-title="Россия плюсовые", Суббота +7
 #EXTGRP:Россия плюсовые
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -666,8 +668,10 @@ http://dmitry-tv.ddns.net/hls/zabava/CH_TNT4_2.m3u8
 #EXTGRP:Россия плюсовые
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://dmitry-tv.ddns.net/hls/zabava/CH_TNT4_4.m3u8
-
-
+#EXTINF:-1 tvg-id="tnt4" tvg-shift="-6" tvg-name="ТНТ4 +6" tvg-logo="http://epg.one/img/1649.png" group-title="Россия плюсовые", ТНТ4 +6
+#EXTGRP:Россия плюсовые
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://dmitry-tv.ddns.net/hls/zabava/CH_TNT4_6.m3u8
 #EXTINF:-1 tvg-id="tnt4-pl7" tvg-name="ТНТ4 +7" tvg-logo="http://epg.one/img/1104.png" group-title="Россия плюсовые", ТНТ4 +7
 #EXTGRP:Россия плюсовые
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
