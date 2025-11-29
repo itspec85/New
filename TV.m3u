@@ -1288,7 +1288,7 @@ http://91.207.115.228:5000/c36
 https://ucdn.beetv.kz/bpk-tv/000000815/tve/index.m3u8
 #EXTINF:-1 tvg-id="avto-plus" tvg-name="Авто Плюс" tvg-logo="http://epg.one/img/153.png" group-title="Познавательные", Авто Плюс
 #EXTGRP:Познавательные
-http://46.8.46.14/avtoplus/index.m3u8
+http://91.207.115.228:5000/c110
 #EXTINF:-1 tvg-id="anekdottv" tvg-name="Анекдот тв" tvg-logo="http://epg.one/img/2760.png" group-title="Познавательные", Анекдот тв
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000001921/tve/index.m3u8
@@ -1342,7 +1342,7 @@ http://139.28.255.188:8080/Dikij/index.m3u8
 https://m3u8.ott.blue/watch/7319/video.m3u8?geo=auto&token=94450098895765784220366841698509
 #EXTINF:-1 tvg-id="doktor" tvg-name="Доктор" tvg-logo="http://epg.one/img/16.png" group-title="Познавательные", Доктор
 #EXTGRP:Познавательные
-http://46.8.46.14/doktor/index.m3u8
+http://45.11.139.43:8555/doctor/index.m3u8
 #EXTINF:-1 tvg-id="domashnie-zhivotnye" tvg-name="Домашние Животные" tvg-logo="http://epg.one/img/520.png" group-title="Познавательные", Домашние Животные
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000000146/tve/index.m3u8
@@ -1360,7 +1360,7 @@ http://tv.streams.baikal-telecom.net:8080/RT_DOC/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000000588/tve/index.m3u8
 #EXTINF:-1 tvg-id="zhivi" tvg-name="ЖИВИ!" tvg-logo="http://epg.one/img/113.png" group-title="Познавательные", ЖИВИ!
 #EXTGRP:Познавательные
-http://46.8.46.14/zhivi/index.m3u8
+https://stream11.itv.uz/1419/index.m3u8
 #EXTINF:-1 tvg-id="zagorodnaya-zhizn" tvg-name="Загородная Жизнь" tvg-logo="http://epg.one/img/2298.png" group-title="Познавательные", Загородная Жизнь
 #EXTGRP:Познавательные
 http://185.57.68.33/40/mpegts
@@ -1492,7 +1492,7 @@ http://media.16pm.ru/live/tracks-v1a1/mono.ts.m3u8
 https://ucdn.beetv.kz/bpk-tv/000002991/tve/index.m3u8
 #EXTINF:-1 tvg-id="prikluchenia-hd" tvg-name="Приключения HD" tvg-logo="http://epg.one/img/2311.png" group-title="Познавательные", Приключения HD
 #EXTGRP:Познавательные
-http://46.8.46.14/AdventureHD/index.m3u8
+https://stream11.itv.uz/1420/index.m3u8
 #EXTINF:-1 tvg-id="pro-business" tvg-name="ПРО бизнес" tvg-logo="http://epg.one/img/2753.png" group-title="Познавательные", ПРО Бизнес
 #EXTGRP:Познавательные
 http://176.107.219.20:9000/play/a003/index.m3u8
@@ -1558,7 +1558,7 @@ https://5f05e059699ae.streamlock.net/WEB_TBN/ngrp:TBN.stream-adaptive/playlist.m
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 #EXTINF:-1 tvg-id="teatr" tvg-name="Театр" tvg-logo="http://epg.one/img/2827.png" group-title="Познавательные", Театр
 #EXTGRP:Познавательные
-http://46.8.46.14/Teatr/index.m3u8
+http://195.26.83.96:7005/play/16/index.m3u8
 #EXTINF:-1 tvg-name="Телеканал Андийцы" tvg-logo="https://avatars.mds.yandex.net/i?id=315311df530d8d11766b8df0094fccbcb49d92d3-11004153-images-thumbs&n=13" group-title="Познавательные", Телеканал Андийцы
 #EXTGRP:Познавательные
 https://v2.catcast.tv/content/34114/index.m3u8
@@ -1594,7 +1594,7 @@ http://188.190.222.53/Uspeh/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000001880/tve/index.m3u8
 #EXTINF:-1 tvg-id="2na2" tvg-name="2x2" tvg-logo="http://epg.one/img/323.png" group-title="Познавательные", 2x2
 #EXTGRP:Познавательные
-http://46.8.46.14/2x2/index.m3u8
+http://5.188.159.128:8070/2x2/index.m3u8
 #EXTINF:-1 tvg-name="555 Hunt Fishing TV" tvg-logo="https://avatars.mds.yandex.net/i?id=635b73799daf216d5519050021039012e1e8254f-10349168-images-thumbs&n=13" group-title="Познавательные", 555 Hunt Fishing TV
 #EXTGRP:Познавательные
 http://193.169.178.29:8081/podsekaiTV/chanelHD1080/playlist.m3u8
@@ -1726,7 +1726,7 @@ https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-4/mxtm-wdfe_1080p/chunkl
 http://194.143.148.28:8080/RTG_HD/index.m3u8
 #EXTINF:-1 tvg-id="rtg-tv" tvg-name="RTG TV" tvg-logo="http://epg.one/img/2280.png" group-title="Познавательные", RTG TV
 #EXTGRP:Познавательные
-http://46.8.46.14/rutravel/index.m3u8
+http://195.26.83.96:7007/play/a00n/index.m3u8
 #EXTINF:-1 tvg-id="rtvi" tvg-name="RTVi" tvg-logo="http://epg.one/img/2401.png" group-title="Познавательные", RTVi
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000000039/tve/index.m3u8
@@ -1789,7 +1789,7 @@ https://ucdn.beetv.kz/bpk-tv/000000260/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000002762/tve/index.m3u8
 #EXTINF:-1 tvg-id="detsky-mir" tvg-name="Детский мир" tvg-logo="http://epg.one/img/923.png" group-title="Детские", Детский мир
 #EXTGRP:Детские
-http://46.8.46.14/detmir/index.m3u8
+http://217.21.34.160:38007/detmir/index.m3u8
 #EXTINF:-1 tvg-id="detkinoint-tviksel" tvg-name="Детское кино International" tvg-logo="http://epg.one/img/6261.png" group-title="Детские", Детское кино International
 #EXTGRP:Детские
 http://autopilot.catcast.tv/content/38720/index.m3u8
@@ -1828,7 +1828,7 @@ http://stv.mediacdn.ru/live/cdn/multimuzika/playlist.m3u8
 http://95.66.188.74/O/mono.m3u8
 #EXTINF:-1 tvg-id="ryzhy" tvg-name="Рыжий" tvg-logo="http://epg.one/img/2437.png" group-title="Детские", Рыжий
 #EXTGRP:Детские
-http://46.8.46.14/Ryzhiy/index.m3u8
+http://95.66.188.74/RYZHIY/mono.m3u8
 #EXTINF:-1 tvg-id="smaylik-tv" tvg-name="Смайл ТВ" tvg-logo="http://epg.one/img/2442.png" group-title="Детские", Смайл ТВ
 #EXTGRP:Детские
 https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
@@ -2589,9 +2589,6 @@ https://ucdn.beetv.kz/bpk-tv/000008848/tve/index.m3u8
 #EXTINF:-1 tvg-id="q-sport-ext" tvg-name="Q League HD KZ" tvg-logo="http://epg.one/img/7236.png" group-title="Спорт", Q League HD KZ
 #EXTGRP:Спорт
 https://ucdn.beetv.kz/bpk-tv/000006969/tve/index.m3u8
-#EXTINF:-1 tvg-id="qsport-kg" tvg-name="Q Sport.KG HD" tvg-logo="http://epg.one/img/5891.png" group-title="Спорт", Q Sport.KG HD
-#EXTGRP:Спорт
-http://95.85.109.219:7000/play/a05u
 #EXTINF:-1 tvg-id="kazsport" tvg-name="Qazsport KZ" tvg-logo="http://epg.one/img/7509.png" group-title="Спорт", Qazsport KZ
 #EXTGRP:Спорт
 https://ucdn.beetv.kz/bpk-tv/000003038/tve/index.m3u8
@@ -2756,7 +2753,7 @@ http://178.212.71.253:8000/play/65/index.m3u8
 http://195.158.223.132:8004/Bridge_Classic
 #EXTINF:-1 tvg-id="bridge-tv-dance" tvg-name="Bridge TV Hits" tvg-logo="http://epg.one/img/2024.png" group-title="Музыка", Bridge Hits
 #EXTGRP:Музыка
-http://46.8.46.14/BridgeDance/index.m3u8
+http://91.207.115.228:5000/c120
 #EXTINF:-1 tvg-id="bridge-tv-rock" tvg-name="Bridge TV Rock" tvg-logo="http://epg.one/img/6188.png" group-title="Музыка", Bridge Rock
 #EXTGRP:Музыка
 http://178.212.71.253:8000/play/101/index.m3u8
@@ -2780,7 +2777,7 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
 #EXTINF:-1 tvg-id="europa-plus-tv" tvg-name="Europa Plus TV" tvg-logo="http://epg.one/img/681.png" group-title="Музыка", Europa Plus TV
 #EXTGRP:Музыка
-http://46.8.46.14/evropa/index.m3u8
+http://195.64.140.147:10036/36
 #EXTINF:-1 tvg-name="Fresh TV Armenia" tvg-logo="http://epg.it999.ru/img/5606.png" group-title="Музыка", Fresh TV Armenia
 #EXTGRP:Музыка
 https://freshtv-live.ru/FreshTV/tracks-v1a1/mono.m3u8?token=livestream
