@@ -428,39 +428,39 @@ http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV_9.m3u8
 #EXTINF:-1 tvg-id="piatnica-pl2" tvg-name="Пятница +2" tvg-logo="http://epg.one/img/3016.png" group-title="Россия плюсовые", Пятница +2
 #EXTGRP:Россия плюсовые
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_2/variant.m3u8
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_FRIDAY_2.m3u8
 #EXTINF:-1 tvg-id="piatnica-pl4" tvg-name="Пятница +4" tvg-logo="http://epg.one/img/3017.png" group-title="Россия плюсовые", Пятница +4
 #EXTGRP:Россия плюсовые
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/variant.m3u8
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_FRIDAY_4.m3u8
 #EXTINF:-1 tvg-id="piatnica-pl7" tvg-name="Пятница +7" tvg-logo="http://epg.one/img/3018.png" group-title="Россия плюсовые", Пятница +7
 #EXTGRP:Россия плюсовые
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_FRIDAY_7.m3u8
 #EXTINF:-1 tvg-id="5kanal-ru-pl2" tvg-name="Пятый канал +2" tvg-logo="http://epg.one/img/2035.png" group-title="Россия плюсовые", Пятый канал +2
 #EXTGRP:Россия плюсовые
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_2/variant.m3u8
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_5TV_2.m3u8
 #EXTINF:-1 tvg-id="5kanal-ru-pl4" tvg-name="Пятый канал +4" tvg-logo="http://epg.one/img/3030.png" group-title="Россия плюсовые", Пятый канал +4
 #EXTGRP:Россия плюсовые
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_4/variant.m3u8
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_5TV_4.m3u8
 #EXTINF:-1 tvg-id="5kanal-ru-pl7" tvg-name="Пятый канал +7" tvg-logo="http://epg.one/img/3031.png" group-title="Россия плюсовые", Пятый канал +7
 #EXTGRP:Россия плюсовые
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_7/variant.m3u8
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_5TV_7.m3u8
 #EXTINF:-1 tvg-id="rentv-pl2" tvg-name="Рен ТВ +2" tvg-logo="http://epg.one/img/2037.png" group-title="Россия плюсовые", Рен ТВ +2
 #EXTGRP:Россия плюсовые
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/variant.m3u8
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RENTV_2.m3u8
 #EXTINF:-1 tvg-id="rentv-pl4" tvg-name="Рен ТВ +4" tvg-logo="http://epg.one/img/3033.png" group-title="оссия плюсовые", Рен ТВ +4
 #EXTGRP:Россия плюсовые
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_4/variant.m3u8
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RENTV_4.m3u8
 #EXTINF:-1 tvg-id="rentv-pl7" tvg-name="Рен ТВ +7" tvg-logo="http://epg.one/img/3034.png" group-title="Россия плюсовые", Рен ТВ +7
 #EXTGRP:Россия плюсовые
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RENTV_7.m3u8
 #EXTINF:-1 tvg-id="rossia1" tvg-shift="-1" tvg-name="Россия 1 +1" tvg-logo="http://epg.one/img/711.png" group-title="Россия плюсовые", Россия 1 +1
 #EXTGRP:Россия плюсовые
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
