@@ -3197,6 +3197,10 @@ https://variant33.ru/direct/live/site/playlist600k.m3u8
 #EXTINF:-1 tvg-id="vektor-24" tvg-name="Вектор 24 Губкинский" tvg-logo="https://iptvx.one/picons/vektor-24.png" group-title="Региональные РФ", Вектор 24 Губкинский
 #EXTGRP:Региональные РФ
 https://136723.edgevideo.ru/streams/136723_657205/720n/index.m3u8
+#EXTINF:-1 tvg-name="Вектор Туринск" tvg-logo="https://avatars.mds.yandex.net/i?id=12614f382268af07983a17d51de268c7cacdeb1a-5234706-images-thumbs&n=13" group-title="Региональные РФ", Вектор Туринск
+#EXTGRP:Региональные РФ
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://dmitry-tv.ddns.net/hls/zabava/region/EKT/CH_VEKTORHD720_TRNSK.m3u8
 #EXTINF:-1 tvg-id="vetta24" tvg-name="Ветта 24 Пермь" tvg-logo="https://iptvx.one/picons/vetta24.png" group-title="Региональные РФ", Ветта 24 Пермь
 #EXTGRP:Региональные РФ
 http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
