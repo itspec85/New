@@ -285,7 +285,7 @@ http://95.47.156.60:8000/play/13/index.m3u8
 http://95.66.188.74/CTC_HD/mono.m3u8
 #EXTINF:-1 tvg-id="sts-int" tvg-name="СТС International" tvg-logo="http://epg.one/img/5652.png" group-title="Россия", СТС International
 #EXTGRP:Россия
-https://cdn4.skygo.mn/live/disk1/STS/HLSv3-FTA/STS.m3u8
+http://178.134.1.158:8081/CTC/index.m3u8
 #EXTINF:-1 tvg-id="sts-love" tvg-name="СТС Love" tvg-logo="http://epg.one/img/1322.png" group-title="Россия", СТС Love
 #EXTGRP:Россия
 http://178.212.71.253:8000/play/104/index.m3u8
