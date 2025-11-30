@@ -48,6 +48,9 @@ https://ucdn.beetv.kz/bpk-tv/000001570/tve/index.m3u8
 #EXTINF:-1 tvg-name="Bilim TV" tvg-logo="https://avatars.mds.yandex.net/i?id=3ed21fea436431728b003aaa134b35c1d19ad599-16489618-images-thumbs&n=13" group-title="Казахстан", Bilim TV
 #EXTGRP:Казахстан
 http://sc.id-tv.kz/ElArna.m3u8
+#EXTINF:-1 tvg-id="dostyk-kz" tvg-name="Достық [KZ]" tvg-logo="https://epgx.club/picons/dostyk-kz.png" group-title="Казахстан", Достык
+#EXTGRP:Казахстан
+https://ucdn.beetv.kz/bpk-tv/000009344/tve/index.m3u8
 #EXTINF:-1 tvg-id="ertis" tvg-name="Ertis" tvg-logo="https://avatars.mds.yandex.net/i?id=2a00000179f624829d76604fcc2ee4429836-4012435-images-thumbs&n=13" group-title="Казахстан", Ertis
 #EXTGRP:Казахстан
 https://stream.kaztrk.kz/regional/pavlodartv/index.m3u8
