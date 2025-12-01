@@ -1985,7 +1985,7 @@ https://ucdn.beetv.kz/bpk-tv/000005450/tve/index.m3u8
 http://94.232.127.28:8080/kinoserija/index.m3u8
 #EXTINF:-1 tvg-id="kinouzhas" tvg-name="Киноужас" tvg-logo="http://epg.one/img/2493.png" group-title="Кино", Киноужас
 #EXTGRP:Кино
-http://91.207.115.228:5000/c43
+http://195.64.140.147:10043/43
 #EXTINF:-1 tvg-name="КиноФраншизы" tvg-logo="https://avatars.mds.yandex.net/i?id=17507e527b188fdbd4354fc180529b2f31c9c8f2-9873252-images-thumbs&n=13" group-title="Кино", КиноФраншизы
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=SmartTV
@@ -2024,7 +2024,7 @@ https://mhd128.iptv2022.com/p/U6jl_QjMqSJOkRMgQup5Pg,1764622807/streaming/nashpo
 https://mhd128.iptv2022.com/p/LID6G2NvIpczuUiNpVipRA,1764622807/streaming/nashemuzskoe/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="nashe-novoe-kino" tvg-name="Наше новое кино" tvg-logo="http://epg.one/img/485.png" group-title="Кино", Наше новое кино
 #EXTGRP:Кино
-http://91.207.115.228:5000/c41
+http://95.66.188.74/NasheNovoeKino/mono.m3u8
 #EXTINF:-1 tvg-id="nst" tvg-name="НСТ" tvg-logo="http://epg.one/img/518.png" group-title="Кино", НСТ
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000000078/tve/index.m3u8
@@ -2205,9 +2205,6 @@ https://dvr3.vokkavideo.xyz/HTVHD/index.m3u8
 #EXTINF:-1 tvg-id="kino-24" tvg-name="Kino 24" tvg-logo="https://epgx.club/picons/kino-24.png" group-title="Кино", Kino 24
 #EXTGRP:Кино
 http://sirius.greenhosting.ru/Kino24Ru/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="kinoliving" tvg-name="KinoLiving" tvg-logo="http://epg.one/img/9123.png" group-title="Кино", KinoLiving
-#EXTGRP:Кино
-http://91.207.115.228:5000/c61
 #EXTINF:-1 tvg-name="LAV-KINO" tvg-logo="https://avatars.mds.yandex.net/i?id=d345b761b1d177dd5e38d776f2ad20a51ab97ebf-5668792-images-thumbs&n=13" group-title="Кино", LAV-KINO
 #EXTGRP:Кино
 https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
@@ -2426,7 +2423,7 @@ https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a
 http://194.143.148.28:8080/MatchArena/mpegts
 #EXTINF:-1 tvg-id="match-arena" tvg-name="Матч! Арена HD" tvg-logo="http://epg.one/img/2003.png" group-title="Спорт", Матч! Арена HD
 #EXTGRP:Спорт
-http://91.207.115.228:5000/c103
+http://45.145.32.13:20440/match_arena_hd/index.m3u8?token=test
 #EXTINF:-1 tvg-id="match-boets" tvg-name="Матч! Боец" tvg-logo="http://epg.one/img/2054.png" group-title="Спорт", Матч! Боец
 #EXTGRP:Спорт
 http://95.66.188.74/MatchBoec/mono.m3u8
@@ -2435,7 +2432,7 @@ http://95.66.188.74/MatchBoec/mono.m3u8
 http://95.66.188.74/MatchIgra/mono.m3u8
 #EXTINF:-1 tvg-id="match-igra" tvg-name="Матч! Игра HD" tvg-logo="http://epg.one/img/2050.png" group-title="Спорт", Матч! Игра HD
 #EXTGRP:Спорт
-http://91.207.115.228:5000/c104
+http://45.145.32.13:20440/match_igra_hd/index.m3u8?token=test
 #EXTINF:-1 tvg-id="match-planeta" tvg-name="Матч! Планета" tvg-logo="http://epg.one/img/2043.png" group-title="Спорт", Матч! Планета
 #EXTGRP:Спорт
 http://87.76.32.36:8001/matchplaneta
@@ -2450,25 +2447,25 @@ https://mhd128.iptv2022.com/p/E6Q7eFvS8BpkiBt21ayELw,1764622812/streaming/match_
 http://ukr.ukrainske.tv/134/keytvainua/video.m3u8
 #EXTINF:-1 tvg-id="match-nash-sport" tvg-name="Матч! Страна HD" tvg-logo="http://epg.one/img/2042.png" group-title="Спорт", Матч! Страна HD
 #EXTGRP:Спорт
-http://91.207.115.228:5000/c106
+http://45.145.32.13:20440/match_strana/index.m3u8?token=test
 #EXTINF:-1 tvg-id="match-football1" tvg-name="Матч! Футбол 1" tvg-logo="http://epg.one/img/2044.png" group-title="Спорт", Матч! Футбол 1
 #EXTGRP:Спорт
-http://45.145.32.13:20440/match_football1/index.m3u8?token=test
+http://193.25.8.59:8000/fut
 #EXTINF:-1 tvg-id="match-football1" tvg-name="Матч! Футбол 1 HD" tvg-logo="http://epg.one/img/2044.png" group-title="Спорт", Матч! Футбол 1 HD
 #EXTGRP:Спорт
-http://91.207.115.228:5000/c114
+http://45.145.32.13:20440/match_futbol_1_hd/index.m3u8?token=test
 #EXTINF:-1 tvg-id="match-football2" tvg-name="Матч! Футбол 2" tvg-logo="http://epg.one/img/1042.png" group-title="Спорт", Матч! Футбол 2
 #EXTGRP:Спорт
-http://45.145.32.13:20440/match_football2/index.m3u8?token=test
+http://193.25.8.59:8000/fut2
 #EXTINF:-1 tvg-id="match-football2" tvg-name="Матч! Футбол 2 HD" tvg-logo="http://epg.one/img/1042.png" group-title="Спорт", Матч! Футбол 2 HD
 #EXTGRP:Спорт
-http://91.207.115.228:5000/c115
+http://45.145.32.13:20440/match_football2/index.m3u8?token=test
 #EXTINF:-1 tvg-id="match-football3" tvg-name="Матч! Футбол 3" tvg-logo="http://epg.one/img/2005.png" group-title="Спорт", Матч! Футбол 3
 #EXTGRP:Спорт
-http://45.145.32.13:20440/match_football3/index.m3u8?token=test
+http://193.25.8.59:8000/fut3
 #EXTINF:-1 tvg-id="match-football3" tvg-name="Матч! Футбол 3 HD" tvg-logo="http://epg.one/img/2005.png" group-title="Спорт", Матч! Футбол 3 HD
 #EXTGRP:Спорт
-http://91.207.115.228:5000/c116
+http://45.145.32.13:20440/match_football3/index.m3u8?token=test
 #EXTINF:-1 tvg-id="mir-basketbola" tvg-name="Мир баскетбола" tvg-logo="http://epg.one/img/4629.png" group-title="Спорт", Мир Баскетбола
 #EXTGRP:Спорт
 http://195.64.140.147:10111/111
