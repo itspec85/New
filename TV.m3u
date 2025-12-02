@@ -2193,6 +2193,12 @@ https://ucdn.beetv.kz/bpk-tv/000004471/tve/index.m3u8
 #EXTINF:-1 tvg-id="tv1000-premium" tvg-name="Go3 Films" tvg-logo="http://epg.one/img/4821.png" group-title="Кино", Go3 Films HD LV
 #EXTGRP:Кино
 http://94.232.127.28:8080/tv1000premium/index.m3u8
+#EXTINF:-1 tvg-name="HD Comedy" tvg-logo="https://avatars.mds.yandex.net/i?id=1fa4a7cadecf9fd159f97f2f6a6d7bbe09114b21-12179187-images-thumbs&n=13" group-title="Кино", HD Comedy
+#EXTGRP:Кино
+http://2.57.217.85:8000/play/a074/index.m3u8
+#EXTINF:-1 tvg-name="HD Kino" tvg-logo="https://avatars.mds.yandex.net/i?id=1fa4a7cadecf9fd159f97f2f6a6d7bbe09114b21-12179187-images-thumbs&n=13" group-title="Кино", HD Kino
+#EXTGRP:Кино
+http://2.57.217.85:8000/play/a05j/index.m3u8
 #EXTINF:-1 tvg-id="hollywood" tvg-name="Hollywood" tvg-logo="http://epg.one/img/608.png" group-title="Кино", Hollywood
 #EXTGRP:Кино
 http://193.25.8.59:8000/interaz
