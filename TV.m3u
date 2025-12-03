@@ -2436,6 +2436,9 @@ http://45.145.32.13:20440/match_arena_hd/index.m3u8?token=test
 #EXTINF:-1 tvg-id="match-boets" tvg-name="Матч! Боец" tvg-logo="http://epg.one/img/2054.png" group-title="Спорт", Матч! Боец
 #EXTGRP:Спорт
 http://95.66.188.74/MatchBoec/mono.m3u8
+#EXTINF:-1 tvg-id="match-boets" tvg-name="Матч! Боец" tvg-logo="http://epg.one/img/2054.png" group-title="Спорт", Матч! Боец (резерв)
+#EXTGRP:Спорт
+http://87.120.142.11:18000/Match
 #EXTINF:-1 tvg-id="match-igra" tvg-name="Матч! Игра" tvg-logo="http://epg.one/img/2050.png" group-title="Спорт", Матч! Игра
 #EXTGRP:Спорт
 http://95.66.188.74/MatchIgra/mono.m3u8
