@@ -262,10 +262,10 @@ http://95.66.188.74/Rossia24/index.m3u8
 #EXTINF:-1 tvg-id="rossia-24" tvg-name="Россия-24 HD" tvg-logo="http://epg.one/img/1683.png" group-title="Россия", Россия-24 HD
 #EXTGRP:Россия
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
-#EXTINF:-1 tvg-id="kultura" tvg-name="Россия К" tvg-logo="http://epg.one/img/187.png" group-title="Россия", Россия К
+#EXTINF:-1 tvg-id="kultura" tvg-name="Россия К" tvg-logo="http://epg.one/img/187.png" group-title="Россия", Россия-Культура
 #EXTGRP:Россия
 http://217.21.34.160:38007/kultura/index.m3u8
-#EXTINF:-1 tvg-id="kultura" tvg-name="Россия К HD" tvg-logo="http://epg.one/img/187.png" group-title="Россия", Россия К HD
+#EXTINF:-1 tvg-id="kultura" tvg-name="Россия К HD" tvg-logo="http://epg.one/img/187.png" group-title="Россия", Россия-Культура HD
 #EXTGRP:Россия
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:-1 tvg-id="rtr-planeta-azia" tvg-name="Россия РТР" tvg-logo="https://epgx.club/picons/rtr-planeta-azia.png" group-title="Россия", Россия РТР (Азия)
