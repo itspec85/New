@@ -1324,7 +1324,7 @@ https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/play
 https://ucdn.beetv.kz/bpk-tv/000000195/tve/index.m3u8
 #EXTINF:-1 tvg-id="vremia" tvg-name="Время" tvg-logo="http://epg.one/img/669.png" group-title="Познавательные", Время
 #EXTGRP:Познавательные
-http://217.21.34.160:38005/vremya/index.m3u8
+http://193.25.8.59:8000/vremya
 #EXTINF:-1 tvg-id="glazami-turista" tvg-name="Глазами туриста HD" tvg-logo="http://epg.one/img/2508.png" group-title="Познавательные", Глазами туриста HD
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000001414/tve/index.m3u8
@@ -1333,11 +1333,8 @@ https://ucdn.beetv.kz/bpk-tv/000001414/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000003174/tve/index.m3u8
 #EXTINF:-1 tvg-id="dikaya-oxota-hd" tvg-name="Дикая охота HD" tvg-logo="http://epg.one/img/2483.png" group-title="Познавательные", Дикая охота HD
 #EXTGRP:Познавательные
-http://217.21.34.160:38007/dikayaohotahd/index.m3u8
+http://185.78.112.57:8077/DikayaOxotaHD/index.m3u8
 #EXTINF:-1 tvg-id="dikaya-rybalka-hd" tvg-name="Дикая рыбалка HD" tvg-logo="http://epg.one/img/2484.png" group-title="Познавательные", Дикая рыбалка HD
-#EXTGRP:Познавательные
-http://217.21.34.160:38007/dikayarybalkahd/index.m3u8
-#EXTINF:-1 tvg-id="dikaya-rybalka-hd" tvg-name="Дикая рыбалка HD" tvg-logo="http://epg.one/img/2484.png" group-title="Познавательные", Дикая рыбалка HD (резерв)
 #EXTGRP:Познавательные
 http://185.78.112.57:8077/DikayaRybalkaHD/index.m3u8
 #EXTINF:-1 tvg-id="dikiy" tvg-name="Дикий" tvg-logo="http://epg.one/img/2283.png" group-title="Познавательные", Дикий
@@ -1543,7 +1540,7 @@ https://cityeden.catcast.tv/content/47519/index.m3u8
 https://autopilot.catcast.tv/content/34246/index.m3u8
 #EXTINF:-1 tvg-id="sovsek" tvg-name="Совершенно секретно" tvg-logo="http://epg.one/img/275.png" group-title="Познавательные", Совершенно секретно
 #EXTGRP:Познавательные
-http://217.21.34.160:38007/sovsek/index.m3u8
+http://146.120.14.239:3001/play/a0fo
 #EXTINF:-1 tvg-id="solovjinypomiot" tvg-name="Соловьев.Live" tvg-logo="http://epg.one/img/13.png" group-title="Познавательные", Соловьев.Live
 #EXTGRP:Познавательные
 http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1.m3u8
@@ -1795,7 +1792,7 @@ https://ucdn.beetv.kz/bpk-tv/000000260/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000002762/tve/index.m3u8
 #EXTINF:-1 tvg-id="detsky-mir" tvg-name="Детский мир" tvg-logo="http://epg.one/img/923.png" group-title="Детские", Детский мир
 #EXTGRP:Детские
-http://217.21.34.160:38007/detmir/index.m3u8
+http://193.25.8.59:8005/detmir
 #EXTINF:-1 tvg-id="detkinoint-tviksel" tvg-name="Детское кино International" tvg-logo="http://epg.one/img/6261.png" group-title="Детские", Детское кино International
 #EXTGRP:Детские
 http://autopilot.catcast.tv/content/38720/index.m3u8
@@ -1928,7 +1925,7 @@ http://95.66.188.74/DomKinoPremiumHD/index.m3u8
 http://193.27.209.122/dorama/index.m3u8
 #EXTINF:-1 tvg-id="evrokino" tvg-name="Еврокино" tvg-logo="http://epg.one/img/352.png" group-title="Кино", Еврокино
 #EXTGRP:Кино
-http://217.21.34.160:38003/evrokino/index.m3u8
+http://193.25.8.59:8000/eurokino
 #EXTINF:-1 tvg-name="Иллюзион+" tvg-logo="http://epg.one/img/2403.png" group-title="Кино", Иллюзион +
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000004582/tve/index.m3u8
