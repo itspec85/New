@@ -1992,7 +1992,7 @@ http://195.64.140.147:10043/43
 http://195.9.195.3:8080/hls/218193.m3u8
 #EXTINF:-1 tvg-id="kinoxit" tvg-name="Кинохит" tvg-logo="http://epg.one/img/542.png" group-title="Кино", КИНОХИТ
 #EXTGRP:Кино
-http://94.232.127.28:8080/kinohit/index.m3u8
+https://vod.splay.uz/live_splay/original/Kinoxit/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Кошмар HD" tvg-logo="https://avatars.mds.yandex.net/i?id=f22c7d6929320c06a946ae5ed1b29d0c0b4f1571-12691405-images-thumbs&n=13" group-title="Кино", Кошмар HD
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=SmartTV
@@ -2113,7 +2113,7 @@ https://ucdn.beetv.kz/bpk-tv/000000520/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000000213/tve/index.m3u8
 #EXTINF:-1 tvg-id="sony-scifi" tvg-name=".sci-fi" tvg-logo="http://epg.one/img/516.png" group-title="Кино", .sci-fi
 #EXTGRP:Кино
-http://94.232.127.28:8080/sony-scifi/index.m3u8
+http://193.25.8.59:8000/axn
 #EXTINF:-1 tvg-name="1FILMAX" tvg-logo="https://avatars.mds.yandex.net/i?id=8034a9c9035865ba1a3e0bb84e6839b0de0caf66-12538948-images-thumbs&n=13" group-title="Кино", 1FILMAX
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=SmartTV
@@ -2156,12 +2156,6 @@ http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="paramount-comedy" tvg-name="Comedy Central" tvg-logo="http://epg.one/img/920.png" group-title="Кино", Comedy Central
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000000452/tve/index.m3u8
-#EXTINF:-1 tvg-id="sony-channel-ee" tvg-name="Duo 3 [EE]" tvg-logo="http://epg.one/img/5340.png" group-title="Кино", Duo3 HD EE
-#EXTGRP:Кино
-http://94.232.127.28:8080/sony/index.m3u8
-#EXTINF:-1 tvg-id="sony-turbo-ee" tvg-name="Duo 6 [EE]" tvg-logo="http://epg.one/img/5341.png" group-title="Кино", Duo6 HD EE
-#EXTGRP:Кино
-http://94.232.127.28:8080/sony-turbo/index.m3u8
 #EXTINF:-1 tvg-name="Fantoms" tvg-logo="https://static.goodgame.ru/files/pics/266268_VVSa.png" group-title="Кино", Fantoms
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=SmartTV
@@ -2187,9 +2181,6 @@ https://ucdn.beetv.kz/bpk-tv/000004472/tve/index.m3u8
 #EXTINF:-1 tvg-id="foxlife" tvg-name="FX Life" tvg-logo="http://epg.one/img/615.png" group-title="Кино", FX Life
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000004471/tve/index.m3u8
-#EXTINF:-1 tvg-id="tv1000-premium" tvg-name="Go3 Films" tvg-logo="http://epg.one/img/4821.png" group-title="Кино", Go3 Films HD LV
-#EXTGRP:Кино
-http://94.232.127.28:8080/tv1000premium/index.m3u8
 #EXTINF:-1 tvg-name="HD Comedy" tvg-logo="https://avatars.mds.yandex.net/i?id=1fa4a7cadecf9fd159f97f2f6a6d7bbe09114b21-12179187-images-thumbs&n=13" group-title="Кино", HD Comedy
 #EXTGRP:Кино
 http://2.57.217.85:8000/play/a074/index.m3u8
@@ -2290,7 +2281,7 @@ http://95.66.188.74/VHS/index.m3u8
 http://ukr2.ukrainske.tv/493/video.m3u8
 #EXTINF:-1 tvg-id="tv1000-worldkino" tvg-name="Viasat Kino World" tvg-logo="http://epg.one/img/8883.png" group-title="Кино", Viasat World Kino
 #EXTGRP:Кино
-http://94.232.127.28:8080/tv1000ru/index.m3u8
+http://5.188.159.128:8070/TV1000_World_Kino/index.m3u8
 #EXTINF:-1 tvg-id="tv1000" tvg-name="Viju TV1000" tvg-logo="http://epg.one/img/127.png" group-title="Кино", Viju TV1000
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000003747/tve/index.m3u8
@@ -2696,7 +2687,7 @@ http://911play.ru:3456/live/VostokSite/cdnVostaoc911tv123456/489.m3u8
 http://streamer.rtcommufa.ru:1935/ptica/ptica1/chunklist.m3u8
 #EXTINF:-1 tvg-id="zhara" tvg-name="Жара" tvg-logo="http://epg.one/img/165.png" group-title="Музыка", ЖАРА
 #EXTGRP:Музыка
-http://94.232.127.28:8080/zhara/index.m3u8
+http://31.148.48.15:80/Zhara/index.m3u8
 #EXTINF:-1 tvg-id="muztv" tvg-name="Муз-ТВ" tvg-logo="http://epg.one/img/897.png" group-title="Музыка", МУЗ-ТВ
 #EXTGRP:Музыка
 http://95.47.156.60:8000/play/20/index.m3u8
