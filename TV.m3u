@@ -264,7 +264,7 @@ http://95.66.188.74/Rossia24/index.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
 #EXTINF:-1 tvg-id="kultura" tvg-name="Россия К" tvg-logo="http://epg.one/img/187.png" group-title="Россия", Россия-Культура
 #EXTGRP:Россия
-http://217.21.34.160:38007/kultura/index.m3u8
+http://89.232.68.194:8080/rossiyak/tracks-v3a1/index.m3u8
 #EXTINF:-1 tvg-id="kultura" tvg-name="Россия К HD" tvg-logo="http://epg.one/img/187.png" group-title="Россия", Россия-Культура HD
 #EXTGRP:Россия
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
@@ -288,7 +288,7 @@ http://95.47.156.60:8000/play/13/index.m3u8
 http://95.66.188.74/CTC_HD/mono.m3u8
 #EXTINF:-1 tvg-id="sts-int" tvg-name="СТС International" tvg-logo="http://epg.one/img/5652.png" group-title="Россия", СТС International
 #EXTGRP:Россия
-http://178.134.1.158:8081/CTC/index.m3u8
+https://ucdn.beetv.kz/bpk-tv/000000428/tve/index.m3u8
 #EXTINF:-1 tvg-id="sts-love" tvg-name="СТС Love" tvg-logo="http://epg.one/img/1322.png" group-title="Россия", СТС Love
 #EXTGRP:Россия
 http://178.212.71.253:8000/play/104/index.m3u8
