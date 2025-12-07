@@ -2369,6 +2369,35 @@ http://autopilot.catcast.tv/content/41333/index.m3u8
 #EXTINF:-1 tvg-name="Сити Эдем - ТелеНовелла" tvg-logo="https://www.cityeden.info/logotv/logotip_telenovella.png" group-title="Кинозал", Сити Эдем - ТелеНовелла
 #EXTGRP:Кинозал
 https://autopilot.catcast.tv/content/46209/index.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="box-sssr-4k" tvg-name="BOX СССР 4K" tvg-logo="http://epg.one/img/9300.png" group-title="Кинозал", BOX СССР 4K
+#EXTGRP:Кинозал
+http://50.7.28.226/8445/index.m3u8
+#EXTINF:-1 tvg-id="box-apocalipse" tvg-name="BOX Apocalypse HD" tvg-logo="http://epg.one/img/8768.png" group-title="Кинозал", BOX Apocalypse HD
+#EXTGRP:Кинозал
+http://50.7.28.226/8441/index.m3u8
+#EXTINF:-1 tvg-id="box-fantasy" tvg-name="BOX Fantasy HD" tvg-logo="http://epg.one/img/7490.png" group-title="Кинозал", BOX Fantasy HD
+#EXTGRP:Кинозал
+http://50.7.28.226/8430/index.m3u8
+#EXTINF:-1 tvg-id="box-gangster" tvg-name="BOX Gangster HD" tvg-logo="http://epg.one/img/6699.png" group-title="Кинозал", BOX Gangster HD
+#EXTGRP:Кинозал
+http://50.7.28.226/8985/index.m3u8
+#EXTINF:-1 tvg-id="box-serial" tvg-name="BOX Serial HD" tvg-logo="http://epg.one/img/6703.png" group-title="Кинозал", BOX Serial HD
+#EXTGRP:Кинозал
+http://50.7.28.226/8988/index.m3u8
+#EXTINF:-1 tvg-id="box-spy" tvg-name="BOX Spy HD" tvg-logo="http://epg.one/img/6705.png" group-title="Кинозал", BOX Spy HD
+#EXTGRP:Кинозал
+http://50.7.28.226/8354/index.m3u8
+#EXTINF:-1 tvg-id="box-ultrastars-4k" tvg-name="BOX Ultrastars 4k" tvg-logo="https://epgx.club/picons/box-ultrastars-4k.png" group-title="Кинозал", BOX Ultrastars 4k
+#EXTGRP:Кинозал
+http://50.7.28.226/8444/index.m3u8
+#EXTINF:-1 tvg-id="box-zombie" tvg-name="BOX Zombie HD" tvg-logo="http://epg.one/img/6833.png" group-title="Кинозал", BOX Zombie HD
+#EXTGRP:Кинозал
+http://50.7.28.226/8418/index.m3u8
 #EXTINF:-1 tvg-name="IPTVPLAY Ведьмак" tvg-logo="https://i123.fastpic.org/big/2024/0826/01/adbb4692281cf3cc6540f47f4460c701.png" group-title="Кинозал", IPTVPLAY Ведьмак
 #EXTGRP:Кинозал
 http://5.188.158.65:4040/IPTVPLAYVEDMAK.tv/video.m3u8?token=lqRGka5-YwwqF0
