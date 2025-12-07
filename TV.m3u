@@ -1862,6 +1862,12 @@ http://stv.mediacdn.ru/live/cdn/ani/playlist.m3u8
 #EXTINF:-1 tvg-id="balapan" tvg-name="Balapan" tvg-logo="https://epgx.club/picons/balapan.png" group-title="Детские", Balapan
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000005178/tve/index.m3u8
+#EXTINF:-1 tvg-id="bcu-kids" tvg-name="BCU Kids HD" tvg-logo="http://epg.one/img/4756.png" group-title="Детские", BCU Kids HD
+#EXTGRP:Детские
+http://50.7.28.226/8458/index.m3u8
+#EXTINF:-1 tvg-id="bcu-kids-plus" tvg-name="BCU Kids+ HD" tvg-logo="http://epg.one/img/4757.png" group-title="Детские", BCU Kids+ HD
+#EXTGRP:Детские
+http://50.7.28.226/8454/index.m3u8
 #EXTINF:-1 tvg-id="cartoon-classics" tvg-name="Cartoon Classics" tvg-logo="http://epg.one/img/9183.png" group-title="Детские", Cartoon Classics
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000008795/tve/index.m3u8
@@ -2369,11 +2375,27 @@ http://autopilot.catcast.tv/content/41333/index.m3u8
 #EXTINF:-1 tvg-name="Сити Эдем - ТелеНовелла" tvg-logo="https://www.cityeden.info/logotv/logotip_telenovella.png" group-title="Кинозал", Сити Эдем - ТелеНовелла
 #EXTGRP:Кинозал
 https://autopilot.catcast.tv/content/46209/index.m3u8
-
-
-
-
-
+#EXTINF:-1 tvg-id="bcu-svaty" tvg-name="BCU Сваты HD" tvg-logo="http://epg.one/img/4768.png" group-title="Кинозал", BCU Сваты HD
+#EXTGRP:Кинозал
+http://50.7.28.226/8889/index.m3u8
+#EXTINF:-1 tvg-id="bcu-action" tvg-name="BCU Action HD" tvg-logo="http://epg.one/img/4748.png" group-title="Кинозал", BCU Action HD
+#EXTGRP:Кинозал
+http://50.7.28.226/8478/index.m3u8
+#EXTINF:-1 tvg-id="bcu-catastrophe" tvg-name="BCU Catastrophe HD" tvg-logo="http://epg.one/img/4749.png" group-title="Кинозал", BCU Catastrophe HD
+#EXTGRP:Кинозал
+http://50.7.28.226/8877/index.m3u8
+#EXTINF:-1 tvg-id="bcu-kinorating" tvg-name="BCU Kinorating HD" tvg-logo="http://epg.one/img/4758.png" group-title="Кинозал", BCU Kinorating HD
+#EXTGRP:Кинозал
+http://50.7.28.226/8455/index.m3u8
+#EXTINF:-1 tvg-id="bcu-premiere" tvg-name="BCU Premiere HD" tvg-logo="http://epg.one/img/4760.png" group-title="Кинозал", BCU Premiere HD
+#EXTGRP:Кинозал
+http://50.7.28.226/8475/index.m3u8
+#EXTINF:-1 tvg-id="bcu-romantic" tvg-name="BCU Romantic HD" tvg-logo="http://epg.one/img/4761.png" group-title="Кинозал", BCU Romantic HD
+#EXTGRP:Кинозал
+http://50.7.28.226/8884/index.m3u8
+#EXTINF:-1 tvg-id="bcu-russian" tvg-name="BCU Russian HD" tvg-logo="http://epg.one/img/4762.png" group-title="Кинозал", BCU Russian HD
+#EXTGRP:Кинозал
+http://50.7.28.226/8457/index.m3u8
 #EXTINF:-1 tvg-id="box-sssr-4k" tvg-name="BOX СССР 4K" tvg-logo="http://epg.one/img/9300.png" group-title="Кинозал", BOX СССР 4K
 #EXTGRP:Кинозал
 http://50.7.28.226/8445/index.m3u8
