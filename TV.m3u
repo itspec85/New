@@ -1979,7 +1979,7 @@ https://vod.splay.uz/live_splay/original/KinomiksHD/tracks-v1a1/mono.m3u8
 http://95.66.188.74/Kinopokaz/mono.m3u8
 #EXTINF:-1 tvg-id="kinopremiera-hd" tvg-name="Кинопремьера" tvg-logo="http://epg.one/img/566.png" group-title="Кино", Кинопремьера
 #EXTGRP:Кино
-http://95.85.109.219:7000/play/a085
+http://185.223.125.136:8005/kinoprem?token=test
 #EXTINF:-1 tvg-id="kinosat" tvg-name="Киносат" tvg-logo="http://epg.one/img/2407.png" group-title="Кино", Киносат
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000003871/tve/index.m3u8
