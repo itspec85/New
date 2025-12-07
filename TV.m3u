@@ -1889,6 +1889,9 @@ http://2.57.217.85:8000/play/a05q/index.m3u8
 #EXTINF:-1 tvg-name="IPTVPLAY МультСказки" tvg-logo="https://i122.fastpic.org/big/2024/0112/65/b20ebb09af08ef55dbdffa919a047c65.png" group-title="Детские", IPTVPLAY МультСказки
 #EXTGRP:Детские
 http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 tvg-id="minimax-honey" tvg-name="MM Honey HD" tvg-logo="http://epg.one/img/5139.png" group-title="Детские", MM Honey HD
+#EXTGRP:Детские
+http://50.7.28.226/8895/index.m3u8
 #EXTINF:-1 tvg-id="nick-jr" tvg-name="Nick Jr" tvg-logo="http://epg.one/img/917.png" group-title="Детские", Nick Jr
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000000449/tve/index.m3u8
@@ -2441,9 +2444,54 @@ http://5.188.158.65:4040/IPTVPLAYUZHASTIK.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1 tvg-name="IPTVPLAY Фантастика" tvg-logo="https://i.ibb.co/pbxx3Sd/Fantastika.png" group-title="Кинозал", IPTVPLAY Фантастика
 #EXTGRP:Кинозал
 http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 tvg-id="minimax-boevik" tvg-name="MM Боевик HD" tvg-logo="http://epg.one/img/5141.png" group-title="Кинозал", MM Боевик HD
+#EXTGRP:Кинозал
+http://50.7.28.226/8411/index.m3u8
+#EXTINF:-1 tvg-id="minimax-drama" tvg-name="MM Драма HD" tvg-logo="http://epg.one/img/6065.png" group-title="Кинозал", MM Драма HD
+#EXTGRP:Кинозал
+http://50.7.28.226/8634/index.m3u8
+#EXTINF:-1 tvg-id="minimax-katastrofa" tvg-name="MM Катастрофа HD" tvg-logo="http://epg.one/img/5147.png" group-title="Кинозал", MM Катастрофа HD
+#EXTGRP:Кинозал
+http://50.7.28.226/8746/index.m3u8
+#EXTINF:-1 tvg-id="minimax-comedy" tvg-name="MM Комедия HD" tvg-logo="http://epg.one/img/5151.png" group-title="Кинозал", MM Комедия HD
+#EXTGRP:Кинозал
+http://50.7.28.226/8708/index.m3u8
+#EXTINF:-1 tvg-id="minimax-comedy_classic" tvg-name="MM Комедия Classic HD" tvg-logo="http://epg.one/img/5150.png" group-title="Кинозал", MM Комедия Classic HD
+#EXTGRP:Кинозал
+http://50.7.28.226/8744/index.m3u8
+#EXTINF:-1 tvg-id="minimax-kungfu" tvg-name="MM Кунг-Фу HD" tvg-logo="http://epg.one/img/5154.png" group-title="Кинозал", MM Кунг-Фу HD
+#EXTGRP:Кинозал
+http://50.7.28.226/8559/index.m3u8
+#EXTINF:-1 tvg-id="minimax-nuar" tvg-name="MM Нуар HD" tvg-logo="http://epg.one/img/5158.png" group-title="Кинозал", MM Нуар HD
+#EXTGRP:Кинозал
+http://50.7.28.226/8733/index.m3u8
+#EXTINF:-1 tvg-id="minimax-roskino" tvg-name="MM Роскино HD" tvg-logo="http://epg.one/img/5163.png" group-title="Кинозал", MM Роскино HD
+#EXTGRP:Кинозал
+http://50.7.28.226/8709/index.m3u8
 #EXTINF:-1 tvg-id="minimax-sport" tvg-name="MM Спорт HD" tvg-logo="http://epg.one/img/5167.png" group-title="Кинозал", MM Спорт HD
 #EXTGRP:Кинозал
 http://157.90.0.245:8070/minimax-sport/index.m3u8
+#EXTINF:-1 tvg-id="minimax-supergeroi" tvg-name="MM Супергерои HD" tvg-logo="http://epg.one/img/5169.png" group-title="Кинозал", MM Супергерои HD
+#EXTGRP:Кинозал
+http://50.7.28.226/8710/index.m3u8
+#EXTINF:-1 tvg-id="minimax-ujasi" tvg-name="MM Ужасы HD" tvg-logo="http://epg.one/img/5212.png" group-title="Кинозал", MM Ужасы HD
+#EXTGRP:Кинозал
+http://50.7.28.226/8725/index.m3u8
+#EXTINF:-1 tvg-id="minimax-celebrity" tvg-name="MM Celebrity HD" tvg-logo="http://epg.one/img/6063.png" group-title="Кинозал", MM Celebrity HD
+#EXTGRP:Кинозал
+http://50.7.28.226/8991/index.m3u8
+#EXTINF:-1 tvg-id="minimax-newfilm1" tvg-name="MM NewFilm 1 HD" tvg-logo="http://epg.one/img/5124.png" group-title="Кинозал", MM NewFilm 1 HD
+#EXTGRP:Кинозал
+http://50.7.28.226/8741/index.m3u8
+#EXTINF:-1 tvg-id="minimax-newfilm3" tvg-name="MM NewFilm 3 HD" tvg-logo="http://epg.one/img/5126.png" group-title="Кинозал", MM NewFilm 3 HD
+#EXTGRP:Кинозал
+http://50.7.28.226/8743/index.m3u8
+#EXTINF:-1 tvg-id="minimax-newfilmru" tvg-name="MM NewFilm RU HD" tvg-logo="http://epg.one/img/5127.png" group-title="Кинозал", MM NewFilm RU HD
+#EXTGRP:Кинозал
+http://50.7.28.226/8706/index.m3u8
+#EXTINF:-1 tvg-id="minimax-ufo" tvg-name="MM UFO HD" tvg-logo="http://epg.one/img/5130.png" group-title="Кинозал", MM UFO HD
+#EXTGRP:Кинозал
+http://50.7.28.226/8410/index.m3u8
 
 
 
