@@ -1877,6 +1877,9 @@ https://ucdn.beetv.kz/bpk-tv/000000015/tve/index.m3u8
 #EXTINF:-1 tvg-id="boomerang" tvg-name="Cartoonito" tvg-logo="http://epg.one/img/929.png" group-title="Детские", Cartoonito
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000000160/tve/index.m3u8
+#EXTINF:-1 tvg-id="cartoons-90" tvg-name="Cartoons 90" tvg-logo="http://epg.one/img/4728.png" group-title="Детские", Cartoons 90
+#EXTGRP:Детские
+http://50.7.28.226/8812/index.m3u8
 #EXTINF:-1 tvg-id="da-vinci" tvg-name="Da Vinci HD" tvg-logo="http://epg.one/img/8908.png" group-title="Детские", Da Vinci HD
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000000333/tve/index.m3u8
@@ -2423,6 +2426,18 @@ http://50.7.28.226/8444/index.m3u8
 #EXTINF:-1 tvg-id="box-zombie" tvg-name="BOX Zombie HD" tvg-logo="http://epg.one/img/6833.png" group-title="Кинозал", BOX Zombie HD
 #EXTGRP:Кинозал
 http://50.7.28.226/8418/index.m3u8
+#EXTINF:-1 tvg-id="cineman-rukino" tvg-name="CineMan РуКино" tvg-logo="http://epg.one/img/4691.png" group-title="Кинозал", CineMan РуКино
+#EXTGRP:Кинозал
+http://50.7.28.226/8871/index.m3u8
+#EXTINF:-1 tvg-id="cineman-miniseries" tvg-name="CineMan MiniSeries" tvg-logo="http://epg.one/img/7150.png" group-title="Кинозал", CineMan MiniSeries
+#EXTGRP:Кинозал
+http://50.7.28.226/8961/index.m3u8
+#EXTINF:-1 tvg-id="cineman-thriller" tvg-name="CineMan Thriller" tvg-logo="http://epg.one/img/4685.png" group-title="Кинозал", CineMan Thriller
+#EXTGRP:Кинозал
+http://50.7.28.226/8954/index.m3u8
+#EXTINF:-1 tvg-id="cineman-vhs" tvg-name="CineMan VHS" tvg-logo="http://epg.one/img/4690.png" group-title="Кинозал", CineMan VHS
+#EXTGRP:Кинозал
+http://50.7.28.226/8807/index.m3u8
 #EXTINF:-1 tvg-name="IPTVPLAY Ведьмак" tvg-logo="https://i123.fastpic.org/big/2024/0826/01/adbb4692281cf3cc6540f47f4460c701.png" group-title="Кинозал", IPTVPLAY Ведьмак
 #EXTGRP:Кинозал
 http://5.188.158.65:4040/IPTVPLAYVEDMAK.tv/video.m3u8?token=lqRGka5-YwwqF0
