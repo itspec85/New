@@ -1880,6 +1880,9 @@ https://ucdn.beetv.kz/bpk-tv/000000160/tve/index.m3u8
 #EXTINF:-1 tvg-id="cartoons-90" tvg-name="Cartoons 90" tvg-logo="http://epg.one/img/4728.png" group-title="Детские", Cartoons 90
 #EXTGRP:Детские
 http://50.7.28.226/8812/index.m3u8
+#EXTINF:-1 tvg-id="clarity4k-anime" tvg-name="Clarity4K Anime" tvg-logo="https://epgx.club/picons/clarity4k-anime.png" group-title="Детские", Clarity4K Anime
+#EXTGRP:Детские
+http://hls127.freeott.top:8080/Clarity4K_Anime/mono.m3u8
 #EXTINF:-1 tvg-id="da-vinci" tvg-name="Da Vinci HD" tvg-logo="http://epg.one/img/8908.png" group-title="Детские", Da Vinci HD
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000000333/tve/index.m3u8
@@ -2296,10 +2299,10 @@ http://5.188.159.128:8070/TV1000_World_Kino/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000003747/tve/index.m3u8
 #EXTINF:-1 tvg-id="tv1000" tvg-name="Viju TV1000 HD" tvg-logo="http://epg.one/img/127.png" group-title="Кино", Viju TV1000 HD
 #EXTGRP:Кино
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/playlist.m3u8?e=1765477871&md5=HffPyNWRjDrO_Xqt90D_Yw
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/playlist.m3u8?e=1766202650&md5=Dz-HSZfd0IiRtwoS_Du98w
 #EXTINF:-1 tvg-id="viju-tv1000-novella" tvg-name="Viju TV1000 Новелла HD" tvg-logo="http://epg.one/img/9057.png" group-title="Кино", Viju TV1000 Новелла HD
 #EXTGRP:Кино
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Novella_HD.smil/playlist.m3u8?e=1764857522&md5=pH5r7qlgk_jRl3KCGkLRcQ
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Novella_HD.smil/playlist.m3u8?e=1766202702&md5=i0N_i7LOsc7x6bjlDbf0kQ
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino" tvg-name="Viju TV1000 Русское" tvg-logo="http://epg.one/img/267.png" group-title="Кино", Viju TV1000 Русское
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000003748/tve/index.m3u8
@@ -2308,10 +2311,10 @@ https://ucdn.beetv.kz/bpk-tv/000003748/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000003910/tve/index.m3u8
 #EXTINF:-1 tvg-id="tv1000-action" tvg-name="Viju TV1000 Action HD" tvg-logo="http://epg.one/img/125.png" group-title="Кино", Viju TV1000 Action HD
 #EXTGRP:Кино
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD.smil/playlist.m3u8?e=1765477899&md5=G1J2GqGJeCZ8W2FtuHav5w
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD.smil/playlist.m3u8?e=1766202680&md5=n5dEzWpexNGzsRF-tN474Q
 #EXTINF:-1 tvg-id="viju-tv1000-romantica" tvg-name="Viju TV1000 Romantica HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/97/Viju_TV1000_Romantica.svg/revision/latest/scale-to-width-down/284?cb=20240928200507" group-title="Кино", Viju TV1000 Romantica HD
 #EXTGRP:Кино
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/playlist.m3u8?e=1764857564&md5=gBKN08FRzAjrMmJ1Zw2ETA
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/playlist.m3u8?e=1766202738&md5=E69MLjTa9H1Adw8hxXC6oQ
 #EXTINF:-1 tvg-id="vip-comedy" tvg-name="viju+ Comedy HD" tvg-logo="http://epg.one/img/1011.png" group-title="Кино", Viju+ Comedy HD
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000000870/tve/index.m3u8
@@ -2402,6 +2405,9 @@ http://50.7.28.226/8884/index.m3u8
 #EXTINF:-1 tvg-id="bcu-russian" tvg-name="BCU Russian HD" tvg-logo="http://epg.one/img/4762.png" group-title="Кинозал", BCU Russian HD
 #EXTGRP:Кинозал
 http://50.7.28.226/8457/index.m3u8
+#EXTINF:-1 tvg-id="bcu-stars" tvg-name="BCU Stars HD" tvg-logo="http://epg.one/img/4765.png" group-title="Кинозал", BCU Stars HD
+#EXTGRP:Кинозал
+http://hls127.freeott.top:8080/BCUStarsHD/mono.m3u8
 #EXTINF:-1 tvg-id="box-sssr-4k" tvg-name="BOX СССР 4K" tvg-logo="http://epg.one/img/9300.png" group-title="Кинозал", BOX СССР 4K
 #EXTGRP:Кинозал
 http://50.7.28.226/8445/index.m3u8
@@ -2438,6 +2444,21 @@ http://50.7.28.226/8954/index.m3u8
 #EXTINF:-1 tvg-id="cineman-vhs" tvg-name="CineMan VHS" tvg-logo="http://epg.one/img/4690.png" group-title="Кинозал", CineMan VHS
 #EXTGRP:Кинозал
 http://50.7.28.226/8807/index.m3u8
+#EXTINF:-1 tvg-id="clarity4k-uzasy" tvg-name="Clarity4K Ужасы" tvg-logo="https://epgx.club/picons/clarity4k-uzasy.png" group-title="Кинозал", Clarity4K Ужасы
+#EXTGRP:Кинозал
+http://hls127.freeott.top:8080/Clarity4K_Uzhasi/mono.m3u8
+#EXTINF:-1 tvg-id="clarity4k-fantastik" tvg-name="Clarity4K Фантастика" tvg-logo="https://epgx.club/picons/clarity4k-fantastik.png" group-title="Кинозал", Clarity4K Фантастика
+#EXTGRP:Кинозал
+http://hls127.freeott.top:8080/Clarity4K_Fantastic/mono.m3u8
+#EXTINF:-1 tvg-id="clarity4k-asia" tvg-name="Clarity4K Asia" tvg-logo="https://epgx.club/picons/clarity4k-asia.png" group-title="Кинозал", Clarity4K Asia
+#EXTGRP:Кинозал
+http://hls127.freeott.top:8080/Clarity4K_Asia/mono.m3u8
+#EXTINF:-1 tvg-id="clarity4k-gamefilm" tvg-name="Clarity4K Gamefilm" tvg-logo="https://epgx.club/picons/clarity4k-gamefilm.png" group-title="Кинозал", Clarity4K Gamefilm
+#EXTGRP:Кинозал
+http://hls127.freeott.top:8080/Clarity4K_Gamefilm/mono.m3u8
+#EXTINF:-1 tvg-id="clarity4k-netflix" tvg-name="Clarity4K Netflix" tvg-logo="https://epgx.club/picons/clarity4k-netflix.png" group-title="Кинозал", Clarity4K Netflix
+#EXTGRP:Кинозал
+http://hls127.freeott.top:8080/Clarity4K_Netflix/mono.m3u8
 #EXTINF:-1 tvg-name="IPTVPLAY Ведьмак" tvg-logo="https://i123.fastpic.org/big/2024/0826/01/adbb4692281cf3cc6540f47f4460c701.png" group-title="Кинозал", IPTVPLAY Ведьмак
 #EXTGRP:Кинозал
 http://5.188.158.65:4040/IPTVPLAYVEDMAK.tv/video.m3u8?token=lqRGka5-YwwqF0
@@ -2583,6 +2604,9 @@ http://195.64.140.147:10111/111
 #EXTINF:-1 tvg-id="okko-sport-2" tvg-name="Окко.Прайм Спорт" tvg-logo="http://epg.one/img/9324.png" group-title="Спорт", Окко Прайм Спорт
 #EXTGRP:Спорт
 http://185.221.213.254:8080/Okko/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="okko-football" tvg-name="Окко.Футбол" tvg-logo="http://epg.one/img/9325.png" group-title="Спорт", Окко Футбол HD
+#EXTGRP:Спорт
+http://50.7.28.226/9170/index.m3u8
 #EXTINF:-1 tvg-id="start" tvg-name="Старт" tvg-logo="http://epg.one/img/2530.png" group-title="Спорт", СТАРТ
 #EXTGRP:Спорт
 http://85.88.175.48:2020/udp/239.4.10.86:2020
