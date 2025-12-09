@@ -1477,7 +1477,7 @@ http://v4.proofix.ru/0mir/index.m3u8
 http://95.66.188.74/Ohota_i_ribalka/mono.m3u8
 #EXTINF:-1 tvg-id="oxotnik-i-rybolov-hd" tvg-name="Охотник и рыболов" tvg-logo="http://epg.one/img/1681.png" group-title="Познавательные", Охотник и рыболов
 #EXTGRP:Познавательные
-http://195.64.140.147:10162/162
+http://2.57.217.85:8000/play/a09w/index.m3u8
 #EXTINF:-1 tvg-name="Первый медицинский канал" tvg-logo="https://avatars.mds.yandex.net/i?id=9494f3a37664c7da5f8f894e7169af2497116e6e-10767708-images-thumbs&n=13" group-title="Познавательные", Первый медицинский канал
 #EXTGRP:Познавательные
 https://rq3qltxnbx1.a.trbcdn.net/livemaster/8hwxnq4s0v_efir0_tcode1080p/playlist.m3u8
@@ -1681,7 +1681,7 @@ https://fl1001.bozztv.com/ushba31/tracks-v1a1/mono.m3u8
 https://ucdn.beetv.kz/bpk-tv/000001000/tve/index.m3u8
 #EXTINF:-1 tvg-id="id-xtra-eu" tvg-name="Investigation Discovery" tvg-logo="http://epg.one/img/2507.png" group-title="Познавательные", Investigation Discovery
 #EXTGRP:Познавательные
-http://195.64.140.147:10152/152
+http://vod.stb.tvime.ru/Investigation_Discovery_HD_CEE/video.m3u8
 #EXTINF:-1 tvg-name="Jarmarka" tvg-logo="https://i.ytimg.com/an/23MIFU9IMsNtE2K6FfBBCQ/featured_channel.jpg" group-title="Познавательные", Jarmarka
 #EXTGRP:Познавательные
 https://api.alpaca.t62a.com/hls/9104/stream0.m3u8
@@ -1747,7 +1747,7 @@ https://ucdn.beetv.kz/bpk-tv/000001498/tve/index.m3u8
 http://5.188.159.128:8070/TLC/index.m3u8
 #EXTINF:-1 tvg-id="travel-channel" tvg-name="Travel Channel" tvg-logo="http://epg.one/img/613.png" group-title="Познавательные", Travel Channel
 #EXTGRP:Познавательные
-http://195.64.140.147:10158/158
+http://2.57.217.85:8000/play/a03y/index.m3u8
 #EXTINF:-1 tvg-id="travel-guide-tv" tvg-name="Travel Guide-TV" tvg-logo="https://epgx.club/picons/travel-guide-tv.png" group-title="Познавательные", Travel Guide-TV
 #EXTGRP:Познавательные
 http://cdn10.live-tv.od.ua:8081/leonovtv/test1/playlist.m3u8
@@ -1766,9 +1766,6 @@ https://ucdn.beetv.kz/bpk-tv/000005528/tve/index.m3u8
 #EXTINF:-1 tvg-id="viasat-nature" tvg-name="Viju Nature" tvg-logo="http://epg.one/img/765.png" group-title="Познавательные", Viju Nature
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000006482/tve/index.m3u8
-#EXTINF:-1 tvg-id="viasat-nature-history-hd" tvg-name="viju+ Planet" tvg-logo="http://epg.one/img/2012.png" group-title="Познавательные", Viju+ Planet HD
-#EXTGRP:Познавательные
-http://195.64.140.147:10147/147
 #EXTINF:-1 tvg-name="VIP HD" tvg-logo="https://avatars.mds.yandex.net/i?id=caa18786cf719cb262caf54d3cbbd750_sr-9099210-images-thumbs&n=13" group-title="Познавательные", VIP HD
 #EXTGRP:Познавательные
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/vip.m3u8
@@ -1973,7 +1970,7 @@ https://ucdn.beetv.kz/bpk-tv/000008490/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000005449/tve/index.m3u8
 #EXTINF:-1 tvg-id="kinokomedia" tvg-name="Кинокомедия" tvg-logo="http://epg.one/img/821.png" group-title="Кино", КИНОКОМЕДИЯ
 #EXTGRP:Кино
-http://109.75.59.241:8017/Kinokomediya/index.m3u8
+http://185.46.16.239:8000/Fox_HD
 #EXTINF:-1 tvg-id="kinomiks" tvg-name="Киномикс" tvg-logo="http://epg.one/img/644.png" group-title="Кино", КИНОМИКС
 #EXTGRP:Кино
 https://vod.splay.uz/live_splay/original/KinomiksHD/tracks-v1a1/mono.m3u8
@@ -1982,13 +1979,13 @@ https://vod.splay.uz/live_splay/original/KinomiksHD/tracks-v1a1/mono.m3u8
 http://95.66.188.74/Kinopokaz/mono.m3u8
 #EXTINF:-1 tvg-id="kinopremiera-hd" tvg-name="Кинопремьера" tvg-logo="http://epg.one/img/566.png" group-title="Кино", Кинопремьера
 #EXTGRP:Кино
-http://185.223.125.136:8005/kinoprem?token=test
+http://157.90.0.245:8070/KINOPREMIERA/index.m3u8
 #EXTINF:-1 tvg-id="kinosat" tvg-name="Киносат" tvg-logo="http://epg.one/img/2407.png" group-title="Кино", Киносат
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000003871/tve/index.m3u8
 #EXTINF:-1 tvg-id="kinosvidanie" tvg-name="Киносвидание" tvg-logo="http://epg.one/img/462.png" group-title="Кино", КИНОСВИДАНИЕ
 #EXTGRP:Кино
-https://vod.splay.uz/live_splay/original/Kinosvidanie/tracks-v1a1/mono.m3u8
+http://5.188.159.128:8070/kinosvidanie/index.m3u8
 #EXTINF:-1 tvg-id="kinosemiya" tvg-name="Киносемья" tvg-logo="http://epg.one/img/987.png" group-title="Кино", КИНОСЕМЬЯ
 #EXTGRP:Кино
 http://2.57.217.85:8000/play/a05v/index.m3u8
@@ -1997,10 +1994,10 @@ http://2.57.217.85:8000/play/a05v/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000005450/tve/index.m3u8
 #EXTINF:-1 tvg-id="kinoseria" tvg-name="Киносерия" tvg-logo="http://epg.one/img/799.png" group-title="Кино", КИНОСЕРИЯ
 #EXTGRP:Кино
-http://109.75.59.241:8017/Kinoseriya/index.m3u8
+http://95.66.188.74/Kinoseriya/mono.m3u8
 #EXTINF:-1 tvg-id="kinouzhas" tvg-name="Киноужас" tvg-logo="http://epg.one/img/2493.png" group-title="Кино", Киноужас
 #EXTGRP:Кино
-http://195.64.140.147:10043/43
+http://50.7.28.226/8357/index.m3u8
 #EXTINF:-1 tvg-name="КиноФраншизы" tvg-logo="https://avatars.mds.yandex.net/i?id=17507e527b188fdbd4354fc180529b2f31c9c8f2-9873252-images-thumbs&n=13" group-title="Кино", КиноФраншизы
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=SmartTV
@@ -2077,10 +2074,10 @@ http://87.76.32.36:8001/rodnoekino
 http://95.66.188.74/Comedia/mono.m3u8
 #EXTINF:-1 tvg-id="russky-bestseller" tvg-name="Русский бестселлер" tvg-logo="http://epg.one/img/994.png" group-title="Кино", Русский бестселлер
 #EXTGRP:Кино
-http://195.64.140.147:10075/75
+http://195.158.223.132:8008/Russkiy_Bestseller
 #EXTINF:-1 tvg-id="russky-detektiv" tvg-name="Русский детектив" tvg-logo="http://epg.one/img/1570.png" group-title="Кино", Русский детектив
 #EXTGRP:Кино
-http://195.64.140.147:10077/77
+http://95.66.188.74/Russkiy_Detektiv/mono.m3u8
 #EXTINF:-1 tvg-id="russky-illuzion" tvg-name="Русский иллюзион" tvg-logo="http://epg.one/img/53.png" group-title="Кино", Русский Иллюзион
 #EXTGRP:Кино
 http://185.46.16.239:8000/Russkiy_Illyuzion
@@ -2244,7 +2241,7 @@ http://195.9.195.3:8080/hls/163253.m3u8
 http://195.9.195.3:8080/manifest/157269_master.m3u8
 #EXTINF:-1 tvg-id="shot-tv" tvg-name="SHOT TV" tvg-logo="http://epg.one/img/431.png" group-title="Кино", SHOT TV
 #EXTGRP:Кино
-http://195.64.140.147:10062/62
+http://50.7.28.226/8358/index.m3u8
 #EXTINF:-1 tvg-id="star-cinema" tvg-name="Star Cinema" tvg-logo="http://epg.one/img/3328.png" group-title="Кино", Star Cinema
 #EXTGRP:Кино
 http://84.245.224.71/StarCinemaHD/mono.m3u8
@@ -2600,7 +2597,7 @@ http://193.25.8.59:8000/fut3
 http://45.145.32.13:20440/match_football3/index.m3u8?token=test
 #EXTINF:-1 tvg-id="mir-basketbola" tvg-name="Мир баскетбола" tvg-logo="http://epg.one/img/4629.png" group-title="Спорт", Мир Баскетбола
 #EXTGRP:Спорт
-http://195.64.140.147:10111/111
+http://195.158.223.132:8003/Mir_Basketbola
 #EXTINF:-1 tvg-id="okko-sport-2" tvg-name="Окко.Прайм Спорт" tvg-logo="http://epg.one/img/9324.png" group-title="Спорт", Окко Прайм Спорт
 #EXTGRP:Спорт
 http://185.221.213.254:8080/Okko/tracks-v1a1/index.m3u8
@@ -2912,7 +2909,7 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
 #EXTINF:-1 tvg-id="europa-plus-tv" tvg-name="Europa Plus TV" tvg-logo="http://epg.one/img/681.png" group-title="Музыка", Europa Plus TV
 #EXTGRP:Музыка
-http://195.64.140.147:10036/36
+http://146.120.14.239:3001/play/a07o
 #EXTINF:-1 tvg-name="Fresh TV Armenia" tvg-logo="http://epg.it999.ru/img/5606.png" group-title="Музыка", Fresh TV Armenia
 #EXTGRP:Музыка
 https://freshtv-live.ru/FreshTV/tracks-v1a1/mono.m3u8?token=livestream
