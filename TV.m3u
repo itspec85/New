@@ -3138,6 +3138,9 @@ http://iptv.prosto.tv:7000/ch310/video.m3u8
 #EXTINF:-1 tvg-name="AviaStream" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00549.jpg" group-title="Релакс", AviaStream
 #EXTGRP:Релакс
 http://iptv.prosto.tv:7000/ch306/video.m3u8
+#EXTINF:-1 tvg-name="Cozy Vibes" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2900005NW_20241010T194656SQUARE.png" group-title="Релакс", Cozy Vibes
+#EXTGRP:Релакс
+https://d2esizdt2xkmhp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qw5vkd4gzoaia/SONO60.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=US2900005NW
 #EXTINF:-1 tvg-name="Prosto Night" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00555.jpg" group-title="Релакс", Prosto Night
 #EXTGRP:Релакс
 http://iptv.prosto.tv:7000/ch349/video.m3u8
@@ -3153,6 +3156,18 @@ http://iptv.prosto.tv:7000/ch324/video.m3u8
 #EXTINF:-1 tvg-name="Space Stream" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00297.png" group-title="Релакс", Space Stream
 #EXTGRP:Релакс
 http://iptv.prosto.tv:7000/ch314/video.m3u8
+#EXTINF:-1 tvg-name="Stingray Holidayscapes" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500038R6_20240520T212838SQUARE.png" group-title="Релакс", Stingray Holidayscapes
+#EXTGRP:Релакс
+https://d10cyxntpn0bwm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-udbgiwo3vva3o/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3500038R6
+#EXTINF:-1 tvg-name="Stingray Music" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500013DG_20240520T212850SQUARE.png" group-title="Релакс", Stingray Music
+#EXTGRP:Релакс
+https://d9rd4243pcy92.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-e4dxftqz7hlvi/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3500013DG
+#EXTINF:-1 tvg-name="Stingray Naturescape" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAK3508705A_20240520T212618SQUARE.png" group-title="Релакс", Stingray Naturescape
+#EXTGRP:Релакс
+https://d2kil4r771hni8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-c6pkjy2v9xudz/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USAK3508705A
+#EXTINF:-1 tvg-name="Stingray ZenLIFE" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500027DS_20240520T212949SQUARE.png" group-title="Релакс", Stingray ZenLIFE
+#EXTGRP:Релакс
+https://d27toxk63drks3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-pibqoi1zv0ree/manifest/zenlife-zen001-montreal/samsungtvplus/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3500027DS
 #EXTINF:-1 tvg-name="Stream City" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00318.png" group-title="Релакс", Stream City
 #EXTGRP:Релакс
 http://iptv.prosto.tv:7000/ch321/video.m3u8
