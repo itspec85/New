@@ -1628,6 +1628,9 @@ http://english-livetx.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMH
 #EXTINF:-1 tvg-id="cnn" tvg-name="CNN USA" tvg-logo="http://epg.one/img/3641.png" group-title="Познавательные", CNN USA
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000000707/tve/index.m3u8
+#EXTINF:-1 tvg-name="Cirque du Soleil" tvg-logo="https://provider-static.plex.tv/3/epg/channels/logos/gracenote/38945a2afcb8ce8ae6b5fe557e908b2f.png" group-title="Познавательные", Cirque du Soleil
+#EXTGRP:Познавательные
+https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-67642f277c5e3b38af72dcdb.m3u8
 #EXTINF:-1 tvg-id="continent-e" tvg-name="Continent E" tvg-logo="https://epgx.club/picons/continent-e.png" group-title="Познавательные", Continent E
 #EXTGRP:Познавательные
 http://95.67.12.82:9083
