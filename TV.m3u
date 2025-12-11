@@ -2187,6 +2187,10 @@ http://iptv.prosto.tv:7000/ch63/video.m3u8
 #EXTINF:-1 tvg-id="flixsnip" tvg-name="Flix Snip" tvg-logo="http://epg.one/img/774.png" group-title="Кино", Flix Snip
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000004466/tve/index.m3u8
+#EXTINF:-1 tvg-name="FMC" tvg-logo="https://avatars.mds.yandex.net/i?id=78a4542efb1eed8d48f9048da1e68c88_sr-12730491-images-thumbs&n=13" group-title="Кино", FMC
+#EXTGRP:Кино
+#EXTVLCOPT:http-user-agent=SmartTV
+http://hls.goodgame.ru:8080/hls/187741.m3u8
 #EXTINF:-1 tvg-id="fox" tvg-name="FX" tvg-logo="http://epg.one/img/1031.png" group-title="Кино", FX
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000004472/tve/index.m3u8
