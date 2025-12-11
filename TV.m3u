@@ -2218,6 +2218,10 @@ https://dvr3.vokkavideo.xyz/HTVHD/index.m3u8
 #EXTINF:-1 tvg-id="kino-24" tvg-name="Kino 24" tvg-logo="https://epgx.club/picons/kino-24.png" group-title="Кино", Kino 24
 #EXTGRP:Кино
 http://sirius.greenhosting.ru/Kino24Ru/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="KinoMix" tvg-logo="https://avatars.mds.yandex.net/i?id=af393372701abefe85a4a4c01d825d84800faa88-10611483-images-thumbs&n=13" group-title="Кино", KinoMix
+#EXTGRP:Кино
+#EXTVLCOPT:http-user-agent=SmartTV
+http://hls.goodgame.ru:8080/hls/216612.m3u8
 #EXTINF:-1 tvg-name="LAV-KINO" tvg-logo="https://avatars.mds.yandex.net/i?id=d345b761b1d177dd5e38d776f2ad20a51ab97ebf-5668792-images-thumbs&n=13" group-title="Кино", LAV-KINO
 #EXTGRP:Кино
 https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
