@@ -1910,6 +1910,9 @@ http://2.57.217.85:8000/play/a05q/index.m3u8
 #EXTINF:-1 tvg-name="IPTVPLAY МультСказки" tvg-logo="https://i122.fastpic.org/big/2024/0112/65/b20ebb09af08ef55dbdffa919a047c65.png" group-title="Детские", IPTVPLAY МультСказки
 #EXTGRP:Детские
 http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 tvg-id="magic-family" tvg-name="Magic Family" tvg-logo="http://epg.one/img/6337.png" group-title="Детские", Magic Family HD
+#EXTGRP:Детские
+http://cdn.iptvcinema.ru/magic_family/index.m3u8
 #EXTINF:-1 tvg-id="nick-jr" tvg-name="Nick Jr" tvg-logo="http://epg.one/img/917.png" group-title="Детские", Nick Jr
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000000449/tve/index.m3u8
@@ -2525,6 +2528,15 @@ http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1 tvg-id="minimax-sport" tvg-name="MM Спорт HD" tvg-logo="http://epg.one/img/5167.png" group-title="Кинозал", MM Спорт HD
 #EXTGRP:Кинозал
 http://157.90.0.245:8070/minimax-sport/index.m3u8
+#EXTINF:-1 tvg-name="MYTV" tvg-logo="http://epg.one/img/104.png" group-title="Кинозал", MYTV
+#EXTGRP:Кинозал
+http://hls127.freeott.top:8080/MyTV/mono.m3u8
+#EXTINF:-1 tvg-name="MYTV 2" tvg-logo="http://epg.one/img/105.png" group-title="Кинозал", MYTV 2
+#EXTGRP:Кинозал
+http://hls127.freeott.top:8080/MyTV2/mono.m3u8
+#EXTINF:-1 tvg-name="MYTV 3" tvg-logo="http://epg.one/img/106.png" group-title="Кинозал", MYTV 3
+#EXTGRP:Кинозал
+http://hls127.freeott.top:8080/MyTV3/mono.m3u8
 
 
 
