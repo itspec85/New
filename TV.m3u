@@ -1886,9 +1886,15 @@ https://ucdn.beetv.kz/bpk-tv/000000015/tve/index.m3u8
 #EXTINF:-1 tvg-id="boomerang" tvg-name="Cartoonito" tvg-logo="http://epg.one/img/929.png" group-title="Детские", Cartoonito
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000000160/tve/index.m3u8
+#EXTINF:-1 tvg-id="clarity4k-multimir" tvg-name="Clarity4K Мультимир" tvg-logo="https://epgx.club/picons/clarity4k-multimir.png" group-title="Детские", Clarity4K Мультимир
+#EXTGRP:Детские
+http://hls127.freeott.top:8080/Clarity4K_Multmir/video.m3u8
 #EXTINF:-1 tvg-id="clarity4k-anime" tvg-name="Clarity4K Anime" tvg-logo="https://epgx.club/picons/clarity4k-anime.png" group-title="Детские", Clarity4K Anime
 #EXTGRP:Детские
 http://hls127.freeott.top:8080/Clarity4K_Anime/mono.m3u8
+#EXTINF:-1 tvg-id="clarity4k-waltdisney" tvg-name="Clarity4K Walt Disney" tvg-logo="https://epgx.club/picons/clarity4k-waltdisney.png" group-title="Детские", Clarity4K Walt Disney
+#EXTGRP:Детские
+http://hls127.freeott.top:8080/Clarity4K_Walt_Disney/video.m3u8
 #EXTINF:-1 tvg-id="da-vinci" tvg-name="Da Vinci HD" tvg-logo="http://epg.one/img/8908.png" group-title="Детские", Da Vinci HD
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000000333/tve/index.m3u8
@@ -2155,6 +2161,10 @@ http://195.9.195.3:8080/hls/204708.m3u8
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=SmartTV
 http://195.9.195.3:8080/hls/204717.m3u8
+#EXTINF:-1 tvg-name="Akudji" tvg-logo="https://avatars.mds.yandex.net/i?id=0a7f5757e7802052bdd92144a32f512fd77f6612-5157058-images-thumbs&n=13" group-title="Кино", Akudji
+#EXTGRP:Кино
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/5346.m3u8
 #EXTINF:-1 tvg-name="Alpha Cinema" tvg-logo="https://avatars.mds.yandex.net/i?id=5881e5d66b4fd37d34441f48c9160147-4743742-images-thumbs&n=13" group-title="Кино", Alpha Cinema
 #EXTGRP:Кино
 http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
@@ -2431,12 +2441,30 @@ http://hls127.freeott.top:8080/BCUKinoratingHD/mono.m3u8
 #EXTINF:-1 tvg-id="bcu-stars" tvg-name="BCU Stars HD" tvg-logo="http://epg.one/img/4765.png" group-title="Кинозал", BCU Stars HD
 #EXTGRP:Кинозал
 http://hls127.freeott.top:8080/BCUStarsHD/mono.m3u8
-#EXTINF:-1 tvg-id="clarity4k-uzasy" tvg-name="Clarity4K Ужасы" tvg-logo="https://epgx.club/picons/clarity4k-uzasy.png" group-title="Кинозал", Clarity4K Ужасы
+#EXTINF:-1 tvg-id="clarity4k-boevik" tvg-name="Clarity4K Боевик" tvg-logo="https://epgx.club/picons/clarity4k-boevik.png" group-title="Кинозал", Clarity4K Боевик
+#EXTGRP:Кинозал
+http://hls127.freeott.top:8080/Clarity4K_Boevik/video.m3u8
+#EXTINF:-1 tvg-id="clarity4k-dramy" tvg-name="Clarity4K Драмы" tvg-logo="https://epgx.club/picons/clarity4k-dramy.png" group-title="Кинозал", Clarity4K Драмы
+#EXTGRP:Кинозал
+http://hls127.freeott.top:8080/Clarity4K_Dramma/video.m3u8
+#EXTINF:-1 tvg-id="clarity4k-kinofranshizy" tvg-name="Clarity4K КиноФраншизы" tvg-logo="https://epgx.club/picons/clarity4k-kinofranshizy.png" group-title="Кинозал", Clarity4K КиноФраншизы
+#EXTGRP:Кинозал
+http://hls127.freeott.top:8080/Clarity4K_Kinofranshiza/video.m3u8
+#EXTINF:-1 tvg-id="clarity4k-ruserialy" tvg-name="Clarity4K Русские сериалы" tvg-logo="https://epgx.club/picons/clarity4k-ruserialy.png" group-title="Кинозал", Clarity4K Русские сериалы
+#EXTGRP:Кинозал
+http://hls127.freeott.top:8080/Clarity4K_Serial/video.m3u8
+#EXTINF:-1 tvg-id="clarity4k-semejny" tvg-name="Clarity4K Русские сериалы" tvg-logo="https://epgx.club/picons/clarity4k-semejny.png" group-title="Кинозал", Clarity4K Русские сериалы
+#EXTGRP:Кинозал
+http://hls127.freeott.top:8080/Clarity4K_Semeyniy/video.m3u8
+#EXTINF:-1 tvg-id="clarity4k-uzasy" tvg-name="Clarity4K Семейный" tvg-logo="https://epgx.club/picons/clarity4k-uzasy.png" group-title="Кинозал", Clarity4K Семейный
 #EXTGRP:Кинозал
 http://hls127.freeott.top:8080/Clarity4K_Uzhasi/mono.m3u8
 #EXTINF:-1 tvg-id="clarity4k-fantastik" tvg-name="Clarity4K Фантастика" tvg-logo="https://epgx.club/picons/clarity4k-fantastik.png" group-title="Кинозал", Clarity4K Фантастика
 #EXTGRP:Кинозал
 http://hls127.freeott.top:8080/Clarity4K_Fantastic/mono.m3u8
+#EXTINF:-1 tvg-id="clarity4k-fentezy" tvg-name="Clarity4K Фэнтези" tvg-logo="https://epgx.club/picons/clarity4k-fentezy.png" group-title="Кинозал", Clarity4K Фэнтези
+#EXTGRP:Кинозал
+http://hls127.freeott.top:8080/Clarity4K_Fentazi/video.m3u8
 #EXTINF:-1 tvg-id="clarity4k-asia" tvg-name="Clarity4K Asia" tvg-logo="https://epgx.club/picons/clarity4k-asia.png" group-title="Кинозал", Clarity4K Asia
 #EXTGRP:Кинозал
 http://hls127.freeott.top:8080/Clarity4K_Asia/mono.m3u8
