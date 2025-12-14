@@ -2484,6 +2484,9 @@ http://57.129.52.16/8985/index.m3u8?token=iptvin.ru&21yo=0
 #EXTINF:-1 tvg-id="box-serial" tvg-name="BOX Serial HD" tvg-logo="http://epg.one/img/6703.png" group-title="Кинозал", BOX Serial HD
 #EXTGRP:Кинозал
 http://57.129.52.16/8988/index.m3u8?token=iptvin.ru&21yo=0
+#EXTINF:-1 tvg-id="box-spy" tvg-name="BOX Spy HD" tvg-logo="http://epg.one/img/6705.png" group-title="Кинозал", BOX Spy HD
+#EXTGRP:Кинозал
+http://57.129.52.16/8354/index.m3u8?token=iptvin.ru&21yo=0
 #EXTINF:-1 tvg-id="box-zombie" tvg-name="BOX Zombie HD" tvg-logo="http://epg.one/img/6833.png" group-title="Кинозал", BOX Zombie HD
 #EXTGRP:Кинозал
 http://57.129.52.16/8418/index.m3u8?token=iptvin.ru&21yo=0
