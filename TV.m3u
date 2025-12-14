@@ -2487,18 +2487,18 @@ http://57.129.52.16/8988/index.m3u8?token=iptvin.ru&21yo=0
 #EXTINF:-1 tvg-id="box-zombie" tvg-name="BOX Zombie HD" tvg-logo="http://epg.one/img/6833.png" group-title="Кинозал", BOX Zombie HD
 #EXTGRP:Кинозал
 http://57.129.52.16/8418/index.m3u8?token=iptvin.ru&21yo=0
-#EXTINF:-1 tvg-id="cineman-miniseries" tvg-name="CineMan MiniSerie" tvg-logo="http://epg.one/img/6833.png" group-title="Кинозал", CineMan MiniSerie
-#EXTGRP:Кинозал
-http://57.129.52.16/8961/index.m3u8?token=iptvin.ru&21yo=0
-#EXTINF:-1 tvg-id="cineman-thriller" tvg-name="CineMan Thriller" tvg-logo="http://epg.one/img/6833.png" group-title="Кинозал", CineMan Thriller
-#EXTGRP:Кинозал
-http://57.129.52.16/8954/index.m3u8?token=iptvin.ru&21yo=0
-#EXTINF:-1 tvg-id="cineman-vhs" tvg-name="CineMan VHS" tvg-logo="http://epg.one/img/6833.png" group-title="Кинозал", CineMan VHS
-#EXTGRP:Кинозал
-http://57.129.52.16/8807/index.m3u8?token=iptvin.ru&21yo=0
-#EXTINF:-1 tvg-id="cineman-rukino" tvg-name="CineMan РуКино" tvg-logo="http://epg.one/img/6833.png" group-title="Кинозал", CineMan РуКино
+#EXTINF:-1 tvg-id="cineman-rukino" tvg-name="CineMan РуКино" tvg-logo="http://epg.one/img/4691.png" group-title="Кинозал", CineMan РуКино
 #EXTGRP:Кинозал
 http://57.129.52.16/8871/index.m3u8?token=iptvin.ru&21yo=0
+#EXTINF:-1 tvg-id="cineman-miniseries" tvg-name="CineMan MiniSeries" tvg-logo="http://epg.one/img/7150.png" group-title="Кинозал", CineMan MiniSeries
+#EXTGRP:Кинозал
+http://57.129.52.16/8961/index.m3u8?token=iptvin.ru&21yo=0
+#EXTINF:-1 tvg-id="cineman-thriller" tvg-name="CineMan Thriller" tvg-logo="http://epg.one/img/4685.png" group-title="Кинозал", CineMan Thriller
+#EXTGRP:Кинозал
+http://57.129.52.16/8954/index.m3u8?token=iptvin.ru&21yo=0
+#EXTINF:-1 tvg-id="cineman-vhs" tvg-name="CineMan VHS" tvg-logo="http://epg.one/img/4690.png" group-title="Кинозал", CineMan VHS
+#EXTGRP:Кинозал
+http://57.129.52.16/8807/index.m3u8?token=iptvin.ru&21yo=0
 #EXTINF:-1 tvg-id="clarity4k-boevik" tvg-name="Clarity4K Боевик" tvg-logo="https://epgx.club/picons/clarity4k-boevik.png" group-title="Кинозал", Clarity4K Боевик
 #EXTGRP:Кинозал
 http://hls127.freeott.top:8080/Clarity4K_Boevik/video.m3u8
