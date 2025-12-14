@@ -1895,6 +1895,9 @@ http://hls127.freeott.top:8080/Clarity4K_Anime/mono.m3u8
 #EXTINF:-1 tvg-id="clarity4k-waltdisney" tvg-name="Clarity4K Walt Disney" tvg-logo="https://epgx.club/picons/clarity4k-waltdisney.png" group-title="Детские", Clarity4K Walt Disney
 #EXTGRP:Детские
 http://hls127.freeott.top:8080/Clarity4K_Walt_Disney/video.m3u8
+#EXTINF:-1 tvg-name="CPS Cartoon" tvg-logo="https://avatars.mds.yandex.net/i?id=6bfe78bbdc1e3f9ba0a052789275c0615356ff30-10931123-images-thumbs&n=13" group-title="Детские", CPS Cartoon
+#EXTGRP:Детские
+http://hls127.freeott.top:8080/CPS_Cartoon/video.m3u8
 #EXTINF:-1 tvg-id="da-vinci" tvg-name="Da Vinci HD" tvg-logo="http://epg.one/img/8908.png" group-title="Детские", Da Vinci HD
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000000333/tve/index.m3u8
@@ -2474,6 +2477,30 @@ http://hls127.freeott.top:8080/Clarity4K_Gamefilm/mono.m3u8
 #EXTINF:-1 tvg-id="clarity4k-netflix" tvg-name="Clarity4K Netflix" tvg-logo="https://epgx.club/picons/clarity4k-netflix.png" group-title="Кинозал", Clarity4K Netflix
 #EXTGRP:Кинозал
 http://hls127.freeott.top:8080/Clarity4K_Netflix/mono.m3u8
+#EXTINF:-1 tvg-name="CPS Action" tvg-logo="https://avatars.mds.yandex.net/i?id=6bfe78bbdc1e3f9ba0a052789275c0615356ff30-10931123-images-thumbs&n=13" group-title="Кинозал", CPS Action
+#EXTGRP:Кинозал
+http://hls127.freeott.top:8080/CPS_Action/video.m3u8
+#EXTINF:-1 tvg-name="CPS Comedy" tvg-logo="https://avatars.mds.yandex.net/i?id=6bfe78bbdc1e3f9ba0a052789275c0615356ff30-10931123-images-thumbs&n=13" group-title="Кинозал", CPS Comedy
+#EXTGRP:Кинозал
+http://hls127.freeott.top:8080/CPS_Comedy/video.m3u8
+#EXTINF:-1 tvg-name="CPS Drama" tvg-logo="https://avatars.mds.yandex.net/i?id=6bfe78bbdc1e3f9ba0a052789275c0615356ff30-10931123-images-thumbs&n=13" group-title="Кинозал", CPS Drama
+#EXTGRP:Кинозал
+http://hls127.freeott.top:8080/CPS_Drama/video.m3u8
+#EXTINF:-1 tvg-name="CPS Fiction" tvg-logo="https://avatars.mds.yandex.net/i?id=6bfe78bbdc1e3f9ba0a052789275c0615356ff30-10931123-images-thumbs&n=13" group-title="Кинозал", CPS Fiction
+#EXTGRP:Кинозал
+http://hls127.freeott.top:8080/CPS_Fiction/video.m3u8
+#EXTINF:-1 tvg-name="CPS Fresh" tvg-logo="https://avatars.mds.yandex.net/i?id=6bfe78bbdc1e3f9ba0a052789275c0615356ff30-10931123-images-thumbs&n=13" group-title="Кинозал", CPS Fresh
+#EXTGRP:Кинозал
+http://hls127.freeott.top:8080/CPS_Fresh/video.m3u8
+#EXTINF:-1 tvg-name="CPS Investigation" tvg-logo="https://avatars.mds.yandex.net/i?id=6bfe78bbdc1e3f9ba0a052789275c0615356ff30-10931123-images-thumbs&n=13" group-title="Кинозал", CPS Investigation
+#EXTGRP:Кинозал
+http://hls127.freeott.top:8080/CPS_Investigation/video.m3u8
+#EXTINF:-1 tvg-name="CPS Jackie Chan" tvg-logo="https://avatars.mds.yandex.net/i?id=6bfe78bbdc1e3f9ba0a052789275c0615356ff30-10931123-images-thumbs&n=13" group-title="Кинозал", CPS Jackie Chan
+#EXTGRP:Кинозал
+http://hls127.freeott.top:8080/CPS_Jackie_Chan/video.m3u8
+#EXTINF:-1 tvg-name="CPS Mix" tvg-logo="https://avatars.mds.yandex.net/i?id=6bfe78bbdc1e3f9ba0a052789275c0615356ff30-10931123-images-thumbs&n=13" group-title="Кинозал", CPS Mix
+#EXTGRP:Кинозал
+http://hls127.freeott.top:8080/CPS_Mix/video.m3u8
 #EXTINF:-1 tvg-name="IPTVPLAY Ведьмак" tvg-logo="https://i123.fastpic.org/big/2024/0826/01/adbb4692281cf3cc6540f47f4460c701.png" group-title="Кинозал", IPTVPLAY Ведьмак
 #EXTGRP:Кинозал
 http://5.188.158.65:4040/IPTVPLAYVEDMAK.tv/video.m3u8?token=lqRGka5-YwwqF0
