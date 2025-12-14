@@ -1834,6 +1834,10 @@ http://sirius.greenhosting.ru/MamontRu/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="mult" tvg-name="Мульт" tvg-logo="http://epg.one/img/1332.png" group-title="Детские", Мульт
 #EXTGRP:Детские
 http://stv.mediacdn.ru/live/cdn/mult/playlist.m3u8
+#EXTINF:-1 tvg-name="Мультики и Сказки" tvg-logo="https://avatars.mds.yandex.net/i?id=e223e627b529f8a741564b51f48e190ba41a02f3-5192525-images-thumbs&n=13" group-title="Детские", Мультики и Сказки
+#EXTGRP:Детские
+#EXTVLCOPT:http-user-agent=SmartTV
+http://hls.goodgame.ru:8080/hls/198446.m3u8
 #EXTINF:-1 tvg-id="multimania" tvg-name="Мультиландия" tvg-logo="http://epg.one/img/2757.png" group-title="Детские", Мультиландия
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000000203/tve/index.m3u8
@@ -1843,6 +1847,10 @@ http://stv.mediacdn.ru/live/cdn/multimuzika/playlist.m3u8
 #EXTINF:-1 tvg-id="o_" tvg-name="О!" tvg-logo="http://epg.one/img/1757.png" group-title="Детские", О!
 #EXTGRP:Детские
 http://95.66.188.74/O/mono.m3u8
+#EXTINF:-1 tvg-name="Ретро Мульт" tvg-logo="https://avatars.mds.yandex.net/i?id=739ddeb5d8e8e2dd07982812841dd39169b88ebe-5878952-images-thumbs&n=13" group-title="Детские", Ретро Мульт
+#EXTGRP:Детские
+#EXTVLCOPT:http-user-agent=SmartTV
+http://hls.goodgame.ru:8080/hls/213086.m3u8
 #EXTINF:-1 tvg-id="ryzhy" tvg-name="Рыжий" tvg-logo="http://epg.one/img/2437.png" group-title="Детские", Рыжий
 #EXTGRP:Детские
 http://95.66.188.74/RYZHIY/mono.m3u8
@@ -2051,6 +2059,9 @@ https://ucdn.beetv.kz/bpk-tv/000008488/tve/index.m3u8
 #EXTINF:-1 tvg-id="mosfilm" tvg-name="Мосфильм. Золотая коллекция" tvg-logo="http://epg.one/img/3357.png" group-title="Кино", Мосфильм. Золотая коллекция
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000006365/tve/index.m3u8
+#EXTINF:-1 tvg-id="muvitv" tvg-name="Муви ТВ" tvg-logo="https://epgx.club/picons/muvitv.png" group-title="Кино", Муви ТВ
+#EXTGRP:Кино
+http://cdn.voka.tv/live/5007-req_5k_v5.m3u8
 #EXTINF:-1 tvg-id="muzhskoe-kino" tvg-name="Мужское кино" tvg-logo="http://epg.one/img/1584.png" group-title="Кино", МУЖСКОЕ КИНО
 #EXTGRP:Кино
 http://157.90.0.245:8070/muzhskoe_kino/index.m3u8
@@ -2384,6 +2395,14 @@ https://ucdn.beetv.kz/bpk-tv/000000868/tve/index.m3u8
 #EXTINF:-1 tvg-id="vip-serial" tvg-name="viju+ Serial HD" tvg-logo="http://epg.one/img/2838.png" group-title="Кино", Viju+ Serial HD
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000004375/tve/index.m3u8
+#EXTINF:-1 tvg-name="Zubrilom Film 2" tvg-logo="https://avatars.mds.yandex.net/i?id=23f461832987c07f4c6e6125d14e0521ba0560ff-11917684-images-thumbs&n=13" group-title="Кино", Zubrilom Film 2
+#EXTGRP:Кино
+#EXTVLCOPT:http-user-agent=SmartTV
+http://hls.goodgame.ru:8080/hls/218251.m3u8
+#EXTINF:-1 tvg-name="Zubrilom Franchise" tvg-logo="https://avatars.mds.yandex.net/i?id=23f461832987c07f4c6e6125d14e0521ba0560ff-11917684-images-thumbs&n=13" group-title="Кино", Zubrilom Franchise
+#EXTGRP:Кино
+#EXTVLCOPT:http-user-agent=SmartTV
+http://hls.goodgame.ru:8080/hls/218193.m3u8
 
 
 
