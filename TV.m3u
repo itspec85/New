@@ -1924,6 +1924,9 @@ http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1 tvg-id="magic-family" tvg-name="Magic Family" tvg-logo="http://epg.one/img/6337.png" group-title="Детские", Magic Family HD
 #EXTGRP:Детские
 http://cdn.iptvcinema.ru/magic_family/index.m3u8
+#EXTINF:-1 tvg-id="minimax-honey" tvg-name="MM Honey HD" tvg-logo="http://epg.one/img/5139.png" group-title="Детские", MM Honey HD
+#EXTGRP:Детские
+http://57.129.52.16/8895/index.m3u8?token=iptvin.ru&21yo=0
 #EXTINF:-1 tvg-id="nick-jr" tvg-name="Nick Jr" tvg-logo="http://epg.one/img/917.png" group-title="Детские", Nick Jr
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000000449/tve/index.m3u8
@@ -2580,9 +2583,27 @@ http://5.188.158.65:4040/IPTVPLAYUZHASTIK.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1 tvg-name="IPTVPLAY Фантастика" tvg-logo="https://i.ibb.co/pbxx3Sd/Fantastika.png" group-title="Кинозал", IPTVPLAY Фантастика
 #EXTGRP:Кинозал
 http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 tvg-id="minimax-drama" tvg-name="MM Драма HD" tvg-logo="http://epg.one/img/6065.png" group-title="Кинозал", MM Драма HD
+#EXTGRP:Кинозал
+http://57.129.52.16/8634/index.m3u8?token=iptvin.ru&21yo=0
 #EXTINF:-1 tvg-id="minimax-sport" tvg-name="MM Спорт HD" tvg-logo="http://epg.one/img/5167.png" group-title="Кинозал", MM Спорт HD
 #EXTGRP:Кинозал
 http://157.90.0.245:8070/minimax-sport/index.m3u8
+#EXTINF:-1 tvg-id="minimax-celebrity" tvg-name="MM Celebrity HD" tvg-logo="http://epg.one/img/6063.png" group-title="Кинозал", MM Celebrity HD
+#EXTGRP:Кинозал
+http://57.129.52.16/8991/index.m3u8?token=iptvin.ru&21yo=0
+#EXTINF:-1 tvg-id="minimax-newfilm1" tvg-name="MM NewFilm 1 HD" tvg-logo="http://epg.one/img/5124.png" group-title="Кинозал", MM NewFilm 1 HD
+#EXTGRP:Кинозал
+http://57.129.52.16/8741/index.m3u8?token=iptvin.ru&21yo=0
+#EXTINF:-1 tvg-id="minimax-newfilm2" tvg-name="MM NewFilm 2 HD" tvg-logo="http://epg.one/img/5125.png" group-title="Кинозал", MM NewFilm 2 HD
+#EXTGRP:Кинозал
+http://57.129.52.16/8742/index.m3u8?token=iptvin.ru&21yo=0
+#EXTINF:-1 tvg-id="minimax-newfilm3" tvg-name="MM NewFilm 3 HD" tvg-logo="http://epg.one/img/5126.png" group-title="Кинозал", MM NewFilm 3 HD
+#EXTGRP:Кинозал
+http://57.129.52.16/8743/index.m3u8?token=iptvin.ru&21yo=0
+#EXTINF:-1 tvg-id="minimax-newfilmru" tvg-name="MM NewFilm RU HD" tvg-logo="http://epg.one/img/5127.png" group-title="Кинозал", MM NewFilm RU HD
+#EXTGRP:Кинозал
+http://57.129.52.16/8706/index.m3u8?token=iptvin.ru&21yo=0
 #EXTINF:-1 tvg-name="MYTV" tvg-logo="http://epg.one/img/104.png" group-title="Кинозал", MYTV
 #EXTGRP:Кинозал
 http://hls127.freeott.top:8080/MyTV/mono.m3u8
