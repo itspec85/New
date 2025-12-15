@@ -2583,6 +2583,33 @@ http://5.188.158.65:4040/IPTVPLAYUZHASTIK.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1 tvg-name="IPTVPLAY Фантастика" tvg-logo="https://i.ibb.co/pbxx3Sd/Fantastika.png" group-title="Кинозал", IPTVPLAY Фантастика
 #EXTGRP:Кинозал
 http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 tvg-id="kernel-vremia" tvg-name="Kernel TV Время" tvg-logo="https://epgx.club/picons/kernel-vremia.png" group-title="Кинозал", Kernel TV Время
+#EXTGRP:Кинозал
+http://57.129.52.16/9054/index.m3u8?token=iptvin.ru&21yo=0
+#EXTINF:-1 tvg-id="kernel-geroj" tvg-name="Kernel TV Герой" tvg-logo="https://epgx.club/picons/kernel-geroj.png" group-title="Кинозал", Kernel TV Герой
+#EXTGRP:Кинозал
+http://57.129.52.16/9055/index.m3u8?token=iptvin.ru&21yo=0
+#EXTINF:-1 tvg-id="kernel-doktor" tvg-name="Kernel TV Доктор" tvg-logo="https://epgx.club/picons/kernel-doktor.png" group-title="Кинозал", Kernel TV Доктор
+#EXTGRP:Кинозал
+http://57.129.52.16/9058/index.m3u8?token=iptvin.ru&21yo=0
+#EXTINF:-1 tvg-id="kernel-interny" tvg-name="Kernel TV Интерны" tvg-logo="https://epgx.club/picons/kernel-interny.png" group-title="Кинозал", Kernel TV Интерны
+#EXTGRP:Кинозал
+http://57.129.52.16/9061/index.m3u8?token=iptvin.ru&21yo=0
+#EXTINF:-1 tvg-id="kernel-komedia" tvg-name="Kernel TV Комедия" tvg-logo="https://epgx.club/picons/kernel-komedia.png" group-title="Кинозал", Kernel TV Комедия
+#EXTGRP:Кинозал
+http://57.129.52.16/9063/index.m3u8?token=iptvin.ru&21yo=0
+#EXTINF:-1 tvg-id="kernel-kosmos" tvg-name="Kernel TV Космос" tvg-logo="https://epgx.club/picons/kernel-kosmos.png" group-title="Кинозал", Kernel TV Космос
+#EXTGRP:Кинозал
+http://57.129.52.16/9064/index.m3u8?token=iptvin.ru&21yo=0
+#EXTINF:-1 tvg-id="kernel-marvelser" tvg-name="Kernel TV Мервел сериалы" tvg-logo="https://epgx.club/picons/kernel-marvelser.png" group-title="Кинозал", Kernel TV Мервел сериалы
+#EXTGRP:Кинозал
+http://57.129.52.16/9073/index.m3u8?token=iptvin.ru&21yo=0
+#EXTINF:-1 tvg-id="kernel-newmovies" tvg-name="Kernel TV Новинки" tvg-logo="https://epgx.club/picons/kernel-newmovies.png" group-title="Кинозал", Kernel TV Новинки
+#EXTGRP:Кинозал
+http://57.129.52.16/9077/index.m3u8?token=iptvin.ru&21yo=0
+#EXTINF:-1 tvg-id="kernel-svaty" tvg-name="Kernel TV Сваты" tvg-logo="https://epgx.club/picons/kernel-svaty.png" group-title="Кинозал", Kernel TV Сваты
+#EXTGRP:Кинозал
+http://57.129.52.16/9080/index.m3u8?token=iptvin.ru&21yo=0
 #EXTINF:-1 tvg-id="minimax-drama" tvg-name="MM Драма HD" tvg-logo="http://epg.one/img/6065.png" group-title="Кинозал", MM Драма HD
 #EXTGRP:Кинозал
 http://57.129.52.16/8634/index.m3u8?token=iptvin.ru&21yo=0
