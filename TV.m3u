@@ -1815,7 +1815,8 @@ http://autopilot.catcast.tv/content/38720/index.m3u8
 https://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ginger-hd" tvg-name="Капитан Фантастика" tvg-logo="http://epg.one/img/2438.png" group-title="Детские", Капитан Фантастика
 #EXTGRP:Детские
-https://stream11.itv.uz/1406/index.m3u8
+#EXTVLCOPT:http-user-agent=SmartTV
+https://mhd128.iptv2022.com/p/sYjOQoPKvvRHLCV30MYWJw,1765955002/streaming/gingerhd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="karusel" tvg-name="Карусель" tvg-logo="http://epg.one/img/740.png" group-title="Детские", Карусель
 #EXTGRP:Детские
 http://95.47.156.60:8000/play/8/index.m3u8
@@ -1863,7 +1864,7 @@ https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/play
 https://mhd128.iptv2022.com/p/-HKyaHeavlIs-_rxbeZZpQ,1765918813/streaming/rusmult/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="solnce" tvg-name="Солнце" tvg-logo="http://epg.one/img/7669.png" group-title="Детские", Солнце
 #EXTGRP:Детские
-http://194.143.148.28:8080/Disney/index.m3u8
+http://95.66.188.74/Solnce/index.m3u8
 #EXTINF:-1 tvg-name="СоюзМультфильм" tvg-logo="https://i.postimg.cc/RCgvJhdQ/image.png" group-title="Детские", СоюзМультфильм
 #EXTGRP:Детские
 http://194.26.229.213/souzmultfilm/index.m3u8
@@ -1941,7 +1942,7 @@ https://ucdn.beetv.kz/bpk-tv/000004365/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000008864/tve/index.m3u8
 #EXTINF:-1 tvg-id="tiji" tvg-name="Tiji TV" tvg-logo="http://epg.one/img/555.png" group-title="Детские", Tiji TV
 #EXTGRP:Детские
-http://193.27.209.122/tiji/index.m3u8
+https://ucdn.beetv.kz/bpk-tv/000000174/tve/index.m3u8
 
 
 
