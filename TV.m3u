@@ -1369,7 +1369,7 @@ http://185.46.16.239:8000/Drayv
 https://ucdn.beetv.kz/bpk-tv/000000588/tve/index.m3u8
 #EXTINF:-1 tvg-id="zhivi" tvg-name="ЖИВИ!" tvg-logo="http://epg.one/img/113.png" group-title="Познавательные", ЖИВИ!
 #EXTGRP:Познавательные
-https://stream11.itv.uz/1419/index.m3u8
+http://158.101.222.193:88/georgia_play.php?id=jivi
 #EXTINF:-1 tvg-id="zagorodnaya-zhizn" tvg-name="Загородная Жизнь" tvg-logo="http://epg.one/img/2298.png" group-title="Познавательные", Загородная Жизнь
 #EXTGRP:Познавательные
 http://185.57.68.33/40/mpegts
