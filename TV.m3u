@@ -1354,7 +1354,7 @@ https://mhd128.iptv2022.com/p/9SiZtm9yRDR2gfzjFEvLDQ,1765918814/streaming/ribalk
 https://vod.splay.uz/live_splay/original/Dikiy/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="dozhd" tvg-name="Дождь" tvg-logo="http://epg.one/img/2399.png" group-title="Познавательные", Дождь
 #EXTGRP:Познавательные
-https://m3u8.ott.blue/watch/7319/video.m3u8?geo=auto&token=94450098895765784220366841698509
+http://portal.ott.pink/C5UK_DozhdSD/mpegts?token=9ED1CC22511FE66191AD465072EEE8DF
 #EXTINF:-1 tvg-id="doktor" tvg-name="Доктор" tvg-logo="http://epg.one/img/16.png" group-title="Познавательные", Доктор
 #EXTGRP:Познавательные
 http://45.11.139.43:8555/doctor/index.m3u8
