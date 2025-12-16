@@ -2720,22 +2720,16 @@ http://hls127.freeott.top:8080/Football/mono.m3u8
 https://autopilot.catcast.tv/content/37909/index.m3u8
 #EXTINF:-1 tvg-name="beIN Sports 1 HD TR" tvg-logo="http://epg.one/img/5092.png" group-title="Спорт", beIN Sports 1 HD TR
 #EXTGRP:Спорт
-http://nxsmrt4.xyz:80/live/ismailbekci1/3X6DMdu9GR/65245.ts
+http://x3m.li/live/buk8YDg1/kXBoUb25/19118.m3u8
 #EXTINF:-1 tvg-name="beIN Sports 2 HD TR" tvg-logo="http://epg.one/img/3874.png" group-title="Спорт", beIN Sports 2 HD TR
 #EXTGRP:Спорт
-http://nxsmrt4.xyz:80/live/ismailbekci1/3X6DMdu9GR/181791.ts
-#EXTINF:-1 tvg-name="beIN Sports 3 HD TR" tvg-logo="http://epg.one/img/3876.png" group-title="Спорт", beIN Sports 3 HD TR
-#EXTGRP:Спорт
-http://nxsmrt4.xyz:80/live/ismailbekci1/3X6DMdu9GR/181792.ts
-#EXTINF:-1 tvg-name="beIN Sports 4 HD TR" tvg-logo="http://epg.one/img/3878.png" group-title="Спорт", beIN Sports 4 HD TR
-#EXTGRP:Спорт
-http://nxsmrt4.xyz:80/live/ismailbekci1/3X6DMdu9GR/181793.ts
+http://x3m.li/live/buk8YDg1/kXBoUb25/19119.m3u8
 #EXTINF:-1 tvg-name="Billiard TV" tvg-logo="https://avatars.mds.yandex.net/i?id=b42dfcc65e0421933184166140afd83040f5ba1b-5369205-images-thumbs&n=13" group-title="Спорт", Billiard TV
 #EXTGRP:Спорт
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65df0cff66eec8000897b3a4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1cc775-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=36e4c683-680e-486f-91f0-ce1f0f88c4b6
 #EXTINF:-1 tvg-id="cbc-sport" tvg-name="CBC Sport" tvg-logo="http://epg.one/img/2636.png" group-title="Спорт", CBC Sport AZ
 #EXTGRP:Спорт
-http://iptvde.de:8080/AdnanCetinn/ka5mphJ/109640
+http://x3m.li/live/buk8YDg1/kXBoUb25/19740.m3u8
 #EXTINF:-1 tvg-id="cbs-sports-network-us" tvg-name="CBS Sports Network [US]" tvg-logo="http://epg.one/img/4560.png" group-title="Спорт", CBS Sports Network HD US
 #EXTGRP:Спорт
 https://fl1.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
@@ -2792,7 +2786,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e
 http://cdn.voka.tv/live/2100-req_5k_v5.m3u8
 #EXTINF:-1 tvg-id="nba-tv" tvg-name="NBA TV HD US" tvg-logo="http://epg.one/img/4587.png" group-title="Спорт", NBA TV HD US
 #EXTGRP:Спорт
-http://nxsmrt4.xyz:80/live/ismailbekci1/3X6DMdu9GR/865608.ts
+http://x3m.li/live/buk8YDg1/kXBoUb25/16337.m3u8
 #EXTINF:-1 tvg-id="nfl-network" tvg-name="NFL Network HD CA" tvg-logo="http://epg.one/img/3568.png" group-title="Спорт", NFL Network HD CA
 #EXTGRP:Спорт
 https://fl1.moveonjoy.com/NFL_NETWORK/index.m3u8
@@ -2858,7 +2852,7 @@ https://7pal.short.gy/ssportplus
 http://kstv.us:8080/c2Q2HDqQfM/111770/47871
 #EXTINF:-1 tvg-id="sky-sports-tennis" tvg-name="Sky Sports Tennis HD UK" tvg-logo="http://epg.one/img/9400.png" group-title="Спорт", Sky Sports Tennis HD UK
 #EXTGRP:Спорт
-https://7pal.short.gy/ssportstn
+http://x3m.li/live/buk8YDg1/kXBoUb25/15306.m3u8
 #EXTINF:-1 tvg-id="sport-plus-kz" tvg-name="Sport+ Qazaqstan" tvg-logo="https://avatars.mds.yandex.net/i?id=c14e904d7639f1e1e2e3bf732a13b2cf_sr-4957269-images-thumbs&n=13" group-title="Спорт", Sport+ Qazaqstan
 #EXTGRP:Спорт
 https://ucdn.beetv.kz/bpk-tv/000008731/tve/index.m3u8
