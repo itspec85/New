@@ -1658,7 +1658,7 @@ http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
 http://193.25.8.59:8000/dtx
 #EXTINF:-1 tvg-id="euronews" tvg-name="Euronews Россия" tvg-logo="http://epg.one/img/2266.png" group-title="Познавательные", Euronews Россия
 #EXTGRP:Познавательные
-http://portal.ott.pink/C1PL_EuronewsRU/mpegts?token=9ED1CC22511FE66191AD465072EEE8DF
+https://flussonic.salomtv.uz/EURONEWS/video.m3u8
 #EXTINF:-1 tvg-id="euronews-en" tvg-name="Euronews English" tvg-logo="http://epg.one/img/2266.png" group-title="Познавательные", Euronews English
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000002455/tve/index.m3u8
@@ -1668,15 +1668,12 @@ https://ucdn.beetv.kz/bpk-tv/000000439/tve/index.m3u8
 #EXTINF:-1 tvg-id="fashion-tv" tvg-name="Fashion TV" tvg-logo="http://epg.one/img/8053.png" group-title="Познавательные", Fashion TV HD
 #EXTGRP:Познавательные
 https://fashs043.cloudycdn.services/scte/sftv2/sftv2_chunklist.m3u8
-#EXTINF:-1 tvg-id="eda-hd" tvg-name="FoodTime" tvg-logo="http://epg.one/img/7635.png" group-title="Познавательные", FoodTime
-#EXTGRP:Познавательные
-http://31148.rafail1982.uz/Eda_Premium_HD/index.m3u8
 #EXTINF:-1 tvg-id="fox-news-us" tvg-name="FOX NEWS CHANNEL FHD" tvg-logo="http://epg.one/img/6683.png" group-title="Познавательные", FOX NEWS CHANNEL FHD
 #EXTGRP:Познавательные
 http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
 #EXTINF:-1 tvg-id="gags-network" tvg-name="Gags Network" tvg-logo="http://epg.one/img/3551.png" group-title="Познавательные", Gags Network
 #EXTGRP:Познавательные
-http://95.67.12.82:9069
+http://hls127.freeott.top:8080/Gagsnetwork/mono.m3u8
 #EXTINF:-1 tvg-id="galaxy-tv" tvg-name="Galaxy" tvg-logo="http://epg.one/img/2418.png" group-title="Познавательные", Galaxy
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000000332/tve/index.m3u8
@@ -1703,7 +1700,7 @@ http://95.67.12.82:9098
 https://s1.tv-nano.com/Luxury_rec/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="nano-hd" tvg-name="NANO TV" tvg-logo="http://epg.one/img/2428.png" group-title="Познавательные", NANO TV HD
 #EXTGRP:Познавательные
-http://194.143.148.28:8080/NanoTV/mpegts
+http://s1.tv-nano.com/Nano_rec/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="nat-geo-wild" tvg-name="Nat Geo Wild" tvg-logo="http://epg.one/img/223.png" group-title="Познавательные", Nat Geo Wild
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000004474/tve/index.m3u8
@@ -1712,7 +1709,7 @@ https://ucdn.beetv.kz/bpk-tv/000004474/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000000034/tve/index.m3u8
 #EXTINF:-1 tvg-id="ocean-tv" tvg-name="OCEAN-TV" tvg-logo="http://epg.one/img/55.png" group-title="Познавательные", OCEAN-TV
 #EXTGRP:Познавательные
-http://86.57.209.210/Ocean/index.m3u8
+http://195.158.223.132:8009/Ocean_HD
 #EXTINF:-1 tvg-id="one-planet" tvg-name="One Planet" tvg-logo="https://epgx.club/picons/one-planet.png" group-title="Познавательные", One Planet
 #EXTGRP:Познавательные
 http://95.67.12.82:9088
@@ -1733,10 +1730,10 @@ https://streaming.televizor-24-tochka.ru/live/554.m3u8
 https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-4/mxtm-wdfe_1080p/chunklist_DVR.m3u8
 #EXTINF:-1 tvg-id="rtg-hd" tvg-name="RTG HD" tvg-logo="http://epg.one/img/648.png" group-title="Познавательные", RTG HD
 #EXTGRP:Познавательные
-http://194.143.148.28:8080/RTG_HD/index.m3u8
+http://95.66.188.74/RTGHD/index.m3u8
 #EXTINF:-1 tvg-id="rtg-tv" tvg-name="RTG TV" tvg-logo="http://epg.one/img/2280.png" group-title="Познавательные", RTG TV
 #EXTGRP:Познавательные
-http://195.26.83.96:7007/play/a00n/index.m3u8
+http://195.158.223.132:8009/RTG_TV
 #EXTINF:-1 tvg-id="rtvi" tvg-name="RTVi" tvg-logo="http://epg.one/img/2401.png" group-title="Познавательные", RTVi
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000000039/tve/index.m3u8
@@ -1784,7 +1781,8 @@ https://ucdn.beetv.kz/bpk-tv/000008065/tve/index.m3u8
 http://live-3.otcnet.ru/wfcrus/index.m3u8
 #EXTINF:-1 t-name="WWW" tvg-logo="https://fsd.kopilkaurokov.ru/up/html/2020/01/27/k_5e2f1ef814d50/img_user_file_5e2f1ef9dd433_0_0.jpg" group-title="Познавательные", WWW
 #EXTGRP:Познавательные
-https://132544.edgevideo.ru/streams/132544_931349/1325441080/index.m3u8
+#EXTVLCOPT:http-user-agent=SmartTV
+http://hls.goodgame.ru:8080/hls/186021.m3u8
 #EXTINF:-1 tvg-id="zoopark" tvg-name="ZOOПарк" tvg-logo="http://epg.one/img/367.png" group-title="Познавательные", Zooпарк HD
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000000260/tve/index.m3u8
