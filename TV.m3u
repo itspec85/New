@@ -170,7 +170,7 @@ https://ucdn.beetv.kz/bpk-tv/000001213/tve/index.m3u8
 
 #EXTINF:-1 tvg-id="domashny" tvg-name="Домашний" tvg-logo="http://epg.one/img/304.png" group-title="Россия", Домашний
 #EXTGRP:Россия
-http://95.47.156.60:8000/play/14/index.m3u8
+http://185.46.16.239:8000/Domashniy
 #EXTINF:-1 tvg-id="domashny" tvg-name="Домашний HD" tvg-logo="http://epg.one/img/304.png" group-title="Россия", Домашний HD
 #EXTGRP:Россия
 http://195.158.223.132:8002/Domashniy
@@ -200,7 +200,7 @@ http://95.66.188.74/MIR/index.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="mir-24" tvg-name="Мир 24" tvg-logo="http://epg.one/img/2078.png" group-title="Россия", Мир 24
 #EXTGRP:Россия
-http://194.143.148.28:8080/Mir24/index.m3u8
+http://193.25.8.59:8000/mir24
 #EXTINF:-1 tvg-id="mir-24" tvg-name="Мир 24 HD" tvg-logo="http://epg.one/img/2078.png" group-title="Россия", Мир 24 HD
 #EXTGRP:Россия
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
@@ -294,10 +294,10 @@ http://95.66.188.74/CTC_HD/mono.m3u8
 https://ucdn.beetv.kz/bpk-tv/000000428/tve/index.m3u8
 #EXTINF:-1 tvg-id="sts-love" tvg-name="СТС Love" tvg-logo="http://epg.one/img/1322.png" group-title="Россия", СТС Love
 #EXTGRP:Россия
-http://178.212.71.253:8000/play/104/index.m3u8
+http://95.66.188.74:80/CTC_Love/mono.m3u8
 #EXTINF:-1 tvg-id="super" tvg-name="Суббота" tvg-logo="http://epg.one/img/2288.png" group-title="Россия", Суббота
 #EXTGRP:Россия
-http://hls2.hd-tv.club/2_super/index.m3u8
+http://95.66.188.74/Subbota/index.m3u8
 #EXTINF:-1 tvg-id="tv3-ru" tvg-name="ТВ3" tvg-logo="http://epg.one/img/698.png" group-title="Россия", ТВ3
 #EXTGRP:Россия
 http://95.47.156.60:8000/play/15/index.m3u8
