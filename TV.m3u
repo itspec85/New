@@ -2004,7 +2004,7 @@ https://vod.splay.uz/live_splay/original/KinomiksHD/tracks-v1a1/mono.m3u8
 http://95.66.188.74/Kinopokaz/mono.m3u8
 #EXTINF:-1 tvg-id="kinopremiera-hd" tvg-name="Кинопремьера" tvg-logo="http://epg.one/img/566.png" group-title="Кино", Кинопремьера
 #EXTGRP:Кино
-http://157.90.0.245:8070/KINOPREMIERA/index.m3u8
+https://vod.splay.uz/live_splay/original/Kinopremera/mono.m3u8
 #EXTINF:-1 tvg-id="kinosat" tvg-name="Киносат" tvg-logo="http://epg.one/img/2407.png" group-title="Кино", Киносат
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000003871/tve/index.m3u8
@@ -2084,10 +2084,7 @@ http://cdn.ntv.ru/th_hit/mono.m3u8
 http://catchup.videoline.ru/asvtv/index.m3u8
 #EXTINF:-1 tvg-id="pobeda" tvg-name="Победа" tvg-logo="http://epg.one/img/2447.png" group-title="Кино", Победа
 #EXTGRP:Кино
-https://streaming101.goodstream.cyou/live/43-req_offset_28000000-req_window_0-1k_v5.m3u8
-#EXTINF:-1 tvg-id="premialnoe-hd" tvg-name="Премиальное HD" tvg-logo="http://epg.one/img/2732.png" group-title="Кино", Премиальное HD
-#EXTGRP:Кино
-https://streamer3.connectto.com/373/mono.m3u8
+http://95.66.188.74/Pobeda/mono.m3u8
 #EXTINF:-1 tvg-id="premium-kino-kz" tvg-name="Премиум кино KZ" tvg-logo="https://iptvx.one/picons/premium-kino-kz.png" group-title="Кино", Премиум кино KZ
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000008491/tve/index.m3u8
@@ -2100,7 +2097,7 @@ https://mhd128.iptv2022.com/p/3Wsrpld3oAU3DQfgXzwAmg,1766005206/streaming/prolub
 http://193.25.8.59:8000/retro
 #EXTINF:-1 tvg-id="rodnoe-kino" tvg-name="Родное кино" tvg-logo="http://epg.one/img/12.png" group-title="Кино", РОДНОЕ КИНО
 #EXTGRP:Кино
-http://87.76.32.36:8001/rodnoekino
+http://195.158.223.132:8008/Rodnoe_Kino
 #EXTINF:-1 tvg-id="russkaya-komedia" tvg-name="Русская комедия" tvg-logo="http://epg.one/img/1620.png" group-title="Кино", Русская комедия
 #EXTGRP:Кино
 http://95.66.188.74/Comedia/mono.m3u8
@@ -2150,9 +2147,6 @@ http://hls.goodgame.ru:8080/hls/218251.m3u8
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=SmartTV
 https://mhd128.iptv2022.com/p/Sslb8PxsbR3xVisGIKik4A,1766005206/streaming/hit/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-id="shokiruyushchee-hd" tvg-name="Шокирующее HD" tvg-logo="http://epg.one/img/2309.png" group-title="Кино", Шокирующее HD
-#EXTGRP:Кино
-http://195.191.208.11:8087/udp/238.2.48.137:1234
 #EXTINF:-1 tvg-id="sony-turbo" tvg-name=".black" tvg-logo="http://epg.one/img/935.png" group-title="Кино", .black
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000000520/tve/index.m3u8
