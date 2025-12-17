@@ -2723,13 +2723,13 @@ http://5startv.xyz:8080/7062390861/ksAGBaT29HEb/9568
 #EXTINF:-1 tvg-id="eurosport1" tvg-name="Eurosport 1" tvg-logo="http://epg.one/img/2052.png" group-title="Спорт", Eurosport 1
 #EXTGRP:Спорт
 https://ucdn.beetv.kz/bpk-tv/000002478/tve/index.m3u8
-#EXTINF:-1 tvg-id="eurosport1" tvg-name="Eurosport 1 HD" tvg-logo="http://epg.one/img/2052.png" group-title="Спорт", Eurosport 1 HD
+#EXTINF:-1 tvg-id="eurosport1" tvg-name="Eurosport 1" tvg-logo="http://epg.one/img/2052.png" group-title="Спорт", Eurosport 1 (резерв)
 #EXTGRP:Спорт
-http://178.134.1.158:8081/eurosport/index.m3u8
+https://hls.setanta-1.ru/hls/euro1.m3u8
 #EXTINF:-1 tvg-id="eurosport2" tvg-name="Eurosport 2" tvg-logo="http://epg.one/img/4313.png" group-title="Спорт", Eurosport 2
 #EXTGRP:Спорт
 https://ucdn.beetv.kz/bpk-tv/000002479/tve/index.m3u8
-#EXTINF:-1 tvg-id="eurosport2" tvg-name="Eurosport 2 HD" tvg-logo="http://epg.one/img/4313.png" group-title="Спорт", Eurosport 2 HD
+#EXTINF:-1 tvg-id="eurosport2" tvg-name="Eurosport 2" tvg-logo="http://epg.one/img/4313.png" group-title="Спорт", Eurosport 2 (резерв)
 #EXTGRP:Спорт
 https://flussonic.salomtv.uz/eurosport_2/video.m3u8
 #EXTINF:-1 tvg-id="extreme-sports" tvg-name="Extreme Sports" tvg-logo="http://epg.one/img/2053.png" group-title="Спорт", Extreme Sports
