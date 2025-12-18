@@ -2023,7 +2023,7 @@ http://95.66.188.74/Kinoseriya/mono.m3u8
 #EXTINF:-1 tvg-id="kinouzhas" tvg-name="Киноужас" tvg-logo="http://epg.one/img/2493.png" group-title="Кино", Киноужас
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=SmartTV
-https://mhd128.iptv2022.com/p/qw8oE7Ij0IrznPk8eKVm5Q,1766005206/streaming/kinoujas/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/0do6HnThAPZybd9__ApCEQ,1766091609/streaming/kinoujas/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-name="КиноФраншизы" tvg-logo="https://avatars.mds.yandex.net/i?id=17507e527b188fdbd4354fc180529b2f31c9c8f2-9873252-images-thumbs&n=13" group-title="Кино", КиноФраншизы
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=SmartTV
