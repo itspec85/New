@@ -2876,9 +2876,6 @@ http://iptv.prosto.tv:7000/ch313/video.m3u8
 
 
 
-#EXTINF:-1 tvg-id="vostok-tv" tvg-name="Восток ТВ" tvg-logo="http://epg.one/img/2353.png" group-title="Музыка", Восток ТВ
-#EXTGRP:Музыка
-http://911play.ru:3456/live/VostokSite/cdnVostaoc911tv123456/489.m3u8
 #EXTINF:-1 tvg-id="zhar-ptica" tvg-name="Жар Птица" tvg-logo="http://epg.one/img/2415.png" group-title="Музыка", Жар Птица
 #EXTGRP:Музыка
 http://streamer.rtcommufa.ru:1935/ptica/ptica1/chunklist.m3u8
@@ -2914,7 +2911,7 @@ http://rtmp.one.by:2300
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="tnt-music" tvg-name="ТНТ Music" tvg-logo="http://epg.one/img/680.png" group-title="Музыка", ТНТ MUSIC
 #EXTGRP:Музыка
-http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
+http://tntm.mediacdn.ru/cdn/tntmusic/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-id="shanson-tv" tvg-name="Шансон TB" tvg-logo="http://epg.one/img/2278.png" group-title="Музыка", Шансон TB
 #EXTGRP:Музыка
 http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
@@ -3011,30 +3008,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d
 #EXTINF:-1 tvg-id="mtv-live-hd" tvg-name="MTV Live HD" tvg-logo="http://epg.one/img/382.png" group-title="Музыка", MTV Live HD
 #EXTGRP:Музыка
 https://ucdn.beetv.kz/bpk-tv/000000447/tve/index.m3u8
-#EXTINF:-1 tvg-id="russian-musicbox" tvg-name="Music Box Russia" tvg-logo="http://epg.one/img/2409.png" group-title="Музыка", Music Box Russia
-#EXTGRP:Музыка
-http://193.33.88.172/music-box-ru/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Muzzik ELECTRO" tvg-logo="https://avatars.mds.yandex.net/i?id=ca03722ba4159f7610aef5036ca02362_sr-5384260-images-thumbs&n=13" group-title="Музыка", Muzzik ELECTRO
-#EXTGRP:Музыка
-http://muzzik-live.morescreens.com/mts-9/576p/chunklist.m3u8
-#EXTINF:-1 tvg-name="Muzzik FLASHBACK" tvg-logo="https://avatars.mds.yandex.net/i?id=ca03722ba4159f7610aef5036ca02362_sr-5384260-images-thumbs&n=13" group-title="Музыка", Muzzik FLASHBACK
-#EXTGRP:Музыка
-http://muzzik-live.morescreens.com/mts-8/playlist.m3u8
-#EXTINF:-1 tvg-name="Muzzik POPSTAR" tvg-logo="https://avatars.mds.yandex.net/i?id=ca03722ba4159f7610aef5036ca02362_sr-5384260-images-thumbs&n=13" group-title="Музыка", Muzzik POPSTAR
-#EXTGRP:Музыка
-http://muzzik-live.morescreens.com/mts-3/playlist.m3u8
-#EXTINF:-1 tvg-name="Muzzik RR" tvg-logo="https://avatars.mds.yandex.net/i?id=ca03722ba4159f7610aef5036ca02362_sr-5384260-images-thumbs&n=13" group-title="Музыка", Muzzik RR
-#EXTGRP:Музыка
-https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
-#EXTINF:-1 tvg-name="Muzzik SENSE" tvg-logo="https://avatars.mds.yandex.net/i?id=ca03722ba4159f7610aef5036ca02362_sr-5384260-images-thumbs&n=13" group-title="Музыка", Muzzik SENSE
-#EXTGRP:Музыка
-http://muzzik-live.morescreens.com/mts-7/playlist.m3u8
-#EXTINF:-1 tvg-name="Muzzik TIKTAK" tvg-logo="https://avatars.mds.yandex.net/i?id=ca03722ba4159f7610aef5036ca02362_sr-5384260-images-thumbs&n=13" group-title="Музыка", Muzzik TIKTAK
-#EXTGRP:Музыка
-http://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
-#EXTINF:-1 tvg-name="Muzzik ZZ" tvg-logo="https://avatars.mds.yandex.net/i?id=ca03722ba4159f7610aef5036ca02362_sr-5384260-images-thumbs&n=13" group-title="Музыка", Muzzik ZZ
-#EXTGRP:Музыка
-http://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
 #EXTINF:-1 tvg-id="now70s" tvg-name="Now 70's" tvg-logo="http://epg.one/img/6626.png" group-title="Музыка", Now 70s HD UK
 #EXTGRP:Музыка
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
@@ -3079,7 +3052,7 @@ https://listen.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
 https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="QMusic" tvg-logo="https://qmusic.nl/assets/qmusic-a1d81a5f88375b3c5507cbc0b064ce1fc8778a076a245bddfd4f2a3e2417c330.png" group-title="Музыка", QMusic
 #EXTGRP:Музыка
-https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
+https://live-video.dpgmedia.net/e087512ad0c32643/out/v1/82d59bbe343b4d0896f829c59da82dc0/index.m3u8
 #EXTINF:-1 tvg-id="retro-music-cz" tvg-name="Retro Music TV" tvg-logo="http://epg.one/img/5380.png" group-title="Музыка", RETRO TV
 #EXTGRP:Музыка
 https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist.m3u8
@@ -3100,19 +3073,16 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 http://de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 tvg-name="XITE 80s Flashback" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB320000647_20231024T231630SQUARE.png_20231024231631.png" group-title="Музыка", XITE 80s Flashback
 #EXTGRP:Музыка
-https://dw0oa71jud5ry.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/usbb320000647-prod/amg80rewind/playlist.m3u8
+https://d1n314cytqn9r3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bklagqy82v0pr/XITE_80s_Flashback.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE
 #EXTINF:-1 tvg-name="XITE 90s Throwback" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200007AK_20231024T231632SQUARE.png_20231024231633.png" group-title="Музыка", XITE 90s Throwback
 #EXTGRP:Музыка
-https://d3fr64zqebnqn3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/usbb3200007ak-prod/amg90rock/playlist.m3u8
+https://d284aawtm5vi48.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fjdfi2br1jtq7/XITE_90s_Throwback.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE
 #EXTINF:-1 tvg-name="XITE Hits" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300004RH_20231024T231908SQUARE.png_20231024231909.png" group-title="Музыка", XITE Hits
 #EXTGRP:Музыка
 https://d726x48n2pd5h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-skxr1pazhltvp/XITE_Hits.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE
 #EXTINF:-1 tvg-name="XITE Just Chill" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2300003JZ_20231024T231619SQUARE.png_20231024231619.png" group-title="Музыка", XITE Just Chill
 #EXTGRP:Музыка
-https://d3ai750ol9my06.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/JustChill-prod/playlist.m3u8
-#EXTINF:-1 tvg-name="XITE Rock On" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2300004KV_20231024T231621SQUARE.png_20231024231622.png" group-title="Музыка", XITE Rock On
-#EXTGRP:Музыка
-https://dri82941jql2y.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/RockMetal-prod/playlist.m3u8
+https://dvnftgdlbnemm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dh48uzd9o895t/XITE_Just_Chill.m3u8
 #EXTINF:-1 tvg-name="Zerouno TV" tvg-logo="http://epg.one/img/5484.png" group-title="Музыка", Zerouno TV
 #EXTGRP:Музыка
 http://5f22d76e220e1.streamlock.net:1935/zerounotvmusic/zerounotvmusic/chunklist.m3u8
