@@ -1548,9 +1548,6 @@ http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf
 #EXTINF:-1 tvg-id="soyuz" tvg-name="Союз" tvg-logo="http://epg.one/img/2448.png" group-title="Познавательные", Союз
 #EXTGRP:Познавательные
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
-#EXTINF:-1 tvg-id="tancuj" tvg-name="Танцуй!" tvg-logo="http://epg.one/img/7506.png" group-title="Познавательные", Танцуй!
-#EXTGRP:Познавательные
-http://178.212.71.253:8000/play/81/index.m3u8
 #EXTINF:-1 tvg-name="ТАСС" tvg-logo="https://avatars.mds.yandex.net/i?id=e60e5cf5b5f0b2931e57c68bfd435bef596e41d6-5752088-images-thumbs&n=13" group-title="Познавательные", ТАСС
 #EXTGRP:Познавательные
 https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream_480p/playlist.m3u8
@@ -2614,7 +2611,7 @@ http://185.46.48.18:80/match/tracks-v1a1/mono.m3u8
 https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
 #EXTINF:-1 tvg-id="match-arena" tvg-name="Матч! Арена" tvg-logo="http://epg.one/img/2003.png" group-title="Спорт", Матч! Арена
 #EXTGRP:Спорт
-http://178.212.71.253:8000/play/54/index.m3u8
+http://87.120.142.11:18000/Match!Arena
 #EXTINF:-1 tvg-id="match-boets" tvg-name="Матч! Боец" tvg-logo="http://epg.one/img/2054.png" group-title="Спорт", Матч! Боец
 #EXTGRP:Спорт
 http://95.66.188.74/MatchBoec/mono.m3u8
@@ -2938,19 +2935,13 @@ http://95.66.188.74/BridgeTV/mono.m3u8
 http://193.25.8.59:8000/rusong
 #EXTINF:-1 tvg-id="bridge-tv-shlager" tvg-name="Bridge TV Шлягер" tvg-logo="http://epg.one/img/4621.png" group-title="Музыка", Bridge Шлягер
 #EXTGRP:Музыка
-http://178.212.71.253:8000/play/142/index.m3u8
-#EXTINF:-1 tvg-id="bridge-tv-etno" tvg-name="Bridge TV Этно" tvg-logo="https://epgx.club/picons/bridge-tv-etno.png" group-title="Музыка", Bridge Этно
-#EXTGRP:Музыка
-http://178.212.71.253:8000/play/65/index.m3u8
+http://193.25.8.59:8000/mtv
 #EXTINF:-1 tvg-id="bridge-tv-classic" tvg-name="Bridge TV Classic" tvg-logo="http://epg.one/img/4373.png" group-title="Музыка", Bridge Classic orig
 #EXTGRP:Музыка
 http://195.158.223.132:8004/Bridge_Classic
 #EXTINF:-1 tvg-id="bridge-tv-dance" tvg-name="Bridge TV Hits" tvg-logo="http://epg.one/img/2024.png" group-title="Музыка", Bridge Hits
 #EXTGRP:Музыка
 http://195.158.223.132:8004/Bridge_Hits
-#EXTINF:-1 tvg-id="bridge-tv-rock" tvg-name="Bridge TV Rock" tvg-logo="http://epg.one/img/6188.png" group-title="Музыка", Bridge Rock
-#EXTGRP:Музыка
-http://178.212.71.253:8000/play/101/index.m3u8
 #EXTINF:-1 tvg-id="clubbing-tv" tvg-name="Clubbing TV" tvg-logo="http://epg.one/img/2628.png" group-title="Музыка", Clubbing TV
 #EXTGRP:Музыка
 https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uze1m6xh4fiyr-ssai-prd/master.m3u8
@@ -3593,7 +3584,8 @@ https://live-mordovia24.cdnvideo.ru/mordovia24/streamtr/playlist.m3u8
 http://193.25.8.59:8000/moskva24
 #EXTINF:-1 tvg-id="doverie" tvg-name="Москва Доверие" tvg-logo="http://epg.one/img/2308.png" group-title="Региональные РФ", Москва Доверие
 #EXTGRP:Региональные РФ
-http://178.212.71.253:8000/play/53/index.m3u8
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
 #EXTINF:-1 tvg-id="mtv-volgograd" tvg-name="МТВ Волгоград HD" tvg-logo="http://epg.one/img/6401.png" group-title="Региональные РФ", МТВ Волгоград HD
 #EXTGRP:Региональные РФ
 http://hls-volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
