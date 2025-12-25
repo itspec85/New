@@ -2019,8 +2019,7 @@ https://ucdn.beetv.kz/bpk-tv/000005450/tve/index.m3u8
 http://95.66.188.74/Kinoseriya/mono.m3u8
 #EXTINF:-1 tvg-id="kinouzhas" tvg-name="Киноужас" tvg-logo="http://epg.one/img/2493.png" group-title="Кино", Киноужас
 #EXTGRP:Кино
-#EXTVLCOPT:http-user-agent=SmartTV
-https://mhd128.iptv2022.com/p/LV61IAICt4n4ymeGkxhlxQ,1766606118/streaming/kinoujas/324/1/tracks-v5a1/mono.m3u8
+http://158.101.222.193:88/georgia_play.php?id=kinoujas
 #EXTINF:-1 tvg-name="КиноФраншизы" tvg-logo="https://avatars.mds.yandex.net/i?id=17507e527b188fdbd4354fc180529b2f31c9c8f2-9873252-images-thumbs&n=13" group-title="Кино", КиноФраншизы
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=SmartTV
@@ -2056,8 +2055,10 @@ http://cdn.voka.tv/live/5007-req_5k_v5.m3u8
 http://157.90.0.245:8070/muzhskoe_kino/index.m3u8
 #EXTINF:-1 tvg-id="nash-kinopokaz" tvg-name="Наш кинопоказ" tvg-logo="http://epg.one/img/2831.png" group-title="Кино", Наш Кинопоказ HD
 #EXTGRP:Кино
-#EXTVLCOPT:http-user-agent=SmartTV
-https://mhd128.iptv2022.com/p/9DtvsuJ3t1oZjBVAAtrLqw,1766606119/streaming/nashpokaz/324/1/tracks-v5a1/mono.m3u8
+http://cdn.voka.tv/live/285-req_5k_v5.m3u8
+#EXTINF:-1 tvg-id="nashehd" tvg-name="Наше крутое HD" tvg-logo="http://epg.one/img/2018.png" group-title="Кино", Наше крутое HD
+#EXTGRP:Кино
+http://hls127.freeott.top:8080/Nashe_HD/mono.m3u8
 #EXTINF:-1 tvg-id="nashe-muzhskoe" tvg-name="Наше Мужское HD" tvg-logo="http://epg.one/img/2835.png" group-title="Кино", Наше Мужское HD
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=SmartTV
@@ -2087,8 +2088,7 @@ http://95.66.188.74/Pobeda/mono.m3u8
 https://ucdn.beetv.kz/bpk-tv/000008491/tve/index.m3u8
 #EXTINF:-1 tvg-id="pro-lyubov" tvg-name="Про любовь" tvg-logo="http://epg.one/img/2829.png" group-title="Кино", Про Любовь HD
 #EXTGRP:Кино
-#EXTVLCOPT:http-user-agent=SmartTV
-https://mhd128.iptv2022.com/p/Ga5iQxzICgW91dFRASi-8g,1766606118/streaming/prolubov/324/1/tracks-v5a1/mono.m3u8
+http://hls127.freeott.top:8080/ProLubovHD/mono.m3u8
 #EXTINF:-1 tvg-id="retro-tv" tvg-name="Ретро ТВ" tvg-logo="http://epg.one/img/2402.png" group-title="Кино", Ретро ТВ
 #EXTGRP:Кино
 http://193.25.8.59:8000/retro
@@ -2142,8 +2142,7 @@ http://158.101.222.193:88/georgia_play.php?id=fenikspluskino
 http://hls.goodgame.ru:8080/hls/218251.m3u8
 #EXTINF:-1 tvg-id="khit-hd" tvg-name="Хит HD" tvg-logo="http://epg.one/img/2833.png" group-title="Кино", Хит HD
 #EXTGRP:Кино
-#EXTVLCOPT:http-user-agent=SmartTV
-https://mhd128.iptv2022.com/p/p0O9n5P_pgSAkzk7Ima-RA,1766606118/streaming/hit/324/1/tracks-v5a1/mono.m3u8
+http://hls127.freeott.top:8080/XitHD/video.m3u8
 #EXTINF:-1 tvg-id="sony-turbo" tvg-name=".black" tvg-logo="http://epg.one/img/935.png" group-title="Кино", .black
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000000520/tve/index.m3u8
@@ -2629,8 +2628,7 @@ http://158.101.222.193:88/georgia_play.php?id=matchplaneta
 http://89.232.68.194:8080/matchpremier/tracks-v3a1/index.m3u8
 #EXTINF:-1 tvg-id="match-premier" tvg-name="Матч! Премьер HD" tvg-logo="http://epg.one/img/2250.png" group-title="Спорт", МАТЧ ПРЕМЬЕР HD
 #EXTGRP:Спорт
-#EXTVLCOPT:http-user-agent=SmartTV
-https://mhd128.iptv2022.com/p/MzEBgQZVD3L1BJlvw0NkcQ,1766606122/streaming/match_premyerhd/324/1/tracks-v5a1/mono.m3u8
+http://89.232.68.194:8080/matchpremier/tracks-v3a1/index.m3u8
 #EXTINF:-1 tvg-id="match-nash-sport" tvg-name="Матч! Страна" tvg-logo="http://epg.one/img/2042.png" group-title="Спорт", МАТЧ! СТРАНА
 #EXTGRP:Спорт
 http://ukr.ukrainske.tv/134/keytvainua/video.m3u8
@@ -2678,6 +2676,9 @@ https://bl.webcaster.pro/media/playlist/free_621d169e5c631c638136df3cb136c5c9/33
 #EXTGRP:Спорт
 #EXTVLCOPT:http-user-agent=SmartTV
 https://mhd128.iptv2022.com/p/XaGjFmYBUCBL3l6yf8Hg2Q,1766606122/streaming/start-triumf/324/1/index.m3u8
+#EXTINF:-1 tvg-id="sportivny" tvg-name="ТВ Спорт" tvg-logo="http://epg.one/img/4678.png" group-title="Спорт", ТВ Спорт HD
+#EXTGRP:Спорт
+http://live-3.otcnet.ru/sportivny/index.m3u8
 #EXTINF:-1 tvg-id="ufc" tvg-name="Удар" tvg-logo="http://epg.one/img/2480.png" group-title="Спорт", Удар
 #EXTGRP:Спорт
 https://ucdn.beetv.kz/bpk-tv/000007802/tve/index.m3u8
