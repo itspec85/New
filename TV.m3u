@@ -972,11 +972,70 @@ http://a0925677.xsph.ru/hls/DVB-T2/CH_TVC_6.m3u8
 #EXTGRP:Россия плюсовые (резерв)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://a0925677.xsph.ru/hls/DVB-T2/CH_TVC_7.m3u8
-
-
-
-
-
+#EXTINF:-1 tvg-id="tnt-pl2" tvg-name="ТНТ +2" tvg-logo="http://epg.one/img/3022.png" group-title="Россия плюсовые (резерв)", ТНТ +2
+#EXTGRP:Россия плюсовые (резерв)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://a0925677.xsph.ru/hls/DVB-T2/CH_TNT_2.m3u8
+#EXTINF:-1 tvg-id="tnt-pl4" tvg-name="ТНТ +4" tvg-logo="http://epg.one/img/3023.png" group-title="Россия плюсовые (резерв)", ТНТ +4
+#EXTGRP:Россия плюсовые (резерв)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://a0925677.xsph.ru/hls/DVB-T2/CH_TNT_4.m3u8
+#EXTINF:-1 tvg-id="tnt" tvg-shift="-6" tvg-name="ТНТ +6" tvg-logo="http://epg.one/img/353.png" group-title="Россия плюсовые (резерв)", ТНТ +6
+#EXTGRP:Россия плюсовые (резерв)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://a0925677.xsph.ru/hls/DVB-T2/CH_TNT_6.m3u8
+#EXTINF:-1 tvg-id="tnt-pl7" tvg-name="ТНТ +7" tvg-logo="http://epg.one/img/3024.png" group-title="Россия плюсовые (резерв)", ТНТ +7
+#EXTGRP:Россия плюсовые (резерв)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://a0925677.xsph.ru/hls/DVB-T2/CH_TNT_7.m3u8
+#EXTINF:-1 tvg-id="tnt4-pl2" tvg-name="ТНТ4 +2" tvg-logo="http://epg.one/img/7978.png" group-title="Россия плюсовые (резерв)", ТНТ4 +2
+#EXTGRP:Россия плюсовые (резерв)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://a0925677.xsph.ru/hls/zabava/CH_TNT4_2.m3u8
+#EXTINF:-1 tvg-id="tnt4-pl4" tvg-name="ТНТ4 +4" tvg-logo="http://epg.one/img/7979.png" group-title="Россия плюсовые (резерв)", ТНТ4 +4
+#EXTGRP:Россия плюсовые (резерв)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://a0925677.xsph.ru/hls/zabava/CH_TNT4_4.m3u8
+#EXTINF:-1 tvg-id="tnt4" tvg-shift="-6" tvg-name="ТНТ4 +6" tvg-logo="http://epg.one/img/1649.png" group-title="Россия плюсовые (резерв)", ТНТ4 +6
+#EXTGRP:Россия плюсовые (резерв)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://a0925677.xsph.ru/hls/zabava/CH_TNT4_6.m3u8
+#EXTINF:-1 tvg-id="tnt4-pl7" tvg-name="ТНТ4 +7" tvg-logo="http://epg.one/img/1104.png" group-title="Россия плюсовые (резерв)", ТНТ4 +7
+#EXTGRP:Россия плюсовые (резерв)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://a0925677.xsph.ru/hls/zabava/CH_TNT4_7.m3u8
+#EXTINF:-1 tvg-id="che-pl2" tvg-name="Че +2" tvg-logo="http://epg.one/img/1598.png" group-title="Россия плюсовые (резерв)", Че +2
+#EXTGRP:Россия плюсовые (резерв)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://a0925677.xsph.ru/hls/zabava/CH_CHE_2.m3u8
+#EXTINF:-1 tvg-id="che-pl4" tvg-name="Че +4" tvg-logo="http://epg.one/img/1598.png" group-title="Россия плюсовые (резерв)", Че +4
+#EXTGRP:Россия плюсовые (резерв)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://a0925677.xsph.ru/hls/zabava/CH_CHE_4.m3u8
+#EXTINF:-1 tvg-id="che" tvg-shift="-6" tvg-name="Че +6" tvg-logo="http://epg.one/img/1598.png" group-title="Россия плюсовые (резерв)", Че +6
+#EXTGRP:Россия плюсовые (резерв)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://a0925677.xsph.ru/hls/zabava/CH_CHE_6.m3u8
+#EXTINF:-1 tvg-id="che-pl7" tvg-name="Че +7" tvg-logo="http://epg.one/img/1598.png" group-title="Россия плюсовые (резерв)", Че +7
+#EXTGRP:Россия плюсовые (резерв)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://a0925677.xsph.ru/hls/zabava/CH_CHE_7.m3u8
+#EXTINF:-1 tvg-id="yu-pl2" tvg-name="Ю +2" tvg-logo="http://epg.one/img/898.png" group-title="Россия плюсовые (резерв)", Ю +2
+#EXTGRP:Россия плюсовые (резерв)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://a0925677.xsph.ru/hls/zabava/CH_U_2.m3u8
+#EXTINF:-1 tvg-id="yu-pl4" tvg-name="Ю +4" tvg-logo="http://epg.one/img/898.png" group-title="Россия плюсовые (резерв)", Ю +4
+#EXTGRP:Россия плюсовые (резерв)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://a0925677.xsph.ru/hls/zabava/CH_U_4.m3u8
+#EXTINF:-1 tvg-id="yu" tvg-shift="-6" tvg-name="Ю +6" tvg-logo="http://epg.one/img/898.png" group-title="Россия плюсовые (резерв)", Ю +6
+#EXTGRP:Россия плюсовые (резерв)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://a0925677.xsph.ru/hls/zabava/CH_U_6.m3u8
+#EXTINF:-1 tvg-id="yu-pl7" tvg-name="Ю +7" tvg-logo="http://epg.one/img/898.png" group-title="Россия плюсовые (резерв)", Ю +7
+#EXTGRP:Россия плюсовые (резерв)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://a0925677.xsph.ru/hls/zabava/CH_U_7.m3u8
 
 
 
