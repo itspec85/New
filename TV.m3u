@@ -1978,6 +1978,9 @@ https://ucdn.beetv.kz/bpk-tv/000008136/tve/index.m3u8
 #EXTINF:-1 tvg-id="kino1int-tviksel" tvg-name="Кино 1 International" tvg-logo="http://epg.one/img/6258.png" group-title="Кино", Кино 1 International
 #EXTGRP:Кино
 https://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1 tvg-id="kino-i-zhizn" tvg-name="Кино и Жизнь" tvg-logo="https://epgx.club/picons/kino-i-zhizn.png" group-title="Кино", Кино и Жизнь
+#EXTGRP:Кино
+http://188.208.197.173/kinojizn/video.m3u8?token=Rblztg5NZwI9x2
 #EXTINF:-1 tvg-id="kino-tv" tvg-name="Кино ТВ" tvg-logo="http://epg.one/img/1037.png" group-title="Кино", КИНО ТВ
 #EXTGRP:Кино
 http://185.46.16.239:8000/Kino_TV
@@ -1990,9 +1993,15 @@ https://ucdn.beetv.kz/bpk-tv/000008490/tve/index.m3u8
 #EXTINF:-1 tvg-id="q-kino-hit" tvg-name="Кинодрама KZ" tvg-logo="https://iptvx.one/picons/q-kino-hit.png" group-title="Кино", Кинодрама KZ
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000005449/tve/index.m3u8
+#EXTINF:-1 tvg-name="Киножелезо" tvg-logo="https://avatars.mds.yandex.net/i?id=0e6a975877b5216a1808f7f46d7ddcaa4d53aa0c-5345995-images-thumbs&n=13" group-title="Кино", Киножелезо
+#EXTGRP:Кино
+http://188.208.197.173/kinojelezo/video.m3u8?token=tvon
 #EXTINF:-1 tvg-id="kinokomedia" tvg-name="Кинокомедия" tvg-logo="http://epg.one/img/821.png" group-title="Кино", КИНОКОМЕДИЯ
 #EXTGRP:Кино
 http://185.46.16.239:8000/Fox_HD
+#EXTINF:-1 tvg-name="Кинолаффка" tvg-logo="https://avatars.mds.yandex.net/i?id=0e6a975877b5216a1808f7f46d7ddcaa4d53aa0c-5345995-images-thumbs&n=13" group-title="Кино", Кинолаффка
+#EXTGRP:Кино
+http://188.208.197.173/kinolafka/video.m3u8?token=tvon
 #EXTINF:-1 tvg-id="kinomiks" tvg-name="Киномикс" tvg-logo="http://epg.one/img/644.png" group-title="Кино", КИНОМИКС
 #EXTGRP:Кино
 https://vod.splay.uz/live_splay/original/KinomiksHD/tracks-v1a1/mono.m3u8
@@ -2236,6 +2245,9 @@ http://157.90.0.245:8070/HOLLYWOOD_HD/index.m3u8
 #EXTINF:-1 tvg-name="Horror TV" tvg-logo="http://epg.one/img/8792.png" group-title="Кино", Horror TV
 #EXTGRP:Кино
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/93dc292b-cbcf-4988-ab97-94feced4c14b/manifest.m3u8
+#EXTINF:-1 tvg-name="HTV HD" tvg-logo="https://i.ibb.co/dwc9xqbb/htvhd.png" group-title="Кино", HTV HD
+#EXTGRP:Кино
+https://dvr3.vokkavideo.xyz/HTVHD/index.m3u8
 #EXTINF:-1 tvg-id="kino-24" tvg-name="Kino 24" tvg-logo="https://epgx.club/picons/kino-24.png" group-title="Кино", Kino 24
 #EXTGRP:Кино
 http://sirius.greenhosting.ru/Kino24Ru/tracks-v1a1/mono.m3u8
@@ -2294,6 +2306,15 @@ http://193.25.8.59:8000/tlc
 #EXTINF:-1 tvg-id="trashtv" tvg-name="Trash HD" tvg-logo="http://epg.one/img/3361.png" group-title="Кино", Trash HD
 #EXTGRP:Кино
 http://157.90.0.245:8070/Trash_HD/index.m3u8
+#EXTINF:-1 tvg-name="TV4" tvg-logo="https://i.ibb.co/mVR1d4qx/hdlogo.png" group-title="Кино", TV4
+#EXTGRP:Кино
+http://188.208.197.173/tv4/video.m3u8?token=tvon
+#EXTINF:-1 tvg-name="TV4 Русское Кино HD" tvg-logo="https://i.ibb.co/mVR1d4qx/hdlogo.png" group-title="Кино", TV4 Русское Кино HD
+#EXTGRP:Кино
+https://dvr3.vokkavideo.xyz/TV4RUKINO/index.m3u8
+#EXTINF:-1 tvg-name="TV4 HD" tvg-logo="https://i.ibb.co/mVR1d4qx/hdlogo.png" group-title="Кино", TV4 HD
+#EXTGRP:Кино
+https://dvr3.vokkavideo.xyz/TV4HD/index.m3u8
 #EXTINF:-1 tvg-id="tvxxi" tvg-name="TV XXI" tvg-logo="http://epg.one/img/309.png" group-title="Кино", TV XXI
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000000006/tve/index.m3u8
