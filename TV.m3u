@@ -222,7 +222,7 @@ http://185.46.16.239:8000/OTR
 http://194.8.128.38:8080/ort/playlist.m3u8
 #EXTINF:-1 tvg-id="pervy" tvg-name="Первый канал HD" tvg-logo="http://epg.one/img/983.png" group-title="Россия", Первый канал FHD
 #EXTGRP:Россия
-http://95.66.188.74/PerviyHD/mono.m3u8
+http://178.16.151.67/ort_hd/index.m3u8
 #EXTINF:-1 tvg-id="pervy-kanal-eu" tvg-name="Первый канал Европа" tvg-logo="http://epg.one/img/4830.png" group-title="Россия", Первый Канал Европа
 #EXTGRP:Россия
 https://streaming.thestream.cyou/live/210-req_offset_28000000-req_window_0-1k_v5.m3u8
@@ -258,7 +258,7 @@ https://ucdn.beetv.kz/bpk-tv/000002472/tve/index.m3u8
 http://109.207.243.18/2/index.m3u8
 #EXTINF:-1 tvg-id="rossia1" tvg-name="Россия 1 HD" tvg-logo="http://epg.one/img/984.png" group-title="Россия", Россия 1 HD
 #EXTGRP:Россия
-http://95.66.188.74/Rossia1HD/mono.m3u8
+http://91.207.115.228:5000/c100
 #EXTINF:-1 tvg-id="rossia-24" tvg-name="Россия-24" tvg-logo="http://epg.one/img/1683.png" group-title="Россия", Россия-24
 #EXTGRP:Россия
 http://95.66.188.74/Rossia24/index.m3u8
@@ -288,7 +288,7 @@ http://player.smotrim.ru/iframe/stream/live_id/d7fef212-df66-485d-9952-7eab82d7d
 http://95.47.156.60:8000/play/13/index.m3u8
 #EXTINF:-1 tvg-id="sts" tvg-name="СТС HD" tvg-logo="http://epg.one/img/79.png" group-title="Россия", СТС HD
 #EXTGRP:Россия
-http://95.66.188.74/CTC_HD/mono.m3u8
+http://89.104.114.2:8080/sts_hd/index.m3u8
 #EXTINF:-1 tvg-id="sts-int" tvg-name="СТС International" tvg-logo="http://epg.one/img/5652.png" group-title="Россия", СТС International
 #EXTGRP:Россия
 https://ucdn.beetv.kz/bpk-tv/000000428/tve/index.m3u8
@@ -318,7 +318,7 @@ https://ucdn.beetv.kz/bpk-tv/000000112/tve/index.m3u8
 http://185.46.16.239:8000/TNT
 #EXTINF:-1 tvg-id="tnt" tvg-name="ТНТ HD" tvg-logo="http://epg.one/img/1767.png" group-title="Россия", ТНТ HD
 #EXTGRP:Россия
-http://95.66.188.74/TNT_HD/mono.m3u8
+http://91.207.115.228:5000/c157
 #EXTINF:-1 tvg-id="tnt-int-cis" tvg-name="ТНТ-International (СНГ)" tvg-logo="http://epg.one/img/5692.png" group-title="Россия", ТНТ International
 #EXTGRP:Россия
 https://ucdn.beetv.kz/bpk-tv/000007833/tve/index.m3u8
