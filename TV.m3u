@@ -1659,12 +1659,10 @@ https://ucdn.beetv.kz/bpk-tv/000001414/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000003174/tve/index.m3u8
 #EXTINF:-1 tvg-id="dikaya-oxota-hd" tvg-name="Дикая охота HD" tvg-logo="http://epg.one/img/2483.png" group-title="Познавательные", Дикая охота HD
 #EXTGRP:Познавательные
-#EXTVLCOPT:http-user-agent=SmartTV
-https://mhd128.iptv2022.com/p/AClnNKkuSxNIeVzGAdTxFA,1767128416/streaming/ohotahd/324/1/tracks-v5a1/mono.m3u8
+http://146.120.14.239:3001/play/a0ji
 #EXTINF:-1 tvg-id="dikaya-rybalka-hd" tvg-name="Дикая рыбалка HD" tvg-logo="http://epg.one/img/2484.png" group-title="Познавательные", Дикая рыбалка HD
 #EXTGRP:Познавательные
-#EXTVLCOPT:http-user-agent=SmartTV
-https://mhd128.iptv2022.com/p/MBqK0i-Vh85N7xyP0z10cA,1767128416/streaming/ribalkahd/324/1/tracks-v5a1/mono.m3u8
+http://146.120.14.239:3001/play/a0jk
 #EXTINF:-1 tvg-id="dikiy" tvg-name="Дикий" tvg-logo="http://epg.one/img/2283.png" group-title="Познавательные", Дикий
 #EXTGRP:Познавательные
 https://vod.splay.uz/live_splay/original/Dikiy/tracks-v1a1/mono.m3u8
