@@ -222,7 +222,7 @@ http://185.46.16.239:8000/OTR
 http://194.8.128.38:8080/ort/playlist.m3u8
 #EXTINF:-1 tvg-id="pervy" tvg-name="Первый канал HD" tvg-logo="http://epg.one/img/983.png" group-title="Россия", Первый канал FHD
 #EXTGRP:Россия
-http://178.16.151.67/ort_hd/index.m3u8
+http://95.66.188.74:80/PerviyHD/mono.m3u8
 #EXTINF:-1 tvg-id="pervy-kanal-eu" tvg-name="Первый канал Европа" tvg-logo="http://epg.one/img/4830.png" group-title="Россия", Первый Канал Европа
 #EXTGRP:Россия
 https://streaming.thestream.cyou/live/210-req_offset_28000000-req_window_0-1k_v5.m3u8
@@ -274,9 +274,6 @@ http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:-1 tvg-id="rtr-planeta-azia" tvg-name="Россия РТР" tvg-logo="https://epgx.club/picons/rtr-planeta-azia.png" group-title="Россия", Россия РТР (Азия)
 #EXTGRP:Россия
 https://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363.m3u8
-#EXTINF:-1 tvg-name="Россия РТР" tvg-logo="https://epgx.club/picons/rtr-planeta-azia.png" group-title="Россия", Россия РТР (СНГ)
-#EXTGRP:Россия
-http://player.smotrim.ru/iframe/stream/live_id/3b73bf76-7245-4981-a865-38478e21df1f.m3u8
 #EXTINF:-1 tvg-id="rtr-planeta-amerika" tvg-name="РТР-Планета Америка" tvg-logo="http://epg.one/img/2547.png" group-title="Россия", РТР-Планета Америка
 #EXTGRP:Россия
 http://player.smotrim.ru/iframe/stream/live_id/cf22fa5c-e21a-433e-8317-7e8dd3150d6a.m3u8
@@ -288,7 +285,7 @@ http://player.smotrim.ru/iframe/stream/live_id/d7fef212-df66-485d-9952-7eab82d7d
 http://95.47.156.60:8000/play/13/index.m3u8
 #EXTINF:-1 tvg-id="sts" tvg-name="СТС HD" tvg-logo="http://epg.one/img/79.png" group-title="Россия", СТС HD
 #EXTGRP:Россия
-http://89.104.114.2:8080/sts_hd/index.m3u8
+http://195.158.223.132:8005/STS
 #EXTINF:-1 tvg-id="sts-int" tvg-name="СТС International" tvg-logo="http://epg.one/img/5652.png" group-title="Россия", СТС International
 #EXTGRP:Россия
 https://ucdn.beetv.kz/bpk-tv/000000428/tve/index.m3u8
@@ -300,7 +297,7 @@ http://95.66.188.74:80/CTC_Love/mono.m3u8
 http://95.66.188.74/Subbota/index.m3u8
 #EXTINF:-1 tvg-id="tv3-ru" tvg-name="ТВ3" tvg-logo="http://epg.one/img/698.png" group-title="Россия", ТВ3
 #EXTGRP:Россия
-http://95.47.156.60:8000/play/15/index.m3u8
+http://195.158.223.132:8000/TV_3
 #EXTINF:-1 tvg-id="tv3-ru" tvg-name="ТВ3 HD" tvg-logo="http://epg.one/img/698.png" group-title="Россия", ТВ3 HD
 #EXTGRP:Россия
 http://195.158.223.132:8002/TV_3
