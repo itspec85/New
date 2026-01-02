@@ -2599,8 +2599,7 @@ http://195.9.195.3:8080/hls/163253.m3u8
 http://195.9.195.3:8080/manifest/157269_master.m3u8
 #EXTINF:-1 tvg-id="shot-tv" tvg-name="SHOT TV" tvg-logo="http://epg.one/img/431.png" group-title="Кино", SHOT TV
 #EXTGRP:Кино
-#EXTVLCOPT:http-user-agent=SmartTV
-https://mhd128.iptv2022.com/p/Hira-iILworpNBzE6gW7wA,1767128414/streaming/shottv/324/1/tracks-v5a1/mono.m3u8
+http://91.207.115.228:5000/c131
 #EXTINF:-1 tvg-id="start-air" tvg-name="START Air" tvg-logo="http://epg.one/img/6241.png" group-title="Кино", START Air HD
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000007815/tve/index.m3u8
@@ -2960,11 +2959,10 @@ http://95.66.188.74/MatchIgra/mono.m3u8
 http://158.101.222.193:88/georgia_play.php?id=matchplaneta
 #EXTINF:-1 tvg-id="match-premier" tvg-name="Матч! Премьер" tvg-logo="http://epg.one/img/2250.png" group-title="Спорт", МАТЧ ПРЕМЬЕР
 #EXTGRP:Спорт
-http://89.232.68.194:8080/matchpremier/tracks-v3a1/index.m3u8
+http://91.207.115.228:5000/c105
 #EXTINF:-1 tvg-id="match-premier" tvg-name="Матч! Премьер HD" tvg-logo="http://epg.one/img/2250.png" group-title="Спорт", МАТЧ ПРЕМЬЕР HD
 #EXTGRP:Спорт
-#EXTVLCOPT:http-user-agent=SmartTV
-https://mhd128.iptv2022.com/p/MmOFkhTYGf1dlr5S81pn1w,1767128423/streaming/match_premyerhd/324/1/tracks-v5a1/mono.m3u8
+http://89.232.68.194:8080/matchpremier/tracks-v3a1/index.m3u8
 #EXTINF:-1 tvg-id="match-nash-sport" tvg-name="Матч! Страна" tvg-logo="http://epg.one/img/2042.png" group-title="Спорт", МАТЧ! СТРАНА
 #EXTGRP:Спорт
 http://ukr.ukrainske.tv/134/keytvainua/video.m3u8
@@ -2973,22 +2971,19 @@ http://ukr.ukrainske.tv/134/keytvainua/video.m3u8
 http://193.25.8.59:8000/fut
 #EXTINF:-1 tvg-id="match-football1" tvg-name="Матч! Футбол 1 HD" tvg-logo="http://epg.one/img/2044.png" group-title="Спорт", Матч! Футбол 1 HD
 #EXTGRP:Спорт
-#EXTVLCOPT:http-user-agent=SmartTV
-https://mhd128.iptv2022.com/p/f6QcBTv9bwJUWW6Thjni2Q,1767128423/streaming/footbal1hd/324/1/tracks-v5a1/mono.m3u8
+http://91.207.115.228:5000/c114
 #EXTINF:-1 tvg-id="match-football2" tvg-name="Матч! Футбол 2" tvg-logo="http://epg.one/img/1042.png" group-title="Спорт", Матч! Футбол 2
 #EXTGRP:Спорт
 http://193.25.8.59:8000/fut2
 #EXTINF:-1 tvg-id="match-football2" tvg-name="Матч! Футбол 2 HD" tvg-logo="http://epg.one/img/1042.png" group-title="Спорт", Матч! Футбол 2 HD
 #EXTGRP:Спорт
-#EXTVLCOPT:http-user-agent=SmartTV
-https://mhd128.iptv2022.com/p/7ZCOiDChpIgVLeJeP7euNg,1767128423/streaming/footbal2hd/324/1/tracks-v5a1/mono.m3u8
+http://91.207.115.228:5000/c115
 #EXTINF:-1 tvg-id="match-football3" tvg-name="Матч! Футбол 3" tvg-logo="http://epg.one/img/2005.png" group-title="Спорт", Матч! Футбол 3
 #EXTGRP:Спорт
 http://193.25.8.59:8000/fut3
 #EXTINF:-1 tvg-id="match-football3" tvg-name="Матч! Футбол 3 HD" tvg-logo="http://epg.one/img/2005.png" group-title="Спорт", Матч! Футбол 3 HD
 #EXTGRP:Спорт
-#EXTVLCOPT:http-user-agent=SmartTV
-https://mhd128.iptv2022.com/p/B00JeY9gFvTPNo10Xu2jWw,1767128423/streaming/footbal3hd/324/1/tracks-v5a1/mono.m3u8
+http://91.207.115.228:5000/c116
 #EXTINF:-1 tvg-id="mir-basketbola" tvg-name="Мир баскетбола" tvg-logo="http://epg.one/img/4629.png" group-title="Спорт", Мир Баскетбола
 #EXTGRP:Спорт
 http://195.158.223.132:8003/Mir_Basketbola
