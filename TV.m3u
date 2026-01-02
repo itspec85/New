@@ -1866,9 +1866,6 @@ http://stv.mediacdn.ru/live/cdn/ani/playlist.m3u8
 #EXTINF:-1 tvg-id="balapan" tvg-name="Balapan" tvg-logo="https://epgx.club/picons/balapan.png" group-title="Детские", Balapan
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000005178/tve/index.m3u8
-#EXTINF:-1 tvg-id="bcu-kids-plus" tvg-name="BCU Kids+ HD" tvg-logo="http://epg.one/img/4757.png" group-title="Детские", BCU Kids+ HD
-#EXTGRP:Детские
-http://57.129.52.16/8454/index.m3u8?token=iptvin.ru&21yo=0
 #EXTINF:-1 tvg-id="cartoon-classics" tvg-name="Cartoon Classics" tvg-logo="http://epg.one/img/9183.png" group-title="Детские", Cartoon Classics
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000008795/tve/index.m3u8
@@ -1899,12 +1896,6 @@ https://ucdn.beetv.kz/bpk-tv/000000284/tve/index.m3u8
 #EXTINF:-1 tvg-name="IPTVPLAY МультСказки" tvg-logo="https://i122.fastpic.org/big/2024/0112/65/b20ebb09af08ef55dbdffa919a047c65.png" group-title="Детские", IPTVPLAY МультСказки
 #EXTGRP:Детские
 http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 tvg-id="magic-family" tvg-name="Magic Family" tvg-logo="http://epg.one/img/6337.png" group-title="Детские", Magic Family HD
-#EXTGRP:Детские
-http://cdn.iptvcinema.ru/magic_family/index.m3u8
-#EXTINF:-1 tvg-id="minimax-honey" tvg-name="MM Honey HD" tvg-logo="http://epg.one/img/5139.png" group-title="Детские", MM Honey HD
-#EXTGRP:Детские
-http://57.129.52.16/8895/index.m3u8?token=iptvin.ru&21yo=0
 #EXTINF:-1 tvg-id="nick-jr" tvg-name="Nick Jr" tvg-logo="http://epg.one/img/917.png" group-title="Детские", Nick Jr
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000000449/tve/index.m3u8
