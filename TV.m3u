@@ -2270,7 +2270,7 @@ http://hls.goodgame.ru:8080/hls/186021.m3u8
 http://193.25.8.59:8000/tlc
 #EXTINF:-1 tvg-id="trashtv" tvg-name="Trash HD" tvg-logo="http://epg.one/img/3361.png" group-title="Кино", Trash HD
 #EXTGRP:Кино
-http://157.90.0.245:8070/Trash_HD/index.m3u8
+http://178.163.2.144:4022/udp/234.0.0.3:2000
 #EXTINF:-1 tvg-id="tvxxi" tvg-name="TV XXI" tvg-logo="http://epg.one/img/309.png" group-title="Кино", TV XXI
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000000006/tve/index.m3u8
@@ -2291,9 +2291,6 @@ http://hls.goodgame.ru:8080/hls/218531.m3u8
 #EXTINF:-1 tvg-id="vip-comedy-cee" tvg-name="	Viasat Kino Comedy" tvg-logo="http://epg.one/img/8880.png" group-title="Кино", Viasat Kino Comedy HD
 #EXTGRP:Кино
 http://ukr2.ukrainske.tv/493/video.m3u8
-#EXTINF:-1 tvg-id="tv1000-worldkino" tvg-name="Viasat Kino World" tvg-logo="http://epg.one/img/8883.png" group-title="Кино", Viasat World Kino
-#EXTGRP:Кино
-http://5.188.159.128:8070/TV1000_World_Kino/index.m3u8
 #EXTINF:-1 tvg-id="tv1000" tvg-name="Viju TV1000" tvg-logo="http://epg.one/img/127.png" group-title="Кино", Viju TV1000
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000003747/tve/index.m3u8
