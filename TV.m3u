@@ -2214,13 +2214,10 @@ https://ucdn.beetv.kz/bpk-tv/000004471/tve/index.m3u8
 http://193.25.8.59:8000/interaz
 #EXTINF:-1 tvg-id="hollywood-hd" tvg-name="Hollywood HD" tvg-logo="http://epg.one/img/934.png" group-title="Кино", Hollywood HD
 #EXTGRP:Кино
-http://157.90.0.245:8070/HOLLYWOOD_HD/index.m3u8
+http://91.207.115.228:5000/c59
 #EXTINF:-1 tvg-name="Horror TV" tvg-logo="http://epg.one/img/8792.png" group-title="Кино", Horror TV
 #EXTGRP:Кино
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/93dc292b-cbcf-4988-ab97-94feced4c14b/manifest.m3u8
-#EXTINF:-1 tvg-name="HTV HD" tvg-logo="https://i.ibb.co/dwc9xqbb/htvhd.png" group-title="Кино", HTV HD
-#EXTGRP:Кино
-https://dvr3.vokkavideo.xyz/HTVHD/index.m3u8
 #EXTINF:-1 tvg-id="kino-24" tvg-name="Kino 24" tvg-logo="https://epgx.club/picons/kino-24.png" group-title="Кино", Kino 24
 #EXTGRP:Кино
 http://sirius.greenhosting.ru/Kino24Ru/tracks-v1a1/mono.m3u8
@@ -2238,10 +2235,6 @@ https://stream.ushba.tv/akamaiushba/ushba-films-a/tracks-v1a1/mono.m3u8
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=SmartTV
 http://195.9.195.3:8080/hls/206461.m3u8
-#EXTINF:-1 tvg-name="Moviee Toper" tvg-logo="https://avatars.mds.yandex.net/i?id=b4b1e3e299d7e77c8e8c3298752b66b338f1309a-4575769-images-thumbs&n=13" group-title="Кино", Moviee Toper
-#EXTGRP:Кино
-#EXTVLCOPT:http-user-agent=SmartTV
-http://195.9.195.3:8080/hls/214749.m3u8
 #EXTINF:-1 tvg-id="plan-b" tvg-name="Plan B HD" tvg-logo="http://epg.one/img/6643.png" group-title="Кино", Plan B HD
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000007625/tve/index.m3u8
@@ -2278,15 +2271,6 @@ http://193.25.8.59:8000/tlc
 #EXTINF:-1 tvg-id="trashtv" tvg-name="Trash HD" tvg-logo="http://epg.one/img/3361.png" group-title="Кино", Trash HD
 #EXTGRP:Кино
 http://157.90.0.245:8070/Trash_HD/index.m3u8
-#EXTINF:-1 tvg-name="TV4" tvg-logo="https://i.ibb.co/mVR1d4qx/hdlogo.png" group-title="Кино", TV4
-#EXTGRP:Кино
-http://188.208.197.173/tv4/video.m3u8?token=tvon
-#EXTINF:-1 tvg-name="TV4 Русское Кино HD" tvg-logo="https://i.ibb.co/mVR1d4qx/hdlogo.png" group-title="Кино", TV4 Русское Кино HD
-#EXTGRP:Кино
-https://dvr3.vokkavideo.xyz/TV4RUKINO/index.m3u8
-#EXTINF:-1 tvg-name="TV4 HD" tvg-logo="https://i.ibb.co/mVR1d4qx/hdlogo.png" group-title="Кино", TV4 HD
-#EXTGRP:Кино
-https://dvr3.vokkavideo.xyz/TV4HD/index.m3u8
 #EXTINF:-1 tvg-id="tvxxi" tvg-name="TV XXI" tvg-logo="http://epg.one/img/309.png" group-title="Кино", TV XXI
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000000006/tve/index.m3u8
