@@ -2168,10 +2168,6 @@ https://ucdn.beetv.kz/bpk-tv/000001662/tve/index.m3u8
 #EXTINF:-1 tvg-id="amedia-premium" tvg-name="Amedia Premium" tvg-logo="http://epg.one/img/1372.png" group-title="Кино", Amedia Premium
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000000709/tve/index.m3u8
-#EXTINF:-1 tvg-name="Akudji" tvg-logo="https://avatars.mds.yandex.net/i?id=072dfeedc99b3e73b671716676c4e004bb0245f9-16406395-images-thumbs&n=13" group-title="Кино", Akudji
-#EXTGRP:Кино
-#EXTVLCOPT:http-user-agent=SmartTV
-http://195.9.195.3:8080/hls/5346.m3u8
 #EXTINF:-1 tvg-id="bollywood-hd" tvg-name="Bollywood HD" tvg-logo="http://epg.one/img/1395.png" group-title="Кино", Bollywood HD
 #EXTGRP:Кино
 http://193.27.209.122/bollywood/index.m3u8
