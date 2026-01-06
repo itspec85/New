@@ -1321,8 +1321,7 @@ http://95.66.188.74/Bober/mono.m3u8
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="v-mire-zhivotnyx-hd" tvg-name="В мире животных HD" tvg-logo="http://epg.one/img/2498.png" group-title="Познавательные", В мире животных HD
 #EXTGRP:Познавательные
-#EXTVLCOPT:http-user-agent=SmartTV
-https://mhd128.iptv2022.com/p/Gt7ubJokpgxV53pFybHa8Q,1767128420/streaming/animalshd/324/1/tracks-v5a1/mono.m3u8
+https://mhd116.iptv2022.com/p/mTx3cLBm0gaV80vZU7FrCA,1767746066/streaming/animalshd/324/1/index.m3u8
 #EXTINF:-1 tvg-name="Вера 24" tvg-logo="https://i.imgur.com/Qer5Lnh.png" group-title="Познавательные", Вера 24
 #EXTGRP:Познавательные
 https://5f05e059699ae.streamlock.net/WEB_Vera24/ngrp:Vera24.stream-adaptive/playlist.m3u8
@@ -1499,8 +1498,7 @@ http://media.16pm.ru/live/tracks-v1a1/mono.ts.m3u8
 https://ucdn.beetv.kz/bpk-tv/000002991/tve/index.m3u8
 #EXTINF:-1 tvg-id="prikluchenia-hd" tvg-name="Приключения HD" tvg-logo="http://epg.one/img/2311.png" group-title="Познавательные", Приключения HD
 #EXTGRP:Познавательные
-#EXTVLCOPT:http-user-agent=SmartTV
-https://mhd128.iptv2022.com/p/lpp_dhHueQfRcJqZRFmQRA,1767128420/streaming/adventurehd/324/1/tracks-v5a1/mono.m3u8
+https://mhd116.iptv2022.com/p/pOycqdbKmE8MFOCDX0bRsQ,1767746066/streaming/adventurehd/324/1/index.m3u8
 #EXTINF:-1 tvg-id="pro-business" tvg-name="ПРО бизнес" tvg-logo="http://epg.one/img/2753.png" group-title="Познавательные", ПРО Бизнес
 #EXTGRP:Познавательные
 http://176.107.219.20:9000/play/a003/index.m3u8
