@@ -2644,6 +2644,9 @@ https://mhd116.iptv2022.com/p/uDCteJCa17A6UU9cwDvJYw,1767832764/streaming/footba
 #EXTINF:-1 tvg-id="mir-basketbola" tvg-name="Мир баскетбола" tvg-logo="http://epg.one/img/4629.png" group-title="Спорт", Мир Баскетбола
 #EXTGRP:Спорт
 http://195.158.223.132:8003/Mir_Basketbola
+#EXTINF:-1 tvg-id="okko-sport-2" tvg-name="Окко.Прайм Спорт" tvg-logo="http://epg.one/img/9324.png" group-title="Спорт", Окко Прайм Спорт
+#EXTGRP:Спорт
+http://185.221.213.254:8080/Okko/index.m3u8
 #EXTINF:-1 tvg-id="start" tvg-name="Старт" tvg-logo="http://epg.one/img/2530.png" group-title="Спорт", СТАРТ
 #EXTGRP:Спорт
 #EXTVLCOPT:http-user-agent=SmartTV
