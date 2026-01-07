@@ -2668,9 +2668,6 @@ http://x3m.li/live/buk8YDg1/kXBoUb25/19118.m3u8
 #EXTINF:-1 tvg-name="beIN Sports 2 HD TR" tvg-logo="http://epg.one/img/3874.png" group-title="Спорт", beIN Sports 2 HD TR
 #EXTGRP:Спорт
 http://x3m.li/live/buk8YDg1/kXBoUb25/19119.m3u8
-#EXTINF:-1 tvg-name="Billiard TV" tvg-logo="https://avatars.mds.yandex.net/i?id=b42dfcc65e0421933184166140afd83040f5ba1b-5369205-images-thumbs&n=13" group-title="Спорт", Billiard TV
-#EXTGRP:Спорт
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65df0cff66eec8000897b3a4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1cc775-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=36e4c683-680e-486f-91f0-ce1f0f88c4b6
 #EXTINF:-1 tvg-id="cbc-sport" tvg-name="CBC Sport" tvg-logo="http://epg.one/img/2636.png" group-title="Спорт", CBC Sport AZ
 #EXTGRP:Спорт
 http://x3m.li/live/buk8YDg1/kXBoUb25/19740.m3u8
@@ -2686,15 +2683,12 @@ https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/playl
 #EXTINF:-1 tvg-id="espn-us" tvg-name="ESPN USA" tvg-logo="http://epg.one/img/6582.png" group-title="Спорт", ESPN USA
 #EXTGRP:Спорт
 http://cord-cutter.net:8080/LeeAv21/AvantL12/14197
-#EXTINF:-1 tvg-id="espn2-us" tvg-name="ESPN2 [US]" tvg-logo="http://epg.one/img/6581.png" group-title="Спорт", ESPN 2 HD USA
-#EXTGRP:Спорт
-http://5startv.xyz:8080/7062390861/ksAGBaT29HEb/9568
 #EXTINF:-1 tvg-id="eurosport1" tvg-name="Eurosport 1" tvg-logo="http://epg.one/img/2052.png" group-title="Спорт", Eurosport 1
 #EXTGRP:Спорт
 https://ucdn.beetv.kz/bpk-tv/000002478/tve/index.m3u8
 #EXTINF:-1 tvg-id="eurosport1" tvg-name="Eurosport 1" tvg-logo="http://epg.one/img/2052.png" group-title="Спорт", Eurosport 1 (резерв)
 #EXTGRP:Спорт
-https://hls.setanta-1.ru/hls/euro1.m3u8
+https://vod.splay.uz/live_splay/original/Eurosport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="eurosport2" tvg-name="Eurosport 2" tvg-logo="http://epg.one/img/4313.png" group-title="Спорт", Eurosport 2
 #EXTGRP:Спорт
 https://ucdn.beetv.kz/bpk-tv/000002479/tve/index.m3u8
@@ -2817,7 +2811,7 @@ https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="trace-sport-stars" tvg-name="Trace Sport Stars HD" tvg-logo="http://epg.one/img/7507.png" group-title="Спорт", Trace Sport Stars HD
 #EXTGRP:Спорт
-http://95.67.12.82:9067
+http://87.120.142.11:18000/Rossiya1
 #EXTINF:-1 tvg-id="trt-3-hd" tvg-name="TRT Spor" tvg-logo="http://epg.one/img/6525.png" group-title="Спорт", TRT Spor TR
 #EXTGRP:Спорт
 http://favoritest25.shop:8080/635fundaorlu/937fundaorlu/6109
