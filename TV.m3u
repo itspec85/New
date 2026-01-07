@@ -2182,6 +2182,10 @@ http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="paramount-comedy" tvg-name="Comedy Central" tvg-logo="http://epg.one/img/920.png" group-title="Кино", Comedy Central
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000000452/tve/index.m3u8
+#EXTINF:-1 tvg-name="Dimpon HD" tvg-logo="https://static.goodgame.ru/files/avatars/av_1643154_P8Jo.jpg" group-title="Кино", Dimpon HD
+#EXTGRP:Кино
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/210470.m3u8
 #EXTINF:-1 tvg-name="Fantoms" tvg-logo="https://static.goodgame.ru/files/pics/266268_VVSa.png" group-title="Кино", Fantoms
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=SmartTV
@@ -2237,6 +2241,10 @@ https://stream.ushba.tv/akamaiushba/ushba-films-a/tracks-v1a1/mono.m3u8
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=SmartTV
 http://195.9.195.3:8080/hls/206461.m3u8
+#EXTINF:-1 tvg-name="Moviee Toper" tvg-logo="https://static.goodgame.ru/files/avatars/av_1676704_9wc1.jpg" group-title="Кино", Moviee Toper
+#EXTGRP:Кино
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/214749.m3u8
 #EXTINF:-1 tvg-id="plan-b" tvg-name="Plan B HD" tvg-logo="http://epg.one/img/6643.png" group-title="Кино", Plan B HD
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000007625/tve/index.m3u8
