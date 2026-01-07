@@ -2724,13 +2724,10 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e
 http://cdn.voka.tv/live/2100-req_5k_v5.m3u8
 #EXTINF:-1 tvg-id="nba-tv" tvg-name="NBA TV HD US" tvg-logo="http://epg.one/img/4587.png" group-title="Спорт", NBA TV HD US
 #EXTGRP:Спорт
-http://x3m.li/live/buk8YDg1/kXBoUb25/16337.m3u8
+https://bl.rutube.ru/livestream/d01241e9fd2bc2d65dbf6d74cca02f89/index.m3u8?s=dETTQaHdwXO6zmO5Y-wozA&e=2067730155&scheme=https
 #EXTINF:-1 tvg-id="nfl-network" tvg-name="NFL Network HD CA" tvg-logo="http://epg.one/img/3568.png" group-title="Спорт", NFL Network HD CA
 #EXTGRP:Спорт
 https://fl1.moveonjoy.com/NFL_NETWORK/index.m3u8
-#EXTINF:-1 tvg-name="NHL Network US" tvg-logo="http://epg.one/img/4562.png" group-title="Спорт", NHL Network US
-#EXTGRP:Спорт
-http://kstv.us:8080/c2Q2HDqQfM/111770/15941
 #EXTINF:-1 tvg-name="Pac 12 Insider USA" tvg-logo="https://i.imgur.com/736QREy.png" group-title="Спорт", Pac 12 Insider USA
 #EXTGRP:Спорт
 https://pac12-roku-us.amagi.tv/playlist.m3u8
@@ -2779,9 +2776,9 @@ https://ucdn.beetv.kz/bpk-tv/000004499/tve/index.m3u8
 #EXTINF:-1 tvg-id="setanta2-ge" tvg-name="Setanta Sports 2 GE" tvg-logo="http://epg.one/img/6805.png" group-title="Спорт", Setanta Sports 2 GE
 #EXTGRP:Спорт
 http://158.101.222.193:88/georgia_play.php?id=setanta_sports_plus_georgia
-#EXTINF:-1 tvg-name="Sky Sport Tennis DE" tvg-logo="https://avatars.mds.yandex.net/get-entity_search/2269087/501040022/S104x104FitScale_2x" group-title="Спорт", Sky Sport Tennis DE
+#EXTINF:-1 tvg-id="sky-sports-tennis" tvg-name="Sky Sports Tennis [UK]" tvg-logo="https://avatars.mds.yandex.net/get-entity_search/2269087/501040022/S104x104FitScale_2x" group-title="Спорт", Sky Sport Tennis DE
 #EXTGRP:Спорт
-http://184585.ipturk.eu/ozgurozdemir/19051907ok/230406
+https://bl.rutube.ru/livestream/5f5dc9d64b43dfc740e92f2bdf2b0d38/index.m3u8?s=Yz-1aGV40bGEy8WEbP7DMw&e=2067730155&scheme=https
 #EXTINF:-1 tvg-id="sky-sports-arena" tvg-name="Sky Sports+ HD UK" tvg-logo="http://epg.one/img/4572.png" group-title="Спорт", Sky Sports+ HD UK
 #EXTGRP:Спорт
 https://7pal.short.gy/ssportplus
