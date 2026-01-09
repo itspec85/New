@@ -1706,7 +1706,7 @@ https://ucdn.beetv.kz/bpk-tv/000004474/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000000034/tve/index.m3u8
 #EXTINF:-1 tvg-id="ocean-tv" tvg-name="OCEAN-TV" tvg-logo="http://epg.one/img/55.png" group-title="Познавательные", OCEAN-TV
 #EXTGRP:Познавательные
-http://195.158.223.132:8009/Ocean_HD
+http://86.57.209.210/Ocean/index.m3u8
 #EXTINF:-1 tvg-id="one-planet" tvg-name="One Planet" tvg-logo="https://epgx.club/picons/one-planet.png" group-title="Познавательные", One Planet
 #EXTGRP:Познавательные
 http://95.67.12.82:9088
@@ -2027,7 +2027,7 @@ https://vod.splay.uz/live_splay/original/Kinoxit/tracks-v1a1/mono.m3u8
 http://195.9.195.3:8080/hls/204709.m3u8
 #EXTINF:-1 tvg-id="lubimoe-kino" tvg-name="Любимое кино" tvg-logo="http://epg.one/img/477.png" group-title="Кино", Любимое Кино
 #EXTGRP:Кино
-http://195.158.223.132:8008/Lubimoe_Kino
+http://176.118.197.101/LubimoeKino/index.m3u8
 #EXTINF:-1 tvg-name="Малдер Всё ТВ" tvg-logo="https://avatars.mds.yandex.net/i?id=845901c7a4f4738e4b26e19565dd26494642b248-5150784-images-thumbs&n=13" group-title="Кино", Малдер Всё ТВ
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=SmartTV
@@ -2091,7 +2091,7 @@ http://hls127.freeott.top:8080/ProLubovHD/mono.m3u8
 http://193.25.8.59:8000/retro
 #EXTINF:-1 tvg-id="rodnoe-kino" tvg-name="Родное кино" tvg-logo="http://epg.one/img/12.png" group-title="Кино", РОДНОЕ КИНО
 #EXTGRP:Кино
-http://195.158.223.132:8008/Rodnoe_Kino
+http://176.118.197.101/RodnoeKino/index.m3u8
 #EXTINF:-1 tvg-id="russkaya-komedia" tvg-name="Русская комедия" tvg-logo="http://epg.one/img/1620.png" group-title="Кино", Русская комедия
 #EXTGRP:Кино
 http://95.66.188.74/Comedia/mono.m3u8
@@ -2888,7 +2888,7 @@ http://kino-1.catcast.tv/content/37739/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000000204/tve/index.m3u8
 #EXTINF:-1 tvg-id="o2tv" tvg-name="О2 ТВ" tvg-logo="http://epg.one/img/2412.png" group-title="Музыка", О2 ТВ
 #EXTGRP:Музыка
-http://195.158.223.132:8010/O!2
+http://77.232.131.211/O2TV/index.m3u8
 #EXTINF:-1 tvg-name="Первый музыкальный BY" tvg-logo="http://epg.one/img/5365.png" group-title="Музыка", Первый музыкальный BY
 #EXTGRP:Музыка
 http://hz1.teleport.cc/HLS/HD.m3u8
