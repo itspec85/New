@@ -1423,7 +1423,7 @@ https://fl1001.bozztv.com/ushba3/tracks-v1a1/mono.m3u8
 http://95.66.188.74/MoyaPlanetaHD/mono.m3u8
 #EXTINF:-1 tvg-id="muzhskoy" tvg-name="Мужской" tvg-logo="http://epg.one/img/2444.png" group-title="Познавательные", Мужской
 #EXTGRP:Познавательные
-http://195.158.223.132:8009/Muzhskoy
+http://195.26.83.96:7007/play/11/index.m3u8
 #EXTINF:-1 tvg-id="muzhskoy" tvg-name="Мужской HD" tvg-logo="http://epg.one/img/2444.png" group-title="Познавательные", Мужской HD
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000000286/tve/index.m3u8
@@ -1730,7 +1730,7 @@ https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-4/mxtm-wdfe_1080p/chunkl
 http://95.66.188.74/RTGHD/index.m3u8
 #EXTINF:-1 tvg-id="rtg-tv" tvg-name="RTG TV" tvg-logo="http://epg.one/img/2280.png" group-title="Познавательные", RTG TV
 #EXTGRP:Познавательные
-http://195.158.223.132:8009/RTG_TV
+http://195.26.83.96:7007/play/a00n/index.m3u8
 #EXTINF:-1 tvg-id="rtvi" tvg-name="RTVi" tvg-logo="http://epg.one/img/2401.png" group-title="Познавательные", RTVi
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000000039/tve/index.m3u8
