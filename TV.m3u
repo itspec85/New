@@ -2930,10 +2930,10 @@ http://193.25.8.59:8000/rusong
 http://193.25.8.59:8000/mtv
 #EXTINF:-1 tvg-id="bridge-tv-classic" tvg-name="Bridge TV Classic" tvg-logo="http://epg.one/img/4373.png" group-title="Музыка", Bridge Classic orig
 #EXTGRP:Музыка
-http://195.158.223.132:8004/Bridge_Classic
+http://31.148.48.15:80/Bridge_TV_Classic/index.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-dance" tvg-name="Bridge TV Hits" tvg-logo="http://epg.one/img/2024.png" group-title="Музыка", Bridge Hits
 #EXTGRP:Музыка
-http://195.158.223.132:8004/Bridge_Hits
+http://5.188.159.128:8070/Bridge_TV_Hits/index.m3u8
 #EXTINF:-1 tvg-id="clubbing-tv" tvg-name="Clubbing TV" tvg-logo="http://epg.one/img/2628.png" group-title="Музыка", Clubbing TV
 #EXTGRP:Музыка
 https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uze1m6xh4fiyr-ssai-prd/master.m3u8
