@@ -1554,9 +1554,12 @@ https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream_480p/playlist.
 #EXTINF:-1 tvg-id="tbn-ru" tvg-name="ТБН" tvg-logo="http://epg.one/img/2360.png" group-title="Познавательные", ТБН
 #EXTGRP:Познавательные
 https://5f05e059699ae.streamlock.net/WEB_TBN/ngrp:TBN.stream-adaptive/playlist.m3u8
+#EXTINF:-1 tvg-id="tvoyo-tv-hd" tvg-name="Твоё ТВ HD" tvg-logo="http://epg.one/img/5441.png" group-title="Познавательные", Твоё ТВ HD
+#EXTGRP:Познавательные
+https://tvoetv.space/tvoetv/video.m3u8
 #EXTINF:-1 tvg-id="tvoetv-humor" tvg-name="ТВОЕ ТВ - ЮМОР" tvg-logo="https://iptvx.one/picons/tvoetv-humor.png" group-title="Познавательные", ТВОЕ ТВ - ЮМОР
 #EXTGRP:Познавательные
-http://tvoetv.space:8080/tvoetv_humor/index.m3u8
+https://tvoetv.space/tvoetv_humor/video.m3u8
 #EXTINF:-1 tvg-id="teatr" tvg-name="Театр" tvg-logo="http://epg.one/img/2827.png" group-title="Познавательные", Театр
 #EXTGRP:Познавательные
 http://193.25.8.59:8000/teatr
@@ -2118,9 +2121,6 @@ https://mhd116.iptv2022.com/p/cYQO67vPwySOiQpbBkNf3Q,1767939889/streaming/sovet_
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=SmartTV
 https://mhd116.iptv2022.com/p/l8E0AWwzlVSZq4OTIPGOzg,1767939807/streaming/sovietmovs/324/1/index.m3u8
-#EXTINF:-1 tvg-id="tvoyo-tv-hd" tvg-name="Твоё ТВ HD" tvg-logo="http://epg.one/img/5441.png" group-title="Кино", Твоё ТВ HD
-#EXTGRP:Кино
-http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 tvg-id="feniks-plus-kino" tvg-name="Феникс плюс Кино" tvg-logo="http://epg.one/img/2404.png" group-title="Кино", Феникс плюс Кино
 #EXTGRP:Кино
 http://158.101.222.193:88/georgia_play.php?id=fenikspluskino
