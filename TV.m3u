@@ -1671,6 +1671,9 @@ https://fashs043.cloudycdn.services/scte/sftv2/sftv2_chunklist.m3u8
 #EXTINF:-1 tvg-id="fox-news-us" tvg-name="FOX NEWS CHANNEL FHD" tvg-logo="http://epg.one/img/6683.png" group-title="Познавательные", FOX NEWS CHANNEL FHD
 #EXTGRP:Познавательные
 http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
+#EXTINF:-1 tvg-id="france24-fr" tvg-name="France 24 Fr" tvg-logo="http://epg.one/img/2127.png" group-title="Познавательные", France 24 FR
+#EXTGRP:Познавательные
+http://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="gags-network" tvg-name="Gags Network" tvg-logo="http://epg.one/img/3551.png" group-title="Познавательные", Gags Network
 #EXTGRP:Познавательные
 http://hls127.freeott.top:8080/Gagsnetwork/mono.m3u8
