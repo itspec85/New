@@ -2238,6 +2238,9 @@ http://195.9.195.3:8080/hls/219255.m3u8
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=SmartTV
 http://hls.goodgame.ru:8080/hls/216612.m3u8
+#EXTINF:-1 tvg-name="Kinowalk TV" tvg-logo="https://images.live.vkvideo.ru/user/20428041/avatar?change_time=1766171277&croped=1&mh=140&mw=140" group-title="Кино", Kinowalk TV
+#EXTGRP:Кино
+https://kinowalk.hopto.org/kinowalk_live
 #EXTINF:-1 tvg-name="LAV-KINO" tvg-logo="https://avatars.mds.yandex.net/i?id=d345b761b1d177dd5e38d776f2ad20a51ab97ebf-5668792-images-thumbs&n=13" group-title="Кино", LAV-KINO
 #EXTGRP:Кино
 https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
@@ -2316,6 +2319,10 @@ http://hls.goodgame.ru:8080/hls/218531.m3u8
 #EXTINF:-1 tvg-id="vip-comedy-cee" tvg-name="	Viasat Kino Comedy" tvg-logo="http://epg.one/img/8880.png" group-title="Кино", Viasat Kino Comedy HD
 #EXTGRP:Кино
 http://ukr2.ukrainske.tv/493/video.m3u8
+#EXTINF:-1 tvg-name="Video Channel" tvg-logo="https://goodgame.ru/files/avatars/av_1684385_xhlq.jpg" group-title="Кино", Video Channel
+#EXTGRP:Кино
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/215741.m3u8
 #EXTINF:-1 tvg-id="tv1000" tvg-name="Viju TV1000" tvg-logo="http://epg.one/img/127.png" group-title="Кино", Viju TV1000
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000003747/tve/index.m3u8
