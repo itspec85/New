@@ -174,9 +174,6 @@ https://ucdn.beetv.kz/bpk-tv/000001213/tve/index.m3u8
 #EXTINF:-1 tvg-id="domashny" tvg-name="Домашний" tvg-logo="http://epg.one/img/304.png" group-title="Россия", Домашний
 #EXTGRP:Россия
 http://185.46.16.239:8000/Domashniy
-#EXTINF:-1 tvg-id="domashny" tvg-name="Домашний HD" tvg-logo="http://epg.one/img/304.png" group-title="Россия", Домашний HD
-#EXTGRP:Россия
-http://195.158.223.132:8002/Domashniy
 #EXTINF:-1 tvg-id="domashny-int" tvg-name="Домашний International" tvg-logo="https://iptvx.one/picons/domashny-int.png" group-title="Россия", Домашний International
 #EXTGRP:Россия
 https://ucdn.beetv.kz/bpk-tv/000002348/tve/index.m3u8
@@ -203,7 +200,7 @@ http://95.66.188.74/MIR/index.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="mir-24" tvg-name="Мир 24" tvg-logo="http://epg.one/img/2078.png" group-title="Россия", Мир 24
 #EXTGRP:Россия
-http://195.158.223.132:8000/Mir_24
+http://193.25.8.59:8000/mir24
 #EXTINF:-1 tvg-id="mir-24" tvg-name="Мир 24 HD" tvg-logo="http://epg.one/img/2078.png" group-title="Россия", Мир 24 HD
 #EXTGRP:Россия
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
@@ -261,7 +258,7 @@ https://ucdn.beetv.kz/bpk-tv/000002472/tve/index.m3u8
 http://109.207.243.18/2/index.m3u8
 #EXTINF:-1 tvg-id="rossia1" tvg-name="Россия 1 HD" tvg-logo="http://epg.one/img/984.png" group-title="Россия", Россия 1 HD
 #EXTGRP:Россия
-http://91.207.115.228:5000/c100
+http://95.66.188.74/Rossia1HD/mono.m3u8
 #EXTINF:-1 tvg-id="rossia-24" tvg-name="Россия-24" tvg-logo="http://epg.one/img/1683.png" group-title="Россия", Россия-24
 #EXTGRP:Россия
 http://95.66.188.74/Rossia24/index.m3u8
