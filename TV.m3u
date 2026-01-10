@@ -503,6 +503,9 @@ http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RENTV_7.m3u8
 #EXTGRP:Россия плюсовые
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VLG_SARATOV_ROSSIA1/variant.m3u8
+#EXTINF:-1 tvg-id="rossia1" tvg-shift="-1" tvg-name="Россия 1 +1 HD" tvg-logo="http://epg.one/img/711.png" group-title="Россия плюсовые", Россия 1 +1 HD
+#EXTGRP:Россия плюсовые
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/1/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-id="rossia1" tvg-shift="-2" tvg-name="Россия 1 +2" tvg-logo="http://epg.one/img/3000.png" group-title="Россия плюсовые", Россия 1 +2
 #EXTGRP:Россия плюсовые
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -514,6 +517,9 @@ http://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/russia1-hd/index.m3u8
 #EXTGRP:Россия плюсовые
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_OMSK_ROSSIA1_OMSKOBL/variant.m3u8
+#EXTINF:-1 tvg-id="rossia1" tvg-shift="-3" tvg-name="Россия 1 +3 HD" tvg-logo="http://epg.one/img/711.png" group-title="Россия плюсовые", Россия 1 +3 HD
+#EXTGRP:Россия плюсовые
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/3/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-id="rossia1" tvg-shift="-4" tvg-name="Россия 1 +4" tvg-logo="http://epg.one/img/3001.png" group-title="Россия плюсовые", Россия 1 +4
 #EXTGRP:Россия плюсовые
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -525,6 +531,9 @@ http://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/russia1-hd/index.m3u8
 #EXTGRP:Россия плюсовые
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_IRK_ROSSIA1/variant.m3u8
+#EXTINF:-1 tvg-id="rossia1" tvg-shift="-5" tvg-name="Россия 1 +5 HD" tvg-logo="http://epg.one/img/711.png" group-title="Россия плюсовые", Россия 1 +5 HD
+#EXTGRP:Россия плюсовые
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/5/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-id="rossia1" tvg-shift="-6" tvg-name="Россия 1 +6" tvg-logo="http://epg.one/img/711.png" group-title="Россия плюсовые", Россия 1 +6
 #EXTGRP:Россия плюсовые
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
