@@ -2430,45 +2430,9 @@ http://autopilot.catcast.tv/content/41333/index.m3u8
 #EXTINF:-1 tvg-name="Сити Эдем - ТелеНовелла" tvg-logo="https://www.cityeden.info/logotv/logotip_telenovella.png" group-title="Кинозал", Сити Эдем - ТелеНовелла
 #EXTGRP:Кинозал
 https://autopilot.catcast.tv/content/46209/index.m3u8
-#EXTINF:-1 tvg-id="bcu-svaty" tvg-name="BCU Сваты HD" tvg-logo="http://epg.one/img/4768.png" group-title="Кинозал", BCU Сваты HD
-#EXTGRP:Кинозал
-http://57.129.52.16/8889/index.m3u8?token=iptvin.ru&21yo=0
-#EXTINF:-1 tvg-id="bcu-catastrophe" tvg-name="BCU Catastrophe HD" tvg-logo="http://epg.one/img/4749.png" group-title="Кинозал", BCU Catastrophe HD
-#EXTGRP:Кинозал
-http://57.129.52.16/8877/index.m3u8?token=iptvin.ru&21yo=0
-#EXTINF:-1 tvg-id="bcu-kinorating" tvg-name="BCU Kinorating HD" tvg-logo="http://epg.one/img/4758.png" group-title="Кинозал", BCU Kinorating HD
-#EXTGRP:Кинозал
-http://hls127.freeott.top:8080/BCUKinoratingHD/mono.m3u8
-#EXTINF:-1 tvg-id="bcu-romantic" tvg-name="BCU Romantic HD" tvg-logo="http://epg.one/img/4761.png" group-title="Кинозал", BCU Romantic HD
-#EXTGRP:Кинозал
-http://57.129.52.16/8884/index.m3u8?token=iptvin.ru&21yo=0
 #EXTINF:-1 tvg-id="bcu-stars" tvg-name="BCU Stars HD" tvg-logo="http://epg.one/img/4765.png" group-title="Кинозал", BCU Stars HD
 #EXTGRP:Кинозал
 http://hls127.freeott.top:8080/BCUStarsHD/mono.m3u8
-#EXTINF:-1 tvg-id="box-gangster" tvg-name="BOX Gangster HD" tvg-logo="http://epg.one/img/6699.png" group-title="Кинозал", BOX Gangster HD
-#EXTGRP:Кинозал
-http://57.129.52.16/8985/index.m3u8?token=iptvin.ru&21yo=0
-#EXTINF:-1 tvg-id="box-serial" tvg-name="BOX Serial HD" tvg-logo="http://epg.one/img/6703.png" group-title="Кинозал", BOX Serial HD
-#EXTGRP:Кинозал
-http://57.129.52.16/8988/index.m3u8?token=iptvin.ru&21yo=0
-#EXTINF:-1 tvg-id="box-spy" tvg-name="BOX Spy HD" tvg-logo="http://epg.one/img/6705.png" group-title="Кинозал", BOX Spy HD
-#EXTGRP:Кинозал
-http://57.129.52.16/8354/index.m3u8?token=iptvin.ru&21yo=0
-#EXTINF:-1 tvg-id="box-zombie" tvg-name="BOX Zombie HD" tvg-logo="http://epg.one/img/6833.png" group-title="Кинозал", BOX Zombie HD
-#EXTGRP:Кинозал
-http://57.129.52.16/8418/index.m3u8?token=iptvin.ru&21yo=0
-#EXTINF:-1 tvg-id="cineman-rukino" tvg-name="CineMan РуКино" tvg-logo="http://epg.one/img/4691.png" group-title="Кинозал", CineMan РуКино
-#EXTGRP:Кинозал
-http://57.129.52.16/8871/index.m3u8?token=iptvin.ru&21yo=0
-#EXTINF:-1 tvg-id="cineman-miniseries" tvg-name="CineMan MiniSeries" tvg-logo="http://epg.one/img/7150.png" group-title="Кинозал", CineMan MiniSeries
-#EXTGRP:Кинозал
-http://57.129.52.16/8961/index.m3u8?token=iptvin.ru&21yo=0
-#EXTINF:-1 tvg-id="cineman-thriller" tvg-name="CineMan Thriller" tvg-logo="http://epg.one/img/4685.png" group-title="Кинозал", CineMan Thriller
-#EXTGRP:Кинозал
-http://57.129.52.16/8954/index.m3u8?token=iptvin.ru&21yo=0
-#EXTINF:-1 tvg-id="cineman-vhs" tvg-name="CineMan VHS" tvg-logo="http://epg.one/img/4690.png" group-title="Кинозал", CineMan VHS
-#EXTGRP:Кинозал
-http://57.129.52.16/8807/index.m3u8?token=iptvin.ru&21yo=0
 #EXTINF:-1 tvg-id="clarity4k-boevik" tvg-name="Clarity4K Боевик" tvg-logo="https://epgx.club/picons/clarity4k-boevik.png" group-title="Кинозал", Clarity4K Боевик
 #EXTGRP:Кинозал
 http://hls127.freeott.top:8080/Clarity4K_Boevik/video.m3u8
@@ -2547,54 +2511,6 @@ http://5.188.158.65:4040/IPTVPLAYUZHASTIK.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1 tvg-name="IPTVPLAY Фантастика" tvg-logo="https://i.ibb.co/pbxx3Sd/Fantastika.png" group-title="Кинозал", IPTVPLAY Фантастика
 #EXTGRP:Кинозал
 http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 tvg-id="kernel-vremia" tvg-name="Kernel TV Время" tvg-logo="https://epgx.club/picons/kernel-vremia.png" group-title="Кинозал", Kernel TV Время
-#EXTGRP:Кинозал
-http://57.129.52.16/9054/index.m3u8?token=iptvin.ru&21yo=0
-#EXTINF:-1 tvg-id="kernel-geroj" tvg-name="Kernel TV Герой" tvg-logo="https://epgx.club/picons/kernel-geroj.png" group-title="Кинозал", Kernel TV Герой
-#EXTGRP:Кинозал
-http://57.129.52.16/9055/index.m3u8?token=iptvin.ru&21yo=0
-#EXTINF:-1 tvg-id="kernel-doktor" tvg-name="Kernel TV Доктор" tvg-logo="https://epgx.club/picons/kernel-doktor.png" group-title="Кинозал", Kernel TV Доктор
-#EXTGRP:Кинозал
-http://57.129.52.16/9058/index.m3u8?token=iptvin.ru&21yo=0
-#EXTINF:-1 tvg-id="kernel-interny" tvg-name="Kernel TV Интерны" tvg-logo="https://epgx.club/picons/kernel-interny.png" group-title="Кинозал", Kernel TV Интерны
-#EXTGRP:Кинозал
-http://57.129.52.16/9061/index.m3u8?token=iptvin.ru&21yo=0
-#EXTINF:-1 tvg-id="kernel-komedia" tvg-name="Kernel TV Комедия" tvg-logo="https://epgx.club/picons/kernel-komedia.png" group-title="Кинозал", Kernel TV Комедия
-#EXTGRP:Кинозал
-http://57.129.52.16/9063/index.m3u8?token=iptvin.ru&21yo=0
-#EXTINF:-1 tvg-id="kernel-kosmos" tvg-name="Kernel TV Космос" tvg-logo="https://epgx.club/picons/kernel-kosmos.png" group-title="Кинозал", Kernel TV Космос
-#EXTGRP:Кинозал
-http://57.129.52.16/9064/index.m3u8?token=iptvin.ru&21yo=0
-#EXTINF:-1 tvg-id="kernel-marvelser" tvg-name="Kernel TV Мервел сериалы" tvg-logo="https://epgx.club/picons/kernel-marvelser.png" group-title="Кинозал", Kernel TV Мервел сериалы
-#EXTGRP:Кинозал
-http://57.129.52.16/9073/index.m3u8?token=iptvin.ru&21yo=0
-#EXTINF:-1 tvg-id="kernel-newmovies" tvg-name="Kernel TV Новинки" tvg-logo="https://epgx.club/picons/kernel-newmovies.png" group-title="Кинозал", Kernel TV Новинки
-#EXTGRP:Кинозал
-http://57.129.52.16/9077/index.m3u8?token=iptvin.ru&21yo=0
-#EXTINF:-1 tvg-id="kernel-svaty" tvg-name="Kernel TV Сваты" tvg-logo="https://epgx.club/picons/kernel-svaty.png" group-title="Кинозал", Kernel TV Сваты
-#EXTGRP:Кинозал
-http://57.129.52.16/9080/index.m3u8?token=iptvin.ru&21yo=0
-#EXTINF:-1 tvg-id="minimax-drama" tvg-name="MM Драма HD" tvg-logo="http://epg.one/img/6065.png" group-title="Кинозал", MM Драма HD
-#EXTGRP:Кинозал
-http://57.129.52.16/8634/index.m3u8?token=iptvin.ru&21yo=0
-#EXTINF:-1 tvg-id="minimax-sport" tvg-name="MM Спорт HD" tvg-logo="http://epg.one/img/5167.png" group-title="Кинозал", MM Спорт HD
-#EXTGRP:Кинозал
-http://157.90.0.245:8070/minimax-sport/index.m3u8
-#EXTINF:-1 tvg-id="minimax-celebrity" tvg-name="MM Celebrity HD" tvg-logo="http://epg.one/img/6063.png" group-title="Кинозал", MM Celebrity HD
-#EXTGRP:Кинозал
-http://57.129.52.16/8991/index.m3u8?token=iptvin.ru&21yo=0
-#EXTINF:-1 tvg-id="minimax-newfilm1" tvg-name="MM NewFilm 1 HD" tvg-logo="http://epg.one/img/5124.png" group-title="Кинозал", MM NewFilm 1 HD
-#EXTGRP:Кинозал
-http://57.129.52.16/8741/index.m3u8?token=iptvin.ru&21yo=0
-#EXTINF:-1 tvg-id="minimax-newfilm2" tvg-name="MM NewFilm 2 HD" tvg-logo="http://epg.one/img/5125.png" group-title="Кинозал", MM NewFilm 2 HD
-#EXTGRP:Кинозал
-http://57.129.52.16/8742/index.m3u8?token=iptvin.ru&21yo=0
-#EXTINF:-1 tvg-id="minimax-newfilm3" tvg-name="MM NewFilm 3 HD" tvg-logo="http://epg.one/img/5126.png" group-title="Кинозал", MM NewFilm 3 HD
-#EXTGRP:Кинозал
-http://57.129.52.16/8743/index.m3u8?token=iptvin.ru&21yo=0
-#EXTINF:-1 tvg-id="minimax-newfilmru" tvg-name="MM NewFilm RU HD" tvg-logo="http://epg.one/img/5127.png" group-title="Кинозал", MM NewFilm RU HD
-#EXTGRP:Кинозал
-http://57.129.52.16/8706/index.m3u8?token=iptvin.ru&21yo=0
 #EXTINF:-1 tvg-name="MYTV" tvg-logo="http://epg.one/img/104.png" group-title="Кинозал", MYTV
 #EXTGRP:Кинозал
 http://hls127.freeott.top:8080/MyTV/mono.m3u8
