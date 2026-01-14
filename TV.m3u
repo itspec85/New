@@ -4101,7 +4101,7 @@ http://rtmp.apa.tv/@pagroup!23.m3u8
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-24.m3u8
 #EXTINF:-1 tvg-name="ARB Canli Az" tvg-logo="http://epg.one/img/2635.png" group-title="Азербайджан", ARB Canli AZ
 #EXTGRP:Азербайджан
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:BB:EE:72&stream=100390&extension=ts
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8
 #EXTINF:-1 tvg-id="arb-gunes" tvg-name="ARB Gunes HD" tvg-logo="http://epg.one/img/2552.png" group-title="Азербайджан", ARB Gunes HD
 #EXTGRP:Азербайджан
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8
@@ -4116,7 +4116,7 @@ https://janya-ayaztv.vgcdn.net/ptnr-Vipo%20TV/title-Ayaz_TV/v1/vglive-sk-934820/
 http://live.azstartv.com/azstar/azstar_1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="aztv" tvg-name="AzTV" tvg-logo="http://epg.one/img/2134.png" group-title="Азербайджан", AzTV
 #EXTGRP:Азербайджан
-http://favoritest25.shop:8080/635fundaorlu/937fundaorlu/197037
+http://str.yodacdn.net/azertv/playlist.m3u8
 #EXTINF:-1 tvg-name="Baku TV AZ" tvg-logo="http://epg.one/img/9144.png" group-title="Азербайджан", Baku TV AZ
 #EXTGRP:Азербайджан
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/baku-tv.m3u8
@@ -4134,10 +4134,10 @@ https://live.ishiacloud.com/hls/1d6e10dc-7bfc-4abb-9bb3-0dfe80b3d7df_720p.m3u8
 http://208.79.153.42/akamaissh101/ssh101/htvcinema/chunks.m3u8
 #EXTINF:-1 tvg-id="ictimai-tv" tvg-name="Ictimai TV" tvg-logo="http://epg.one/img/2555.png" group-title="Азербайджан", Ictimai TV AZ
 #EXTGRP:Азербайджан
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:BB:EE:72&stream=31398&extension=ts
+http://boxviptv.com:25461/0519114447/0519114447/54
 #EXTINF:-1 tvg-id="idman" tvg-name="Idman TV" tvg-logo="http://epg.one/img/2637.png" group-title="Азербайджан", Idman TV
 #EXTGRP:Азербайджан
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:BB:EE:72&stream=31397&extension=ts
+http://str1.yodacdn.net/idmantele/playlist.m3u8
 #EXTINF:-1 tvg-name="Könül TV Music" tvg-logo="https://avatars.mds.yandex.net/i?id=35d4d6e66826ece1a7c35917675f30e349bcdc6e-4087837-images-thumbs&n=13" group-title="Азербайджан", Könül TV Music
 #EXTGRP:Азербайджан
 https://cdn4.yayin.com.tr/bakixebertv/video.m3u8
