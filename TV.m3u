@@ -2985,6 +2985,9 @@ https://ucdn.beetv.kz/bpk-tv/000000327/tve/index.m3u8
 #EXTINF:-1 tvg-id="mezzo" tvg-name="Mezzo" tvg-logo="http://epg.one/img/801.png" group-title="Музыка", Mezzo
 #EXTGRP:Музыка
 https://ucdn.beetv.kz/bpk-tv/000000030/tve/index.m3u8
+#EXTINF:-1 tvg-name="MIX MUSIC" tvg-logo="https://avatars.mds.yandex.net/i?id=8552986643492f1dee0ad4744313f6cc2472b778-4568203-images-thumbs&n=13" group-title="Музыка", MIX MUSIC
+#EXTGRP:Музыка
+https://cdamix.streaming.ws/mixmusic/live/chunklist.m3u8
 #EXTINF:-1 tvg-id="mtv-us" tvg-name="MTV" tvg-logo="http://epg.one/img/1021.png" group-title="Музыка", MTV
 #EXTGRP:Музыка
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6245d15062cd1f00070a2338/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1ec342-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a56dace8-66e4-4b9a-a55f-d5348160dae2
@@ -4123,6 +4126,9 @@ https://stream.cbctv.az:5443/LiveApp/streams/cbctv.m3u8
 #EXTINF:-1 tvg-name="Dünya TV" tvg-logo="https://i.imgur.com/A3yaU4J.png" group-title="Азербайджан", Dünya TV
 #EXTGRP:Азербайджан
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/dunya-tv.m3u8
+#EXTINF:-1 tvg-name="FTV AZ" tvg-logo="https://avatars.mds.yandex.net/i?id=1e93c5b3e6181d7e9400a98fb1b4b16775109796-8522161-images-thumbs&n=13" group-title="Азербайджан", FTV AZ
+#EXTGRP:Азербайджан
+https://vsrv1.az-streamingserver.com:3833/live/ofhwiwudlive.m3u8
 #EXTINF:-1 tvg-id="ictimai-tv" tvg-name="Ictimai TV" tvg-logo="http://epg.one/img/2555.png" group-title="Азербайджан", Ictimai TV AZ
 #EXTGRP:Азербайджан
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/ictimai-tv.m3u8
@@ -4153,6 +4159,9 @@ https://cdn4.yayin.com.tr/baltvmusic/video.m3u8
 #EXTINF:-1 tvg-name="Retro TV AZ" tvg-logo="https://avatars.mds.yandex.net/i?id=2a00000179ed9f0efd3d05aae40782ce96a8-3756503-images-thumbs&n=13" group-title="Азербайджан", Retro TV AZ
 #EXTGRP:Азербайджан
 https://a8.radyotelekom.com.tr:3706/stream/play.m3u8
+#EXTINF:-1 tvg-name="Show Plus TV" tvg-logo="https://avatars.mds.yandex.net/i?id=ce94a91bebe014ab249dd22ae87fa32c61149ded-5869427-images-thumbs&n=13" group-title="Азербайджан", Show Plus TV
+#EXTGRP:Азербайджан
+https://rtmp.showplus.tv/hls/myshow.m3u8
 #EXTINF:-1 tvg-name="Sinema Keyfi" tvg-logo="https://avatars.mds.yandex.net/i?id=7d10b7a0e57074eb551ada8c538ee52d0f33f86a-5220441-images-thumbs&n=13" group-title="Азербайджан", Sinema Keyfi
 #EXTGRP:Азербайджан
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
