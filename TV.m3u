@@ -179,7 +179,7 @@ http://185.46.16.239:8000/Domashniy
 https://ucdn.beetv.kz/bpk-tv/000002348/tve/index.m3u8
 #EXTINF:-1 tvg-id="zvezda" tvg-name="Звезда" tvg-logo="http://epg.one/img/405.png" group-title="Россия", Звезда
 #EXTGRP:Россия
-http://95.66.188.74:80/Zvezda/mono.m3u8
+http://95.47.156.60:8000/play/17/index.m3u8
 #EXTINF:-1 tvg-id="zvezda" tvg-name="Звезда HD" tvg-logo="http://epg.one/img/405.png" group-title="Россия", Звезда HD
 #EXTGRP:Россия
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
@@ -194,7 +194,7 @@ http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/mono.ts.m3u8
 http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
 #EXTINF:-1 tvg-id="mir" tvg-name="Мир" tvg-logo="http://epg.one/img/726.png" group-title="Россия", Мир
 #EXTGRP:Россия
-http://95.66.188.74/MIR/index.m3u8
+http://95.47.156.60:8000/play/18/index.m3u8
 #EXTINF:-1 tvg-id="mir" tvg-name="Мир HD" tvg-logo="http://epg.one/img/726.png" group-title="Россия", Мир HD
 #EXTGRP:Россия
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
@@ -231,13 +231,13 @@ https://streaming.thestream.cyou/live/210-req_offset_28000000-req_window_0-1k_v5
 https://ucdn.beetv.kz/bpk-tv/000001227/tve/index.m3u8
 #EXTINF:-1 tvg-id="piatnica" tvg-name="Пятница!" tvg-logo="http://epg.one/img/1003.png" group-title="Россия", Пятница!
 #EXTGRP:Россия
-http://95.66.188.74/Pyatnica/index.m3u8
+http://95.47.156.60:8000/play/16/index.m3u8
 #EXTINF:-1 tvg-id="piatnica-int" tvg-name="Пятница International" tvg-logo="https://avatars.mds.yandex.net/i?id=6e89c0754d8e6800feb8f51ae53f5192eb27ea76-5222505-images-thumbs&n=13" group-title="Россия", Пятница International
 #EXTGRP:Россия
 https://ucdn.beetv.kz/bpk-tv/000007816/tve/index.m3u8
 #EXTINF:-1 tvg-id="5kanal-ru" tvg-name="Пятый канал" tvg-logo="http://epg.one/img/427.png" group-title="Россия", Пятый канал
 #EXTGRP:Россия
-http://95.66.188.74/5kanal/index.m3u8
+http://89.232.68.194:8080/5kanal/tracks-v3a1/index.m3u8
 #EXTINF:-1 tvg-id="piaty-int" tvg-name="Пятый канал International" tvg-logo="https://epgx.club/picons/piaty-int.png" group-title="Россия", Пятый канал International
 #EXTGRP:Россия
 http://178.124.153.123:44400/5kanal
@@ -258,10 +258,10 @@ https://ucdn.beetv.kz/bpk-tv/000002472/tve/index.m3u8
 http://109.207.243.18/2/index.m3u8
 #EXTINF:-1 tvg-id="rossia1" tvg-name="Россия 1 HD" tvg-logo="http://epg.one/img/984.png" group-title="Россия", Россия 1 HD
 #EXTGRP:Россия
-http://95.66.188.74/Rossia1HD/mono.m3u8
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-id="rossia-24" tvg-name="Россия-24" tvg-logo="http://epg.one/img/1683.png" group-title="Россия", Россия-24
 #EXTGRP:Россия
-http://95.66.188.74/Rossia24/index.m3u8
+http://91.210.192.13:1000/russia-24
 #EXTINF:-1 tvg-id="rossia-24" tvg-name="Россия-24 HD" tvg-logo="http://epg.one/img/1683.png" group-title="Россия", Россия-24 HD
 #EXTGRP:Россия
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
@@ -291,13 +291,13 @@ http://95.66.188.74/CTC_HD/mono.m3u8
 https://ucdn.beetv.kz/bpk-tv/000000428/tve/index.m3u8
 #EXTINF:-1 tvg-id="sts-love" tvg-name="СТС Love" tvg-logo="http://epg.one/img/1322.png" group-title="Россия", СТС Love
 #EXTGRP:Россия
-http://95.66.188.74:80/CTC_Love/mono.m3u8
+http://194.143.148.28:8080/CTC_LOVE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="super" tvg-name="Суббота" tvg-logo="http://epg.one/img/2288.png" group-title="Россия", Суббота
 #EXTGRP:Россия
-http://95.66.188.74/Subbota/index.m3u8
+http://hls2.hd-tv.club/2_super/index.m3u8
 #EXTINF:-1 tvg-id="tv3-ru" tvg-name="ТВ3" tvg-logo="http://epg.one/img/698.png" group-title="Россия", ТВ3
 #EXTGRP:Россия
-http://95.66.188.74/TV3/mono.m3u8
+http://95.47.156.60:8000/play/15/index.m3u8
 #EXTINF:-1 tvg-id="tv3-int" tvg-name="ТВ3 International" tvg-logo="https://epgx.club/picons/tv3-int.png" group-title="Россия", ТВ3 International
 #EXTGRP:Россия
 https://ucdn.beetv.kz/bpk-tv/000004712/tve/index.m3u8
@@ -327,10 +327,10 @@ http://95.66.188.74/THT4/mono.m3u8
 https://ucdn.beetv.kz/bpk-tv/000002926/tve/index.m3u8
 #EXTINF:-1 tvg-id="che" tvg-name="Че" tvg-logo="http://epg.one/img/1598.png" group-title="Россия", Че
 #EXTGRP:Россия
-http://95.66.188.74/Che/index.m3u8
+http://195.26.83.96:7009/play/89/index.m3u8
 #EXTINF:-1 tvg-id="yu" tvg-name="Ю" tvg-logo="http://epg.one/img/898.png" group-title="Россия", Ю
 #EXTGRP:Россия
-http://95.66.188.74/U/index.m3u8
+http://194.143.148.28:8080/U/index.m3u8
 
 
 
