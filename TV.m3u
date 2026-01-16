@@ -1381,7 +1381,7 @@ https://ucdn.beetv.kz/bpk-tv/000006638/tve/index.m3u8
 http://176.118.197.125/Zdorovoe-TV/index.m3u8
 #EXTINF:-1 tvg-id="istoria" tvg-name="История" tvg-logo="http://epg.one/img/1036.png" group-title="Познавательные", История
 #EXTGRP:Познавательные
-https://vod.splay.uz/live_splay/original/History/tracks-v1a1/mono.m3u8
+http://176.118.197.125/Istoria/index.m3u8
 #EXTINF:-1 tvg-name="Каббала ТВ" tvg-logo="https://avatars.mds.yandex.net/i?id=b43ee481a3793ca6cb91f29af3547fd0-3920892-images-thumbs&n=13" group-title="Познавательные", Каббала ТВ
 #EXTGRP:Познавательные
 http://edge3.uk.kab.tv/live/tvrus-rus-high/chunks.m3u8
@@ -1983,7 +1983,7 @@ https://ucdn.beetv.kz/bpk-tv/000005449/tve/index.m3u8
 http://185.46.16.239:8000/Fox_HD
 #EXTINF:-1 tvg-id="kinomiks" tvg-name="Киномикс" tvg-logo="http://epg.one/img/644.png" group-title="Кино", КИНОМИКС
 #EXTGRP:Кино
-https://vod.splay.uz/live_splay/original/KinomiksHD/tracks-v1a1/mono.m3u8
+http://176.118.197.101/Kinomix/index.m3u8
 #EXTINF:-1 tvg-id="kinopokaz" tvg-name="Кинопоказ" tvg-logo="http://epg.one/img/2834.png" group-title="Кино", Кинопоказ
 #EXTGRP:Кино
 http://89.232.68.194:8080/kinopokaz/tracks-v3a1/index.m3u8
