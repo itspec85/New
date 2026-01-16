@@ -1420,7 +1420,7 @@ http://158.101.222.193:88/georgia_play.php?id=ktoestkto
 https://ucdn.beetv.kz/bpk-tv/000001377/tve/index.m3u8
 #EXTINF:-1 tvg-id="kuxnia-tv" tvg-name="Кухня ТВ" tvg-logo="http://epg.one/img/614.png" group-title="Познавательные", Кухня ТВ
 #EXTGRP:Познавательные
-http://95.66.188.74/Kuhnya/mono.m3u8
+http://hls127.freeott.top:8080/Kuhnya_TV/mono.m3u8
 #EXTINF:-1 tvg-id="ldpr-tv" tvg-name="ЛДПР ТВ" tvg-logo="http://epg.one/img/2465.png" group-title="Познавательные", ЛДПР ТВ
 #EXTGRP:Познавательные
 http://46.46.143.222:1935/live/mp4:ldpr.stream_480p/playlist.m3u8
@@ -1841,7 +1841,7 @@ https://ucdn.beetv.kz/bpk-tv/000000203/tve/index.m3u8
 http://stv.mediacdn.ru/live/cdn/multimuzika/playlist.m3u8
 #EXTINF:-1 tvg-id="o_" tvg-name="О!" tvg-logo="http://epg.one/img/1757.png" group-title="Детские", О!
 #EXTGRP:Детские
-http://95.66.188.74/O/mono.m3u8
+https://ucdn.beetv.kz/bpk-tv/000002928/tve/index.m3u8
 #EXTINF:-1 tvg-name="Ретро Мульт" tvg-logo="https://avatars.mds.yandex.net/i?id=739ddeb5d8e8e2dd07982812841dd39169b88ebe-5878952-images-thumbs&n=13" group-title="Детские", Ретро Мульт
 #EXTGRP:Детские
 #EXTVLCOPT:http-user-agent=SmartTV
@@ -1952,7 +1952,7 @@ https://mhd116.iptv2022.com/p/Y0Q1bGTSZROXbzaoS5OwGw,1768510807/streaming/den-po
 http://176.118.197.101/Dom_kino/index.m3u8
 #EXTINF:-1 tvg-id="domkino-premium" tvg-name="Дом Кино Премиум HD" tvg-logo="http://epg.one/img/2020.png" group-title="Кино", Дом Кино Премиум HD
 #EXTGRP:Кино
-http://95.66.188.74/DomKinoPremiumHD/index.m3u8
+http://109.75.59.241:8017/Domkino/index.m3u8
 #EXTINF:-1 tvg-id="dorama" tvg-name="Дорама" tvg-logo="http://epg.one/img/2174.png" group-title="Кино", Дорама
 #EXTGRP:Кино
 http://193.27.209.122/dorama/index.m3u8
@@ -2019,7 +2019,7 @@ http://2.57.217.85:8000/play/a05v/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000005450/tve/index.m3u8
 #EXTINF:-1 tvg-id="kinoseria" tvg-name="Киносерия" tvg-logo="http://epg.one/img/799.png" group-title="Кино", КИНОСЕРИЯ
 #EXTGRP:Кино
-http://95.66.188.74/Kinoseriya/mono.m3u8
+http://176.118.197.101/Kinoseria/index.m3u8
 #EXTINF:-1 tvg-id="kinouzhas" tvg-name="Киноужас" tvg-logo="http://epg.one/img/2493.png" group-title="Кино", Киноужас
 #EXTGRP:Кино
 http://158.101.222.193:88/georgia_play.php?id=kinoujas
@@ -2058,7 +2058,7 @@ http://5.8.11.96:8099/mosfilmhd/index.m3u8
 http://cdn.voka.tv/live/5007-req_5k_v5.m3u8
 #EXTINF:-1 tvg-id="muzhskoe-kino" tvg-name="Мужское кино" tvg-logo="http://epg.one/img/1584.png" group-title="Кино", МУЖСКОЕ КИНО
 #EXTGRP:Кино
-http://95.66.188.74/MuzhskoeKinoHD/mono.m3u8
+http://158.101.222.193:88/georgia_play.php?id=interesnoetv
 #EXTINF:-1 tvg-id="nash-kinopokaz" tvg-name="Наш кинопоказ" tvg-logo="http://epg.one/img/2831.png" group-title="Кино", Наш Кинопоказ HD
 #EXTGRP:Кино
 http://cdn.voka.tv/live/285-req_5k_v5.m3u8
@@ -2071,7 +2071,7 @@ http://hls127.freeott.top:8080/Nashe_HD/mono.m3u8
 https://mhd116.iptv2022.com/p/ioe-w5Rnb0mS3k-WHRbqCg,1768510806/streaming/nashemuzskoe/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="nashe-novoe-kino" tvg-name="Наше новое кино" tvg-logo="http://epg.one/img/485.png" group-title="Кино", Наше новое кино
 #EXTGRP:Кино
-http://95.66.188.74/NasheNovoeKino/mono.m3u8
+http://185.46.16.239:8000/Nickelodeon
 #EXTINF:-1 tvg-id="nst" tvg-name="НСТ" tvg-logo="http://epg.one/img/518.png" group-title="Кино", НСТ
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000000078/tve/index.m3u8
@@ -2088,7 +2088,7 @@ http://cdn.ntv.ru/th_hit/mono.m3u8
 http://catchup.videoline.ru/asvtv/index.m3u8
 #EXTINF:-1 tvg-id="pobeda" tvg-name="Победа" tvg-logo="http://epg.one/img/2447.png" group-title="Кино", Победа
 #EXTGRP:Кино
-http://95.66.188.74/Pobeda/mono.m3u8
+https://ucdn.beetv.kz/bpk-tv/000004534/tve/index.m3u8
 #EXTINF:-1 tvg-id="premium-kino-kz" tvg-name="Премиум кино KZ" tvg-logo="https://iptvx.one/picons/premium-kino-kz.png" group-title="Кино", Премиум кино KZ
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000008491/tve/index.m3u8
@@ -2109,7 +2109,7 @@ http://176.118.197.101/Komediya/index.m3u8
 http://31148.rafail1982.uz/Russkiy_Bestseller/index.m3u8
 #EXTINF:-1 tvg-id="russky-detektiv" tvg-name="Русский детектив" tvg-logo="http://epg.one/img/1570.png" group-title="Кино", Русский детектив
 #EXTGRP:Кино
-http://95.66.188.74/Russkiy_Detektiv/mono.m3u8
+https://flussonic.salomtv.uz/russkiy_detektiv/video.m3u8
 #EXTINF:-1 tvg-id="russky-illuzion" tvg-name="Русский иллюзион" tvg-logo="http://epg.one/img/53.png" group-title="Кино", Русский Иллюзион
 #EXTGRP:Кино
 http://185.46.16.239:8000/Russkiy_Illyuzion
@@ -2544,13 +2544,10 @@ https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a
 http://87.120.142.11:18000/Match!Arena
 #EXTINF:-1 tvg-id="match-boets" tvg-name="Матч! Боец" tvg-logo="http://epg.one/img/2054.png" group-title="Спорт", Матч! Боец
 #EXTGRP:Спорт
-http://95.66.188.74/MatchBoec/mono.m3u8
-#EXTINF:-1 tvg-id="match-boets" tvg-name="Матч! Боец" tvg-logo="http://epg.one/img/2054.png" group-title="Спорт", Матч! Боец (резерв)
-#EXTGRP:Спорт
-http://87.120.142.11:18000/Match!
+http://87.120.142.11:18000/Match
 #EXTINF:-1 tvg-id="match-igra" tvg-name="Матч! Игра" tvg-logo="http://epg.one/img/2050.png" group-title="Спорт", Матч! Игра
 #EXTGRP:Спорт
-http://95.66.188.74/MatchIgra/mono.m3u8
+http://185.46.16.239:8000/Match_Igra
 #EXTINF:-1 tvg-id="match-planeta" tvg-name="Матч! Планета" tvg-logo="http://epg.one/img/2043.png" group-title="Спорт", Матч! Планета
 #EXTGRP:Спорт
 http://158.101.222.193:88/georgia_play.php?id=matchplaneta
