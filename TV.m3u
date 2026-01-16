@@ -2017,7 +2017,7 @@ http://158.101.222.193:88/georgia_play.php?id=kinoujas
 http://195.9.195.3:8080/hls/218193.m3u8
 #EXTINF:-1 tvg-id="kinoxit" tvg-name="Кинохит" tvg-logo="http://epg.one/img/542.png" group-title="Кино", КИНОХИТ
 #EXTGRP:Кино
-https://vod.splay.uz/live_splay/original/Kinoxit/tracks-v1a1/mono.m3u8
+http://195.26.83.96:7005/play/a00m/index.m3u8
 #EXTINF:-1 tvg-name="Кошмар HD" tvg-logo="https://avatars.mds.yandex.net/i?id=f22c7d6929320c06a946ae5ed1b29d0c0b4f1571-12691405-images-thumbs&n=13" group-title="Кино", Кошмар HD
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=SmartTV
