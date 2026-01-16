@@ -283,9 +283,6 @@ http://player.smotrim.ru/iframe/stream/live_id/d7fef212-df66-485d-9952-7eab82d7d
 #EXTINF:-1 tvg-id="sts" tvg-name="СТС" tvg-logo="http://epg.one/img/79.png" group-title="Россия", СТС
 #EXTGRP:Россия
 http://95.47.156.60:8000/play/13/index.m3u8
-#EXTINF:-1 tvg-id="sts" tvg-name="СТС HD" tvg-logo="http://epg.one/img/79.png" group-title="Россия", СТС HD
-#EXTGRP:Россия
-http://95.66.188.74/CTC_HD/mono.m3u8
 #EXTINF:-1 tvg-id="sts-int" tvg-name="СТС International" tvg-logo="http://epg.one/img/5652.png" group-title="Россия", СТС International
 #EXTGRP:Россия
 https://ucdn.beetv.kz/bpk-tv/000000428/tve/index.m3u8
@@ -1376,18 +1373,12 @@ http://158.101.222.193:88/georgia_play.php?id=jivi
 #EXTINF:-1 tvg-id="zagorodnaya-zhizn" tvg-name="Загородная Жизнь" tvg-logo="http://epg.one/img/2298.png" group-title="Познавательные", Загородная Жизнь
 #EXTGRP:Познавательные
 http://185.57.68.33/40/mpegts
-#EXTINF:-1 tvg-id="zagorodny" tvg-name="Загородный" tvg-logo="http://epg.one/img/2463.png" group-title="Познавательные", Загородный
-#EXTGRP:Познавательные
-http://95.66.188.74/Zagorodniy/mono.m3u8
 #EXTINF:-1 tvg-id="zal-suda" tvg-name="Зал суда HD" tvg-logo="http://epg.one/img/3550.png" group-title="Познавательные", Зал суда HD
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000006638/tve/index.m3u8
 #EXTINF:-1 tvg-id="zdorovoe-tv" tvg-name="Здоровое ТВ" tvg-logo="http://epg.one/img/2449.png" group-title="Познавательные", Здоровое ТВ
 #EXTGRP:Познавательные
 http://176.118.197.125/Zdorovoe-TV/index.m3u8
-#EXTINF:-1 tvg-id="zootv" tvg-name="Зоо ТВ" tvg-logo="http://epg.one/img/2431.png" group-title="Познавательные", Зоо ТВ
-#EXTGRP:Познавательные
-http://95.66.188.74/Zoo_TV/mono.m3u8
 #EXTINF:-1 tvg-id="istoria" tvg-name="История" tvg-logo="http://epg.one/img/1036.png" group-title="Познавательные", История
 #EXTGRP:Познавательные
 https://vod.splay.uz/live_splay/original/History/tracks-v1a1/mono.m3u8
@@ -1846,9 +1837,6 @@ https://ucdn.beetv.kz/bpk-tv/000002928/tve/index.m3u8
 #EXTGRP:Детские
 #EXTVLCOPT:http-user-agent=SmartTV
 http://hls.goodgame.ru:8080/hls/213086.m3u8
-#EXTINF:-1 tvg-id="ryzhy" tvg-name="Рыжий" tvg-logo="http://epg.one/img/2437.png" group-title="Детские", Рыжий
-#EXTGRP:Детские
-http://95.66.188.74/RYZHIY/mono.m3u8
 #EXTINF:-1 tvg-id="smaylik-tv" tvg-name="Смайл ТВ" tvg-logo="http://epg.one/img/2442.png" group-title="Детские", Смайл ТВ
 #EXTGRP:Детские
 https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
@@ -2318,9 +2306,6 @@ https://kb.catcast.tv/content/49702/index.m3u8
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=SmartTV
 http://195.9.195.3:8080/hls/218531.m3u8
-#EXTINF:-1 tvg-id="vhs-ka" tvg-name="VHS-ка" tvg-logo="http://epg.one/img/9065.png" group-title="Кино", VHS-ка HD
-#EXTGRP:Кино
-http://95.66.188.74/VHS/index.m3u8
 #EXTINF:-1 tvg-name="VHS Man" tvg-logo="https://avatars.mds.yandex.net/i?id=140a2e000b655c166f56e68ae9ac5760_sr-10964795-images-thumbs&n=13" group-title="Кино", VHS Man
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=SmartTV
