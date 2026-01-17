@@ -2660,10 +2660,16 @@ https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
 #EXTGRP:Спорт
 #EXTVLCOPT:http-user-agent=SmartTV
 https://mhd116.iptv2022.com/p/xPFMJWRuxH-1nUUQJCsgTw,1768683622/streaming/khltv/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="kxl" tvg-name="KHL" tvg-logo="http://epg.one/img/2048.png" group-title="Спорт", KHL TV Channel (резерв)
+#EXTGRP:Спорт
+http://195.26.83.96:7007/play/4/index.m3u8
 #EXTINF:-1 tvg-id="kxl-hd" tvg-name="KHL Prime HD" tvg-logo="http://epg.one/img/1038.png" group-title="Спорт", KHL Prime HD
 #EXTGRP:Спорт
 #EXTVLCOPT:http-user-agent=SmartTV
 https://mhd116.iptv2022.com/p/MzSiRGtFw1BLXwZsXQp8fg,1768683622/streaming/khlhd/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="kxl-hd" tvg-name="KHL Prime HD" tvg-logo="http://epg.one/img/1038.png" group-title="Спорт", KHL Prime HD (резерв)
+#EXTGRP:Спорт
+http://109.248.236.51/khl_prime/mono.m3u8
 #EXTINF:-1 tvg-id="mlb-network-us" tvg-name="MLB Network HD CA" tvg-logo="http://epg.one/img/3654.png" group-title="Спорт", MLB Network HD CA
 #EXTGRP:Спорт
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e66968a70f34c0007d050be/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c29dbd3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0f1d3baf-2f1b-47d7-9966-3e92a98f1c8a&serverSideAds=false
