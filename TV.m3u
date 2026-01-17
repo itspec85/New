@@ -2662,7 +2662,7 @@ https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
 https://mhd116.iptv2022.com/p/xPFMJWRuxH-1nUUQJCsgTw,1768683622/streaming/khltv/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="kxl" tvg-name="KHL" tvg-logo="http://epg.one/img/2048.png" group-title="Спорт", KHL TV Channel (резерв)
 #EXTGRP:Спорт
-http://176.118.197.101/KHL/index.m3u8
+https://a3285272783-s80718.cdn.ngenix.net//hls//CH_KHL//video_800x450_avc1/playlist.m3u8
 #EXTINF:-1 tvg-id="kxl-hd" tvg-name="KHL Prime HD" tvg-logo="http://epg.one/img/1038.png" group-title="Спорт", KHL Prime HD
 #EXTGRP:Спорт
 #EXTVLCOPT:http-user-agent=SmartTV
