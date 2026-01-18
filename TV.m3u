@@ -1467,11 +1467,11 @@ http://176.118.197.101/Nostalgiya/index.m3u8
 #EXTINF:-1 tvg-id="ntv-pravo" tvg-name="НТВ Право" tvg-logo="http://epg.one/img/1753.png" group-title="Познавательные", НТВ Право
 #EXTGRP:Познавательные
 #EXTVLCOPT:http-user-agent=ntv
-https://cdn.ntv.ru/th_pravo/tracks-v1a1/playlist.m3u8
+http://cdn.ntv.ru/th_pravo/mono.m3u8
 #EXTINF:-1 tvg-id="ntv-style" tvg-name="НТВ Стиль" tvg-logo="http://epg.one/img/1755.png" group-title="Познавательные", НТВ Стиль
 #EXTGRP:Познавательные
 #EXTVLCOPT:http-user-agent=ntv
-https://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
+http://cdn.ntv.ru/th_style/mono.m3u8
 #EXTINF:-1 tvg-name="Общественная Служба Новостей HD" tvg-logo="http://epg.one/img/6744.png" group-title="Познавательные", Общественная Служба Новостей HD
 #EXTGRP:Познавательные
 https://osnmedia.servicecdn.ru/streams/17603_88089/1080n/index.m3u8
@@ -2082,11 +2082,11 @@ https://ucdn.beetv.kz/bpk-tv/000000078/tve/index.m3u8
 #EXTINF:-1 tvg-id="ntv-serial" tvg-name="НТВ Сериал" tvg-logo="http://epg.one/img/1754.png" group-title="Кино", НТВ Сериал
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=ntv
-https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
+http://cdn.ntv.ru/th_serial/mono.m3u8
 #EXTINF:-1 tvg-id="ntv-xit" tvg-name="НТВ Хит" tvg-logo="http://epg.one/img/2041.png" group-title="Кино", НТВ Хит HD
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=ntv
-https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
+http://cdn.ntv.ru/th_hit/mono.m3u8
 #EXTINF:-1 tvg-id="patriot" tvg-name="Патриот" tvg-logo="https://epgx.club/picons/patriot.png" group-title="Кино", Патриот
 #EXTGRP:Кино
 http://catchup.videoline.ru/asvtv/index.m3u8
