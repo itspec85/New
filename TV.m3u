@@ -41,7 +41,7 @@ https://ucdn.beetv.kz/bpk-tv/000001572/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000000666/tve/index.m3u8
 #EXTINF:-1 tvg-id="astana" tvg-name="Astana TV KZ" tvg-logo="http://epg.one/img/2573.png" group-title="Казахстан", Astana TV KZ (резерв)
 #EXTGRP:Казахстан
-http://87.76.32.36:8001/astana
+https://stream.qfilm.platform24.tv/mbrjwt/0ae63fe30f3ff5bab18b6732220659ecf4b18767-451-0-brg8047019-5-3119581441-1768800563-e128-UyP4DZBDF9VlWas4ephoSA8iHj887GreuuKV-BT9Ljg/index.m3u8?ml=true&mp4=true
 #EXTINF:-1 tvg-id="atameken-business" tvg-name="Atameken Business" tvg-logo="https://iptvx.one/picons/atameken-business.png" group-title="Казахстан", Atameken Business
 #EXTGRP:Казахстан
 https://ucdn.beetv.kz/bpk-tv/000005322/tve/index.m3u8
