@@ -1791,7 +1791,7 @@ http://live-3.otcnet.ru/wfcrus/index.m3u8
 #EXTINF:-1 t-name="WWW" tvg-logo="https://fsd.kopilkaurokov.ru/up/html/2020/01/27/k_5e2f1ef814d50/img_user_file_5e2f1ef9dd433_0_0.jpg" group-title="Познавательные", WWW
 #EXTGRP:Познавательные
 #EXTVLCOPT:http-user-agent=SmartTV
-http://hls.goodgame.ru:8080/hls/186021.m3u8
+
 #EXTINF:-1 tvg-id="zoopark" tvg-name="ZOOПарк" tvg-logo="http://epg.one/img/367.png" group-title="Познавательные", Zooпарк HD
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000000260/tve/index.m3u8
@@ -1835,7 +1835,7 @@ http://stv.mediacdn.ru/live/cdn/mult/playlist.m3u8
 #EXTINF:-1 tvg-name="Мультики и Сказки" tvg-logo="https://avatars.mds.yandex.net/i?id=e223e627b529f8a741564b51f48e190ba41a02f3-5192525-images-thumbs&n=13" group-title="Детские", Мультики и Сказки
 #EXTGRP:Детские
 #EXTVLCOPT:http-user-agent=SmartTV
-http://hls.goodgame.ru:8080/hls/198446.m3u8
+
 #EXTINF:-1 tvg-id="multimania" tvg-name="Мультиландия" tvg-logo="http://epg.one/img/2757.png" group-title="Детские", Мультиландия
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000000203/tve/index.m3u8
@@ -1848,7 +1848,7 @@ https://ucdn.beetv.kz/bpk-tv/000002928/tve/index.m3u8
 #EXTINF:-1 tvg-name="Ретро Мульт" tvg-logo="https://avatars.mds.yandex.net/i?id=739ddeb5d8e8e2dd07982812841dd39169b88ebe-5878952-images-thumbs&n=13" group-title="Детские", Ретро Мульт
 #EXTGRP:Детские
 #EXTVLCOPT:http-user-agent=SmartTV
-http://hls.goodgame.ru:8080/hls/213086.m3u8
+
 #EXTINF:-1 tvg-id="ryzhy" tvg-name="Рыжий" tvg-logo="http://epg.one/img/2437.png" group-title="Детские", Рыжий
 #EXTGRP:Детские
 #EXTVLCOPT:http-user-agent=SmartTV
@@ -1946,7 +1946,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/playlist.m3u8
 #EXTINF:-1 tvg-name="Всё ТВ HD" tvg-logo="https://avatars.mds.yandex.net/i?id=96f76624053679641ffda9c589480cc982944514-4394907-images-thumbs&n=13" group-title="Кино", Всё ТВ HD
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=SmartTV
-http://hls.goodgame.ru:8080/manifest/153640_master.m3u8
+
 #EXTINF:-1 tvg-id="denpobedy" tvg-name="День Победы HD" tvg-logo="http://epg.one/img/2773.png" group-title="Кино", День Победы HD
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=SmartTV
