@@ -1942,7 +1942,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/playlist.m3u8
 #EXTINF:-1 tvg-name="Восход ТВ" tvg-logo="https://avatars.mds.yandex.net/i?id=50ffadc5995694dc086fd1d3724a6bdec823fbbd-2469935-images-thumbs&n=13" group-title="Кино", Восход ТВ
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=SmartTV
-http://195.9.195.3:8080/manifest/202997_master.m3u8
+
 #EXTINF:-1 tvg-name="Всё ТВ HD" tvg-logo="https://avatars.mds.yandex.net/i?id=96f76624053679641ffda9c589480cc982944514-4394907-images-thumbs&n=13" group-title="Кино", Всё ТВ HD
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=SmartTV
@@ -2030,21 +2030,21 @@ http://158.101.222.193:88/georgia_play.php?id=kinoujas
 #EXTINF:-1 tvg-name="КиноФраншизы" tvg-logo="https://avatars.mds.yandex.net/i?id=17507e527b188fdbd4354fc180529b2f31c9c8f2-9873252-images-thumbs&n=13" group-title="Кино", КиноФраншизы
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=SmartTV
-http://195.9.195.3:8080/hls/218193.m3u8
+
 #EXTINF:-1 tvg-id="kinoxit" tvg-name="Кинохит" tvg-logo="http://epg.one/img/542.png" group-title="Кино", КИНОХИТ
 #EXTGRP:Кино
 http://195.26.83.96:7005/play/a00m/index.m3u8
 #EXTINF:-1 tvg-name="Кошмар HD" tvg-logo="https://avatars.mds.yandex.net/i?id=f22c7d6929320c06a946ae5ed1b29d0c0b4f1571-12691405-images-thumbs&n=13" group-title="Кино", Кошмар HD
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=SmartTV
-http://195.9.195.3:8080/hls/204709.m3u8
+
 #EXTINF:-1 tvg-id="lubimoe-kino" tvg-name="Любимое кино" tvg-logo="http://epg.one/img/477.png" group-title="Кино", Любимое Кино
 #EXTGRP:Кино
 http://176.118.197.101/LubimoeKino/index.m3u8
 #EXTINF:-1 tvg-name="Малдер Всё ТВ" tvg-logo="https://avatars.mds.yandex.net/i?id=845901c7a4f4738e4b26e19565dd26494642b248-5150784-images-thumbs&n=13" group-title="Кино", Малдер Всё ТВ
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=SmartTV
-http://195.9.195.3:8080/hls/153640.m3u8
+
 #EXTINF:-1 tvg-id="mir-seriala" tvg-name="Мир сериала" tvg-logo="http://epg.one/img/2275.png" group-title="Кино", Мир Сериала
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000000319/tve/index.m3u8
@@ -2146,7 +2146,7 @@ http://158.101.222.193:88/georgia_play.php?id=fenikspluskino
 #EXTINF:-1 tvg-name="Фильмы 24/7" tvg-logo="https://avatars.mds.yandex.net/i?id=1557fc41128fd2e167a79e69d639bcaad87722f2-8232745-images-thumbs&n=13" group-title="Кино", Фильмы 24/7
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=SmartTV
-http://hls.goodgame.ru:8080/hls/218251.m3u8
+
 #EXTINF:-1 tvg-id="khit-hd" tvg-name="Хит HD" tvg-logo="http://epg.one/img/2833.png" group-title="Кино", Хит HD
 #EXTGRP:Кино
 http://hls127.freeott.top:8080/XitHD/video.m3u8
@@ -2162,15 +2162,15 @@ http://193.25.8.59:8000/axn
 #EXTINF:-1 tvg-name="1FILMAX" tvg-logo="https://avatars.mds.yandex.net/i?id=8034a9c9035865ba1a3e0bb84e6839b0de0caf66-12538948-images-thumbs&n=13" group-title="Кино", 1FILMAX
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=SmartTV
-http://195.9.195.3:8080/hls/204708.m3u8
+
 #EXTINF:-1 tvg-name="2FILMAX" tvg-logo="https://avatars.mds.yandex.net/i?id=a72bfb72b8b013278d50fa381e33fec144657910-5231880-images-thumbs&n=13" group-title="Кино", 2FILMAX
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=SmartTV
-http://195.9.195.3:8080/hls/204717.m3u8
+
 #EXTINF:-1 tvg-name="Akudji" tvg-logo="https://avatars.mds.yandex.net/i?id=0a7f5757e7802052bdd92144a32f512fd77f6612-5157058-images-thumbs&n=13" group-title="Кино", Akudji
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=SmartTV
-http://195.9.195.3:8080/hls/5346.m3u8
+
 #EXTINF:-1 tvg-name="Alpha Cinema" tvg-logo="https://avatars.mds.yandex.net/i?id=5881e5d66b4fd37d34441f48c9160147-4743742-images-thumbs&n=13" group-title="Кино", Alpha Cinema
 #EXTGRP:Кино
 http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
@@ -2201,17 +2201,14 @@ http://hls127.freeott.top:8080/Bolt/mono.m3u8
 #EXTINF:-1 tvg-id="cinema-ru" tvg-name="Cinema HD" tvg-logo="http://epg.one/img/2754.png" group-title="Кино", Cinema HD
 #EXTGRP:Кино
 http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="paramount-comedy" tvg-name="Comedy Central" tvg-logo="http://epg.one/img/920.png" group-title="Кино", Comedy Central
-#EXTGRP:Кино
-https://ucdn.beetv.kz/bpk-tv/000000452/tve/index.m3u8
 #EXTINF:-1 tvg-name="Dimpon HD" tvg-logo="https://static.goodgame.ru/files/avatars/av_1643154_P8Jo.jpg" group-title="Кино", Dimpon HD
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=SmartTV
-http://195.9.195.3:8080/hls/210470.m3u8
+
 #EXTINF:-1 tvg-name="Fantoms" tvg-logo="https://static.goodgame.ru/files/pics/266268_VVSa.png" group-title="Кино", Fantoms
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=SmartTV
-http://195.9.195.3:8080/hls/204722.m3u8
+
 #EXTINF:-1 tvg-name="Film Best TV" tvg-logo="https://avatars.mds.yandex.net/i?id=c5e9421c8de2437b79ebe48c6e2d0ab08e3f74b2-16413791-images-thumbs&n=13" group-title="Кино", Film Best TV
 #EXTGRP:Кино
 https://live20.bozztv.com/akamaissh101/ssh101/livefilmbest20e/playlist.m3u8
@@ -2230,7 +2227,7 @@ https://ucdn.beetv.kz/bpk-tv/000004466/tve/index.m3u8
 #EXTINF:-1 tvg-name="FMC" tvg-logo="https://avatars.mds.yandex.net/i?id=78a4542efb1eed8d48f9048da1e68c88_sr-12730491-images-thumbs&n=13" group-title="Кино", FMC
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=SmartTV
-http://hls.goodgame.ru:8080/hls/187741.m3u8
+
 #EXTINF:-1 tvg-id="fox" tvg-name="FX" tvg-logo="http://epg.one/img/1031.png" group-title="Кино", FX
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000004472/tve/index.m3u8
@@ -2249,11 +2246,11 @@ http://sirius.greenhosting.ru/Kino24Ru/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="KinoBar" tvg-logo="https://avatars.mds.yandex.net/i?id=cfe864e492b6310e22d5c59e35336ca312ff5fb1-5488638-images-thumbs&n=13" group-title="Кино", KinoBar
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=SmartTV
-http://195.9.195.3:8080/hls/219255.m3u8
+
 #EXTINF:-1 tvg-name="KinoMix" tvg-logo="https://avatars.mds.yandex.net/i?id=af393372701abefe85a4a4c01d825d84800faa88-10611483-images-thumbs&n=13" group-title="Кино", KinoMix
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=SmartTV
-http://hls.goodgame.ru:8080/hls/216612.m3u8
+
 #EXTINF:-1 tvg-name="Kinowalk TV" tvg-logo="https://images.live.vkvideo.ru/user/20428041/avatar?change_time=1766171277&croped=1&mh=140&mw=140" group-title="Кино", Kinowalk TV
 #EXTGRP:Кино
 https://kinowalk.hopto.org/kinowalk_live
@@ -2266,11 +2263,11 @@ https://stream.ushba.tv/akamaiushba/ushba-films-a/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Millenniym" tvg-logo="https://avatars.mds.yandex.net/i?id=cc549b4b588d95056bc9dfced5f1ee81e3a5ba03-12420613-images-thumbs&n=13" group-title="Кино", Millenniym
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=SmartTV
-http://195.9.195.3:8080/hls/206461.m3u8
+
 #EXTINF:-1 tvg-name="Moviee Toper" tvg-logo="https://static.goodgame.ru/files/avatars/av_1676704_9wc1.jpg" group-title="Кино", Moviee Toper
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=SmartTV
-http://195.9.195.3:8080/hls/214749.m3u8
+
 #EXTINF:-1 tvg-id="plan-b" tvg-name="Plan B HD" tvg-logo="http://epg.one/img/6643.png" group-title="Кино", Plan B HD
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000007625/tve/index.m3u8
@@ -2280,15 +2277,15 @@ https://ucdn.beetv.kz/bpk-tv/000008780/tve/index.m3u8
 #EXTINF:-1 tvg-name="Scripach TV" tvg-logo="https://avatars.mds.yandex.net/i?id=29fb8bd7d350ed96b41e360e8245a7a791612a62-4571029-images-thumbs&n=13" group-title="Кино", Scripach TV
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=SmartTV
-http://195.9.195.3:8080/hls/217083.m3u8
+
 #EXTINF:-1 tvg-name="Selecao TV1" tvg-logo="https://avatars.mds.yandex.net/i?id=d0474ff4a0ea5b32fdd602b0cb9b6d52-5233472-images-thumbs&n=13" group-title="Кино", Selecao TV1
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=SmartTV
-http://195.9.195.3:8080/hls/163253.m3u8
+
 #EXTINF:-1 tvg-name="Selecao TV2" tvg-logo="https://avatars.mds.yandex.net/i?id=d0474ff4a0ea5b32fdd602b0cb9b6d52-5233472-images-thumbs&n=13" group-title="Кино", Selecao TV2
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=SmartTV
-http://195.9.195.3:8080/manifest/157269_master.m3u8
+
 #EXTINF:-1 tvg-id="shot-tv" tvg-name="SHOT TV" tvg-logo="http://epg.one/img/431.png" group-title="Кино", SHOT TV
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=SmartTV
@@ -2305,7 +2302,7 @@ https://ucdn.beetv.kz/bpk-tv/000008739/tve/index.m3u8
 #EXTINF:-1 tvg-name="TDM TV - Series" tvg-logo="https://avatars.mds.yandex.net/i?id=0d45e476543c653187b23696ff393dfd0b4b642d-5886522-images-thumbs&n=13" group-title="Кино", TDM TV - Series
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=SmartTV
-http://hls.goodgame.ru:8080/hls/186021.m3u8
+
 #EXTINF:-1 tvg-id="timeless-dizi" tvg-name="Timeless Dizi annel" tvg-logo="http://epg.one/img/6724.png" group-title="Кино", Timeless Dizi Channel
 #EXTGRP:Кино
 http://193.25.8.59:8000/tlc
@@ -2321,18 +2318,14 @@ https://kb.catcast.tv/content/49702/index.m3u8
 #EXTINF:-1 tvg-name="VHS кино" tvg-logo="https://avatars.mds.yandex.net/i?id=49363d9774a20f08da18bbe2e6645285ad9d07aa-5239620-images-thumbs&n=13" group-title="Кино", VHS кино
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=SmartTV
-http://195.9.195.3:8080/hls/218531.m3u8
-#EXTINF:-1 tvg-name="VHS Man" tvg-logo="https://avatars.mds.yandex.net/i?id=140a2e000b655c166f56e68ae9ac5760_sr-10964795-images-thumbs&n=13" group-title="Кино", VHS Man
-#EXTGRP:Кино
-#EXTVLCOPT:http-user-agent=SmartTV
-http://hls.goodgame.ru:8080/hls/218531.m3u8
+
 #EXTINF:-1 tvg-id="vip-comedy-cee" tvg-name="	Viasat Kino Comedy" tvg-logo="http://epg.one/img/8880.png" group-title="Кино", Viasat Kino Comedy HD
 #EXTGRP:Кино
 http://ukr2.ukrainske.tv/493/video.m3u8
 #EXTINF:-1 tvg-name="Video Channel" tvg-logo="https://goodgame.ru/files/avatars/av_1684385_xhlq.jpg" group-title="Кино", Video Channel
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=SmartTV
-http://195.9.195.3:8080/hls/215741.m3u8
+
 #EXTINF:-1 tvg-id="tv1000" tvg-name="Viju TV1000" tvg-logo="http://epg.one/img/127.png" group-title="Кино", Viju TV1000
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000003747/tve/index.m3u8
@@ -2369,11 +2362,11 @@ https://ucdn.beetv.kz/bpk-tv/000004375/tve/index.m3u8
 #EXTINF:-1 tvg-name="Zubrilom Film 2" tvg-logo="https://avatars.mds.yandex.net/i?id=23f461832987c07f4c6e6125d14e0521ba0560ff-11917684-images-thumbs&n=13" group-title="Кино", Zubrilom Film 2
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=SmartTV
-http://hls.goodgame.ru:8080/hls/218251.m3u8
+
 #EXTINF:-1 tvg-name="Zubrilom Franchise" tvg-logo="https://avatars.mds.yandex.net/i?id=23f461832987c07f4c6e6125d14e0521ba0560ff-11917684-images-thumbs&n=13" group-title="Кино", Zubrilom Franchise
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=SmartTV
-http://hls.goodgame.ru:8080/hls/218193.m3u8
+
 
 
 
