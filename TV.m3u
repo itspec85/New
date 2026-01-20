@@ -1463,7 +1463,7 @@ http://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
 https://ucdn.beetv.kz/bpk-tv/000008615/tve/index.m3u8
 #EXTINF:-1 tvg-id="nostalgia" tvg-name="Ностальгия" tvg-logo="http://epg.one/img/783.png" group-title="Познавательные", Ностальгия
 #EXTGRP:Познавательные
-http://176.118.197.101/Nostalgiya/index.m3u8
+http://109.248.236.51/nostalgia/mono.m3u8
 #EXTINF:-1 tvg-id="ntv-pravo" tvg-name="НТВ Право" tvg-logo="http://epg.one/img/1753.png" group-title="Познавательные", НТВ Право
 #EXTGRP:Познавательные
 #EXTVLCOPT:http-user-agent=ntv
@@ -2020,7 +2020,7 @@ https://vod.splay.uz/live_splay/original/Kinosemya/tracks-v1a1/mono.m3u8
 https://ucdn.beetv.kz/bpk-tv/000005450/tve/index.m3u8
 #EXTINF:-1 tvg-id="kinoseria" tvg-name="Киносерия" tvg-logo="http://epg.one/img/799.png" group-title="Кино", КИНОСЕРИЯ
 #EXTGRP:Кино
-http://176.118.197.101/Kinoseria/index.m3u8
+http://hls127.freeott.top:8080/Kinoseriya_HD/video.m3u8
 #EXTINF:-1 tvg-id="kinouzhas" tvg-name="Киноужас" tvg-logo="http://epg.one/img/2493.png" group-title="Кино", Киноужас
 #EXTGRP:Кино
 http://158.101.222.193:88/georgia_play.php?id=kinoujas
@@ -2132,11 +2132,11 @@ http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5
 #EXTINF:-1 tvg-id="sov-kinklass" tvg-shift="-3" tvg-name="Советская киноклассика HD" tvg-logo="http://epg.one/img/9002.png" group-title="Кино", Советская киноклассика HD
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=SmartTV
-https://mhd116.iptv2022.com/p/7WxE4jJd6TJY8GljR3O3sA,1768856441/streaming/sovet_classic/324/1/tracks-v5a1/mono.m3u8
+https://mhd116.iptv2022.com/p/GcOxL4bLHNViB48TDfFdYA,1768942821/streaming/sovet_classic/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="sovkino" tvg-name="Советское кино" tvg-logo="http://epg.one/img/9399.png" group-title="Кино", Советское кино
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=SmartTV
-https://mhd116.iptv2022.com/p/RziXkwr02mE93bRrxx6qlQ,1768856413/streaming/sovietmovs/324/1/tracks-v5a1/mono.m3u8
+https://mhd116.iptv2022.com/p/dxgkhYmA7FU9tvOWLCTeZg,1768942807/streaming/sovietmovs/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="feniks-plus-kino" tvg-name="Феникс плюс Кино" tvg-logo="http://epg.one/img/2404.png" group-title="Кино", Феникс плюс Кино
 #EXTGRP:Кино
 http://158.101.222.193:88/georgia_play.php?id=fenikspluskino
