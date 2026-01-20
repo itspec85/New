@@ -294,7 +294,7 @@ http://193.25.8.59:8000/ESPN
 https://ucdn.beetv.kz/bpk-tv/000000428/tve/index.m3u8
 #EXTINF:-1 tvg-id="sts-love" tvg-name="СТС Love" tvg-logo="http://epg.one/img/1322.png" group-title="Россия", СТС Love
 #EXTGRP:Россия
-http://194.143.148.28:8080/CTC_LOVE/tracks-v1a1/mono.m3u8
+http://178.212.71.253:8002/play/a00r/index.m3u8
 #EXTINF:-1 tvg-id="super" tvg-name="Суббота" tvg-logo="http://epg.one/img/2288.png" group-title="Россия", Суббота
 #EXTGRP:Россия
 http://hls2.hd-tv.club/2_super/index.m3u8
@@ -336,7 +336,7 @@ https://ucdn.beetv.kz/bpk-tv/000002926/tve/index.m3u8
 http://195.26.83.96:7009/play/89/index.m3u8
 #EXTINF:-1 tvg-id="yu" tvg-name="Ю" tvg-logo="http://epg.one/img/898.png" group-title="Россия", Ю
 #EXTGRP:Россия
-http://194.143.148.28:8080/U/index.m3u8
+http://193.25.8.59:8000/u
 
 
 
@@ -1739,7 +1739,7 @@ https://streaming.televizor-24-tochka.ru/live/554.m3u8
 https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-4/mxtm-wdfe_1080p/chunklist_DVR.m3u8
 #EXTINF:-1 tvg-id="rtg-hd" tvg-name="RTG HD" tvg-logo="http://epg.one/img/648.png" group-title="Познавательные", RTG HD
 #EXTGRP:Познавательные
-http://194.143.148.28:8080/RTG_HD/index.m3u8
+http://193.25.8.59:8000/rtg
 #EXTINF:-1 tvg-id="rtg-tv" tvg-name="RTG TV" tvg-logo="http://epg.one/img/2280.png" group-title="Познавательные", RTG TV
 #EXTGRP:Познавательные
 http://195.26.83.96:7007/play/a00n/index.m3u8
@@ -1862,7 +1862,7 @@ https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/play
 https://mhd116.iptv2022.com/p/MvcVTnnZ2OvfgX3_OSf-5A,1768942808/streaming/rusmult/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="solnce" tvg-name="Солнце" tvg-logo="http://epg.one/img/7669.png" group-title="Детские", Солнце
 #EXTGRP:Детские
-http://194.143.148.28:8080/Disney/index.m3u8
+http://tv.mediacdn.ru/live/solntse/playlist_3000k.m3u8
 #EXTINF:-1 tvg-name="СоюзМультфильм" tvg-logo="https://i.postimg.cc/RCgvJhdQ/image.png" group-title="Детские", СоюзМультфильм
 #EXTGRP:Детские
 http://194.26.229.213/souzmultfilm/index.m3u8
