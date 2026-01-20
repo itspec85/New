@@ -3131,8 +3131,7 @@ http://185.91.179.12/8kanal/vintera/playlist.m3u8
 http://live-8knsk.cdnvideo.ru/8knsk/stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="10kanal-novokuzneck" tvg-name="10 канал Новокузнецк" tvg-logo="https://avatars.mds.yandex.net/i?id=206b9c37243eda836b02381f66a6af54221d8de3-12661375-images-thumbs&n=13" group-title="Региональные РФ", 10 канал Новокузнецк
 #EXTGRP:Региональные РФ
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmi3y-tv6.ru/hls/zabava/region/NVKZ/CH_DESYATKA.m3u8
+http://rmhkuzbass.ru:8082/10kanal/10kanal_720/playlist.m3u8
 #EXTINF:-1 tvg-name="10 канал Саранск" tvg-logo="https://iptvx.one/picons/10-rentv.png" group-title="Региональные РФ", 10 канал Саранск
 #EXTGRP:Региональные РФ
 https://live-10chanel.cdnvideo.ru/10chanel/streamtr_1/playlist.m3u8
