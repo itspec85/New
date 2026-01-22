@@ -299,6 +299,9 @@ http://dmi3y-tv6.ru/hls/zabava/CH_STSLOVE.m3u8
 #EXTINF:-1 tvg-id="super" tvg-name="Суббота" tvg-logo="http://epg.one/img/2288.png" group-title="Россия", Суббота
 #EXTGRP:Россия
 http://hls2.hd-tv.club/2_super/index.m3u8
+#EXTINF:-1 tvg-id="super" tvg-name="Суббота" tvg-logo="http://epg.one/img/2288.png" group-title="Россия", Суббота HD
+#EXTGRP:Россия
+http://river-1.rutube.ru/stream/genetta-503.ost.rutube.ru/bzCTfp0GGwJff7uAUVymRQ/1769191793/310744c10a5809da38aa445c952976da/1080p_stream.m3u8
 #EXTINF:-1 tvg-id="tv3-ru" tvg-name="ТВ3" tvg-logo="http://epg.one/img/698.png" group-title="Россия", ТВ3
 #EXTGRP:Россия
 http://95.47.156.60:8000/play/15/index.m3u8
