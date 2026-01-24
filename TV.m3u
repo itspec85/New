@@ -210,7 +210,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 http://dmi3y-tv6.ru/hls/DVB-T2/CH_NTV.m3u8
 #EXTINF:-1 tvg-id="ntv" tvg-name="НТВ HD" tvg-logo="http://epg.one/img/2001.png" group-title="Россия", НТВ HD
 #EXTGRP:Россия
-http://river-1.rutube.ru/stream/genetta-316.m9.rutube.ru/CGpDLB6mm1rsFY0q3HvaNg/1769191761/c37cd74192c6bc3d6cd6077c0c4fd686/1080p_stream.m3u8
+http://river-1.rutube.ru/stream/genetta-316.m9.rutube.ru/UpZjIeH5RvH_RQREFgX7Bw/1769703974/c37cd74192c6bc3d6cd6077c0c4fd686/1080p_stream.m3u8
 #EXTINF:-1 tvg-id="ntv-mir" tvg-name="НТВ Мир" tvg-logo="http://epg.one/img/7258.png" group-title="Россия", НТВ Мир
 #EXTGRP:Россия
 https://streaming.thestream.cyou/live/213-req_offset_28000000-req_window_0-1k_v5.m3u8
@@ -222,7 +222,7 @@ http://185.46.16.239:8000/OTR
 http://194.8.128.38:8080/ort/playlist.m3u8
 #EXTINF:-1 tvg-id="pervy" tvg-name="Первый канал HD" tvg-logo="http://epg.one/img/983.png" group-title="Россия", Первый канал FHD
 #EXTGRP:Россия
-http://river-1.rutube.ru/stream/genetta-313.m9.rutube.ru/lm3N8pqQ3fNsPKa1VoVu6A/1769191755/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
+http://river-1.rutube.ru/stream/genetta-313.m9.rutube.ru/iGvEd6IGjqs3CvlTg5qziA/1769703969/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
 #EXTINF:-1 tvg-id="pervy-kanal-eu" tvg-name="Первый канал Европа" tvg-logo="http://epg.one/img/4830.png" group-title="Россия", Первый Канал Европа
 #EXTGRP:Россия
 https://streaming.thestream.cyou/live/210-req_offset_28000000-req_window_0-1k_v5.m3u8
