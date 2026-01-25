@@ -2476,7 +2476,7 @@ https://mhd116.iptv2022.com/p/lgK0hwzo_7FuHNWO1vQC7g,1769374816/streaming/start/
 #EXTINF:-1 tvg-id="start-basket" tvg-name="Старт Баскет" tvg-logo="https://avatars.mds.yandex.net/i?id=54133e50ddcce4f6c749e8a8376887e62fcf3080-12569441-images-thumbs&n=13" group-title="Спорт", Старт Баскет
 #EXTGRP:Спорт
 https://bl.webcaster.pro/media/playlist/free_621d169e5c631c638136df3cb136c5c9/33_68881676/1080p/b32eaae5fbf1d2b8211543566a1d9a78/4914392769.m3u8?live=15&ref=https://tvstart.ru/channels/start-basket-test/
-#EXTINF:-1 tvg-id="start-triumf" tvg-name="Старт Триумф" tvg-logo="https://epg.iptvx.one/picons/start-basket.png" group-title="Спорт", Старт Триумф HD
+#EXTINF:-1 tvg-id="start-triumf" tvg-name="Старт Триумф" tvg-logo="http://epg.one/img/9112.png" group-title="Спорт", Старт Триумф HD
 #EXTGRP:Спорт
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
 https://mhd116.iptv2022.com/p/Ickl6cgGyuqXvE12p_FGbw,1769374816/streaming/start-triumf/324/1/index.m3u8
