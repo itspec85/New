@@ -226,7 +226,7 @@ http://river-1.rutube.ru/stream/genetta-313.m9.rutube.ru/iGvEd6IGjqs3CvlTg5qziA/
 #EXTINF:-1 tvg-id="pervy-kanal-eu" tvg-name="Первый канал Европа" tvg-logo="http://epg.one/img/4830.png" group-title="Россия", Первый Канал Европа
 #EXTGRP:Россия
 https://streaming.thestream.cyou/live/210-req_offset_28000000-req_window_0-1k_v5.m3u8
-#EXTINF:-1 tvg-id="pervy-kanal-csi" tvg-name="Первый канал СНГ" tvg-logo="https://epgx.club/picons/pervy-kanal-csi.png" group-title="Россия", Первый канал СНГ
+#EXTINF:-1 tvg-id="pervy-kanal-csi" tvg-name="Первый канал СНГ" tvg-logo="http://epg.one/img/146.png" group-title="Россия", Первый канал СНГ
 #EXTGRP:Россия
 https://ucdn.beetv.kz/bpk-tv/000001227/tve/index.m3u8
 #EXTINF:-1 tvg-id="piatnica" tvg-name="Пятница!" tvg-logo="http://epg.one/img/1003.png" group-title="Россия", Пятница!
@@ -241,7 +241,7 @@ https://ucdn.beetv.kz/bpk-tv/000007816/tve/index.m3u8
 #EXTINF:-1 tvg-id="5kanal-ru" tvg-name="Пятый канал" tvg-logo="http://epg.one/img/427.png" group-title="Россия", Пятый канал
 #EXTGRP:Россия
 http://89.232.68.194:8080/5kanal/tracks-v3a1/index.m3u8
-#EXTINF:-1 tvg-id="piaty-int" tvg-name="Пятый канал International" tvg-logo="https://epgx.club/picons/piaty-int.png" group-title="Россия", Пятый канал International
+#EXTINF:-1 tvg-id="piaty-int" tvg-name="Пятый канал International" tvg-logo="https://avatars.mds.yandex.net/i?id=e9ba006374ab68db1cf51c33b359b14053195429-5477304-images-thumbs&n=13" group-title="Россия", Пятый канал International
 #EXTGRP:Россия
 http://178.124.153.123:44400/5kanal
 #EXTINF:-1 tvg-id="rbk" tvg-name="РБК" tvg-logo="http://epg.one/img/743.png" group-title="Россия", РБК
@@ -274,7 +274,7 @@ http://89.232.68.194:8080/rossiyak/tracks-v3a1/index.m3u8
 #EXTINF:-1 tvg-id="kultura" tvg-name="Россия К HD" tvg-logo="http://epg.one/img/187.png" group-title="Россия", Россия-Культура HD
 #EXTGRP:Россия
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
-#EXTINF:-1 tvg-id="rtr-planeta-azia" tvg-name="Россия РТР" tvg-logo="https://epgx.club/picons/rtr-planeta-azia.png" group-title="Россия", Россия РТР (Азия)
+#EXTINF:-1 tvg-id="rtr-planeta-azia" tvg-name="Россия РТР" tvg-logo="https://avatars.mds.yandex.net/i?id=faa8d9ee97910c8368d25d6c6d4d3948d43b206a-5087276-images-thumbs&n=13" group-title="Россия", Россия РТР (Азия)
 #EXTGRP:Россия
 https://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363.m3u8
 #EXTINF:-1 tvg-id="rtr-planeta-amerika" tvg-name="РТР-Планета Америка" tvg-logo="http://epg.one/img/2547.png" group-title="Россия", РТР-Планета Америка
@@ -308,7 +308,7 @@ http://95.47.156.60:8000/play/15/index.m3u8
 #EXTINF:-1 tvg-id="tv3-ru" tvg-name="ТВ3 HD" tvg-logo="http://epg.one/img/698.png" group-title="Россия", ТВ3 HD
 #EXTGRP:Россия
 http://river-1.rutube.ru/stream/genetta-522.ost.rutube.ru/zSuhAukvOlP85IoXU9ogKQ/1769703982/7bf12d9c050f9a7ef3728db5730432ae/1080p_stream.m3u8
-#EXTINF:-1 tvg-id="tv3-int" tvg-name="ТВ3 International" tvg-logo="https://epgx.club/picons/tv3-int.png" group-title="Россия", ТВ3 International
+#EXTINF:-1 tvg-id="tv3-int" tvg-name="ТВ3 International" tvg-logo="https://avatars.mds.yandex.net/i?id=8eb6e54feabff4269b2b5bca31f0abdffeefb21a-7552730-images-thumbs&n=13" group-title="Россия", ТВ3 International
 #EXTGRP:Россия
 https://ucdn.beetv.kz/bpk-tv/000004712/tve/index.m3u8
 #EXTINF:-1 tvg-id="tvcentr" tvg-name="ТВЦ" tvg-logo="http://epg.one/img/649.png" group-title="Россия", ТВЦ
@@ -332,7 +332,7 @@ http://193.25.8.59:8000/tntcomedy
 #EXTINF:-1 tvg-id="tnt4" tvg-name="ТНТ4 HD" tvg-logo="http://epg.one/img/1649.png" group-title="Россия", ТНТ4 HD
 #EXTGRP:Россия
 http://river-1.rutube.ru/stream/genetta-318.m9.rutube.ru/yOkf9AfVcbTJqaJ3L9b4OA/1769703999/c801a7087e29a097192d74c270fbc6c1/1080p_stream.m3u8
-#EXTINF:-1 tvg-id="tnt4-international" tvg-name="ТНТ4 International" tvg-logo="https://epgx.club/picons/tnt4.png" group-title="Россия", ТНТ4 International
+#EXTINF:-1 tvg-id="tnt4-international" tvg-name="ТНТ4 International" tvg-logo="http://epg.one/img/1649.png" group-title="Россия", ТНТ4 International
 #EXTGRP:Россия
 https://ucdn.beetv.kz/bpk-tv/000002926/tve/index.m3u8
 #EXTINF:-1 tvg-id="che" tvg-name="Че" tvg-logo="http://epg.one/img/1598.png" group-title="Россия", Че
