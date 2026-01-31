@@ -2549,7 +2549,8 @@ https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
 https://a3285272783-s80718.cdn.ngenix.net//hls//CH_KHL//video_800x450_avc1/playlist.m3u8
 #EXTINF:-1 tvg-id="kxl-hd" tvg-name="KHL Prime HD" tvg-logo="http://epg.one/img/1038.png" group-title="Спорт", KHL Prime HD
 #EXTGRP:Спорт
-http://109.248.236.51/khl_prime/mono.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
+https://mhd116.iptv2022.com/p/fPMMuFFXUy3AvECmYE5Svg,1769893212/streaming/khlhd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="mlb-network-us" tvg-name="MLB Network HD CA" tvg-logo="http://epg.one/img/3654.png" group-title="Спорт", MLB Network HD CA
 #EXTGRP:Спорт
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e66968a70f34c0007d050be/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c29dbd3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0f1d3baf-2f1b-47d7-9966-3e92a98f1c8a&serverSideAds=false
