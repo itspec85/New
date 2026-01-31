@@ -4315,6 +4315,9 @@ http://ext.cdn.nashnet.tv/228.0.2.165/index.m3u8
 #EXTINF:-1 tvg-name="Балта ТВ" tvg-logo="https://avatars.mds.yandex.net/i?id=64754581c4ae415f4859c0edf1509fa9_sr-4825035-images-thumbs&n=13" group-title="Украина", Балта ТВ
 #EXTGRP:Украина
 http://194.50.51.34/playlist.m3u8
+#EXTINF:-1 tvg-id="inter-ua" tvg-name="Интер" tvg-logo="http://epg.one/img/2106.png" group-title="Украина", Интер
+#EXTGRP:Украина
+http://cdn-bal.srv4you.net/0153/mpegts
 #EXTINF:-1 tvg-id="ua-kyiv" tvg-name="Київ HD" tvg-logo="http://epg.one/img/2227.png" group-title="Украина", Київ HD
 #EXTGRP:Украина
 https://ext.cdn.nashnet.tv/228.0.0.15/index.m3u8
