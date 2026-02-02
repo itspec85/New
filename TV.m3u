@@ -1466,7 +1466,7 @@ http://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
 https://ucdn.beetv.kz/bpk-tv/000008615/tve/index.m3u8
 #EXTINF:-1 tvg-id="nostalgia" tvg-name="Ностальгия" tvg-logo="http://epg.one/img/783.png" group-title="Познавательные", Ностальгия
 #EXTGRP:Познавательные
-http://109.248.236.51/nostalgia/mono.m3u8
+http://176.118.197.101/Nostalgiya/index.m3u8
 #EXTINF:-1 tvg-id="ntv-pravo" tvg-name="НТВ Право" tvg-logo="http://epg.one/img/1753.png" group-title="Познавательные", НТВ Право
 #EXTGRP:Познавательные
 #EXTVLCOPT:http-user-agent=ntv
@@ -1511,7 +1511,7 @@ https://ucdn.beetv.kz/bpk-tv/000002991/tve/index.m3u8
 https://mhd116.iptv2022.com/p/k2omgwaCyjeyHXhomYzRsw,1770066010/streaming/adventurehd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="pro-business" tvg-name="ПРО бизнес" tvg-logo="http://epg.one/img/2753.png" group-title="Познавательные", ПРО Бизнес
 #EXTGRP:Познавательные
-http://176.107.219.20:9000/play/a003/index.m3u8
+https://tv-streaming.bsh.ru:21938/probusiness/probusiness.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="prosveschenie" tvg-name="Просвещение" tvg-logo="http://epg.one/img/2296.png" group-title="Познавательные", Просвещение
 #EXTGRP:Познавательные
 http://cdn-01.bonus-tv.ru/prosveschenie_edge/tracks-v1a1/index.m3u8
@@ -1535,7 +1535,7 @@ https://n1.slavmir.tv/live/slavmir/chunklist.m3u8
 https://ucdn.beetv.kz/bpk-tv/000002510/tve/index.m3u8
 #EXTINF:-1 tvg-id="sarafan" tvg-name="Сарафан" tvg-logo="http://epg.one/img/663.png" group-title="Познавательные", Сарафан
 #EXTGRP:Познавательные
-http://2.57.217.85:8000/play/a08l/index.m3u8
+http://176.118.197.125/Sarafan/index.m3u8
 #EXTINF:-1 tvg-name="Сити Эдем - АвтоГид" tvg-logo="https://www.cityeden.info/logotv/logotip_avtogid1.png" group-title="Познавательные", Сити Эдем - АвтоГид
 #EXTGRP:Познавательные
 https://cityeden.catcast.tv/content/47515/index.m3u8
@@ -1604,7 +1604,7 @@ http://2.57.217.85:8000/play/a08p/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000001880/tve/index.m3u8
 #EXTINF:-1 tvg-id="2na2" tvg-name="2x2" tvg-logo="http://epg.one/img/323.png" group-title="Познавательные", 2x2
 #EXTGRP:Познавательные
-http://5.188.159.128:8070/2x2/index.m3u8
+http://89.232.68.194:8080/2x2/tracks-v3a1/index.m3u8
 #EXTINF:-1 tvg-name="4K travel" tvg-logo="https://4ktravel.com/wp-content/uploads/2023/02/4kTravelLogo-SM.png.webp" group-title="Познавательные", 4K travel
 #EXTGRP:Познавательные
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/1967b0de-bf90-4339-a563-a5d06bba32ed/2.m3u8
@@ -1673,7 +1673,7 @@ https://ucdn.beetv.kz/bpk-tv/000002455/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000000439/tve/index.m3u8
 #EXTINF:-1 tvg-id="fashion-tv" tvg-name="Fashion TV" tvg-logo="http://epg.one/img/8053.png" group-title="Познавательные", Fashion TV HD
 #EXTGRP:Познавательные
-https://fashs043.cloudycdn.services/scte/sftv2/sftv2_chunklist.m3u8
+http://fashion.mediacdn.ru/cdn/fashiontv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="fox-news-us" tvg-name="FOX NEWS CHANNEL FHD" tvg-logo="http://epg.one/img/6683.png" group-title="Познавательные", FOX NEWS CHANNEL FHD
 #EXTGRP:Познавательные
 http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
@@ -1745,7 +1745,7 @@ https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-4/mxtm-wdfe_1080p/chunkl
 http://193.25.8.59:8000/rtg
 #EXTINF:-1 tvg-id="rtg-tv" tvg-name="RTG TV" tvg-logo="http://epg.one/img/2280.png" group-title="Познавательные", RTG TV
 #EXTGRP:Познавательные
-http://195.26.83.96:7007/play/a00n/index.m3u8
+http://176.118.197.125/RTG-TV/index.m3u8
 #EXTINF:-1 tvg-id="rtvi" tvg-name="RTVi" tvg-logo="http://epg.one/img/2401.png" group-title="Познавательные", RTVi
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000000039/tve/index.m3u8
