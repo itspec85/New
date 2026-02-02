@@ -1402,7 +1402,7 @@ http://edge3.uk.kab.tv/live/tvrus-rus-high/chunks.m3u8
 http://serv25.vintera.tv:8081/kaleidoscop/kaleidoscop_sd/playlist.m3u8
 #EXTINF:-1 tvg-id="kvn-tv" tvg-name="КВН ТВ" tvg-logo="http://epg.one/img/1700.png" group-title="Познавательные", КВН ТВ
 #EXTGRP:Познавательные
-http://93.170.254.17/KVN/index.m3u8
+http://158.101.222.193:88/georgia_play.php?id=kvntv
 #EXTINF:-1 tvg-id="rus-hualiang-tv" tvg-name="Китай ТВ" tvg-logo="https://avatars.mds.yandex.net/i?id=436495c2f8fdbd1b22e12e22f18dabad29cee9d1-9840106-images-thumbs&ref=rim&n=33&w=379&h=379" group-title="Познавательные", Китай ТВ
 #EXTGRP:Познавательные
 https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
@@ -1598,7 +1598,7 @@ https://hls.tv.3angels.ru/stream/HQ.m3u8
 http://193.25.8.59:8000/usadba
 #EXTINF:-1 tvg-id="uspex" tvg-name="Успех" tvg-logo="http://epg.one/img/2455.png" group-title="Познавательные", Успех
 #EXTGRP:Познавательные
-http://2.57.217.85:8000/play/a08p/index.m3u8
+http://158.101.222.193:88/georgia_play.php?id=uspeh
 #EXTINF:-1 tvg-id="centralnoye-tv" tvg-name="Центральное телевидение" tvg-logo="http://epg.one/img/2400.png" group-title="Познавательные", Центральное телевидение
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000001880/tve/index.m3u8
@@ -1697,7 +1697,7 @@ https://ucdn.beetv.kz/bpk-tv/000001000/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000002722/tve/index.m3u8
 #EXTINF:-1 tvg-id="id-xtra-eu" tvg-name="Investigation Discovery" tvg-logo="http://epg.one/img/2507.png" group-title="Познавательные", Investigation Discovery
 #EXTGRP:Познавательные
-http://vod.stb.tvime.ru/Investigation_Discovery_HD_CEE/video.m3u8
+http://109.75.59.241:8017/ID/index.m3u8
 #EXTINF:-1 tvg-name="Jarmarka" tvg-logo="https://i.ytimg.com/an/23MIFU9IMsNtE2K6FfBBCQ/featured_channel.jpg" group-title="Познавательные", Jarmarka
 #EXTGRP:Познавательные
 https://api.alpaca.t62a.com/hls/9104/stream0.m3u8
@@ -1760,7 +1760,7 @@ https://ucdn.beetv.kz/bpk-tv/000008142/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000001498/tve/index.m3u8
 #EXTINF:-1 tvg-id="tlc" tvg-name="TLC HD" tvg-logo="http://epg.one/img/2345.png" group-title="Познавательные", TLC HD
 #EXTGRP:Познавательные
-http://5.188.159.128:8070/TLC/index.m3u8
+http://176.118.197.125/TLC-HD/index.m3u8
 #EXTINF:-1 tvg-id="travel-channel" tvg-name="Travel Channel" tvg-logo="http://epg.one/img/613.png" group-title="Познавательные", Travel Channel
 #EXTGRP:Познавательные
 http://2.57.217.85:8000/play/a03y/index.m3u8
