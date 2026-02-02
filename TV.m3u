@@ -1321,7 +1321,7 @@ https://ucdn.beetv.kz/bpk-tv/000001921/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000008877/tve/index.m3u8
 #EXTINF:-1 tvg-id="arsenaltv" tvg-name="Арсенал HD" tvg-logo="http://epg.one/img/2768.png" group-title="Познавательные", Арсенал HD
 #EXTGRP:Познавательные
-http://live2.tvg.ge:8082/tv/ARSENAL_HD/playlist.m3u8
+https://server.musical.uz/tv/arsenal/tracks-v1a1/mono.m3u8?remote=185.241.9.15&token=6d18aa32e65a7964c2df0465aee4015b9724a126-82c5b094937515b0b2634ee290c82c4c-1770030313-1770019513
 #EXTINF:-1 tvg-id="art-tv" tvg-name="Арт" tvg-logo="http://epg.one/img/9080.png" group-title="Познавательные", Арт
 #EXTGRP:Познавательные
 http://95.47.156.60:8000/play/a011/index.m3u8
