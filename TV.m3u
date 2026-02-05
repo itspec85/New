@@ -1636,9 +1636,6 @@ https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
 #EXTINF:-1 tvg-id="discovery-channel" tvg-name="Discovery Channel" tvg-logo="http://epg.one/img/325.png" group-title="Познавательные", Discovery Channel
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000001496/tve/index.m3u8
-#EXTINF:-1 tvg-id="e-tv" tvg-name="E TV" tvg-logo="http://epg.one/img/1676.png" group-title="Познавательные", E TV
-#EXTGRP:Познавательные
-http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="epic" tvg-name="Epic" tvg-logo="http://epg.one/img/9054.png" group-title="Познавательные", Epic HD
 #EXTGRP:Познавательные
 http://193.25.8.59:8000/dtx
