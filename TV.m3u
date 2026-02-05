@@ -1322,7 +1322,7 @@ https://ucdn.beetv.kz/bpk-tv/000008877/tve/index.m3u8
 #EXTINF:-1 tvg-id="arsenaltv" tvg-name="Арсенал HD" tvg-logo="http://epg.one/img/2768.png" group-title="Познавательные", Арсенал HD
 #EXTGRP:Познавательные
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
-https://mhd116.iptv2022.com/p/a57VrddTsNPBC1LrNWsmow,1770152411/streaming/multikhd/324/1/tracks-v5a1/mono.m3u8
+https://mhd116.iptv2022.com/p/9myMO0D6RMVhJ3xooIwMgA,1770325209/streaming/multikhd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="art-tv" tvg-name="Арт" tvg-logo="http://epg.one/img/9080.png" group-title="Познавательные", Арт
 #EXTGRP:Познавательные
 http://95.47.156.60:8000/play/a011/index.m3u8
@@ -1335,7 +1335,7 @@ https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="v-mire-zhivotnyx-hd" tvg-name="В мире животных HD" tvg-logo="http://epg.one/img/2498.png" group-title="Познавательные", В мире животных HD
 #EXTGRP:Познавательные
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
-https://mhd116.iptv2022.com/p/SATQ4kVO7oIeCOIdmZdjrQ,1770238811/streaming/animalshd/324/1/tracks-v5a1/mono.m3u8
+https://mhd116.iptv2022.com/p/dZ3JTXzYf2n5QNm4_sd6Rg,1770325211/streaming/animalshd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-name="Вера 24" tvg-logo="https://i.imgur.com/Qer5Lnh.png" group-title="Познавательные", Вера 24
 #EXTGRP:Познавательные
 https://5f05e059699ae.streamlock.net/WEB_Vera24/ngrp:Vera24.stream-adaptive/playlist.m3u8
@@ -1357,11 +1357,11 @@ https://ucdn.beetv.kz/bpk-tv/000003174/tve/index.m3u8
 #EXTINF:-1 tvg-id="dikaya-oxota-hd" tvg-name="Дикая охота HD" tvg-logo="http://epg.one/img/2483.png" group-title="Познавательные", Дикая охота HD
 #EXTGRP:Познавательные
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
-https://mhd116.iptv2022.com/p/qt295MdZBnxbggvyYgduXA,1770238809/streaming/ohotahd/324/1/tracks-v5a1/mono.m3u8
+https://mhd116.iptv2022.com/p/WumrI00PzUJQXLl6dHk8oQ,1770325209/streaming/ohotahd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="dikaya-rybalka-hd" tvg-name="Дикая рыбалка HD" tvg-logo="http://epg.one/img/2484.png" group-title="Познавательные", Дикая рыбалка HD
 #EXTGRP:Познавательные
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
-https://mhd116.iptv2022.com/p/65XcvaGErRSjGyW3QyhvFA,1770238809/streaming/ribalkahd/324/1/tracks-v5a1/mono.m3u8
+https://mhd116.iptv2022.com/p/2KRaOz-s6zBDIaHnuDlH4Q,1770325209/streaming/ribalkahd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="dikiy" tvg-name="Дикий" tvg-logo="http://epg.one/img/2283.png" group-title="Познавательные", Дикий
 #EXTGRP:Познавательные
 https://vod.splay.uz/live_splay/original/Dikiy/tracks-v1a1/mono.m3u8
@@ -1509,7 +1509,7 @@ https://ucdn.beetv.kz/bpk-tv/000002991/tve/index.m3u8
 #EXTINF:-1 tvg-id="prikluchenia-hd" tvg-name="Приключения HD" tvg-logo="http://epg.one/img/2311.png" group-title="Познавательные", Приключения HD
 #EXTGRP:Познавательные
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
-https://mhd116.iptv2022.com/p/297ufLXU2QF9nkAmVlog2g,1770152413/streaming/adventurehd/324/1/tracks-v5a1/mono.m3u8
+https://mhd116.iptv2022.com/p/wAWEZYmD7COMkqRY2XJReQ,1770325211/streaming/adventurehd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="pro-business" tvg-name="ПРО бизнес" tvg-logo="http://epg.one/img/2753.png" group-title="Познавательные", ПРО Бизнес
 #EXTGRP:Познавательные
 https://tv-streaming.bsh.ru:21938/probusiness/probusiness.stream/chunklist.m3u8
