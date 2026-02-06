@@ -1500,7 +1500,7 @@ https://serv25.vintera.tv/1pnk/prnk/chunks.m3u8
 #EXTINF:-1 tvg-id="perec-int" tvg-name="Перец International" tvg-logo="http://epg.one/img/5651.png" group-title="Познавательные", Перец International
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000001248/tve/index.m3u8
-#EXTINF:-1 tvg-id="ruskorabl" tvg-name="Плюс Минус 16" tvg-logo="https://epgx.club/picons/ruskorabl.png" group-title="Познавательные", Плюс Минус 16
+#EXTINF:-1 tvg-id="ruskorabl" tvg-name="Плюс Минус 16" tvg-logo="https://avatars.mds.yandex.net/i?id=8e85facbd4eab232179d429a0c72fdb4d53c8e17-3809718-images-thumbs&n=13" group-title="Познавательные", Плюс Минус 16
 #EXTGRP:Познавательные
 http://media.16pm.ru/live/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="poexali" tvg-name="Поехали!" tvg-logo="http://epg.one/img/2350.png" group-title="Познавательные", Поехали!
@@ -1576,7 +1576,7 @@ http://31148.rafail1982.uz/Teleputeshestviya/index.m3u8
 #EXTINF:-1 tvg-id="tochka-otryva" tvg-name="Точка отрыва" tvg-logo="http://epg.one/img/617.png" group-title="Познавательные", Точка отрыва
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000003208/tve/index.m3u8
-#EXTINF:-1 tvg-id="hd-life" tvg-name="Точка РФ" tvg-logo="https://epgx.club/picons/hdl.png" group-title="Познавательные", Точка РФ
+#EXTINF:-1 tvg-id="hd-life" tvg-name="Точка РФ" tvg-logo="https://avatars.mds.yandex.net/i?id=d3b4f009021411116670c7dc32b450eb1677e5c6-3574038-images-thumbs&n=13" group-title="Познавательные", Точка РФ
 #EXTGRP:Познавательные
 http://45.145.32.13:20440/hdl/index.m3u8?token=test
 #EXTINF:-1 tvg-id="tochka-tv" tvg-name="Точка ТВ" tvg-logo="http://epg.one/img/2457.png" group-title="Познавательные", Точка ТВ
