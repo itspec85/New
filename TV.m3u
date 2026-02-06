@@ -2430,7 +2430,7 @@ http://185.57.68.33:80/110/index.m3u8
 https://mhd116.iptv2022.com/p/qVX9Fi2xt_nbS2ZN3_WK5g,1770411654/streaming/footbal3hd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="mir-basketbola" tvg-name="Мир баскетбола" tvg-logo="http://epg.one/img/4629.png" group-title="Спорт", Мир Баскетбола
 #EXTGRP:Спорт
-http://85.88.175.48:2020/udp/239.4.10.133:2020
+http://45.145.32.13:20440/mir_basketbola/index.m3u8?token=test
 #EXTINF:-1 tvg-id="okko-sport-2" tvg-name="Окко.Прайм Спорт" tvg-logo="http://epg.one/img/9324.png" group-title="Спорт", Окко Прайм Спорт
 #EXTGRP:Спорт
 http://185.221.213.254:8080/Okko/mono.m3u8
