@@ -1984,15 +1984,13 @@ https://ucdn.beetv.kz/bpk-tv/000006365/tve/index.m3u8
 #EXTINF:-1 tvg-id="mosfilm" tvg-name="Мосфильм. Золотая коллекция" tvg-logo="http://epg.one/img/3357.png" group-title="Кино", Мосфильм. Золотая коллекция HD
 #EXTGRP:Кино
 http://5.8.11.96:8099/mosfilmhd/index.m3u8
-#EXTINF:-1 tvg-id="muvitv" tvg-name="Муви ТВ" tvg-logo="https://epgx.club/picons/muvitv.png" group-title="Кино", Муви ТВ
-#EXTGRP:Кино
-http://cdn.voka.tv/live/5007-req_5k_v5.m3u8
 #EXTINF:-1 tvg-id="muzhskoe-kino" tvg-name="Мужское кино" tvg-logo="http://epg.one/img/1584.png" group-title="Кино", МУЖСКОЕ КИНО
 #EXTGRP:Кино
 http://158.101.222.193:88/georgia_play.php?id=interesnoetv
 #EXTINF:-1 tvg-id="nash-kinopokaz" tvg-name="Наш кинопоказ" tvg-logo="http://epg.one/img/2831.png" group-title="Кино", Наш Кинопоказ HD
 #EXTGRP:Кино
-http://cdn.voka.tv/live/285-req_5k_v5.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
+https://mhd116.iptv2022.com/p/JLqR3tnAFmf-bCi3uLrV7Q,1770411623/streaming/nashpokaz/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="nashehd" tvg-name="Наше крутое HD" tvg-logo="http://epg.one/img/2018.png" group-title="Кино", Наше крутое HD
 #EXTGRP:Кино
 http://hls127.freeott.top:8080/Nashe_HD/mono.m3u8
@@ -2032,9 +2030,6 @@ http://193.25.8.59:8000/retro
 #EXTINF:-1 tvg-id="rodnoe-kino" tvg-name="Родное кино" tvg-logo="http://epg.one/img/12.png" group-title="Кино", РОДНОЕ КИНО
 #EXTGRP:Кино
 http://176.118.197.101/RodnoeKino/index.m3u8
-#EXTINF:-1 tvg-id="russkaya-komedia" tvg-name="Русская комедия" tvg-logo="http://epg.one/img/1620.png" group-title="Кино", Русская комедия
-#EXTGRP:Кино
-http://176.118.197.101/Komediya/index.m3u8
 #EXTINF:-1 tvg-id="russky-bestseller" tvg-name="Русский бестселлер" tvg-logo="http://epg.one/img/994.png" group-title="Кино", Русский бестселлер
 #EXTGRP:Кино
 http://62.89.220.15/streams/media/russkiy-bestseller_720x576/index.m3u8
