@@ -1506,8 +1506,7 @@ http://media.16pm.ru/live/tracks-v1a1/mono.ts.m3u8
 https://ucdn.beetv.kz/bpk-tv/000002991/tve/index.m3u8
 #EXTINF:-1 tvg-id="prikluchenia-hd" tvg-name="Приключения HD" tvg-logo="http://epg.one/img/2311.png" group-title="Познавательные", Приключения HD
 #EXTGRP:Познавательные
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
-https://mhd116.iptv2022.com/p/d3T3aY6NgoPCmq2NMWVULQ,1770411644/streaming/adventurehd/324/1/tracks-v5a1/mono.m3u8
+https://stream8.cinerama.uz/1420/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="pro-business" tvg-name="ПРО бизнес" tvg-logo="http://epg.one/img/2753.png" group-title="Познавательные", ПРО Бизнес
 #EXTGRP:Познавательные
 https://tv-streaming.bsh.ru:21938/probusiness/probusiness.stream/chunklist.m3u8
@@ -1771,8 +1770,7 @@ http://autopilot.catcast.tv/content/38720/index.m3u8
 https://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ginger-hd" tvg-name="Капитан Фантастика" tvg-logo="http://epg.one/img/2438.png" group-title="Детские", Капитан Фантастика
 #EXTGRP:Детские
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
-https://mhd116.iptv2022.com/p/KK1wbPiAa8xMvP8PyjEmxg,1770411631/streaming/gingerhd/324/1/tracks-v5a1/mono.m3u8
+https://stream8.cinerama.uz/1406/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="karusel" tvg-name="Карусель" tvg-logo="http://epg.one/img/740.png" group-title="Детские", Карусель
 #EXTGRP:Детские
 http://95.47.156.60:8000/play/8/index.m3u8
