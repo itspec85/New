@@ -2568,7 +2568,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c
 http://nhl-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="nhl-network-us" tvg-name="NHL Network [US]" tvg-logo="http://epg.one/img/4562.png" group-title="Спорт", NHL Network US
 #EXTGRP:Спорт
-http://river-1.rutube.ru/stream/genetta-522.ost.rutube.ru/8zDn-F5Ga1R8I9TMdzxJ1g/1770926781/7a485ef5da9fe50ba939f36ca3e6ed96/1080p_stream.m3u8
+http://kstv.us:8080/c2Q2HDqQfM/111770/15941
 #EXTINF:-1 tvg-name="Pac 12 Insider USA" tvg-logo="https://i.imgur.com/736QREy.png" group-title="Спорт", Pac 12 Insider USA
 #EXTGRP:Спорт
 https://pac12-roku-us.amagi.tv/playlist.m3u8
