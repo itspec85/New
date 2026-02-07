@@ -1321,8 +1321,7 @@ https://ucdn.beetv.kz/bpk-tv/000001921/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000008877/tve/index.m3u8
 #EXTINF:-1 tvg-id="arsenaltv" tvg-name="Арсенал HD" tvg-logo="http://epg.one/img/2768.png" group-title="Познавательные", Арсенал HD
 #EXTGRP:Познавательные
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
-https://mhd116.iptv2022.com/p/TUhgXHl0OvaL6jThTsvuYw,1770411634/streaming/multikhd/324/1/tracks-v5a1/mono.m3u8
+https://stream8.cinerama.uz/1414/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="art-tv" tvg-name="Арт" tvg-logo="http://epg.one/img/9080.png" group-title="Познавательные", Арт
 #EXTGRP:Познавательные
 http://95.47.156.60:8000/play/a011/index.m3u8
@@ -1334,8 +1333,7 @@ http://176.118.197.125/Bober/index.m3u8
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="v-mire-zhivotnyx-hd" tvg-name="В мире животных HD" tvg-logo="http://epg.one/img/2498.png" group-title="Познавательные", В мире животных HD
 #EXTGRP:Познавательные
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
-https://mhd116.iptv2022.com/p/oP7DF6zL-myF6Hipifq2XA,1770411645/streaming/animalshd/324/1/tracks-v5a1/mono.m3u8
+https://stream8.cinerama.uz/1404/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Вера 24" tvg-logo="https://i.imgur.com/Qer5Lnh.png" group-title="Познавательные", Вера 24
 #EXTGRP:Познавательные
 https://5f05e059699ae.streamlock.net/WEB_Vera24/ngrp:Vera24.stream-adaptive/playlist.m3u8
@@ -1801,8 +1799,7 @@ https://ucdn.beetv.kz/bpk-tv/000000203/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000002928/tve/index.m3u8
 #EXTINF:-1 tvg-id="ryzhy" tvg-name="Рыжий" tvg-logo="http://epg.one/img/2437.png" group-title="Детские", Рыжий
 #EXTGRP:Детские
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
-https://mhd116.iptv2022.com/p/udlG6u26H_Igb4m_lE1vnw,1770411632/streaming/ginger-surd/324/1/tracks-v5a1/mono.m3u8
+https://stream8.cinerama.uz/1407/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="smaylik-tv" tvg-name="Смайл ТВ" tvg-logo="http://epg.one/img/2442.png" group-title="Детские", Смайл ТВ
 #EXTGRP:Детские
 https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
