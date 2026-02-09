@@ -4088,6 +4088,9 @@ https://live.teleradiocom.tj/15/3m.m3u8
 #EXTINF:-1 tvg-name="Сафина HD TJ" tvg-logo="http://epg.one/img/2583.png" group-title="Таджикистан", Сафина HD TJ
 #EXTGRP:Таджикистан
 https://live.teleradiocom.tj/2/3m.m3u8
+#EXTINF:-1 tvg-name="Танин ТВ" tvg-logo="https://avatars.mds.yandex.net/i?id=44486fa6dcb545ede500f949c25f25caa8e6f7b3-5235433-images-thumbs&n=13" group-title="Таджикистан", Танин ТВ
+#EXTGRP:Таджикистан
+http://91.218.163.153:9091/0.m3u8
 #EXTINF:-1 tvg-name="ТВ Бадахшон" tvg-logo="https://ajoyib.server-img.lfstrm.tv/image/aHR0cHM6Ly9pbWcuYjYxMi50aWdodHZpZGVvLmNvbS9jaGFubmVscy9iYWRha2hzaG9uXzEyMDk4OS5wbmc=?width=340&height=192&quality=93" group-title="Таджикистан", ТВ Бадахшон
 #EXTGRP:Таджикистан
 https://live.teleradiocom.tj/11/3m.m3u8
