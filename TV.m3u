@@ -2414,6 +2414,9 @@ https://edge50.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
 #EXTGRP:Спорт
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://a3285272783-s80718.cdn.ngenix.net/hls/CH_BOKS_TVHD/video_1920x1080_avc1/playlist.m3u8?useseq=t
+#EXTINF:-1 tvg-id="varzish-sport" tvg-name="Варзиш Спорт" tvg-logo="https://avatars.mds.yandex.net/i?id=fe5e8e285aa57ec8a4c5cab5f8a4d2289986601c-4470903-images-thumbs&n=13" group-title="Спорт", Варзиш Sport
+#EXTGRP:Спорт
+https://live.teleradiocom.tj/5/3m.m3u8
 #EXTINF:-1 tvg-id="konny-mir" tvg-name="Конный Мир" tvg-logo="http://epg.one/img/1679.png" group-title="Спорт", Конный Мир
 #EXTGRP:Спорт
 http://cdn-01.bonus-tv.ru/kmir/mono.m3u8
@@ -2494,6 +2497,9 @@ https://a787201481-s80718.cdn.ngenix.net/hls/CH_UDARHD/video_1920x1080_avc1/play
 #EXTINF:-1 tvg-id="football-ru" tvg-name="Футбол" tvg-logo="http://epg.one/img/2782.png" group-title="Спорт", Футбол
 #EXTGRP:Спорт
 http://hls127.freeott.top:8080/Football/mono.m3u8
+#EXTINF:-1 tvg-id="football-tj" tvg-name="Футбол [TJ]" tvg-logo="https://epg.iptvx.one/picons/football-tj.png" group-title="Спорт", Футбол TJ
+#EXTGRP:Спорт
+https://live.teleradiocom.tj/8/3m.m3u8
 #EXTINF:-1 tvg-name="A21 Network" tvg-logo="https://a21network.ru/wp-content/uploads/2022/02/a21_live.jpg" group-title="Спорт", A21 Network
 #EXTGRP:Спорт
 https://autopilot.catcast.tv/content/37909/index.m3u8
@@ -4067,6 +4073,45 @@ http://95.46.208.8:24432/skif
 #EXTINF:-1 tvg-id="stv-by" tvg-name="СТВ" tvg-logo="http://epg.one/img/2543.png" group-title="Беларусь", СТВ
 #EXTGRP:Беларусь
 https://edge53.dc.beltelecom.by/ctv/_definst_/ctv.stream/chunklist_w1093126388.m3u8
+
+
+
+#EXTINF:-1 tvg-name="Баҳористон TJ" tvg-logo="http://epg.one/img/2584.png" group-title="Таджикистан", Баҳористон TJ
+#EXTGRP:Таджикистан
+https://live.teleradiocom.tj/3/3m.m3u8
+#EXTINF:-1 tvg-name="Душанбе" tvg-logo="https://avatars.mds.yandex.net/i?id=554e4f3223a90a20ee01d5264a7f4273b95a49c5-12434137-images-thumbs&n=13" group-title="Таджикистан", Душанбе
+#EXTGRP:Таджикистан
+https://live.teleradiocom.tj/7/3m.m3u8
+#EXTINF:-1 tvg-name="Илм ва Табиат" tvg-logo="https://avatars.mds.yandex.net/i?id=2fe825fc2a7958963dd7dbea37127257534f8fcb-10384973-images-thumbs&n=13" group-title="Таджикистан", Илм ва Табиат
+#EXTGRP:Таджикистан
+https://live.teleradiocom.tj/15/3m.m3u8
+#EXTINF:-1 tvg-name="Сафина HD TJ" tvg-logo="http://epg.one/img/2583.png" group-title="Таджикистан", Сафина HD TJ
+#EXTGRP:Таджикистан
+https://live.teleradiocom.tj/2/3m.m3u8
+#EXTINF:-1 tvg-name="ТВ Бадахшон" tvg-logo="https://ajoyib.server-img.lfstrm.tv/image/aHR0cHM6Ly9pbWcuYjYxMi50aWdodHZpZGVvLmNvbS9jaGFubmVscy9iYWRha2hzaG9uXzEyMDk4OS5wbmc=?width=340&height=192&quality=93" group-title="Таджикистан", ТВ Бадахшон
+#EXTGRP:Таджикистан
+https://live.teleradiocom.tj/11/3m.m3u8
+#EXTINF:-1 tvg-name="ТВ Кулоб" tvg-logo="https://avatars.mds.yandex.net/i?id=f3e4c86690fb82267d6b061512e34ae1f10b9b6e-5655440-images-thumbs&n=13" group-title="Таджикистан", ТВ Кулоб
+#EXTGRP:Таджикистан
+https://live.teleradiocom.tj/12/3m.m3u8
+#EXTINF:-1 tvg-name="ТВ Синамо TJ" tvg-logo="http://epg.one/img/2581.png" group-title="Таджикистан", ТВ Синамо TJ
+#EXTGRP:Таджикистан
+https://live.teleradiocom.tj/6/3m.m3u8
+#EXTINF:-1 tvg-name="ТВ Сугд" tvg-logo="https://ajoyib.server-img.lfstrm.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3R2c3VnZF8xMjA5ODkucG5n?width=340&height=192&quality=93" group-title="Таджикистан", ТВ Сугд
+#EXTGRP:Таджикистан
+https://live.teleradiocom.tj/14/3m.m3u8
+#EXTINF:-1 tvg-name="ТВ-Хатлон" tvg-logo="https://avatars.mds.yandex.net/i?id=207e8b7e884381d959620346b657d897a20dac94-5232594-images-thumbs&n=13" group-title="Таджикистан", ТВ-Хатлон
+#EXTGRP:Таджикистан
+https://live.teleradiocom.tj/10/3m.m3u8
+#EXTINF:-1 tvg-name="ТМТ Шаҳнавоз" tvg-logo="https://avatars.mds.yandex.net/i?id=88d06125c7e3aa6330bcbe46de429753a2ec29f0-8358323-images-thumbs&n=13" group-title="Таджикистан", ТМТ Шаҳнавоз
+#EXTGRP:Таджикистан
+https://live.teleradiocom.tj/9/3m.m3u8
+#EXTINF:-1 tvg-name="Тоҷикистон HD TJ" tvg-logo="http://epg.one/img/2582.png" group-title="Таджикистан", Тоҷикистон HD TJ
+#EXTGRP:Таджикистан
+https://live.teleradiocom.tj/16/3m.m3u8
+#EXTINF:-1 tvg-name="Чахоннамо TJ" tvg-logo="http://epg.one/img/2585.png" group-title="Таджикистан", Чахоннамо TJ
+#EXTGRP:Таджикистан
+https://live.teleradiocom.tj/4/3m.m3u8
 
 
 
