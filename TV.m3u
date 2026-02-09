@@ -4280,6 +4280,9 @@ https://s03.watcher.uz/74/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.
 #EXTINF:-1 tvg-name="Iqbol TV" tvg-logo="https://avatars.mds.yandex.net/i?id=fd642ca2061d03fd8934abfc57963965a4c81a6c-12377225-images-thumbs&n=13" group-title="Узбекистан", Iqbol TV
 #EXTGRP:Узбекистан
 https://s06.watcher.uz/157/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1 tvg-name="Ishonch TV" tvg-logo="https://avatars.mds.yandex.net/i?id=2d9a6e9881d0d59c7d42e9ff1494b1a7eadc6f8a-16439558-images-thumbs&n=13" group-title="Узбекистан", Ishonch TV
+#EXTGRP:Узбекистан
+http://s8.rafail1982.uz/1489/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="iTV Cinema UZ" tvg-logo="http://epg.one/img/7920.png" group-title="Узбекистан", iTV Cinema UZ
 #EXTGRP:Узбекистан
 https://iptv.itv.uz/hls/live/t/UAcSEExX5UamlFqFOIaXIA/e/1767191403/4000/index.m3u8
@@ -4298,15 +4301,24 @@ https://s03.watcher.uz/60/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.
 #EXTINF:-1 tvg-name="Mahalla UZ" tvg-logo="http://epg.one/img/7924.png" group-title="Узбекистан", Mahalla UZ
 #EXTGRP:Узбекистан
 https://s03.watcher.uz/61/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1 tvg-name="Makon TV" tvg-logo="https://avatars.mds.yandex.net/i?id=3e55ace75988f4da83df463f16a195c8b77e9928-4556787-images-thumbs&n=13" group-title="Узбекистан", Makon TV
+#EXTGRP:Узбекистан
+http://s8.rafail1982.uz/1497/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Milliy TV UZ" tvg-logo="http://epg.one/img/7926.png" group-title="Узбекистан", Milliy TV UZ
 #EXTGRP:Узбекистан
 https://s05.watcher.uz/70/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1 tvg-name="Muloqot TV" tvg-logo="https://avatars.mds.yandex.net/i?id=74dc1a141c67541ed1f9c6c24069b7b2e5e96d23-5334983-images-thumbs&n=13" group-title="Узбекистан", Muloqot TV
+#EXTGRP:Узбекистан
+http://s8.rafail1982.uz/1285/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="My5 UZ" tvg-logo="http://epg.one/img/7928.png" group-title="Узбекистан", My5 UZ
 #EXTGRP:Узбекистан
 https://s05.watcher.uz/69/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
 #EXTINF:-1 tvg-name="My5 UZ International" tvg-logo="http://epg.one/img/7928.png" group-title="Узбекистан", My5 UZ International
 #EXTGRP:Узбекистан
 https://st.my5.media/hls/fullhd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="MYDAYTV" tvg-logo="https://avatars.mds.yandex.net/i?id=456d4b357ea21d156531ad8aca3c2f8823f0141e-5287696-images-thumbs&n=13" group-title="Узбекистан", MYDAYTV
+#EXTGRP:Узбекистан
+http://s8.rafail1982.uz/1265/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Navo UZ" tvg-logo="http://epg.one/img/2651.png" group-title="Узбекистан", Navo UZ
 #EXTGRP:Узбекистан
 https://s05.watcher.uz/65/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
