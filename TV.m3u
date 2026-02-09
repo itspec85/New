@@ -4274,6 +4274,12 @@ https://stream8.cinerama.uz/1206/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-name="Dunyo bo`ylab UZ" tvg-logo="http://epg.one/img/2649.png" group-title="Узбекистан", Dunyo bo`ylab UZ
 #EXTGRP:Узбекистан
 https://stream8.cinerama.uz/1006/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-name="ETV" tvg-logo="https://avatars.mds.yandex.net/i?id=c78b974ed07b1a7db0dfb55def380d0d902b608e-4437137-images-thumbs&n=13" group-title="Узбекистан", ETV
+#EXTGRP:Узбекистан
+http://s8.rafail1982.uz/1495/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Farg'ona MTRK" tvg-logo="https://avatars.mds.yandex.net/i?id=474b117219506c81f58eec2d212992a9caa42c35-5869551-images-thumbs&n=13" group-title="Узбекистан", Farg'ona MTRK
+#EXTGRP:Узбекистан
+http://s8.rafail1982.uz/1458/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="FTV UZ" tvg-logo="https://avatars.mds.yandex.net/i?id=3d5662da9c27e46f0538964e5f3b12d5b160bbb2-9380290-images-thumbs&n=13" group-title="Узбекистан", FTV UZ
 #EXTGRP:Узбекистан
 https://s03.watcher.uz/74/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
@@ -4285,10 +4291,16 @@ https://s06.watcher.uz/157/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9
 http://s8.rafail1982.uz/1489/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="iTV Cinema UZ" tvg-logo="http://epg.one/img/7920.png" group-title="Узбекистан", iTV Cinema UZ
 #EXTGRP:Узбекистан
-https://iptv.itv.uz/hls/live/t/UAcSEExX5UamlFqFOIaXIA/e/1767191403/4000/index.m3u8
+http://s8.rafail1982.uz/4000/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="iTV Music UZ" tvg-logo="http://epg.one/img/7920.png" group-title="Узбекистан", iTV Music UZ
 #EXTGRP:Узбекистан
 https://iptv.itv.uz/hls/live/t/IDvfbmZ5Ibmqs0plMhNejg/e/1767191403/4001/index.m3u8
+#EXTINF:-1 tvg-name="Jaslar TV" tvg-logo="https://avatars.mds.yandex.net/i?id=80eef0ea47230f87b2c2bc1243f2eb0d34fd1b12-12519862-images-thumbs&n=13" group-title="Узбекистан", Jaslar TV
+#EXTGRP:Узбекистан
+http://s8.rafail1982.uz/1490/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="JTV" tvg-logo="https://avatars.mds.yandex.net/i?id=220448d3df1d1d7b15101157fb733e75250095f7-4854982-images-thumbs&n=13" group-title="Узбекистан", JTV
+#EXTGRP:Узбекистан
+http://s8.rafail1982.uz/1488/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Qaraqalpaqstan" tvg-logo="https://qtrk.uz/wp-content/uploads/2024/06/logo.png" group-title="Узбекистан", Qaraqalpaqstan
 #EXTGRP:Узбекистан
 https://stream8.cinerama.uz/1467/tracks-v1a1/mono.m3u8
