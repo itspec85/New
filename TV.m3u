@@ -2545,12 +2545,18 @@ https://ucdn.beetv.kz/bpk-tv/000002478/tve/index.m3u8
 #EXTINF:-1 tvg-id="eurosport1" tvg-name="Eurosport 1" tvg-logo="http://epg.one/img/2052.png" group-title="Спорт", Eurosport 1 (резерв)
 #EXTGRP:Спорт
 http://176.96.241.40/Eurosport1/index.m3u8
+#EXTINF:-1 tvg-id="eurosport1" tvg-name="Eurosport 1" tvg-logo="http://epg.one/img/2052.png" group-title="Спорт", Eurosport 1 Europa
+#EXTGRP:Спорт
+http://185.112.249.46:9981/stream/channelid/718615486?profile=pass
 #EXTINF:-1 tvg-id="eurosport2" tvg-name="Eurosport 2" tvg-logo="http://epg.one/img/4313.png" group-title="Спорт", Eurosport 2
 #EXTGRP:Спорт
 https://ucdn.beetv.kz/bpk-tv/000002479/tve/index.m3u8
 #EXTINF:-1 tvg-id="eurosport2" tvg-name="Eurosport 2" tvg-logo="http://epg.one/img/4313.png" group-title="Спорт", Eurosport 2 (резерв)
 #EXTGRP:Спорт
 http://176.96.241.40/Eurosport2/index.m3u8
+#EXTINF:-1 tvg-id="eurosport2" tvg-name="Eurosport 2" tvg-logo="http://epg.one/img/4313.png" group-title="Спорт", Eurosport 2 Europa
+#EXTGRP:Спорт
+http://169.150.223.25/Eurosport2HD/index.m3u8
 #EXTINF:-1 tvg-id="extreme-sports" tvg-name="Extreme Sports" tvg-logo="http://epg.one/img/2053.png" group-title="Спорт", Extreme Sports
 #EXTGRP:Спорт
 https://ucdn.beetv.kz/bpk-tv/000000026/tve/index.m3u8
