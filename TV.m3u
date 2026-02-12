@@ -296,7 +296,7 @@ https://ucdn.beetv.kz/bpk-tv/000000428/tve/index.m3u8
 http://dmi3y-tv6.ru/hls/zabava/CH_STSLOVE.m3u8
 #EXTINF:-1 tvg-id="super" tvg-name="Суббота" tvg-logo="http://epg.one/img/2288.png" group-title="Россия", Суббота
 #EXTGRP:Россия
-http://hls2.hd-tv.club/2_super/index.m3u8
+http://217.114.191.150/Subbota/index.m3u8
 #EXTINF:-1 tvg-id="super" tvg-name="Суббота HD" tvg-logo="http://epg.one/img/2288.png" group-title="Россия", Суббота HD
 #EXTGRP:Россия
 http://river-1.rutube.ru/stream/genetta-503.ost.rutube.ru/96EA6F-S7b6bujW1TO2zWA/1770926590/310744c10a5809da38aa445c952976da/1080p_stream.m3u8
