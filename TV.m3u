@@ -2000,16 +2000,19 @@ http://185.46.16.239:8000/Ani
 https://ucdn.beetv.kz/bpk-tv/000005178/tve/index.m3u8
 #EXTINF:-1 tvg-id="bcu-multserial" tvg-name="BCU Мультсериал HD" tvg-logo="http://epg.one/img/4746.png" group-title="Детские", BCU Мультсериал HD
 #EXTGRP:Детские
-http://88.99.165.164:6878/ace/getstream?id=8bff31504247530c1be06395c11c38ecd1895964
+http://tv.lamro.workers.dev/?ID=5166
 #EXTINF:-1 tvg-id="bcu-kids-4k" tvg-name="BCU Kids 4K" tvg-logo="http://epg.one/img/6185.png" group-title="Детские", BCU Kids 4K
 #EXTGRP:Детские
 http://88.99.165.164:6878/ace/getstream?id=c3aa52aab6bd48c3b79189410fbf716f2e4dd293
 #EXTINF:-1 tvg-id="bcu-kids" tvg-name="BCU Kids HD" tvg-logo="http://epg.one/img/4756.png" group-title="Детские", BCU Kids HD
 #EXTGRP:Детские
-http://88.99.165.164:6878/ace/getstream?id=535b288408b7c671bb1d5c292dd64beadf556ab9
+http://tv.lamro.workers.dev/?ID=5187
 #EXTINF:-1 tvg-id="bcu-kids-plus" tvg-name="BCU Kids+ HD" tvg-logo="http://epg.one/img/4757.png" group-title="Детские", BCU Kids+ HD
 #EXTGRP:Детские
-http://88.99.165.164:6878/ace/getstream?id=e2db1c6451aeff66756ae166cf507a0b2743b69a
+http://tv.lamro.workers.dev/?ID=5188
+#EXTINF:-1 tvg-id="bcu-little" tvg-name="BCU Little HD" tvg-logo="http://epg.one/img/6848.png" group-title="Детские", BCU Little HD
+#EXTGRP:Детские
+http://tv.lamro.workers.dev/?ID=5186
 #EXTINF:-1 tvg-id="cartoon-classics" tvg-name="Cartoon Classics" tvg-logo="http://epg.one/img/9183.png" group-title="Детские", Cartoon Classics
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000008795/tve/index.m3u8
@@ -2509,28 +2512,28 @@ https://cityeden.catcast.tv/content/45268/index.m3u8
 http://autopilot.catcast.tv/content/41333/index.m3u8
 #EXTINF:-1 tvg-id="bcu-kinozal-prem-1" tvg-name="BCU Кинозал Premiere 1 HD" tvg-logo="http://epg.one/img/4736.png" group-title="Кинозал", BCU Кинозал Premiere 1 HD
 #EXTGRP:Кинозал
-http://88.99.165.164:6878/ace/getstream?id=122b81e6c37b49a37c3b1984efaf5626371d5df5
+http://tv.lamro.workers.dev/?ID=5162
 #EXTINF:-1 tvg-id="bcu-kinozal-prem-2" tvg-name="BCU Кинозал Premiere 2 HD" tvg-logo="http://epg.one/img/4737.png" group-title="Кинозал", BCU Кинозал Premiere 2 HD
 #EXTGRP:Кинозал
-http://88.99.165.164:6878/ace/getstream?id=d488e696aba7b6a2d3a8977d762bcf4eee1bfd07
+http://tv.lamro.workers.dev/?ID=5163
 #EXTINF:-1 tvg-id="bcu-kinozal-prem-3" tvg-name="BCU Кинозал Premiere 3 HD" tvg-logo="http://epg.one/img/4738.png" group-title="Кинозал", BCU Кинозал Premiere 3 HD
 #EXTGRP:Кинозал
-http://88.99.165.164:6878/ace/getstream?id=ffa797e65b8307a13b2805284e28295884c7e7e1
+http://tv.lamro.workers.dev/?ID=5165
 #EXTINF:-1 tvg-id="bcu-svaty" tvg-name="BCU Сваты HD" tvg-logo="http://epg.one/img/4768.png" group-title="Кинозал", BCU Сваты HD
 #EXTGRP:Кинозал
-http://88.99.165.164:6878/ace/getstream?id=5cea434c891d27aa66d87d3b23d91ab74c1c72f8
+http://tv.lamro.workers.dev/?ID=5181
 #EXTINF:-1 tvg-id="bcu-sssr" tvg-name="BCU СССР HD" tvg-logo="http://epg.one/img/4747.png" group-title="Кинозал", BCU СССР HD
 #EXTGRP:Кинозал
-http://88.99.165.164:6878/ace/getstream?id=59623cb797c031a5aa4922eb219851547cb346b0
+http://tv.lamro.workers.dev/?ID=5167
 #EXTINF:-1 tvg-id="bcu-action" tvg-name="BCU Action HD" tvg-logo="http://epg.one/img/4748.png" group-title="Кинозал", BCU Action HD
 #EXTGRP:Кинозал
-http://88.99.165.164:6878/ace/getstream?id=3c679a39456838ea8abc77b288c95df2b7a3f45d
+http://tv.lamro.workers.dev/?ID=5168
 #EXTINF:-1 tvg-id="bcu-catastrophe" tvg-name="BCU Catastrophe HD" tvg-logo="http://epg.one/img/4749.png" group-title="Кинозал", BCU Catastrophe HD
 #EXTGRP:Кинозал
-http://88.99.165.164:6878/ace/getstream?id=07d24566226c5851b9c3a3235e3451854d6baeac
+http://tv.lamro.workers.dev/?ID=5169
 #EXTINF:-1 tvg-id="bcu-cinema" tvg-name="BCU Cinema HD" tvg-logo="http://epg.one/img/4750.png" group-title="Кинозал", BCU Cinema HD
 #EXTGRP:Кинозал
-http://88.99.165.164:6878/ace/getstream?id=ed699504c5010cab9046530306960e998a92f5e6
+http://tv.lamro.workers.dev/?ID=5183
 #EXTINF:-1 tvg-id="bcu-cinemaplus" tvg-name="BCU Cinema+ HD" tvg-logo="http://epg.one/img/4751.png" group-title="Кинозал", BCU Cinema+ HD
 #EXTGRP:Кинозал
 http://88.99.165.164:6878/ace/getstream?id=4d6232def7e751c47eb44a017021055e8362b54a
@@ -2539,19 +2542,19 @@ http://88.99.165.164:6878/ace/getstream?id=4d6232def7e751c47eb44a017021055e8362b
 http://88.99.165.164:6878/ace/getstream?id=5c878afe25deb6a7f1cfe198df39d5a073af4134
 #EXTINF:-1 tvg-id="bcu-cosmo" tvg-name="BCU Cosmo HD" tvg-logo="http://epg.one/img/6176.png" group-title="Кинозал", BCU Cosmo HD
 #EXTGRP:Кинозал
-http://88.99.165.164:6878/ace/getstream?id=41e81ad4d12bf52b23e58c4c3fda62bc8ba1bbb5
+http://tv.lamro.workers.dev/?ID=5237
 #EXTINF:-1 tvg-id="bcu-criminal" tvg-name="BCU Criminal HD" tvg-logo="http://epg.one/img/4769.png" group-title="Кинозал", BCU Criminal HD
 #EXTGRP:Кинозал
-http://88.99.165.164:6878/ace/getstream?id=ddb42884acd341255390cda62387b5a42d8c2180
+http://tv.lamro.workers.dev/?ID=5182
 #EXTINF:-1 tvg-id="bcu-fantastic" tvg-name="BCU Fantastic HD" tvg-logo="http://epg.one/img/4753.png" group-title="Кинозал", BCU Fantastic HD
 #EXTGRP:Кинозал
-http://88.99.165.164:6878/ace/getstream?id=2d04b4c1391b16a4995e7b7fe74833d6c9d850ac
+http://tv.lamro.workers.dev/?ID=5171
 #EXTINF:-1 tvg-id="bcu-filmystic" tvg-name="BCU Filmystic HD" tvg-logo="http://epg.one/img/4754.png" group-title="Кинозал", BCU Filmystic HD
 #EXTGRP:Кинозал
-http://88.99.165.164:6878/ace/getstream?id=2814982beb7bb4bd74ad2f8c721ba4bcf7e93a04
+http://tv.lamro.workers.dev/?ID=5172
 #EXTINF:-1 tvg-id="bcu-history" tvg-name="BCU History HD" tvg-logo="http://epg.one/img/4755.png" group-title="Кинозал", BCU History HD
 #EXTGRP:Кинозал
-http://88.99.165.164:6878/ace/getstream?id=21fcd8e73936b64435d07832c2d8382609f48d6d
+http://tv.lamro.workers.dev/?ID=5173
 #EXTINF:-1 tvg-id="bcu-kinorating" tvg-name="BCU Kinorating HD" tvg-logo="http://epg.one/img/4758.png" group-title="Кинозал", BCU Kinorating HD
 #EXTGRP:Кинозал
 http://hls127.freeott.top:8080/BCUKinoratingHD/mono.m3u8
