@@ -2387,7 +2387,8 @@ https://ucdn.beetv.kz/bpk-tv/000007818/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000008739/tve/index.m3u8
 #EXTINF:-1 tvg-id="timeless-dizi" tvg-name="Timeless Dizi Channel" tvg-logo="http://epg.one/img/6724.png" group-title="Кино", Timeless Dizi Channel
 #EXTGRP:Кино
-http://193.25.8.59:8000/tlc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
+https://mhd116.iptv2022.com/p/ZltlWwyVhhvs_Pg-g6FAoQ,1771189215/streaming/dizitv/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-name="TimeToHorror" tvg-logo="https://avatars.mds.yandex.net/i?id=e9ad41df2a86d860922cfccd98f422bb8706aa63-5305442-images-thumbs&n=13" group-title="Кино", TimeToHorror
 #EXTGRP:Кино
 http://kinowalk.hopto.org/timetohorror_live
@@ -2728,10 +2729,12 @@ https://mhd116.iptv2022.com/p/5XXIpZszRbjwJ2U3yHUajQ,1771189229/streaming/match_
 https://stream8.cinerama.uz/1049/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="match-premier" tvg-name="Матч! Премьер" tvg-logo="http://epg.one/img/2250.png" group-title="Спорт", МАТЧ ПРЕМЬЕР
 #EXTGRP:Спорт
-http://89.232.68.194:8080/matchpremier/tracks-v3a1/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
+https://mhd116.iptv2022.com/p/5PkY5C5HqCD-09_EPSZldQ,1771189230/streaming/match_premyer/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="match-premier" tvg-name="Матч! Премьер HD" tvg-logo="http://epg.one/img/2250.png" group-title="Спорт", МАТЧ ПРЕМЬЕР HD
 #EXTGRP:Спорт
-http://89.232.68.194:8080/matchpremier/tracks-v3a1/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
+https://mhd116.iptv2022.com/p/ck9FAlSEGVxJdAWdRVF5yw,1771189230/streaming/match_premyerhd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="match-nash-sport" tvg-name="Матч! Страна" tvg-logo="http://epg.one/img/2042.png" group-title="Спорт", МАТЧ! СТРАНА
 #EXTGRP:Спорт
 http://ukr.ukrainske.tv/134/keytvainua/video.m3u8
