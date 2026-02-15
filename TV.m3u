@@ -1998,6 +1998,18 @@ http://185.46.16.239:8000/Ani
 #EXTINF:-1 tvg-id="balapan" tvg-name="Balapan" tvg-logo="https://epgx.club/picons/balapan.png" group-title="Детские", Balapan
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000005178/tve/index.m3u8
+#EXTINF:-1 tvg-id="bcu-multserial" tvg-name="BCU Мультсериал HD" tvg-logo="http://epg.one/img/4746.png" group-title="Детские", BCU Мультсериал HD
+#EXTGRP:Детские
+http://88.99.165.164:6878/ace/getstream?id=8bff31504247530c1be06395c11c38ecd1895964
+#EXTINF:-1 tvg-id="bcu-kids-4k" tvg-name="BCU Kids 4K" tvg-logo="http://epg.one/img/6185.png" group-title="Детские", BCU Kids 4K
+#EXTGRP:Детские
+http://88.99.165.164:6878/ace/getstream?id=c3aa52aab6bd48c3b79189410fbf716f2e4dd293
+#EXTINF:-1 tvg-id="bcu-kids" tvg-name="BCU Kids HD" tvg-logo="http://epg.one/img/4756.png" group-title="Детские", BCU Kids HD
+#EXTGRP:Детские
+http://88.99.165.164:6878/ace/getstream?id=535b288408b7c671bb1d5c292dd64beadf556ab9
+#EXTINF:-1 tvg-id="bcu-kids-plus" tvg-name="BCU Kids+ HD" tvg-logo="http://epg.one/img/4757.png" group-title="Детские", BCU Kids+ HD
+#EXTGRP:Детские
+http://88.99.165.164:6878/ace/getstream?id=e2db1c6451aeff66756ae166cf507a0b2743b69a
 #EXTINF:-1 tvg-id="cartoon-classics" tvg-name="Cartoon Classics" tvg-logo="http://epg.one/img/9183.png" group-title="Детские", Cartoon Classics
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000008795/tve/index.m3u8
