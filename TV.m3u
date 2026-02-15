@@ -2142,9 +2142,15 @@ http://158.101.222.193:88/georgia_play.php?id=kinoujas
 #EXTINF:-1 tvg-id="kinoxit" tvg-name="Кинохит" tvg-logo="http://epg.one/img/542.png" group-title="Кино", КИНОХИТ
 #EXTGRP:Кино
 https://stream8.cinerama.uz/1055/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="komedijnoe-hd" tvg-name="Комедийное HD" tvg-logo="http://epg.one/img/138.png" group-title="Кино", Комедийное HD
+#EXTGRP:Кино
+http://tv.lamro.workers.dev/?ID=4860
 #EXTINF:-1 tvg-id="lubimoe-kino" tvg-name="Любимое кино" tvg-logo="http://epg.one/img/477.png" group-title="Кино", Любимое Кино
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000000283/tve/index.m3u8
+#EXTINF:-1 tvg-id="nashe-lubimoe-hd" tvg-name="Любимое HD" tvg-logo="http://epg.one/img/2509.png" group-title="Кино", Любимое HD
+#EXTGRP:Кино
+http://tv.lamro.workers.dev/?ID=4937
 #EXTINF:-1 tvg-id="mir-seriala" tvg-name="Мир сериала" tvg-logo="http://epg.one/img/2275.png" group-title="Кино", Мир Сериала
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000000319/tve/index.m3u8
