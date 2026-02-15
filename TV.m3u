@@ -2494,12 +2494,81 @@ https://cityeden.catcast.tv/content/45268/index.m3u8
 #EXTINF:-1 tvg-name="Сити Эдем - КиноЭкшен" tvg-logo="https://www.cityeden.info/logotv/logotip_siti_ehdem-kinoehkshen2.png" group-title="Кинозал", Сити Эдем - КиноЭкшен
 #EXTGRP:Кинозал
 http://autopilot.catcast.tv/content/41333/index.m3u8
+
+#EXTINF:-1 tvg-id="bcu-action" tvg-name="BCU Action HD" tvg-logo="http://epg.one/img/4758.png" group-title="Кинозал", BCU Action HD
+#EXTGRP:Кинозал
+http://88.99.165.164:6878/ace/getstream?id=3c679a39456838ea8abc77b288c95df2b7a3f45d
+#EXTINF:-1 tvg-id="bcu-catastrophe" tvg-name="BCU Catastrophe HD" tvg-logo="http://epg.one/img/4758.png" group-title="Кинозал", BCU Catastrophe HD
+#EXTGRP:Кинозал
+http://88.99.165.164:6878/ace/getstream?id=07d24566226c5851b9c3a3235e3451854d6baeac
+#EXTINF:-1 tvg-id="bcu-cinema" tvg-name="BCU Cinema HD" tvg-logo="http://epg.one/img/4758.png" group-title="Кинозал", BCU Cinema HD
+#EXTGRP:Кинозал
+http://88.99.165.164:6878/ace/getstream?id=ed699504c5010cab9046530306960e998a92f5e6
+#EXTINF:-1 tvg-id="bcu-cinemaplus" tvg-name="BCU Cinema+ HD" tvg-logo="http://epg.one/img/4758.png" group-title="Кинозал", BCU Cinema+ HD
+#EXTGRP:Кинозал
+http://88.99.165.164:6878/ace/getstream?id=4d6232def7e751c47eb44a017021055e8362b54a
+#EXTINF:-1 tvg-id="bcu-comedy" tvg-name="BCU Comedy HD" tvg-logo="http://epg.one/img/4758.png" group-title="Кинозал", BCU Comedy HD
+#EXTGRP:Кинозал
+http://88.99.165.164:6878/ace/getstream?id=5c878afe25deb6a7f1cfe198df39d5a073af4134
+#EXTINF:-1 tvg-id="bcu-cosmo" tvg-name="BCU Cosmo HD" tvg-logo="http://epg.one/img/4758.png" group-title="Кинозал", BCU Cosmo HD
+#EXTGRP:Кинозал
+http://88.99.165.164:6878/ace/getstream?id=41e81ad4d12bf52b23e58c4c3fda62bc8ba1bbb5
+#EXTINF:-1 tvg-id="bcu-criminal" tvg-name="BCU Criminal HD" tvg-logo="http://epg.one/img/4758.png" group-title="Кинозал", BCU Criminal HD
+#EXTGRP:Кинозал
+http://88.99.165.164:6878/ace/getstream?id=ddb42884acd341255390cda62387b5a42d8c2180
+#EXTINF:-1 tvg-id="bcu-fantastic" tvg-name="BCU Fantastic HD" tvg-logo="http://epg.one/img/4758.png" group-title="Кинозал", BCU Fantastic HD
+#EXTGRP:Кинозал
+http://88.99.165.164:6878/ace/getstream?id=2d04b4c1391b16a4995e7b7fe74833d6c9d850ac
+#EXTINF:-1 tvg-id="bcu-filmystic" tvg-name="BCU Filmystic HD" tvg-logo="http://epg.one/img/4758.png" group-title="Кинозал", BCU Filmystic HD
+#EXTGRP:Кинозал
+http://88.99.165.164:6878/ace/getstream?id=2814982beb7bb4bd74ad2f8c721ba4bcf7e93a04
+#EXTINF:-1 tvg-id="bcu-history" tvg-name="BCU History HD" tvg-logo="http://epg.one/img/4758.png" group-title="Кинозал", BCU History HD
+#EXTGRP:Кинозал
+http://88.99.165.164:6878/ace/getstream?id=21fcd8e73936b64435d07832c2d8382609f48d6d
+
 #EXTINF:-1 tvg-id="bcu-kinorating" tvg-name="BCU Kinorating HD" tvg-logo="http://epg.one/img/4758.png" group-title="Кинозал", BCU Kinorating HD
 #EXTGRP:Кинозал
 http://hls127.freeott.top:8080/BCUKinoratingHD/mono.m3u8
+
+#EXTINF:-1 tvg-id="bcu-marvel" tvg-name="BCU Marvel HD" tvg-logo="http://epg.one/img/4758.png" group-title="Кинозал", BCU Marvel HD
+#EXTGRP:Кинозал
+http://88.99.165.164:6878/ace/getstream?id=bbb0e5dbb5f0059de7b9ffc0cbcd1f9728449fd7
+#EXTINF:-1 tvg-id="bcu-premiere" tvg-name="BCU Premiere HD" tvg-logo="http://epg.one/img/4758.png" group-title="Кинозал", BCU Premiere HD
+#EXTGRP:Кинозал
+http://88.99.165.164:6878/ace/getstream?id=52b5bbf1d3a9640f8a186e848f021bfc3daf1154
+#EXTINF:-1 tvg-id="bcu-premiere-4k" tvg-name="BCU Premiere Ultra 4K" tvg-logo="http://epg.one/img/4758.png" group-title="Кинозал", BCU Premiere Ultra 4K
+#EXTGRP:Кинозал
+http://88.99.165.164:6878/ace/getstream?id=30b1dba65edffa2c0c8ade75257508b00d8a61ea
+#EXTINF:-1 tvg-id="bcu-reality" tvg-name="BCU Reality HD" tvg-logo="http://epg.one/img/4758.png" group-title="Кинозал", BCU Reality HD
+#EXTGRP:Кинозал
+http://88.99.165.164:6878/ace/getstream?id=22da1ac893c3daf4035261c84e828c8020648187
+#EXTINF:-1 tvg-id="bcu-romantic" tvg-name="BCU Romantic HD" tvg-logo="http://epg.one/img/4758.png" group-title="Кинозал", BCU Romantic HD
+#EXTGRP:Кинозал
+http://88.99.165.164:6878/ace/getstream?id=62f68471bab075eb96e5db4559e7994427db111b
+#EXTINF:-1 tvg-id="bcu-ruserial" tvg-name="BCU Ruserial HD" tvg-logo="http://epg.one/img/4758.png" group-title="Кинозал", BCU Ruserial HD
+#EXTGRP:Кинозал
+http://88.99.165.164:6878/ace/getstream?id=49552fcef0397a9f48f7520247ee414a085f61e2
+#EXTINF:-1 tvg-id="bcu-russian" tvg-name="BCU Russian HD" tvg-logo="http://epg.one/img/4758.png" group-title="Кинозал", BCU Russian HD
+#EXTGRP:Кинозал
+http://88.99.165.164:6878/ace/getstream?id=5e38456d774827e7312b7eabdde388532a3dfec9
+
 #EXTINF:-1 tvg-id="bcu-stars" tvg-name="BCU Stars HD" tvg-logo="http://epg.one/img/4765.png" group-title="Кинозал", BCU Stars HD
 #EXTGRP:Кинозал
 http://hls127.freeott.top:8080/BCUStarsHD/mono.m3u8
+
+#EXTINF:-1 tvg-id="bcu-survival" tvg-name="BCU Survival HD" tvg-logo="http://epg.one/img/4765.png" group-title="Кинозал", BCU Survival HD
+#EXTGRP:Кинозал
+http://88.99.165.164:6878/ace/getstream?id=7222fcd5c4efe1f4beee535acac83fc195bc51d3
+#EXTINF:-1 tvg-id="bcu-trumotion" tvg-name="BCU TruMotion HD" tvg-logo="http://epg.one/img/4765.png" group-title="Кинозал", BCU TruMotion HD
+#EXTGRP:Кинозал
+http://88.99.165.164:6878/ace/getstream?id=1d316bb0fd6a7741ac8c9a8972b6710e71d84791
+#EXTINF:-1 tvg-id="bcu-ultra4k" tvg-name="BCU Ultra 4K" tvg-logo="http://epg.one/img/4765.png" group-title="Кинозал", BCU Ultra 4K
+#EXTGRP:Кинозал
+http://88.99.165.164:6878/ace/getstream?id=6c82a952053419ef358907fc2fc52151626be0b7
+#EXTINF:-1 tvg-id="bcu-vhs" tvg-name="BCU VHS HD" tvg-logo="http://epg.one/img/4765.png" group-title="Кинозал", BCU VHS HD
+#EXTGRP:Кинозал
+http://88.99.165.164:6878/ace/getstream?id=5752b846dab618e12a0a1541ad6573a81ae1265d
+
 #EXTINF:-1 tvg-id="clarity4k-boevik" tvg-name="Clarity4K Боевик" tvg-logo="https://epgx.club/picons/clarity4k-boevik.png" group-title="Кинозал", Clarity4K Боевик
 #EXTGRP:Кинозал
 http://hls127.freeott.top:8080/Clarity4K_Boevik/video.m3u8
