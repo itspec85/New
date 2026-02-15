@@ -1940,9 +1940,33 @@ https://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ginger-hd" tvg-name="Капитан Фантастика" tvg-logo="http://epg.one/img/2438.png" group-title="Детские", Капитан Фантастика
 #EXTGRP:Детские
 https://stream8.cinerama.uz/1406/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="karusel" tvg-shift="+1" tvg-name="Карусель (-1)" tvg-logo="http://epg.one/img/740.png" group-title="Детские", Карусель (-1)
+#EXTGRP:Детские
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_KARUSEL-1.m3u8
 #EXTINF:-1 tvg-id="karusel" tvg-name="Карусель" tvg-logo="http://epg.one/img/740.png" group-title="Детские", Карусель
 #EXTGRP:Детские
 http://95.47.156.60:8000/play/8/index.m3u8
+#EXTINF:-1 tvg-id="karusel-pl2" tvg-name="Карусель (+2)" tvg-logo="http://epg.one/img/740.png" group-title="Детские", Карусель (+2)
+#EXTGRP:Детские
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_KARUSEL_2.m3u8
+#EXTINF:-1 tvg-id="karusel-pl4" tvg-name="Карусель (+4)" tvg-logo="http://epg.one/img/740.png" group-title="Детские", Карусель (+4)
+#EXTGRP:Детские
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_KARUSEL_4.m3u8
+#EXTINF:-1 tvg-id="karusel" tvg-shift="-6" tvg-name="Карусель (+6)" tvg-logo="http://epg.one/img/740.png" group-title="Детские", Карусель (+6)
+#EXTGRP:Детские
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_KARUSEL_6.m3u8
+#EXTINF:-1 tvg-id="karusel-pl7" tvg-name="Карусель (+7)" tvg-logo="http://epg.one/img/740.png" group-title="Детские", Карусель (+7)
+#EXTGRP:Детские
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_KARUSEL_7.m3u8
+#EXTINF:-1 tvg-id="karusel-pl8" tvg-name="Карусель (+8)" tvg-logo="http://epg.one/img/740.png" group-title="Детские", Карусель (+8)
+#EXTGRP:Детские
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_KARUSEL_8.m3u8
 #EXTINF:-1 tvg-id="karusel-int" tvg-name="Карусель International" tvg-logo="https://iptvx.one/picons/karusel.png" group-title="Детские", Карусель International
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000000781/tve/index.m3u8
@@ -1974,9 +1998,29 @@ https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/play
 #EXTGRP:Детские
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
 https://mhd116.iptv2022.com/p/vaA1tMcsCLHlrQ68_qCsMA,1771189220/streaming/rusmult/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="solnce" tvg-shift="+1" tvg-name="Солнце (-1)" tvg-logo="http://epg.one/img/7669.png" group-title="Детские", Солнце (-1)
+#EXTGRP:Детские
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://dmi3y-tv6.ru/hls/zabava/CH_DISNEY-1.m3u8
 #EXTINF:-1 tvg-id="solnce" tvg-name="Солнце" tvg-logo="http://epg.one/img/7669.png" group-title="Детские", Солнце
 #EXTGRP:Детские
 http://tv.mediacdn.ru/live/solntse/playlist_3000k.m3u8
+#EXTINF:-1 tvg-id="solnce-pl2" tvg-name="Солнце (+2)" tvg-logo="http://epg.one/img/7669.png" group-title="Детские", Солнце (+2)
+#EXTGRP:Детские
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://dmi3y-tv6.ru/hls/zabava/CH_DISNEY_2.m3u8
+#EXTINF:-1 tvg-id="solnce-pl4" tvg-name="Солнце (+4)" tvg-logo="http://epg.one/img/7669.png" group-title="Детские", Солнце (+4)
+#EXTGRP:Детские
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://dmi3y-tv6.ru/hls/zabava/CH_DISNEY_4.m3u8
+#EXTINF:-1 tvg-id="solnce" tvg-shift="-6" tvg-name="Солнце (+6)" tvg-logo="http://epg.one/img/7669.png" group-title="Детские", Солнце (+6)
+#EXTGRP:Детские
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://dmi3y-tv6.ru/hls/zabava/CH_DISNEY_6.m3u8
+#EXTINF:-1 tvg-id="solnce-pl7" tvg-name="Солнце (+7)" tvg-logo="http://epg.one/img/7669.png" group-title="Детские", Солнце (+7)
+#EXTGRP:Детские
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://dmi3y-tv6.ru/hls/zabava/CH_DISNEY_7.m3u8
 #EXTINF:-1 tvg-name="СоюзМультфильм" tvg-logo="https://i.postimg.cc/RCgvJhdQ/image.png" group-title="Детские", СоюзМультфильм
 #EXTGRP:Детские
 http://194.26.229.213/souzmultfilm/index.m3u8
@@ -3002,9 +3046,29 @@ http://streamer.rtcommufa.ru:1935/ptica/ptica1/chunklist.m3u8
 #EXTINF:-1 tvg-id="zhara" tvg-name="Жара" tvg-logo="http://epg.one/img/165.png" group-title="Музыка", ЖАРА
 #EXTGRP:Музыка
 http://31.148.48.15:80/Zhara/index.m3u8
+#EXTINF:-1 tvg-id="muztv" tvg-shift="+1" tvg-name="Муз-ТВ (-1)" tvg-logo="http://epg.one/img/897.png" group-title="Музыка", Муз-ТВ (-1)
+#EXTGRP:Музыка
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_MUZTV-1.m3u8
 #EXTINF:-1 tvg-id="muztv" tvg-name="Муз-ТВ" tvg-logo="http://epg.one/img/897.png" group-title="Музыка", МУЗ-ТВ
 #EXTGRP:Музыка
 http://95.47.156.60:8000/play/20/index.m3u8
+#EXTINF:-1 tvg-id="muztv-pl2" tvg-name="Муз-ТВ (+2)" tvg-logo="http://epg.one/img/897.png" group-title="Музыка", Муз-ТВ (+2)
+#EXTGRP:Музыка
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_MUZTV_2.m3u8
+#EXTINF:-1 tvg-id="muztv-pl4" tvg-name="Муз-ТВ (+4)" tvg-logo="http://epg.one/img/897.png" group-title="Музыка", Муз-ТВ (+4)
+#EXTGRP:Музыка
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_MUZTV_4.m3u8
+#EXTINF:-1 tvg-id="muztv" tvg-shift="-6" tvg-name="Муз-ТВ (+6)" tvg-logo="http://epg.one/img/897.png" group-title="Музыка", Муз-ТВ (+6)
+#EXTGRP:Музыка
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_MUZTV_6.m3u8
+#EXTINF:-1 tvg-id="muztv-pl7" tvg-name="Муз-ТВ (+7)" tvg-logo="http://epg.one/img/897.png" group-title="Музыка", Муз-ТВ (+7)
+#EXTGRP:Музыка
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_MUZTV_7.m3u8
 #EXTINF:-1 tvg-name="Музыка 1 International" tvg-logo="http://epg.one/img/6266.png" group-title="Музыка", Музыка 1 International
 #EXTGRP:Музыка
 http://kino-1.catcast.tv/content/37745/index.m3u8
