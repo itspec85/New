@@ -1985,6 +1985,9 @@ http://185.46.16.239:8000/Mir_24
 #EXTINF:-1 tvg-id="multimania" tvg-name="Мультиландия" tvg-logo="http://epg.one/img/2757.png" group-title="Детские", Мультиландия
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000000203/tve/index.m3u8
+#EXTINF:-1 tvg-name="Мультфильмы СССР" tvg-logo="https://avatars.mds.yandex.net/i?id=e793f0057d98d2c9a8bd2536740412cb7c3a2982-4444989-images-thumbs&n=13" group-title="Детские", Мультфильмы СССР
+#EXTGRP:Детские
+https://live20.bozztv.com/giatvplayout7/ushba80/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="o_" tvg-name="О!" tvg-logo="http://epg.one/img/1757.png" group-title="Детские", О!
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000002928/tve/index.m3u8
