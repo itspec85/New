@@ -4356,9 +4356,21 @@ https://edge53.dc.beltelecom.by/ctv/_definst_/ctv.stream/chunklist_w1093126388.m
 #EXTINF:-1 tvg-id="tv1-kg-hd" tvg-name="TV1 KG HD [KG]" tvg-logo="https://epg.iptvx.one/picons/tv1-kg-hd.png" group-title="Киргизия", TV1 KG HD
 #EXTGRP:Киргизия
 http://212.2.225.30:1935/live/site.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Manas TV" tvg-logo="https://avatars.mds.yandex.net/i?id=3c2227606fab637607ef691a6e48cc0a9992a39f-5144307-images-thumbs&n=13" group-title="Киргизия", Manas TV
+#EXTINF:-1 tvg-name="Manas TV KG" tvg-logo="https://avatars.mds.yandex.net/i?id=3c2227606fab637607ef691a6e48cc0a9992a39f-5144307-images-thumbs&n=13" group-title="Киргизия", Manas TV KG
 #EXTGRP:Киргизия
 http://212.42.111.152:8080/hls/manas.m3u8
+#EXTINF:-1 tvg-id="osh-tv-kg" tvg-name="Ош ТВ [KG]" tvg-logo="https://avatars.mds.yandex.net/i?id=2a0000017a010573b03b49a647a063ab2bfc-4256054-images-thumbs&n=13" group-title="Киргизия", Ош ТВ KG
+#EXTGRP:Киргизия
+http://212.42.117.34:8080/hls/OshTV.m3u8
+#EXTINF:-1 tvg-id="regiontv-kg" tvg-name="Регион ТВ [KG]" tvg-logo="https://epg.iptvx.one/picons/regiontv-kg.png" group-title="Киргизия", Регион ТВ KG
+#EXTGRP:Киргизия
+http://31.192.249.68:8080/0.m3u8
+#EXTINF:-1 tvg-id="tv15-kg" tvg-name="TV 15 [KG]" tvg-logo="https://epg.iptvx.one/picons/tv15-kg.png" group-title="Киргизия", TV 15 KG
+#EXTGRP:Киргизия
+http://213.109.64.248:8086/0.m3u8
+#EXTINF:-1 tvg-name="УТРК Жалал-Абад KG" tvg-logo="https://avatars.mds.yandex.net/i?id=084cc4deeac956ae39641a7f5c989171869c2528-12933346-images-thumbs&n=13" group-title="Киргизия", УТРК Жалал-Абад KG
+#EXTGRP:Киргизия
+http://80.72.179.162:8086/0.m3u8
 
 
 
