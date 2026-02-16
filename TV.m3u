@@ -4554,6 +4554,9 @@ https://fl.biztv.media/BiznesTV_1080/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Bolajon UZ" tvg-logo="http://epg.one/img/2650.png" group-title="Узбекистан", Bolajon UZ
 #EXTGRP:Узбекистан
 https://s05.watcher.uz/64/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1 tvg-name="Cinema UZ" tvg-logo="https://avatars.mds.yandex.net/i?id=e5ee56800d74c5c266b0dc76ffc8fae4cada1ce2-8497136-images-thumbs&n=13" group-title="Узбекистан", Cinema UZ
+#EXTGRP:Узбекистан
+http://s8.rafail1982.uz/1498/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Dasturxon TV UZ" tvg-logo="http://epg.one/img/7917.png" group-title="Узбекистан", Dasturxon TV UZ
 #EXTGRP:Узбекистан
 https://stream8.cinerama.uz/1206/tracks-v1a1/playlist.m3u8
@@ -4650,6 +4653,9 @@ https://stream8.cinerama.uz/1221/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-name="RTV UZ" tvg-logo="https://avatars.mds.yandex.net/i?id=c45a627d0ca7bd80512362956860467299c4c29c-4774717-images-thumbs&n=13" group-title="Узбекистан", RTV UZ
 #EXTGRP:Узбекистан
 http://s8.rafail1982.uz/1221/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="S Music" tvg-logo="https://avatars.mds.yandex.net/i?id=ebd4c68efc183524dfe9ea27533e1bb75a9d7c1a-5252675-images-thumbs&n=13" group-title="Узбекистан", S Music
+#EXTGRP:Узбекистан
+http://s8.rafail1982.uz/1476/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Sevimli TV" tvg-logo="https://avatars.mds.yandex.net/get-entity_search/2321801/489586939/S104x104FitScale_2x" group-title="Узбекистан", Sevimli TV
 #EXTGRP:Узбекистан
 https://stream8.cinerama.uz/1017/tracks-v1a1/playlist.m3u8
