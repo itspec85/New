@@ -4356,6 +4356,9 @@ https://edge53.dc.beltelecom.by/ctv/_definst_/ctv.stream/chunklist_w1093126388.m
 #EXTINF:-1 tvg-id="tv1-kg-hd" tvg-name="TV1 KG HD [KG]" tvg-logo="https://epg.iptvx.one/picons/tv1-kg-hd.png" group-title="Киргизия", TV1 KG HD
 #EXTGRP:Киргизия
 http://212.2.225.30:1935/live/site.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Manas TV" tvg-logo="https://avatars.mds.yandex.net/i?id=3c2227606fab637607ef691a6e48cc0a9992a39f-5144307-images-thumbs&n=13" group-title="Киргизия", Manas TV
+#EXTGRP:Киргизия
+http://212.42.111.152:8080/hls/manas.m3u8
 
 
 
