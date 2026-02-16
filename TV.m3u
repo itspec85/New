@@ -4353,6 +4353,12 @@ https://edge53.dc.beltelecom.by/ctv/_definst_/ctv.stream/chunklist_w1093126388.m
 
 
 
+#EXTINF:-1 tvg-id="tv1-kg-hd" tvg-name="TV1 KG HD [KG]" tvg-logo="https://epg.iptvx.one/picons/tv1-kg-hd.png" group-title="Киргизия", TV1 KG HD
+#EXTGRP:Киргизия
+http://212.2.225.30:1935/live/site.stream/playlist.m3u8
+
+
+
 #EXTINF:-1 tvg-name="Баҳористон TJ" tvg-logo="http://epg.one/img/2584.png" group-title="Таджикистан", Баҳористон TJ
 #EXTGRP:Таджикистан
 https://live.teleradiocom.tj/3/3m.m3u8
