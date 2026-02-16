@@ -4365,6 +4365,9 @@ http://212.42.117.34:8080/hls/OshTV.m3u8
 #EXTINF:-1 tvg-id="regiontv-kg" tvg-name="Регион ТВ [KG]" tvg-logo="https://epg.iptvx.one/picons/regiontv-kg.png" group-title="Киргизия", Регион ТВ KG
 #EXTGRP:Киргизия
 http://31.192.249.68:8080/0.m3u8
+#EXTINF:-1 tvg-name="TMedia KG" tvg-logo="https://avatars.mds.yandex.net/i?id=b0d3635ca39fcc4aeff44755a93a477db69cb932-11520084-images-thumbs&n=13" group-title="Киргизия", TMedia KG
+#EXTGRP:Киргизия
+http://92.62.68.29:8086/0.ts
 #EXTINF:-1 tvg-id="tv15-kg" tvg-name="TV 15 [KG]" tvg-logo="https://epg.iptvx.one/picons/tv15-kg.png" group-title="Киргизия", TV 15 KG
 #EXTGRP:Киргизия
 http://213.109.64.248:8086/0.m3u8
