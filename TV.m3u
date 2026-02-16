@@ -8,7 +8,7 @@ https://ucdn.beetv.kz/bpk-tv/000000950/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000005177/tve/index.m3u8
 #EXTINF:-1 tvg-id="31-kanal-kz" tvg-name="31 канал KZ" tvg-logo="http://epg.one/img/2639.png" group-title="Казахстан", 31 канал KZ
 #EXTGRP:Казахстан
-https://ucdn.beetv.kz/bpk-tv/000000663/tve/index.m3u8
+https://streams.adapto.kz/hls/live/31kz/main_stream.m3u8
 #EXTINF:-1 tvg-id="77tv-kz" tvg-name="77 TV" tvg-logo="https://iptvx.one/picons/77tv-kz.png" group-title="Казахстан", 77 TV
 #EXTGRP:Казахстан
 https://ucdn.beetv.kz/bpk-tv/000002851/tve/index.m3u8
@@ -37,9 +37,6 @@ https://ucdn.beetv.kz/bpk-tv/000000667/tve/index.m3u8
 #EXTGRP:Казахстан
 https://ucdn.beetv.kz/bpk-tv/000001572/tve/index.m3u8
 #EXTINF:-1 tvg-id="astana" tvg-name="Astana TV KZ" tvg-logo="http://epg.one/img/2573.png" group-title="Казахстан", Astana TV KZ
-#EXTGRP:Казахстан
-https://ucdn.beetv.kz/bpk-tv/000000666/tve/index.m3u8
-#EXTINF:-1 tvg-id="astana" tvg-name="Astana TV KZ" tvg-logo="http://epg.one/img/2573.png" group-title="Казахстан", Astana TV KZ (резерв)
 #EXTGRP:Казахстан
 http://87.76.32.36:8001/astana
 #EXTINF:-1 tvg-id="atameken-business" tvg-name="Atameken Business" tvg-logo="https://iptvx.one/picons/atameken-business.png" group-title="Казахстан", Atameken Business
