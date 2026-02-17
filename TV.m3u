@@ -2386,6 +2386,10 @@ https://ucdn.beetv.kz/bpk-tv/000008780/tve/index.m3u8
 #EXTINF:-1 Tvg-name="Scripach TV" tvg-logo="https://avatars.mds.yandex.net/i?id=29fb8bd7d350ed96b41e360e8245a7a791612a62-4571029-images-thumbs&n=13" group-title="Кино", Scripach TV
 #EXTGRP:Кино
 http://kinowalk.hopto.org/scripachtv_live
+#EXTINF:-1 tvg-id="scream" tvg-name="Scream HD" tvg-logo="http://epg.one/img/9069.png" group-title="Кино", Scream HD
+#EXTGRP:Кино
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
+https://cdn-lb.iptv2022.com/p/Bqgcf9IY0m-Nfj6uMiNSLg,1771382404/streaming/scream/324/1/index.m3u8
 #EXTINF:-1 tvg-id="shot-tv" tvg-name="SHOT TV" tvg-logo="http://epg.one/img/431.png" group-title="Кино", SHOT TV
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
@@ -2419,6 +2423,10 @@ https://ucdn.beetv.kz/bpk-tv/000000006/tve/index.m3u8
 #EXTINF:-1 tvg-id="tvboomvip" tvg-name="TVBoom.VIP" tvg-logo="https://pro-tv.biz/upload/iblock/73f/ayutphynkxbrb9vuykb2a75scq66z9zx.jpg" group-title="Кино", TVBoom.VIP
 #EXTGRP:Кино
 https://kb.catcast.tv/content/49702/index.m3u8
+#EXTINF:-1 tvg-id="vhs-ka" tvg-name="VHS-ка HD" tvg-logo="http://epg.one/img/9065.png" group-title="Кино", VHS-ка HD
+#EXTGRP:Кино
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
+https://cdn-lb.iptv2022.com/p/Kdpp_j3-7-BC44oTqbDzKA,1771382311/streaming/vhs/324/1/index.m3u8
 #EXTINF:-1 tvg-id="vip-comedy-cee" tvg-name="	Viasat Kino Comedy" tvg-logo="http://epg.one/img/8880.png" group-title="Кино", Viasat Kino Comedy HD
 #EXTGRP:Кино
 http://ukr2.ukrainske.tv/493/video.m3u8
