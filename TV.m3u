@@ -1640,6 +1640,9 @@ https://cdn-dvr.ntv.ru/svoya_igra/tracks-v1a1/rewind-240.ts.m3u8
 #EXTGRP:Познавательные
 #EXTVLCOPT:http-user-agent=ntv
 http://cdn.ntv.ru/th_style/mono.m3u8
+#EXTINF:-1 tvg-id="okino" tvg-name="О!Кино" tvg-logo="http://epg.one/img/9006.png" group-title="Познавательные", О!Кино
+#EXTGRP:Познавательные
+http://5.188.221.43:8080/play/nashe
 #EXTINF:-1 tvg-name="Общественная Служба Новостей HD" tvg-logo="http://epg.one/img/6744.png" group-title="Познавательные", Общественная Служба Новостей HD
 #EXTGRP:Познавательные
 https://osnmedia.servicecdn.ru/streams/17603_88089/1080n/index.m3u8
