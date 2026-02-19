@@ -4406,6 +4406,9 @@ https://live.teleradiocom.tj/11/3m.m3u8
 #EXTINF:-1 tvg-name="ТВ Кулоб" tvg-logo="https://avatars.mds.yandex.net/i?id=f3e4c86690fb82267d6b061512e34ae1f10b9b6e-5655440-images-thumbs&n=13" group-title="Таджикистан", ТВ Кулоб
 #EXTGRP:Таджикистан
 https://live.teleradiocom.tj/12/3m.m3u8
+#EXTINF:-1 tvg-name="ТВ Сайёҳӣ" tvg-logo="https://avatars.mds.yandex.net/i?id=9e3e9923873e2ff843fc163ccf7be5c49c947b17-8258696-images-thumbs&n=13" group-title="Таджикистан", ТВ Сайёҳӣ
+#EXTGRP:Таджикистан
+https://live.teleradiocom.tj/16/3m.m3u8
 #EXTINF:-1 tvg-name="ТВ Синамо TJ" tvg-logo="http://epg.one/img/2581.png" group-title="Таджикистан", ТВ Синамо TJ
 #EXTGRP:Таджикистан
 https://live.teleradiocom.tj/6/3m.m3u8
