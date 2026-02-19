@@ -4598,6 +4598,9 @@ http://s8.rafail1982.uz/1495/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Farg'ona MTRK" tvg-logo="https://avatars.mds.yandex.net/i?id=474b117219506c81f58eec2d212992a9caa42c35-5869551-images-thumbs&n=13" group-title="Узбекистан", Farg'ona MTRK
 #EXTGRP:Узбекистан
 http://s8.rafail1982.uz/1458/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Gold UZ TV" tvg-logo="https://avatars.mds.yandex.net/i?id=ecdeceabddfbd571459e765cc40a4f5af1ce6f50-5283686-images-thumbs&n=13" group-title="Узбекистан", Gold UZ TV
+#EXTGRP:Узбекистан
+https://stream8.cinerama.uz/4007/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Ishonch TV" tvg-logo="https://avatars.mds.yandex.net/i?id=2d9a6e9881d0d59c7d42e9ff1494b1a7eadc6f8a-16439558-images-thumbs&n=13" group-title="Узбекистан", Ishonch TV
 #EXTGRP:Узбекистан
 http://s8.rafail1982.uz/1489/tracks-v1a1/mono.m3u8
@@ -4634,6 +4637,9 @@ http://s8.rafail1982.uz/1497/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Milliy TV UZ" tvg-logo="http://epg.one/img/7926.png" group-title="Узбекистан", Milliy TV UZ
 #EXTGRP:Узбекистан
 https://stream8.cinerama.uz/1014/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="MiMi TV" tvg-logo="https://avatars.mds.yandex.net/i?id=c8f4f57c42d738d392e8aa6557dfc7a5701f2fd3-16397087-images-thumbs&n=13" group-title="Узбекистан", MiMi TV
+#EXTGRP:Узбекистан
+https://fl.biztv.media/MiMiTV_1080/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Muloqot TV" tvg-logo="https://avatars.mds.yandex.net/i?id=74dc1a141c67541ed1f9c6c24069b7b2e5e96d23-5334983-images-thumbs&n=13" group-title="Узбекистан", Muloqot TV
 #EXTGRP:Узбекистан
 http://s8.rafail1982.uz/1285/tracks-v1a1/mono.m3u8
@@ -4679,6 +4685,9 @@ http://s8.rafail1982.uz/1221/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="S Music" tvg-logo="https://avatars.mds.yandex.net/i?id=ebd4c68efc183524dfe9ea27533e1bb75a9d7c1a-5252675-images-thumbs&n=13" group-title="Узбекистан", S Music
 #EXTGRP:Узбекистан
 http://s8.rafail1982.uz/1476/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="S-Ikbol" tvg-logo="https://avatars.mds.yandex.net/i?id=90dc33aeadc7269b4b85ba83d87569e7fb099654-11043615-images-thumbs&n=13" group-title="Узбекистан", S-Ikbol
+#EXTGRP:Узбекистан
+http://s8.rafail1982.uz/1282/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Sevimli TV" tvg-logo="https://avatars.mds.yandex.net/get-entity_search/2321801/489586939/S104x104FitScale_2x" group-title="Узбекистан", Sevimli TV
 #EXTGRP:Узбекистан
 https://stream8.cinerama.uz/1017/tracks-v1a1/playlist.m3u8
