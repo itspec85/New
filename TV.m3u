@@ -1522,7 +1522,7 @@ https://mhd116.iptv2022.com/p/CtMzY1zi7Yp7KGgUxDaeeQ,1771621223/streaming/ohotah
 https://mhd116.iptv2022.com/p/BqOCq652Fasu7EEwj54HSA,1771621223/streaming/ribalkahd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="dikiy" tvg-name="Дикий" tvg-logo="http://epg.one/img/2283.png" group-title="Познавательные", Дикий
 #EXTGRP:Познавательные
-https://vod.splay.uz/live_splay/original/Dikiy/tracks-v1a1/mono.m3u8
+http://176.96.241.40/Dikiy/index.m3u8
 #EXTINF:-1 tvg-id="dozhd" tvg-name="Дождь" tvg-logo="http://epg.one/img/2399.png" group-title="Познавательные", Дождь
 #EXTGRP:Познавательные
 http://portal.ott.pink/C5UK_DozhdSD/mpegts?token=9ED1CC22511FE66191AD465072EEE8DF
@@ -2335,9 +2335,6 @@ http://kinowalk.hopto.org/dimpon_live
 #EXTINF:-1 tvg-id="filmua-drama" tvg-name="Film.UA Drama" tvg-logo="http://epg.one/img/8911.png" group-title="Кино", Film UA Drama
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000003028/tve/index.m3u8
-#EXTINF:-1 tvg-id="filmbox-ru" tvg-name="FilmBox" tvg-logo="http://epg.one/img/2181.png" group-title="Кино", FilmBox
-#EXTGRP:Кино
-http://193.25.8.59:8000/FilmBOX
 #EXTINF:-1 tvg-id="filmbox-arthouse" tvg-name="Filmbox Arthouse" tvg-logo="http://epg.one/img/2182.png" group-title="Кино", Filmbox Arthouse
 #EXTGRP:Кино
 http://iptv.prosto.tv:7000/ch63/video.m3u8
@@ -2406,10 +2403,6 @@ https://ucdn.beetv.kz/bpk-tv/000007818/tve/index.m3u8
 #EXTINF:-1 tvg-id="suspense" tvg-name="Suspense HD" tvg-logo="http://epg.one/img/9180.png" group-title="Кино", Suspense HD
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000008739/tve/index.m3u8
-#EXTINF:-1 tvg-id="timeless-dizi" tvg-name="Timeless Dizi Channel" tvg-logo="http://epg.one/img/6724.png" group-title="Кино", Timeless Dizi Channel
-#EXTGRP:Кино
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
-https://mhd116.iptv2022.com/p/PtVJK9EPo69ZLgO5o-getw,1771621217/streaming/dizitv/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-name="TimeToHorror" tvg-logo="https://avatars.mds.yandex.net/i?id=e9ad41df2a86d860922cfccd98f422bb8706aa63-5305442-images-thumbs&n=13" group-title="Кино", TimeToHorror
 #EXTGRP:Кино
 http://kinowalk.hopto.org/timetohorror_live
