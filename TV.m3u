@@ -207,7 +207,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 http://dmi3y-tv6.ru/hls/DVB-T2/CH_NTV.m3u8
 #EXTINF:-1 tvg-id="ntv" tvg-name="НТВ HD" tvg-logo="http://epg.one/img/2001.png" group-title="Россия", НТВ HD
 #EXTGRP:Россия
-http://river-1.rutube.ru/stream/genetta-316.m9.rutube.ru/JELSqpqJxWq6VyfMrEZ4YA/1771523675/c37cd74192c6bc3d6cd6077c0c4fd686/1080p_stream.m3u8
+http://87.246.54.249:8080/HTB/index.m3u8
 #EXTINF:-1 tvg-id="ntv-mir" tvg-name="НТВ Мир" tvg-logo="http://epg.one/img/7258.png" group-title="Россия", НТВ Мир
 #EXTGRP:Россия
 https://streaming.thestream.cyou/live/213-req_offset_28000000-req_window_0-1k_v5.m3u8
@@ -219,7 +219,7 @@ http://185.46.16.239:8000/OTR
 http://194.8.128.38:8080/ort/playlist.m3u8
 #EXTINF:-1 tvg-id="pervy" tvg-name="Первый канал HD" tvg-logo="http://epg.one/img/983.png" group-title="Россия", Первый канал FHD
 #EXTGRP:Россия
-http://river-1.rutube.ru/stream/genetta-313.m9.rutube.ru/Oq_YLnbKLUPVLordc0ccBg/1771523670/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
+http://iptv46.mcx-ix.ru:8077/ort_hd/index.m3u8
 #EXTINF:-1 tvg-id="pervy-kanal-eu" tvg-name="Первый канал Европа" tvg-logo="http://epg.one/img/4830.png" group-title="Россия", Первый Канал Европа
 #EXTGRP:Россия
 https://streaming.thestream.cyou/live/210-req_offset_28000000-req_window_0-1k_v5.m3u8
@@ -231,7 +231,7 @@ https://ucdn.beetv.kz/bpk-tv/000001227/tve/index.m3u8
 http://95.47.156.60:8000/play/16/index.m3u8
 #EXTINF:-1 tvg-id="piatnica" tvg-name="Пятница! HD" tvg-logo="http://epg.one/img/2765.png" group-title="Россия", Пятница! HD
 #EXTGRP:Россия
-http://river-1.rutube.ru/stream/genetta-316.m9.rutube.ru/KvJv3vTHGQ37RWTJL4vUrw/1771523685/9f87a9a0cecbe773be6fddcbd93585ac/1080p_stream.m3u8
+http://iptv46.mcx-ix.ru:8077/pyatnica_hd/index.m3u8
 #EXTINF:-1 tvg-id="piatnica-int" tvg-name="Пятница International" tvg-logo="https://avatars.mds.yandex.net/i?id=6e89c0754d8e6800feb8f51ae53f5192eb27ea76-5222505-images-thumbs&n=13" group-title="Россия", Пятница International
 #EXTGRP:Россия
 https://ucdn.beetv.kz/bpk-tv/000007816/tve/index.m3u8
@@ -286,7 +286,7 @@ http://player.smotrim.ru/iframe/stream/live_id/d7fef212-df66-485d-9952-7eab82d7d
 http://95.47.156.60:8000/play/13/index.m3u8
 #EXTINF:-1 tvg-id="sts" tvg-name="СТС HD" tvg-logo="http://epg.one/img/79.png" group-title="Россия", СТС HD
 #EXTGRP:Россия
-http://193.25.8.59:8000/ESPN
+http://87.246.54.249:8080/CTC/index.m3u8
 #EXTINF:-1 tvg-id="sts-int" tvg-name="СТС International" tvg-logo="http://epg.one/img/5652.png" group-title="Россия", СТС International
 #EXTGRP:Россия
 https://ucdn.beetv.kz/bpk-tv/000000428/tve/index.m3u8
@@ -297,15 +297,12 @@ http://dmi3y-tv6.ru/hls/zabava/CH_STSLOVE.m3u8
 #EXTINF:-1 tvg-id="super" tvg-name="Суббота" tvg-logo="http://epg.one/img/2288.png" group-title="Россия", Суббота
 #EXTGRP:Россия
 http://217.114.191.150/Subbota/index.m3u8
-#EXTINF:-1 tvg-id="super" tvg-name="Суббота HD" tvg-logo="http://epg.one/img/2288.png" group-title="Россия", Суббота HD
-#EXTGRP:Россия
-http://river-1.rutube.ru/stream/genetta-418.ntv.rutube.ru/6LVRLc1-OGbBK7OpAm0keQ/1771523707/310744c10a5809da38aa445c952976da/1080p_stream.m3u8
 #EXTINF:-1 tvg-id="tv3-ru" tvg-name="ТВ3" tvg-logo="http://epg.one/img/698.png" group-title="Россия", ТВ3
 #EXTGRP:Россия
 http://95.47.156.60:8000/play/15/index.m3u8
 #EXTINF:-1 tvg-id="tv3-ru" tvg-name="ТВ3 HD" tvg-logo="http://epg.one/img/698.png" group-title="Россия", ТВ3 HD
 #EXTGRP:Россия
-http://river-1.rutube.ru/stream/genetta-312.m9.rutube.ru/x7OZ4Eq_oZbPv-hYjznkyg/1771523682/7bf12d9c050f9a7ef3728db5730432ae/1080p_stream.m3u8
+http://iptv46.mcx-ix.ru:8077/tv3_hd/index.m3u8
 #EXTINF:-1 tvg-id="tv3-int" tvg-name="ТВ3 International" tvg-logo="https://avatars.mds.yandex.net/i?id=8eb6e54feabff4269b2b5bca31f0abdffeefb21a-7552730-images-thumbs&n=13" group-title="Россия", ТВ3 International
 #EXTGRP:Россия
 https://ucdn.beetv.kz/bpk-tv/000004712/tve/index.m3u8
@@ -320,16 +317,13 @@ https://ucdn.beetv.kz/bpk-tv/000000112/tve/index.m3u8
 http://185.46.16.239:8000/TNT
 #EXTINF:-1 tvg-id="tnt" tvg-name="ТНТ HD" tvg-logo="http://epg.one/img/1767.png" group-title="Россия", ТНТ HD
 #EXTGRP:Россия
-http://river-1.rutube.ru/stream/genetta-321.m9.rutube.ru/VAOgUT-8S6zakrWySsPVTw/1771523693/e90ba242c98400b075835c3c3eec999a/1080p_stream.m3u8
+http://87.246.54.249:8080/THT/index.m3u8
 #EXTINF:-1 tvg-id="tnt-int-cis" tvg-name="ТНТ-International (СНГ)" tvg-logo="http://epg.one/img/5692.png" group-title="Россия", ТНТ International
 #EXTGRP:Россия
 https://ucdn.beetv.kz/bpk-tv/000007833/tve/index.m3u8
 #EXTINF:-1 tvg-id="tnt4" tvg-name="ТНТ4" tvg-logo="http://epg.one/img/1649.png" group-title="Россия", ТНТ4
 #EXTGRP:Россия
 http://193.25.8.59:8000/tntcomedy
-#EXTINF:-1 tvg-id="tnt4" tvg-name="ТНТ4 HD" tvg-logo="http://epg.one/img/1649.png" group-title="Россия", ТНТ4 HD
-#EXTGRP:Россия
-http://river-1.rutube.ru/stream/genetta-318.m9.rutube.ru/2l6Dm9x31eHXBJA8qi_4CQ/1771523699/c801a7087e29a097192d74c270fbc6c1/1080p_stream.m3u8
 #EXTINF:-1 tvg-id="tnt4-international" tvg-name="ТНТ4 International" tvg-logo="http://epg.one/img/1649.png" group-title="Россия", ТНТ4 International
 #EXTGRP:Россия
 https://ucdn.beetv.kz/bpk-tv/000002926/tve/index.m3u8
