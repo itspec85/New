@@ -2090,6 +2090,9 @@ https://ucdn.beetv.kz/bpk-tv/000000174/tve/index.m3u8
 
 
 
+#EXTINF:-1 tvg-name="4K — Кино и сериалы" tvg-logo="https://telik.live/images/4k-hits.png" group-title="Кино", 4K — Кино и сериалы
+#EXTGRP:Кино
+http://kinowalk.hopto.org/4khits_live
 #EXTINF:-1 tvg-id="blokbaster" tvg-name="Блокбастер" tvg-logo="http://epg.one/img/2832.png" group-title="Кино", Блокбастер
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
@@ -2198,6 +2201,9 @@ http://5.8.11.96:8099/mosfilmhd/index.m3u8
 #EXTINF:-1 tvg-id="muzhskoe-kino" tvg-name="Мужское кино" tvg-logo="http://epg.one/img/1584.png" group-title="Кино", МУЖСКОЕ КИНО
 #EXTGRP:Кино
 http://158.101.222.193:88/georgia_play.php?id=interesnoetv
+#EXTINF:-1 tvg-name="Мы из 90-х" tvg-logo="https://images.live.vkvideo.ru/user/20495921/avatar?change_time=1742225886&croped=1&mh=140&mw=140" group-title="Кино", Мы из 90-х
+#EXTGRP:Кино
+http://kinowalk.hopto.org/miiz90x_live
 #EXTINF:-1 tvg-id="nash-kinopokaz" tvg-name="Наш кинопоказ" tvg-logo="http://epg.one/img/2831.png" group-title="Кино", Наш Кинопоказ HD
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
@@ -2377,13 +2383,19 @@ https://ucdn.beetv.kz/bpk-tv/000007625/tve/index.m3u8
 #EXTINF:-1 tvg-id="romance" tvg-name="Romance HD" tvg-logo="http://epg.one/img/9179.png" group-title="Кино", Romance HD
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000008780/tve/index.m3u8
-#EXTINF:-1 Tvg-name="Scripach TV" tvg-logo="https://avatars.mds.yandex.net/i?id=29fb8bd7d350ed96b41e360e8245a7a791612a62-4571029-images-thumbs&n=13" group-title="Кино", Scripach TV
+#EXTINF:-1 tvg-name="Scarface" tvg-logo="https://images.live.vkvideo.ru/user/19957061/avatar?change_time=1745459243&croped=1&mh=140&mw=140" group-title="Кино", Scarface
+#EXTGRP:Кино
+http://kinowalk.hopto.org/filmomania_live
+#EXTINF:-1 tvg-name="Scripach TV" tvg-logo="https://avatars.mds.yandex.net/i?id=29fb8bd7d350ed96b41e360e8245a7a791612a62-4571029-images-thumbs&n=13" group-title="Кино", Scripach TV
 #EXTGRP:Кино
 http://kinowalk.hopto.org/scripachtv_live
 #EXTINF:-1 tvg-id="scream" tvg-name="Scream HD" tvg-logo="http://epg.one/img/9069.png" group-title="Кино", Scream HD
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
 https://cdn-lb.iptv2022.com/p/c6K3E6n9w-tA3UmdGQ-yZw,1771734266/streaming/scream/324/1/index.m3u8
+#EXTINF:-1 tvg-name="SeleCaoTV" tvg-logo="https://kino-stream.online/logo/SeleCaoTV.png" group-title="Кино", SeleCaoTV
+#EXTGRP:Кино
+http://kinowalk.hopto.org/selecaotv_live
 #EXTINF:-1 tvg-id="shot-tv" tvg-name="SHOT TV" tvg-logo="http://epg.one/img/431.png" group-title="Кино", SHOT TV
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
@@ -2465,6 +2477,12 @@ https://ucdn.beetv.kz/bpk-tv/000004375/tve/index.m3u8
 #EXTINF:-1 tvg-name="Wihail" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/e01ecc5a-f473-4605-957c-66fbe4ee5165-profile_image-150x150.png" group-title="Кино", Wihail
 #EXTGRP:Кино
 http://kinowalk.hopto.org/wihail_live
+#EXTINF:-1 tvg-name="ZubrilomFilm" tvg-logo="https://images.live.vkvideo.ru/user/18824582/avatar?change_time=1714643599&croped=1&mh=140&mw=140" group-title="Кино", ZubrilomFilm
+#EXTGRP:Кино
+http://kinowalk.hopto.org/zubrilomfilm_live
+#EXTINF:-1 tvg-name="ZubrilomFranchise" tvg-logo="https://images.live.vkplay.ru/user/18929766/avatar?change_time=1715176122&croped=1&mh=140&mw=140" group-title="Кино", ZubrilomFranchise
+#EXTGRP:Кино
+http://kinowalk.hopto.org/zubrilommusic.ru_live
 
 
 
