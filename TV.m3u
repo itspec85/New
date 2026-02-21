@@ -236,7 +236,7 @@ http://iptv46.mcx-ix.ru:8077/pyatnica_hd/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000007816/tve/index.m3u8
 #EXTINF:-1 tvg-id="5kanal-ru" tvg-name="Пятый канал" tvg-logo="http://epg.one/img/427.png" group-title="Россия", Пятый канал
 #EXTGRP:Россия
-http://193.25.8.59:8000/5
+http://31.131.141.195:8000/play/1050/index.m3u8
 #EXTINF:-1 tvg-id="piaty-int" tvg-name="Пятый канал International" tvg-logo="https://avatars.mds.yandex.net/i?id=e9ba006374ab68db1cf51c33b359b14053195429-5477304-images-thumbs&n=13" group-title="Россия", Пятый канал International
 #EXTGRP:Россия
 http://178.124.153.123:44400/5kanal
