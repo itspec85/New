@@ -237,7 +237,8 @@ http://iptv46.mcx-ix.ru:8077/pyatnica_hd/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000007816/tve/index.m3u8
 #EXTINF:-1 tvg-id="5kanal-ru" tvg-name="Пятый канал" tvg-logo="http://epg.one/img/427.png" group-title="Россия", Пятый канал
 #EXTGRP:Россия
-http://89.232.68.194:8080/5kanal/tracks-v3a1/index.m3u8
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_5TV.m3u8
 #EXTINF:-1 tvg-id="piaty-int" tvg-name="Пятый канал International" tvg-logo="https://avatars.mds.yandex.net/i?id=e9ba006374ab68db1cf51c33b359b14053195429-5477304-images-thumbs&n=13" group-title="Россия", Пятый канал International
 #EXTGRP:Россия
 http://178.124.153.123:44400/5kanal
@@ -1757,7 +1758,8 @@ http://158.101.222.193:88/georgia_play.php?id=uspeh
 https://ucdn.beetv.kz/bpk-tv/000001880/tve/index.m3u8
 #EXTINF:-1 tvg-id="2na2" tvg-name="2x2" tvg-logo="http://epg.one/img/323.png" group-title="Познавательные", 2x2
 #EXTGRP:Познавательные
-http://89.232.68.194:8080/2x2/tracks-v3a1/index.m3u8
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://dmi3y-tv6.ru/hls/zabava/CH_2X2.m3u8
 #EXTINF:-1 tvg-name="555 Hunt Fishing TV" tvg-logo="https://avatars.mds.yandex.net/i?id=635b73799daf216d5519050021039012e1e8254f-10349168-images-thumbs&n=13" group-title="Познавательные", 555 Hunt Fishing TV
 #EXTGRP:Познавательные
 http://193.169.178.29:8081/podsekaiTV/chanelHD1080/playlist.m3u8
@@ -4196,7 +4198,8 @@ http://tv.tuva.ru/ovaa/index.m3u8
 http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
 #EXTINF:-1 tvg-id="tmtv" tvg-name="TMTV Казань" tvg-logo="https://iptvx.one/picons/tmtv.png" group-title="Региональные РФ", TMTV Казань
 #EXTGRP:Региональные РФ
-http://89.232.68.194:8080/tmtv/tracks-v3a1/index.m3u8
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://dmi3y-tv6.ru/hls/zabava/region/KZN/CH_TMTV.m3u8
 #EXTINF:-1 tvg-name="TV Аист Орехово-Зуево" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/5/5b/TV_%D0%90%D0%B8%D1%81%D1%82_%28%D0%9E%D1%80%D0%B5%D1%85%D0%BE%D0%B2%D0%BE-%D0%97%D1%83%D0%B5%D0%B2%D0%BE%29_2021.jpg/revision/latest/scale-to-width-down/220?cb=20220719082432&path-prefix=ru" group-title="Региональные РФ", TV Аист Орехово-Зуево
 #EXTGRP:Региональные РФ
 http://141.101.205.134:8080/hls/tvaist.m3u8
