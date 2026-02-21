@@ -2293,6 +2293,9 @@ https://ucdn.beetv.kz/bpk-tv/000000213/tve/index.m3u8
 #EXTINF:-1 tvg-id="sony-scifi" tvg-name=".sci-fi" tvg-logo="http://epg.one/img/516.png" group-title="Кино", .sci-fi
 #EXTGRP:Кино
 http://193.25.8.59:8000/axn
+#EXTINF:-1 tvg-name="Alex.Films" tvg-logo="https://images.live.vkvideo.ru/user/19397267/avatar?change_time=1763534733&croped=1&mh=140&mw=140" group-title="Кино", Alex.Films
+#EXTGRP:Кино
+http://kinowalk.hopto.org/alex.films_live
 #EXTINF:-1 tvg-name="Alpha Cinema" tvg-logo="https://avatars.mds.yandex.net/i?id=5881e5d66b4fd37d34441f48c9160147-4743742-images-thumbs&n=13" group-title="Кино", Alpha Cinema
 #EXTGRP:Кино
 http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
@@ -2323,6 +2326,9 @@ http://193.27.209.122/bollywood/index.m3u8
 #EXTINF:-1 tvg-id="bolt-ru" tvg-name="Bolt HD Россия" tvg-logo="http://epg.one/img/2138.png" group-title="Кино", Bolt HD Россия
 #EXTGRP:Кино
 http://hls127.freeott.top:8080/Bolt/mono.m3u8
+#EXTINF:-1 tvg-name="BOSSFILM" tvg-logo="https://images.live.vkvideo.ru/user/19857529/avatar?change_time=1735363832&croped=1&mh=140&mw=140" group-title="Кино", BOSSFILM
+#EXTGRP:Кино
+http://kinowalk.hopto.org/bossfilm_live
 #EXTINF:-1 tvg-id="cinema-ru" tvg-name="Cinema HD" tvg-logo="http://epg.one/img/2754.png" group-title="Кино", Cinema HD
 #EXTGRP:Кино
 http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
@@ -2332,6 +2338,9 @@ http://kinowalk.hopto.org/cinemaa_live
 #EXTINF:-1 tvg-name="Dimpon HD" tvg-logo="https://avatars.mds.yandex.net/i?id=30d003421a04a81dcc8a800b6b9a8a48b4bf7234-10770607-images-thumbs&n=13" group-title="Кино", Dimpon HD
 #EXTGRP:Кино
 http://kinowalk.hopto.org/dimpon_live
+#EXTINF:-1 tvg-name="EvGAMEN" tvg-logo="https://lh3.googleusercontent.com/a/ACg8ocJRCQczrVJsPbG0Q7qgMvphfUBuJiGktsI7wwPXSYxQCcGPBu8=s96-c" group-title="Кино", EvGAMEN
+#EXTGRP:Кино
+http://kinowalk.hopto.org/evgamen_movies_live
 #EXTINF:-1 tvg-id="filmua-drama" tvg-name="Film.UA Drama" tvg-logo="http://epg.one/img/8911.png" group-title="Кино", Film UA Drama
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000003028/tve/index.m3u8
@@ -2356,6 +2365,9 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/93
 #EXTINF:-1 tvg-id="kino-24" tvg-name="Kino 24" tvg-logo="https://avatars.mds.yandex.net/i?id=e1062a4964110759e8963d4fc1aef3b22c56bddf-7761267-images-thumbs&n=13" group-title="Кино", Kino 24
 #EXTGRP:Кино
 http://sirius.greenhosting.ru/Kino24Ru/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Kinofon" tvg-logo="https://images.live.vkvideo.ru/user/20655827/avatar?change_time=1752925345&croped=1&mh=140&mw=140" group-title="Кино", Kinofon
+#EXTGRP:Кино
+http://kinowalk.hopto.org/kinofon_live
 #EXTINF:-1 tvg-name="KinoJam" tvg-logo="https://avatars.mds.yandex.net/i?id=b763ff67454d1c5dc152c900eca01257e4664821-6950859-images-thumbs&n=13" group-title="Кино", KinoJam
 #EXTGRP:Кино
 http://kinowalk.hopto.org/kinojam_live
@@ -2374,6 +2386,9 @@ https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Logovo Films" tvg-logo="https://avatars.mds.yandex.net/i?id=0d2a36f62671a0501ca3cf27a5eb2b8d58d11926-5877910-images-thumbs&n=13" group-title="Кино", Logovo Films
 #EXTGRP:Кино
 https://stream.ushba.tv/akamaiushba/ushba-films-a/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Maksim Films" tvg-logo="https://avatars.mds.yandex.net/i?id=d8bb932a618b126fd382904f1cde2371_sr-5429110-images-thumbs&n=13" group-title="Кино", Maksim Films
+#EXTGRP:Кино
+http://kinowalk.hopto.org/mmaxim0vich_live
 #EXTINF:-1 tvg-name="Moviee Toper" tvg-logo="https://avatars.mds.yandex.net/i?id=d10df5f683bb157406acc5a5bed0225d2eee31ca-15420526-images-thumbs&n=13" group-title="Кино", Moviee Toper
 #EXTGRP:Кино
 http://kinowalk.hopto.org/movietoper_live
@@ -2383,6 +2398,9 @@ https://ucdn.beetv.kz/bpk-tv/000007625/tve/index.m3u8
 #EXTINF:-1 tvg-id="romance" tvg-name="Romance HD" tvg-logo="http://epg.one/img/9179.png" group-title="Кино", Romance HD
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000008780/tve/index.m3u8
+#EXTINF:-1 tvg-name="Rus serials" tvg-logo="https://images.live.vkvideo.ru/user/25125777/avatar?change_time=1768089850&croped=1&mh=140&mw=140" group-title="Кино", Rus serials
+#EXTGRP:Кино
+http://kinowalk.hopto.org/zzz881_live
 #EXTINF:-1 tvg-name="Scarface" tvg-logo="https://images.live.vkvideo.ru/user/19957061/avatar?change_time=1745459243&croped=1&mh=140&mw=140" group-title="Кино", Scarface
 #EXTGRP:Кино
 http://kinowalk.hopto.org/filmomania_live
@@ -2396,6 +2414,12 @@ https://cdn-lb.iptv2022.com/p/c6K3E6n9w-tA3UmdGQ-yZw,1771734266/streaming/scream
 #EXTINF:-1 tvg-name="SeleCaoTV" tvg-logo="https://kino-stream.online/logo/SeleCaoTV.png" group-title="Кино", SeleCaoTV
 #EXTGRP:Кино
 http://kinowalk.hopto.org/selecaotv_live
+#EXTINF:-1 tvg-name="serial4u" tvg-logo="https://images.live.vkvideo.ru/user/20555010/avatar?change_time=1742524384&croped=1&mh=140&mw=140" group-title="Кино", serial4u
+#EXTGRP:Кино
+http://kinowalk.hopto.org/serial4u_live
+#EXTINF:-1 tvg-name="SerialTV" tvg-logo="https://images.live.vkvideo.ru/user/30346500/avatar?change_time=1767118302&croped=1&mh=140&mw=140" group-title="Кино", SerialTV
+#EXTGRP:Кино
+http://kinowalk.hopto.org/serialtv_live
 #EXTINF:-1 tvg-id="shot-tv" tvg-name="SHOT TV" tvg-logo="http://epg.one/img/431.png" group-title="Кино", SHOT TV
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
@@ -2429,6 +2453,9 @@ https://kb.catcast.tv/content/49702/index.m3u8
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
 https://cdn-lb.iptv2022.com/p/3n53W0Rmwt8gMDOXDnhgSg,1771734184/streaming/vhs/324/1/index.m3u8
+#EXTINF:-1 tvg-name="VHS Forever" tvg-logo="https://images.live.vkplay.ru/user/19154240/avatar?change_time=1720968476&croped=1&mh=140&mw=140" group-title="Кино", VHS Forever
+#EXTGRP:Кино
+http://kinowalk.hopto.org/vhs-forever_live
 #EXTINF:-1 tvg-id="vip-comedy-cee" tvg-name="	Viasat Kino Comedy" tvg-logo="http://epg.one/img/8880.png" group-title="Кино", Viasat Kino Comedy HD
 #EXTGRP:Кино
 http://ukr2.ukrainske.tv/493/video.m3u8
