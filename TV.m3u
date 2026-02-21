@@ -2183,6 +2183,9 @@ http://158.101.222.193:88/georgia_play.php?id=kinoujas
 #EXTINF:-1 tvg-id="kinoxit" tvg-name="Кинохит" tvg-logo="http://epg.one/img/542.png" group-title="Кино", КИНОХИТ
 #EXTGRP:Кино
 https://stream8.cinerama.uz/1055/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Комедии 24/7" tvg-logo="https://images.live.vkvideo.ru/user/18725544/avatar?change_time=1764060712&croped=1&mh=140&mw=140" group-title="Кино", Комедии 24/7
+#EXTGRP:Кино
+http://kinowalk.hopto.org/cmexye4ku_live
 #EXTINF:-1 tvg-id="lubimoe-kino" tvg-name="Любимое кино" tvg-logo="http://epg.one/img/477.png" group-title="Кино", Любимое Кино
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000000283/tve/index.m3u8
@@ -2284,6 +2287,9 @@ http://158.101.222.193:88/georgia_play.php?id=fenikspluskino
 #EXTINF:-1 tvg-id="khit-hd" tvg-name="Хит HD" tvg-logo="http://epg.one/img/2833.png" group-title="Кино", Хит HD
 #EXTGRP:Кино
 http://hls127.freeott.top:8080/XitHD/video.m3u8
+#EXTINF:-1 tvg-name="Эквилибриум" tvg-logo="https://images.live.vkvideo.ru/user/20745126/avatar?change_time=1746520742&croped=1&mh=140&mw=140" group-title="Кино", Эквилибриум
+#EXTGRP:Кино
+http://kinowalk.hopto.org/equilibrium_live
 #EXTINF:-1 tvg-id="sony-turbo" tvg-name=".black" tvg-logo="http://epg.one/img/935.png" group-title="Кино", .black
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000000520/tve/index.m3u8
@@ -2414,6 +2420,9 @@ https://cdn-lb.iptv2022.com/p/c6K3E6n9w-tA3UmdGQ-yZw,1771734266/streaming/scream
 #EXTINF:-1 tvg-name="SeleCaoTV" tvg-logo="https://kino-stream.online/logo/SeleCaoTV.png" group-title="Кино", SeleCaoTV
 #EXTGRP:Кино
 http://kinowalk.hopto.org/selecaotv_live
+#EXTINF:-1 tvg-name="Serial Productions" tvg-logo="https://images.contactout.com/companies/49ed994c26cb4d0d32669a350c721e43" group-title="Кино", Serial Productions
+#EXTGRP:Кино
+http://kinowalk.hopto.org/swat2k_live
 #EXTINF:-1 tvg-name="serial4u" tvg-logo="https://images.live.vkvideo.ru/user/20555010/avatar?change_time=1742524384&croped=1&mh=140&mw=140" group-title="Кино", serial4u
 #EXTGRP:Кино
 http://kinowalk.hopto.org/serial4u_live
@@ -2462,6 +2471,9 @@ http://ukr2.ukrainske.tv/493/video.m3u8
 #EXTINF:-1 tvg-name="Video Arsenal" tvg-logo="https://avatars.mds.yandex.net/i?id=7f520ef220aeddcbfd1eb21223779b852516891b-5434958-images-thumbs&n=13" group-title="Кино", Video Arsenal
 #EXTGRP:Кино
 http://kinowalk.hopto.org/videoarsenal_live
+#EXTINF:-1 tvg-name="Video Channel" tvg-logo="https://images.live.vkvideo.ru/user/20737705/avatar?change_time=1746958066&croped=1&mh=140&mw=140" group-title="Кино", Video Channel
+#EXTGRP:Кино
+http://kinowalk.hopto.org/video_channel_live
 #EXTINF:-1 tvg-name="Video Prokat" tvg-logo="https://avatars.mds.yandex.net/i?id=737774f979209b2775e342b362e38f520eba7463-16318762-images-thumbs&n=13" group-title="Кино", Video Prokat
 #EXTGRP:Кино
 http://kinowalk.hopto.org/video_prokat_live
