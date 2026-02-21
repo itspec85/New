@@ -2282,6 +2282,9 @@ http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8
 #EXTINF:-1 tvg-id="feniks-plus-kino" tvg-name="Феникс плюс Кино" tvg-logo="http://epg.one/img/2404.png" group-title="Кино", Феникс плюс Кино
 #EXTGRP:Кино
 http://158.101.222.193:88/georgia_play.php?id=fenikspluskino
+#EXTINF:-1 tvg-name="Фильмы сериалы" tvg-logo="https://images.live.vkvideo.ru/user/19940394/avatar?change_time=1734982742&croped=1&mh=140&mw=140" group-title="Кино", Фильмы сериалы
+#EXTGRP:Кино
+http://kinowalk.hopto.org/dfsfsdg_live
 #EXTINF:-1 tvg-id="khit-hd" tvg-name="Хит HD" tvg-logo="http://epg.one/img/2833.png" group-title="Кино", Хит HD
 #EXTGRP:Кино
 http://hls127.freeott.top:8080/XitHD/video.m3u8
