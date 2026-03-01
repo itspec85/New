@@ -173,7 +173,7 @@ http://185.46.16.239:8000/Domashniy
 https://ucdn.beetv.kz/bpk-tv/000002348/tve/index.m3u8
 #EXTINF:-1 tvg-id="zvezda" tvg-name="Звезда" tvg-logo="http://epg.one/img/405.png" group-title="Россия", Звезда
 #EXTGRP:Россия
-http://185.46.16.239:8000/Zvezda
+http://176.118.197.125/Zvezda/index.m3u8
 #EXTINF:-1 tvg-id="zvezda" tvg-name="Звезда HD" tvg-logo="http://epg.one/img/405.png" group-title="Россия", Звезда HD
 #EXTGRP:Россия
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
@@ -188,7 +188,7 @@ http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/mono.ts.m3u8
 http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
 #EXTINF:-1 tvg-id="mir" tvg-name="Мир" tvg-logo="http://epg.one/img/726.png" group-title="Россия", Мир
 #EXTGRP:Россия
-http://185.46.16.239:8000/Mir
+http://176.118.197.125/Mir/index.m3u8
 #EXTINF:-1 tvg-id="mir" tvg-name="Мир HD" tvg-logo="http://epg.one/img/726.png" group-title="Россия", Мир HD
 #EXTGRP:Россия
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
@@ -279,7 +279,7 @@ http://player.smotrim.ru/iframe/stream/live_id/cf22fa5c-e21a-433e-8317-7e8dd3150
 http://player.smotrim.ru/iframe/stream/live_id/d7fef212-df66-485d-9952-7eab82d7d51b.m3u8
 #EXTINF:-1 tvg-id="sts" tvg-name="СТС" tvg-logo="http://epg.one/img/79.png" group-title="Россия", СТС
 #EXTGRP:Россия
-http://185.46.16.239:8000/STS
+http://176.118.197.101/CTC/index.m3u8
 #EXTINF:-1 tvg-id="sts" tvg-name="СТС HD" tvg-logo="http://epg.one/img/79.png" group-title="Россия", СТС HD
 #EXTGRP:Россия
 http://87.246.54.249:8080/CTC/index.m3u8
@@ -310,7 +310,7 @@ http://185.71.81.6:8080/10/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000000112/tve/index.m3u8
 #EXTINF:-1 tvg-id="tnt" tvg-name="ТНТ" tvg-logo="http://epg.one/img/353.png" group-title="Россия", ТНТ
 #EXTGRP:Россия
-http://185.46.16.239:8000/TNT
+http://176.118.197.101/THT/index.m3u8
 #EXTINF:-1 tvg-id="tnt" tvg-name="ТНТ HD" tvg-logo="http://epg.one/img/1767.png" group-title="Россия", ТНТ HD
 #EXTGRP:Россия
 http://87.246.54.249:8080/THT/index.m3u8
