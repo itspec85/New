@@ -2653,12 +2653,18 @@ http://185.234.59.200:8080/BCU_Premiere_HD/index.m3u8
 #EXTINF:-1 tvg-id="bcu-romantic" tvg-name="BCU Romantic HD" tvg-logo="http://epg.one/img/4761.png" group-title="Кинозал", BCU Romantic HD
 #EXTGRP:Кинозал
 http://185.234.59.200:8080/BCU_Romantic_HD/index.m3u8
+#EXTINF:-1 tvg-id="bcu-ruserial" tvg-name="BCU RUSerial HD" tvg-logo="http://epg.one/img/4767.png" group-title="Кинозал", BCU RuSerial HD
+#EXTGRP:Кинозал
+http://185.234.59.200:8080/BCU_RUSERIAL_HD/video.m3u8
 #EXTINF:-1 tvg-id="bcu-russian" tvg-name="BCU Russian HD" tvg-logo="http://epg.one/img/4762.png" group-title="Кинозал", BCU Russian HD
 #EXTGRP:Кинозал
 http://185.234.59.200:8080/BCU_Russian_HD/index.m3u8
 #EXTINF:-1 tvg-id="bcu-stars" tvg-name="BCU Stars HD" tvg-logo="http://epg.one/img/4765.png" group-title="Кинозал", BCU Stars HD
 #EXTGRP:Кинозал
 http://hls127.freeott.top:8080/BCUStarsHD/mono.m3u8
+#EXTINF:-1 tvg-id="bcu-ultra4k" tvg-name="BCU Ultra 4K" tvg-logo="http://epg.one/img/4766.png" group-title="Кинозал", BCU Ultra 4K
+#EXTGRP:Кинозал
+http://185.234.59.200:8080/BCU_Ultra_4K/video.m3u8
 #EXTINF:-1 tvg-id="bcu-vhs" tvg-name="BCU VHS HD" tvg-logo="http://epg.one/img/4763.png" group-title="Кинозал", BCU VHS HD
 #EXTGRP:Кинозал
 http://185.234.59.200:8080/BCU_VHS_HD/index.m3u8
