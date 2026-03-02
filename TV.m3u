@@ -210,6 +210,9 @@ http://87.76.32.36:8001/ntvmir
 #EXTINF:-1 tvg-id="otr" tvg-name="ОТР" tvg-logo="http://epg.one/img/1000.png" group-title="Россия", ОТР
 #EXTGRP:Россия
 http://185.46.16.239:8000/OTR
+#EXTINF:-1 tvg-id="otr" tvg-name="ОТР" tvg-logo="http://epg.one/img/1000.png" group-title="Россия", ОТР HD
+#EXTGRP:Россия
+http://185.234.59.200:8080/otr_hd/index.m3u8
 #EXTINF:-1 tvg-id="pervy" tvg-name="Первый канал" tvg-logo="http://epg.one/img/146.png" group-title="Россия", Первый канал
 #EXTGRP:Россия
 http://194.8.128.38:8080/ort/playlist.m3u8
