@@ -1570,6 +1570,9 @@ https://live-4.otcnet.ru/504/135/1080p/index.m3u8
 #EXTINF:-1 tvg-id="krasnaya-linia" tvg-name="Красная линия" tvg-logo="http://epg.one/img/2476.png" group-title="Познавательные", Красная линия
 #EXTGRP:Познавательные
 https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="kriminalnoe-hd" tvg-name="Криминальное HD" tvg-logo="http://epg.one/img/7844.png" group-title="Познавательные", Криминальное HD
+#EXTGRP:Познавательные
+http://185.234.59.200:8080/kriminalnoe_hd/index.m3u8
 #EXTINF:-1 tvg-id="kto-est-kto" tvg-name="Кто есть кто" tvg-logo="http://epg.one/img/2456.png" group-title="Познавательные", Кто есть кто
 #EXTGRP:Познавательные
 http://158.101.222.193:88/georgia_play.php?id=ktoestkto
