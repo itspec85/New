@@ -1536,7 +1536,7 @@ http://185.234.59.200:8080/eda/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000000588/tve/index.m3u8
 #EXTINF:-1 tvg-id="zhivi" tvg-name="ЖИВИ!" tvg-logo="http://epg.one/img/113.png" group-title="Познавательные", ЖИВИ!
 #EXTGRP:Познавательные
-http://158.101.222.193:88/georgia_play.php?id=jivi
+https://stream8.cinerama.uz/1419/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="За!ТВ" tvg-logo="https://avatars.mds.yandex.net/i?id=3392ef595a598b716b3a9c5e8939f4338114f599-5287388-images-thumbs&n=13" group-title="Познавательные", За!ТВ
 #EXTGRP:Познавательные
 https://streaming.televizor-24-tochka.ru/live/25-req_offset_28000000-req_window_0-1k_v5.m3u8
@@ -2220,7 +2220,7 @@ https://ucdn.beetv.kz/bpk-tv/000006365/tve/index.m3u8
 http://5.8.11.96:8099/mosfilmhd/index.m3u8
 #EXTINF:-1 tvg-id="muzhskoe-kino" tvg-name="Мужское кино" tvg-logo="http://epg.one/img/1584.png" group-title="Кино", МУЖСКОЕ КИНО
 #EXTGRP:Кино
-http://158.101.222.193:88/georgia_play.php?id=interesnoetv
+https://stream8.cinerama.uz/1237/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Мы из 90-х" tvg-logo="https://images.live.vkvideo.ru/user/20495921/avatar?change_time=1742225886&croped=1&mh=140&mw=140" group-title="Кино", Мы из 90-х
 #EXTGRP:Кино
 http://kinowalk.hopto.org/miiz90x_live
@@ -2305,7 +2305,7 @@ https://mhd116.iptv2022.com/p/LMBfV2KYIB1YE_3zllUC9A,1772485223/streaming/sovet_
 http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8
 #EXTINF:-1 tvg-id="feniks-plus-kino" tvg-name="Феникс плюс Кино" tvg-logo="http://epg.one/img/2404.png" group-title="Кино", Феникс плюс Кино
 #EXTGRP:Кино
-http://158.101.222.193:88/georgia_play.php?id=fenikspluskino
+http://minsk-cache07t.voka.tv/live/332-req_5k_v5.m3u8
 #EXTINF:-1 tvg-name="Фильмы сериалы" tvg-logo="https://images.live.vkvideo.ru/user/19940394/avatar?change_time=1734982742&croped=1&mh=140&mw=140" group-title="Кино", Фильмы сериалы
 #EXTGRP:Кино
 http://kinowalk.hopto.org/dfsfsdg_live
