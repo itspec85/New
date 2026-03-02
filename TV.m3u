@@ -2874,6 +2874,12 @@ http://185.112.249.46:9981/stream/channelid/737993602?profile=pass
 #EXTINF:-1 tvg-id="extreme-sports" tvg-name="Extreme Sports" tvg-logo="http://epg.one/img/2053.png" group-title="Спорт", Extreme Sports
 #EXTGRP:Спорт
 https://ucdn.beetv.kz/bpk-tv/000000026/tve/index.m3u8
+#EXTINF:-1 tvg-name="FIFA+" tvg-logo="https://avatars.mds.yandex.net/i?id=bdbc330ef7e210c9dc6e98fb73c2a0a56935397c-5761336-images-thumbs&n=13" group-title="Спорт", FIFA+
+#EXTGRP:Спорт
+https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-name="FIFA+ Women" tvg-logo="https://avatars.mds.yandex.net/i?id=bdbc330ef7e210c9dc6e98fb73c2a0a56935397c-5761336-images-thumbs&n=13" group-title="Спорт", FIFA+ Women
+#EXTGRP:Спорт
+https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c3dvbWVuX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-name="FITE 24/7" tvg-logo="https://i.imgur.com/ESV6qgH.png" group-title="Спорт", FITE 24/7
 #EXTGRP:Спорт
 https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8
