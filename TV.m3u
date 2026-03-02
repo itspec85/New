@@ -2059,14 +2059,14 @@ https://ucdn.beetv.kz/bpk-tv/000008795/tve/index.m3u8
 #EXTINF:-1 tvg-id="cartoon-network" tvg-name="Cartoon Network" tvg-logo="http://epg.one/img/601.png" group-title="Детские", Cartoon Network
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000000015/tve/index.m3u8
-#EXTINF:-1 tvg-id="bcu-kids" tvg-name="BCU Kids HD" tvg-logo="http://epg.one/img/4756.png" group-title="Кинозал", BCU Kids HD
-#EXTGRP:Кинозал
+#EXTINF:-1 tvg-id="bcu-kids" tvg-name="BCU Kids HD" tvg-logo="http://epg.one/img/4756.png" group-title="Детские", BCU Kids HD
+#EXTGRP:Детские
 http://185.234.59.200:8080/BCU_Kids_HD/index.m3u8
-#EXTINF:-1 tvg-id="bcu-kids-plus" tvg-name="BCU Kids+ HD" tvg-logo="http://epg.one/img/4757.png" group-title="Кинозал", BCU Kids+ HD
-#EXTGRP:Кинозал
+#EXTINF:-1 tvg-id="bcu-kids-plus" tvg-name="BCU Kids+ HD" tvg-logo="http://epg.one/img/4757.png" group-title="Детские", BCU Kids+ HD
+#EXTGRP:Детские
 http://185.234.59.200:8080/BCU_Kids_Plus_HD/index.m3u8
-#EXTINF:-1 tvg-id="bcu-multserial" tvg-name="BCU Multserial HD" tvg-logo="http://epg.one/img/4746.png" group-title="Кинозал", BCU Multserial HD
-#EXTGRP:Кинозал
+#EXTINF:-1 tvg-id="bcu-multserial" tvg-name="BCU Multserial HD" tvg-logo="http://epg.one/img/4746.png" group-title="Детские", BCU Multserial HD
+#EXTGRP:Детские
 http://185.234.59.200:8080/BCU_Multserial_HD/index.m3u8
 #EXTINF:-1 tvg-id="boomerang" tvg-name="Cartoonito" tvg-logo="http://epg.one/img/929.png" group-title="Детские", Cartoonito
 #EXTGRP:Детские
