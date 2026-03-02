@@ -247,6 +247,9 @@ https://e5-online-video.rbc.ru/online2/rbctvhd_1080p/index.m3u8
 #EXTINF:-1 tvg-id="rentv" tvg-name="Рен ТВ" tvg-logo="http://epg.one/img/18.png" group-title="Россия", РЕН ТВ
 #EXTGRP:Россия
 http://185.46.16.239:8000/REN_TV
+#EXTINF:-1 tvg-id="rentv" tvg-name="Рен ТВ HD" tvg-logo="http://epg.one/img/2487.png" group-title="Россия", Рен ТВ HD
+#EXTGRP:Россия
+http://185.234.59.200:8080/ren_tv_hd/index.m3u8
 #EXTINF:-1 tvg-name="Рен ТВ International" tvg-logo="https://i.postimg.cc/SsRGs7Y7/International.png" group-title="Россия", Рен ТВ International
 #EXTGRP:Россия
 https://ucdn.beetv.kz/bpk-tv/000002472/tve/index.m3u8
@@ -1503,12 +1506,10 @@ https://ucdn.beetv.kz/bpk-tv/000001414/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000003174/tve/index.m3u8
 #EXTINF:-1 tvg-id="dikaya-oxota-hd" tvg-name="Дикая охота HD" tvg-logo="http://epg.one/img/2483.png" group-title="Познавательные", Дикая охота HD
 #EXTGRP:Познавательные
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
-https://mhd116.iptv2022.com/p/I8q4eplyWkiGakV8ioL-uw,1772398819/streaming/ohotahd/324/1/tracks-v5a1/mono.m3u8
+http://185.234.59.200:8080/dikaya_ohota_hd/index.m3u8
 #EXTINF:-1 tvg-id="dikaya-rybalka-hd" tvg-name="Дикая рыбалка HD" tvg-logo="http://epg.one/img/2484.png" group-title="Познавательные", Дикая рыбалка HD
 #EXTGRP:Познавательные
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
-https://mhd116.iptv2022.com/p/v-6vWJA9kYvlR0HRo4bqkg,1772398819/streaming/ribalkahd/324/1/tracks-v5a1/mono.m3u8
+http://185.234.59.200:8080/dikaya_rybalka_hd/index.m3u8
 #EXTINF:-1 tvg-id="dikiy" tvg-name="Дикий" tvg-logo="http://epg.one/img/2283.png" group-title="Познавательные", Дикий
 #EXTGRP:Познавательные
 http://176.96.241.40/Dikiy/index.m3u8
@@ -2233,6 +2234,9 @@ http://catchup.videoline.ru/asvtv/index.m3u8
 #EXTINF:-1 tvg-id="pobeda" tvg-name="Победа" tvg-logo="http://epg.one/img/2447.png" group-title="Кино", Победа
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000004534/tve/index.m3u8
+#EXTINF:-1 tvg-id="premialnoe-hd" tvg-name="Премиальное HD" tvg-logo="http://epg.one/img/2732.png" group-title="Кино", Премиальное HD
+#EXTGRP:Кино
+http://185.234.59.200:8080/premialnoe_hd/index.m3u8
 #EXTINF:-1 tvg-id="premium-kino-kz" tvg-name="Премиум кино KZ" tvg-logo="https://iptvx.one/picons/premium-kino-kz.png" group-title="Кино", Премиум кино KZ
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000008491/tve/index.m3u8
@@ -2245,6 +2249,9 @@ http://193.25.8.59:8000/retro
 #EXTINF:-1 tvg-id="rodnoe-kino" tvg-name="Родное кино" tvg-logo="http://epg.one/img/12.png" group-title="Кино", РОДНОЕ КИНО
 #EXTGRP:Кино
 http://176.118.197.101/RodnoeKino/index.m3u8
+#EXTINF:-1 tvg-id="romantichnoe-hd" tvg-name="Романтичное HD" tvg-logo="http://epg.one/img/2772.png" group-title="Кино", Романтичное HD
+#EXTGRP:Кино
+http://185.234.59.200:8080/romantichnoe_hd/index.m3u8
 #EXTINF:-1 tvg-id="russky-bestseller" tvg-name="Русский бестселлер" tvg-logo="http://epg.one/img/994.png" group-title="Кино", Русский бестселлер
 #EXTGRP:Кино
 http://62.89.220.15/streams/media/russkiy-bestseller_720x576/index.m3u8
@@ -2366,6 +2373,9 @@ https://ucdn.beetv.kz/bpk-tv/000004471/tve/index.m3u8
 #EXTINF:-1 tvg-id="hollywood" tvg-name="Hollywood" tvg-logo="http://epg.one/img/608.png" group-title="Кино", Hollywood
 #EXTGRP:Кино
 http://193.25.8.59:8000/interaz
+#EXTINF:-1 tvg-id="hollywood-hd" tvg-name="Hollywood HD" tvg-logo="http://epg.one/img/934.png" group-title="Кино", Hollywood HD
+#EXTGRP:Кино
+http://185.234.59.200:8080/hollywood_hd/index.m3u8
 #EXTINF:-1 tvg-name="Horror TV" tvg-logo="http://epg.one/img/8792.png" group-title="Кино", Horror TV
 #EXTGRP:Кино
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/93dc292b-cbcf-4988-ab97-94feced4c14b/manifest.m3u8
@@ -2432,6 +2442,12 @@ http://kinowalk.hopto.org/serial4u_live
 #EXTINF:-1 tvg-name="SerialTV" tvg-logo="https://images.live.vkvideo.ru/user/30346500/avatar?change_time=1767118302&croped=1&mh=140&mw=140" group-title="Кино", SerialTV
 #EXTGRP:Кино
 http://kinowalk.hopto.org/serialtv_live
+#EXTINF:-1 tvg-id="star-cinema" tvg-name="Star Cinema Россия" tvg-logo="http://epg.one/img/3328.png" group-title="Кино", Star Cinema Россия HD
+#EXTGRP:Кино
+http://185.234.59.200:8080/star_cinema_hd/index.m3u8
+#EXTINF:-1 tvg-id="star-family" tvg-name="Star Family Россия" tvg-logo="http://epg.one/img/9162.png" group-title="Кино", Star Family Россия HD
+#EXTGRP:Кино
+http://185.234.59.200:8080/star_family_hd/index.m3u8
 #EXTINF:-1 tvg-id="start-air" tvg-name="START Air" tvg-logo="http://epg.one/img/6241.png" group-title="Кино", START Air HD
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000007815/tve/index.m3u8
