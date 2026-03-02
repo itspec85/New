@@ -3425,7 +3425,7 @@ http://85.234.33.63/stream/c11.m3u8
 #EXTINF:-1 tvg-id="12-omsk" tvg-name="12 канал Омск" tvg-logo="http://epg.one/img/5841.png" group-title="Региональные РФ", 12 канал ОМСК HD
 #EXTGRP:Региональные РФ
 http://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
-#EXTINF:-1 tvg-id="25-region-vladik" tvg-name="25 регион (Владивосток)" tvg-logo="https://epgx.club/picons/25-region-vladik.png" group-title="Региональные РФ", 25 регион (Владивосток)
+#EXTINF:-1 tvg-id="25-region-vladik" tvg-name="25 регион (Владивосток)" tvg-logo="https://epg.iptvx.one/picons/25-region-vladik.png" group-title="Региональные РФ", 25 регион (Владивосток)
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://dmi3y-tv6.ru/hls/zabava/region/DV_VLD/CH_25REGIONHD.m3u8
@@ -3587,7 +3587,7 @@ http://4kfp3cm483g.a.trbcdn.net/livemaster/753nqiuemp_VTC-41/tracks-v1a1/mono.m3
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://s84942.cdn.ngenix.net/hls/CH_R28_OTT_DV_BLAG_GOROD24/variant.m3u8
-#EXTINF:-1 tvg-id="gorod" tvg-name="Город (Рязань)" tvg-logo="https://epgx.club/picons/gorod.png" group-title="Региональные РФ", Город (Рязань)
+#EXTINF:-1 tvg-id="gorod" tvg-name="Город (Рязань)" tvg-logo="https://epg.iptvx.one/picons/gorod.png" group-title="Региональные РФ", Город (Рязань)
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://dmi3y-tv6.ru/hls/zabava/region/RYAZ/CH_GOROD.m3u8
@@ -3922,7 +3922,7 @@ https://rt-ct-orl-htlive.cdn.ngenix.net/hls/CH_R01_PERVOBL/variant.m3u8
 #EXTINF:-1 tvg-id="pervy-rostovsky" tvg-name="Первый Ростовский FHD" tvg-logo="https://cdn.epg.one/img/6766.png" group-title="Региональные РФ", Первый Ростовский FHD
 #EXTGRP:Региональные РФ
 https://rost.mediacdn.ru/cdn/rostov1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="pervy-sevastopolsky" tvg-name="Первый Севастопольский" tvg-logo="https://epgx.club/picons/pervy-sevastopolsky.png" group-title="Региональные РФ", Первый Севастопольский
+#EXTINF:-1 tvg-id="pervy-sevastopolsky" tvg-name="Первый Севастопольский" tvg-logo="https://epg.iptvx.one/picons/pervy-sevastopolsky.png" group-title="Региональные РФ", Первый Севастопольский
 #EXTGRP:Региональные РФ
 http://dmi3y-tv6.ru/hls/zabava/region/SMRPL/CH_1SEVASTOPOL_SVTPL.m3u8
 #EXTINF:-1 tvg-name="Первый советский Сургут" tvg-logo="https://avatars.mds.yandex.net/i?id=c67deaed2957e0e6b6fb78d02da92559-3537197-images-thumbs&n=13" group-title="Региональные РФ", Первый советский Сургут
@@ -4017,7 +4017,7 @@ http://109.248.11.19:8081/web/c24/playlist.m3u8
 #EXTINF:-1 tvg-id="svoyo-tv-stavropol" tvg-name="Своё ТВ FHD" tvg-logo="https://cdn.epg.one/img/7692.png" group-title="Региональные РФ", Своё ТВ FHD
 #EXTGRP:Региональные РФ
 http://svoetv.mediacdn.ru/cdn/svoetv/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="sevastopol-24" tvg-name="Севастополь 24" tvg-logo="https://epgx.club/picons/sevastopol-24.png" group-title="Региональные РФ", Севастополь 24
+#EXTINF:-1 tvg-id="sevastopol-24" tvg-name="Севастополь 24" tvg-logo="https://epg.iptvx.one/picons/sevastopol-24.png" group-title="Региональные РФ", Севастополь 24
 #EXTGRP:Региональные РФ
 http://dmi3y-tv6.ru/hls/zabava/region/SMRPL/CH_STV24HD_SVTPL.m3u8
 #EXTINF:-1 tvg-id="sever" tvg-name="Север ТВ FHD" tvg-logo="https://cdn.epg.one/img/7690.png" group-title="Региональные РФ", Север ТВ FHD
@@ -4054,7 +4054,7 @@ http://sochinskayatrk.ru/hdtv/hls/CTPK_HD/playlist.m3u8
 #EXTINF:-1 tvg-id="s1-surgut" tvg-name="Сургут 1 FHD" tvg-logo="https://cdn.epg.one/img/6792.png" group-title="Региональные РФ", Сургут 1 FHD
 #EXTGRP:Региональные РФ
 http://sitv.ru/hls/stv.m3u8
-#EXTINF:-1 tvg-id="surgut-24" tvg-name="Сургут 24" tvg-logo="https://epgx.club/picons/surgut-24.png" group-title="Региональные РФ", Сургут 24
+#EXTINF:-1 tvg-id="surgut-24" tvg-name="Сургут 24" tvg-logo="https://epg.iptvx.one/picons/surgut-24.png" group-title="Региональные РФ", Сургут 24
 #EXTGRP:Региональные РФ
 http://video1.in-news.ru/c24/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="86-surgut" tvg-name="Сургут 86 FHD" tvg-logo="https://cdn.epg.one/img/6791.png" group-title="Региональные РФ", Сургут 86 FHD
