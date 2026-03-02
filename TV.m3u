@@ -3467,7 +3467,7 @@ http://dmi3y-tv6.ru/hls/zabava/region/BRATSK/CH_AKTIS_AGRSK.m3u8
 #EXTINF:-1 tvg-id="almazny-kray" tvg-name="Алмазный край Якутск" tvg-logo="https://avatars.mds.yandex.net/i?id=e77e751266166d879397d67fee1068af93c09d54-9160391-images-thumbs&n=13" group-title="Региональные РФ", Алмазный край Якутск
 #EXTGRP:Региональные РФ
 https://stream.almaz-media.tv:8080/hls/720.m3u8
-#EXTINF:-1 tvg-id="1obl-blagoveschensk" tvg-name="Амурское областное телевидение" tvg-logo="https://epgx.club/picons/1obl-blagoveschensk.png" group-title="Региональные РФ", Амурское областное телевидение
+#EXTINF:-1 tvg-id="1obl-blagoveschensk" tvg-name="Амурское областное телевидение" tvg-logo="https://epg.iptvx.one/picons/1obl-blagoveschensk.png" group-title="Региональные РФ", Амурское областное телевидение
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://s84942.cdn.ngenix.net/hls/CH_R28_OTT_DV_BLAG_AOT/variant.m3u8
@@ -3623,7 +3623,7 @@ https://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R02_OTT_STH_RD_DON24/variant.m3u8
 #EXTINF:-1 tvg-name="ДОН Лайф" tvg-logo="https://avatars.mds.yandex.net/i?id=eb8b516e72dbfaf60a34dd5a46a17e1e0a89f1ad-10809692-images-thumbs&n=13" group-title="Региональные РФ", ДОН Лайф
 #EXTGRP:Региональные РФ
 http://live-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="ewpatorya24" tvg-name="Евпатория 24" tvg-logo="https://epgx.club/picons/ewpatorya24.png" group-title="Региональные РФ", Евпатория 24
+#EXTINF:-1 tvg-id="ewpatorya24" tvg-name="Евпатория 24" tvg-logo="https://epg.iptvx.one/picons/ewpatorya24.png" group-title="Региональные РФ", Евпатория 24
 #EXTGRP:Региональные РФ
 http://dmi3y-tv6.ru/hls/zabava/region/SMRPL/CH_EVPATORIA24HD_EVPATORIA.m3u8
 #EXTINF:-1 tvg-name="Елец ТВ Липецк" tvg-logo="https://avatars.mds.yandex.net/i?id=d0bab245ad356f45e58535b8709de4f44fdd0d96-10833537-images-thumbs&n=13" group-title="Региональные РФ", Елец ТВ Липецк
@@ -3702,7 +3702,7 @@ http://live-krtv.cdnvideo.ru/krtv/krtv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="krym24" tvg-name="КРЫМ 24" tvg-logo="http://epg.one/img/2474.png" group-title="Региональные РФ", КРЫМ 24
 #EXTGRP:Региональные РФ
 http://iptv.crimea.net:8787
-#EXTINF:-1 tvg-id="ktv-luch" tvg-name="КТВ-Луч (Сызрань)" tvg-logo="https://epgx.club/picons/ktv-luch.png" group-title="Региональные РФ", КТВ-Луч (Сызрань)
+#EXTINF:-1 tvg-id="ktv-luch" tvg-name="КТВ-Луч (Сызрань)" tvg-logo="https://epg.iptvx.one/picons/ktv-luch.png" group-title="Региональные РФ", КТВ-Луч (Сызрань)
 #EXTGRP:Региональные РФ
 https://mow-9-ll.facecast.io:8443/hls_re/c631505e4fd6d14665c0.m3u8
 #EXTINF:-1 tvg-id="kuban-24" tvg-name="Кубань 24" tvg-logo="http://epg.one/img/6027.png" group-title="Региональные РФ", Кубань 24 орбита
@@ -4377,7 +4377,7 @@ http://109.68.122.117:8899/armnews_24
 #EXTINF:-1 tvg-name="Amga TV" tvg-logo="https://avatars.mds.yandex.net/i?id=c7b36a89ec713c78cbf51713fd2d0cbc_sr-8449287-images-thumbs&n=13" group-title="Армения", Amga TV
 #EXTGRP:Армения
 https://streamer1.connectto.com/AMGA_WEB_1202/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="artn-am" tvg-name="ARTN" tvg-logo="https://epgx.club/picons/artn-am.png" group-title="Армения", ARTN TV
+#EXTINF:-1 tvg-id="artn-am" tvg-name="ARTN" tvg-logo="https://epg.iptvx.one/picons/artn-am.png" group-title="Армения", ARTN TV
 #EXTGRP:Армения
 https://streamer1.connectto.com/ARTN_mobile/index.m3u8
 #EXTINF:-1 tvg-id="atv-armenia" tvg-name="ATV Армения" tvg-logo="http://epg.one/img/2067.png" group-title="Армения", ATV
@@ -4404,7 +4404,7 @@ http://45.11.139.43:8555/mig/index.m3u8
 #EXTINF:-1 tvg-name="Շանթ" tvg-logo="https://i.ibb.co/Y7Rxs9J/SGN-03-22-2022-1647976102720.png" group-title="Армения", Շանթ
 #EXTGRP:Армения
 http://5.188.172.179/Shant/index.m3u8
-#EXTINF:-1 tvg-id="tbn-armenia" tvg-name="TBN Armenia" tvg-logo="https://epgx.club/picons/tbn-armenia.png" group-title="Армения", TBN Armenia AM
+#EXTINF:-1 tvg-id="tbn-armenia" tvg-name="TBN Armenia" tvg-logo="https://epg.iptvx.one/picons/tbn-armenia.png" group-title="Армения", TBN Armenia AM
 #EXTGRP:Армения
 https://164475.gvideo.io/mpegts/164475_650646/master_mpegts.m3u8
 #EXTINF:-1 tvg-name="USArmeniaTV" tvg-logo="http://epg.one/img/5934.png" group-title="Армения", USArmeniaTV
