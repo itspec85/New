@@ -2220,8 +2220,7 @@ http://158.101.222.193:88/georgia_play.php?id=interesnoetv
 http://kinowalk.hopto.org/miiz90x_live
 #EXTINF:-1 tvg-id="nash-kinopokaz" tvg-name="Наш кинопоказ" tvg-logo="http://epg.one/img/2831.png" group-title="Кино", Наш Кинопоказ HD
 #EXTGRP:Кино
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
-https://mhd116.iptv2022.com/p/GpnEsoYov3uUj_AsbEyzwQ,1772485208/streaming/nashpokaz/324/1/tracks-v5a1/mono.m3u8
+http://minsk-cache07t.voka.tv/live/285-req_5k_v5.m3u8
 #EXTINF:-1 tvg-id="nashehd" tvg-name="Наше крутое HD" tvg-logo="http://epg.one/img/2018.png" group-title="Кино", Наше крутое HD
 #EXTGRP:Кино
 http://hls127.freeott.top:8080/Nashe_HD/mono.m3u8
