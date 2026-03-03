@@ -2274,7 +2274,7 @@ http://176.118.197.101/RodnoeKino/index.m3u8
 http://185.234.59.200:8080/romantichnoe_hd/index.m3u8
 #EXTINF:-1 tvg-id="russky-bestseller" tvg-name="Русский бестселлер" tvg-logo="http://epg.one/img/994.png" group-title="Кино", Русский бестселлер
 #EXTGRP:Кино
-http://62.89.220.15/streams/media/russkiy-bestseller_720x576/index.m3u8
+http://iptv46.mcx-ix.ru:8077/rus-bestseller/index.m3u8
 #EXTINF:-1 tvg-id="russky-detektiv" tvg-name="Русский детектив" tvg-logo="http://epg.one/img/1570.png" group-title="Кино", Русский детектив
 #EXTGRP:Кино
 http://62.89.220.15/streams/media/russkiy-detektiv_720x576/index.m3u8
