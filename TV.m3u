@@ -2277,7 +2277,7 @@ http://185.234.59.200:8080/romantichnoe_hd/index.m3u8
 http://iptv46.mcx-ix.ru:8077/rus-bestseller/index.m3u8
 #EXTINF:-1 tvg-id="russky-detektiv" tvg-name="Русский детектив" tvg-logo="http://epg.one/img/1570.png" group-title="Кино", Русский детектив
 #EXTGRP:Кино
-http://62.89.220.15/streams/media/russkiy-detektiv_720x576/index.m3u8
+http://cdn.kubteltv.workers.dev/?ID=357
 #EXTINF:-1 tvg-id="russky-illuzion" tvg-name="Русский иллюзион" tvg-logo="http://epg.one/img/53.png" group-title="Кино", Русский Иллюзион
 #EXTGRP:Кино
 http://185.46.16.239:8000/Russkiy_Illyuzion
