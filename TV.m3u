@@ -2664,6 +2664,9 @@ http://hls127.freeott.top:8080/BCUKinoratingHD/mono.m3u8
 #EXTINF:-1 tvg-id="bcu-marvel" tvg-name="BCU Marvel HD" tvg-logo="http://epg.one/img/5514.png" group-title="Кинозал", BCU Marvel HD
 #EXTGRP:Кинозал
 http://185.234.59.200:8080/BCU_Marvel_HD/index.m3u8
+#EXTINF:-1 tvg-id="bcu-media" tvg-name="BCU Media HD" tvg-logo="http://epg.one/img/4764.png" group-title="Кинозал", BCU Media HD
+#EXTGRP:Кинозал
+http://tv.woobl.ru/BCUMEDIA_HD/video.m3u8
 #EXTINF:-1 tvg-id="bcu-premiere" tvg-name="BCU Premiere HD" tvg-logo="http://epg.one/img/4760.png" group-title="Кинозал", BCU Premiere HD
 #EXTGRP:Кинозал
 http://185.234.59.200:8080/BCU_Premiere_HD/index.m3u8
@@ -2700,9 +2703,15 @@ http://tv.woobl.ru/BOX_Franchise_HD/video.m3u8
 #EXTINF:-1 tvg-id="box-gangster" tvg-name="BOX Gangster HD" tvg-logo="http://epg.one/img/6699.png" group-title="Кинозал", BOX Gangster HD
 #EXTGRP:Кинозал
 http://tv.woobl.ru/BOX_Gangster_HD/video.m3u8
+#EXTINF:-1 tvg-id="box-ghost" tvg-name="BOX Ghost HD" tvg-logo="http://epg.one/img/7488.png" group-title="Кинозал", BOX Ghost HD
+#EXTGRP:Кинозал
+http://185.234.59.200:8080/BOX_Ghost_HD/video.m3u8
 #EXTINF:-1 tvg-id="box-hybrid" tvg-name="BOX Hybrid HD" tvg-logo="http://epg.one/img/6697.png" group-title="Кинозал", BOX Hybrid HD
 #EXTGRP:Кинозал
 http://tv.woobl.ru/BOX_Hybrid_HD/video.m3u8
+#EXTINF:-1 tvg-id="box-oscar" tvg-name="BOX Oscar HD" tvg-logo="http://epg.one/img/6700.png" group-title="Кинозал", BOX Oscar HD
+#EXTGRP:Кинозал
+http://185.234.59.200:8080/BOX_Oscar_HD/video.m3u8
 #EXTINF:-1 tvg-id="box-remast-4k" tvg-name="BOX Remast 4K" tvg-logo="http://epg.one/img/7492.png" group-title="Кинозал", BOX Remast 4K
 #EXTGRP:Кинозал
 http://tv.woobl.ru/BOX_Remast_4K/video.m3u8
