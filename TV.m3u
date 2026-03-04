@@ -2679,6 +2679,39 @@ http://185.234.59.200:8080/BCU_Ultra_4K/video.m3u8
 #EXTINF:-1 tvg-id="bcu-vhs" tvg-name="BCU VHS HD" tvg-logo="http://epg.one/img/4763.png" group-title="Кинозал", BCU VHS HD
 #EXTGRP:Кинозал
 http://185.234.59.200:8080/BCU_VHS_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="box-apocalipse" tvg-name="BOX Apocalypse HD" tvg-logo="http://epg.one/img/8768.png" group-title="Кинозал", BOX Apocalypse HD
+#EXTGRP:Кинозал
+http://tv.woobl.ru/BOX_Apocalypse_HD/video.m3u8
+#EXTINF:-1 tvg-id="box-cyber" tvg-name="BOX Cyber HD" tvg-logo="http://epg.one/img/6834.png" group-title="Кинозал", BOX Cyber HD
+#EXTGRP:Кинозал
+http://tv.woobl.ru/BOX_Cyber_HD/video.m3u8
+#EXTINF:-1 tvg-id="box-fantasy" tvg-name="BOX Fantasy HD" tvg-logo="http://epg.one/img/7490.png" group-title="Кинозал", BOX Fantasy HD
+#EXTGRP:Кинозал
+http://tv.woobl.ru/BOX_Fantasy_HD/video.m3u8
+#EXTINF:-1 tvg-id="box-franchise" tvg-name="BOX Franchise HD" tvg-logo="http://epg.one/img/6696.png" group-title="Кинозал", BOX Franchise HD
+#EXTGRP:Кинозал
+http://tv.woobl.ru/BOX_Franchise_HD/video.m3u8
+#EXTINF:-1 tvg-id="box-gangster" tvg-name="BOX Gangster HD" tvg-logo="http://epg.one/img/6699.png" group-title="Кинозал", BOX Gangster HD
+#EXTGRP:Кинозал
+http://tv.woobl.ru/BOX_Gangster_HD/video.m3u8
+#EXTINF:-1 tvg-id="box-hybrid" tvg-name="BOX Hybrid HD" tvg-logo="http://epg.one/img/6697.png" group-title="Кинозал", BOX Hybrid HD
+#EXTGRP:Кинозал
+http://tv.woobl.ru/BOX_Hybrid_HD/video.m3u8
+#EXTINF:-1 tvg-id="box-remast-4k" tvg-name="BOX Remast 4K" tvg-logo="http://epg.one/img/7492.png" group-title="Кинозал", BOX Remast 4K
+#EXTGRP:Кинозал
+http://tv.woobl.ru/BOX_Remast_4K/video.m3u8
+#EXTINF:-1 tvg-id="box-serial" tvg-name="BOX Serial HD" tvg-logo="http://epg.one/img/6703.png" group-title="Кинозал", BOX Serial HD
+#EXTGRP:Кинозал
+http://tv.woobl.ru/BOX_Serial_HD/video.m3u8
+#EXTINF:-1 tvg-id="box-serial4k" tvg-name="BOX Serial 4K" tvg-logo="http://epg.one/img/8923.png" group-title="Кинозал", BOX Serial 4K
+#EXTGRP:Кинозал
+http://tv.woobl.ru/BOX_Serial_4K/video.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-name="CPS Action" tvg-logo="https://avatars.mds.yandex.net/i?id=d0cd0536644c44380ed9a5f1fc4f51bd2169a5dd-5335451-images-thumbs&n=13" group-title="Кинозал", CPS Action
 #EXTGRP:Кинозал
 http://hls127.freeott.top:8080/CPS_Action/video.m3u8
