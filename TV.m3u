@@ -2007,8 +2007,7 @@ https://stream8.cinerama.uz/1407/tracks-v1a1/mono.m3u8
 https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
 #EXTINF:-1 tvg-id="sovmultf" tvg-name="Советские мультфильмы" tvg-logo="https://epg.iptvx.one/picons/sovmultf.png" group-title="Детские", Советские мультфильмы
 #EXTGRP:Детские
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
-https://mhd116.iptv2022.com/p/mG09VhCCKcPAz-df90R7aw,1772658013/streaming/rusmult/324/1/tracks-v5a1/mono.m3u8
+http://minsk-cache07t.voka.tv/live/3007-req_5k_v5.m3u8
 #EXTINF:-1 tvg-id="solnce" tvg-shift="+1" tvg-name="Солнце (-1)" tvg-logo="http://epg.one/img/7669.png" group-title="Детские", Солнце (-1)
 #EXTGRP:Детские
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -2117,6 +2116,9 @@ http://kinowalk.hopto.org/4khits_live
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
 https://mhd116.iptv2022.com/p/Icn0xPfSp36_OoTkzTzkgQ,1772658011/streaming/blokbaster/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="blokbaster-hd" tvg-name="Блокбастер HD" tvg-logo="http://epg.one/img/2832.png" group-title="Кино", Блокбастер HD
+#EXTGRP:Кино
+http://cdn.kubteltv.workers.dev/?ID=219
 #EXTINF:-1 tvg-name="Видеокассета TV" tvg-logo="https://avatars.mds.yandex.net/i?id=aa54d677b7da13a106d22ee95411b140d0009712-15274206-images-thumbs&n=13" group-title="Кино", Видеокассета TV
 #EXTGRP:Кино
 https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/playlist.m3u8
