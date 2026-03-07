@@ -2317,12 +2317,6 @@ https://ucdn.beetv.kz/bpk-tv/000000213/tve/index.m3u8
 #EXTINF:-1 tvg-id="sony-scifi" tvg-name=".sci-fi" tvg-logo="http://epg.one/img/516.png" group-title="Кино", .sci-fi
 #EXTGRP:Кино
 http://193.25.8.59:8000/axn
-#EXTINF:-1 tvg-name="Akudji" tvg-logo="https://images.live.vkvideo.ru/user/19223927/avatar?change_time=1753304099&croped=1&mh=140&mw=140" group-title="Кино", Akudji
-#EXTGRP:Кино
-http://kinowalk.hopto.org/akudjitv_live
-#EXTINF:-1 tvg-name="Alex.Films" tvg-logo="https://images.live.vkvideo.ru/user/19397267/avatar?change_time=1763534733&croped=1&mh=140&mw=140" group-title="Кино", Alex.Films
-#EXTGRP:Кино
-http://kinowalk.hopto.org/alex.films_live
 #EXTINF:-1 tvg-name="Alpha Cinema" tvg-logo="https://avatars.mds.yandex.net/i?id=5881e5d66b4fd37d34441f48c9160147-4743742-images-thumbs&n=13" group-title="Кино", Alpha Cinema
 #EXTGRP:Кино
 http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
@@ -2344,30 +2338,15 @@ https://ucdn.beetv.kz/bpk-tv/000000709/tve/index.m3u8
 #EXTINF:-1 tvg-name="Arpinet" tvg-logo="https://avatars.mds.yandex.net/i?id=db0cb19b4324d2040d10afe4086dc7d405779f71-10102345-images-thumbs&n=13" group-title="Кино", Arpinet
 #EXTGRP:Кино
 http://185.57.68.33/237/mpegts
-#EXTINF:-1 tvg-name="Blockbusters Time" tvg-logo="https://avatars.mds.yandex.net/i?id=ca00afd604f2495ca4af1ad9d4786398bbab6f48-12728079-images-thumbs&n=13" group-title="Кино", Blockbusters Time
-#EXTGRP:Кино
-http://kinowalk.hopto.org/blockbusterstime_live
 #EXTINF:-1 tvg-id="bollywood-hd" tvg-name="Bollywood HD" tvg-logo="http://epg.one/img/1395.png" group-title="Кино", Bollywood HD
 #EXTGRP:Кино
 http://193.27.209.122/bollywood/index.m3u8
 #EXTINF:-1 tvg-id="bolt-ru" tvg-name="Bolt HD Россия" tvg-logo="http://epg.one/img/2138.png" group-title="Кино", Bolt HD Россия
 #EXTGRP:Кино
 http://hls127.freeott.top:8080/Bolt/mono.m3u8
-#EXTINF:-1 tvg-name="BOSSFILM" tvg-logo="https://images.live.vkvideo.ru/user/19857529/avatar?change_time=1735363832&croped=1&mh=140&mw=140" group-title="Кино", BOSSFILM
-#EXTGRP:Кино
-http://kinowalk.hopto.org/bossfilm_live
 #EXTINF:-1 tvg-id="cinema-ru" tvg-name="Cinema HD" tvg-logo="http://epg.one/img/2754.png" group-title="Кино", Cinema HD
 #EXTGRP:Кино
 http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Cinema Time" tvg-logo="https://avatars.mds.yandex.net/i?id=7682f4bfcb34028ffc20f605f2d359e7-5887345-images-thumbs&n=13" group-title="Кино", Cinema Time
-#EXTGRP:Кино
-http://kinowalk.hopto.org/cinemaa_live
-#EXTINF:-1 tvg-name="Dimpon HD" tvg-logo="https://avatars.mds.yandex.net/i?id=30d003421a04a81dcc8a800b6b9a8a48b4bf7234-10770607-images-thumbs&n=13" group-title="Кино", Dimpon HD
-#EXTGRP:Кино
-http://kinowalk.hopto.org/dimpon_live
-#EXTINF:-1 tvg-name="EvGAMEN" tvg-logo="https://lh3.googleusercontent.com/a/ACg8ocJRCQczrVJsPbG0Q7qgMvphfUBuJiGktsI7wwPXSYxQCcGPBu8=s96-c" group-title="Кино", EvGAMEN
-#EXTGRP:Кино
-http://kinowalk.hopto.org/evgamen_movies_live
 #EXTINF:-1 tvg-id="filmua-drama" tvg-name="Film.UA Drama" tvg-logo="http://epg.one/img/8911.png" group-title="Кино", Film UA Drama
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000003028/tve/index.m3u8
@@ -2395,36 +2374,6 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/93
 #EXTINF:-1 tvg-id="kino-24" tvg-name="Kino 24" tvg-logo="https://avatars.mds.yandex.net/i?id=e1062a4964110759e8963d4fc1aef3b22c56bddf-7761267-images-thumbs&n=13" group-title="Кино", Kino 24
 #EXTGRP:Кино
 http://sirius.greenhosting.ru/Kino24Ru/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Kinofon" tvg-logo="https://images.live.vkvideo.ru/user/20655827/avatar?change_time=1752925345&croped=1&mh=140&mw=140" group-title="Кино", Kinofon
-#EXTGRP:Кино
-http://kinowalk.hopto.org/kinofon_live
-#EXTINF:-1 tvg-name="KinoJam" tvg-logo="https://avatars.mds.yandex.net/i?id=b763ff67454d1c5dc152c900eca01257e4664821-6950859-images-thumbs&n=13" group-title="Кино", KinoJam
-#EXTGRP:Кино
-http://kinowalk.hopto.org/kinojam_live
-#EXTINF:-1 tvg-name="Kinolampa" tvg-logo="https://avatars.mds.yandex.net/i?id=46f990c6419f19be0ee364dd19b71ee7be67bdfb-5112049-images-thumbs&n=13" group-title="Кино", Kinolampa
-#EXTGRP:Кино
-http://kinowalk.hopto.org/kinolampa_live
-#EXTINF:-1 tvg-name="KinoMix" tvg-logo="https://avatars.mds.yandex.net/i?id=af393372701abefe85a4a4c01d825d84800faa88-10611483-images-thumbs&n=13" group-title="Кино", KinoMix
-#EXTGRP:Кино
-http://kinowalk.hopto.org/yurich_kinomix_live
-#EXTINF:-1 tvg-name="KINOPRO" tvg-logo="https://lastfm.freetls.fastly.net/i/u/300x300/e6ac114abd700e4d57b230a703187a26.jpg" group-title="Кино", KINOPRO
-#EXTGRP:Кино
-http://kinowalk.hopto.org/kinopro_live
-#EXTINF:-1 tvg-name="Kinowalk TV" tvg-logo="https://images.live.vkvideo.ru/user/20428041/avatar?change_time=1766171277&croped=1&mh=140&mw=140" group-title="Кино", Kinowalk TV
-#EXTGRP:Кино
-https://kinowalk.hopto.org/kinowalk_live
-#EXTINF:-1 tvg-name="LAV-KINO" tvg-logo="https://avatars.mds.yandex.net/i?id=d345b761b1d177dd5e38d776f2ad20a51ab97ebf-5668792-images-thumbs&n=13" group-title="Кино", LAV-KINO
-#EXTGRP:Кино
-https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Logovo Films" tvg-logo="https://avatars.mds.yandex.net/i?id=0d2a36f62671a0501ca3cf27a5eb2b8d58d11926-5877910-images-thumbs&n=13" group-title="Кино", Logovo Films
-#EXTGRP:Кино
-https://stream.ushba.tv/akamaiushba/ushba-films-a/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Maksim Films" tvg-logo="https://avatars.mds.yandex.net/i?id=d8bb932a618b126fd382904f1cde2371_sr-5429110-images-thumbs&n=13" group-title="Кино", Maksim Films
-#EXTGRP:Кино
-http://kinowalk.hopto.org/mmaxim0vich_live
-#EXTINF:-1 tvg-name="Moviee Toper" tvg-logo="https://avatars.mds.yandex.net/i?id=d10df5f683bb157406acc5a5bed0225d2eee31ca-15420526-images-thumbs&n=13" group-title="Кино", Moviee Toper
-#EXTGRP:Кино
-http://kinowalk.hopto.org/movietoper_live
 #EXTINF:-1 tvg-id="plan-b" tvg-name="Plan B HD" tvg-logo="http://epg.one/img/6643.png" group-title="Кино", Plan B HD
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000007625/tve/index.m3u8
@@ -2624,6 +2573,57 @@ http://kinowalk.hopto.org/dfsfsdg_live
 #EXTINF:-1 tvg-name="Стримканал. Эквилибриум" tvg-logo="https://images.live.vkvideo.ru/user/20745126/avatar?change_time=1746520742&croped=1&mh=140&mw=140" group-title="Кинозал", Стримканал. Эквилибриум
 #EXTGRP:Кинозал
 http://kinowalk.hopto.org/equilibrium_live
+#EXTINF:-1 tvg-name="Стримканал. Akudji" tvg-logo="https://images.live.vkvideo.ru/user/19223927/avatar?change_time=1753304099&croped=1&mh=140&mw=140" group-title="Кинозал", Стримканал. Akudji
+#EXTGRP:Кинозал
+http://kinowalk.hopto.org/akudjitv_live
+#EXTINF:-1 tvg-name="Стримканал. Alex.Films" tvg-logo="https://images.live.vkvideo.ru/user/19397267/avatar?change_time=1763534733&croped=1&mh=140&mw=140" group-title="Кинозал", Стримканал. Alex.Films
+#EXTGRP:Кинозал
+http://kinowalk.hopto.org/alex.films_live
+#EXTINF:-1 tvg-name="Стримканал. Blockbusters Time" tvg-logo="https://avatars.mds.yandex.net/i?id=ca00afd604f2495ca4af1ad9d4786398bbab6f48-12728079-images-thumbs&n=13" group-title="Кинозал", Стримканал. Blockbusters Time
+#EXTGRP:Кинозал
+http://kinowalk.hopto.org/blockbusterstime_live
+#EXTINF:-1 tvg-name="Стримканал. BOSSFILM" tvg-logo="https://images.live.vkvideo.ru/user/19857529/avatar?change_time=1735363832&croped=1&mh=140&mw=140" group-title="Кинозал", Стримканал. BOSSFILM
+#EXTGRP:Кинозал
+http://kinowalk.hopto.org/bossfilm_live
+#EXTINF:-1 tvg-name="Стримканал. Cinema Time" tvg-logo="https://avatars.mds.yandex.net/i?id=7682f4bfcb34028ffc20f605f2d359e7-5887345-images-thumbs&n=13" group-title="Кинозал", Стримканал. Cinema Time
+#EXTGRP:Кинозал
+http://kinowalk.hopto.org/cinemaa_live
+#EXTINF:-1 tvg-name="Стримканал. Dimpon HD" tvg-logo="https://avatars.mds.yandex.net/i?id=30d003421a04a81dcc8a800b6b9a8a48b4bf7234-10770607-images-thumbs&n=13" group-title="Кинозал", Стримканал. Dimpon HD
+#EXTGRP:Кинозал
+http://kinowalk.hopto.org/dimpon_live
+#EXTINF:-1 tvg-name="Стримканал. EvGAMEN" tvg-logo="https://lh3.googleusercontent.com/a/ACg8ocJRCQczrVJsPbG0Q7qgMvphfUBuJiGktsI7wwPXSYxQCcGPBu8=s96-c" group-title="Кинозал", Стримканал. EvGAMEN
+#EXTGRP:Кинозал
+http://kinowalk.hopto.org/evgamen_movies_live
+#EXTINF:-1 tvg-name="Стримканал. Kinofon" tvg-logo="https://images.live.vkvideo.ru/user/20655827/avatar?change_time=1752925345&croped=1&mh=140&mw=140" group-title="Кинозал", Стримканал. Kinofon
+#EXTGRP:Кинозал
+http://kinowalk.hopto.org/kinofon_live
+#EXTINF:-1 tvg-name="Стримканал. KinoJam" tvg-logo="https://avatars.mds.yandex.net/i?id=b763ff67454d1c5dc152c900eca01257e4664821-6950859-images-thumbs&n=13" group-title="Кинозал", Стримканал. KinoJam
+#EXTGRP:Кинозал
+http://kinowalk.hopto.org/kinojam_live
+#EXTINF:-1 tvg-name="Стримканал. Kinolampa" tvg-logo="https://avatars.mds.yandex.net/i?id=46f990c6419f19be0ee364dd19b71ee7be67bdfb-5112049-images-thumbs&n=13" group-title="Кинозал", Стримканал. Kinolampa
+#EXTGRP:Кинозал
+http://kinowalk.hopto.org/kinolampa_live
+#EXTINF:-1 tvg-name="Стримканал. KinoMix" tvg-logo="https://avatars.mds.yandex.net/i?id=af393372701abefe85a4a4c01d825d84800faa88-10611483-images-thumbs&n=13" group-title="Кинозал", Стримканал. KinoMix
+#EXTGRP:Кинозал
+http://kinowalk.hopto.org/yurich_kinomix_live
+#EXTINF:-1 tvg-name="Стримканал. KINOPRO" tvg-logo="https://lastfm.freetls.fastly.net/i/u/300x300/e6ac114abd700e4d57b230a703187a26.jpg" group-title="Кинозал", Стримканал. KINOPRO
+#EXTGRP:Кинозал
+http://kinowalk.hopto.org/kinopro_live
+#EXTINF:-1 tvg-name="Стримканал. Kinowalk TV" tvg-logo="https://images.live.vkvideo.ru/user/20428041/avatar?change_time=1766171277&croped=1&mh=140&mw=140" group-title="Кинозал", Стримканал. Kinowalk TV
+#EXTGRP:Кинозал
+https://kinowalk.hopto.org/kinowalk_live
+#EXTINF:-1 tvg-name="Стримканал. LAV-KINO" tvg-logo="https://avatars.mds.yandex.net/i?id=d345b761b1d177dd5e38d776f2ad20a51ab97ebf-5668792-images-thumbs&n=13" group-title="Кинозал", Стримканал. LAV-KINO
+#EXTGRP:Кинозал
+https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Стримканал. Logovo Films" tvg-logo="https://avatars.mds.yandex.net/i?id=0d2a36f62671a0501ca3cf27a5eb2b8d58d11926-5877910-images-thumbs&n=13" group-title="Кинозал", Стримканал. Logovo Films
+#EXTGRP:Кинозал
+https://stream.ushba.tv/akamaiushba/ushba-films-a/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Стримканал. Maksim Films" tvg-logo="https://avatars.mds.yandex.net/i?id=d8bb932a618b126fd382904f1cde2371_sr-5429110-images-thumbs&n=13" group-title="Кинозал", Стримканал. Maksim Films
+#EXTGRP:Кинозал
+http://kinowalk.hopto.org/mmaxim0vich_live
+#EXTINF:-1 tvg-name="Стримканал. Moviee Toper" tvg-logo="https://avatars.mds.yandex.net/i?id=d10df5f683bb157406acc5a5bed0225d2eee31ca-15420526-images-thumbs&n=13" group-title="Кинозал", Стримканал. Moviee Toper
+#EXTGRP:Кинозал
+http://kinowalk.hopto.org/movietoper_live
 
 #EXTINF:-1 tvg-id="bcu-kinozal-prem-1" tvg-name="BCU Кинозал Premiere 1 HD" tvg-logo="http://epg.one/img/4736.png" group-title="Кинозал", BCU Кинозал Premiere 1 HD
 #EXTGRP:Кинозал
