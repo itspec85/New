@@ -1833,7 +1833,7 @@ http://fashion.mediacdn.ru/cdn/fashiontv/tracks-v1a1/mono.m3u8
 http://185.234.59.200:8080/foodtime/index.m3u8
 #EXTINF:-1 tvg-id="fox-news-us" tvg-name="FOX NEWS CHANNEL FHD" tvg-logo="http://epg.one/img/6683.png" group-title="Познавательные", FOX NEWS CHANNEL FHD
 #EXTGRP:Познавательные
-http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
+http://tv14s.xyz:8080/4bYr9R/770632/135794
 #EXTINF:-1 tvg-id="france24-fr" tvg-name="France 24 Fr" tvg-logo="http://epg.one/img/2127.png" group-title="Познавательные", France 24 FR
 #EXTGRP:Познавательные
 http://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
