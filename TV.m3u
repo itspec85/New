@@ -2513,9 +2513,15 @@ http://autopilot.catcast.tv/content/41333/index.m3u8
 #EXTINF:-1 tvg-name="Стримканал. 4K — Кино и сериалы" tvg-logo="https://telik.live/images/4k-hits.png" group-title="Кинозал", Стримканал. 4K — Кино и сериалы
 #EXTGRP:Кинозал
 http://kinowalk.hopto.org/4khits_live
+#EXTINF:-1 tvg-name="Стримканал. 33 квадратных метра" tvg-logo="https://avatars.mds.yandex.net/i?id=555d891d488c5365011716af505489b85bf0170c-9044089-images-thumbs&n=13" group-title="Кинозал", Стримканал. 33 квадратных метра
+#EXTGRP:Кинозал
+http://kinowalk.hopto.org/33metra_live
 #EXTINF:-1 tvg-name="Стримканал. Всё ТВ" tvg-logo="https://avatars.mds.yandex.net/i?id=845901c7a4f4738e4b26e19565dd26494642b248-5150784-images-thumbs&n=13" group-title="Кинозал", Стримканал. Всё ТВ
 #EXTGRP:Кинозал
 http://kinowalk.hopto.org/vsetv_live
+#EXTINF:-1 tvg-name="Стримканал. Егор Егорыч" tvg-logo="https://avatars.mds.yandex.net/i?id=555d891d488c5365011716af505489b85bf0170c-9044089-images-thumbs&n=13" group-title="Кинозал", Стримканал. Егор Егорыч
+#EXTGRP:Кинозал
+http://kinowalk.hopto.org/yegor_yegorych_live
 #EXTINF:-1 tvg-name="Стримканал. КИНО СТРИМ" tvg-logo="https://avatars.mds.yandex.net/i?id=437ca6dffd5419cad1016d2be8def5e17dd21082-5878501-images-thumbs&n=13" group-title="Кинозал", Стримканал. КИНО СТРИМ
 #EXTGRP:Кинозал
 https://cdn.kino-stream.online/hls/KINOSTREAM.m3u8
@@ -2525,6 +2531,21 @@ http://kinowalk.hopto.org/cmexye4ku_live
 #EXTINF:-1 tvg-name="Стримканал. Мы из 90-х" tvg-logo="https://images.live.vkvideo.ru/user/20495921/avatar?change_time=1742225886&croped=1&mh=140&mw=140" group-title="Кинозал", Стримканал. Мы из 90-х
 #EXTGRP:Кинозал
 http://kinowalk.hopto.org/miiz90x_live
+#EXTINF:-1 tvg-name="Стримканал. Назад в СССР" tvg-logo="https://avatars.mds.yandex.net/i?id=555d891d488c5365011716af505489b85bf0170c-9044089-images-thumbs&n=13" group-title="Кинозал", Стримканал. Назад в СССР
+#EXTGRP:Кинозал
+http://kinowalk.hopto.org/backtotheussr_live
+#EXTINF:-1 tvg-name="Стримканал. Сериальный мир" tvg-logo="https://avatars.mds.yandex.net/i?id=555d891d488c5365011716af505489b85bf0170c-9044089-images-thumbs&n=13" group-title="Кинозал", Стримканал. Сериальный мир
+#EXTGRP:Кинозал
+http://kinowalk.hopto.org/serials2025_live
+#EXTINF:-1 tvg-name="Стримканал. Тоха Киноман" tvg-logo="https://avatars.mds.yandex.net/i?id=555d891d488c5365011716af505489b85bf0170c-9044089-images-thumbs&n=13" group-title="Кинозал", Стримканал. Тоха Киноман
+#EXTGRP:Кинозал
+http://kinowalk.hopto.org/kinomania_stream_live
+#EXTINF:-1 tvg-name="Стримканал. Тоха Стрим" tvg-logo="https://avatars.mds.yandex.net/i?id=555d891d488c5365011716af505489b85bf0170c-9044089-images-thumbs&n=13" group-title="Кинозал", Стримканал. Тоха Стрим
+#EXTGRP:Кинозал
+http://kinowalk.hopto.org/toxa_stream_live
+#EXTINF:-1 tvg-name="Стримканал. У края бездны 24/7" tvg-logo="https://avatars.mds.yandex.net/i?id=555d891d488c5365011716af505489b85bf0170c-9044089-images-thumbs&n=13" group-title="Кинозал", Стримканал. У края бездны 24/7
+#EXTGRP:Кинозал
+http://kinowalk.hopto.org/ddator_live
 #EXTINF:-1 tvg-name="Стримканал. Фильмы сериалы" tvg-logo="https://images.live.vkvideo.ru/user/19940394/avatar?change_time=1734982742&croped=1&mh=140&mw=140" group-title="Кинозал", Стримканал. Фильмы сериалы
 #EXTGRP:Кинозал
 http://kinowalk.hopto.org/dfsfsdg_live
