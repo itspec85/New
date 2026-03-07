@@ -2115,9 +2115,6 @@ https://ucdn.beetv.kz/bpk-tv/000000174/tve/index.m3u8
 
 
 
-#EXTINF:-1 tvg-name="4K — Кино и сериалы" tvg-logo="https://telik.live/images/4k-hits.png" group-title="Кино", 4K — Кино и сериалы
-#EXTGRP:Кино
-http://kinowalk.hopto.org/4khits_live
 #EXTINF:-1 tvg-id="blokbaster" tvg-name="Блокбастер" tvg-logo="http://epg.one/img/2832.png" group-title="Кино", Блокбастер
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
@@ -2128,9 +2125,6 @@ http://cdn.kubteltv.workers.dev/?ID=219
 #EXTINF:-1 tvg-name="Видеокассета TV" tvg-logo="https://avatars.mds.yandex.net/i?id=aa54d677b7da13a106d22ee95411b140d0009712-15274206-images-thumbs&n=13" group-title="Кино", Видеокассета TV
 #EXTGRP:Кино
 https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/playlist.m3u8
-#EXTINF:-1 tvg-name="Всё ТВ" tvg-logo="https://avatars.mds.yandex.net/i?id=845901c7a4f4738e4b26e19565dd26494642b248-5150784-images-thumbs&n=13" group-title="Кино", Всё ТВ
-#EXTGRP:Кино
-http://kinowalk.hopto.org/vsetv_live
 #EXTINF:-1 tvg-id="denpobedy" tvg-name="День Победы HD" tvg-logo="http://epg.one/img/2773.png" group-title="Кино", День Победы HD
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
@@ -2166,9 +2160,6 @@ https://ucdn.beetv.kz/bpk-tv/000008136/tve/index.m3u8
 #EXTINF:-1 tvg-id="kino1int-tviksel" tvg-name="Кино 1 International" tvg-logo="http://epg.one/img/6258.png" group-title="Кино", Кино 1 International
 #EXTGRP:Кино
 https://kino-1.catcast.tv/content/38617/index.m3u8
-#EXTINF:-1 tvg-name="КИНО СТРИМ" tvg-logo="https://avatars.mds.yandex.net/i?id=437ca6dffd5419cad1016d2be8def5e17dd21082-5878501-images-thumbs&n=13" group-title="Кино", КИНО СТРИМ
-#EXTGRP:Кино
-https://cdn.kino-stream.online/hls/KINOSTREAM.m3u8
 #EXTINF:-1 tvg-id="kino-tv" tvg-name="Кино ТВ" tvg-logo="http://epg.one/img/1037.png" group-title="Кино", КИНО ТВ
 #EXTGRP:Кино
 http://185.46.16.239:8000/Kino_TV
@@ -2214,9 +2205,6 @@ http://158.101.222.193:88/georgia_play.php?id=kinoujas
 #EXTINF:-1 tvg-id="kinoxit" tvg-name="Кинохит" tvg-logo="http://epg.one/img/542.png" group-title="Кино", КИНОХИТ
 #EXTGRP:Кино
 https://stream8.cinerama.uz/1055/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Комедии 24/7" tvg-logo="https://images.live.vkvideo.ru/user/18725544/avatar?change_time=1764060712&croped=1&mh=140&mw=140" group-title="Кино", Комедии 24/7
-#EXTGRP:Кино
-http://kinowalk.hopto.org/cmexye4ku_live
 #EXTINF:-1 tvg-id="lubimoe-kino" tvg-name="Любимое кино" tvg-logo="http://epg.one/img/477.png" group-title="Кино", Любимое Кино
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000000283/tve/index.m3u8
@@ -2235,9 +2223,6 @@ http://5.8.11.96:8099/mosfilmhd/index.m3u8
 #EXTINF:-1 tvg-id="muzhskoe-kino" tvg-name="Мужское кино" tvg-logo="http://epg.one/img/1584.png" group-title="Кино", МУЖСКОЕ КИНО
 #EXTGRP:Кино
 https://stream8.cinerama.uz/1237/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Мы из 90-х" tvg-logo="https://images.live.vkvideo.ru/user/20495921/avatar?change_time=1742225886&croped=1&mh=140&mw=140" group-title="Кино", Мы из 90-х
-#EXTGRP:Кино
-http://kinowalk.hopto.org/miiz90x_live
 #EXTINF:-1 tvg-id="nash-kinopokaz" tvg-name="Наш кинопоказ" tvg-logo="http://epg.one/img/2831.png" group-title="Кино", Наш Кинопоказ HD
 #EXTGRP:Кино
 http://minsk-cache07t.voka.tv/live/285-req_5k_v5.m3u8
@@ -2320,15 +2305,9 @@ http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8
 #EXTINF:-1 tvg-id="feniks-plus-kino" tvg-name="Феникс плюс Кино" tvg-logo="http://epg.one/img/2404.png" group-title="Кино", Феникс плюс Кино
 #EXTGRP:Кино
 http://minsk-cache07t.voka.tv/live/332-req_5k_v5.m3u8
-#EXTINF:-1 tvg-name="Фильмы сериалы" tvg-logo="https://images.live.vkvideo.ru/user/19940394/avatar?change_time=1734982742&croped=1&mh=140&mw=140" group-title="Кино", Фильмы сериалы
-#EXTGRP:Кино
-http://kinowalk.hopto.org/dfsfsdg_live
 #EXTINF:-1 tvg-id="khit-hd" tvg-name="Хит HD" tvg-logo="http://epg.one/img/2833.png" group-title="Кино", Хит HD
 #EXTGRP:Кино
 http://hls127.freeott.top:8080/XitHD/video.m3u8
-#EXTINF:-1 tvg-name="Эквилибриум" tvg-logo="https://images.live.vkvideo.ru/user/20745126/avatar?change_time=1746520742&croped=1&mh=140&mw=140" group-title="Кино", Эквилибриум
-#EXTGRP:Кино
-http://kinowalk.hopto.org/equilibrium_live
 #EXTINF:-1 tvg-id="sony-turbo" tvg-name=".black" tvg-logo="http://epg.one/img/935.png" group-title="Кино", .black
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000000520/tve/index.m3u8
@@ -2624,6 +2603,28 @@ https://cityeden.catcast.tv/content/45268/index.m3u8
 #EXTINF:-1 tvg-name="Сити Эдем - КиноЭкшен" tvg-logo="https://www.cityeden.info/logotv/logotip_siti_ehdem-kinoehkshen2.png" group-title="Кинозал", Сити Эдем - КиноЭкшен
 #EXTGRP:Кинозал
 http://autopilot.catcast.tv/content/41333/index.m3u8
+#EXTINF:-1 tvg-name="Стримканал. 4K — Кино и сериалы" tvg-logo="https://telik.live/images/4k-hits.png" group-title="Кинозал", Стримканал. 4K — Кино и сериалы
+#EXTGRP:Кинозал
+http://kinowalk.hopto.org/4khits_live
+#EXTINF:-1 tvg-name="Стримканал. Всё ТВ" tvg-logo="https://avatars.mds.yandex.net/i?id=845901c7a4f4738e4b26e19565dd26494642b248-5150784-images-thumbs&n=13" group-title="Кинозал", Стримканал. Всё ТВ
+#EXTGRP:Кинозал
+http://kinowalk.hopto.org/vsetv_live
+#EXTINF:-1 tvg-name="Стримканал. КИНО СТРИМ" tvg-logo="https://avatars.mds.yandex.net/i?id=437ca6dffd5419cad1016d2be8def5e17dd21082-5878501-images-thumbs&n=13" group-title="Кинозал", Стримканал. КИНО СТРИМ
+#EXTGRP:Кинозал
+https://cdn.kino-stream.online/hls/KINOSTREAM.m3u8
+#EXTINF:-1 tvg-name="Стримканал. Комедии 24/7" tvg-logo="https://images.live.vkvideo.ru/user/18725544/avatar?change_time=1764060712&croped=1&mh=140&mw=140" group-title="Кинозал", Стримканал. Комедии 24/7
+#EXTGRP:Кинозал
+http://kinowalk.hopto.org/cmexye4ku_live
+#EXTINF:-1 tvg-name="Стримканал. Мы из 90-х" tvg-logo="https://images.live.vkvideo.ru/user/20495921/avatar?change_time=1742225886&croped=1&mh=140&mw=140" group-title="Кинозал", Стримканал. Мы из 90-х
+#EXTGRP:Кинозал
+http://kinowalk.hopto.org/miiz90x_live
+#EXTINF:-1 tvg-name="Стримканал. Фильмы сериалы" tvg-logo="https://images.live.vkvideo.ru/user/19940394/avatar?change_time=1734982742&croped=1&mh=140&mw=140" group-title="Кинозал", Стримканал. Фильмы сериалы
+#EXTGRP:Кинозал
+http://kinowalk.hopto.org/dfsfsdg_live
+#EXTINF:-1 tvg-name="Стримканал. Эквилибриум" tvg-logo="https://images.live.vkvideo.ru/user/20745126/avatar?change_time=1746520742&croped=1&mh=140&mw=140" group-title="Кинозал", Стримканал. Эквилибриум
+#EXTGRP:Кинозал
+http://kinowalk.hopto.org/equilibrium_live
+
 #EXTINF:-1 tvg-id="bcu-kinozal-prem-1" tvg-name="BCU Кинозал Premiere 1 HD" tvg-logo="http://epg.one/img/4736.png" group-title="Кинозал", BCU Кинозал Premiere 1 HD
 #EXTGRP:Кинозал
 http://185.234.59.200:8080/BCU_Kinozal_Premiere_1_HD/index.m3u8
