@@ -221,7 +221,7 @@ http://185.234.59.200:8080/otr_hd/index.m3u8
 http://194.8.128.38:8080/ort/playlist.m3u8
 #EXTINF:-1 tvg-id="pervy" tvg-name="Первый канал HD" tvg-logo="http://epg.one/img/983.png" group-title="Россия", Первый канал FHD
 #EXTGRP:Россия
-http://iptv46.mcx-ix.ru:8077/ort_hd/index.m3u8
+http://cdn.kubteltv.workers.dev/?ID=421
 #EXTINF:-1 tvg-id="pervy-kanal-eu" tvg-name="Первый канал Европа" tvg-logo="http://epg.one/img/4830.png" group-title="Россия", Первый Канал Европа
 #EXTGRP:Россия
 https://streaming.thestream.cyou/live/210-req_offset_28000000-req_window_0-1k_v5.m3u8
@@ -233,7 +233,7 @@ https://ucdn.beetv.kz/bpk-tv/000001227/tve/index.m3u8
 http://185.46.16.239:8000/Pyatnitsa
 #EXTINF:-1 tvg-id="piatnica" tvg-name="Пятница! HD" tvg-logo="http://epg.one/img/2765.png" group-title="Россия", Пятница! HD
 #EXTGRP:Россия
-http://iptv46.mcx-ix.ru:8077/pyatnica_hd/index.m3u8
+http://cdn.kubteltv.workers.dev/?ID=380
 #EXTINF:-1 tvg-id="piatnica-int" tvg-name="Пятница International" tvg-logo="https://avatars.mds.yandex.net/i?id=6e89c0754d8e6800feb8f51ae53f5192eb27ea76-5222505-images-thumbs&n=13" group-title="Россия", Пятница International
 #EXTGRP:Россия
 https://ucdn.beetv.kz/bpk-tv/000007816/tve/index.m3u8
@@ -307,7 +307,7 @@ http://217.114.191.150/Subbota/index.m3u8
 http://185.46.16.239:8000/TV3
 #EXTINF:-1 tvg-id="tv3-ru" tvg-name="ТВ3 HD" tvg-logo="http://epg.one/img/698.png" group-title="Россия", ТВ3 HD
 #EXTGRP:Россия
-http://iptv46.mcx-ix.ru:8077/tv3_hd/index.m3u8
+http://cdn.kubteltv.workers.dev/?ID=379
 #EXTINF:-1 tvg-id="tv3-int" tvg-name="ТВ3 International" tvg-logo="https://avatars.mds.yandex.net/i?id=8eb6e54feabff4269b2b5bca31f0abdffeefb21a-7552730-images-thumbs&n=13" group-title="Россия", ТВ3 International
 #EXTGRP:Россия
 https://ucdn.beetv.kz/bpk-tv/000004712/tve/index.m3u8
@@ -2282,7 +2282,7 @@ http://176.118.197.101/RodnoeKino/index.m3u8
 http://185.234.59.200:8080/romantichnoe_hd/index.m3u8
 #EXTINF:-1 tvg-id="russky-bestseller" tvg-name="Русский бестселлер" tvg-logo="http://epg.one/img/994.png" group-title="Кино", Русский бестселлер
 #EXTGRP:Кино
-http://iptv46.mcx-ix.ru:8077/rus-bestseller/index.m3u8
+http://cdn.kubteltv.workers.dev/?ID=356
 #EXTINF:-1 tvg-id="russky-detektiv" tvg-name="Русский детектив" tvg-logo="http://epg.one/img/1570.png" group-title="Кино", Русский детектив
 #EXTGRP:Кино
 http://cdn.kubteltv.workers.dev/?ID=357
@@ -3058,13 +3058,13 @@ https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
 https://a3285272783-s80718.cdn.ngenix.net//hls//CH_KHL//video_800x450_avc1/playlist.m3u8
 #EXTINF:-1 tvg-id="kxl" tvg-name="KHL" tvg-logo="http://epg.one/img/2048.png" group-title="Спорт", KHL TV Channel (резерв)
 #EXTGRP:Спорт
-http://iptv46.mcx-ix.ru:8077/khl/index.m3u8
+https://stream8.cinerama.uz/1028/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="kxl-hd" tvg-name="KHL Prime HD" tvg-logo="http://epg.one/img/1038.png" group-title="Спорт", KHL Prime HD
 #EXTGRP:Спорт
-http://86.57.209.210/KHL_HD/index.m3u8
+http://185.234.59.200:8080/khl_prime_hd/index.m3u8
 #EXTINF:-1 tvg-id="kxl-hd" tvg-name="KHL Prime HD" tvg-logo="http://epg.one/img/1038.png" group-title="Спорт", KHL Prime HD (резерв)
 #EXTGRP:Спорт
-http://iptv46.mcx-ix.ru:8077/khl_hd/index.m3u8
+http://87.246.54.249:8080/KHL/mpegts
 #EXTINF:-1 tvg-id="max-sport-1" tvg-name="MAX Sport 1 HD" tvg-logo="https://epg.iptvx.one/picons/max-sport-1.png" group-title="Спорт", MAX Sport 1 HD
 #EXTGRP:Спорт
 http://87.246.54.249:8080/MaxSport1/index.m3u8
