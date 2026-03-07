@@ -2522,6 +2522,12 @@ http://kinowalk.hopto.org/dfsfsdg_live
 #EXTINF:-1 tvg-name="Стримканал. Эквилибриум" tvg-logo="https://images.live.vkvideo.ru/user/20745126/avatar?change_time=1746520742&croped=1&mh=140&mw=140" group-title="Кинозал", Стримканал. Эквилибриум
 #EXTGRP:Кинозал
 http://kinowalk.hopto.org/equilibrium_live
+#EXTINF:-1 tvg-name="Стримканал. AASS" tvg-logo="https://avatars.mds.yandex.net/i?id=555d891d488c5365011716af505489b85bf0170c-9044089-images-thumbs&n=13" group-title="Кинозал", Стримканал. AASS
+#EXTGRP:Кинозал
+http://kinowalk.hopto.org/aaasss_live
+#EXTINF:-1 tvg-name="Стримканал. Aisman" tvg-logo="https://images.live.vkvideo.ru/user/13253802/avatar?change_time=1768739676&croped=1&mh=140&mw=140" group-title="Кинозал", Стримканал. Aisman
+#EXTGRP:Кинозал
+http://kinowalk.hopto.org/aisman_live
 #EXTINF:-1 tvg-name="Стримканал. Akudji" tvg-logo="https://images.live.vkvideo.ru/user/19223927/avatar?change_time=1753304099&croped=1&mh=140&mw=140" group-title="Кинозал", Стримканал. Akudji
 #EXTGRP:Кинозал
 http://kinowalk.hopto.org/akudjitv_live
