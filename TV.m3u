@@ -2377,12 +2377,10 @@ http://sirius.greenhosting.ru/Kino24Ru/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="plan-b" tvg-name="Plan B HD" tvg-logo="http://epg.one/img/6643.png" group-title="Кино", Plan B HD
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000007625/tve/index.m3u8
+
 #EXTINF:-1 tvg-name="ReanimatoR VHS" tvg-logo="https://images.live.vkvideo.ru/user/19638295/avatar?change_time=1758747161&croped=1&mh=140&mw=140" group-title="Кино", ReanimatoR VHS
 #EXTGRP:Кино
 http://kinowalk.hopto.org/reanimator_vhs_live
-#EXTINF:-1 tvg-id="romance" tvg-name="Romance HD" tvg-logo="http://epg.one/img/9179.png" group-title="Кино", Romance HD
-#EXTGRP:Кино
-https://ucdn.beetv.kz/bpk-tv/000008780/tve/index.m3u8
 #EXTINF:-1 tvg-name="Rus serials" tvg-logo="https://images.live.vkvideo.ru/user/25125777/avatar?change_time=1768089850&croped=1&mh=140&mw=140" group-title="Кино", Rus serials
 #EXTGRP:Кино
 http://kinowalk.hopto.org/zzz881_live
@@ -2404,6 +2402,13 @@ http://kinowalk.hopto.org/serial4u_live
 #EXTINF:-1 tvg-name="SerialTV" tvg-logo="https://images.live.vkvideo.ru/user/30346500/avatar?change_time=1767118302&croped=1&mh=140&mw=140" group-title="Кино", SerialTV
 #EXTGRP:Кино
 http://kinowalk.hopto.org/serialtv_live
+
+
+
+
+#EXTINF:-1 tvg-id="romance" tvg-name="Romance HD" tvg-logo="http://epg.one/img/9179.png" group-title="Кино", Romance HD
+#EXTGRP:Кино
+https://ucdn.beetv.kz/bpk-tv/000008780/tve/index.m3u8
 #EXTINF:-1 tvg-id="star-cinema" tvg-name="Star Cinema Россия" tvg-logo="http://epg.one/img/3328.png" group-title="Кино", Star Cinema Россия HD
 #EXTGRP:Кино
 http://185.234.59.200:8080/star_cinema_hd/index.m3u8
