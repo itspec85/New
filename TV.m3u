@@ -1999,6 +1999,9 @@ http://185.46.16.239:8000/Mir_24
 #EXTINF:-1 tvg-id="multimania" tvg-name="Мультиландия" tvg-logo="http://epg.one/img/2757.png" group-title="Детские", Мультиландия
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000000203/tve/index.m3u8
+#EXTINF:-1 tvg-name="Мультфильмы 24/7" tvg-logo="https://avatars.mds.yandex.net/i?id=0e600e8178d31d9586af225dcd0691d061724a2f-16334725-images-thumbs&n=13" group-title="Детские", Мультфильмы 24/7
+#EXTGRP:Детские
+http://kinowalk.hopto.org/mezontrop_live
 #EXTINF:-1 tvg-name="Мультфильмы СССР" tvg-logo="https://avatars.mds.yandex.net/i?id=e793f0057d98d2c9a8bd2536740412cb7c3a2982-4444989-images-thumbs&n=13" group-title="Детские", Мультфильмы СССР
 #EXTGRP:Детские
 https://live20.bozztv.com/giatvplayout7/ushba80/tracks-v1a1/mono.ts.m3u8
@@ -2097,6 +2100,9 @@ http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1 tvg-id="jimjam" tvg-name="JimJam" tvg-logo="http://epg.one/img/494.png" group-title="Детские", Jim Jam
 #EXTGRP:Детские
 http://158.160.149.81:8080/269/index.m3u8
+#EXTINF:-1 tvg-name="JTX Online" tvg-logo="https://avatars.mds.yandex.net/i?id=990c233d43556f00f1c7f93bfffa9b0ba44ae70b-3693917-images-thumbs&n=13" group-title="Детские", JTX Online
+#EXTGRP:Детские
+http://kinowalk.hopto.org/jtxonline_live
 #EXTINF:-1 tvg-id="nick-jr" tvg-name="Nick Jr" tvg-logo="http://epg.one/img/917.png" group-title="Детские", Nick Jr
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000000449/tve/index.m3u8
@@ -2106,6 +2112,9 @@ https://ucdn.beetv.kz/bpk-tv/000000499/tve/index.m3u8
 #EXTINF:-1 tvg-id="nicktoons" tvg-name="NickToons" tvg-logo="http://epg.one/img/2994.png" group-title="Детские", NickToons
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000004365/tve/index.m3u8
+#EXTINF:-1 tvg-name="NikNik-TV" tvg-logo="https://avatars.mds.yandex.net/i?id=a1abdf3a59c91c7bbfc145e5a583e5183fd1e7df-4080720-images-thumbs&n=13" group-title="Детские", NikNik-TV
+#EXTGRP:Детские
+https://hostrec.ru/live/wic2AtEFCLwsZcUkAgtZcjlYgjc.m3u8
 #EXTINF:-1 tvg-id="salemalem-kz" tvg-name="Sälem älem!" tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/28afaf58f765c2ebf009_250x250c.jpg" group-title="Детские", Sälem älem!
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000008864/tve/index.m3u8
