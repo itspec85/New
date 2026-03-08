@@ -1899,7 +1899,10 @@ http://176.118.197.125/RTG-TV/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000000039/tve/index.m3u8
 #EXTINF:-1 tvg-id="russky-ekstrim" tvg-name="Russian Extreme HD" tvg-logo="http://epg.one/img/4110.png" group-title="Познавательные", Russian Extreme HD
 #EXTGRP:Познавательные
-http://85.208.223.249:8888/play/a004
+http://cdn.kubteltv.workers.dev/?ID=358
+#EXTINF:-1 tvg-id="russian-extreme-uhd" tvg-name="Russian Extreme UHD" tvg-logo="http://epg.one/img/4110.png" group-title="Познавательные", Russian Extreme UHD
+#EXTGRP:Познавательные
+http://minsk-cache07t.voka.tv/live/1042-req_5k_v5.m3u8
 #EXTINF:-1 tvg-id="terra-ru" tvg-name="TERRA" tvg-logo="http://epg.one/img/7632.png" group-title="Познавательные", TERRA
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000008142/tve/index.m3u8
