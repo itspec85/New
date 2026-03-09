@@ -4459,7 +4459,10 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8
 #EXTINF:-1 tvg-name="ATV AZ" tvg-logo="https://avatars.mds.yandex.net/i?id=0951c25562181a03d31e9b44d854fb138a4a2001-8539554-images-thumbs&n=13" group-title="Азербайджан", ATV AZ
 #EXTGRP:Азербайджан
-https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920.m3u8
+http://live.mediabaytv.workers.dev/?ID=86
+#EXTINF:-1 tvg-name="ATV Cinema" tvg-logo="https://avatars.mds.yandex.net/i?id=99f3502de1232d0eadfb83f94f9d94a9e28a6aff-4884685-images-thumbs&n=13" group-title="Азербайджан", ATV Cinema
+#EXTGRP:Азербайджан
+http://boxviptv.com:25461/0519114447/0519114447/880
 #EXTINF:-1 tvg-name="Ayaz TV" tvg-logo="https://vipotv.com/wp-content/uploads/2024/07/ayaz-tv-izle-vipotv.png" group-title="Азербайджан", Ayaz TV
 #EXTGRP:Азербайджан
 https://janya-ayaztv.vgcdn.net/ptnr-Vipo%20TV/title-Ayaz_TV/v1/vglive-sk-934820/AyazTV_1500k.m3u8
@@ -4474,19 +4477,19 @@ http://str.yodacdn.net/azertv/playlist.m3u8
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/baku-tv.m3u8
 #EXTINF:-1 tvg-id="cbc-az" tvg-name="CBC AZ" tvg-logo="http://epg.one/img/2158.png" group-title="Азербайджан", CBC AZ
 #EXTGRP:Азербайджан
-https://stream.cbctv.az:5443/LiveApp/streams/cbctv.m3u8
+http://boxviptv.com:25461/0519114447/0519114447/1213
 #EXTINF:-1 tvg-name="Dünya TV" tvg-logo="https://i.imgur.com/A3yaU4J.png" group-title="Азербайджан", Dünya TV
 #EXTGRP:Азербайджан
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/dunya-tv.m3u8
-#EXTINF:-1 tvg-name="FTV AZ" tvg-logo="https://avatars.mds.yandex.net/i?id=1e93c5b3e6181d7e9400a98fb1b4b16775109796-8522161-images-thumbs&n=13" group-title="Азербайджан", FTV AZ
-#EXTGRP:Азербайджан
-https://vsrv1.az-streamingserver.com:3833/live/ofhwiwudlive.m3u8
 #EXTINF:-1 tvg-id="ictimai-tv" tvg-name="Ictimai TV" tvg-logo="http://epg.one/img/2555.png" group-title="Азербайджан", Ictimai TV AZ
 #EXTGRP:Азербайджан
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/ictimai-tv.m3u8
 #EXTINF:-1 tvg-id="idman" tvg-name="Idman TV" tvg-logo="http://epg.one/img/2637.png" group-title="Азербайджан", Idman TV
 #EXTGRP:Азербайджан
 http://str1.yodacdn.net/idmantele/playlist.m3u8
+#EXTINF:-1 tvg-name="Kanal 65" tvg-logo="https://avatars.mds.yandex.net/i?id=0858e6aca6830425f4c9104d4e66c4ec1e0c2095-5291886-images-thumbs&n=13" group-title="Азербайджан", Kanal 65
+#EXTGRP:Азербайджан
+https://a8.radyotelekom.com.tr:3063/stream/play.m3u8
 #EXTINF:-1 tvg-name="Könül TV Music" tvg-logo="https://avatars.mds.yandex.net/i?id=35d4d6e66826ece1a7c35917675f30e349bcdc6e-4087837-images-thumbs&n=13" group-title="Азербайджан", Könül TV Music
 #EXTGRP:Азербайджан
 https://cdn4.yayin.com.tr/bakixebertv/video.m3u8
@@ -4519,7 +4522,7 @@ https://rtmp.showplus.tv/hls/myshow.m3u8
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Son Ümi̇d TV" tvg-logo="https://i.postimg.cc/KYd9RVqF/In-Shot-20250209-195931309.png" group-title="Азербайджан", Son Ümi̇d TV
 #EXTGRP:Азербайджан
-https://cdn-sonumidtv.yayin.com.tr/sonumidtv/sonumidtv/playlist.m3u8
+https://cdn-sonumidtv.yayin.com.tr/sonumidtv/sonumidtv/chunklist_w2128397060.m3u8
 #EXTINF:-1 tvg-name="Space TV AZ" tvg-logo="http://epg.one/img/2553.png" group-title="Азербайджан", Space TV AZ
 #EXTGRP:Азербайджан
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8
