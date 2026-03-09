@@ -252,7 +252,7 @@ http://online.video.rbc.ru/online/rbctv_720p/index.m3u8
 https://e5-online-video.rbc.ru/online2/rbctvhd_1080p/index.m3u8
 #EXTINF:-1 tvg-id="rentv" tvg-name="Рен ТВ" tvg-logo="http://epg.one/img/18.png" group-title="Россия", РЕН ТВ
 #EXTGRP:Россия
-http://185.46.16.239:8000/REN_TV
+http://85.192.10.131/hls/rentv/playlist.m3u8
 #EXTINF:-1 tvg-id="rentv" tvg-name="Рен ТВ HD" tvg-logo="http://epg.one/img/2487.png" group-title="Россия", Рен ТВ HD
 #EXTGRP:Россия
 http://cdn.kubteltv.workers.dev/?ID=376
