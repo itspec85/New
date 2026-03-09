@@ -168,6 +168,9 @@ https://ucdn.beetv.kz/bpk-tv/000001213/tve/index.m3u8
 #EXTINF:-1 tvg-id="domashny" tvg-name="Домашний" tvg-logo="http://epg.one/img/304.png" group-title="Россия", Домашний
 #EXTGRP:Россия
 http://185.46.16.239:8000/Domashniy
+#EXTINF:-1 tvg-id="domashny" tvg-name="Домашний" tvg-logo="http://epg.one/img/304.png" group-title="Россия", Домашний HD
+#EXTGRP:Россия
+http://tv.padarok.workers.dev/?ID=548
 #EXTINF:-1 tvg-id="domashny-int" tvg-name="Домашний International" tvg-logo="https://iptvx.one/picons/domashny-int.png" group-title="Россия", Домашний International
 #EXTGRP:Россия
 https://ucdn.beetv.kz/bpk-tv/000002348/tve/index.m3u8
