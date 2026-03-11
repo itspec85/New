@@ -4871,9 +4871,9 @@ https://stream8.cinerama.uz/1016/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="1plus1" tvg-name="1+1 Марафон UA" tvg-logo="http://epg.one/img/2194.png" group-title="Украина", 1+1 Марафон UA
 #EXTGRP:Украина
 http://ukr.ukrainske.tv/399/keytvainua/video.m3u8
-#EXTINF:-1 tvg-id="1plus1-ukraina" tvg-name="1+1 Україна" tvg-logo="http://epg.one/img/8897.png" group-title="Украина", 1+1 Україна HD
+#EXTINF:-1 tvg-id="2plus2" tvg-name="2+2 HD" tvg-logo="http://epg.one/img/2195.png" group-title="Украина", 2+2 HD UA
 #EXTGRP:Украина
-http://2.57.217.85:8000/play/a01j/index.m3u8
+http://cdn-bal.srv4you.net/0152/mpegts
 #EXTINF:-1 tvg-id="5kanal-ua" tvg-name="5 канал UA" tvg-logo="http://epg.one/img/2079.png" group-title="Украина", 5 канал UA
 #EXTGRP:Украина
 http://ext.cdn.nashnet.tv/228.0.4.26/index.m3u8
@@ -4886,18 +4886,36 @@ http://streamvideol.luxnet.ua/news24/news24.stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="apostrof" tvg-name="Апостроф TV" tvg-logo="http://epg.one/img/3290.png" group-title="Украина", Апостроф TV
 #EXTGRP:Украина
 http://ext.cdn.nashnet.tv/228.0.2.165/index.m3u8
+#EXTINF:-1 tvg-id="armia-tv-ua" tvg-name="Армія ТБ" tvg-logo="http://epg.one/img/8886.png" group-title="Украина", Армія TV HD UA
+#EXTGRP:Украина
+https://api-tv.ipnet.ua/api/v1/manifest/2118742632.m3u8
 #EXTINF:-1 tvg-name="Балта ТВ" tvg-logo="https://avatars.mds.yandex.net/i?id=64754581c4ae415f4859c0edf1509fa9_sr-4825035-images-thumbs&n=13" group-title="Украина", Балта ТВ
 #EXTGRP:Украина
 http://194.50.51.34/playlist.m3u8
 #EXTINF:-1 tvg-id="inter-ua" tvg-name="Интер" tvg-logo="http://epg.one/img/2106.png" group-title="Украина", Интер
 #EXTGRP:Украина
 http://cdn-bal.srv4you.net/0153/mpegts
+#EXTINF:-1 tvg-id="k1-ua" tvg-name="К1 HD" tvg-logo="http://epg.one/img/2100.png" group-title="Украина", К1 HD UA
+#EXTGRP:Украина
+http://cdn-bal.srv4you.net/0158/mpegts
+#EXTINF:-1 tvg-id="k2-ua" tvg-name="К2 HD" tvg-logo="http://epg.one/img/2099.png" group-title="Украина", К2 HD UA
+#EXTGRP:Украина
+http://cdn-bal.srv4you.net/0169/mpegts
 #EXTINF:-1 tvg-id="ua-kyiv" tvg-name="Київ HD" tvg-logo="http://epg.one/img/2227.png" group-title="Украина", Київ HD
 #EXTGRP:Украина
 https://ext.cdn.nashnet.tv/228.0.0.15/index.m3u8
 #EXTINF:-1 tvg-id="kvartal-tv" tvg-name="Kvartal TV UA" tvg-logo="http://epg.one/img/2101.png" group-title="Украина", Kvartal TV UA
 #EXTGRP:Украина
 https://iptv.prosto.tv/ch65/video.m3u8
+#EXTINF:-1 tvg-id="mega-ua" tvg-name="Мега" tvg-logo="http://epg.one/img/2098.png" group-title="Украина", Мега HD UA
+#EXTGRP:Украина
+http://cdn-bal.srv4you.net/0171/mpegts
+#EXTINF:-1 tvg-id="my-ukraina-plus" tvg-name="Ми - Україна+" tvg-logo="http://epg.one/img/8855.png" group-title="Украина", Ми - Україна+
+#EXTGRP:Украина
+https://api-tv.ipnet.ua/api/v1/manifest/2118742680.m3u8
+#EXTINF:-1 tvg-id="ntn-ua" tvg-name="НТН HD" tvg-logo="http://epg.one/img/2105.png" group-title="Украина", НТН HD UA
+#EXTGRP:Украина
+http://cdn-bal.srv4you.net/0157/mpegts
 #EXTINF:-1 tvg-id="otse" tvg-name="Оце" tvg-logo="http://epg.one/img/3351.png" group-title="Украина", ОЦЕ
 #EXTGRP:Украина
 https://iptv.prosto.tv/ch18/video.m3u8
@@ -4907,6 +4925,9 @@ https://ext.cdn.nashnet.tv/228.0.0.122/index.m3u8
 #EXTINF:-1 tvg-id="rada-ua" tvg-name="Рада" tvg-logo="http://epg.one/img/2118.png" group-title="Украина", Рада
 #EXTGRP:Украина
 https://ext.cdn.nashnet.tv/228.0.0.24/index.m3u8
+#EXTINF:-1 tvg-id="stb-ua" tvg-name="СТБ HD" tvg-logo="http://epg.one/img/3309.png" group-title="Украина", СТБ HD UA
+#EXTGRP:Украина
+http://cdn-bal.srv4you.net/0160/mpegts
 #EXTINF:-1 tvg-id="tet-ua" tvg-name="ТЕТ" tvg-logo="http://epg.one/img/2171.png" group-title="Украина", ТЕТ
 #EXTGRP:Украина
 https://iptv.prosto.tv/ch7/video.m3u8
