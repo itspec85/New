@@ -2373,6 +2373,9 @@ https://ucdn.beetv.kz/bpk-tv/000007815/tve/index.m3u8
 #EXTINF:-1 tvg-id="start-world" tvg-name="START World" tvg-logo="http://epg.one/img/6240.png" group-title="Кино", START World HD
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000007818/tve/index.m3u8
+#EXTINF:-1 tvg-name="SunsetOne" tvg-logo="https://i.postimg.cc/0jSkDzbr/Sun.jpg" group-title="Кино", SunsetOne
+#EXTGRP:Кино
+https://str-01.sunset-media.org/SunsetOne/index.m3u8
 #EXTINF:-1 tvg-id="suspense" tvg-name="Suspense HD" tvg-logo="http://epg.one/img/9180.png" group-title="Кино", Suspense HD
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000008739/tve/index.m3u8
@@ -2557,6 +2560,9 @@ http://kinowalk.hopto.org/dimpon_live
 #EXTINF:-1 tvg-name="Стримканал. DJ Zour" tvg-logo="https://avatars.mds.yandex.net/i?id=555d891d488c5365011716af505489b85bf0170c-9044089-images-thumbs&n=13" group-title="Кинозал", Стримканал. DJ Zour
 #EXTGRP:Кинозал
 http://kinowalk.hopto.org/zsmedia_live
+#EXTINF:-1 tvg-name="Стримканал. DTR Zona 1" tvg-logo="https://okotv.ru/img/logos/dc/ru-dtrzona1.png" group-title="Кинозал", Стримканал. DTR Zona 1
+#EXTGRP:Кинозал
+https://kino-stream.online/hls/DTRZONA1.m3u8
 #EXTINF:-1 tvg-name="Стримканал. EvGAMEN" tvg-logo="https://lh3.googleusercontent.com/a/ACg8ocJRCQczrVJsPbG0Q7qgMvphfUBuJiGktsI7wwPXSYxQCcGPBu8=s96-c" group-title="Кинозал", Стримканал. EvGAMEN
 #EXTGRP:Кинозал
 http://kinowalk.hopto.org/evgamen_movies_live
