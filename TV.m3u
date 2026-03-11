@@ -1540,6 +1540,9 @@ https://ucdn.beetv.kz/bpk-tv/000000588/tve/index.m3u8
 #EXTINF:-1 tvg-id="zhivi" tvg-name="ЖИВИ!" tvg-logo="http://epg.one/img/113.png" group-title="Познавательные", ЖИВИ!
 #EXTGRP:Познавательные
 https://stream8.cinerama.uz/1419/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="zhivi-aktivno" tvg-name="Живи активно" tvg-logo="http://epg.one/img/113.png" group-title="Познавательные", Живи активно
+#EXTGRP:Познавательные
+https://stream8.cinerama.uz/1405/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="За!ТВ" tvg-logo="https://avatars.mds.yandex.net/i?id=3392ef595a598b716b3a9c5e8939f4338114f599-5287388-images-thumbs&n=13" group-title="Познавательные", За!ТВ
 #EXTGRP:Познавательные
 https://streaming.televizor-24-tochka.ru/live/25-req_offset_28000000-req_window_0-1k_v5.m3u8
@@ -1852,6 +1855,9 @@ https://ucdn.beetv.kz/bpk-tv/000001000/tve/index.m3u8
 #EXTINF:-1 tvg-id="h2" tvg-name="History2" tvg-logo="http://epg.one/img/2356.png" group-title="Познавательные", H2 HD
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000002722/tve/index.m3u8
+#EXTINF:-1 tvg-id="insight-tv-hd" tvg-name="Insight TV HD" tvg-logo="https://epg.iptvx.one/picons/insight-tv-hd.png" group-title="Познавательные", Insight TV HD
+#EXTGRP:Познавательные
+https://stream8.cinerama.uz/1416/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="id-xtra-eu" tvg-name="Investigation Discovery" tvg-logo="http://epg.one/img/2507.png" group-title="Познавательные", Investigation Discovery
 #EXTGRP:Познавательные
 http://109.75.59.241:8017/ID/index.m3u8
@@ -1906,6 +1912,9 @@ http://minsk-cache07t.voka.tv/live/1042-req_5k_v5.m3u8
 #EXTINF:-1 tvg-id="terra-ru" tvg-name="TERRA" tvg-logo="http://epg.one/img/7632.png" group-title="Познавательные", TERRA
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000008142/tve/index.m3u8
+#EXTINF:-1 tvg-id="the-explorers" tvg-name="The Explorers" tvg-logo="http://epg.one/img/9082.png" group-title="Познавательные", The Explorers
+#EXTGRP:Познавательные
+https://a3569457567-s70378.cdn.ngenix.net/the_explorers/2/index.m3u8
 #EXTINF:-1 tvg-id="tlc" tvg-name="TLC" tvg-logo="http://epg.one/img/2345.png" group-title="Познавательные", TLC
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000001498/tve/index.m3u8
@@ -2337,9 +2346,12 @@ http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="filmua-drama" tvg-name="Film.UA Drama" tvg-logo="http://epg.one/img/8911.png" group-title="Кино", Film UA Drama
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000003028/tve/index.m3u8
-#EXTINF:-1 tvg-id="filmbox-arthouse" tvg-name="Filmbox Arthouse" tvg-logo="http://epg.one/img/2182.png" group-title="Кино", Filmbox Arthouse
+#EXTINF:-1 tvg-id="filmbox-ru" tvg-name="FilmBox Russia" tvg-logo="http://epg.one/img/2181.png" group-title="Кино", FilmBox
 #EXTGRP:Кино
-http://iptv.prosto.tv:7000/ch63/video.m3u8
+https://a3569457567-s70378.cdn.ngenix.net/filmbox/1/index.m3u8
+#EXTINF:-1 tvg-id="filmbox-arthouse" tvg-name="FilmBox ArtHouse" tvg-logo="http://epg.one/img/2182.png" group-title="Кино", FilmBox ArtHouse
+#EXTGRP:Кино
+https://a3569457567-s70378.cdn.ngenix.net/filmbox_arthouse/1/index.m3u8
 #EXTINF:-1 tvg-id="flixsnip" tvg-name="Flix Snip" tvg-logo="http://epg.one/img/774.png" group-title="Кино", Flix Snip
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000004466/tve/index.m3u8
@@ -2969,6 +2981,12 @@ http://kstv.us:8080/c2Q2HDqQfM/111770/15941
 #EXTINF:-1 tvg-name="Pac 12 Insider USA" tvg-logo="https://i.imgur.com/736QREy.png" group-title="Спорт", Pac 12 Insider USA
 #EXTGRP:Спорт
 https://pac12-roku-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="PFL MMA" tvg-logo="https://avatars.mds.yandex.net/i?id=6ebeea0173bf97f3e27bb9e6977dd3bbce2fa087-12421956-images-thumbs&n=13" group-title="Спорт", PFL MMA
+#EXTGRP:Спорт
+https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-643f0ecd76de2b4015ae6c01.m3u8
+#EXTINF:-1 tvg-name="Poker Night TV" tvg-logo="https://avatars.mds.yandex.net/i?id=db8c760bd347d63acef0463dba83995b29c11630-4576282-images-thumbs&n=13" group-title="Спорт", Poker Night TV
+#EXTGRP:Спорт
+https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-60afc726623f2f002c5bb49f.m3u8
 #EXTINF:-1 tvg-name="PokerGo" tvg-logo="https://avatars.mds.yandex.net/i?id=7822bfec4e4ddfe39ced9e298ca559e312340267-5295169-images-thumbs&n=13" group-title="Спорт", PokerGo
 #EXTGRP:Спорт
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fc54366b04b2300072e31af/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b6274-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a68d07ef-a794-43f8-a287-3bd7f27d909b
