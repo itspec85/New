@@ -4442,6 +4442,8 @@ http://185.57.68.33:80/233/index.m3u8
 #EXTINF:-1 tvg-name="Գեղամա TV" tvg-logo="https://mytv.do.am/logo/geghama.png" group-title="Армения", Գեղամա TV
 #EXTGRP:Армения
 http://45.11.139.43:8555/geghama/index.m3u8
+
+https://a3569457567-s70378.cdn.ngenix.net/h1/1/index.m3u8
 #EXTINF:-1 tvg-name="Lurer" tvg-logo="http://epg.one/img/5930.png" group-title="Армения", Lurer
 #EXTGRP:Армения
 https://amtv.bozztv.com/amtv3/am3abr/tracks-v1a1/mono.m3u8
@@ -4466,6 +4468,9 @@ http://livestream.usatv.com/hls/m3u8/USARMENIA_NET1080.m3u8
 #EXTINF:-1 tvg-name="Ֆիթնես TV" tvg-logo="https://mytv.do.am/logo/fitnes.png" group-title="Армения", Ֆիթնես TV
 #EXTGRP:Армения
 http://45.11.139.43:8555/fitnes/index.m3u8
+#EXTINF:-1 tvg-name="Shoghakat TV" tvg-logo="https://www.shoghakat.am/sites/default/files/shem.jpg" group-title="Армения", Shoghakat TV
+#EXTGRP:Армения
+https://a3569457567-s70378.cdn.ngenix.net/shoghakat/2/index.m3u8
 
 
 
