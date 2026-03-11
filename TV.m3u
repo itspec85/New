@@ -1783,6 +1783,12 @@ https://ucdn.beetv.kz/bpk-tv/000008052/tve/index.m3u8
 #EXTINF:-1 tvg-id="bloomberg" tvg-name="Bloomberg TV USA" tvg-logo="https://avatars.mds.yandex.net/i?id=9bdd7c5b9b6a9fa55348eada7a515346ada82991-12371687-images-thumbs&n=13" group-title="Познавательные", Bloomberg TV USA
 #EXTGRP:Познавательные
 https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
+#EXTINF:-1 tvg-id="box-game" tvg-name="BOX Game HD" tvg-logo="http://epg.one/img/6704.png" group-title="Познавательные", BOX Game HD
+#EXTGRP:Познавательные
+http://hls127.freeott.top:8080/box_game_hd/video.m3u8
+#EXTINF:-1 tvg-id="box-travel" tvg-name="BOX Travel HD" tvg-logo="http://epg.one/img/6831.png" group-title="Познавательные", BOX Travel HD
+#EXTGRP:Познавательные
+http://hls127.freeott.top:8080/box_travel_hd/video.m3u8
 #EXTINF:-1 tvg-id="cars-n-stars" tvg-name="Cars & Stars TV" tvg-logo="https://iptvx.one/picons/cars-n-stars.png" group-title="Познавательные", Cars & Stars TV
 #EXTGRP:Познавательные
 https://iptv.prosto.tv/ch111/video.m3u8
@@ -2683,6 +2689,9 @@ http://hls127.freeott.top:8080/BCUKinoratingHD/mono.m3u8
 #EXTINF:-1 tvg-id="bcu-stars" tvg-name="BCU Stars HD" tvg-logo="http://epg.one/img/4765.png" group-title="Кинозал", BCU Stars HD
 #EXTGRP:Кинозал
 http://hls127.freeott.top:8080/BCUStarsHD/mono.m3u8
+#EXTINF:-1 tvg-id="box-anime" tvg-name="BOX Anime HD" tvg-logo="http://epg.one/img/6698.png" group-title="Кинозал", BOX Anime HD
+#EXTGRP:Кинозал
+http://hls127.freeott.top:8080/box_anime_hd/video.m3u8
 #EXTINF:-1 tvg-name="CPS Action" tvg-logo="https://avatars.mds.yandex.net/i?id=d0cd0536644c44380ed9a5f1fc4f51bd2169a5dd-5335451-images-thumbs&n=13" group-title="Кинозал", CPS Action
 #EXTGRP:Кинозал
 http://hls127.freeott.top:8080/CPS_Action/video.m3u8
