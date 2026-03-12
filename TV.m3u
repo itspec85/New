@@ -2947,7 +2947,7 @@ https://stream8.cinerama.uz/1028/tracks-v1a1/mono.m3u8
 https://mhd128.iptv2022.com/p/4PvJct0y-W7IUnGuxuZqbQ,1773345190/streaming/khlhd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="kxl-hd" tvg-name="KHL Prime HD" tvg-logo="http://epg.one/img/1038.png" group-title="Спорт", KHL Prime HD (резерв)
 #EXTGRP:Спорт
-http://arbiter.bolshoe.tv/?path=abr2/khlHD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDI2IDc6NTY6MDIgUE0maGFzaF92YWx1ZT1QeHdFa2pyb21xUkhjN3U3clVCY2dBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+http://arbiter.bolshoe.tv/?path=abr2/khlHD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9My8xMS8yMDI2IDc6NTM6MTcgUE0maGFzaF92YWx1ZT1WMndBMEF2Zm8ra1JlRFV5V09VQzdBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 #EXTINF:-1 tvg-id="max-sport-1" tvg-name="MAX Sport 1 HD" tvg-logo="https://epg.iptvx.one/picons/max-sport-1.png" group-title="Спорт", MAX Sport 1 HD
 #EXTGRP:Спорт
 http://87.246.54.249:8080/MaxSport1/index.m3u8
