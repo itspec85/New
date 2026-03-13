@@ -2138,9 +2138,12 @@ https://mhd128.iptv2022.com/p/ohK2kEGldl7ko9lS4VJ1CA,1773431688/streaming/den-po
 #EXTINF:-1 tvg-id="domkino" tvg-name="Дом кино" tvg-logo="http://epg.one/img/834.png" group-title="Кино", Дом Кино
 #EXTGRP:Кино
 http://176.96.241.40/DomKino/index.m3u8
+#EXTINF:-1 tvg-id="domkino-premium" tvg-name="Дом Кино Премиум" tvg-logo="http://epg.one/img/2020.png" group-title="Кино", Дом Кино Премиум
+#EXTGRP:Кино
+http://minsk-cache07t.voka.tv/live/5111-req_5k_v5.m3u8
 #EXTINF:-1 tvg-id="domkino-premium" tvg-name="Дом Кино Премиум HD" tvg-logo="http://epg.one/img/2020.png" group-title="Кино", Дом Кино Премиум HD
 #EXTGRP:Кино
-http://109.75.59.241:8017/Domkino/index.m3u8
+http://cdn.kubteltv.workers.dev/?ID=272
 #EXTINF:-1 tvg-id="dorama" tvg-name="Дорама" tvg-logo="http://epg.one/img/2174.png" group-title="Кино", Дорама
 #EXTGRP:Кино
 http://193.27.209.122/dorama/index.m3u8
