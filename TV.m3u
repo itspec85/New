@@ -2895,7 +2895,7 @@ http://cord-cutter.net:8080/LeeAv21/AvantL12/14197
 https://ucdn.beetv.kz/bpk-tv/000002478/tve/index.m3u8
 #EXTINF:-1 tvg-id="eurosport1" tvg-name="Eurosport 1 HD" tvg-logo="http://epg.one/img/2052.png" group-title="Спорт", Eurosport 1 HD
 #EXTGRP:Спорт
-http://87.76.32.36:8001/eurosport1hd
+http://176.96.241.40/Eurosport1/index.m3u8
 #EXTINF:-1 tvg-id="eurosport1-pl" tvg-name="Eurosport 1 HD [PL]" tvg-logo="http://epg.one/img/2052.png" group-title="Спорт", Eurosport 1 RS (Сербия)
 #EXTGRP:Спорт
 http://185.112.249.46:9981/stream/channelid/718615486?profile=pass
