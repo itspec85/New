@@ -1485,7 +1485,7 @@ https://stream8.cinerama.uz/1414/tracks-v1a1/mono.m3u8
 http://89.104.114.24:8080/art/index.m3u8?token=test
 #EXTINF:-1 tvg-id="bobior" tvg-name="Бобёр" tvg-logo="http://epg.one/img/2026.png" group-title="Познавательные", Бобёр
 #EXTGRP:Познавательные
-http://176.118.197.125/Bober/index.m3u8
+http://176.96.241.40/Bober/index.m3u8
 #EXTINF:-1 tvg-id="bolshaya-azia" tvg-name="Большая Азия HD" tvg-logo="http://epg.one/img/2417.png" group-title="Познавательные", Большая Азия HD
 #EXTGRP:Познавательные
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
@@ -1554,13 +1554,10 @@ https://stream8.cinerama.uz/1044/tracks-v1a1/mono.m3u8
 https://ucdn.beetv.kz/bpk-tv/000006638/tve/index.m3u8
 #EXTINF:-1 tvg-id="zdorovoe-tv" tvg-name="Здоровое ТВ" tvg-logo="http://epg.one/img/2449.png" group-title="Познавательные", Здоровое ТВ
 #EXTGRP:Познавательные
-http://176.118.197.125/Zdorovoe-TV/index.m3u8
+http://minsk-cache07t.voka.tv/live/342-req_5k_v5.m3u8
 #EXTINF:-1 tvg-id="istoria" tvg-name="История" tvg-logo="http://epg.one/img/1036.png" group-title="Познавательные", История
 #EXTGRP:Познавательные
-http://176.118.197.125/Istoria/index.m3u8
-#EXTINF:-1 tvg-name="Каббала ТВ" tvg-logo="https://avatars.mds.yandex.net/i?id=b43ee481a3793ca6cb91f29af3547fd0-3920892-images-thumbs&n=13" group-title="Познавательные", Каббала ТВ
-#EXTGRP:Познавательные
-http://edge3.uk.kab.tv/live/tvrus-rus-high/chunks.m3u8
+http://213.230.65.254:8000/play/a01w
 #EXTINF:-1 tvg-id="kaleydoskop-tv" tvg-name="Калейдоскоп ТВ" tvg-logo="http://epg.one/img/2761.png" group-title="Познавательные", Калейдоскоп ТВ
 #EXTGRP:Познавательные
 http://serv25.vintera.tv:8081/kaleidoscop/kaleidoscop_sd/playlist.m3u8
@@ -1698,7 +1695,7 @@ https://n1.slavmir.tv/live/slavmir/chunklist.m3u8
 https://ucdn.beetv.kz/bpk-tv/000002510/tve/index.m3u8
 #EXTINF:-1 tvg-id="sarafan" tvg-name="Сарафан" tvg-logo="http://epg.one/img/663.png" group-title="Познавательные", Сарафан
 #EXTGRP:Познавательные
-http://176.118.197.125/Sarafan/index.m3u8
+http://minsk-cache07t.voka.tv/live/84-req_5k_v5.m3u8
 #EXTINF:-1 tvg-name="Сити Эдем - АвтоГид" tvg-logo="https://www.cityeden.info/logotv/logotip_avtogid1.png" group-title="Познавательные", Сити Эдем - АвтоГид
 #EXTGRP:Познавательные
 https://cityeden.catcast.tv/content/47515/index.m3u8
@@ -1893,7 +1890,7 @@ https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-4/mxtm-wdfe_1080p/chunkl
 http://193.25.8.59:8000/rtg
 #EXTINF:-1 tvg-id="rtg-tv" tvg-name="RTG TV" tvg-logo="http://epg.one/img/2280.png" group-title="Познавательные", RTG TV
 #EXTGRP:Познавательные
-http://176.118.197.125/RTG-TV/index.m3u8
+http://minsk-cache07t.voka.tv/live/131-req_5k_v5.m3u8
 #EXTINF:-1 tvg-id="rtvi" tvg-name="RTVi" tvg-logo="http://epg.one/img/2401.png" group-title="Познавательные", RTVi
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000000039/tve/index.m3u8
@@ -1912,9 +1909,6 @@ https://a3569457567-s70378.cdn.ngenix.net/the_explorers/2/index.m3u8
 #EXTINF:-1 tvg-id="tlc" tvg-name="TLC" tvg-logo="http://epg.one/img/2345.png" group-title="Познавательные", TLC
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000001498/tve/index.m3u8
-#EXTINF:-1 tvg-id="tlc" tvg-name="TLC HD" tvg-logo="http://epg.one/img/2345.png" group-title="Познавательные", TLC HD
-#EXTGRP:Познавательные
-http://176.118.197.125/TLC-HD/index.m3u8
 #EXTINF:-1 tvg-id="travel-adventure" tvg-name="travel+adventure" tvg-logo="http://epg.one/img/1035.png" group-title="Познавательные", travel+adventure
 #EXTGRP:Познавательные
 http://77.232.131.211/TravelAdventureHD/index.m3u8
@@ -1995,7 +1989,7 @@ https://ucdn.beetv.kz/bpk-tv/000000781/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000008003/tve/index.m3u8
 #EXTINF:-1 tvg-id="mama" tvg-name="Мама" tvg-logo="http://epg.one/img/618.png" group-title="Детские", Мама
 #EXTGRP:Детские
-http://176.118.197.125/Mama/index.m3u8
+http://213.230.65.254:8000/play/a022
 #EXTINF:-1 tvg-name="Мамонтенок" tvg-logo="https://avatars.mds.yandex.net/i?id=23c919d0d50c1df17b27e2c6ea75da2271d66feb-9222271-images-thumbs&n=13" group-title="Детские", Мамонтенок
 #EXTGRP:Детские
 http://sirius.greenhosting.ru/MamontRu/tracks-v1a1/mono.m3u8
