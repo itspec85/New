@@ -4234,6 +4234,9 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/ural24-hd/index.m3u8
 #EXTINF:-1 tvg-id="uchaly-tv" tvg-name="Учалы ТВ" tvg-logo="https://avatars.mds.yandex.net/i?id=e0c52f76d24f4f8ca45530a34e7d6bf5d758d894-4439787-images-thumbs&n=13" group-title="Региональные РФ", Учалы ТВ
 #EXTGRP:Региональные РФ
 http://s45177.cdn.ngenix.net/hls/CH_R02_UCHALYTV/variant.m3u8
+#EXTINF:-1 tvg-name="Харьков Z" tvg-logo="http://kharkov-z.ru/z-logo-line.png" group-title="Региональные РФ", Харьков Z
+#EXTGRP:Региональные РФ
+http://212.193.53.254/app/potok/playlist.m3u8
 #EXTINF:-1 tvg-id="xuzur-tv" tvg-name="Хузур ТВ" tvg-logo="http://epg.one/img/2478.png" group-title="Региональные РФ", Хузур ТВ
 #EXTGRP:Региональные РФ
 http://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
