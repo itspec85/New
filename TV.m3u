@@ -1578,7 +1578,7 @@ https://live-4.otcnet.ru/504/135/1080p/index.m3u8
 https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="kriminalnoe-hd" tvg-name="Криминальное HD" tvg-logo="http://epg.one/img/7844.png" group-title="Познавательные", Криминальное HD
 #EXTGRP:Познавательные
-http://tv.woobl.ru/kriminalnoe_hd/video.m3u8?token=
+http://tv.woobl.ru/kriminalnoe_hd/video.m3u8?token=.
 #EXTINF:-1 tvg-id="kto-est-kto" tvg-name="Кто есть кто" tvg-logo="http://epg.one/img/2456.png" group-title="Познавательные", Кто есть кто
 #EXTGRP:Познавательные
 http://158.101.222.193:88/georgia_play.php?id=ktoestkto
@@ -2144,6 +2144,9 @@ http://cdn.kubteltv.workers.dev/?ID=272
 #EXTINF:-1 tvg-id="dorama" tvg-name="Дорама" tvg-logo="http://epg.one/img/2174.png" group-title="Кино", Дорама
 #EXTGRP:Кино
 http://193.27.209.122/dorama/index.m3u8
+#EXTINF:-1 tvg-id="dushevnoe-hd" tvg-name="Душевное HD" tvg-logo="http://epg.one/img/2019.png" group-title="Кино", Душевное HD
+#EXTGRP:Кино
+http://tv.woobl.ru/dushevnoe_hd/video.m3u8?token=.
 #EXTINF:-1 tvg-id="evrokino" tvg-name="Еврокино" tvg-logo="http://epg.one/img/352.png" group-title="Кино", Еврокино
 #EXTGRP:Кино
 http://193.25.8.59:8000/eurokino
