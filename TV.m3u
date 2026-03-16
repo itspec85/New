@@ -2186,7 +2186,7 @@ http://185.46.16.239:8000/Fox_HD
 http://93.170.254.17/Kinomiks/index.m3u8
 #EXTINF:-1 tvg-id="kinopokaz" tvg-name="Кинопоказ" tvg-logo="http://epg.one/img/2834.png" group-title="Кино", Кинопоказ
 #EXTGRP:Кино
-http://hls127.freeott.top:8080/Kinopokaz_HD/mono.m3u8
+https://stream8.cinerama.uz/1057/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="kinopremiera-hd" tvg-name="Кинопремьера" tvg-logo="http://epg.one/img/566.png" group-title="Кино", Кинопремьера
 #EXTGRP:Кино
 http://157.90.0.245:8070/KINOPREMIERA/index.m3u8
@@ -2207,7 +2207,7 @@ https://stream8.cinerama.uz/1234/tracks-v1a1/mono.m3u8
 https://ucdn.beetv.kz/bpk-tv/000005450/tve/index.m3u8
 #EXTINF:-1 tvg-id="kinoseria" tvg-name="Киносерия" tvg-logo="http://epg.one/img/799.png" group-title="Кино", КИНОСЕРИЯ
 #EXTGRP:Кино
-http://hls127.freeott.top:8080/Kinoseriya_HD/video.m3u8
+https://a3569457567-s70378.cdn.ngenix.net/mnogo_tv/1/index.m3u8
 #EXTINF:-1 tvg-id="kinouzhas" tvg-name="Киноужас" tvg-logo="http://epg.one/img/2493.png" group-title="Кино", Киноужас
 #EXTGRP:Кино
 http://158.101.222.193:88/georgia_play.php?id=kinoujas
@@ -2309,7 +2309,7 @@ http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8
 http://minsk-cache07t.voka.tv/live/332-req_5k_v5.m3u8
 #EXTINF:-1 tvg-id="khit-hd" tvg-name="Хит HD" tvg-logo="http://epg.one/img/2833.png" group-title="Кино", Хит HD
 #EXTGRP:Кино
-http://hls127.freeott.top:8080/XitHD/video.m3u8
+http://cdn.kubteltv.workers.dev/?ID=255
 #EXTINF:-1 tvg-id="sony-turbo" tvg-name=".black" tvg-logo="http://epg.one/img/935.png" group-title="Кино", .black
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000000520/tve/index.m3u8
