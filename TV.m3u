@@ -4610,6 +4610,12 @@ http://86.57.209.210/TB-3/index.m3u8
 
 
 
+#EXTINF:-1 tvg-id="312-kino" tvg-name="312 Кино" tvg-logo="https://epg.iptvx.one/picons/312-kino.png" group-title="Киргизия", 312 Кино
+#EXTGRP:Киргизия
+http://176.126.166.43:1935/live/312kino/playlist.m3u8
+#EXTINF:-1 tvg-id="312-serial" tvg-name="312 Сериал" tvg-logo="https://epg.iptvx.one/picons/312-serial.png" group-title="Киргизия", 312 Сериал
+#EXTGRP:Киргизия
+http://176.126.166.43:1935/live/312musik/chunklist_w1516016500.m3u8
 #EXTINF:-1 tvg-id="tv1-kg-hd" tvg-name="TV1 KG HD [KG]" tvg-logo="https://epg.iptvx.one/picons/tv1-kg-hd.png" group-title="Киргизия", TV1 KG HD
 #EXTGRP:Киргизия
 http://212.2.225.30:1935/live/site.stream/playlist.m3u8
