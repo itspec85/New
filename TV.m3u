@@ -2517,7 +2517,7 @@ http://kinowalk.hopto.org/vsetv_live
 http://kinowalk.hopto.org/yegor_yegorych_live
 #EXTINF:-1 tvg-name="Стримканал. КИНО СТРИМ" tvg-logo="https://avatars.mds.yandex.net/i?id=437ca6dffd5419cad1016d2be8def5e17dd21082-5878501-images-thumbs&n=13" group-title="Кинозал", Стримканал. КИНО СТРИМ
 #EXTGRP:Кинозал
-https://cdn.kino-stream.online/hls/KINOSTREAM.m3u8
+http://kinowalk.hopto.org/kinostreamlive_live
 #EXTINF:-1 tvg-name="Стримканал. Комедии 24/7" tvg-logo="https://images.live.vkvideo.ru/user/18725544/avatar?change_time=1764060712&croped=1&mh=140&mw=140" group-title="Кинозал", Стримканал. Комедии 24/7
 #EXTGRP:Кинозал
 http://kinowalk.hopto.org/cmexye4ku_live
@@ -2569,9 +2569,6 @@ http://kinowalk.hopto.org/blockbusterstime_live
 #EXTINF:-1 tvg-name="Стримканал. BOSSFILM" tvg-logo="https://images.live.vkvideo.ru/user/19857529/avatar?change_time=1735363832&croped=1&mh=140&mw=140" group-title="Кинозал", Стримканал. BOSSFILM
 #EXTGRP:Кинозал
 http://kinowalk.hopto.org/bossfilm_live
-#EXTINF:-1 tvg-name="Стримканал. Cinema Time" tvg-logo="https://avatars.mds.yandex.net/i?id=7682f4bfcb34028ffc20f605f2d359e7-5887345-images-thumbs&n=13" group-title="Кинозал", Стримканал. Cinema Time
-#EXTGRP:Кинозал
-http://kinowalk.hopto.org/cinemaa_live
 #EXTINF:-1 tvg-name="Стримканал. Dimpon HD" tvg-logo="https://avatars.mds.yandex.net/i?id=30d003421a04a81dcc8a800b6b9a8a48b4bf7234-10770607-images-thumbs&n=13" group-title="Кинозал", Стримканал. Dimpon HD
 #EXTGRP:Кинозал
 http://kinowalk.hopto.org/dimpon_live
@@ -2734,9 +2731,6 @@ http://hls127.freeott.top:8080/CPS_Fresh/video.m3u8
 #EXTINF:-1 tvg-name="CPS Investigation" tvg-logo="https://avatars.mds.yandex.net/i?id=d0cd0536644c44380ed9a5f1fc4f51bd2169a5dd-5335451-images-thumbs&n=13" group-title="Кинозал", CPS Investigation
 #EXTGRP:Кинозал
 http://hls127.freeott.top:8080/CPS_Investigation/video.m3u8
-#EXTINF:-1 tvg-name="CPS Jackie Chan" tvg-logo="https://avatars.mds.yandex.net/i?id=d0cd0536644c44380ed9a5f1fc4f51bd2169a5dd-5335451-images-thumbs&n=13" group-title="Кинозал", CPS Jackie Chan
-#EXTGRP:Кинозал
-http://hls127.freeott.top:8080/CPS_Jackie_Chan/video.m3u8
 #EXTINF:-1 tvg-name="CPS Mix" tvg-logo="https://avatars.mds.yandex.net/i?id=d0cd0536644c44380ed9a5f1fc4f51bd2169a5dd-5335451-images-thumbs&n=13" group-title="Кинозал", CPS Mix
 #EXTGRP:Кинозал
 http://hls127.freeott.top:8080/CPS_Mix/video.m3u8
