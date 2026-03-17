@@ -2236,6 +2236,9 @@ http://5.8.11.96:8099/mosfilmhd/index.m3u8
 #EXTINF:-1 tvg-id="muzhskoe-kino" tvg-name="Мужское кино" tvg-logo="http://epg.one/img/1584.png" group-title="Кино", МУЖСКОЕ КИНО
 #EXTGRP:Кино
 https://stream8.cinerama.uz/1237/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Наш киномир" tvg-logo="https://avatars.mds.yandex.net/i?id=b948c22c207c0e3a4e8301e7231b42b39a836461-5883734-images-thumbs&n=13" group-title="Кино", Наш киномир
+#EXTGRP:Кино
+http://hls127.freeott.top:8080/Nash_kinomir/video.m3u8
 #EXTINF:-1 tvg-id="nash-kinopokaz" tvg-name="Наш кинопоказ" tvg-logo="http://epg.one/img/2831.png" group-title="Кино", Наш Кинопоказ HD
 #EXTGRP:Кино
 http://minsk-cache07t.voka.tv/live/285-req_5k_v5.m3u8
@@ -2263,6 +2266,9 @@ http://cdn.ntv.ru/th_serial/mono.m3u8
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=ntv
 http://cdn.ntv.ru/th_hit/mono.m3u8
+#EXTINF:-1 tvg-id="ostrosiuzhetnoe-hd" tvg-name="Остросюжетное HD" tvg-logo="http://epg.one/img/1588.png" group-title="Кино", Остросюжетное HD
+#EXTGRP:Кино
+http://tv.woobl.ru/ostrosyuzhetnoe_hd/video.m3u8?token=.
 #EXTINF:-1 tvg-id="patriot" tvg-name="Патриот" tvg-logo="https://epg.iptvx.one/picons/patriot.png" group-title="Кино", Патриот
 #EXTGRP:Кино
 http://catchup.videoline.ru/asvtv/index.m3u8
@@ -2418,8 +2424,7 @@ https://str-01.sunset-media.org/SunsetOne/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000008739/tve/index.m3u8
 #EXTINF:-1 tvg-id="trashtv" tvg-name="Trash HD" tvg-logo="http://epg.one/img/3361.png" group-title="Кино", Trash HD
 #EXTGRP:Кино
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
-https://mhd116.iptv2022.com/p/tja1sMoxlviX1syA2Hgo7g,1770411628/streaming/trash/324/1/tracks-v5a1/mono.m3u8
+http://5.188.159.128:8070/Trash_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="thriller-hd" tvg-name="Thriller HD" tvg-logo="http://epg.one/img/4724.png" group-title="Кино", Thriller HD
 #EXTGRP:Кино
 http://hls127.freeott.top:8080/PG_Thriller_HD/manifest.m3u8
@@ -2798,6 +2803,9 @@ http://hls127.freeott.top:8080/MyTV2/mono.m3u8
 #EXTINF:-1 tvg-name="MYTV 3" tvg-logo="http://epg.one/img/106.png" group-title="Кинозал", MYTV 3
 #EXTGRP:Кинозал
 http://hls127.freeott.top:8080/MyTV3/mono.m3u8
+#EXTINF:-1 tvg-name="MYTV HIT" tvg-logo="http://epg.one/img/107.png" group-title="Кинозал", MYTV HIT
+#EXTGRP:Кинозал
+http://hls127.freeott.top:8080/MyTV_Hit/mono.m3u8
 
 
 
