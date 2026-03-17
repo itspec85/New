@@ -4592,7 +4592,7 @@ https://edge50.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/chunklist_b516000
 #EXTINF:-1 tvg-id="pinsk-tv" tvg-name="Пинск ТВ" tvg-logo="https://epg.iptvx.one/picons/pinsk-tv.png" group-title="Беларусь", Пинск ТВ
 #EXTGRP:Беларусь
 http://87.252.229.200:8083/pinsk
-#EXTINF:-1 tvg-id="rtr-belarus" tvg-name="РТР-Беларусь" tvg-logo="https://epg.iptvx.one/picons/rtr-belarus.png" group-title="Беларусь", РТР-Беларусь
+#EXTINF:-1 tvg-id="rtr-belarus" tvg-name="РТР-Беларусь" tvg-logo="https://epg.iptvx.one/picons/rtr-belarus.png" group-title="Беларусь", РТР Беларусь
 #EXTGRP:Беларусь
 http://194.158.222.36:6106
 #EXTINF:-1 tvg-id="svetloe-tv" tvg-name="Светлое ТВ" tvg-logo="https://iptvx.one/picons/svetloe-tv.png" group-title="Беларусь", Светлое ТВ
@@ -4604,7 +4604,7 @@ http://95.46.208.8:24432/skif
 #EXTINF:-1 tvg-id="stv-by" tvg-name="СТВ" tvg-logo="http://epg.one/img/2543.png" group-title="Беларусь", СТВ
 #EXTGRP:Беларусь
 https://edge53.dc.beltelecom.by/ctv/_definst_/ctv.stream/chunklist_w1093126388.m3u8
-#EXTINF:-1 tvg-id="tv3-by" tvg-name="ТВ3 Беларусь" tvg-logo="https://epg.iptvx.one/picons/tv3-by.png" group-title="Беларусь", ТВ3 Беларусь
+#EXTINF:-1 tvg-id="tv3-by" tvg-name="ТВ3 Беларусь" tvg-logo="https://epg.iptvx.one/picons/tv3-by.png" group-title="Беларусь", ТВ3 BY
 #EXTGRP:Беларусь
 http://86.57.209.210/TB-3/index.m3u8
 
