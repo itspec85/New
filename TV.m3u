@@ -2309,7 +2309,7 @@ http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8
 http://minsk-cache07t.voka.tv/live/332-req_5k_v5.m3u8
 #EXTINF:-1 tvg-id="khit-hd" tvg-name="Хит HD" tvg-logo="http://epg.one/img/2833.png" group-title="Кино", Хит HD
 #EXTGRP:Кино
-http://cdn.kubteltv.workers.dev/?ID=255
+http://hls127.freeott.top:8080/XitHD/video.m3u8
 #EXTINF:-1 tvg-id="sony-turbo" tvg-name=".black" tvg-logo="http://epg.one/img/935.png" group-title="Кино", .black
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000000520/tve/index.m3u8
