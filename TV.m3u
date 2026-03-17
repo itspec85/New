@@ -1513,10 +1513,10 @@ https://ucdn.beetv.kz/bpk-tv/000001414/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000003174/tve/index.m3u8
 #EXTINF:-1 tvg-id="dikaya-oxota-hd" tvg-name="Дикая охота HD" tvg-logo="http://epg.one/img/2483.png" group-title="Познавательные", Дикая охота HD
 #EXTGRP:Познавательные
-http://minsk-cache07t.voka.tv/live/2325-req_5k_v5.m3u8
+http://46.53.208.4:80/live/2325.m3u8
 #EXTINF:-1 tvg-id="dikaya-rybalka-hd" tvg-name="Дикая рыбалка HD" tvg-logo="http://epg.one/img/2484.png" group-title="Познавательные", Дикая рыбалка HD
 #EXTGRP:Познавательные
-http://minsk-cache07t.voka.tv/live/2324-req_5k_v5.m3u8
+http://46.53.208.4:80/live/2324.m3u8
 #EXTINF:-1 tvg-id="dikiy" tvg-name="Дикий" tvg-logo="http://epg.one/img/2283.png" group-title="Познавательные", Дикий
 #EXTGRP:Познавательные
 http://176.96.241.40/Dikiy/index.m3u8
@@ -1555,7 +1555,7 @@ https://stream8.cinerama.uz/1044/tracks-v1a1/mono.m3u8
 https://ucdn.beetv.kz/bpk-tv/000006638/tve/index.m3u8
 #EXTINF:-1 tvg-id="zdorovoe-tv" tvg-name="Здоровое ТВ" tvg-logo="http://epg.one/img/2449.png" group-title="Познавательные", Здоровое ТВ
 #EXTGRP:Познавательные
-http://minsk-cache07t.voka.tv/live/342-req_5k_v5.m3u8
+http://46.53.208.4:80/live/342.m3u8
 #EXTINF:-1 tvg-id="istoria" tvg-name="История" tvg-logo="http://epg.one/img/1036.png" group-title="Познавательные", История
 #EXTGRP:Познавательные
 http://213.230.65.254:8000/play/a01w
@@ -1705,7 +1705,7 @@ https://n1.slavmir.tv/live/slavmir/chunklist.m3u8
 https://ucdn.beetv.kz/bpk-tv/000002510/tve/index.m3u8
 #EXTINF:-1 tvg-id="sarafan" tvg-name="Сарафан" tvg-logo="http://epg.one/img/663.png" group-title="Познавательные", Сарафан
 #EXTGRP:Познавательные
-http://minsk-cache07t.voka.tv/live/84-req_5k_v5.m3u8
+http://46.53.208.4:80/live/84.m3u8
 #EXTINF:-1 tvg-name="Сити Эдем - АвтоГид" tvg-logo="https://www.cityeden.info/logotv/logotip_avtogid1.png" group-title="Познавательные", Сити Эдем - АвтоГид
 #EXTGRP:Познавательные
 https://cityeden.catcast.tv/content/47515/index.m3u8
@@ -1810,7 +1810,7 @@ https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-67642f277c5e3b38af72dcdb.m3u8
 #EXTINF:-1 tvg-id="curiosity-stream" tvg-name="Curiosity Stream HD" tvg-logo="http://epg.one/img/7266.png" group-title="Познавательные", Curiosity Stream HD
 #EXTGRP:Познавательные
-http://minsk-cache07t.voka.tv/live/994-req_5k_v5.m3u8
+http://46.53.208.4:80/live/994.m3u8
 #EXTINF:-1 tvg-id="deutsche-welle-eu" tvg-name="Deutsche Welle EN" tvg-logo="http://epg.one/img/8638.png" group-title="Познавательные", Deutsche Welle EN
 #EXTGRP:Познавательные
 https://api-tv.ipnet.ua/api/v1/manifest/2118742360.m3u8
@@ -1900,7 +1900,7 @@ https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-4/mxtm-wdfe_1080p/chunkl
 http://193.25.8.59:8000/rtg
 #EXTINF:-1 tvg-id="rtg-tv" tvg-name="RTG TV" tvg-logo="http://epg.one/img/2280.png" group-title="Познавательные", RTG TV
 #EXTGRP:Познавательные
-http://minsk-cache07t.voka.tv/live/131-req_5k_v5.m3u8
+http://46.53.208.4:80/live/131.m3u8
 #EXTINF:-1 tvg-id="rtvi" tvg-name="RTVi" tvg-logo="http://epg.one/img/2401.png" group-title="Познавательные", RTVi
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000000039/tve/index.m3u8
@@ -1909,7 +1909,7 @@ https://ucdn.beetv.kz/bpk-tv/000000039/tve/index.m3u8
 http://cdn.kubteltv.workers.dev/?ID=358
 #EXTINF:-1 tvg-id="russian-extreme-uhd" tvg-name="Russian Extreme UHD" tvg-logo="http://epg.one/img/4110.png" group-title="Познавательные", Russian Extreme UHD
 #EXTGRP:Познавательные
-http://minsk-cache07t.voka.tv/live/1042-req_5k_v5.m3u8
+http://46.53.208.4:80/live/1042.m3u8
 #EXTINF:-1 tvg-id="terra-ru" tvg-name="TERRA" tvg-logo="http://epg.one/img/7632.png" group-title="Познавательные", TERRA
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000008142/tve/index.m3u8
@@ -1994,6 +1994,9 @@ http://dmi3y-tv6.ru/hls/DVB-T2/CH_KARUSEL_8.m3u8
 #EXTINF:-1 tvg-id="karusel-int" tvg-name="Карусель International" tvg-logo="https://iptvx.one/picons/karusel.png" group-title="Детские", Карусель International
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000000781/tve/index.m3u8
+#EXTINF:-1 tvg-id="kinomult" tvg-name="Киномульт" tvg-logo="http://epg.one/img/9024.png" group-title="Детские", КиноМульт
+#EXTGRP:Детские
+http://46.53.208.4:80/live/157.m3u8
 #EXTINF:-1 tvg-id="liova" tvg-name="Лёва HD" tvg-logo="http://epg.one/img/7990.png" group-title="Детские", Лёва HD
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000008003/tve/index.m3u8
@@ -2026,7 +2029,7 @@ https://stream8.cinerama.uz/1407/tracks-v1a1/mono.m3u8
 https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
 #EXTINF:-1 tvg-id="sovmultf" tvg-name="Советские мультфильмы" tvg-logo="https://epg.iptvx.one/picons/sovmultf.png" group-title="Детские", Советские мультфильмы
 #EXTGRP:Детские
-http://minsk-cache07t.voka.tv/live/3007-req_5k_v5.m3u8
+http://46.53.208.4:80/live/3007.m3u8
 #EXTINF:-1 tvg-id="solnce" tvg-shift="+1" tvg-name="Солнце (-1)" tvg-logo="http://epg.one/img/7669.png" group-title="Детские", Солнце (-1)
 #EXTGRP:Детские
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -2141,7 +2144,7 @@ https://mhd128.iptv2022.com/p/L_cjx4T227QsVtc2IrHHCA,1773777316/streaming/den-po
 http://176.96.241.40/DomKino/index.m3u8
 #EXTINF:-1 tvg-id="domkino-premium" tvg-name="Дом Кино Премиум" tvg-logo="http://epg.one/img/2020.png" group-title="Кино", Дом Кино Премиум
 #EXTGRP:Кино
-http://minsk-cache07t.voka.tv/live/5111-req_5k_v5.m3u8
+http://46.53.208.4:80/live/5111.m3u8
 #EXTINF:-1 tvg-id="domkino-premium" tvg-name="Дом Кино Премиум HD" tvg-logo="http://epg.one/img/2020.png" group-title="Кино", Дом Кино Премиум HD
 #EXTGRP:Кино
 https://a3569457567-s70378.cdn.ngenix.net/dom_kino_premium_hd/3/index.m3u8
@@ -2241,7 +2244,7 @@ https://stream8.cinerama.uz/1237/tracks-v1a1/mono.m3u8
 http://hls127.freeott.top:8080/Nash_kinomir/video.m3u8
 #EXTINF:-1 tvg-id="nash-kinopokaz" tvg-name="Наш кинопоказ" tvg-logo="http://epg.one/img/2831.png" group-title="Кино", Наш Кинопоказ HD
 #EXTGRP:Кино
-http://minsk-cache07t.voka.tv/live/285-req_5k_v5.m3u8
+http://46.53.208.4:80/live/285.m3u8
 #EXTINF:-1 tvg-id="nashehd" tvg-name="Наше крутое HD" tvg-logo="http://epg.one/img/2018.png" group-title="Кино", Наше крутое HD
 #EXTGRP:Кино
 http://hls127.freeott.top:8080/Nashe_HD/mono.m3u8
@@ -2319,7 +2322,7 @@ http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5
 http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8
 #EXTINF:-1 tvg-id="feniks-plus-kino" tvg-name="Феникс плюс Кино" tvg-logo="http://epg.one/img/2404.png" group-title="Кино", Феникс плюс Кино
 #EXTGRP:Кино
-http://minsk-cache07t.voka.tv/live/332-req_5k_v5.m3u8
+http://46.53.208.4:80/live/332.m3u8
 #EXTINF:-1 tvg-id="khit-hd" tvg-name="Хит HD" tvg-logo="http://epg.one/img/2833.png" group-title="Кино", Хит HD
 #EXTGRP:Кино
 http://hls127.freeott.top:8080/XitHD/video.m3u8
@@ -2454,7 +2457,7 @@ https://ucdn.beetv.kz/bpk-tv/000003747/tve/index.m3u8
 http://176.96.241.40/TV1000/index.m3u8
 #EXTINF:-1 tvg-id="viju-tv1000-novella" tvg-name="Viju TV1000 Новелла HD" tvg-logo="http://epg.one/img/9057.png" group-title="Кино", Viju TV1000 Новелла HD
 #EXTGRP:Кино
-http://minsk-cache07t.voka.tv/live/545-req_5k_v5.m3u8
+http://46.53.208.4:80/live/545.m3u8
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino" tvg-name="Viju TV1000 Русское" tvg-logo="http://epg.one/img/267.png" group-title="Кино", Viju TV1000 Русское
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000003748/tve/index.m3u8
@@ -2469,7 +2472,7 @@ https://ucdn.beetv.kz/bpk-tv/000003910/tve/index.m3u8
 https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="viju-tv1000-romantica" tvg-name="Viju TV1000 Romantica HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/97/Viju_TV1000_Romantica.svg/revision/latest/scale-to-width-down/284?cb=20240928200507" group-title="Кино", Viju TV1000 Romantica HD
 #EXTGRP:Кино
-http://minsk-cache07t.voka.tv/live/3111-req_5k_v5.m3u8
+http://46.53.208.4:80/live/3111.m3u8
 #EXTINF:-1 tvg-id="vip-comedy" tvg-name="viju+ Comedy HD" tvg-logo="http://epg.one/img/1011.png" group-title="Кино", Viju+ Comedy HD
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000000870/tve/index.m3u8
@@ -3013,7 +3016,7 @@ http://87.246.54.249:8080/MaxSport4/index.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e66968a70f34c0007d050be/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c29dbd3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0f1d3baf-2f1b-47d7-9966-3e92a98f1c8a&serverSideAds=false
 #EXTINF:-1 tvg-id="m1global" tvg-name="MMA-TV.com" tvg-logo="http://epg.one/img/2326.png" group-title="Спорт", MMA-TV.com
 #EXTGRP:Спорт
-http://minsk-cache07t.voka.tv/live/2100-req_5k_v5.m3u8
+http://46.53.208.4:80/live/2100.m3u8
 #EXTINF:-1 tvg-id="nba-tv" tvg-name="NBA TV HD US" tvg-logo="http://epg.one/img/4587.png" group-title="Спорт", NBA TV HD US
 #EXTGRP:Спорт
 http://kstv.us:8080/c2Q2HDqQfM/111770/15946
@@ -4568,9 +4571,15 @@ https://live.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
 #EXTINF:-1 tvg-id="belsat" tvg-name="Белсат" tvg-logo="http://epg.one/img/4627.png" group-title="Беларусь", БелСат
 #EXTGRP:Беларусь
 https://m3u8.ott.blue/watch/149/video.m3u8?geo=auto&token=94450098895765784220366841698509
+#EXTINF:-1 tvg-id="voentv-by" tvg-name="ВоенТВ [BY]" tvg-logo="https://epg.iptvx.one/picons/voentv-by.png" group-title="Беларусь", ВоенТВ [BY]
+#EXTGRP:Беларусь
+http://46.53.208.4:80/live/101.m3u8
 #EXTINF:-1 tvg-id="grodno-plus" tvg-name="Гродно Плюс" tvg-logo="https://iptvx.one/picons/grodno-plus.png" group-title="Беларусь", Гродно Плюс
 #EXTGRP:Беларусь
 http://82.209.219.165:1234/gp
+#EXTINF:-1 tvg-name="Наше ТВ" tvg-logo="https://avatars.mds.yandex.net/i?id=c467f7ea055f40491143eede7620ffc343d62545-10384273-images-thumbs&n=13" group-title="Беларусь", Наше ТВ
+#EXTGRP:Беларусь
+http://46.53.208.4:80/live/218.m3u8
 #EXTINF:-1 tvg-id="ntv-belarus" tvg-name="НТВ-Беларусь" tvg-logo="http://epg.one/img/6773.png" group-title="Беларусь", НТВ Беларусь
 #EXTGRP:Беларусь
 http://194.158.222.36:6107
