@@ -2077,6 +2077,15 @@ http://185.46.16.239:8000/Ani
 #EXTINF:-1 tvg-id="balapan" tvg-name="Balapan" tvg-logo="https://epg.iptvx.one/picons/balapan.png" group-title="Детские", Balapan
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000005178/tve/index.m3u8
+#EXTINF:-1 tvg-id="bcu-multserial" tvg-name="BCU Мультсериал HD" tvg-logo="http://epg.one/img/4746.png" group-title="Детские", BCU Мультсериал HD
+#EXTGRP:Детские
+http://tv.woobl.ru/BCU_Multserial_HD/video.m3u8?token=.
+#EXTINF:-1 tvg-id="bcu-kids" tvg-name="BCU Kids HD" tvg-logo="http://epg.one/img/4756.png" group-title="Детские", BCU Kids HD
+#EXTGRP:Детские
+http://tv.woobl.ru/BCU_Kids_HD/video.m3u8?token=.
+#EXTINF:-1 tvg-id="bcu-kids-plus" tvg-name="BCU Kids+ HD" tvg-logo="http://epg.one/img/4757.png" group-title="Детские", BCU Kids+ HD
+#EXTGRP:Детские
+http://tv.woobl.ru/BCU_Kids_Plus_HD/video.m3u8?token=.
 #EXTINF:-1 tvg-id="cartoon-classics" tvg-name="Cartoon Classics" tvg-logo="http://epg.one/img/9183.png" group-title="Детские", Cartoon Classics
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000008795/tve/index.m3u8
@@ -2743,12 +2752,79 @@ http://kinowalk.hopto.org/zubrilomfilm_live
 #EXTINF:-1 tvg-name="Стримканал. ZubrilomFranchise" tvg-logo="https://images.live.vkplay.ru/user/18929766/avatar?change_time=1715176122&croped=1&mh=140&mw=140" group-title="Кинозал", Стримканал. ZubrilomFranchise
 #EXTGRP:Кинозал
 http://kinowalk.hopto.org/zubrilommusic.ru_live
+#EXTINF:-1 tvg-id="bcu-kinozal-prem-1" tvg-name="BCU Кинозал Premiere 1  HD" tvg-logo="http://epg.one/img/4758.png" group-title="Кинозал", BCU Кинозал Premiere 1  HD
+#EXTGRP:Кинозал
+http://tv.woobl.ru/BCU_Kinozal_Premiere_1_HD/video.m3u8?token=.
+#EXTINF:-1 tvg-id="bcu-kinozal-prem-2" tvg-name="BCU Кинозал Premiere 2  HD" tvg-logo="http://epg.one/img/4758.png" group-title="Кинозал", BCU Кинозал Premiere 2  HD
+#EXTGRP:Кинозал
+http://tv.woobl.ru/BCU_Kinozal_Premiere_2_HD/video.m3u8?token=.
+#EXTINF:-1 tvg-id="bcu-kinozal-prem-3" tvg-name="BCU Кинозал Premiere 3 HD" tvg-logo="http://epg.one/img/4758.png" group-title="Кинозал", BCU Кинозал Premiere 3 HD
+#EXTGRP:Кинозал
+http://tv.woobl.ru/BCU_Kinozal_Premiere_3_HD/video.m3u8?token=.
+#EXTINF:-1 tvg-id="bcu-svaty" tvg-name="BCU Сваты HD" tvg-logo="http://epg.one/img/4758.png" group-title="Кинозал", BCU Сваты HD
+#EXTGRP:Кинозал
+http://tv.woobl.ru/BCU_Svaty_HD/video.m3u8?token=.
+#EXTINF:-1 tvg-id="bcu-sssr" tvg-name="BCU СССР HD" tvg-logo="http://epg.one/img/4758.png" group-title="Кинозал", BCU СССР HD
+#EXTGRP:Кинозал
+http://tv.woobl.ru/BCU_USSR_HD/video.m3u8?token=.
+#EXTINF:-1 tvg-id="bcu-action" tvg-name="BCU Action HD" tvg-logo="http://epg.one/img/4748.png" group-title="Кинозал", BCU Action HD
+#EXTGRP:Кинозал
+http://tv.woobl.ru/BCU_Action_HD/video.m3u8?token=.
+#EXTINF:-1 tvg-id="bcu-catastrophe" tvg-name="BCU Catastrophe HD" tvg-logo="http://epg.one/img/4749.png" group-title="Кинозал", BCU Catastrophe HD
+#EXTGRP:Кинозал
+http://tv.woobl.ru/BCU_Catastrophe_HD/video.m3u8?token=.
+#EXTINF:-1 tvg-id="bcu-cinema" tvg-name="BCU Cinema HD" tvg-logo="http://epg.one/img/4750.png" group-title="Кинозал", BCU Cinema HD
+#EXTGRP:Кинозал
+http://tv.woobl.ru/BCU_Cinema_HD/video.m3u8?token=.
+#EXTINF:-1 tvg-id="bcu-cinemaplus" tvg-name="BCU Cinema+ HD" tvg-logo="http://epg.one/img/4751.png" group-title="Кинозал", BCU Cinema+ HD
+#EXTGRP:Кинозал
+http://tv.woobl.ru/BCU_Cinema_Plus_HD/video.m3u8?token=.
+#EXTINF:-1 tvg-id="bcu-comedy" tvg-name="BCU Comedy HD" tvg-logo="http://epg.one/img/5515.png" group-title="Кинозал", BCU Comedy HD
+#EXTGRP:Кинозал
+http://tv.woobl.ru/BCU_Comedy_HD/video.m3u8?token=.
+#EXTINF:-1 tvg-id="bcu-criminal" tvg-name="BCU Criminal HD" tvg-logo="http://epg.one/img/4769.png" group-title="Кинозал", BCU Criminal HD
+#EXTGRP:Кинозал
+http://tv.woobl.ru/BCU_Criminal_HD/video.m3u8?token=.
+#EXTINF:-1 tvg-id="bcu-fantastic" tvg-name="BCU Fantastic HD" tvg-logo="http://epg.one/img/4753.png" group-title="Кинозал", BCU Fantastic HD
+#EXTGRP:Кинозал
+http://tv.woobl.ru/BCU_Fantastic_HD/video.m3u8?token=.
+#EXTINF:-1 tvg-id="bcu-filmystic" tvg-name="BCU FilMystic HD" tvg-logo="http://epg.one/img/4754.png" group-title="Кинозал", BCU FilMystic HD
+#EXTGRP:Кинозал
+http://tv.woobl.ru/BCU_FilMystic_HD/video.m3u8?token=.
+#EXTINF:-1 tvg-id="bcu-history" tvg-name="BCU History HD" tvg-logo="http://epg.one/img/4755.png" group-title="Кинозал", BCU History HD
+#EXTGRP:Кинозал
+http://tv.woobl.ru/BCU_History_HD/video.m3u8?token=.
 #EXTINF:-1 tvg-id="bcu-kinorating" tvg-name="BCU Kinorating HD" tvg-logo="http://epg.one/img/4758.png" group-title="Кинозал", BCU Kinorating HD
 #EXTGRP:Кинозал
-http://hls127.freeott.top:8080/BCUKinoratingHD/mono.m3u8
+http://tv.woobl.ru/BCU_Kinorating_HD/video.m3u8?token=.
+#EXTINF:-1 tvg-id="bcu-marvel" tvg-name="BCU Marvel HD" tvg-logo="http://epg.one/img/5514.png" group-title="Кинозал", BCU Marvel HD
+#EXTGRP:Кинозал
+http://tv.woobl.ru/BCU_Marvel_HD/video.m3u8?token=.
+#EXTINF:-1 tvg-id="bcu-media" tvg-name="BCU Media HD" tvg-logo="http://epg.one/img/4764.png" group-title="Кинозал", BCU Media HD
+#EXTGRP:Кинозал
+http://tv.woobl.ru/BCUMEDIA_HD/video.m3u8?token=.
+#EXTINF:-1 tvg-id="bcu-premiere" tvg-name="BCU Premiere HD" tvg-logo="http://epg.one/img/4760.png" group-title="Кинозал", BCU Premiere HD
+#EXTGRP:Кинозал
+http://tv.woobl.ru/BCU_Premiere_HD/video.m3u8?token=.
+#EXTINF:-1 tvg-id="bcu-romantic" tvg-name="BCU Romantic HD" tvg-logo="http://epg.one/img/4761.png" group-title="Кинозал", BCU Romantic HD
+#EXTGRP:Кинозал
+http://tv.woobl.ru/BCU_Romantic_HD/video.m3u8?token=.
+#EXTINF:-1 tvg-id="bcu-ruserial" tvg-name="BCU RuSerial HD" tvg-logo="http://epg.one/img/4767.png" group-title="Кинозал", BCU RuSerial HD
+#EXTGRP:Кинозал
+http://tv.woobl.ru/BCU_RUSERIAL_HD/video.m3u8?token=.
+#EXTINF:-1 tvg-id="bcu-russian" tvg-name="BCU Russian HD" tvg-logo="http://epg.one/img/4762.png" group-title="Кинозал", BCU Russian HD
+#EXTGRP:Кинозал
+http://tv.woobl.ru/BCU_Russian_HD/video.m3u8?token=.
 #EXTINF:-1 tvg-id="bcu-stars" tvg-name="BCU Stars HD" tvg-logo="http://epg.one/img/4765.png" group-title="Кинозал", BCU Stars HD
 #EXTGRP:Кинозал
-http://hls127.freeott.top:8080/BCUStarsHD/mono.m3u8
+http://tv.woobl.ru/BCU_Stars_HD/video.m3u8?token=.
+#EXTINF:-1 tvg-id="bcu-ultra4k" tvg-name="BCU Ultra 4K" tvg-logo="http://epg.one/img/4766.png" group-title="Кинозал", BCU Ultra 4K
+#EXTGRP:Кинозал
+http://tv.woobl.ru/BCU_Ultra_4K/video.m3u8?token=.
+#EXTINF:-1 tvg-id="bcu-vhs" tvg-name="BCU VHS HD" tvg-logo="http://epg.one/img/4763.png" group-title="Кинозал", BCU VHS HD
+#EXTGRP:Кинозал
+http://tv.woobl.ru/BCU_VHS_HD/video.m3u8?token=.
+
 #EXTINF:-1 tvg-id="box-anime" tvg-name="BOX Anime HD" tvg-logo="http://epg.one/img/6698.png" group-title="Кинозал", BOX Anime HD
 #EXTGRP:Кинозал
 http://hls127.freeott.top:8080/box_anime_hd/video.m3u8
