@@ -2083,6 +2083,9 @@ http://tv.woobl.ru/BCU_Kids_Plus_HD/video.m3u8?token=.
 #EXTINF:-1 tvg-id="box-m-serial" tvg-name="BOX M.Serial HD" tvg-logo="http://epg.one/img/6702.png" group-title="Детские", BOX M.Serial HD
 #EXTGRP:Детские
 http://tv.woobl.ru/BOX_MSerial_HD/video.m3u8?token=.
+#EXTINF:-1 tvg-id="box-remast-plus-4k" tvg-name="BOX Remast+ 4K" tvg-logo="http://epg.one/img/8922.png" group-title="Детские", BOX Remast+ 4K
+#EXTGRP:Детские
+http://tv.woobl.ru/BOX_Remast_Plus_4K/video.m3u8?token=.
 #EXTINF:-1 tvg-id="cartoon-classics" tvg-name="Cartoon Classics" tvg-logo="http://epg.one/img/9183.png" group-title="Детские", Cartoon Classics
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000008795/tve/index.m3u8
@@ -2851,9 +2854,6 @@ http://tv.woobl.ru/BOX_Premiere_4K/video.m3u8?token=.
 #EXTINF:-1 tvg-id="box-remast-4k" tvg-name="BOX Remast 4K" tvg-logo="http://epg.one/img/7492.png" group-title="Кинозал", BOX Remast 4K
 #EXTGRP:Кинозал
 http://tv.woobl.ru/BOX_Remast_4K/video.m3u8?token=.
-#EXTINF:-1 tvg-id="box-remast-plus-4k" tvg-name="BOX Remast+ 4K" tvg-logo="http://epg.one/img/8922.png" group-title="Кинозал", BOX Remast+ 4K
-#EXTGRP:Кинозал
-http://tv.woobl.ru/BOX_Remast_Plus_4K/video.m3u8?token=.
 #EXTINF:-1 tvg-id="box-serial" tvg-name="BOX Serial HD" tvg-logo="http://epg.one/img/6703.png" group-title="Кинозал", BOX Serial HD
 #EXTGRP:Кинозал
 http://tv.woobl.ru/BOX_Serial_HD/video.m3u8?token=.
