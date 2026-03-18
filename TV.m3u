@@ -1793,6 +1793,27 @@ https://ucdn.beetv.kz/bpk-tv/000008052/tve/index.m3u8
 #EXTINF:-1 tvg-id="bloomberg" tvg-name="Bloomberg TV USA" tvg-logo="https://avatars.mds.yandex.net/i?id=9bdd7c5b9b6a9fa55348eada7a515346ada82991-12371687-images-thumbs&n=13" group-title="Познавательные", Bloomberg TV USA
 #EXTGRP:Познавательные
 https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
+#EXTINF:-1 tvg-id="box-auttrend" tvg-name="BOX AutoTrend HD" tvg-logo="http://epg.one/img/8818.png" group-title="Познавательные", BOX AutoTrend HD
+#EXTGRP:Познавательные
+http://tv.woobl.ru/BOX_Autotrend_HD/video.m3u8?token=.
+#EXTINF:-1 tvg-id="box-docu" tvg-name="BOX Docu HD" tvg-logo="http://epg.one/img/7662.png" group-title="Познавательные", BOX Docu HD
+#EXTGRP:Познавательные
+http://tv.woobl.ru/BOX_Docu_HD/video.m3u8?token=.
+#EXTINF:-1 tvg-id="box-game" tvg-name="BOX Game HD" tvg-logo="http://epg.one/img/6704.png" group-title="Познавательные", BOX Game HD
+#EXTGRP:Познавательные
+http://tv.woobl.ru/BOX_Game_HD/video.m3u8?token=.
+#EXTINF:-1 tvg-id="box-gurman" tvg-name="BOX Gurman HD" tvg-logo="http://epg.one/img/8817.png" group-title="Познавательные", BOX Gurman HD
+#EXTGRP:Познавательные
+http://tv.woobl.ru/BOX_Gurman_HD/video.m3u8?token=.
+#EXTINF:-1 tvg-id="box-stories" tvg-name="BOX Stories HD" tvg-logo="http://epg.one/img/7489.png" group-title="Познавательные", BOX Stories HD
+#EXTGRP:Познавательные
+http://tv.woobl.ru/BOX_Stories_HD/video.m3u8?token=.
+#EXTINF:-1 tvg-id="box-travel" tvg-name="BOX Travel HD" tvg-logo="http://epg.one/img/6831.png" group-title="Познавательные", BOX Travel HD
+#EXTGRP:Познавательные
+http://tv.woobl.ru/BOX_Travel_HD/video.m3u8?token=.
+#EXTINF:-1 tvg-id="box-travel-premiere" tvg-name="BOX Travel Premiere HD" tvg-logo="http://epg.one/img/8816.png" group-title="Познавательные", BOX Travel Premiere HD
+#EXTGRP:Познавательные
+http://tv.woobl.ru/BOX_Travel_Premiere_HD/video.m3u8?token=.
 #EXTINF:-1 tvg-id="cars-n-stars" tvg-name="Cars & Stars TV" tvg-logo="https://iptvx.one/picons/cars-n-stars.png" group-title="Познавательные", Cars & Stars TV
 #EXTGRP:Познавательные
 https://iptv.prosto.tv/ch111/video.m3u8
@@ -2080,6 +2101,9 @@ http://tv.woobl.ru/BCU_Kids_HD/video.m3u8?token=.
 #EXTINF:-1 tvg-id="bcu-kids-plus" tvg-name="BCU Kids+ HD" tvg-logo="http://epg.one/img/4757.png" group-title="Детские", BCU Kids+ HD
 #EXTGRP:Детские
 http://tv.woobl.ru/BCU_Kids_Plus_HD/video.m3u8?token=.
+#EXTINF:-1 tvg-id="box-anime" tvg-name="BOX Anime HD" tvg-logo="http://epg.one/img/6698.png" group-title="Детские", BOX Anime HD
+#EXTGRP:Детские
+http://tv.woobl.ru/BOX_Anime_HD/video.m3u8?token=.
 #EXTINF:-1 tvg-id="box-m-serial" tvg-name="BOX M.Serial HD" tvg-logo="http://epg.one/img/6702.png" group-title="Детские", BOX M.Serial HD
 #EXTGRP:Детские
 http://tv.woobl.ru/BOX_MSerial_HD/video.m3u8?token=.
@@ -3037,6 +3061,18 @@ http://x3m.li/live/buk8YDg1/kXBoUb25/19118.m3u8
 #EXTINF:-1 tvg-name="beIN Sports 2 HD TR" tvg-logo="http://epg.one/img/3874.png" group-title="Спорт", beIN Sports 2 HD TR
 #EXTGRP:Спорт
 http://x3m.li/live/buk8YDg1/kXBoUb25/19119.m3u8
+#EXTINF:-1 tvg-id="box-beonedge" tvg-name="BOX Be On Edge HD" tvg-logo="http://epg.one/img/6852.png" group-title="Спорт", BOX Be On Edge HD
+#EXTGRP:Спорт
+http://tv.woobl.ru/BOX_BeOnEdge_HD/video.m3u8?token=.
+#EXTINF:-1 tvg-id="box-sportcast" tvg-name="BOX Sportcast HD" tvg-logo="http://epg.one/img/8831.png" group-title="Спорт", BOX Sportcast HD
+#EXTGRP:Спорт
+http://tv.woobl.ru/BOX_Sportcast_HD/video.m3u8?token=.
+#EXTINF:-1 tvg-id="box-sportcast-live1" tvg-name="BOX Sportcast Live 1 HD" tvg-logo="http://epg.one/img/7890.png" group-title="Спорт", BOX Sportcast Live 1 HD
+#EXTGRP:Спорт
+http://tv.woobl.ru/BOX_SportCast_1_Live/video.m3u8?token=.
+#EXTINF:-1 tvg-id="box-sportcast-live2" tvg-name="BOX Sportcast Live 2 HD" tvg-logo="http://epg.one/img/7891.png" group-title="Спорт", BOX Sportcast Live 2 HD
+#EXTGRP:Спорт
+http://tv.woobl.ru/BOX_SportCast_2_Live/video.m3u8?token=.
 #EXTINF:-1 tvg-id="cbc-sport" tvg-name="CBC Sport" tvg-logo="http://epg.one/img/2636.png" group-title="Спорт", CBC Sport AZ
 #EXTGRP:Спорт
 http://x3m.li/live/buk8YDg1/kXBoUb25/19740.m3u8
