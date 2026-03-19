@@ -2164,6 +2164,9 @@ https://hostrec.ru/live/wic2AtEFCLwsZcUkAgtZcjlYgjc.m3u8
 #EXTINF:-1 tvg-id="salemalem-kz" tvg-name="Sälem älem!" tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/28afaf58f765c2ebf009_250x250c.jpg" group-title="Детские", Sälem älem!
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000008864/tve/index.m3u8
+#EXTINF:-1 tvg-id="sky-high-boom-fhd" tvg-name="SKY HIGH BOOM FHD" tvg-logo="https://epg.iptvx.one/picons/sky-high-boom-fhd.png" group-title="Детские", SKY HIGH BOOM FHD
+#EXTGRP:Детские
+http://tv.woobl.ru/SKY_HIGH_BOOM_FHD/video.m3u8?token=.
 #EXTINF:-1 tvg-id="sky-high-bunny-hd" tvg-name="SKY HIGH BUNNY HD" tvg-logo="https://epg.iptvx.one/picons/sky-high-bunny-hd.png" group-title="Детские", SKY HIGH BUNNY HD
 #EXTGRP:Детские
 http://tv.woobl.ru/BUNNYHD/video.m3u8?token=.
