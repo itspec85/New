@@ -1928,6 +1928,15 @@ http://cdn.kubteltv.workers.dev/?ID=358
 #EXTINF:-1 tvg-id="russian-extreme-uhd" tvg-name="Russian Extreme UHD" tvg-logo="http://epg.one/img/4110.png" group-title="Познавательные", Russian Extreme UHD
 #EXTGRP:Познавательные
 http://46.53.208.4:80/live/1042.m3u8
+#EXTINF:-1 tvg-id="sky-high-brain-hd" tvg-name="SKY HIGH BRAIN HD" tvg-logo="https://epg.iptvx.one/picons/sky-high-brain-hd.png" group-title="Познавательные", SKY HIGH BRAIN HD
+#EXTGRP:Познавательные
+http://tv.woobl.ru/SKYHIGHBRAINFHD/video.m3u8?token=.
+#EXTINF:-1 tvg-id="sky-high-doc-hd" tvg-name="SKY HIGH DOC HD" tvg-logo="https://epg.iptvx.one/picons/sky-high-doc-hd.png" group-title="Познавательные", SKY HIGH DOC HD
+#EXTGRP:Познавательные
+http://tv.woobl.ru/SKY_HIGH_DOC_FHD/video.m3u8?token=.
+#EXTINF:-1 tvg-id="sky-high-nature-fhd" tvg-name="SKY HIGH NATURE FHD" tvg-logo="https://epg.iptvx.one/picons/sky-high-nature-fhd.png" group-title="Познавательные", SKY HIGH NATURE FHD
+#EXTGRP:Познавательные
+http://tv.woobl.ru/SKY_HIGH_NATURE_FHD/video.m3u8?token=.
 #EXTINF:-1 tvg-id="terra-ru" tvg-name="TERRA" tvg-logo="http://epg.one/img/7632.png" group-title="Познавательные", TERRA
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000008142/tve/index.m3u8
@@ -2155,6 +2164,9 @@ https://hostrec.ru/live/wic2AtEFCLwsZcUkAgtZcjlYgjc.m3u8
 #EXTINF:-1 tvg-id="salemalem-kz" tvg-name="Sälem älem!" tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/28afaf58f765c2ebf009_250x250c.jpg" group-title="Детские", Sälem älem!
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000008864/tve/index.m3u8
+#EXTINF:-1 tvg-id="sky-high-bunny-hd" tvg-name="SKY HIGH BUNNY HD" tvg-logo="https://epg.iptvx.one/picons/sky-high-bunny-hd.png" group-title="Детские", SKY HIGH BUNNY HD
+#EXTGRP:Детские
+http://tv.woobl.ru/BUNNYHD/video.m3u8?token=.
 #EXTINF:-1 tvg-id="tiji" tvg-name="Tiji TV" tvg-logo="http://epg.one/img/555.png" group-title="Детские", Tiji TV
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000000174/tve/index.m3u8
@@ -2953,6 +2965,28 @@ http://hls127.freeott.top:8080/MyTV3/mono.m3u8
 #EXTINF:-1 tvg-name="MYTV HIT" tvg-logo="http://epg.one/img/107.png" group-title="Кинозал", MYTV HIT
 #EXTGRP:Кинозал
 http://hls127.freeott.top:8080/MyTV_Hit/mono.m3u8
+
+#EXTINF:-1 tvg-id="sky-high-archive-fhd" tvg-name="SKY HIGH ARCHIVE FHD" tvg-logo="https://epg.iptvx.one/picons/sky-high-archive-fhd.png" group-title="Кинозал", SKY HIGH ARCHIVE FHD
+#EXTGRP:Кинозал
+http://tv.woobl.ru/SKY_HIGH_ARCHIVE_FHD/video.m3u8?token=.
+#EXTINF:-1 tvg-id="sky-high-bats-fhd" tvg-name="SKY HIGH BATS FHD" tvg-logo="https://epg.iptvx.one/picons/sky-high-bats-fhd.png" group-title="Кинозал", SKY HIGH BATS FHD
+#EXTGRP:Кинозал
+http://tv.woobl.ru/SKY_HIGH_BAT_S_FHD/video.m3u8?token=.
+#EXTINF:-1 tvg-id="sky-high-beyond-s-fhd" tvg-name="SKY HIGH BEYOND S FHD" tvg-logo="https://epg.iptvx.one/picons/sky-high-beyond-s-fhd.png" group-title="Кинозал", SKY HIGH BEYOND S FHD
+#EXTGRP:Кинозал
+http://tv.woobl.ru/SKY_HIGH_BEYOND_S_FHD/video.m3u8?token=.
+#EXTINF:-1 tvg-id="sky-high-brick-s-fhd" tvg-name="SKY HIGH BRICK S FHD" tvg-logo="https://epg.iptvx.one/picons/sky-high-brick-s-fhd.png" group-title="Кинозал", SKY HIGH BRICK S FHD
+#EXTGRP:Кинозал
+http://tv.woobl.ru/SKY_HIGH_BRICK_S_FHD/video.m3u8?token=.
+#EXTINF:-1 tvg-id="sky-high-fear-vhs-fhd" tvg-name="SKY HIGH FEAR VHS FHD" tvg-logo="https://epg.iptvx.one/picons/sky-high-fear-vhs-fhd.png" group-title="Кинозал", SKY HIGH FEAR VHS FHD
+#EXTGRP:Кинозал
+http://tv.woobl.ru/SKY_HIGH_FEAR_VHS_FHD/video.m3u8?token=.
+#EXTINF:-1 tvg-id="sky-high-firezone-fhd" tvg-name="SKY HIGH FIREZONE FHD" tvg-logo="https://epg.iptvx.one/picons/sky-high-firezone-fhd.png" group-title="Кинозал", SKY HIGH FIREZONE FHD
+#EXTGRP:Кинозал
+http://tv.woobl.ru/SKY_HIGH_FIREZONE_FHD/video.m3u8?token=.
+
+
+
 
 
 
