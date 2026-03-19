@@ -2978,14 +2978,30 @@ http://tv.woobl.ru/SKY_HIGH_BEYOND_S_FHD/video.m3u8?token=.
 #EXTINF:-1 tvg-id="sky-high-brick-s-fhd" tvg-name="SKY HIGH BRICK S FHD" tvg-logo="https://epg.iptvx.one/picons/sky-high-brick-s-fhd.png" group-title="Кинозал", SKY HIGH BRICK S FHD
 #EXTGRP:Кинозал
 http://tv.woobl.ru/SKY_HIGH_BRICK_S_FHD/video.m3u8?token=.
+#EXTINF:-1 tvg-id="sky-high-case-vhs-fhd" tvg-name="SKY HIGH CASE VHS FHD" tvg-logo="https://epg.iptvx.one/picons/sky-high-case-vhs-fhd.png" group-title="Кинозал", SKY HIGH CASE VHS FHD
+#EXTGRP:Кинозал
+http://tv.woobl.ru/SKY_HIGH_CASE_VHS_FHD/video.m3u8?token=.
+#EXTINF:-1 tvg-id="sky-high-civil-s-fhd" tvg-name="SKY HIGH CIVIL S FHD" tvg-logo="https://epg.iptvx.one/picons/sky-high-civil-s-fhd.png" group-title="Кинозал", SKY HIGH CIVIL S FHD
+#EXTGRP:Кинозал
+http://tv.woobl.ru/SKY_HIGH_CIVIL_S_FHD/video.m3u8?token=.
+#EXTINF:-1 tvg-id="sky-high-dragon-fhd" tvg-name="SKY HIGH DRAGON FHD" tvg-logo="https://epg.iptvx.one/picons/sky-high-dragon-fhd.png" group-title="Кинозал", SKY HIGH DRAGON FHD
+#EXTGRP:Кинозал
+http://tv.woobl.ru/SKY_HIGH_DRAGON_FHD/video.m3u8?token=.
+#EXTINF:-1 tvg-id="sky-high-dusts-fhd" tvg-name="SKY HIGH DUST S FHD" tvg-logo="https://epg.iptvx.one/picons/sky-high-dusts-fhd.png" group-title="Кинозал", SKY HIGH DUST S FHD
+#EXTGRP:Кинозал
+http://tv.woobl.ru/SKY_HIGH_DUST_S_FHD/video.m3u8?token=.
 #EXTINF:-1 tvg-id="sky-high-fear-vhs-fhd" tvg-name="SKY HIGH FEAR VHS FHD" tvg-logo="https://epg.iptvx.one/picons/sky-high-fear-vhs-fhd.png" group-title="Кинозал", SKY HIGH FEAR VHS FHD
 #EXTGRP:Кинозал
 http://tv.woobl.ru/SKY_HIGH_FEAR_VHS_FHD/video.m3u8?token=.
 #EXTINF:-1 tvg-id="sky-high-firezone-fhd" tvg-name="SKY HIGH FIREZONE FHD" tvg-logo="https://epg.iptvx.one/picons/sky-high-firezone-fhd.png" group-title="Кинозал", SKY HIGH FIREZONE FHD
 #EXTGRP:Кинозал
 http://tv.woobl.ru/SKY_HIGH_FIREZONE_FHD/video.m3u8?token=.
-
-
+#EXTINF:-1 tvg-id="sky-high-future-fhd" tvg-name="SKY HIGH FUTURE FHD" tvg-logo="https://epg.iptvx.one/picons/sky-high-future-fhd.png" group-title="Кинозал", SKY HIGH FUTURE FHD
+#EXTGRP:Кинозал
+http://tv.woobl.ru/SKY_HIGH_FUTURE_FHD/video.m3u8?token=.
+#EXTINF:-1 tvg-id="sky-high-gunrush-fhd" tvg-name="SKY HIGH GUNRUSH FHD" tvg-logo="https://epg.iptvx.one/picons/sky-high-gunrush-fhd.png" group-title="Кинозал", SKY HIGH GUNRUSH FHD
+#EXTGRP:Кинозал
+http://tv.woobl.ru/SKY_HIGH_GUNRUSH_FHD/video.m3u8?token=.
 
 
 
