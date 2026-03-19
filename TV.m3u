@@ -3002,7 +3002,57 @@ http://tv.woobl.ru/SKY_HIGH_FUTURE_FHD/video.m3u8?token=.
 #EXTINF:-1 tvg-id="sky-high-gunrush-fhd" tvg-name="SKY HIGH GUNRUSH FHD" tvg-logo="https://epg.iptvx.one/picons/sky-high-gunrush-fhd.png" group-title="Кинозал", SKY HIGH GUNRUSH FHD
 #EXTGRP:Кинозал
 http://tv.woobl.ru/SKY_HIGH_GUNRUSH_FHD/video.m3u8?token=.
-
+#EXTINF:-1 tvg-id="sky-high-heart-s-fhd" tvg-name="SKY HIGH HEART S FHD" tvg-logo="https://epg.iptvx.one/picons/sky-high-heart-s-fhd.png" group-title="Кинозал", SKY HIGH HEART S FHD
+#EXTGRP:Кинозал
+http://tv.woobl.ru/SKY_HIGH_HEART_S_FHD/video.m3u8?token=.
+#EXTINF:-1 tvg-id="sky-high-horror-hdr" tvg-name="SKY HIGH HORROR HDR" tvg-logo="https://epg.iptvx.one/picons/sky-high-horror-hdr.png" group-title="Кинозал", SKY HIGH HORROR HDR
+#EXTGRP:Кинозал
+http://tv.woobl.ru/SKY_HIGH_HORROR_4K_HDR/video.m3u8?token=.
+#EXTINF:-1 tvg-id="sky-high-joke-fhd" tvg-name="SKY HIGH JOKE FHD" tvg-logo="https://epg.iptvx.one/picons/sky-high-joke-fhd.png" group-title="Кинозал", SKY HIGH JOKE FHD
+#EXTGRP:Кинозал
+http://tv.woobl.ru/SKY_HIGH_JOKE_FHD/video.m3u8?token=.
+#EXTINF:-1 tvg-id="sky-high-medy-vhs-fhd" tvg-name="SKY HIGH MEDY VHS FHD" tvg-logo="https://epg.iptvx.one/picons/sky-high-medy-vhs-fhd.png" group-title="Кинозал", SKY HIGH MEDY VHS FHD
+#EXTGRP:Кинозал
+http://tv.woobl.ru/SKY_HIGH_MEDY_VHS_FHD/video.m3u8?token=.
+#EXTINF:-1 tvg-id="sky-high-neonvhs-fhd" tvg-name="SKY HIGH NEON VHS FHD" tvg-logo="https://epg.iptvx.one/picons/sky-high-neonvhs-fhd.png" group-title="Кинозал", SKY HIGH NEON VHS FHD
+#EXTGRP:Кинозал
+http://tv.woobl.ru/SKY_HIGH_NEON_VHS_FHD/video.m3u8?token=.
+#EXTINF:-1 tvg-id="sky-high-quants-fhd" tvg-name="SKY HIGH QUANT S FHD" tvg-logo="https://epg.iptvx.one/picons/sky-high-quants-fhd.png" group-title="Кинозал", SKY HIGH QUANT S FHD
+#EXTGRP:Кинозал
+http://tv.woobl.ru/SKY_HIGH_QUANT_S_FHD/video.m3u8?token=.
+#EXTINF:-1 tvg-id="sky-high-red-s-fhd" tvg-name="SKY HIGH RED S FHD" tvg-logo="https://epg.iptvx.one/picons/sky-high-red-s-fhd.png" group-title="Кинозал", SKY HIGH RED S FHD
+#EXTGRP:Кинозал
+http://tv.woobl.ru/SKY_HIGH_RED_S_FHD/video.m3u8?token=.
+#EXTINF:-1 tvg-id="sky-high-romix-fhd" tvg-name="SKY HIGH ROMIX FHD" tvg-logo="https://epg.iptvx.one/picons/sky-high-romix-fhd.png" group-title="Кинозал", SKY HIGH ROMIX FHD
+#EXTGRP:Кинозал
+http://tv.woobl.ru/SKY_HIGH_ROMIX_FHD/video.m3u8?token=.
+#EXTINF:-1 tvg-id="sky-high-scream-fhd" tvg-name="SKY HIGH SCREAM FHD" tvg-logo="https://epg.iptvx.one/picons/sky-high-scream-fhd.png" group-title="Кинозал", SKY HIGH SCREAM FHD
+#EXTGRP:Кинозал
+http://tv.woobl.ru/SKY_HIGH_SCREAM_FHD/video.m3u8?token=.
+#EXTINF:-1 tvg-id="sky-high-space-4k-hdr" tvg-name="SKY HIGH SPACE 4K HDR" tvg-logo="https://epg.iptvx.one/picons/sky-high-space-4k-hdr.png" group-title="Кинозал", SKY HIGH SPACE 4K HDR
+#EXTGRP:Кинозал
+http://tv.woobl.ru/SKY_HIGH_SPACE_4K_HDR/video.m3u8?token=.
+#EXTINF:-1 tvg-id="sky-high-strike-vhs-fhd" tvg-name="SKY HIGH STRIKE VHS FHD" tvg-logo="https://epg.iptvx.one/picons/sky-high-strike-vhs-fhd.png" group-title="Кинозал", SKY HIGH STRIKE VHS FHD
+#EXTGRP:Кинозал
+http://tv.woobl.ru/SKY_HIGH_STRIKE_VHS_FHD/video.m3u8?token=.
+#EXTINF:-1 tvg-id="sky-high-tanoss-fhd" tvg-name="SKY HIGH TANOS S FHD" tvg-logo="https://epg.iptvx.one/picons/sky-high-tanoss-fhd.png" group-title="Кинозал", SKY HIGH TANOS S FHD
+#EXTGRP:Кинозал
+http://tv.woobl.ru/SKY_HIGH_TANOS_S_FHD/video.m3u8?token=.
+#EXTINF:-1 tvg-id="sky-high-trace-s-fhd" tvg-name="SKY HIGH TRACE S FHD" tvg-logo="https://epg.iptvx.one/picons/sky-high-trace-s-fhd.png" group-title="Кинозал", SKY HIGH TRACE S FHD
+#EXTGRP:Кинозал
+http://tv.woobl.ru/SKY_HIGH_TRACE_S_FHD/video.m3u8?token=.
+#EXTINF:-1 tvg-id="sky-high-votum-s-fhd" tvg-name="SKY HIGH VOTUM S FHD" tvg-logo="https://epg.iptvx.one/picons/sky-high-votum-s-fhd.png" group-title="Кинозал", SKY HIGH VOTUM S FHD
+#EXTGRP:Кинозал
+http://tv.woobl.ru/SKY_HIGH_VOTUM_S_FHD/video.m3u8?token=.
+#EXTINF:-1 tvg-id="sky-high-wizz-vhs-fhd" tvg-name="SKY HIGH WIZZ VHS FHD" tvg-logo="https://epg.iptvx.one/picons/sky-high-wizz-vhs-fhd.png" group-title="Кинозал", SKY HIGH WIZZ VHS FHD
+#EXTGRP:Кинозал
+http://tv.woobl.ru/SKY_HIGH_WIZZ_VHS_FHD/video.m3u8?token=.
+#EXTINF:-1 tvg-id="sky-high-woonder-fhd" tvg-name="SKY HIGH WOONDER FHD" tvg-logo="https://epg.iptvx.one/picons/sky-high-woonder-fhd.png" group-title="Кинозал", SKY HIGH WOONDER FHD
+#EXTGRP:Кинозал
+http://tv.woobl.ru/SKY_HIGH_WOONDER_FHD/video.m3u8?token=.
+#EXTINF:-1 tvg-id="sky-high-zippy-s-fhd" tvg-name="SKY HIGH ZIPPY S FHD" tvg-logo="https://epg.iptvx.one/picons/sky-high-zippy-s-fhd.png" group-title="Кинозал", SKY HIGH ZIPPY S FHD
+#EXTGRP:Кинозал
+http://tv.woobl.ru/SKY_HIGH_ZIPPY_S_FHD/video.m3u8?token=.
 
 
 
