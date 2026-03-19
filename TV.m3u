@@ -2170,6 +2170,15 @@ http://tv.woobl.ru/SKY_HIGH_BOOM_FHD/video.m3u8?token=.
 #EXTINF:-1 tvg-id="sky-high-bunny-hd" tvg-name="SKY HIGH BUNNY HD" tvg-logo="https://epg.iptvx.one/picons/sky-high-bunny-hd.png" group-title="Детские", SKY HIGH BUNNY HD
 #EXTGRP:Детские
 http://tv.woobl.ru/BUNNYHD/video.m3u8?token=.
+#EXTINF:-1 tvg-id="sky-high-jetix-hd" tvg-name="SKY HIGH JETIX HD" tvg-logo="https://epg.iptvx.one/picons/sky-high-jetix-hd.png" group-title="Детские", SKY HIGH JETIX HD
+#EXTGRP:Детские
+http://tv.woobl.ru/SKY_HIGH_JETIX_HD/video.m3u8?token=.
+#EXTINF:-1 tvg-id="sky-high-teen-fhd" tvg-name="SKY HIGH TEEN FHD" tvg-logo="https://epg.iptvx.one/picons/sky-high-teen-fhd.png" group-title="Детские", SKY HIGH TEEN FHD
+#EXTGRP:Детские
+http://tv.woobl.ru/SKY_HIGH_TEEN_FHD/video.m3u8?token=.
+#EXTINF:-1 tvg-id="sky-high-toon-s-fhd" tvg-name="SKY HIGH TOON S FHD" tvg-logo="https://epg.iptvx.one/picons/sky-high-toon-s-fhd.png" group-title="Детские", SKY HIGH TOON S FHD
+#EXTGRP:Детские
+http://tv.woobl.ru/SKY_HIGH_TOON_S_FHD/video.m3u8?token=.
 #EXTINF:-1 tvg-id="tiji" tvg-name="Tiji TV" tvg-logo="http://epg.one/img/555.png" group-title="Детские", Tiji TV
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000000174/tve/index.m3u8
