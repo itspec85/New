@@ -2194,7 +2194,7 @@ https://ucdn.beetv.kz/bpk-tv/000000174/tve/index.m3u8
 #EXTINF:-1 tvg-id="blokbaster" tvg-name="Блокбастер" tvg-logo="http://epg.one/img/2832.png" group-title="Кино", Блокбастер
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
-https://mhd128.iptv2022.com/p/v74bsv5CXndnZGnoKvsL-Q,1773950188/streaming/blokbaster/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/1Fbc03yh-Ghf7Lmy_9U7sQ,1774036558/streaming/blokbaster/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="blokbaster-hd" tvg-name="Блокбастер HD" tvg-logo="http://epg.one/img/2832.png" group-title="Кино", Блокбастер HD
 #EXTGRP:Кино
 http://cdn.kubteltv.workers.dev/?ID=219
@@ -2204,7 +2204,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/playlist.m3u8
 #EXTINF:-1 tvg-id="denpobedy" tvg-name="День Победы HD" tvg-logo="http://epg.one/img/2773.png" group-title="Кино", День Победы HD
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
-https://mhd128.iptv2022.com/p/Fj97QkmkZwC-dBzlH_56sg,1773950189/streaming/den-pobedi/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/3AZttufZCU0yHjjEgZbe7w,1774036558/streaming/den-pobedi/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="domkino" tvg-name="Дом кино" tvg-logo="http://epg.one/img/834.png" group-title="Кино", Дом Кино
 #EXTGRP:Кино
 http://176.96.241.40/DomKino/index.m3u8
@@ -2235,7 +2235,7 @@ https://a3569457567-s70378.cdn.ngenix.net/zee_tv/2/index.m3u8
 #EXTINF:-1 tvg-id="kamedi" tvg-name="Камеди HD" tvg-logo="http://epg.one/img/2836.png" group-title="Кино", Камеди HD
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
-https://mhd128.iptv2022.com/p/SGRuwdcGe1c12JsHVy6-hw,1773950188/streaming/kamedi/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/7TLeFplPLfhbaR_GMsuqBg,1774036558/streaming/kamedi/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="kineko" tvg-name="Кинеко" tvg-logo="http://epg.one/img/7314.png" group-title="Кино", Кинеко
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000008136/tve/index.m3u8
@@ -2317,7 +2317,7 @@ http://hls127.freeott.top:8080/Nashe_HD/mono.m3u8
 #EXTINF:-1 tvg-id="nashe-muzhskoe" tvg-name="Наше Мужское HD" tvg-logo="http://epg.one/img/2835.png" group-title="Кино", Наше Мужское HD
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
-https://mhd128.iptv2022.com/p/T34fw-dvyTDxbvH12i5I9A,1773950188/streaming/nashemuzskoe/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/g0ISRLhfPNlISkpNywzqgg,1774036558/streaming/nashemuzskoe/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="nashe-novoe-kino" tvg-name="Наше новое кино" tvg-logo="http://epg.one/img/485.png" group-title="Кино", Наше новое кино
 #EXTGRP:Кино
 http://185.46.16.239:8000/Nickelodeon
@@ -3116,11 +3116,11 @@ https://stream8.cinerama.uz/1049/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="match-premier" tvg-name="Матч! Премьер" tvg-logo="http://epg.one/img/2250.png" group-title="Спорт", МАТЧ ПРЕМЬЕР
 #EXTGRP:Спорт
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
-https://mhd128.iptv2022.com/p/dz6CKqJHsWUnPYOivdiTlQ,1773950190/streaming/match_premyer/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/hxIMjiNXosVa7OU5UxCn8A,1774036559/streaming/match_premyer/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="match-premier" tvg-name="Матч! Премьер HD" tvg-logo="http://epg.one/img/2250.png" group-title="Спорт", МАТЧ ПРЕМЬЕР HD
 #EXTGRP:Спорт
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
-https://mhd128.iptv2022.com/p/CevijnV8MGTMRj1rXEA40g,1773950190/streaming/match_premyerhd/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/qbAukpJVSZ0JgBvxp7_xeg,1774036559/streaming/match_premyerhd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="match-nash-sport" tvg-name="Матч! Страна" tvg-logo="http://epg.one/img/2042.png" group-title="Спорт", МАТЧ! СТРАНА
 #EXTGRP:Спорт
 http://ukr.ukrainske.tv/134/keytvainua/video.m3u8
@@ -3130,21 +3130,21 @@ http://193.25.8.59:8000/fut
 #EXTINF:-1 tvg-id="match-football1" tvg-name="Матч! Футбол 1 HD" tvg-logo="http://epg.one/img/2044.png" group-title="Спорт", Матч! Футбол 1 HD
 #EXTGRP:Спорт
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
-https://mhd128.iptv2022.com/p/GwToKsTlYO_LfYLGZl_WHg,1773950190/streaming/footbal1hd/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/myQSnV5HllGwaG9BB4dJ9g,1774036559/streaming/footbal1hd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="match-football2" tvg-name="Матч! Футбол 2" tvg-logo="http://epg.one/img/1042.png" group-title="Спорт", Матч! Футбол 2
 #EXTGRP:Спорт
 http://193.25.8.59:8000/fut2
 #EXTINF:-1 tvg-id="match-football2" tvg-name="Матч! Футбол 2 HD" tvg-logo="http://epg.one/img/1042.png" group-title="Спорт", Матч! Футбол 2 HD
 #EXTGRP:Спорт
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
-https://mhd128.iptv2022.com/p/DsOGfTD4_CQEiz2AS3Trrw,1773950190/streaming/footbal2hd/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/xTOlazBlIR468IGh7yHvWw,1774036559/streaming/footbal2hd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="match-football3" tvg-name="Матч! Футбол 3" tvg-logo="http://epg.one/img/2005.png" group-title="Спорт", Матч! Футбол 3
 #EXTGRP:Спорт
 http://185.57.68.33:80/110/index.m3u8
 #EXTINF:-1 tvg-id="match-football3" tvg-name="Матч! Футбол 3 HD" tvg-logo="http://epg.one/img/2005.png" group-title="Спорт", Матч! Футбол 3 HD
 #EXTGRP:Спорт
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
-https://mhd128.iptv2022.com/p/54pVDYKcqtntwu3Q22jovA,1773950190/streaming/footbal3hd/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/GQMFoMt7K7ki3M4KLCugYg,1774036559/streaming/footbal3hd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="mir-basketbola" tvg-name="Мир баскетбола" tvg-logo="http://epg.one/img/4629.png" group-title="Спорт", Мир Баскетбола
 #EXTGRP:Спорт
 http://45.145.32.13:20440/mir_basketbola/index.m3u8?token=test
@@ -3268,7 +3268,7 @@ https://stream8.cinerama.uz/1028/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="kxl-hd" tvg-name="KHL Prime HD" tvg-logo="http://epg.one/img/1038.png" group-title="Спорт", KHL Prime HD
 #EXTGRP:Спорт
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
-https://mhd128.iptv2022.com/p/CktvchEn4dr3mfpcBRDCnA,1773950190/streaming/khlhd/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/QQx9kj1sYzKGqfOv3J3gVA,1774036559/streaming/khlhd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="kxl-hd" tvg-name="KHL Prime HD" tvg-logo="http://epg.one/img/1038.png" group-title="Спорт", KHL Prime HD (резерв)
 #EXTGRP:Спорт
 http://193.25.8.59:8000/khl
