@@ -1580,9 +1580,6 @@ https://live-4.otcnet.ru/504/135/1080p/index.m3u8
 #EXTINF:-1 tvg-id="krasnaya-linia" tvg-name="Красная линия" tvg-logo="http://epg.one/img/2476.png" group-title="Познавательные", Красная линия
 #EXTGRP:Познавательные
 https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="kriminalnoe-hd" tvg-name="Криминальное HD" tvg-logo="http://epg.one/img/7844.png" group-title="Познавательные", Криминальное HD
-#EXTGRP:Познавательные
-http://tv.woobl.ru/kriminalnoe_hd/video.m3u8?token=.
 #EXTINF:-1 tvg-id="kto-est-kto" tvg-name="Кто есть кто" tvg-logo="http://epg.one/img/2456.png" group-title="Познавательные", Кто есть кто
 #EXTGRP:Познавательные
 http://158.101.222.193:88/georgia_play.php?id=ktoestkto
@@ -2908,18 +2905,6 @@ http://x3m.li/live/buk8YDg1/kXBoUb25/19118.m3u8
 #EXTINF:-1 tvg-name="beIN Sports 2 HD TR" tvg-logo="http://epg.one/img/3874.png" group-title="Спорт", beIN Sports 2 HD TR
 #EXTGRP:Спорт
 http://x3m.li/live/buk8YDg1/kXBoUb25/19119.m3u8
-#EXTINF:-1 tvg-id="box-beonedge" tvg-name="BOX Be On Edge HD" tvg-logo="http://epg.one/img/6852.png" group-title="Спорт", BOX Be On Edge HD
-#EXTGRP:Спорт
-http://tv.woobl.ru/BOX_BeOnEdge_HD/video.m3u8?token=.
-#EXTINF:-1 tvg-id="box-sportcast" tvg-name="BOX Sportcast HD" tvg-logo="http://epg.one/img/8831.png" group-title="Спорт", BOX Sportcast HD
-#EXTGRP:Спорт
-http://tv.woobl.ru/BOX_Sportcast_HD/video.m3u8?token=.
-#EXTINF:-1 tvg-id="box-sportcast-live1" tvg-name="BOX Sportcast Live 1 HD" tvg-logo="http://epg.one/img/7890.png" group-title="Спорт", BOX Sportcast Live 1 HD
-#EXTGRP:Спорт
-http://tv.woobl.ru/BOX_SportCast_1_Live/video.m3u8?token=.
-#EXTINF:-1 tvg-id="box-sportcast-live2" tvg-name="BOX Sportcast Live 2 HD" tvg-logo="http://epg.one/img/7891.png" group-title="Спорт", BOX Sportcast Live 2 HD
-#EXTGRP:Спорт
-http://tv.woobl.ru/BOX_SportCast_2_Live/video.m3u8?token=.
 #EXTINF:-1 tvg-id="cbc-sport" tvg-name="CBC Sport" tvg-logo="http://epg.one/img/2636.png" group-title="Спорт", CBC Sport AZ
 #EXTGRP:Спорт
 http://x3m.li/live/buk8YDg1/kXBoUb25/19740.m3u8
