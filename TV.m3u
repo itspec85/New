@@ -191,7 +191,7 @@ http://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v3a1/mono.m3u8
 http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
 #EXTINF:-1 tvg-id="mir" tvg-name="Мир" tvg-logo="http://epg.one/img/726.png" group-title="Россия", Мир
 #EXTGRP:Россия
-http://194.158.222.36:6104
+http://46.53.208.4:80/live/754-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 tvg-id="mir" tvg-name="Мир HD" tvg-logo="http://epg.one/img/726.png" group-title="Россия", Мир HD
 #EXTGRP:Россия
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
@@ -268,7 +268,7 @@ http://109.207.243.18/2/index.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-id="rossia-24" tvg-name="Россия-24" tvg-logo="http://epg.one/img/1683.png" group-title="Россия", Россия-24
 #EXTGRP:Россия
-http://91.210.192.13:1000/russia-24
+http://185.46.16.239:8000/Rossiya_24
 #EXTINF:-1 tvg-id="rossia-24" tvg-name="Россия-24 HD" tvg-logo="http://epg.one/img/1683.png" group-title="Россия", Россия-24 HD
 #EXTGRP:Россия
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
