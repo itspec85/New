@@ -2811,7 +2811,8 @@ https://a3285272783-s80718.cdn.ngenix.net/hls/CH_BOKS_TVHD/video_1920x1080_avc1/
 https://live.teleradiocom.tj/5/3m.m3u8
 #EXTINF:-1 tvg-id="konny-mir" tvg-name="Конный Мир" tvg-logo="http://epg.one/img/1679.png" group-title="Спорт", Конный Мир
 #EXTGRP:Спорт
-http://cdn-01.bonus-tv.ru/kmir/mono.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
+https://mhd128.iptv2022.com/p/nbtHY2JKPPF9OBl9U_cfPw,1774383109/streaming/konniy/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="match-tv" tvg-name="Матч ТВ" tvg-logo="http://epg.one/img/2051.png" group-title="Спорт", Матч ТВ
 #EXTGRP:Спорт
 http://185.46.48.18:80/match/tracks-v1a1/mono.m3u8
