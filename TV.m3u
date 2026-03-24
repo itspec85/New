@@ -2180,7 +2180,7 @@ https://ucdn.beetv.kz/bpk-tv/000005450/tve/index.m3u8
 https://a3569457567-s70378.cdn.ngenix.net/mnogo_tv/1/index.m3u8
 #EXTINF:-1 tvg-id="kinouzhas" tvg-name="Киноужас" tvg-logo="http://epg.one/img/2493.png" group-title="Кино", Киноужас
 #EXTGRP:Кино
-http://158.101.222.193:88/georgia_play.php?id=kinoujas
+https://a3569457567-s70378.cdn.ngenix.net/kinouzhas/1/index.m3u8
 #EXTINF:-1 tvg-id="kinoxit" tvg-name="Кинохит" tvg-logo="http://epg.one/img/542.png" group-title="Кино", КИНОХИТ
 #EXTGRP:Кино
 https://stream8.cinerama.uz/1055/tracks-v1a1/mono.m3u8
