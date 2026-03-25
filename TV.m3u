@@ -3150,7 +3150,7 @@ http://rtmp.one.by:2300
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="tnt-music" tvg-name="ТНТ Music" tvg-logo="http://epg.one/img/680.png" group-title="Музыка", ТНТ MUSIC
 #EXTGRP:Музыка
-http://tntm.mediacdn.ru/cdn/tntmusic/playlist_hdhigh.m3u8
+http://185.46.16.239:8000/Nashe_TV
 #EXTINF:-1 tvg-id="shanson-tv" tvg-name="Шансон TB" tvg-logo="http://epg.one/img/2278.png" group-title="Музыка", Шансон TB
 #EXTGRP:Музыка
 http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
