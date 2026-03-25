@@ -320,7 +320,7 @@ https://ucdn.beetv.kz/bpk-tv/000000112/tve/index.m3u8
 http://176.118.197.101/THT/index.m3u8
 #EXTINF:-1 tvg-id="tnt" tvg-name="ТНТ HD" tvg-logo="http://epg.one/img/1767.png" group-title="Россия", ТНТ HD
 #EXTGRP:Россия
-http://river-1.rutube.ru/stream/genetta-419.ntv.rutube.ru/A5RoBmPtyPQ2Z3DpWBLcUQ/1774541924/e90ba242c98400b075835c3c3eec999a/1080p_stream.m3u8
+http://cdn.kubteltv.workers.dev/?ID=373
 #EXTINF:-1 tvg-id="tnt-int-cis" tvg-name="ТНТ-International (СНГ)" tvg-logo="http://epg.one/img/5692.png" group-title="Россия", ТНТ International
 #EXTGRP:Россия
 https://ucdn.beetv.kz/bpk-tv/000007833/tve/index.m3u8
@@ -1502,6 +1502,9 @@ https://ucdn.beetv.kz/bpk-tv/000000195/tve/index.m3u8
 #EXTINF:-1 tvg-id="vremia" tvg-name="Время" tvg-logo="http://epg.one/img/669.png" group-title="Познавательные", Время
 #EXTGRP:Познавательные
 http://193.25.8.59:8000/vremya
+#EXTINF:-1 tvg-id="glazami-turista-4k" tvg-name="Глазами туриста 4K" tvg-logo="http://epg.one/img/5979.png" group-title="Познавательные", Глазами туриста 4K
+#EXTGRP:Познавательные
+http://cdn.kubteltv.workers.dev/?ID=342
 #EXTINF:-1 tvg-id="glazami-turista" tvg-name="Глазами туриста HD" tvg-logo="http://epg.one/img/2508.png" group-title="Познавательные", Глазами туриста HD
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000001414/tve/index.m3u8
