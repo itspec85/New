@@ -165,6 +165,9 @@ https://ucdn.beetv.kz/bpk-tv/000001213/tve/index.m3u8
 #EXTINF:-1 tvg-id="domashny" tvg-name="Домашний" tvg-logo="http://epg.one/img/304.png" group-title="Россия", Домашний
 #EXTGRP:Россия
 http://185.46.16.239:8000/Domashniy
+#EXTINF:-1 tvg-id="domashny" tvg-name="Домашний" tvg-logo="http://epg.one/img/304.png" group-title="Россия", Домашний HD
+#EXTGRP:Россия
+http://cdn.kubteltv.workers.dev/?ID=378
 #EXTINF:-1 tvg-id="domashny-int" tvg-name="Домашний International" tvg-logo="https://iptvx.one/picons/domashny-int.png" group-title="Россия", Домашний International
 #EXTGRP:Россия
 https://ucdn.beetv.kz/bpk-tv/000002348/tve/index.m3u8
@@ -233,6 +236,9 @@ https://ucdn.beetv.kz/bpk-tv/000007816/tve/index.m3u8
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://dmi3y-tv6.ru/hls/DVB-T2/CH_5TV.m3u8
+#EXTINF:-1 tvg-id="5kanal-ru" tvg-name="Пятый канал" tvg-logo="http://epg.one/img/427.png" group-title="Россия", Пятый канал HD
+#EXTGRP:Россия
+http://cdn.kubteltv.workers.dev/?ID=423
 #EXTINF:-1 tvg-id="piaty-int" tvg-name="Пятый канал International" tvg-logo="https://avatars.mds.yandex.net/i?id=e9ba006374ab68db1cf51c33b359b14053195429-5477304-images-thumbs&n=13" group-title="Россия", Пятый канал International
 #EXTGRP:Россия
 http://178.124.153.123:44400/5kanal
@@ -245,6 +251,9 @@ https://e5-online-video.rbc.ru/online2/rbctvhd_1080p/index.m3u8
 #EXTINF:-1 tvg-id="rentv" tvg-name="Рен ТВ" tvg-logo="http://epg.one/img/18.png" group-title="Россия", РЕН ТВ
 #EXTGRP:Россия
 http://95.47.155.244:8001/play/a011
+#EXTINF:-1 tvg-id="rentv" tvg-name="Рен ТВ" tvg-logo="http://epg.one/img/2487.png" group-title="Россия", РЕН ТВ HD
+#EXTGRP:Россия
+http://cdn.kubteltv.workers.dev/?ID=376
 #EXTINF:-1 tvg-name="Рен ТВ International" tvg-logo="https://i.postimg.cc/SsRGs7Y7/International.png" group-title="Россия", Рен ТВ International
 #EXTGRP:Россия
 https://ucdn.beetv.kz/bpk-tv/000002472/tve/index.m3u8
@@ -278,6 +287,9 @@ http://player.smotrim.ru/iframe/stream/live_id/d7fef212-df66-485d-9952-7eab82d7d
 #EXTINF:-1 tvg-id="sts" tvg-name="СТС" tvg-logo="http://epg.one/img/79.png" group-title="Россия", СТС
 #EXTGRP:Россия
 http://176.118.197.101/CTC/index.m3u8
+#EXTINF:-1 tvg-id="sts" tvg-name="СТС" tvg-logo="http://epg.one/img/79.png" group-title="Россия", СТС HD
+#EXTGRP:Россия
+http://cdn.kubteltv.workers.dev/?ID=377
 #EXTINF:-1 tvg-id="sts-int" tvg-name="СТС International" tvg-logo="http://epg.one/img/5652.png" group-title="Россия", СТС International
 #EXTGRP:Россия
 https://ucdn.beetv.kz/bpk-tv/000000428/tve/index.m3u8
@@ -291,6 +303,9 @@ http://217.114.191.150/Subbota/index.m3u8
 #EXTINF:-1 tvg-id="tv3-ru" tvg-name="ТВ3" tvg-logo="http://epg.one/img/698.png" group-title="Россия", ТВ3
 #EXTGRP:Россия
 http://185.46.16.239:8000/TV3
+#EXTINF:-1 tvg-id="tv3-ru" tvg-name="ТВ3" tvg-logo="http://epg.one/img/698.png" group-title="Россия", ТВ3 HD
+#EXTGRP:Россия
+http://cdn.kubteltv.workers.dev/?ID=379
 #EXTINF:-1 tvg-id="tv3-int" tvg-name="ТВ3 International" tvg-logo="https://avatars.mds.yandex.net/i?id=8eb6e54feabff4269b2b5bca31f0abdffeefb21a-7552730-images-thumbs&n=13" group-title="Россия", ТВ3 International
 #EXTGRP:Россия
 https://ucdn.beetv.kz/bpk-tv/000004712/tve/index.m3u8
@@ -1877,6 +1892,9 @@ http://46.53.208.4:80/live/131.m3u8
 #EXTINF:-1 tvg-id="rtvi" tvg-name="RTVi" tvg-logo="http://epg.one/img/2401.png" group-title="Познавательные", RTVi
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000000039/tve/index.m3u8
+#EXTINF:-1 tvg-id="russky-ekstrim" tvg-name="Russian Extreme HD" tvg-logo="http://epg.one/img/2497.png" group-title="Познавательные", Russian Extreme HD
+#EXTGRP:Познавательные
+http://cdn.kubteltv.workers.dev/?ID=358
 #EXTINF:-1 tvg-id="russian-extreme-uhd" tvg-name="Russian Extreme UHD" tvg-logo="http://epg.one/img/4110.png" group-title="Познавательные", Russian Extreme UHD
 #EXTGRP:Познавательные
 http://46.53.208.4:80/live/1042.m3u8
@@ -2062,6 +2080,9 @@ http://hls127.freeott.top:8080/CPS_Cartoon/video.m3u8
 #EXTINF:-1 tvg-id="da-vinci" tvg-name="Da Vinci HD" tvg-logo="http://epg.one/img/8908.png" group-title="Детские", Da Vinci HD
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000000333/tve/index.m3u8
+#EXTINF:-1 tvg-id="familyjam" tvg-name="FamilyJam" tvg-logo="http://epg.one/img/7902.png" group-title="Детские", FamilyJam HD
+#EXTGRP:Детские
+http://cdn.kubteltv.workers.dev/?ID=300
 #EXTINF:-1 tvg-id="gulli-girl" tvg-name="Gulli" tvg-logo="http://epg.one/img/810.png" group-title="Детские", Gulli
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000000284/tve/index.m3u8
@@ -2099,6 +2120,9 @@ https://ucdn.beetv.kz/bpk-tv/000000174/tve/index.m3u8
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
 https://mhd128.iptv2022.com/p/z11iDubUmYSWgujzZwdK9Q,1774383107/streaming/blokbaster/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="blokbaster-hd" tvg-name="Блокбастер HD" tvg-logo="http://epg.one/img/2832.png" group-title="Кино", Блокбастер HD
+#EXTGRP:Кино
+http://cdn.kubteltv.workers.dev/?ID=219
 #EXTINF:-1 tvg-name="Видеокассета TV" tvg-logo="https://avatars.mds.yandex.net/i?id=aa54d677b7da13a106d22ee95411b140d0009712-15274206-images-thumbs&n=13" group-title="Кино", Видеокассета TV
 #EXTGRP:Кино
 https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/playlist.m3u8
@@ -2268,6 +2292,9 @@ https://ucdn.beetv.kz/bpk-tv/000004207/tve/index.m3u8
 #EXTINF:-1 tvg-id="russky-roman" tvg-name="Русский роман" tvg-logo="http://epg.one/img/401.png" group-title="Кино", Русский роман
 #EXTGRP:Кино
 http://193.25.8.59:8000/rusroman
+#EXTINF:-1 tvg-id="russky-roman" tvg-name="Русский роман" tvg-logo="http://epg.one/img/401.png" group-title="Кино", Русский роман HD
+#EXTGRP:Кино
+http://cdn.kubteltv.workers.dev/?ID=355
 #EXTINF:-1 tvg-id="sapfir" tvg-name="Сапфир" tvg-logo="http://epg.one/img/7315.png" group-title="Кино", Сапфир
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000008135/tve/index.m3u8
@@ -2328,6 +2355,9 @@ http://hls127.freeott.top:8080/Bolt/mono.m3u8
 #EXTINF:-1 tvg-id="cinema-ru" tvg-name="Cinema HD" tvg-logo="http://epg.one/img/2754.png" group-title="Кино", Cinema HD
 #EXTGRP:Кино
 http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="detectivejam" tvg-name="DetectiveJam" tvg-logo="http://epg.one/img/7901.png" group-title="Кино", DetectiveJam HD
+#EXTGRP:Кино
+http://cdn.kubteltv.workers.dev/?ID=299
 #EXTINF:-1 tvg-id="epik-drama" tvg-name="Epic Drama" tvg-logo="http://epg.one/img/2229.png" group-title="Кино", Epic Drama
 #EXTGRP:Кино
 http://195.189.60.253/118/index.m3u8
@@ -2361,6 +2391,9 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/93
 #EXTINF:-1 tvg-id="kino-24" tvg-name="Kino 24" tvg-logo="https://avatars.mds.yandex.net/i?id=e1062a4964110759e8963d4fc1aef3b22c56bddf-7761267-images-thumbs&n=13" group-title="Кино", Kino 24
 #EXTGRP:Кино
 http://sirius.greenhosting.ru/Kino24Ru/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="kinojam2" tvg-name="Kinojam 2 HD" tvg-logo="http://epg.one/img/4467.png" group-title="Кино", Kinojam 2 HD
+#EXTGRP:Кино
+http://cdn.kubteltv.workers.dev/?ID=298
 #EXTINF:-1 tvg-id="plan-b" tvg-name="Plan B HD" tvg-logo="http://epg.one/img/6643.png" group-title="Кино", Plan B HD
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000007625/tve/index.m3u8
@@ -2785,6 +2818,9 @@ https://a3285272783-s80718.cdn.ngenix.net/hls/CH_BOKS_TVHD/video_1920x1080_avc1/
 #EXTINF:-1 tvg-id="varzish-sport" tvg-name="Варзиш Спорт" tvg-logo="https://avatars.mds.yandex.net/i?id=fe5e8e285aa57ec8a4c5cab5f8a4d2289986601c-4470903-images-thumbs&n=13" group-title="Спорт", Варзиш Sport
 #EXTGRP:Спорт
 https://live.teleradiocom.tj/5/3m.m3u8
+#EXTINF:-1 tvg-id="voleybol" tvg-name="Волейбол" tvg-logo="https://epg.iptvx.one/picons/voleybol.png" group-title="Спорт", Волейбол HD
+#EXTGRP:Спорт
+http://cdn.kubteltv.workers.dev/?ID=444
 #EXTINF:-1 tvg-id="konny-mir" tvg-name="Конный Мир" tvg-logo="http://epg.one/img/1679.png" group-title="Спорт", Конный Мир
 #EXTGRP:Спорт
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
@@ -2798,12 +2834,21 @@ https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a
 #EXTINF:-1 tvg-id="match-arena" tvg-name="Матч! Арена" tvg-logo="http://epg.one/img/2003.png" group-title="Спорт", Матч! Арена
 #EXTGRP:Спорт
 http://87.120.142.11:18000/Match!Arena
+#EXTINF:-1 tvg-id="match-arena" tvg-name="Матч! Арена" tvg-logo="http://epg.one/img/2003.png" group-title="Спорт", Матч! Арена HD
+#EXTGRP:Спорт
+http://cdn.kubteltv.workers.dev/?ID=113
 #EXTINF:-1 tvg-id="match-boets" tvg-name="Матч! Боец" tvg-logo="http://epg.one/img/2054.png" group-title="Спорт", Матч! Боец
 #EXTGRP:Спорт
 http://87.120.142.11:18000/Match!
+#EXTINF:-1 tvg-id="match-boets" tvg-name="Матч! Боец" tvg-logo="http://epg.one/img/2054.png" group-title="Спорт", Матч! Боец HD
+#EXTGRP:Спорт
+http://cdn.kubteltv.workers.dev/?ID=112
 #EXTINF:-1 tvg-id="match-igra" tvg-name="Матч! Игра" tvg-logo="http://epg.one/img/2050.png" group-title="Спорт", Матч! Игра
 #EXTGRP:Спорт
 http://185.46.16.239:8000/Match_Igra
+#EXTINF:-1 tvg-id="match-igra" tvg-name="Матч! Игра" tvg-logo="http://epg.one/img/2050.png" group-title="Спорт", Матч! Игра HD
+#EXTGRP:Спорт
+http://cdn.kubteltv.workers.dev/?ID=111
 #EXTINF:-1 tvg-id="match-planeta" tvg-name="Матч! Планета" tvg-logo="http://epg.one/img/2043.png" group-title="Спорт", Матч! Планета
 #EXTGRP:Спорт
 https://stream8.cinerama.uz/1049/tracks-v1a1/mono.m3u8
@@ -2818,6 +2863,9 @@ https://mhd128.iptv2022.com/p/QE_2jJyvQfbckToSxRXw8g,1774383112/streaming/match_
 #EXTINF:-1 tvg-id="match-nash-sport" tvg-name="Матч! Страна" tvg-logo="http://epg.one/img/2042.png" group-title="Спорт", МАТЧ! СТРАНА
 #EXTGRP:Спорт
 http://ukr.ukrainske.tv/134/keytvainua/video.m3u8
+#EXTINF:-1 tvg-id="match-nash-sport" tvg-name="Матч! Страна" tvg-logo="http://epg.one/img/2042.png" group-title="Спорт", МАТЧ! Страна HD
+#EXTGRP:Спорт
+http://cdn.kubteltv.workers.dev/?ID=110
 #EXTINF:-1 tvg-id="match-football1" tvg-name="Матч! Футбол 1" tvg-logo="http://epg.one/img/2044.png" group-title="Спорт", Матч! Футбол 1
 #EXTGRP:Спорт
 http://193.25.8.59:8000/fut
@@ -2842,6 +2890,9 @@ https://mhd128.iptv2022.com/p/9USdErCwVA1YYW14xJi7xw,1774383112/streaming/footba
 #EXTINF:-1 tvg-id="mir-basketbola" tvg-name="Мир баскетбола" tvg-logo="http://epg.one/img/4629.png" group-title="Спорт", Мир Баскетбола
 #EXTGRP:Спорт
 http://45.145.32.13:20440/mir_basketbola/index.m3u8?token=test
+#EXTINF:-1 tvg-id="footbolny" tvg-name="Мяч" tvg-logo="http://epg.one/img/4679.png" group-title="Спорт", Мяч HD
+#EXTGRP:Спорт
+http://cdn.kubteltv.workers.dev/?ID=404
 #EXTINF:-1 tvg-id="start-basket" tvg-name="Старт Баскет" tvg-logo="https://avatars.mds.yandex.net/i?id=54133e50ddcce4f6c749e8a8376887e62fcf3080-12569441-images-thumbs&n=13" group-title="Спорт", Старт Баскет
 #EXTGRP:Спорт
 https://bl.webcaster.pro/media/playlist/free_621d169e5c631c638136df3cb136c5c9/33_68881676/1080p/b32eaae5fbf1d2b8211543566a1d9a78/4914392769.m3u8?live=15&ref=https://tvstart.ru/channels/start-basket-test/
@@ -2860,6 +2911,9 @@ http://hls127.freeott.top:8080/Football/mono.m3u8
 #EXTINF:-1 tvg-id="football-tj" tvg-name="Футбол [TJ]" tvg-logo="https://epg.iptvx.one/picons/football-tj.png" group-title="Спорт", Футбол TJ
 #EXTGRP:Спорт
 https://live.teleradiocom.tj/8/3m.m3u8
+#EXTINF:-1 tvg-id="xokkejny" tvg-name="Хоккей ТВ" tvg-logo="http://epg.one/img/4605.png" group-title="Спорт", Хоккей ТВ HD
+#EXTGRP:Спорт
+http://cdn.kubteltv.workers.dev/?ID=405
 #EXTINF:-1 tvg-name="A21 Network" tvg-logo="https://a21network.ru/wp-content/uploads/2022/02/a21_live.jpg" group-title="Спорт", A21 Network
 #EXTGRP:Спорт
 https://autopilot.catcast.tv/content/37909/index.m3u8
