@@ -2920,6 +2920,9 @@ http://cdn.kubteltv.workers.dev/?ID=405
 #EXTINF:-1 tvg-name="A21 Network" tvg-logo="https://a21network.ru/wp-content/uploads/2022/02/a21_live.jpg" group-title="Спорт", A21 Network
 #EXTGRP:Спорт
 https://autopilot.catcast.tv/content/37909/index.m3u8
+#EXTINF:-1 tvg-id="a-spor-tr" tvg-name="A Spor [TR]" tvg-logo="http://epg.one/img/2587.png" group-title="Спорт", A Spor HD TR
+#EXTGRP:Спорт
+http://app-plus.live:80/9680723188/kyft6ks0g7gr7uw0xio6/196803
 #EXTINF:-1 tvg-id="bein-sports-1-tr" tvg-name="beIN Sports 1 [TR]" tvg-logo="http://epg.one/img/3873.png" group-title="Спорт", beIN Sports 1 FHD TR
 #EXTGRP:Спорт
 http://app-plus.live:80/9680723188/kyft6ks0g7gr7uw0xio6/1162644
