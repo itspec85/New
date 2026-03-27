@@ -2920,21 +2920,24 @@ http://cdn.kubteltv.workers.dev/?ID=405
 #EXTINF:-1 tvg-name="A21 Network" tvg-logo="https://a21network.ru/wp-content/uploads/2022/02/a21_live.jpg" group-title="Спорт", A21 Network
 #EXTGRP:Спорт
 https://autopilot.catcast.tv/content/37909/index.m3u8
-#EXTINF:-1 tvg-id="bein-sports-1-tr" tvg-name="beIN Sports 1 [TR]" tvg-logo="http://epg.one/img/3873.png" group-title="Спорт", beIN Sports 1 HD TR
+#EXTINF:-1 tvg-id="bein-sports-1-tr" tvg-name="beIN Sports 1 [TR]" tvg-logo="http://epg.one/img/3873.png" group-title="Спорт", beIN Sports 1 FHD TR
 #EXTGRP:Спорт
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivebs1.m3u8
-#EXTINF:-1 tvg-id="bein-sports-2-tr" tvg-name="beIN Sports 2 [TR]" tvg-logo="http://epg.one/img/3874.png" group-title="Спорт", beIN Sports 2 HD TR
+http://app-plus.live:80/9680723188/kyft6ks0g7gr7uw0xio6/1162644
+#EXTINF:-1 tvg-id="bein-sports-2-tr" tvg-name="beIN Sports 2 [TR]" tvg-logo="http://epg.one/img/3874.png" group-title="Спорт", beIN Sports 2 FHD TR
 #EXTGRP:Спорт
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivebs2.m3u8
-#EXTINF:-1 tvg-id="bein-sports-3-tr" tvg-name="beIN Sports 3 [TR]" tvg-logo="http://epg.one/img/3876.png" group-title="Спорт", beIN Sports 3 HD TR
+#EXTINF:-1 tvg-id="bein-sports-3-tr" tvg-name="beIN Sports 3 [TR]" tvg-logo="http://epg.one/img/3876.png" group-title="Спорт", beIN Sports 3 FHD TR
 #EXTGRP:Спорт
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivebs3.m3u8
-#EXTINF:-1 tvg-id="bein-sports-4-tr" tvg-name="beIN Sports 4 [TR]" tvg-logo="http://epg.one/img/3878.png" group-title="Спорт", beIN Sports 4 HD TR
+#EXTINF:-1 tvg-id="bein-sports-4-tr" tvg-name="beIN Sports 4 [TR]" tvg-logo="http://epg.one/img/3878.png" group-title="Спорт", beIN Sports 4 FHD TR
 #EXTGRP:Спорт
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivebs4.m3u8
-#EXTINF:-1 tvg-id="bein-sports-5-tr" tvg-name="beIN Sports 5 [TR]" tvg-logo="http://epg.one/img/3050.png" group-title="Спорт", beIN Sports 5 HD TR
+#EXTINF:-1 tvg-id="bein-sports-5-tr" tvg-name="beIN Sports 5 [TR]" tvg-logo="http://epg.one/img/3050.png" group-title="Спорт", beIN Sports 5 FHD TR
 #EXTGRP:Спорт
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivebs5.m3u8
+#EXTINF:-1 tvg-id="bein-sports-haber-tr" tvg-name="beIN Sports Haber [TR]" tvg-logo="http://epg.one/img/2618.png" group-title="Спорт", beIN Sports Haber FHD TR
+#EXTGRP:Спорт
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivebs1.m3u8
 #EXTINF:-1 tvg-id="cbc-sport" tvg-name="CBC Sport" tvg-logo="http://epg.one/img/2636.png" group-title="Спорт", CBC Sport AZ
 #EXTGRP:Спорт
 http://x3m.li/live/buk8YDg1/kXBoUb25/19740.m3u8
