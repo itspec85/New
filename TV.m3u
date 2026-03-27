@@ -3128,9 +3128,6 @@ https://ucdn.beetv.kz/bpk-tv/000008731/tve/index.m3u8
 #EXTINF:-1 tvg-name="Sport UZ HD" tvg-logo="http://epg.one/img/7935.png" group-title="Спорт", Sport UZ HD
 #EXTGRP:Спорт
 https://stream8.cinerama.uz/1004/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Sports TV TR" tvg-logo="http://epg.one/img/3884.png" group-title="Спорт", Sports TV TR
-#EXTGRP:Спорт
-https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:-1 tvg-id="supertennis" tvg-name="SuperTennis" tvg-logo="http://epg.one/img/6539.png" group-title="Спорт", Super Tennis HD
 #EXTGRP:Спорт
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
