@@ -3131,12 +3131,21 @@ https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Tennis+" tvg-logo="https://avatars.mds.yandex.net/i?id=26b7ad6af5b884c9d329427d05133b2d1e2ded89-4011855-images-thumbs&n=13" group-title="Спорт", Tennis+
 #EXTGRP:Спорт
 https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="tivibu-spor-1" tvg-name="Tivibu Spor 1 [TR]" tvg-logo="https://epg.iptvx.one/picons/tivibu-spor-1.png" group-title="Спорт", Tivibu Spor 1 HD TR
+#EXTGRP:Спорт
+http://app-plus.live:80/9680723188/kyft6ks0g7gr7uw0xio6/157122
+#EXTINF:-1 tvg-id="tivibu-spor-2" tvg-name="Tivibu Spor 2 [TR]" tvg-logo="https://epg.iptvx.one/picons/tivibu-spor-2.png" group-title="Спорт", Tivibu Spor 2 HD TR
+#EXTGRP:Спорт
+http://app-plus.live:80/9680723188/kyft6ks0g7gr7uw0xio6/157124
+#EXTINF:-1 tvg-id="tivibu-spor-3" tvg-name="Tivibu Spor 3 [TR]" tvg-logo="https://epg.iptvx.one/picons/tivibu-spor-3.png" group-title="Спорт", Tivibu Spor 3 HD TR
+#EXTGRP:Спорт
+http://app-plus.live:80/9680723188/kyft6ks0g7gr7uw0xio6/157123
 #EXTINF:-1 tvg-id="trace-sport-stars" tvg-name="Trace Sport Stars HD" tvg-logo="http://epg.one/img/7507.png" group-title="Спорт", Trace Sport Stars HD
 #EXTGRP:Спорт
 http://87.120.142.11:18000/Rossiya1
 #EXTINF:-1 tvg-id="trt-3-hd" tvg-name="TRT Spor" tvg-logo="http://epg.one/img/6525.png" group-title="Спорт", TRT Spor TR
 #EXTGRP:Спорт
-http://favoritest25.shop:8080/635fundaorlu/937fundaorlu/6109
+http://app-plus.live:80/9680723188/kyft6ks0g7gr7uw0xio6/196810
 #EXTINF:-1 tvg-id="trt-spor-yild-tr" tvg-name="TRT Spor Yıldız [TR]" tvg-logo="https://avatars.mds.yandex.net/i?id=cf9bb06b92b88cc4cbe97810f53496a8f3579629-4303862-images-thumbs&n=13" group-title="Спорт", TRT Spor Yildiz HD TR
 #EXTGRP:Спорт
 http://app-plus.live:80/9680723188/kyft6ks0g7gr7uw0xio6/196815
