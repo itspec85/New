@@ -4580,9 +4580,6 @@ http://portal.ott.pink/C5UK_BelsatTV/mpegts?token=9ED1CC22511FE66191AD465072EEE8
 #EXTINF:-1 tvg-id="voentv-by" tvg-name="ВоенТВ [BY]" tvg-logo="https://epg.iptvx.one/picons/voentv-by.png" group-title="Беларусь", ВоенТВ [BY]
 #EXTGRP:Беларусь
 http://46.53.208.4:80/live/101.m3u8
-#EXTINF:-1 tvg-id="grodno-plus" tvg-name="Гродно Плюс" tvg-logo="https://iptvx.one/picons/grodno-plus.png" group-title="Беларусь", Гродно Плюс
-#EXTGRP:Беларусь
-http://82.209.219.165:1234/gp
 #EXTINF:-1 tvg-name="Наше ТВ" tvg-logo="https://avatars.mds.yandex.net/i?id=c467f7ea055f40491143eede7620ffc343d62545-10384273-images-thumbs&n=13" group-title="Беларусь", Наше ТВ
 #EXTGRP:Беларусь
 http://46.53.208.4:80/live/218.m3u8
