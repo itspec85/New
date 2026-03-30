@@ -4940,9 +4940,6 @@ https://stream8.cinerama.uz/1467/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Renessans TV UZ" tvg-logo="http://epg.one/img/7933.png" group-title="Узбекистан", Renessans TV UZ
 #EXTGRP:Узбекистан
 https://stream8.cinerama.uz/1221/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-name="RTV UZ" tvg-logo="https://avatars.mds.yandex.net/i?id=c45a627d0ca7bd80512362956860467299c4c29c-4774717-images-thumbs&n=13" group-title="Узбекистан", RTV UZ
-#EXTGRP:Узбекистан
-http://s8.rafail1982.uz/1221/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="S Music" tvg-logo="https://avatars.mds.yandex.net/i?id=ebd4c68efc183524dfe9ea27533e1bb75a9d7c1a-5252675-images-thumbs&n=13" group-title="Узбекистан", S Music
 #EXTGRP:Узбекистан
 http://s8.rafail1982.uz/1476/tracks-v1a1/mono.m3u8
