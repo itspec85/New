@@ -1561,7 +1561,7 @@ https://ucdn.beetv.kz/bpk-tv/000006638/tve/index.m3u8
 http://46.53.208.4:80/live/342.m3u8
 #EXTINF:-1 tvg-id="istoria" tvg-name="История" tvg-logo="http://epg.one/img/1036.png" group-title="Познавательные", История
 #EXTGRP:Познавательные
-http://213.230.65.254:8000/play/a01w
+http://176.96.241.40/History/index.m3u8
 #EXTINF:-1 tvg-name="Каббала ТВ" tvg-logo="https://avatars.mds.yandex.net/i?id=0212fb5c11225b6ff52b28a86438b19edf271916-5219731-images-thumbs&n=13" group-title="Познавательные", Каббала ТВ
 #EXTGRP:Познавательные
 http://edge2.uk.kab.tv/rtplive/kabtv-rus-medium.stream/playlist.m3u8
@@ -1822,16 +1822,19 @@ https://ucdn.beetv.kz/bpk-tv/000001496/tve/index.m3u8
 http://193.25.8.59:8000/dtx
 #EXTINF:-1 tvg-id="euronews" tvg-name="Euronews Россия" tvg-logo="http://epg.one/img/2266.png" group-title="Познавательные", Euronews Россия
 #EXTGRP:Познавательные
-https://flussonic.salomtv.uz/EURONEWS/video.m3u8
+https://a3569457567-s70378.cdn.ngenix.net/euronews/1/index.m3u8
 #EXTINF:-1 tvg-id="euronews-en" tvg-name="Euronews English" tvg-logo="http://epg.one/img/2266.png" group-title="Познавательные", Euronews English
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000002455/tve/index.m3u8
 #EXTINF:-1 tvg-id="fashion-one" tvg-name="Fashion & LifeStyle HD" tvg-logo="http://epg.one/img/2383.png" group-title="Познавательные", Fashion & LifeStyle HD
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000000439/tve/index.m3u8
+#EXTINF:-1 tvg-id="fashionbox-hd" tvg-name="FashionBox" tvg-logo="http://epg.one/img/9097.png" group-title="Познавательные", FashionBox HD
+#EXTGRP:Познавательные
+https://stream8.cinerama.uz/1053/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="fashion-tv" tvg-name="Fashion TV" tvg-logo="http://epg.one/img/8053.png" group-title="Познавательные", Fashion TV HD
 #EXTGRP:Познавательные
-http://fashion.mediacdn.ru/cdn/fashiontv/tracks-v1a1/mono.m3u8
+https://stream8.cinerama.uz/1053/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="fox-news-us" tvg-name="FOX NEWS CHANNEL FHD" tvg-logo="http://epg.one/img/6683.png" group-title="Познавательные", FOX NEWS CHANNEL FHD
 #EXTGRP:Познавательные
 http://tv14s.xyz:8080/4bYr9R/770632/135794
