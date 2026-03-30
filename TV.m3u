@@ -3170,9 +3170,6 @@ http://iptv.prosto.tv:7000/ch313/video.m3u8
 
 
 
-#EXTINF:-1 tvg-id="zhar-ptica" tvg-name="Жар Птица" tvg-logo="http://epg.one/img/2415.png" group-title="Музыка", Жар Птица
-#EXTGRP:Музыка
-http://streamer.rtcommufa.ru:1935/ptica/ptica1/chunklist.m3u8
 #EXTINF:-1 tvg-id="zhara" tvg-name="Жара" tvg-logo="http://epg.one/img/165.png" group-title="Музыка", ЖАРА
 #EXTGRP:Музыка
 http://31.148.48.15:80/Zhara/index.m3u8
@@ -3255,7 +3252,10 @@ http://193.25.8.59:8000/rusong
 http://193.25.8.59:8000/mtv
 #EXTINF:-1 tvg-id="bridge-tv-classic" tvg-name="Bridge TV Classic" tvg-logo="http://epg.one/img/4373.png" group-title="Музыка", Bridge Classic orig
 #EXTGRP:Музыка
-http://31.148.48.15:80/Bridge_TV_Classic/index.m3u8
+http://5.188.159.128:8070/Bridge_TV_Classic/index.m3u8
+#EXTINF:-1 tvg-id="bridge-hd" tvg-name="Bridge TV Deluxe" tvg-logo="http://epg.one/img/2022.png" group-title="Музыка", Bridge Deluxe HD
+#EXTGRP:Музыка
+http://46.53.208.4/live/110.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-dance" tvg-name="Bridge TV Hits" tvg-logo="http://epg.one/img/2024.png" group-title="Музыка", Bridge Hits
 #EXTGRP:Музыка
 http://5.188.159.128:8070/Bridge_TV_Hits/index.m3u8
@@ -3268,12 +3268,12 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.
 #EXTINF:-1 tvg-name="Deluxe Lounge HD" tvg-logo="http://epg.one/img/2248.png" group-title="Музыка", Deluxe Lounge HD
 #EXTGRP:Музыка
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9a087b26-8be4-11eb-a7de-bacfe1f83627/0/master.m3u8?country=DE&optout=0&uid=749544ec3d9a45d48c600d03cac91dfd&vendor=philips
+#EXTINF:-1 tvg-id="deluxe-music-de" tvg-name="Deluxe Music [DE]" tvg-logo="http://epg.one/img/8044.png" group-title="Музыка", Deluxe Music HD DE
+#EXTGRP:Музыка
+http://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:-1 tvg-name="Deluxe Rap" tvg-logo="https://i.imgur.com/s3h67hx.png" group-title="Музыка", Deluxe Rap
 #EXTGRP:Музыка
 http://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
-#EXTINF:-1 tvg-id="schlager-deluxe-de" tvg-name="Deluxe Schlager" tvg-logo="http://epg.one/img/8120.png" group-title="Музыка", Deluxe Schlager
-#EXTGRP:Музыка
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
 #EXTINF:-1 tvg-id="dream-turk-tr" tvg-name="Dream Türk [TR]" tvg-logo="http://epg.one/img/3928.png" group-title="Музыка", DREAM TÜRK
 #EXTGRP:Музыка
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
@@ -3286,15 +3286,9 @@ https://freshtv-live.ru/FreshTV/tracks-v1a1/mono.m3u8?token=livestream
 #EXTINF:-1 tvg-name="Kiss Kiss Italia HD" tvg-logo="http://epg.one/img/6117.png" group-title="Музыка", Kiss Kiss Italia HD
 #EXTGRP:Музыка
 https://59253971be783.streamlock.net/KKTV01/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="kiss-tv-ro" tvg-name="Kiss TV RO" tvg-logo="http://epg.one/img/3704.png" group-title="Музыка", Kiss TV RO
-#EXTGRP:Музыка
-https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
 #EXTINF:-1 tvg-name="Krone hit HD" tvg-logo="http://epg.one/img/4653.png" group-title="Музыка", Krone hit HD
 #EXTGRP:Музыка
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
-#EXTINF:-1 tvg-id="m2-ua" tvg-name="M2 HD" tvg-logo="http://epg.one/img/3336.png" group-title="Музыка", M2 HD
-#EXTGRP:Музыка
-http://live.m2.tv/hls3/720/stream.m3u8
 #EXTINF:-1 tvg-name="m2o TV" tvg-logo="https://avatars.mds.yandex.net/i?id=183ca10c128c668b7f5858d7015b59d9f2e261d0-12569860-images-thumbs&n=13" group-title="Музыка", m2o TV
 #EXTGRP:Музыка
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
@@ -3310,15 +3304,9 @@ https://cdamix.streaming.ws/mixmusic/live/chunklist.m3u8
 #EXTINF:-1 tvg-id="mtv-us" tvg-name="MTV" tvg-logo="http://epg.one/img/1021.png" group-title="Музыка", MTV
 #EXTGRP:Музыка
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6245d15062cd1f00070a2338/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1ec342-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a56dace8-66e4-4b9a-a55f-d5348160dae2
-#EXTINF:-1 tvg-name="MTV 00s" tvg-logo="http://epg.one/img/491.png" group-title="Музыка", MTV 00s
-#EXTGRP:Музыка
-https://ucdn.beetv.kz/bpk-tv/000000264/tve/index.m3u8
 #EXTINF:-1 tvg-name="MTV Biggest Pop" tvg-logo="http://epg.one/img/3604.png" group-title="Музыка", MTV Biggest Pop
 #EXTGRP:Музыка
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=db3aa987-9f35-4664-b523-5fe34623b36c
-#EXTINF:-1 tvg-id="mtv-live-hd" tvg-name="MTV Live HD" tvg-logo="http://epg.one/img/382.png" group-title="Музыка", MTV Live HD
-#EXTGRP:Музыка
-https://ucdn.beetv.kz/bpk-tv/000000447/tve/index.m3u8
 #EXTINF:-1 tvg-id="now70s" tvg-name="Now 70's" tvg-logo="http://epg.one/img/6626.png" group-title="Музыка", Now 70s HD UK
 #EXTGRP:Музыка
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
@@ -3361,15 +3349,12 @@ https://listen.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="PowerTürk Taptaze" tvg-logo="https://avatars.mds.yandex.net/i?id=8f62acd14defc8a5f65648d9b41d2e78163b3701-3689559-images-thumbs&n=13" group-title="Музыка", PowerTürk Taptaze
 #EXTGRP:Музыка
 https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="QMusic" tvg-logo="https://qmusic.nl/assets/qmusic-a1d81a5f88375b3c5507cbc0b064ce1fc8778a076a245bddfd4f2a3e2417c330.png" group-title="Музыка", QMusic
-#EXTGRP:Музыка
-https://live-video.dpgmedia.net/e087512ad0c32643/out/v1/82d59bbe343b4d0896f829c59da82dc0/index.m3u8
 #EXTINF:-1 tvg-id="retro-music-cz" tvg-name="Retro Music TV" tvg-logo="http://epg.one/img/5380.png" group-title="Музыка", RETRO TV
 #EXTGRP:Музыка
 https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ru-tv" tvg-name="RU TV HD" tvg-logo="http://epg.one/img/2277.png" group-title="Музыка", RU TV HD
 #EXTGRP:Музыка
-https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
+http://5.188.159.128:8070/rutv/index.m3u8
 #EXTINF:-1 tvg-name="Spirit TV HD" tvg-logo="http://epg.one/img/4657.png" group-title="Музыка", Spirit Tv HD
 #EXTGRP:Музыка
 http://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
