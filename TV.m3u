@@ -4699,7 +4699,7 @@ https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 http://akittv-live.ercdn.net/akittv/akittv.m3u8
 #EXTINF:-1 tvg-name="ATV TR" tvg-logo="http://epg.one/img/2600.png" group-title="Турция", ATV TR
 #EXTGRP:Турция
-http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamliveatv.m3u8
 #EXTINF:-1 tvg-name="BENGÜTÜRK" tvg-logo="https://i.ibb.co/0MHPk8y/benguturk.png" group-title="Турция", BENGÜTÜRK
 #EXTGRP:Турция
 https://ensonhaber-live.ercdn.net/benguturk/benguturk_720p.m3u8
@@ -4709,18 +4709,12 @@ https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
 #EXTINF:-1 tvg-id="bloomberg-ht-tr" tvg-name="Bloomberg HT TR" tvg-logo="http://epg.one/img/2613.png" group-title="Турция", Bloomberg HT TR
 #EXTGRP:Турция
 https://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8
-#EXTINF:-1 tvg-name="Can TV" tvg-logo="https://yt3.ggpht.com/a/AATXAJxQje5n5vTBcpygj-LvPVxQ2PGSK_2KAuiLvg=s900-c-k-c0xffffffff-no-rj-mo" group-title="Турция", Can TV
-#EXTGRP:Турция
-http://canbroadcast.com:7000/canlican/tv.m3u8
 #EXTINF:-1 tvg-name="Cine6 Max" tvg-logo="https://avatars.mds.yandex.net/i?id=83904fc824e445a94e47584a05456b061cd54183-8972142-images-thumbs&n=13" group-title="Турция", Cine6 Max
 #EXTGRP:Турция
 https://cinemax6.cinemax6.com:3118/stream/play.m3u8
 #EXTINF:-1 tvg-name="Dost TV TR" tvg-logo="http://epg.one/img/3852.png" group-title="Турция", Dost TV TR
 #EXTGRP:Турция
 https://dost.stream.emsal.im/tv/live.m3u8
-#EXTINF:-1 tvg-name="Ercis TV" tvg-logo="https://avatars.mds.yandex.net/i?id=baa413047d579d5107943421f8585e22e89d5900-13078695-images-thumbs&n=13" group-title="Турция", Ercis TV
-#EXTGRP:Турция
-https://cdn1-ercistv.yayin.com.tr/ercistv/amlst:ercistv/chunklist.m3u8
 #EXTINF:-1 tvg-name="Euro D TR" tvg-logo="http://epg.one/img/3945.png" group-title="Турция", Euro D TR
 #EXTGRP:Турция
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
@@ -4753,7 +4747,7 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/kanal-s.
 https://lbl.netmedya.net/hls/lalegultv.m3u8
 #EXTINF:-1 tvg-id="ntv-hd-tr" tvg-name="NTV FHD TR" tvg-logo="http://epg.one/img/3976.png" group-title="Турция", NTV FHD TR
 #EXTGRP:Турция
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/ntv.m3u8
+http://dygvideo.dygdigital.com/live/hls/puhuntvdai?m3u8
 #EXTINF:-1 tvg-name="On4 TV" tvg-logo="https://www.on4.com.tr/imgs/180x80x2/logoon44.png" group-title="Турция", On4 TV
 #EXTGRP:Турция
 https://edge1.socialsmart.tv/on4/bant1/playlist.m3u8
@@ -4765,7 +4759,7 @@ https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist.m3u8
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="show-hd-tr" tvg-name="Show TV TR" tvg-logo="http://epg.one/img/2608.png" group-title="Турция", Show TV TR
 #EXTGRP:Турция
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shturk.m3u8
+http://app-plus.live:80/9680723188/kyft6ks0g7gr7uw0xio6/10794
 #EXTINF:-1 tvg-id="star-tv-hd-tr" tvg-name="Star TV HD TR" tvg-logo="http://epg.one/img/2667.png" group-title="Турция", STAR TV HD TR
 #EXTGRP:Турция
 https://dogus.daioncdn.net/startv/startv_720p.m3u8?app=startv_web
@@ -4783,13 +4777,13 @@ https://live.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
 https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-name="TRT 2 HD" tvg-logo="http://epg.one/img/3939.png" group-title="Турция", TRT 2 HD
 #EXTGRP:Турция
-https://tv-trt2.medya.trt.com.tr/master_1080.m3u8
+http://app-plus.live:80/9680723188/kyft6ks0g7gr7uw0xio6/196785
 #EXTINF:-1 tvg-id="trt-avaz" tvg-name="TRT Avaz [TR]" tvg-logo="http://epg.one/img/3858.png" group-title="Турция", TRT Avaz TR
 #EXTGRP:Турция
 https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="TRT Belgesel TR" tvg-logo="http://epg.one/img/3907.png" group-title="Турция", TRT Belgesel TR
 #EXTGRP:Турция
-https://tv-trtbelgesel-dai.medya.trt.com.tr/master.m3u8
+http://app-plus.live:80/9680723188/kyft6ks0g7gr7uw0xio6/196807
 #EXTINF:-1 tvg-id="trt-cocuk-tr" tvg-name="TRT Çocuk [TR]" tvg-logo="http://epg.one/img/3896.png" group-title="Турция", TRT Çocuk TR
 #EXTGRP:Турция
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
@@ -4813,7 +4807,7 @@ https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 http://app-plus.live:80/9680723188/kyft6ks0g7gr7uw0xio6/10775
 #EXTINF:-1 tvg-id="tv8-tr" tvg-name="TV8 HD TR" tvg-logo="http://epg.one/img/2596.png" group-title="Турция", TV8 HD TR
 #EXTGRP:Турция
-http://95.174.71.114:80/TR-TV8/index.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivetv8.m3u8
 #EXTINF:-1 tvg-id="tv85-tr" tvg-name="TV 8.5 HD [TR]" tvg-logo="http://epg.one/img/2614.png" group-title="Турция", TV 8.5 HD TR
 #EXTGRP:Турция
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk.m3u8
