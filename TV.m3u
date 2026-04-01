@@ -285,7 +285,7 @@ http://player.smotrim.ru/iframe/stream/live_id/cf22fa5c-e21a-433e-8317-7e8dd3150
 http://player.smotrim.ru/iframe/stream/live_id/d7fef212-df66-485d-9952-7eab82d7d51b.m3u8
 #EXTINF:-1 tvg-id="sts" tvg-name="СТС" tvg-logo="http://epg.one/img/79.png" group-title="Россия", СТС
 #EXTGRP:Россия
-http://176.118.197.101/CTC/index.m3u8
+http://31.131.141.195:8000/play/2030/index.m3u8
 #EXTINF:-1 tvg-id="sts" tvg-name="СТС" tvg-logo="http://epg.one/img/79.png" group-title="Россия", СТС HD
 #EXTGRP:Россия
 http://cdn.kubteltv.workers.dev/?ID=377
@@ -318,7 +318,7 @@ http://185.71.81.6:8080/10/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000000112/tve/index.m3u8
 #EXTINF:-1 tvg-id="tnt" tvg-name="ТНТ" tvg-logo="http://epg.one/img/353.png" group-title="Россия", ТНТ
 #EXTGRP:Россия
-http://176.118.197.101/THT/index.m3u8
+http://31.131.141.195:8000/play/2090/index.m3u8
 #EXTINF:-1 tvg-id="tnt" tvg-name="ТНТ HD" tvg-logo="http://epg.one/img/1767.png" group-title="Россия", ТНТ HD
 #EXTGRP:Россия
 http://cdn.kubteltv.workers.dev/?ID=373
@@ -333,7 +333,7 @@ http://193.25.8.59:8000/tntcomedy
 https://ucdn.beetv.kz/bpk-tv/000002926/tve/index.m3u8
 #EXTINF:-1 tvg-id="che" tvg-name="Че" tvg-logo="http://epg.one/img/1598.png" group-title="Россия", Че
 #EXTGRP:Россия
-http://176.118.197.101/Che/index.m3u8
+http://cdn.kubteltv.workers.dev/?ID=24
 #EXTINF:-1 tvg-id="yu" tvg-name="Ю" tvg-logo="http://epg.one/img/898.png" group-title="Россия", Ю
 #EXTGRP:Россия
 http://193.25.8.59:8000/u
@@ -408,6 +408,18 @@ http://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/kultura-hd/index.m3u8
 #EXTINF:-1 tvg-id="kultura" tvg-shift="-7" tvg-name="Россия К +7 HD" tvg-logo="http://epg.one/img/1101.png" group-title="Россия плюсовые", Россия К +7 HD
 #EXTGRP:Россия плюсовые
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/kultura-hd/index.m3u8
+#EXTINF:-1 tvg-id="sts-pl2" tvg-name="СТС +2" tvg-logo="http://epg.one/img/3007.png" group-title="Россия плюсовые", СТС +2
+#EXTGRP:Россия плюсовые
+http://176.118.197.101/CTC/index.m3u8
+#EXTINF:-1 tvg-id="tnt-pl2" tvg-name="ТНТ +2" tvg-logo="http://epg.one/img/3022.png" group-title="Россия плюсовые", ТНТ +2
+#EXTGRP:Россия плюсовые
+http://176.118.197.101/THT/index.m3u8
+#EXTINF:-1 tvg-id="tnt4-pl2" tvg-name="ТНТ4 +2" tvg-logo="http://epg.one/img/7978.png" group-title="Россия плюсовые", ТНТ4 +2
+#EXTGRP:Россия плюсовые
+http://176.118.197.101/TNT4/index.m3u8
+#EXTINF:-1 tvg-id="che-pl2" tvg-name="Че +2" tvg-logo="http://epg.one/img/1598.png" group-title="Россия плюсовые", Че +2
+#EXTGRP:Россия плюсовые
+http://176.118.197.101/Che/index.m3u8
 
 
 
