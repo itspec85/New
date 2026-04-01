@@ -396,6 +396,9 @@ http://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-id="rossia1" tvg-shift="-3" tvg-name="Россия 1 +3 HD" tvg-logo="http://epg.one/img/711.png" group-title="Россия плюсовые", Россия 1 +3 HD
 #EXTGRP:Россия плюсовые
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/3/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="rossia1" tvg-shift="-4" tvg-name="Россия 1 +4" tvg-logo="http://epg.one/img/3001.png" group-title="Россия плюсовые", Россия 1 +4
+#EXTGRP:Россия плюсовые
+http://95.47.155.244:8001/play/a002
 #EXTINF:-1 tvg-id="rossia1" tvg-shift="-4" tvg-name="Россия 1 +4 HD" tvg-logo="http://epg.one/img/3001.png" group-title="Россия плюсовые", Россия 1 +4 HD
 #EXTGRP:Россия плюсовые
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/russia1-hd/index.m3u8
