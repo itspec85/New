@@ -234,7 +234,7 @@ http://185.46.16.239:8000/Pyatnitsa
 https://ucdn.beetv.kz/bpk-tv/000007816/tve/index.m3u8
 #EXTINF:-1 tvg-id="5kanal-ru" tvg-name="Пятый канал" tvg-logo="http://epg.one/img/427.png" group-title="Россия", Пятый канал
 #EXTGRP:Россия
-http://95.47.155.244:8001/play/a005
+http://31.131.141.195:8000/play/1050/index.m3u8
 #EXTINF:-1 tvg-id="5kanal-ru" tvg-name="Пятый канал" tvg-logo="http://epg.one/img/427.png" group-title="Россия", Пятый канал HD
 #EXTGRP:Россия
 http://cdn.kubteltv.workers.dev/?ID=423
@@ -249,7 +249,7 @@ http://online.video.rbc.ru/online/rbctv_720p/index.m3u8
 https://e5-online-video.rbc.ru/online2/rbctvhd_1080p/index.m3u8
 #EXTINF:-1 tvg-id="rentv" tvg-name="Рен ТВ" tvg-logo="http://epg.one/img/18.png" group-title="Россия", РЕН ТВ
 #EXTGRP:Россия
-http://95.47.155.244:8001/play/a011
+http://31.131.141.195:8000/play/2010/index.m3u8
 #EXTINF:-1 tvg-id="rentv" tvg-name="Рен ТВ" tvg-logo="http://epg.one/img/2487.png" group-title="Россия", РЕН ТВ HD
 #EXTGRP:Россия
 http://cdn.kubteltv.workers.dev/?ID=376
@@ -366,6 +366,12 @@ https://cdn.ntv.ru/ntv4/tracks-v1a1/playlist.m3u8
 #EXTGRP:Россия плюсовые
 #EXTVLCOPT:http-user-agent=ntv
 https://cdn.ntv.ru/ntv7/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-id="5kanal-ru-pl4" tvg-name="Пятый канал +4" tvg-logo="http://epg.one/img/3030.png" group-title="Россия плюсовые", Пятый канал +4
+#EXTGRP:Россия плюсовые
+http://95.47.155.244:8001/play/a005
+#EXTINF:-1 tvg-id="rentv-pl4" tvg-name="Рен ТВ +4" tvg-logo="http://epg.one/img/3033.png" group-title="оссия плюсовые", Рен ТВ +4
+#EXTGRP:Россия плюсовые
+http://95.47.155.244:8001/play/a011
 #EXTINF:-1 tvg-id="rossia1" tvg-shift="-1" tvg-name="Россия 1 +1 HD" tvg-logo="http://epg.one/img/711.png" group-title="Россия плюсовые", Россия 1 +1 HD
 #EXTGRP:Россия плюсовые
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/1/russia1-hd/index.m3u8
