@@ -229,6 +229,9 @@ https://ucdn.beetv.kz/bpk-tv/000001227/tve/index.m3u8
 #EXTINF:-1 tvg-id="piatnica" tvg-name="Пятница!" tvg-logo="http://epg.one/img/1003.png" group-title="Россия", Пятница!
 #EXTGRP:Россия
 http://185.46.16.239:8000/Pyatnitsa
+#EXTINF:-1 tvg-id="piatnica" tvg-name="Пятница! HD" tvg-logo="http://epg.one/img/2765.png" group-title="Россия", Пятница! HD
+#EXTGRP:Россия
+http://cdn.kubteltv.workers.dev/?ID=380
 #EXTINF:-1 tvg-id="piatnica-int" tvg-name="Пятница International" tvg-logo="https://avatars.mds.yandex.net/i?id=6e89c0754d8e6800feb8f51ae53f5192eb27ea76-5222505-images-thumbs&n=13" group-title="Россия", Пятница International
 #EXTGRP:Россия
 https://ucdn.beetv.kz/bpk-tv/000007816/tve/index.m3u8
