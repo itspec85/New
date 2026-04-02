@@ -2526,8 +2526,7 @@ http://s14131.cdn.ngenix.net/hls/CH_R02_OTT_DV_KAM_41REG_OTT/variant.m3u8
 http://sochinskayatrk.ru/hdtv/hls/43K_HD/playlist.m3u8
 #EXTINF:-1 tvg-id="78kanal" tvg-name="78 канал Санкт-Петербург" tvg-logo="http://epg.one/img/7616.png" group-title="Региональные РФ", 78 канал Санкт-Петербург
 #EXTGRP:Региональные РФ
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_KANAL78/variant.m3u8
+http://river-1.rutube.ru/stream/genetta-314.m9.rutube.ru/8HjsorCbwz2kaZPTXDfpcQ/1775574432/bbf23277dbd0dd0e6a623526d4c3f8c9/1080p_stream.m3u8
 #EXTINF:-1 tvg-id="360-podmoskovie" tvg-name="360°" tvg-logo="http://epg.one/img/2265.png" group-title="Региональные РФ", 360°
 #EXTGRP:Региональные РФ
 http://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1080.m3u8
@@ -3093,8 +3092,7 @@ http://dmi3y-tv6.ru/hls/zabava/region/SUR/CH_SAMOTLORHD_NIZH.m3u8
 http://iptv-hls.karelia.pro/streams/Sampo360/stream.m3u8
 #EXTINF:-1 tvg-id="sankt-peterburg" tvg-name="Санкт-Петербург" tvg-logo="http://epg.one/img/690.png" group-title="Региональные РФ", Санкт-Петербург
 #EXTGRP:Региональные РФ
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_SPBREGIONALHD/variant.m3u8
+https://edge-ekat1.teletarget.ru/stream/msk/tvspb/index.m3u8
 #EXTINF:-1 tvg-id="saratov-24" tvg-name="Саратов 24 HD" tvg-logo="http://epg.one/img/7693.png" group-title="Региональные РФ", Саратов 24 HD
 #EXTGRP:Региональные РФ
 http://109.248.11.19:8081/web/c24/playlist.m3u8
