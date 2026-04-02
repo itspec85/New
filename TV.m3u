@@ -537,7 +537,7 @@ https://ucdn.beetv.kz/bpk-tv/000000588/tve/index.m3u8
 #EXTINF:-1 tvg-id="zhivi" tvg-name="ЖИВИ!" tvg-logo="http://epg.one/img/113.png" group-title="Познавательные", ЖИВИ!
 #EXTGRP:Познавательные
 https://stream8.cinerama.uz/1419/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="zhivi-aktivno" tvg-name="Живи активно" tvg-logo="http://epg.one/img/113.png" group-title="Познавательные", Живи активно
+#EXTINF:-1 tvg-id="zhivi-aktivno" tvg-name="Живи активно" tvg-logo="https://epg.iptvx.one/picons/zhivi-aktivno.png" group-title="Познавательные", Живи активно
 #EXTGRP:Познавательные
 https://stream8.cinerama.uz/1405/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="За!ТВ" tvg-logo="https://avatars.mds.yandex.net/i?id=3392ef595a598b716b3a9c5e8939f4338114f599-5287388-images-thumbs&n=13" group-title="Познавательные", За!ТВ
