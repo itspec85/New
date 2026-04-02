@@ -1349,6 +1349,9 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/93
 #EXTINF:-1 tvg-id="kino-24" tvg-name="Kino 24" tvg-logo="https://avatars.mds.yandex.net/i?id=e1062a4964110759e8963d4fc1aef3b22c56bddf-7761267-images-thumbs&n=13" group-title="Кино", Kino 24
 #EXTGRP:Кино
 http://sirius.greenhosting.ru/Kino24Ru/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="kinojam1" tvg-name="Kinojam 1 HD" tvg-logo="http://epg.one/img/4466.png" group-title="Кино", Kinojam 1 HD
+#EXTGRP:Кино
+http://cdn.kubteltv.workers.dev/?ID=297
 #EXTINF:-1 tvg-id="kinojam2" tvg-name="Kinojam 2 HD" tvg-logo="http://epg.one/img/4467.png" group-title="Кино", Kinojam 2 HD
 #EXTGRP:Кино
 http://cdn.kubteltv.workers.dev/?ID=298
