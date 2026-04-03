@@ -635,7 +635,7 @@ http://185.46.16.239:8000/Nauka_2.0
 https://ucdn.beetv.kz/bpk-tv/000003785/tve/index.m3u8
 #EXTINF:-1 tvg-id="neizvestnaya-rosia" tvg-name="Неизвестная Россия HD" tvg-logo="http://epg.one/img/9015.png" group-title="Познавательные", Неизвестная Россия HD
 #EXTGRP:Познавательные
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=ntv
 http://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="nowy-igrowoj" tvg-name="Новый игровой канал" tvg-logo="https://iptvx.one/picons/nowy-igrowoj.png" group-title="Познавательные", Новый игровой канал
 #EXTGRP:Познавательные
@@ -1800,7 +1800,6 @@ http://hls127.freeott.top:8080/MyTV_Hit/mono.m3u8
 https://edge50.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="box-tv" tvg-name="Бокс ТВ" tvg-logo="http://epg.one/img/2285.png" group-title="Спорт", Бокс ТВ
 #EXTGRP:Спорт
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://a3285272783-s80718.cdn.ngenix.net/hls/CH_BOKS_TVHD/video_1920x1080_avc1/playlist.m3u8?useseq=t
 #EXTINF:-1 tvg-id="varzish-sport" tvg-name="Варзиш Спорт" tvg-logo="https://avatars.mds.yandex.net/i?id=fe5e8e285aa57ec8a4c5cab5f8a4d2289986601c-4470903-images-thumbs&n=13" group-title="Спорт", Варзиш Sport
 #EXTGRP:Спорт
