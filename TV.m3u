@@ -2679,10 +2679,6 @@ https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
 #EXTINF:-1 tvg-id="megapolis" tvg-name="Мегаполис HD" tvg-logo="http://epg.one/img/9120.png" group-title="Региональные РФ", Мегаполис HD
 #EXTGRP:Региональные РФ
 http://megapolis.iptv2022.com/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="mig-tv-noyabrsk" tvg-name="Миг ТВ Ноябрьск" tvg-logo="https://iptvx.one/picons/mig-tv-noyabrsk.png" group-title="Региональные РФ", Миг ТВ Ноябрьск
-#EXTGRP:Региональные РФ
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_MIG_TV_URAL_YNF/variant.m3u8
 #EXTINF:-1 tvg-id="millet" tvg-name="Миллет" tvg-logo="http://epg.one/img/6680.png" group-title="Региональные РФ", Миллет
 #EXTGRP:Региональные РФ
 https://live1.1tvcrimea.ru/milletlive.m3u8
@@ -2698,38 +2694,22 @@ https://live-mordovia24.cdnvideo.ru/mordovia24/streamtr/playlist.m3u8
 #EXTINF:-1 tvg-id="moskva-24" tvg-name="Москва 24" tvg-logo="http://epg.one/img/334.png" group-title="Региональные РФ", Москва 24
 #EXTGRP:Региональные РФ
 https://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe
-#EXTINF:-1 tvg-id="doverie" tvg-name="Москва Доверие" tvg-logo="http://epg.one/img/2308.png" group-title="Региональные РФ", Москва Доверие
-#EXTGRP:Региональные РФ
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
 #EXTINF:-1 tvg-id="mtv-volgograd" tvg-name="МТВ Волгоград HD" tvg-logo="http://epg.one/img/6401.png" group-title="Региональные РФ", МТВ Волгоград HD
 #EXTGRP:Региональные РФ
 http://hls-volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="volgograd-1" tvg-name="МТВ Волгоград 1" tvg-logo="http://epg.one/img/6769.png" group-title="Региональные РФ", МТВ Волгоград 1
-#EXTGRP:Региональные РФ
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-https://rt-sth-vgrad-htlive.cdn.ngenix.net/hls/CH_R06_OTT_STH_VGRAD_VOLGOGRAD1/variant.m3u8
 #EXTINF:-1 tvg-id="volgograd-24" tvg-name="МТВ Волгоград 24 HD" tvg-logo="http://epg.one/img/6768.png" group-title="Региональные РФ", МТВ Волгоград 24 HD
 #EXTGRP:Региональные РФ
 https://hls-volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="muravlenko24" tvg-name="Муравленко 24" tvg-logo="https://iptvx.one/picons/muravlenko24.png" group-title="Региональные РФ", Муравленко 24
-#EXTGRP:Региональные РФ
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_MURAVLENKO_24/variant.m3u8
 #EXTINF:-1 tvg-name="Муром ТВ" tvg-logo="https://avatars.mds.yandex.net/i?id=f24eba0a0f0bbb0ef28c018344961969d1162afb-5232628-images-thumbs&n=13" group-title="Региональные РФ", Муром ТВ
 #EXTGRP:Региональные РФ
 http://live.murom-tv.ru/hls/stream.m3u8
-#EXTINF:-1 tvg-id="metr" tvg-name="МЭТР Йошкар-Ола" tvg-logo="https://iptvx.one/picons/metr.png" group-title="Региональные РФ", МЭТР Йошкар-Ола
-#EXTGRP:Региональные РФ
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-https://rt-vlg-yola-htlive.cdn.ngenix.net/hls/CH_R03_METR/variant.m3u8
 #EXTINF:-1 tvg-id="vestnik-nadyma" tvg-name="Надымский вестник" tvg-logo="http://epg.one/img/5709.png" group-title="Региональные РФ", Надымский вестник
 #EXTGRP:Региональные РФ
 https://0werof7ib0p.a.trbcdn.net/livemaster/6r10qa9k6d_trknadym.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="nash-dom" tvg-name="Наш дом Пенза" tvg-logo="https://iptvx.one/picons/nash-dom.png" group-title="Региональные РФ", Наш дом Пенза
 #EXTGRP:Региональные РФ
 http://85.234.33.64/stream/c11.m3u8
-#EXTINF:-1 tvg-name="Наши города Когалым" tvg-logo="https://avatars.mds.yandex.net/i?id=9b1571a8c5cad3067b45a96237bb9fa3276c7320-3828188-images-thumbs&n=13" group-title="Региональные РФ", Наши города Когалым
+#EXTINF:-1 tvg-name="Наши города Когалым" tvg-logo="https://avatars.mds.yandex.net/i?id=9b1571a8c5cad3067b45a96237bb9fa3276c7320-3828188-images-thumbs&n=13" group-title="егиональные РФ", Наши города Когалым
 #EXTGRP:Региональные РФ
 http://kogalimtv.servicecdn.ru/streams/775_913148/1080n/index.m3u8
 #EXTINF:-1 tvg-id="saxa" tvg-name="НВК Саха FHD" tvg-logo="http://epg.one/img/7699.png" group-title="Региональные РФ", НВК Саха FHD
@@ -2744,33 +2724,9 @@ http://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="nntv" tvg-name="ННТВ Нижний Новгород" tvg-logo="http://epg.one/img/5706.png" group-title="Региональные РФ", ННТВ Нижний Новгород
 #EXTGRP:Региональные РФ
 http://live-nntv2.cdnvideo.ru/nntv2/cfd99gu0ai_nntv_tv/playlist.m3u8
-#EXTINF:-1 tvg-id="novgorodskoe-obl-tv" tvg-name="Новгородское Областное телевидение" tvg-logo="https://iptvx.one/picons/novgorodskoe-obl-tv.png" group-title="Региональные РФ", Новгородское Областное Телевидение
-#EXTGRP:Региональные РФ
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-https://rt-nw-novg-htlive.cdn.ngenix.net/hls/CH_R02_NOVGORODTV/variant.m3u8
-#EXTINF:-1 tvg-id="novoe-vremia" tvg-name="Новое время Радужный" tvg-logo="https://iptvx.one/picons/novoe-vremia.png" group-title="Региональные РФ", Новое время Радужный
-#EXTGRP:Региональные РФ
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_RADUZNYI/variant.m3u8
-#EXTINF:-1 tvg-name="Новочеркасск ТВ" tvg-logo="https://pic.rutubelist.ru/user/2025-01-24/cc/d6/ccd6df7def33fdf77d61e7e30ecfb81c.jpg" group-title="Региональные РФ", Новочеркасск ТВ
-#EXTGRP:Региональные РФ
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmi3y-tv6.ru/hls/zabava/region/RD/CH_NOVOCHERKASSKHD.m3u8
-#EXTINF:-1 tvg-name="Новошахтинск ТВ" tvg-logo="https://pic.rutubelist.ru/user/2025-01-24/cc/d6/ccd6df7def33fdf77d61e7e30ecfb81c.jpg" group-title="Региональные РФ", Новошахтинск ТВ
-#EXTGRP:Региональные РФ
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmi3y-tv6.ru/hls/zabava/region/RD/CH_NOVOSHAHTINSKHD_NVSHNSK.m3u8
 #EXTINF:-1 tvg-id="novy-vek-tambov" tvg-name="Новый век Тамбов" tvg-logo="http://epg.one/img/4628.png" group-title="Региональные РФ", Новый век Тамбов
 #EXTGRP:Региональные РФ
 http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/1280x720@2500/playlist.m3u8
-#EXTINF:-1 tvg-id="49kanal" tvg-name="НСК-49" tvg-logo="http://epg.one/img/4625.png" group-title="Региональные РФ", НСК-49
-#EXTGRP:Региональные РФ
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_49CHANNEL/variant.m3u8
-#EXTINF:-1 tvg-id="xamdan-kalm24" tvg-name="НТК Калмыкия" tvg-logo="http://epg.one/img/2459.png" group-title="Региональные РФ", НТК Калмыкия
-#EXTGRP:Региональные РФ
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_ELISTA_HAMDAN/variant.m3u8
 #EXTINF:-1 tvg-name="НТК Нижнеудинск" tvg-logo="https://avatars.mds.yandex.net/i?id=1cc43ea2390d48e7d4c01fe485c30dc71f07bb02-10874712-images-thumbs&n=13" group-title="Региональные РФ", НТК Нижнеудинск
 #EXTGRP:Региональные РФ
 http://171.22.212.250/NTK/index.m3u8
@@ -2783,77 +2739,39 @@ https://ingushetia.mediacdn.ru/cdn/ingushetia/playlist.m3u8
 #EXTINF:-1 tvg-id="nts-sevastopol" tvg-name="НТС" tvg-logo="https://cdn.epg.one/img/1117.png" group-title="Региональные РФ", НТС
 #EXTGRP:Региональные РФ
 http://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/chunklist.m3u8
-#EXTINF:-1 tvg-id="nts-irbit" tvg-name="НТС-Ирбит Екатеринбург" tvg-logo="https://iptvx.one/picons/nts-irbit.png" group-title="Региональные РФ", НТС-Ирбит Екатеринбург
-#EXTGRP:Региональные РФ
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_IRBITVEST_EKT/variant.m3u8
 #EXTINF:-1 tvg-id="nts-irkutsk" tvg-name="НТС FHD Иркутск" tvg-logo="http://epg.one/img/6745.png" group-title="Региональные РФ", НТС FHD Иркутск
 #EXTGRP:Региональные РФ
 https://air.nts-tv.ru/fhd.m3u8
 #EXTINF:-1 tvg-id="obkom" tvg-name="Обком ТВ" tvg-logo="http://epg.one/img/6743.png" group-title="Региональные РФ", Обком ТВ
 #EXTGRP:Региональные РФ
 http://www.omsk-kprf.ru/hls/stream.m3u8
-#EXTINF:-1 tvg-id="oblast45" tvg-name="Область 45 Курган" tvg-logo="https://iptvx.one/picons/oblast45.png" group-title="Региональные РФ", Область 45 Курган
-#EXTGRP:Региональные РФ
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-https://rt-ural-krg-htlive.cdn.ngenix.net/hls/CH_R04_OTT_OBLAST45/variant.m3u8
 #EXTINF:-1 tvg-name="Овертайм HD Ставрополь" tvg-logo="https://sun9-41.userapi.com/impg/snq__Yn3Ni7mKRwsyWUHAhSTf1rm3TZF_3x3Ig/HNKtG0MPMPY.jpg?size=445x445&quality=96&sign=6c9b49e6393f2650b2dd03cff3697e6e&c_uniq_tag=BrICk9gPrxHAvtWO1k0kj6Qflj5AwJcmk-hGUhZcaoY&type=album" group-title="Региональные РФ", Овертайм HD Ставрополь
 #EXTGRP:Региональные РФ
 https://live.overtime26.ru/app/potok/playlist.m3u8
 #EXTINF:-1 tvg-name="Омск-ТВ" tvg-logo="https://avatars.mds.yandex.net/i?id=b0780fa8971d60c7a5ddab7157dddf7eb1f8e7c6-8425275-images-thumbs&n=13" group-title="Региональные РФ", Омск-ТВ
 #EXTGRP:Региональные РФ
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmi3y-tv6.ru/hls/zabava/region/OMSK/CH_OMSKTVHD.m3u8
-#EXTINF:-1 tvg-id="ort-planeta-orenburg" tvg-name="ОРТ Планета" tvg-logo="http://epg.one/img/5558.png" group-title="Региональные РФ", ОРТ Планета
-#EXTGRP:Региональные РФ
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-https://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R03_ORTPLANET/variant.m3u8
+http://river-1.rutube.ru/stream/genetta-324.m9.rutube.ru/9c4M29qX5e1uN1I162xkJQ/1775574350/9927a61345cbec5aac6558f6c5454d61/1080p_stream.m3u8
 #EXTINF:-1 tvg-id="osetia-iryston" tvg-name="Осетия Иристон" tvg-logo="http://epg.one/img/5808.png" group-title="Региональные РФ", Осетия Иристон
 #EXTGRP:Региональные РФ
 http://catchup.videoline.ru/iriston/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="otv-eburg" tvg-name="ОТВ Екатеринбург" tvg-logo="http://epg.one/img/6682.png" group-title="Региональные РФ", ОТВ Екатеринбург
 #EXTGRP:Региональные РФ
 https://vd.obltv.ru/watch/air_hd.m3u8
-#EXTINF:-1 tvg-id="otv-saxalin" tvg-name="ОТВ Сахалин" tvg-logo="https://avatars.mds.yandex.net/i?id=ff6eb06c2ec7fde5b8ce5385f0ba86968bbaa715-4033702-images-thumbs&n=13" group-title="Региональные РФ", ОТВ Сахалин
-#EXTGRP:Региональные РФ
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-https://s14553.cdn.ngenix.net/hls/CH_R65_OTT_DV_SLIN_OTV_SLIN/variant.m3u8
-#EXTINF:-1 tvg-id="otv-chelyabinsk" tvg-name="ОТВ Челябинск" tvg-logo="https://iptvx.one/picons/otv-chelyabinsk.png" group-title="Региональные РФ", ОТВ Челябинск
-#EXTGRP:Региональные РФ
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_CHEL/variant.m3u8
 #EXTINF:-1 tvg-id="otv-primorie" tvg-name="ОТВ Приморье" tvg-logo="https://avatars.mds.yandex.net/i?id=e43e8ee235d09392fb2372aec9c08f52a82b730e-9225904-images-thumbs&n=13" group-title="Региональные РФ", ОТВ Приморье
 #EXTGRP:Региональные РФ
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_OTV/variant.m3u8
+https://jz2lo90hnpy.a.trbcdn.net/livemaster/yo8gr_live-5gorrrfpouq.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ots" tvg-name="ОТС Новосибирск" tvg-logo="https://avatars.mds.yandex.net/i?id=e2e5f0f7dd9cf82eb49b40d572216409ea91dddb-4576871-images-thumbs&n=13" group-title="Региональные РФ", ОТС Новосибирск
 #EXTGRP:Региональные РФ
 http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_OTC_ap1f55f482a2df2bede07c661806c4eb/hls/1920x1080@4504/playlist.m3u8
 #EXTINF:-1 tvg-id="panorama-tv-tver" tvg-name="Панорама ТВ FHD Тверь" tvg-logo="http://epg.one/img/6742.png" group-title="Региональные РФ", Панорама ТВ FHD Тверь
 #EXTGRP:Региональные РФ
 http://stream.fastlnk.ru:88/Panorama_TV_HD/index.m3u8
-#EXTINF:-1 tvg-id="pervy-gorodskoy-kirov" tvg-name="Первый городской Киров" tvg-logo="https://avatars.mds.yandex.net/i?id=549c1aa62c10de328f757528fbeaa3f264996176-4571652-images-thumbs&n=13" group-title="Региональные РФ", Первый городской Киров
-#EXTGRP:Региональные РФ
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-https://rt-vlg-kirov-htlive.cdn.ngenix.net/hls/CH_R03_PERVYGORODSKOY/variant.m3u8
-#EXTINF:-1 tvg-id="pervy-gorodskoy-omsk" tvg-name="Первый городской (Омск)" tvg-logo="http://epg.one/img/5855.png" group-title="Региональные РФ", Первый городской (Омск)
-#EXTGRP:Региональные РФ
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmi3y-tv6.ru/hls/zabava/region/OMSK/CH_1GORODSKOY.m3u8
 #EXTINF:-1 tvg-id="pervy-krymsky" tvg-name="Первый Крымский" tvg-logo="https://cdn.epg.one/img/2472.png" group-title="Региональные РФ", Первый Крымский
 #EXTGRP:Региональные РФ
 http://live1.1tvcrimea.ru/1tvcrimea.m3u8
-#EXTINF:-1 tvg-id="pervy-oblastnoy-orel" tvg-name="Первый областной Орел" tvg-logo="https://avatars.mds.yandex.net/i?id=111dbe3f721ba45c688976d444142329_sr-4277590-images-thumbs&n=13" group-title="Региональные РФ", Первый областной Орел
-#EXTGRP:Региональные РФ
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-https://rt-ct-orl-htlive.cdn.ngenix.net/hls/CH_R01_PERVOBL/variant.m3u8
 #EXTINF:-1 tvg-id="pervy-rostovsky" tvg-name="Первый Ростовский FHD" tvg-logo="https://cdn.epg.one/img/6766.png" group-title="Региональные РФ", Первый Ростовский FHD
 #EXTGRP:Региональные РФ
 https://rost.mediacdn.ru/cdn/rostov1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Первый советский Сургут" tvg-logo="https://avatars.mds.yandex.net/i?id=c67deaed2957e0e6b6fb78d02da92559-3537197-images-thumbs&n=13" group-title="Региональные РФ", Первый советский Сургут
-#EXTGRP:Региональные РФ
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmi3y-tv6.ru/hls/zabava/region/SUR/CH_1SOVETSKIYHD.m3u8
 #EXTINF:-1 tvg-id="pervy-tulsky" tvg-name="Первый Тульский" tvg-logo="https://cdn.epg.one/img/6675.png" group-title="Региональные РФ", Первый Тульский
 #EXTGRP:Региональные РФ
 http://1tvtula.ru/tula/1tv_hi/index.m3u8
@@ -2866,35 +2784,18 @@ http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1920x1080@4504/playl
 #EXTINF:-1 tvg-id="pro-zhizn" tvg-name="Про жизнь Прокопьевск" tvg-logo="https://avatars.mds.yandex.net/i?id=09267442282b9f21ece824bc736cd0965f828a32-10160381-images-thumbs&n=13" group-title="Региональные РФ", Про жизнь Прокопьевск
 #EXTGRP:Региональные РФ
 https://27trk.iptv2022.com/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Пыть-Ях Информ" tvg-logo="https://avatars.mds.yandex.net/get-socsnippets/12849796/2a0000019139dd00100698d997b03c715bc1/square_216" group-title="Региональные РФ", Пыть-Ях Информ
-#EXTGRP:Региональные РФ
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmi3y-tv6.ru/hls/zabava/region/SUR/CH_PYT-YAHINFORM.m3u8
 #EXTINF:-1 tvg-id="ramenskoe-tv" tvg-name="Раменское ТВ HD" tvg-logo="https://cdn.epg.one/img/6763.png" group-title="Региональные РФ", Раменское ТВ HD
 #EXTGRP:Региональные РФ
 https://e10-ll.facecast.net/rtv/0.m3u8
 #EXTINF:-1 tvg-id="rgvk-dagestan" tvg-name="РГВК Дагестан FHD" tvg-logo="https://cdn.epg.one/img/7710.png" group-title="Региональные РФ", РГВК Дагестан FHD
 #EXTGRP:Региональные РФ
 http://dagestan.mediacdn.ru/cdn/dagestan/tracks-v3a1/mono.m3u8
-#EXTINF:-1 tvg-id="region29" tvg-name="Регион 29 Архангельск" tvg-logo="https://avatars.mds.yandex.net/get-socsnippets/10235467/2a00000197c35f38cabb2a7a68e5051fb4bb/square_216" group-title="Региональные РФ", Регион 29 Архангельск
-#EXTGRP:Региональные РФ
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-https://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R02_PRAVDASEVERA/variant.m3u8
 #EXTINF:-1 tvg-name="Регион 67 Смоленск" tvg-logo="https://avatars.mds.yandex.net/i?id=819eede11556001a76522bbf066bf0c4698862fd-8206955-images-thumbs&n=13" group-title="Региональные РФ", Регион 67 Смоленск
 #EXTGRP:Региональные РФ
 http://212.3.155.126:8181/udp/233.67.67.177:5510
-#EXTINF:-1 tvg-id="reportior-73" tvg-name="Репортер 73 Ульяновск" tvg-logo="https://avatars.mds.yandex.net/i?id=64270e8c45592bd34016fc11f027b71613d17615-10812288-images-thumbs&n=13" group-title="Региональные РФ", Репортер 73 Ульяновск
+#EXTINF:-1 tvg-id="rifey-tv" tvg-name="Рифей-ТВ" tvg-logo="https://epg.iptvx.one/picons/rifey-tv.png" group-title="Региональные РФ", Рифей-ТВ
 #EXTGRP:Региональные РФ
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://rt-vlg-ul-htlive.cdn.ngenix.net/hls/CH_R03_REP73/variant.m3u8
-#EXTINF:-1 tvg-id="rimtv" tvg-name="РИМ Каменск-Уральский" tvg-logo="https://avatars.mds.yandex.net/i?id=9e54e31c1a8fb4e89aac53ce1d9cd46d51e00344-8287805-images-thumbs&n=13" group-title="Региональные РФ", РИМ Каменск-Уральский
-#EXTGRP:Региональные РФ
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmi3y-tv6.ru/hls/zabava/region/EKT/CH_RIMHD.m3u8
-#EXTINF:-1 tvg-id="rifey-tv" tvg-name="Рифей-ТВ Пермь" tvg-logo="https://avatars.mds.yandex.net/i?id=cbab140967cbc92f38f32f8e7929414106cdf1ed-5220825-images-thumbs&n=13" group-title="Региональные РФ", Рифей-ТВ Пермь
-#EXTGRP:Региональные РФ
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R02_OTT_RENTV_REFEY_PERM/variant.m3u8
+http://river-1.rutube.ru/stream/genetta-402.ntv.rutube.ru/XMt_l-gLgwymNmyrycHRww/1775574337/57486bf8e1c01d16a5a939c463867fab/1080p_stream.m3u8
 #EXTINF:-1 tvg-id="zabajkajkalje" tvg-name="РТК Забайкалье" tvg-logo="https://avatars.mds.yandex.net/i?id=d0237e1bc0f56b6c68d5454f0a325090366ef658-3965918-images-thumbs&n=13" group-title="Региональные РФ", РТК Забайкалье
 #EXTGRP:Региональные РФ
 https://stream.zrtk.ru/zrtk.m3u8
