@@ -2196,9 +2196,6 @@ https://ucdn.beetv.kz/bpk-tv/000001020/tve/index.m3u8
 #EXTINF:-1 tvg-name="88 Stereo" tvg-logo="https://www.88stereo.com/wp-content/uploads/2017/05/88Stereo-logoweb.png" group-title="Музыка", 88 Stereo
 #EXTGRP:Музыка
 http://k3.usastreams.com/CableLatino/88stereo/chunklist_w986835325.m3u8
-#EXTINF:-1 tvg-name="91 Nrg HD" tvg-logo="http://epg.one/img/4650.png" group-title="Музыка", 91 Nrg HD
-#EXTGRP:Музыка
-http://tv.nrg91.gr:1935/onweb/live/master.m3u8
 #EXTINF:-1 tvg-name="Atomic Academy TV" tvg-logo="https://avatars.mds.yandex.net/i?id=aaf23cc486a8e86b82b15c55d27606091c217541-4897019-images-thumbs&n=13" group-title="Музыка", Atomic Academy TV
 #EXTGRP:Музыка
 https://atomic.streamnet.ro/academia.m3u8
@@ -2575,7 +2572,7 @@ https://live.mediacdn.ru/sr1/arhis24/playlist.m3u8
 https://dpoiyvp3kma.a.trbcdn.net/astv24/astv24.m3u8
 #EXTINF:-1 tvg-id="astraxan24" tvg-name="Астрахань 24" tvg-logo="http://epg.one/img/2168.png" group-title="Региональные РФ", Астрахань 24
 #EXTGRP:Региональные РФ
-http://astrakhan24.mediacdn.ru/cdn/astrakhan24/tracks-v1a1/mono.ts.m3u8
+http://streaming.astrakhan.ru/astrakhan24/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="atv-stavropol" tvg-name="АТВ Ставрополь" tvg-logo="http://epg.one/img/5767.png" group-title="Региональные РФ", АТВ Ставрополь
 #EXTGRP:Региональные РФ
 http://hls.atvmedia.ru/atv.m3u8
@@ -2653,7 +2650,7 @@ http://live-nntv2.cdnvideo.ru/nntv2/vremyan/playlist.m3u8
 http://dmi3y-tv6.ru/hls/zabava/region/RD/CH_VOLGVEST_VOLG.m3u8
 #EXTINF:-1 tvg-id="vostok-24" tvg-name="Восток 24 FHD" tvg-logo="http://epg.one/img/7705.png" group-title="Региональные РФ", Восток 24 FHD
 #EXTGRP:Региональные РФ
-http://109.126.27.2:6484/v24/index.m3u8
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladivostok/vostok24-hd/index.m3u8
 #EXTINF:-1 tvg-id="vostochnyj-ekspress" tvg-name="Восточный экспресс" tvg-logo="https://iptvx.one/picons/vostochnyj-ekspress.png" group-title="Региональные РФ", Восточный Экспресс
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -2767,7 +2764,7 @@ https://live.katun24.ru:8082/katun/katun/index.m3u8
 https://tw2ywfm7jbp.a.trbcdn.net/livemaster/w91n1qa6dh_kolymaplus_live/playlist.m3u8
 #EXTINF:-1 tvg-name="Компас ТВ Каменск-Уральский" tvg-logo="https://static.mts.ru/dpc_upload/contents/482/350x350/epg759.png" group-title="Региональные РФ", Компас ТВ Каменск-Уральский
 #EXTGRP:Региональные РФ
-http://46.48.96.88:81/udp/239.255.3.172:1234
+rtmp://89.107.113.89/live/kamensktv
 #EXTINF:-1 tvg-name="Комсомольское время 6ТВ (Хабаровск)" tvg-logo="https://avatars.mds.yandex.net/i?id=1719a14d643469ac48fb538b96b914e411f92319-9293412-images-thumbs&n=13" group-title="Региональные РФ", Комсомольское время 6ТВ (Хабаровск)
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -2839,7 +2836,7 @@ http://megapolis.iptv2022.com/tracks-v1a1/mono.m3u8
 http://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_MIG_TV_URAL_YNF/variant.m3u8
 #EXTINF:-1 tvg-id="millet" tvg-name="Миллет" tvg-logo="http://epg.one/img/6680.png" group-title="Региональные РФ", Миллет
 #EXTGRP:Региональные РФ
-http://live.trkmillet.ru/millet/index.m3u8
+https://live1.1tvcrimea.ru/milletlive.m3u8
 #EXTINF:-1 tvg-id="mir-belogoria" tvg-name="Мир Белогорья" tvg-logo="http://epg.one/img/5830.png" group-title="Региональные РФ", Мир Белогорья
 #EXTGRP:Региональные РФ
 http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8
@@ -3013,7 +3010,7 @@ http://dmi3y-tv6.ru/hls/zabava/region/SMRPL/CH_1SEVASTOPOL_SVTPL.m3u8
 http://dmi3y-tv6.ru/hls/zabava/region/SUR/CH_1SOVETSKIYHD.m3u8
 #EXTINF:-1 tvg-id="pervy-tulsky" tvg-name="Первый Тульский" tvg-logo="https://cdn.epg.one/img/6675.png" group-title="Региональные РФ", Первый Тульский
 #EXTGRP:Региональные РФ
-http://5.164.24.83/tula/1tv_low/index.m3u8
+http://1tvtula.ru/tula/1tv_hi/index.m3u8
 #EXTINF:-1 tvg-id="pervy-yaroslavsky" tvg-name="Первый Ярославский FHD" tvg-logo="https://cdn.epg.one/img/7711.png" group-title="Региональные РФ", Первый Ярославский FHD
 #EXTGRP:Региональные РФ
 http://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/tracks-v1a1/mono.ts.m3u8
@@ -3081,7 +3078,7 @@ http://bsttv.bonus-tv.ru/cdn/salyamhd/tracks-v1a1/mono.ts.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/samara/samara24-hd/index.m3u8
 #EXTINF:-1 tvg-id="gis-samara" tvg-name="Самара ГИС FHD" tvg-logo="https://cdn.epg.one/img/6760.png" group-title="Региональные РФ", Самара ГИС FHD
 #EXTGRP:Региональные РФ
-http://45.67.57.9:8080/new/new/tracks-v1a1/index.m3u8
+https://tv.samaragis.ru/new/new/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="samotlor-nv" tvg-name="Самотлор Нижневартовск" tvg-logo="https://avatars.mds.yandex.net/i?id=f8a462f6389fca4fc290de18641faf64980d9dd3-10928745-images-thumbs&n=13" group-title="Региональные РФ", Самотлор Нижневартовск
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -3251,7 +3248,7 @@ http://185.185.69.62:8084/hls/tuapse24.m3u8
 http://tv.tuva.ru/tuva24/index.m3u8
 #EXTINF:-1 tvg-id="tugan-tel" tvg-name="Туган Тел Уфа" tvg-logo="https://iptvx.one/picons/tugan-tel.png" group-title="Региональные РФ", Туган Тел Уфа
 #EXTGRP:Региональные РФ
-http://213.59.128.165:8080/Tugantel/index.m3u8
+http://streamer.rtkufa.ru/tugantel/hd/playlist.m3u8
 #EXTINF:-1 tvg-name="Тында ТВ" tvg-logo="https://avatars.mds.yandex.net/i?id=da0751661eda948f26c7a35893e65701c46272e7-5843118-images-thumbs&n=13" group-title="Региональные РФ", Тында ТВ
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -3276,7 +3273,7 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/ural24-hd/index.m3u8
 http://s45177.cdn.ngenix.net/hls/CH_R02_UCHALYTV/variant.m3u8
 #EXTINF:-1 tvg-name="Харьков Z" tvg-logo="http://kharkov-z.ru/z-logo-line.png" group-title="Региональные РФ", Харьков Z
 #EXTGRP:Региональные РФ
-http://212.193.53.254/app/potok/playlist.m3u8
+https://live.kharkov-z.ru/app/potok/playlist.m3u8
 #EXTINF:-1 tvg-id="xuzur-tv" tvg-name="Хузур ТВ" tvg-logo="http://epg.one/img/2478.png" group-title="Региональные РФ", Хузур ТВ
 #EXTGRP:Региональные РФ
 http://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
