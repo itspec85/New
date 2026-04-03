@@ -3381,9 +3381,6 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gune
 #EXTINF:-1 tvg-name="ATV AZ" tvg-logo="https://avatars.mds.yandex.net/i?id=0951c25562181a03d31e9b44d854fb138a4a2001-8539554-images-thumbs&n=13" group-title="Азербайджан", ATV AZ
 #EXTGRP:Азербайджан
 http://live.mediabaytv.workers.dev/?ID=86
-#EXTINF:-1 tvg-name="ATV Cinema" tvg-logo="https://avatars.mds.yandex.net/i?id=99f3502de1232d0eadfb83f94f9d94a9e28a6aff-4884685-images-thumbs&n=13" group-title="Азербайджан", ATV Cinema
-#EXTGRP:Азербайджан
-http://boxviptv.com:25461/0519114447/0519114447/880
 #EXTINF:-1 tvg-name="Ayaz TV" tvg-logo="https://vipotv.com/wp-content/uploads/2024/07/ayaz-tv-izle-vipotv.png" group-title="Азербайджан", Ayaz TV
 #EXTGRP:Азербайджан
 https://janya-ayaztv.vgcdn.net/ptnr-Vipo%20TV/title-Ayaz_TV/v1/vglive-sk-934820/AyazTV_1500k.m3u8
@@ -3398,7 +3395,7 @@ http://str.yodacdn.net/azertv/playlist.m3u8
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/baku-tv.m3u8
 #EXTINF:-1 tvg-id="cbc-az" tvg-name="CBC AZ" tvg-logo="http://epg.one/img/2158.png" group-title="Азербайджан", CBC AZ
 #EXTGRP:Азербайджан
-http://boxviptv.com:25461/0519114447/0519114447/1213
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/cbc.m3u8
 #EXTINF:-1 tvg-name="Dünya TV" tvg-logo="https://i.imgur.com/A3yaU4J.png" group-title="Азербайджан", Dünya TV
 #EXTGRP:Азербайджан
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/dunya-tv.m3u8
@@ -3429,12 +3426,6 @@ https://cdn-sinematv.yayin.com.tr/sinematv/sinematv/playlist.m3u8
 #EXTINF:-1 tvg-name="Music Hit AZ" tvg-logo="https://pbs.twimg.com/profile_images/690541902823833600/7N-iqryQ_200x200.png" group-title="Азербайджан", Music Hit AZ
 #EXTGRP:Азербайджан
 https://cdn4.yayin.com.tr/musicazhit/video.m3u8
-#EXTINF:-1 tvg-name="Music Plus AZ" tvg-logo="https://avatars.mds.yandex.net/i?id=9e8fbe48876bcd4df982e71e9a67d54cb110362f-11464670-images-thumbs&n=13" group-title="Азербайджан", Music Plus AZ
-#EXTGRP:Азербайджан
-https://cdn4.yayin.com.tr/baltvmusic/video.m3u8
-#EXTINF:-1 tvg-name="Retro TV AZ" tvg-logo="https://avatars.mds.yandex.net/i?id=2a00000179ed9f0efd3d05aae40782ce96a8-3756503-images-thumbs&n=13" group-title="Азербайджан", Retro TV AZ
-#EXTGRP:Азербайджан
-https://a8.radyotelekom.com.tr:3706/stream/play.m3u8
 #EXTINF:-1 tvg-name="Show Plus TV" tvg-logo="https://avatars.mds.yandex.net/i?id=ce94a91bebe014ab249dd22ae87fa32c61149ded-5869427-images-thumbs&n=13" group-title="Азербайджан", Show Plus TV
 #EXTGRP:Азербайджан
 https://rtmp.showplus.tv/hls/myshow.m3u8
