@@ -1107,7 +1107,8 @@ http://cdn.kubteltv.workers.dev/?ID=219
 https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/playlist.m3u8
 #EXTINF:-1 tvg-id="denpobedy" tvg-name="День Победы HD" tvg-logo="http://epg.one/img/2773.png" group-title="Кино", День Победы HD
 #EXTGRP:Кино
-http://91.226.120.120/chid168/tracks-v1a1/mono.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
+https://mhd128.iptv2022.com/p/5TZQPregVYBiA8OS6BmS5g,1775242571/streaming/den-pobedi/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="domkino" tvg-name="Дом кино" tvg-logo="http://epg.one/img/834.png" group-title="Кино", Дом Кино
 #EXTGRP:Кино
 http://176.96.241.40/DomKino/index.m3u8
@@ -1264,10 +1265,10 @@ http://176.118.197.101/RodnoeKino/index.m3u8
 http://hls127.freeott.top:8080/PG_Rukino_HD/manifest.m3u8
 #EXTINF:-1 tvg-id="russky-bestseller" tvg-name="Русский бестселлер" tvg-logo="http://epg.one/img/994.png" group-title="Кино", Русский бестселлер
 #EXTGRP:Кино
-http://91.226.120.120/chid75/tracks-v1a1/mono.m3u8
+http://cdn.kubteltv.workers.dev/?ID=356
 #EXTINF:-1 tvg-id="russky-detektiv" tvg-name="Русский детектив" tvg-logo="http://epg.one/img/1570.png" group-title="Кино", Русский детектив
 #EXTGRP:Кино
-http://91.226.120.120/chid82/tracks-v1a1/mono.m3u8
+http://cdn.kubteltv.workers.dev/?ID=357
 #EXTINF:-1 tvg-id="russky-illuzion" tvg-name="Русский иллюзион" tvg-logo="http://epg.one/img/53.png" group-title="Кино", Русский Иллюзион
 #EXTGRP:Кино
 http://185.46.16.239:8000/Russkiy_Illyuzion
