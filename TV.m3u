@@ -2597,7 +2597,7 @@ https://rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_IVAN_BARS/variant.m3u
 https://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R02_BATAYSK/variant.m3u8
 #EXTINF:-1 tvg-id="bashkortostan24" tvg-name="Башкортостан 24" tvg-logo="http://epg.one/img/7707.png" group-title="Региональные РФ", Башкортостан 24
 #EXTGRP:Региональные РФ
-http://109.233.169.137/hls/b24-hls.m3u8
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/bashkortostan24-hd/index.m3u8
 #EXTINF:-1 tvg-id="belgorod24" tvg-name="Белгород 24" tvg-logo="http://epg.one/img/5831.png" group-title="Региональные РФ", Белгород 24
 #EXTGRP:Региональные РФ
 https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8
@@ -2637,7 +2637,7 @@ http://dmi3y-tv6.ru/hls/zabava/region/EKT/CH_VEKTORHD720_TRNSK.m3u8
 http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
 #EXTINF:-1 tvg-id="volga" tvg-name="Волга" tvg-logo="http://epg.one/img/2468.png" group-title="Региональные РФ", Волга ТВ
 #EXTGRP:Региональные РФ
-http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist.m3u8
+http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1024x576@1272/playlist.m3u8
 #EXTINF:-1 tvg-id="nn-24" tvg-name="Волга 24 HD" tvg-logo="http://epg.one/img/6756.png" group-title="Региональные РФ", Волга 24 HD
 #EXTGRP:Региональные РФ
 http://live-nntv2.cdnvideo.ru/nntv2/vremyan/playlist.m3u8
@@ -2824,7 +2824,7 @@ http://193.33.233.109:9000/tv
 https://live-mordovia24.cdnvideo.ru/mordovia24/streamtr/playlist.m3u8
 #EXTINF:-1 tvg-id="moskva-24" tvg-name="Москва 24" tvg-logo="http://epg.one/img/334.png" group-title="Региональные РФ", Москва 24
 #EXTGRP:Региональные РФ
-http://193.25.8.59:8000/moskva24
+https://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe
 #EXTINF:-1 tvg-id="doverie" tvg-name="Москва Доверие" tvg-logo="http://epg.one/img/2308.png" group-title="Региональные РФ", Москва Доверие
 #EXTGRP:Региональные РФ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
