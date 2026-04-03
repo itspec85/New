@@ -2553,10 +2553,6 @@ http://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/bashkortostan24-hd/index.m3u8
 #EXTINF:-1 tvg-id="belgorod24" tvg-name="Белгород 24" tvg-logo="http://epg.one/img/5831.png" group-title="Региональные РФ", Белгород 24
 #EXTGRP:Региональные РФ
 https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8
-#EXTINF:-1 tvg-id="briansk24" tvg-name="Брянск 24" tvg-logo="https://avatars.mds.yandex.net/i?id=472108ae655801fc171a86b5aa7b9e4cbff4e16d-4493789-images-thumbs&n=13" group-title="Региональные РФ", Брянск 24
-#EXTGRP:Региональные РФ
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmi3y-tv6.ru/hls/zabava/region/BRYANSK/CH_BRYANSK24HD.m3u8
 #EXTINF:-1 tvg-id="brianskaya-gubernia" tvg-name="Брянская Губерния" tvg-logo="http://epg.one/img/2300.png" group-title="Региональные РФ", Брянская Губерния
 #EXTGRP:Региональные РФ
 https://online.guberniya.tv/hls/gub_3500K/Guberniya_HD_3500K.m3u8
@@ -2568,8 +2564,7 @@ http://bsttv.bonus-tv.ru:80/cdn/bst/playlist_sdhigh.m3u8
 http://bst.bratsk.ru/hls/bst2/fhd/stream.m3u8
 #EXTINF:-1 tvg-id="buriaad" tvg-name="Буряад ТВ Улан-Удэ" tvg-logo="https://avatars.mds.yandex.net/i?id=e2ca8715c74145f06d0e01d0bc7ccc4336f4137af3f56775-12530521-images-thumbs&n=13" group-title="Региональные РФ", Буряад ТВ Улан-Удэ
 #EXTGRP:Региональные РФ
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://dmi3y-tv6.ru/hls/zabava/region/UUDE/CH_BURYAADHD.m3u8
+http://river-1.rutube.ru/stream/genetta-317.m9.rutube.ru/pOqJrfiYTbC1ZunQQ7YZ6Q/1775574367/55fec7f2c11f4decc66568fca39f26b2/1080p_stream.m3u8
 #EXTINF:-1 tvg-id="tk-variant" tvg-name="Вариант ТВ Владимир" tvg-logo="https://cdn.epg.one/img/6758.png" group-title="Региональные РФ", Вариант ТВ Владимир
 #EXTGRP:Региональные РФ
 https://variant33.ru/direct/live/site/playlist600k.m3u8
