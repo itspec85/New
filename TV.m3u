@@ -206,7 +206,8 @@ http://193.25.8.59:8000/mir24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="ntv" tvg-name="НТВ" tvg-logo="http://epg.one/img/162.png" group-title="Россия", НТВ
 #EXTGRP:Россия
-http://185.46.16.239:8000/NTV
+#EXTVLCOPT:http-user-agent=ntv
+http://cdn2.ntv.ru/ntv-spb/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ntv" tvg-name="НТВ HD" tvg-logo="http://epg.one/img/2001.png" group-title="Россия", НТВ HD
 #EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=ntv
@@ -258,7 +259,7 @@ http://online.video.rbc.ru/online/rbctv_720p/index.m3u8
 https://e5-online-video.rbc.ru/online2/rbctvhd_1080p/index.m3u8
 #EXTINF:-1 tvg-id="rentv" tvg-name="Рен ТВ" tvg-logo="http://epg.one/img/18.png" group-title="Россия", РЕН ТВ
 #EXTGRP:Россия
-http://31.131.141.195:8000/play/2010/index.m3u8
+http://stream-tv.ew21.ru/011/video.m3u8?hash=TN66TE4YB
 #EXTINF:-1 tvg-id="rentv" tvg-name="Рен ТВ" tvg-logo="http://epg.one/img/2487.png" group-title="Россия", РЕН ТВ HD
 #EXTGRP:Россия
 http://cdn.kubteltv.workers.dev/?ID=376
