@@ -690,6 +690,9 @@ http://media.16pm.ru/live/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="poexali" tvg-name="Поехали!" tvg-logo="http://epg.one/img/2350.png" group-title="Познавательные", Поехали!
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000002991/tve/index.m3u8
+#EXTINF:-1 tvg-id="poliottv" tvg-name="Полёт ТВ" tvg-logo="https://epg.iptvx.one/picons/poliottv.png" group-title="Познавательные", Полёт ТВ
+#EXTGRP:Познавательные
+http://stitch.teletarget.ru/vintera/flighttv/index.m3u8
 #EXTINF:-1 tvg-id="prikluchenia-hd" tvg-name="Приключения HD" tvg-logo="http://epg.one/img/2311.png" group-title="Познавательные", Приключения HD
 #EXTGRP:Познавательные
 https://stream8.cinerama.uz/1420/tracks-v1a1/mono.m3u8
@@ -732,6 +735,9 @@ http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf
 #EXTINF:-1 tvg-id="soyuz" tvg-name="Союз" tvg-logo="http://epg.one/img/2448.png" group-title="Познавательные", Союз
 #EXTGRP:Познавательные
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+#EXTINF:-1 tvg-id="tro" tvg-name="Союзный" tvg-logo="https://avatars.mds.yandex.net/i?id=2a0000019d3def4e3785ed089ba92e7d2c4b-1412630-fast-images&n=13" group-title="Познавательные", Союзный
+#EXTGRP:Познавательные
+http://souzny.mediacdn.ru/cdn/souzny/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="ТАСС" tvg-logo="https://avatars.mds.yandex.net/i?id=e60e5cf5b5f0b2931e57c68bfd435bef596e41d6-5752088-images-thumbs&n=13" group-title="Познавательные", ТАСС
 #EXTGRP:Познавательные
 https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream_480p/playlist.m3u8
@@ -888,6 +894,9 @@ https://ucdn.beetv.kz/bpk-tv/000004474/tve/index.m3u8
 #EXTINF:-1 tvg-id="national-geographic" tvg-name="National Geographic" tvg-logo="http://epg.one/img/102.png" group-title="Познавательные", National Geographic
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000000034/tve/index.m3u8
+#EXTINF:-1 tvg-name="NewsFront TV" tvg-logo="https://avatars.mds.yandex.net/i?id=821654eae286bccb7d36424d975f665b1b62e203-10245177-images-thumbs&n=13" group-title="Познавательные", NewsFront TV
+#EXTGRP:Познавательные
+https://tv.2kita.com/stream/index.m3u8
 #EXTINF:-1 tvg-id="ocean-tv" tvg-name="OCEAN-TV" tvg-logo="http://epg.one/img/55.png" group-title="Познавательные", OCEAN-TV
 #EXTGRP:Познавательные
 http://86.57.209.210/Ocean/index.m3u8
@@ -2177,6 +2186,9 @@ http://kino-1.catcast.tv/content/37739/index.m3u8
 #EXTINF:-1 tvg-id="muzyka-pervogo" tvg-name="Музыка Первого" tvg-logo="http://epg.one/img/715.png" group-title="Музыка", Музыка Первого
 #EXTGRP:Музыка
 https://ucdn.beetv.kz/bpk-tv/000000204/tve/index.m3u8
+#EXTINF:-1 tvg-id="la-minor" tvg-name="Музыка Live" tvg-logo="https://epg.iptvx.one/picons/la-minor.png" group-title="Музыка", Музыка Live
+#EXTGRP:Музыка
+http://31.148.48.15:80/La-Minor_TV/index.m3u8
 #EXTINF:-1 tvg-id="o2tv" tvg-name="О2 ТВ" tvg-logo="http://epg.one/img/2412.png" group-title="Музыка", О2 ТВ
 #EXTGRP:Музыка
 http://77.232.131.211/O2TV/index.m3u8
@@ -2699,6 +2711,9 @@ http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8
 #EXTINF:-1 tvg-name="МИТВ (Местное Илимское TV)" tvg-logo="https://avatars.mds.yandex.net/i?id=2f75654c64b41c92fb514034ce2012f8e0722bb4-12421110-images-thumbs&n=13" group-title="Региональные РФ", МИТВ (Местное Илимское TV)
 #EXTGRP:Региональные РФ
 http://193.33.233.109:9000/tv
+#EXTINF:-1 tvg-name="Мой город Кушва" tvg-logo="https://avatars.mds.yandex.net/i?id=8acb0213b0cc51258e082ed9af0884fab1fac6bf-5865925-images-thumbs&n=13" group-title="Региональные РФ", Мой город Кушва
+#EXTGRP:Региональные РФ
+http://85.208.223.249:8888/play/a033
 #EXTINF:-1 tvg-id="mordovia-24" tvg-name="Мордовия 24" tvg-logo="https://iptvx.one/picons/mordovia-24.png" group-title="Региональные РФ", Мордовия 24
 #EXTGRP:Региональные РФ
 https://live-mordovia24.cdnvideo.ru/mordovia24/streamtr/playlist.m3u8
@@ -3173,6 +3188,9 @@ https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/chunklist_w1
 #EXTINF:-1 tvg-id="belsat" tvg-name="Белсат" tvg-logo="http://epg.one/img/4627.png" group-title="Беларусь", БелСат
 #EXTGRP:Беларусь
 http://portal.ott.pink/C5UK_BelsatTV/mpegts?token=9ED1CC22511FE66191AD465072EEE8DF
+#EXTINF:-1 tvg-id="bug-tv" tvg-name="Буг-ТВ" tvg-logo="https://epg.iptvx.one/picons/bug-tv.png" group-title="Беларусь", Буг-ТВ
+#EXTGRP:Беларусь
+http://46.53.208.4/live/7001-req_5k_v5.m3u8
 #EXTINF:-1 tvg-id="voentv-by" tvg-name="ВоенТВ [BY]" tvg-logo="https://epg.iptvx.one/picons/voentv-by.png" group-title="Беларусь", ВоенТВ [BY]
 #EXTGRP:Беларусь
 http://46.53.208.4:80/live/101.m3u8
