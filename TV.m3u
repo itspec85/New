@@ -206,12 +206,10 @@ http://193.25.8.59:8000/mir24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="ntv" tvg-name="НТВ" tvg-logo="http://epg.one/img/162.png" group-title="Россия", НТВ
 #EXTGRP:Россия
-#EXTVLCOPT:http-user-agent=ntv
-http://cdn2.ntv.ru/ntv-spb/tracks-v1a1/mono.m3u8
+https://flussonic.mkpnet.ru/tv-1bc5d712ea5ace74/video.m3u8
 #EXTINF:-1 tvg-id="ntv" tvg-name="НТВ HD" tvg-logo="http://epg.one/img/2001.png" group-title="Россия", НТВ HD
 #EXTGRP:Россия
-#EXTVLCOPT:http-user-agent=ntv
-https://cdn.ntv.ru/ntv0_hd/tracks-v1a1/playlist.m3u8
+https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=e2W_eVudzzK8QuuBNGgZnw&e=2074209214&scheme=https
 #EXTINF:-1 tvg-id="ntv-mir" tvg-name="НТВ Мир" tvg-logo="http://epg.one/img/7258.png" group-title="Россия", НТВ Мир
 #EXTGRP:Россия
 https://ucdn.beetv.kz/bpk-tv/000000079/tve/index.m3u8
