@@ -645,6 +645,9 @@ http://185.46.16.239:8000/Nauka_2.0
 #EXTINF:-1 tvg-id="nasha-tema" tvg-name="Наша тема" tvg-logo="http://epg.one/img/2433.png" group-title="Познавательные", Наша тема
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000003785/tve/index.m3u8
+#EXTINF:-1 tvg-id="neizvestnaya-planeta" tvg-name="Неизвестная Планета" tvg-logo="https://epg.iptvx.one/picons/neizvestnaya-planeta.png" group-title="Познавательные", Неизвестная Планета
+#EXTGRP:Познавательные
+http://stitch.teletarget.ru/api/v1/hls/vintera/neplaneta/index.m3u8
 #EXTINF:-1 tvg-id="neizvestnaya-rosia" tvg-name="Неизвестная Россия HD" tvg-logo="http://epg.one/img/9015.png" group-title="Познавательные", Неизвестная Россия HD
 #EXTGRP:Познавательные
 #EXTVLCOPT:http-user-agent=ntv
@@ -951,6 +954,9 @@ https://ucdn.beetv.kz/bpk-tv/000001498/tve/index.m3u8
 #EXTINF:-1 tvg-id="travel-adventure" tvg-name="travel+adventure" tvg-logo="http://epg.one/img/1035.png" group-title="Познавательные", travel+adventure
 #EXTGRP:Познавательные
 http://77.232.131.211/TravelAdventureHD/index.m3u8
+#EXTINF:-1 tvg-id="travel-xp-hd" tvg-name="TravelXP HD" tvg-logo="http://epg.one/img/9155.png" group-title="Познавательные", TravelXP HD
+#EXTGRP:Познавательные
+http://77.245.98.18:8000/play/a00n
 #EXTINF:-1 tvg-id="tv-brics" tvg-name="TV BRICS" tvg-logo="https://iptvx.one/picons/tv-brics.png" group-title="Познавательные", TV BRICS
 #EXTGRP:Познавательные
 http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
