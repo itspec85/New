@@ -209,7 +209,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 https://flussonic.mkpnet.ru/tv-1bc5d712ea5ace74/video.m3u8
 #EXTINF:-1 tvg-id="ntv" tvg-name="НТВ HD" tvg-logo="http://epg.one/img/2001.png" group-title="Россия", НТВ HD
 #EXTGRP:Россия
-https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=e2W_eVudzzK8QuuBNGgZnw&e=2074209214&scheme=https
+http://31.133.46.225:8003/play/a041
 #EXTINF:-1 tvg-id="ntv-mir" tvg-name="НТВ Мир" tvg-logo="http://epg.one/img/7258.png" group-title="Россия", НТВ Мир
 #EXTGRP:Россия
 https://ucdn.beetv.kz/bpk-tv/000000079/tve/index.m3u8
@@ -2518,7 +2518,7 @@ http://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
 http://river-1.rutube.ru/stream/genetta-311.m9.rutube.ru/i0t4KxtWaooYYdkCX7B8Bw/1775574326/aff0a2b356d2e1eef55bdb868be4dcc3/1080p_stream.m3u8
 #EXTINF:-1 tvg-id="78kanal" tvg-name="78 канал Санкт-Петербург" tvg-logo="http://epg.one/img/7616.png" group-title="Региональные РФ", 78 канал Санкт-Петербург
 #EXTGRP:Региональные РФ
-http://river-1.rutube.ru/stream/genetta-314.m9.rutube.ru/8HjsorCbwz2kaZPTXDfpcQ/1775574432/bbf23277dbd0dd0e6a623526d4c3f8c9/1080p_stream.m3u8
+https://bl.rutube.ru/livestream/bbf23277dbd0dd0e6a623526d4c3f8c9/index.m3u8?s=ORv5xqN37wdG93boM0PkjA&e=2075588012&scheme=https
 #EXTINF:-1 tvg-id="360-podmoskovie" tvg-name="360°" tvg-logo="http://epg.one/img/2265.png" group-title="Региональные РФ", 360°
 #EXTGRP:Региональные РФ
 http://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1080.m3u8
