@@ -329,7 +329,7 @@ https://ucdn.beetv.kz/bpk-tv/000000112/tve/index.m3u8
 http://31.131.141.195:8000/play/2090/index.m3u8
 #EXTINF:-1 tvg-id="tnt" tvg-name="ТНТ HD" tvg-logo="http://epg.one/img/1767.png" group-title="Россия", ТНТ HD
 #EXTGRP:Россия
-http://cdn.kubteltv.workers.dev/?ID=373
+http://31.133.46.225:8003/play/a058
 #EXTINF:-1 tvg-id="tnt-int-cis" tvg-name="ТНТ-International (СНГ)" tvg-logo="http://epg.one/img/5692.png" group-title="Россия", ТНТ International
 #EXTGRP:Россия
 https://ucdn.beetv.kz/bpk-tv/000007833/tve/index.m3u8
