@@ -507,6 +507,9 @@ https://stream8.cinerama.uz/1404/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Вера 24" tvg-logo="https://i.imgur.com/Qer5Lnh.png" group-title="Познавательные", Вера 24
 #EXTGRP:Познавательные
 https://5f05e059699ae.streamlock.net/WEB_Vera24/ngrp:Vera24.stream-adaptive/playlist.m3u8
+#EXTINF:-1 tvg-id="vkus" tvg-name="Вкус" tvg-logo="https://epg.iptvx.one/picons/vkus.png" group-title="Познавательные", Вкус
+#EXTGRP:Познавательные
+http://89.218.32.179:18000/play/a027
 #EXTINF:-1 tvg-id="vmeste-rf" tvg-name="Вместе-РФ" tvg-logo="http://epg.one/img/2398.png" group-title="Познавательные", Вместе-РФ
 #EXTGRP:Познавательные
 https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
@@ -660,15 +663,13 @@ https://ucdn.beetv.kz/bpk-tv/000008615/tve/index.m3u8
 http://176.118.197.101/Nostalgiya/index.m3u8
 #EXTINF:-1 tvg-id="ntv-pravo" tvg-name="НТВ Право" tvg-logo="http://epg.one/img/1753.png" group-title="Познавательные", НТВ Право
 #EXTGRP:Познавательные
-#EXTVLCOPT:http-user-agent=ntv
-http://cdn.ntv.ru/th_pravo/mono.m3u8
+http://46.53.208.4/live/992.m3u8
 #EXTINF:-1 tvg-name="НТВ Своя игра" tvg-logo="https://avatars.mds.yandex.net/i?id=ef621d1d2fdd97905e41f9ee0e62e296cfb23278-10702699-images-thumbs&n=13" group-title="Познавательные", НТВ Своя игра
 #EXTGRP:Познавательные
 https://cdn-dvr.ntv.ru/svoya_igra/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1 tvg-id="ntv-style" tvg-name="НТВ Стиль" tvg-logo="http://epg.one/img/1755.png" group-title="Познавательные", НТВ Стиль
 #EXTGRP:Познавательные
-#EXTVLCOPT:http-user-agent=ntv
-http://cdn.ntv.ru/th_style/mono.m3u8
+http://46.53.208.4/live/175.m3u8
 #EXTINF:-1 tvg-name="НТВ Ты супер" tvg-logo="https://avatars.mds.yandex.net/i?id=8ab257cdd08cf18588e858ab2a9fb51e67fb18ed-9293428-images-thumbs&n=13" group-title="Познавательные", НТВ Ты супер
 #EXTGRP:Познавательные
 https://cdn-dvr.ntv.ru/Super/tracks-v1a1/rewind-240.ts.m3u8
@@ -1272,12 +1273,10 @@ https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1_output_0.m3u
 http://80.77.52.3/streams/media/nstv_720x576/index.m3u8
 #EXTINF:-1 tvg-id="ntv-serial" tvg-name="НТВ Сериал" tvg-logo="http://epg.one/img/1754.png" group-title="Кино", НТВ Сериал
 #EXTGRP:Кино
-#EXTVLCOPT:http-user-agent=ntv
-http://cdn.ntv.ru/th_serial/mono.m3u8
+http://46.53.208.4/live/2065-req_5k_v5.m3u8
 #EXTINF:-1 tvg-id="ntv-xit" tvg-name="НТВ Хит" tvg-logo="http://epg.one/img/2041.png" group-title="Кино", НТВ Хит HD
 #EXTGRP:Кино
-#EXTVLCOPT:http-user-agent=ntv
-http://cdn.ntv.ru/th_hit/mono.m3u8
+http://193.25.8.59:8000/Paramount
 #EXTINF:-1 tvg-id="ostrosiuzhetnoe-hd" tvg-name="Остросюжетное HD" tvg-logo="http://epg.one/img/1588.png" group-title="Кино", Остросюжетное HD
 #EXTGRP:Кино
 http://31.133.46.225:8003/play/a05n
@@ -1930,6 +1929,9 @@ http://45.145.32.13:20440/mir_basketbola/index.m3u8?token=test
 #EXTINF:-1 tvg-id="footbolny" tvg-name="Мяч" tvg-logo="http://epg.one/img/4679.png" group-title="Спорт", Мяч HD
 #EXTGRP:Спорт
 http://cdn.kubteltv.workers.dev/?ID=404
+#EXTINF:-1 tvg-id="okko-sport" tvg-name="Окко Спорт" tvg-logo="http://epg.one/img/7889.png" group-title="Спорт", Окко Спорт HD
+#EXTGRP:Спорт
+http://ua.online24.pm/play/7337/350B326FB34F4B8/video.m3u8
 #EXTINF:-1 tvg-id="sportivny" tvg-name="ТВ Спорт" tvg-logo="http://epg.one/img/4678.png" group-title="Спорт", ТВ Спорт HD
 #EXTGRP:Спорт
 http://live-3.otcnet.ru/sportivny/index.m3u8
