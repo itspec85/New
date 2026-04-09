@@ -2025,6 +2025,12 @@ http://app-plus.live:80/9680723188/kyft6ks0g7gr7uw0xio6/196845
 #EXTINF:-1 tvg-id="extreme-sports" tvg-name="Extreme Sports" tvg-logo="http://epg.one/img/2053.png" group-title="Спорт", Extreme Sports
 #EXTGRP:Спорт
 https://ucdn.beetv.kz/bpk-tv/000000026/tve/index.m3u8
+#EXTINF:-1 tvg-id="fast-sport-1-am" tvg-name="Fast Sports 1" tvg-logo="https://epg.iptvx.one/picons/fast-sport-1-am.png" group-title="Спорт", Fast Sports 1
+#EXTGRP:Спорт
+http://5.134.87.12:8005/play/a021/index.m3u8
+#EXTINF:-1 tvg-id="fast-sport-2-am" tvg-name="Fast Sports 2" tvg-logo="https://epg.iptvx.one/picons/fast-sport-2-am.png" group-title="Спорт", Fast Sports 2
+#EXTGRP:Спорт
+http://5.134.87.12:8005/play/a022/index.m3u8
 #EXTINF:-1 tvg-name="FIFA+" tvg-logo="https://avatars.mds.yandex.net/i?id=bdbc330ef7e210c9dc6e98fb73c2a0a56935397c-5761336-images-thumbs&n=13" group-title="Спорт", FIFA+
 #EXTGRP:Спорт
 https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
