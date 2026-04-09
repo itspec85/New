@@ -798,7 +798,7 @@ http://193.169.178.29:8081/podsekaiTV/chanelHD1080/playlist.m3u8
 http://live.15plusmg.ru/memfs/90b76c71-a86e-488a-aac4-cb66d6f88781.m3u8
 #EXTINF:-1 tvg-id="animal-planet-eu" tvg-name="Animal Planet" tvg-logo="http://epg.one/img/365.png" group-title="Познавательные", Animal Planet
 #EXTGRP:Познавательные
-https://ucdn.beetv.kz/bpk-tv/000000216/tve/index.m3u8
+http://89.33.29.116/Animal_Planet_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="bbc" tvg-name="BBC World News" tvg-logo="http://epg.one/img/828.png" group-title="Познавательные", BBC World News
 #EXTGRP:Познавательные
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
@@ -831,7 +831,7 @@ https://api-tv.ipnet.ua/api/v1/manifest/2118742360.m3u8
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
 #EXTINF:-1 tvg-id="discovery-channel" tvg-name="Discovery Channel" tvg-logo="http://epg.one/img/325.png" group-title="Познавательные", Discovery Channel
 #EXTGRP:Познавательные
-https://ucdn.beetv.kz/bpk-tv/000001496/tve/index.m3u8
+http://5.188.159.128:8070/DiscoveryChannel/index.m3u8
 #EXTINF:-1 tvg-id="epic" tvg-name="Epic" tvg-logo="http://epg.one/img/9054.png" group-title="Познавательные", Epic HD
 #EXTGRP:Познавательные
 http://193.25.8.59:8000/dtx
@@ -877,6 +877,9 @@ https://ucdn.beetv.kz/bpk-tv/000002722/tve/index.m3u8
 #EXTINF:-1 tvg-id="insight-tv-hd" tvg-name="Insight TV HD" tvg-logo="https://epg.iptvx.one/picons/insight-tv-hd.png" group-title="Познавательные", Insight TV HD
 #EXTGRP:Познавательные
 https://stream8.cinerama.uz/1416/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="id-xtra-eu" tvg-name="ID Investigation Discovery EU" tvg-logo="http://epg.one/img/2507.png" group-title="Познавательные", Investigation Discovery HD
+#EXTGRP:Познавательные
+http://89.33.29.116/ID_Xtra_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Jarmarka" tvg-logo="https://i.ytimg.com/an/23MIFU9IMsNtE2K6FfBBCQ/featured_channel.jpg" group-title="Познавательные", Jarmarka
 #EXTGRP:Познавательные
 https://api.alpaca.t62a.com/hls/9104/stream0.m3u8
@@ -891,10 +894,10 @@ https://s1.tv-nano.com/Luxury_rec/tracks-v1a1/mono.m3u8
 http://s1.tv-nano.com/Nano_rec/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="nat-geo-wild" tvg-name="Nat Geo Wild" tvg-logo="http://epg.one/img/223.png" group-title="Познавательные", Nat Geo Wild
 #EXTGRP:Познавательные
-https://ucdn.beetv.kz/bpk-tv/000004474/tve/index.m3u8
+http://89.33.29.116/Nat_Geo_Wild_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="national-geographic" tvg-name="National Geographic" tvg-logo="http://epg.one/img/102.png" group-title="Познавательные", National Geographic
 #EXTGRP:Познавательные
-https://ucdn.beetv.kz/bpk-tv/000000034/tve/index.m3u8
+http://89.33.29.116/National_Geo_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="NewsFront TV" tvg-logo="https://avatars.mds.yandex.net/i?id=821654eae286bccb7d36424d975f665b1b62e203-10245177-images-thumbs&n=13" group-title="Познавательные", NewsFront TV
 #EXTGRP:Познавательные
 https://tv.2kita.com/stream/index.m3u8
