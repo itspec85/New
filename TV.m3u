@@ -862,7 +862,10 @@ http://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="gags-network" tvg-name="Gags Network" tvg-logo="http://epg.one/img/3551.png" group-title="Познавательные", Gags Network
 #EXTGRP:Познавательные
 http://hls127.freeott.top:8080/Gagsnetwork/mono.m3u8
-#EXTINF:-1 tvg-id="galaxy-tv" tvg-name="Galaxy" tvg-logo="http://epg.one/img/2418.png" group-title="Познавательные", Galaxy
+#EXTINF:-1 tvg-id="galaxy-tv" tvg-name="Galaxy TV" tvg-logo="http://epg.one/img/2418.png" group-title="Познавательные", Galaxy
+#EXTGRP:Познавательные
+http://193.25.8.59:8000/galaxy
+#EXTINF:-1 tvg-id="galaxy-tv" tvg-name="Galaxy TV" tvg-logo="http://epg.one/img/2418.png" group-title="Познавательные", Galaxy HD
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000000332/tve/index.m3u8
 #EXTINF:-1 tvg-name="Gameplay" tvg-logo="https://avatars.mds.yandex.net/i?id=c575f44cab8db1ef668138254a3e76f3355940db-4292261-images-thumbs&n=13" group-title="Познавательные", Gameplay
@@ -870,8 +873,14 @@ https://ucdn.beetv.kz/bpk-tv/000000332/tve/index.m3u8
 https://fl1001.bozztv.com/ushba31/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="history" tvg-name="History" tvg-logo="http://epg.one/img/1394.png" group-title="Познавательные", History
 #EXTGRP:Познавательные
+https://a3569457567-s70378.cdn.ngenix.net/history/1/index.m3u8
+#EXTINF:-1 tvg-id="history" tvg-name="History HD" tvg-logo="http://epg.one/img/1394.png" group-title="Познавательные", History HD
+#EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000001000/tve/index.m3u8
-#EXTINF:-1 tvg-id="h2" tvg-name="History2" tvg-logo="http://epg.one/img/2356.png" group-title="Познавательные", H2 HD
+#EXTINF:-1 tvg-id="h2" tvg-name="History2" tvg-logo="http://epg.one/img/2356.png" group-title="Познавательные", History2
+#EXTGRP:Познавательные
+https://a3569457567-s70378.cdn.ngenix.net/history_2/1/index.m3u8
+#EXTINF:-1 tvg-id="h2" tvg-name="History2" tvg-logo="http://epg.one/img/2356.png" group-title="Познавательные", History2 HD
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000002722/tve/index.m3u8
 #EXTINF:-1 tvg-id="insight-tv-hd" tvg-name="Insight TV HD" tvg-logo="https://epg.iptvx.one/picons/insight-tv-hd.png" group-title="Познавательные", Insight TV HD
