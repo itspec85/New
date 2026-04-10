@@ -212,7 +212,7 @@ http://85.192.10.131/hls/NtvRuM9/playlist.m3u8
 http://89.33.29.116/NTV_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ntv-mir" tvg-name="НТВ Мир" tvg-logo="http://epg.one/img/7258.png" group-title="Россия", НТВ Мир
 #EXTGRP:Россия
-https://ucdn.beetv.kz/bpk-tv/000000079/tve/index.m3u8
+http://tchaikovsky.af-stream.com:8080/s/agvha3rn/ntv-mir/video.m3u8
 #EXTINF:-1 tvg-id="otr" tvg-name="ОТР" tvg-logo="http://epg.one/img/1000.png" group-title="Россия", ОТР
 #EXTGRP:Россия
 http://185.46.16.239:8000/OTR
@@ -239,10 +239,10 @@ http://185.46.16.239:8000/Pyatnitsa
 http://cdn.kubteltv.workers.dev/?ID=380
 #EXTINF:-1 tvg-id="piatnica-int" tvg-name="Пятница International" tvg-logo="https://avatars.mds.yandex.net/i?id=6e89c0754d8e6800feb8f51ae53f5192eb27ea76-5222505-images-thumbs&n=13" group-title="Россия", Пятница International
 #EXTGRP:Россия
-https://ucdn.beetv.kz/bpk-tv/000007816/tve/index.m3u8
+http://158.101.222.193:88/georgia_play.php?id=friday
 #EXTINF:-1 tvg-id="5kanal-ru" tvg-name="Пятый канал" tvg-logo="http://epg.one/img/427.png" group-title="Россия", Пятый канал
 #EXTGRP:Россия
-http://31.131.141.195:8000/play/1050/index.m3u8
+https://flussonic.mkpnet.ru/tv-a5ff8c7a86c8b951/video.m3u8
 #EXTINF:-1 tvg-id="5kanal-ru" tvg-name="Пятый канал" tvg-logo="http://epg.one/img/427.png" group-title="Россия", Пятый канал HD
 #EXTGRP:Россия
 http://cdn.kubteltv.workers.dev/?ID=423
@@ -263,7 +263,7 @@ http://stream-tv.ew21.ru/011/video.m3u8?hash=TN66TE4YB
 http://cdn.kubteltv.workers.dev/?ID=376
 #EXTINF:-1 tvg-name="Рен ТВ International" tvg-logo="https://i.postimg.cc/SsRGs7Y7/International.png" group-title="Россия", Рен ТВ International
 #EXTGRP:Россия
-https://ucdn.beetv.kz/bpk-tv/000002472/tve/index.m3u8
+http://178.134.1.158:8081/RENTV/index.m3u8
 #EXTINF:-1 tvg-id="rossia1" tvg-name="Россия 1" tvg-logo="http://epg.one/img/711.png" group-title="Россия", Россия 1
 #EXTGRP:Россия
 http://109.207.243.18/2/index.m3u8
@@ -323,14 +323,17 @@ https://ucdn.beetv.kz/bpk-tv/000004712/tve/index.m3u8
 http://185.71.81.6:8080/10/index.m3u8
 #EXTINF:-1 tvg-id="tvci" tvg-name="ТВЦ International" tvg-logo="http://epg.one/img/5691.png" group-title="Россия", ТВЦ International
 #EXTGRP:Россия
-https://ucdn.beetv.kz/bpk-tv/000000112/tve/index.m3u8
+https://stream8.cinerama.uz/1281/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tnt" tvg-name="ТНТ" tvg-logo="http://epg.one/img/353.png" group-title="Россия", ТНТ
 #EXTGRP:Россия
 http://31.131.141.195:8000/play/2090/index.m3u8
 #EXTINF:-1 tvg-id="tnt" tvg-name="ТНТ HD" tvg-logo="http://epg.one/img/1767.png" group-title="Россия", ТНТ HD
 #EXTGRP:Россия
 http://89.33.29.116/TNTHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="tnt-int-cis" tvg-name="ТНТ-International (СНГ)" tvg-logo="http://epg.one/img/5692.png" group-title="Россия", ТНТ International
+#EXTINF:-1 tvg-id="tnt-int-eu" tvg-name="ТНТ-International (Европа)" tvg-logo="http://epg.one/img/5692.png" group-title="Россия", ТНТ-International (Европа)
+#EXTGRP:Россия
+http://46.53.208.4/live/5120.m3u8
+#EXTINF:-1 tvg-id="tnt-int-cis" tvg-name="ТНТ-ТНТ-International (СНГ)" tvg-logo="http://epg.one/img/5692.png" group-title="Россия", ТНТ International (СНГ)
 #EXTGRP:Россия
 https://ucdn.beetv.kz/bpk-tv/000007833/tve/index.m3u8
 #EXTINF:-1 tvg-id="tnt4" tvg-name="ТНТ4" tvg-logo="http://epg.one/img/1649.png" group-title="Россия", ТНТ4
