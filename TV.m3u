@@ -1400,16 +1400,16 @@ http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
 http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
 #EXTINF:-1 tvg-id="amedia1" tvg-name="Amedia 1" tvg-logo="http://epg.one/img/1371.png" group-title="Кино", Amedia 1
 #EXTGRP:Кино
-https://ucdn.beetv.kz/bpk-tv/000000710/tve/index.m3u8
+http://5.134.87.12:8005/play/a02z/index.m3u8
 #EXTINF:-1 tvg-id="amedia2" tvg-name="Amedia 2" tvg-logo="http://epg.one/img/2492.png" group-title="Кино", Amedia 2
 #EXTGRP:Кино
-https://ucdn.beetv.kz/bpk-tv/000000351/tve/index.m3u8
+http://5.134.87.12:8005/play/a030/index.m3u8
 #EXTINF:-1 tvg-id="amedia-hit" tvg-name="Amedia Hit" tvg-logo="http://epg.one/img/2007.png" group-title="Кино", Amedia Hit
 #EXTGRP:Кино
-https://ucdn.beetv.kz/bpk-tv/000001662/tve/index.m3u8
+http://89.33.29.116/Amedia_Hit_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="amedia-premium" tvg-name="Amedia Premium" tvg-logo="http://epg.one/img/1372.png" group-title="Кино", Amedia Premium
 #EXTGRP:Кино
-https://ucdn.beetv.kz/bpk-tv/000000709/tve/index.m3u8
+http://5.134.87.12:8005/play/a031/index.m3u8
 #EXTINF:-1 tvg-id="bollywood-hd" tvg-name="Bollywood HD" tvg-logo="http://epg.one/img/1395.png" group-title="Кино", Bollywood HD
 #EXTGRP:Кино
 http://176.118.197.101/Bollywood_HD/index.m3u8
@@ -1436,13 +1436,13 @@ https://a3569457567-s70378.cdn.ngenix.net/filmbox/1/index.m3u8
 https://a3569457567-s70378.cdn.ngenix.net/filmbox_arthouse/1/index.m3u8
 #EXTINF:-1 tvg-id="flixsnip" tvg-name="Flix Snip" tvg-logo="http://epg.one/img/774.png" group-title="Кино", Flix Snip
 #EXTGRP:Кино
-https://ucdn.beetv.kz/bpk-tv/000004466/tve/index.m3u8
+https://a3569457567-s70378.cdn.ngenix.net/flixsnip/1/index.m3u8
 #EXTINF:-1 tvg-id="fox" tvg-name="FX" tvg-logo="http://epg.one/img/1031.png" group-title="Кино", FX
 #EXTGRP:Кино
-https://ucdn.beetv.kz/bpk-tv/000004472/tve/index.m3u8
+http://51.159.108.7:83/play/27027-Fox/index.m3u8
 #EXTINF:-1 tvg-id="foxlife" tvg-name="FX Life" tvg-logo="http://epg.one/img/615.png" group-title="Кино", FX Life
 #EXTGRP:Кино
-https://ucdn.beetv.kz/bpk-tv/000004471/tve/index.m3u8
+http://51.159.108.7:83/play/27028-Fox-Life/index.m3u8
 #EXTINF:-1 tvg-id="hollywood" tvg-name="Hollywood" tvg-logo="http://epg.one/img/608.png" group-title="Кино", Hollywood
 #EXTGRP:Кино
 http://193.25.8.59:8000/interaz
@@ -1970,7 +1970,7 @@ http://ua.online24.pm/play/7337/350B326FB34F4B8/video.m3u8
 http://live-3.otcnet.ru/sportivny/index.m3u8
 #EXTINF:-1 tvg-id="ufc" tvg-name="Удар" tvg-logo="http://epg.one/img/2480.png" group-title="Спорт", Удар
 #EXTGRP:Спорт
-https://ucdn.beetv.kz/bpk-tv/000007802/tve/index.m3u8
+https://a3569457567-s70378.cdn.ngenix.net/ufc/2/index.m3u8
 #EXTINF:-1 tvg-id="ufc" tvg-name="Удар" tvg-logo="http://epg.one/img/2480.png" group-title="Спорт", Удар HD
 #EXTGRP:Спорт
 https://a787201481-s80718.cdn.ngenix.net/hls/CH_UDARHD/video_1920x1080_avc1/playlist.m3u8
@@ -2051,7 +2051,7 @@ http://185.112.249.46:9981/stream/channelid/737993602?profile=pass
 http://app-plus.live:80/9680723188/kyft6ks0g7gr7uw0xio6/196845
 #EXTINF:-1 tvg-id="extreme-sports" tvg-name="Extreme Sports" tvg-logo="http://epg.one/img/2053.png" group-title="Спорт", Extreme Sports
 #EXTGRP:Спорт
-https://ucdn.beetv.kz/bpk-tv/000000026/tve/index.m3u8
+http://46.53.208.4/live/3009-req_5k_v5.m3u8
 #EXTINF:-1 tvg-id="fast-sport-1-am" tvg-name="Fast Sports 1" tvg-logo="https://epg.iptvx.one/picons/fast-sport-1-am.png" group-title="Спорт", Fast Sports 1
 #EXTGRP:Спорт
 http://5.134.87.12:8005/play/a021/index.m3u8
@@ -2225,8 +2225,8 @@ http://217.174.225.146/hls/ch004_720/index.m3u8
 https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="viasat-sport" tvg-name="Viju+ Sport" tvg-logo="http://epg.one/img/2055.png" group-title="Спорт", Viju+ Sport
 #EXTGRP:Спорт
-https://ucdn.beetv.kz/bpk-tv/000000135/tve/index.m3u8
-#EXTINF:-1 tvg-id="viasat-sport" tvg-name="Viju+ Sport" tvg-logo="http://epg.one/img/2055.png" group-title="Спорт", Viju+ Sport HD
+https://a3569457567-s70378.cdn.ngenix.net/viasat_sport/2/index.m3u8
+#EXTINF:-1 tvg-id="viasat-sport" tvg-name="Viju+ Sport HD" tvg-logo="http://epg.one/img/2055.png" group-title="Спорт", Viju+ Sport HD
 #EXTGRP:Спорт
 http://176.96.241.40/ViasatSport/index.m3u8
 #EXTINF:-1 tvg-name="World Poker Tour USA" tvg-logo="https://avatars.mds.yandex.net/i?id=bc2003e45785f22c83853338865075e9c9638944-9877580-images-thumbs&n=13" group-title="Спорт", World Poker Tour USA
@@ -2261,7 +2261,7 @@ http://kino-1.catcast.tv/content/37742/index.m3u8
 http://kino-1.catcast.tv/content/37739/index.m3u8
 #EXTINF:-1 tvg-id="muzyka-pervogo" tvg-name="Музыка Первого" tvg-logo="http://epg.one/img/715.png" group-title="Музыка", Музыка Первого
 #EXTGRP:Музыка
-https://ucdn.beetv.kz/bpk-tv/000000204/tve/index.m3u8
+http://176.96.241.40/MuzikaPervogo/index.m3u8
 #EXTINF:-1 tvg-id="la-minor" tvg-name="Музыка Live" tvg-logo="https://epg.iptvx.one/picons/la-minor.png" group-title="Музыка", Музыка Live
 #EXTGRP:Музыка
 http://31.148.48.15:80/La-Minor_TV/index.m3u8
@@ -2282,7 +2282,7 @@ http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="1hd" tvg-name="1HD" tvg-logo="http://epg.one/img/4037.png" group-title="Музыка", 1HD
 #EXTGRP:Музыка
-https://ucdn.beetv.kz/bpk-tv/000001020/tve/index.m3u8
+http://176.118.197.101/1HD/index.m3u8
 #EXTINF:-1 tvg-name="88 Stereo" tvg-logo="https://www.88stereo.com/wp-content/uploads/2017/05/88Stereo-logoweb.png" group-title="Музыка", 88 Stereo
 #EXTGRP:Музыка
 http://k3.usastreams.com/CableLatino/88stereo/chunklist_w986835325.m3u8
@@ -2351,10 +2351,10 @@ http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 #EXTINF:-1 tvg-id="mcm-top" tvg-name="MCM Top" tvg-logo="http://epg.one/img/2276.png" group-title="Музыка", MCM Top
 #EXTGRP:Музыка
-https://ucdn.beetv.kz/bpk-tv/000000327/tve/index.m3u8
+http://89.33.29.116/MCM/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="mezzo" tvg-name="Mezzo" tvg-logo="http://epg.one/img/801.png" group-title="Музыка", Mezzo
 #EXTGRP:Музыка
-https://ucdn.beetv.kz/bpk-tv/000000030/tve/index.m3u8
+https://a3569457567-s70378.cdn.ngenix.net/mezzo/1/index.m3u8
 #EXTINF:-1 tvg-name="MIX MUSIC" tvg-logo="https://avatars.mds.yandex.net/i?id=8552986643492f1dee0ad4744313f6cc2472b778-4568203-images-thumbs&n=13" group-title="Музыка", MIX MUSIC
 #EXTGRP:Музыка
 https://cdamix.streaming.ws/mixmusic/live/chunklist.m3u8
@@ -2450,7 +2450,7 @@ http://iptv.prosto.tv:7000/ch325/video.m3u8
 http://iptv.prosto.tv:7000/ch316/video.m3u8
 #EXTINF:-1 tvg-id="zhivaya-priroda" tvg-name="Живая природа HD" tvg-logo="http://epg.one/img/2495.png" group-title="Релакс", Живая природа HD
 #EXTGRP:Релакс
-https://ucdn.beetv.kz/bpk-tv/000001187/tve/index.m3u8
+http://5.134.87.12:8002/play/a06o/index.m3u8
 #EXTINF:-1 tvg-name="Камин" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00310.png" group-title="Релакс", Камин
 #EXTGRP:Релакс
 http://iptv.prosto.tv:7000/ch318/video.m3u8
