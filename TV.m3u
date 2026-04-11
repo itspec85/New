@@ -1358,6 +1358,15 @@ http://46.53.208.4/live/3978-req_5k_v5.m3u8
 #EXTINF:-1 tvg-id="semejnoe-kino-kz" tvg-name="Семейное кино KZ" tvg-logo="https://iptvx.one/picons/semejnoe-kino-kz.png" group-title="Кино", Семейное кино KZ
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000008489/tve/index.m3u8
+#EXTINF:-1 tvg-id="smotrim-100-klassika" tvg-name="Смотрим 100% Классика" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-klassika.png" group-title="Кино", Смотрим 100% Классика
+#EXTGRP:Кино
+https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8
+#EXTINF:-1 tvg-id="smotrim-100-lubov" tvg-name="Смотрим 100% Любовь" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-lubov.png" group-title="Кино", Смотрим 100% Любовь
+#EXTGRP:Кино
+https://stream.smotrim.ru/hls/fasttv01/playlist_3.m3u8
+#EXTINF:-1 tvg-id="smotrim-100-muzhskoe" tvg-name="Смотрим 100% Мужское" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-muzhskoe.png" group-title="Кино", Смотрим 100% Мужское
+#EXTGRP:Кино
+https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8
 #EXTINF:-1 tvg-name="Смотрим Кино и сериалы" tvg-logo="https://avatars.mds.yandex.net/i?id=bfe2e169d4858dbc0171205a9446ab66e1d7f510-5474802-images-thumbs&n=13" group-title="Кино", Смотрим Кино и сериалы
 #EXTGRP:Кино
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
