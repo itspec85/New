@@ -1181,7 +1181,7 @@ http://176.96.241.40/Dorama/index.m3u8
 http://89.33.29.116/Semeynoe_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="evrokino" tvg-name="Еврокино" tvg-logo="http://epg.one/img/352.png" group-title="Кино", Еврокино
 #EXTGRP:Кино
-http://193.25.8.59:8000/eurokino
+http://46.53.208.4:80/live/903-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 tvg-id="evrokino" tvg-name="Еврокино HD" tvg-logo="http://epg.one/img/352.png" group-title="Кино", Еврокино HD
 #EXTGRP:Кино
 http://46.53.208.4/live/903.m3u8
@@ -1306,7 +1306,8 @@ http://80.77.52.3/streams/media/nstv_720x576/index.m3u8
 http://46.53.208.4/live/2065-req_5k_v5.m3u8
 #EXTINF:-1 tvg-id="ntv-xit" tvg-name="НТВ Хит" tvg-logo="http://epg.one/img/2041.png" group-title="Кино", НТВ Хит HD
 #EXTGRP:Кино
-http://193.25.8.59:8000/Paramount
+#EXTVLCOPT:http-user-agent=ntv
+https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="ostrosiuzhetnoe-hd" tvg-name="Остросюжетное HD" tvg-logo="http://epg.one/img/1588.png" group-title="Кино", Остросюжетное HD
 #EXTGRP:Кино
 http://51.159.108.7:83/play/27043-Ostrosuzhetnoe/index.m3u8
@@ -1330,7 +1331,7 @@ https://ucdn.beetv.kz/bpk-tv/000008491/tve/index.m3u8
 http://hls127.freeott.top:8080/ProLubovHD/mono.m3u8
 #EXTINF:-1 tvg-id="retro-tv" tvg-name="Ретро ТВ" tvg-logo="http://epg.one/img/2402.png" group-title="Кино", Ретро ТВ
 #EXTGRP:Кино
-http://193.25.8.59:8000/retro
+http://46.53.208.4:80/live/335-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 tvg-id="rodnoe-kino" tvg-name="Родное кино" tvg-logo="http://epg.one/img/12.png" group-title="Кино", РОДНОЕ КИНО
 #EXTGRP:Кино
 http://176.118.197.101/RodnoeKino/index.m3u8
@@ -1354,7 +1355,7 @@ http://185.46.16.239:8000/Russkiy_Illyuzion
 https://ucdn.beetv.kz/bpk-tv/000004207/tve/index.m3u8
 #EXTINF:-1 tvg-id="russky-roman" tvg-name="Русский роман" tvg-logo="http://epg.one/img/401.png" group-title="Кино", Русский роман
 #EXTGRP:Кино
-http://193.25.8.59:8000/rusroman
+http://185.46.16.239:8000/Russkiy_roman
 #EXTINF:-1 tvg-id="russky-roman" tvg-name="Русский роман" tvg-logo="http://epg.one/img/401.png" group-title="Кино", Русский роман HD
 #EXTGRP:Кино
 http://cdn.kubteltv.workers.dev/?ID=355
@@ -1463,10 +1464,10 @@ http://51.159.108.7:83/play/27027-Fox/index.m3u8
 http://51.159.108.7:83/play/27028-Fox-Life/index.m3u8
 #EXTINF:-1 tvg-id="hollywood" tvg-name="Hollywood" tvg-logo="http://epg.one/img/608.png" group-title="Кино", Hollywood
 #EXTGRP:Кино
-http://193.25.8.59:8000/interaz
+https://stream8.cinerama.uz/1443/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="hollywood-hd" tvg-name="Hollywood HD" tvg-logo="http://epg.one/img/934.png" group-title="Кино", Hollywood HD
 #EXTGRP:Кино
-https://a3569457567-s70378.cdn.ngenix.net/amc/2/index.m3u8
+http://46.32.176.50/HollywoodHD/index.m3u8
 #EXTINF:-1 tvg-name="Horror TV" tvg-logo="http://epg.one/img/8792.png" group-title="Кино", Horror TV
 #EXTGRP:Кино
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/93dc292b-cbcf-4988-ab97-94feced4c14b/manifest.m3u8
