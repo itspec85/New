@@ -2119,6 +2119,9 @@ http://87.246.54.249:8080/MaxSport3/index.m3u8
 #EXTINF:-1 tvg-id="max-sport-4" tvg-name="MAX Sport 4 HD" tvg-logo="https://epg.iptvx.one/picons/max-sport-4.png" group-title="Спорт", MAX Sport 4 HD
 #EXTGRP:Спорт
 http://87.246.54.249:8080/MaxSport4/index.m3u8
+#EXTINF:-1 tvg-id="megogo-sport" tvg-name="Megogo Спорт" tvg-logo="http://epg.one/img/9648.png" group-title="Спорт", Megogo Спорт HD
+#EXTGRP:Спорт
+http://dtv.vol.net.ua/megogo_sport/index.m3u8
 #EXTINF:-1 tvg-id="mlb-network-us" tvg-name="MLB Network HD CA" tvg-logo="http://epg.one/img/3654.png" group-title="Спорт", MLB Network HD CA
 #EXTGRP:Спорт
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e66968a70f34c0007d050be/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c29dbd3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0f1d3baf-2f1b-47d7-9966-3e92a98f1c8a&serverSideAds=false
@@ -2191,6 +2194,9 @@ https://ucdn.beetv.kz/bpk-tv/000004499/tve/index.m3u8
 #EXTINF:-1 tvg-id="setanta2-ge" tvg-name="Setanta Sports 2 GE" tvg-logo="http://epg.one/img/6805.png" group-title="Спорт", Setanta Sports 2 GE
 #EXTGRP:Спорт
 http://158.101.222.193:88/georgia_play.php?id=setanta_sports_plus_georgia
+#EXTINF:-1 tvg-id="setanta-ua" tvg-name="Setanta Sports Ukraine" tvg-logo="http://epg.one/img/2370.png" group-title="Спорт", Setanta Sports Ukraine HD
+#EXTGRP:Спорт
+http://dtv.vol.net.ua/megogo_sport/index.m3u8
 #EXTINF:-1 tvg-id="sky-sports-apl" tvg-name="Sky Sports Premiere League UK" tvg-logo="http://epg.one/img/4569.png" group-title="Спорт", Sky Sports Premiere League UK
 #EXTGRP:Спорт
 http://kstv.us:8080/c2Q2HDqQfM/111770/47871
