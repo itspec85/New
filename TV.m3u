@@ -3269,16 +3269,25 @@ http://timeshift.arpinet.am/233/mpegts
 
 #EXTINF:-1 tvg-id="belarus1" tvg-name="Беларусь 1 HD" tvg-logo="http://epg.one/img/2538.png" group-title="Беларусь", Беларусь 1 HD
 #EXTGRP:Беларусь
-https://edge55.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/chunklist_w_b1460000_sleng.m3u8
+http://nat6-minsk-pool-46-53-208-4.telecom.by/live/10001-req_offset_28000000-req_window_0-4k_v5.m3u8
 #EXTINF:-1 tvg-id="belarus2" tvg-name="Беларусь 2 HD" tvg-logo="http://epg.one/img/2539.png" group-title="Беларусь", Беларусь 2 HD
 #EXTGRP:Беларусь
-https://edge50.dc.beltelecom.by/ngtrk/smil:belarus2.smil/chunklist_b5160000_sleng.m3u8
+http://nat6-minsk-pool-46-53-208-4.telecom.by/live/693-req_offset_28000000-req_window_0-4k_v5.m3u8
 #EXTINF:-1 tvg-id="belarus3" tvg-name="Беларусь 3 HD" tvg-logo="http://epg.one/img/2540.png" group-title="Беларусь", Беларусь 3 HD
 #EXTGRP:Беларусь
-https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3.smil/chunklist_w1684528521_b5160000_sleng.m3u8
-#EXTINF:-1 tvg-id="belarus4-gomel" tvg-name="Беларусь 4 Гомель" tvg-logo="https://avatars.mds.yandex.net/i?id=ca1091e69bf95d3700ae125a4a876beca3f78ee7-4121127-images-thumbs&n=13" group-title="Беларусь", Беларусь 4 Гомель
+http://nat6-minsk-pool-46-53-208-4.telecom.by/live/8-req_offset_28000000-req_window_0-5k_v5.m3u8
+#EXTINF:-1 tvg-id="belarus4-brest" tvg-name="Беларусь 4 Брест" tvg-logo="https://epg.iptvx.one/picons/belarus4-brest.png" group-title="Беларусь", Беларусь 4 Брест
 #EXTGRP:Беларусь
-http://46.56.85.151:8080/0.m3u8
+http://nat6-minsk-pool-46-53-208-4.telecom.by/live/2013-req_offset_28000000-req_window_0-3k_v5.m3u8
+#EXTINF:-1 tvg-id="belarus4-vitebsk" tvg-name="Беларусь 4 Витебск" tvg-logo="https://epg.iptvx.one/picons/belarus4-vitebsk.png" group-title="Беларусь", Беларусь 4 Витебск
+#EXTGRP:Беларусь
+http://nat6-minsk-pool-46-53-208-4.telecom.by/live/2012-req_offset_28000000-req_window_0-4k_v5.m3u8
+#EXTINF:-1 tvg-id="belarus4-gomel" tvg-name="Беларусь 4 Гомель" tvg-logo="https://epg.iptvx.one/picons/belarus4-gomel.png" group-title="Беларусь", Беларусь 4 Гомель
+#EXTGRP:Беларусь
+http://nat6-minsk-pool-46-53-208-4.telecom.by/live/2011-req_offset_28000000-req_window_0-4k_v5.m3u8
+#EXTINF:-1 tvg-id="belarus4-mogilev" tvg-name="Беларусь 4 Могилев" tvg-logo="https://epg.iptvx.one/picons/belarus4-mogilev.png" group-title="Беларусь", Беларусь 4 Могилев
+#EXTGRP:Беларусь
+http://nat6-minsk-pool-46-53-208-4.telecom.by/live/2097-req_offset_28000000-req_window_0-4k_v5.m3u8
 #EXTINF:-1 tvg-id="belarus24" tvg-name="Беларусь 24" tvg-logo="http://epg.one/img/2170.png" group-title="Беларусь", Беларусь 24
 #EXTGRP:Беларусь
 https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/chunklist_w1008231497_b5160000_sleng.m3u8
