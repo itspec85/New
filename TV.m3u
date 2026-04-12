@@ -3296,37 +3296,37 @@ https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/chunklist_w1
 http://portal.ott.pink/C5UK_BelsatTV/mpegts?token=9ED1CC22511FE66191AD465072EEE8DF
 #EXTINF:-1 tvg-id="bug-tv" tvg-name="Буг-ТВ" tvg-logo="https://epg.iptvx.one/picons/bug-tv.png" group-title="Беларусь", Буг-ТВ
 #EXTGRP:Беларусь
-http://46.53.208.4/live/7001-req_5k_v5.m3u8
+http://nat6-minsk-pool-46-53-208-4.telecom.by/live/7001-req_offset_28000000-req_window_0-4k_v5.m3u8
 #EXTINF:-1 tvg-id="voentv-by" tvg-name="ВоенТВ [BY]" tvg-logo="https://epg.iptvx.one/picons/voentv-by.png" group-title="Беларусь", ВоенТВ [BY]
 #EXTGRP:Беларусь
 http://46.53.208.4:80/live/101.m3u8
 #EXTINF:-1 tvg-name="Наше ТВ" tvg-logo="https://avatars.mds.yandex.net/i?id=c467f7ea055f40491143eede7620ffc343d62545-10384273-images-thumbs&n=13" group-title="Беларусь", Наше ТВ
 #EXTGRP:Беларусь
-http://46.53.208.4:80/live/218.m3u8
+http://nat6-minsk-pool-46-53-208-4.telecom.by/live/218-req_offset_28000000-req_window_0-3k_v5.m3u8
 #EXTINF:-1 tvg-id="ntv-belarus" tvg-name="НТВ-Беларусь" tvg-logo="http://epg.one/img/6773.png" group-title="Беларусь", НТВ Беларусь
 #EXTGRP:Беларусь
-http://194.158.222.36:6107
+http://nat6-minsk-pool-46-53-208-4.telecom.by/live/6-req_offset_28000000-req_window_0-4k_v5.m3u8
 #EXTINF:-1 tvg-id="ont-by" tvg-name="ОНТ" tvg-logo="http://epg.one/img/2545.png" group-title="Беларусь", ОНТ BY
 #EXTGRP:Беларусь
-http://46.53.208.4/live/849.m3u8
+http://nat6-minsk-pool-46-53-208-4.telecom.by/live/849-req_offset_28000000-req_window_0-4k_v5.m3u8
 #EXTINF:-1 tvg-id="pervy-info-by" tvg-name="Первый информационный" tvg-logo="https://epg.iptvx.one/picons/pervy-info-by.png" group-title="Беларусь", Первый информационный
 #EXTGRP:Беларусь
-https://edge50.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/chunklist_b5160000_sleng.m3u8
+http://nat6-minsk-pool-46-53-208-4.telecom.by/live/10002-req_offset_28000000-req_window_0-4k_v5.m3u8
 #EXTINF:-1 tvg-id="pinsk-tv" tvg-name="Пинск ТВ" tvg-logo="https://epg.iptvx.one/picons/pinsk-tv.png" group-title="Беларусь", Пинск ТВ
 #EXTGRP:Беларусь
 http://87.252.229.200:8083/pinsk
 #EXTINF:-1 tvg-id="rtr-belarus" tvg-name="РТР-Беларусь" tvg-logo="https://epg.iptvx.one/picons/rtr-belarus.png" group-title="Беларусь", РТР Беларусь
 #EXTGRP:Беларусь
-http://194.158.222.36:6106
+http://nat6-minsk-pool-46-53-208-4.telecom.by/live/5-req_offset_28000000-req_window_0-4k_v5.m3u8
 #EXTINF:-1 tvg-id="svetloe-tv" tvg-name="Светлое ТВ" tvg-logo="https://iptvx.one/picons/svetloe-tv.png" group-title="Беларусь", Светлое ТВ
 #EXTGRP:Беларусь
-http://46.53.208.4/live/973.m3u8
+http://nat6-minsk-pool-46-53-208-4.telecom.by/live/973-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 tvg-id="stv-by" tvg-name="СТВ" tvg-logo="http://epg.one/img/2543.png" group-title="Беларусь", СТВ
 #EXTGRP:Беларусь
-https://edge53.dc.beltelecom.by/ctv/_definst_/ctv.stream/chunklist_w1093126388.m3u8
+http://nat6-minsk-pool-46-53-208-4.telecom.by/live/753-req_offset_28000000-req_window_0-4k_v5.m3u8
 #EXTINF:-1 tvg-id="tv3-by" tvg-name="ТВ3 Беларусь" tvg-logo="https://epg.iptvx.one/picons/tv3-by.png" group-title="Беларусь", ТВ3 BY
 #EXTGRP:Беларусь
-http://86.57.209.210/TB-3/index.m3u8
+http://nat6-minsk-pool-46-53-208-4.telecom.by/live/5127-req_offset_28000000-req_window_0-3k_v5.m3u8
 
 
 
