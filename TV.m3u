@@ -3297,9 +3297,15 @@ http://portal.ott.pink/C5UK_BelsatTV/mpegts?token=9ED1CC22511FE66191AD465072EEE8
 #EXTINF:-1 tvg-id="bug-tv" tvg-name="Буг-ТВ" tvg-logo="https://epg.iptvx.one/picons/bug-tv.png" group-title="Беларусь", Буг-ТВ
 #EXTGRP:Беларусь
 http://nat6-minsk-pool-46-53-208-4.telecom.by/live/7001-req_offset_28000000-req_window_0-4k_v5.m3u8
+#EXTINF:-1 tvg-id="vitebsk" tvg-name="Витебск" tvg-logo="https://epg.iptvx.one/picons/vitebsk.png" group-title="Беларусь", Витебск
+#EXTGRP:Беларусь
+http://nat6-minsk-pool-46-53-208-4.telecom.by/live/2023-req_offset_28000000-req_window_0-3k_v5.m3u8
 #EXTINF:-1 tvg-id="voentv-by" tvg-name="ВоенТВ [BY]" tvg-logo="https://epg.iptvx.one/picons/voentv-by.png" group-title="Беларусь", ВоенТВ [BY]
 #EXTGRP:Беларусь
 http://46.53.208.4:80/live/101.m3u8
+#EXTINF:-1 tvg-id="zvyazda-by" tvg-name="Звязда" tvg-logo="https://epg.iptvx.one/picons/zvyazda-by.png" group-title="Беларусь", Звязда
+#EXTGRP:Беларусь
+http://nat6-minsk-pool-46-53-208-4.telecom.by/live/6238-req_offset_28000000-req_window_0-4k_v5.m3u8
 #EXTINF:-1 tvg-name="Наше ТВ" tvg-logo="https://avatars.mds.yandex.net/i?id=c467f7ea055f40491143eede7620ffc343d62545-10384273-images-thumbs&n=13" group-title="Беларусь", Наше ТВ
 #EXTGRP:Беларусь
 http://nat6-minsk-pool-46-53-208-4.telecom.by/live/218-req_offset_28000000-req_window_0-3k_v5.m3u8
