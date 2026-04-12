@@ -3291,6 +3291,9 @@ http://nat6-minsk-pool-46-53-208-4.telecom.by/live/2097-req_offset_28000000-req_
 #EXTINF:-1 tvg-id="belarus24" tvg-name="Беларусь 24" tvg-logo="http://epg.one/img/2170.png" group-title="Беларусь", Беларусь 24
 #EXTGRP:Беларусь
 https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/chunklist_w1008231497_b5160000_sleng.m3u8
+#EXTINF:-1 tvg-id="belmuztv" tvg-name="БелМузТВ" tvg-logo="https://epg.iptvx.one/picons/belmuztv.png" group-title="Беларусь", БелМузТВ
+#EXTGRP:Беларусь
+http://nat6-minsk-pool-46-53-208-4.telecom.by/live/966-req_offset_28000000-req_window_0-3k_v5.m3u8
 #EXTINF:-1 tvg-id="belsat" tvg-name="Белсат" tvg-logo="http://epg.one/img/4627.png" group-title="Беларусь", БелСат
 #EXTGRP:Беларусь
 http://portal.ott.pink/C5UK_BelsatTV/mpegts?token=9ED1CC22511FE66191AD465072EEE8DF
@@ -3357,6 +3360,12 @@ http://nat6-minsk-pool-46-53-208-4.telecom.by/live/5127-req_offset_28000000-req_
 #EXTINF:-1 tvg-id="belviasat-plustv" tvg-name="+TV" tvg-logo="https://epg.iptvx.one/picons/belviasat-plustv.png" group-title="Беларусь", +TV
 #EXTGRP:Беларусь
 http://nat6-minsk-pool-46-53-208-4.telecom.by/live/6009-req_offset_28000000-req_window_0-4k_v5.m3u8
+#EXTINF:-1 tvg-name="Europa Plus TV Беларусь" tvg-logo="http://epg.one/img/681.png" group-title="Беларусь", Europa Plus TV Беларусь
+#EXTGRP:Беларусь
+http://nat6-minsk-pool-46-53-208-4.telecom.by/live/963-req_offset_28000000-req_window_0-3k_v5.m3u8
+#EXTINF:-1 tvg-id="ru-tv-by" tvg-name="RU.TV Беларусь" tvg-logo="https://epg.iptvx.one/picons/ru-tv-by.png" group-title="Беларусь", RU.TV Беларусь
+#EXTGRP:Беларусь
+http://nat6-minsk-pool-46-53-208-4.telecom.by/live/972-req_offset_28000000-req_window_0-3k_v5.m3u8
 
 
 
