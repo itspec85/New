@@ -239,7 +239,7 @@ http://185.46.16.239:8000/Pyatnitsa
 http://cdn.kubteltv.workers.dev/?ID=380
 #EXTINF:-1 tvg-id="piatnica-int" tvg-name="Пятница International" tvg-logo="https://avatars.mds.yandex.net/i?id=6e89c0754d8e6800feb8f51ae53f5192eb27ea76-5222505-images-thumbs&n=13" group-title="Россия", Пятница International
 #EXTGRP:Россия
-http://158.101.222.193:88/georgia_play.php?id=friday
+https://ucdn.beetv.kz/bpk-tv/000007816/tve/index.m3u8
 #EXTINF:-1 tvg-id="5kanal-ru" tvg-name="Пятый канал" tvg-logo="http://epg.one/img/427.png" group-title="Россия", Пятый канал
 #EXTGRP:Россия
 https://flussonic.mkpnet.ru/tv-a5ff8c7a86c8b951/video.m3u8
@@ -599,7 +599,7 @@ https://live-4.otcnet.ru/504/135/1080p/index.m3u8
 https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="kto-est-kto" tvg-name="Кто есть кто" tvg-logo="http://epg.one/img/2456.png" group-title="Познавательные", Кто есть кто
 #EXTGRP:Познавательные
-http://158.101.222.193:88/georgia_play.php?id=ktoestkto
+http://46.32.176.50/ktoestkto/index.m3u8
 #EXTINF:-1 tvg-id="mir-uvlecheniy" tvg-name="Кто куда" tvg-logo="http://epg.one/img/2467.png" group-title="Познавательные", Кто куда
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000001377/tve/index.m3u8
@@ -792,7 +792,7 @@ https://hls.tv.3angels.ru/stream/HQ.m3u8
 http://89.33.29.116/Usadba/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="uspex" tvg-name="Успех" tvg-logo="http://epg.one/img/2455.png" group-title="Познавательные", Успех
 #EXTGRP:Познавательные
-http://158.101.222.193:88/georgia_play.php?id=uspeh
+https://flussonic.mkpnet.ru/tv-324fe9acc597fbc1/video.m3u8
 #EXTINF:-1 tvg-id="centralnoye-tv" tvg-name="Центральное телевидение" tvg-logo="http://epg.one/img/2400.png" group-title="Познавательные", Центральное телевидение
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000001880/tve/index.m3u8
