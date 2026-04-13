@@ -209,7 +209,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 http://37.46.49.14:18010/play/a024/index.m3u8
 #EXTINF:-1 tvg-id="ntv" tvg-name="НТВ HD" tvg-logo="http://epg.one/img/2001.png" group-title="Россия", НТВ HD
 #EXTGRP:Россия
-https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=e2W_eVudzzK8QuuBNGgZnw&e=2074209214&scheme=https
+http://river-1.rutube.ru/stream/genetta-315.m9.rutube.ru/2svjARS2byq7uMOQ-X0EIg/1776698889/c37cd74192c6bc3d6cd6077c0c4fd686/1080p_stream.m3u8
 #EXTINF:-1 tvg-id="ntv-mir" tvg-name="НТВ Мир" tvg-logo="http://epg.one/img/7258.png" group-title="Россия", НТВ Мир
 #EXTGRP:Россия
 http://tchaikovsky.af-stream.com:8080/s/agvha3rn/ntv-mir/video.m3u8
