@@ -329,7 +329,7 @@ https://stream8.cinerama.uz/1281/tracks-v1a1/mono.m3u8
 http://31.131.141.195:8000/play/2090/index.m3u8
 #EXTINF:-1 tvg-id="tnt" tvg-name="ТНТ HD" tvg-logo="http://epg.one/img/1767.png" group-title="Россия", ТНТ HD
 #EXTGRP:Россия
-https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=--ERKWFsV88icsLYD12oqA&e=2074209214&scheme=https
+http://river-1.rutube.ru/stream/genetta-419.ntv.rutube.ru/QzpUoVD5xKzlnKIB4v7LzA/1776698908/e90ba242c98400b075835c3c3eec999a/1080p_stream.m3u8
 #EXTINF:-1 tvg-id="tnt-int-eu" tvg-name="ТНТ-International (Европа)" tvg-logo="http://epg.one/img/5692.png" group-title="Россия", ТНТ-International (Европа)
 #EXTGRP:Россия
 http://46.53.208.4/live/5120.m3u8
