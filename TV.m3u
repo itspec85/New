@@ -221,7 +221,7 @@ http://185.46.16.239:8000/OTR
 http://cdn.kubteltv.workers.dev/?ID=420
 #EXTINF:-1 tvg-id="pervy" tvg-name="Первый канал" tvg-logo="http://epg.one/img/146.png" group-title="Россия", Первый канал
 #EXTGRP:Россия
-http://31.131.141.195:8000/play/1010/index.m3u8
+http://46.32.176.50/perviy/index.m3u8
 #EXTINF:-1 tvg-id="pervy" tvg-name="Первый канал HD" tvg-logo="http://epg.one/img/983.png" group-title="Россия", Первый канал FHD
 #EXTGRP:Россия
 https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=bL7xY2b2QJQGUdTyzW4Mqg&e=2074209214&scheme=https
