@@ -221,7 +221,7 @@ http://185.46.16.239:8000/OTR
 http://cdn.kubteltv.workers.dev/?ID=420
 #EXTINF:-1 tvg-id="pervy" tvg-name="Первый канал" tvg-logo="http://epg.one/img/146.png" group-title="Россия", Первый канал
 #EXTGRP:Россия
-http://194.8.128.38:8080/ort/playlist.m3u8
+http://31.131.141.195:8000/play/1010/index.m3u8
 #EXTINF:-1 tvg-id="pervy" tvg-name="Первый канал HD" tvg-logo="http://epg.one/img/983.png" group-title="Россия", Первый канал FHD
 #EXTGRP:Россия
 https://stream8.cinerama.uz/1214/tracks-v1a1/mono.m3u8
