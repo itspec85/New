@@ -1170,9 +1170,6 @@ https://a3569457567-s70378.cdn.ngenix.net/dom_kino_premium_hd/3/index.m3u8
 #EXTINF:-1 tvg-id="dorama" tvg-name="Дорама" tvg-logo="http://epg.one/img/2174.png" group-title="Кино", Дорама
 #EXTGRP:Кино
 http://176.96.241.40/Dorama/index.m3u8
-#EXTINF:-1 tvg-id="dushevnoe-hd" tvg-name="Душевное HD" tvg-logo="http://epg.one/img/2019.png" group-title="Кино", Душевное HD
-#EXTGRP:Кино
-http://89.33.29.116/Semeynoe_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="evrokino" tvg-name="Еврокино" tvg-logo="http://epg.one/img/352.png" group-title="Кино", Еврокино
 #EXTGRP:Кино
 http://46.53.208.4:80/live/903-req_offset_28000000-req_window_0-1k_v5.m3u8
@@ -1210,12 +1207,9 @@ https://ucdn.beetv.kz/bpk-tv/000008490/tve/index.m3u8
 #EXTINF:-1 tvg-id="q-kino-hit" tvg-name="Кинодрама KZ" tvg-logo="https://iptvx.one/picons/q-kino-hit.png" group-title="Кино", Кинодрама KZ
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000005449/tve/index.m3u8
-#EXTINF:-1 tvg-name="Кинозал! СССР" tvg-logo="http://epg.one/img/4695.png" group-title="Кино", Кинозал! СССР
-#EXTGRP:Кино
-http://89.33.29.116/sssr_kino/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="kinokomedia" tvg-name="Кинокомедия" tvg-logo="http://epg.one/img/821.png" group-title="Кино", КИНОКОМЕДИЯ
 #EXTGRP:Кино
-http://89.33.29.116/Komediya_TV/tracks-v1a1/mono.m3u8
+http://213.230.65.254:8200/play/a02n
 #EXTINF:-1 tvg-id="kinomiks" tvg-name="Киномикс" tvg-logo="http://epg.one/img/644.png" group-title="Кино", КИНОМИКС
 #EXTGRP:Кино
 http://93.170.254.17/Kinomiks/index.m3u8
@@ -1252,9 +1246,6 @@ https://stream8.cinerama.uz/1055/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="komedijnoe-hd" tvg-name="Комедийное HD" tvg-logo="http://epg.one/img/138.png" group-title="Кино", Комедийное HD
 #EXTGRP:Кино
 http://51.159.108.7:83/play/27042-Komedijnoe/index.m3u8
-#EXTINF:-1 tvg-id="legenda" tvg-name="Легенда" tvg-logo="https://epg.iptvx.one/picons/legenda.png" group-title="Кино", Легенда
-#EXTGRP:Кино
-http://89.33.29.116/UFC_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="lubimoe-kino" tvg-name="Любимое кино" tvg-logo="http://epg.one/img/477.png" group-title="Кино", Любимое Кино
 #EXTGRP:Кино
 http://176.118.197.101/LubimoeKino/index.m3u8
@@ -1311,9 +1302,6 @@ http://catchup.videoline.ru/asvtv/index.m3u8
 #EXTINF:-1 tvg-id="pobeda" tvg-name="Победа" tvg-logo="http://epg.one/img/2447.png" group-title="Кино", Победа
 #EXTGRP:Кино
 https://streaming.televizor-24-tochka.ru/live/43.m3u8
-#EXTINF:-1 tvg-id="pobeda" tvg-name="Победа HD" tvg-logo="http://epg.one/img/2447.png" group-title="Кино", Победа HD
-#EXTGRP:Кино
-http://89.33.29.116/Pobeda/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="premialnoe-hd" tvg-name="Премиальное HD" tvg-logo="http://epg.one/img/2732.png" group-title="Кино", Премиальное HD
 #EXTGRP:Кино
 http://51.159.108.7:83/play/27036-PremialnoeHD/index.m3u8
@@ -1378,12 +1366,6 @@ https://mhd116.iptv2022.com/p/_6YBCX-nEevTGiQFS-45KQ,1776027642/streaming/sovet_
 #EXTINF:-1 tvg-id="sovkino" tvg-name="Советское кино" tvg-logo="http://epg.one/img/9399.png" group-title="Кино", Советское кино
 #EXTGRP:Кино
 http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8
-#EXTINF:-1 tvg-name="Страх HD" tvg-logo="http://epg.one/img/4779.png" group-title="Кино", Страх HD
-#EXTGRP:Кино
-http://89.33.29.116/strah_hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="strashnoe-hd" tvg-name="Страшное HD" tvg-logo="http://epg.one/img/2857.png" group-title="Кино", Страшное HD
-#EXTGRP:Кино
-http://89.33.29.116/StrashnoeHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="feniks-plus-kino" tvg-name="Феникс плюс Кино" tvg-logo="http://epg.one/img/2404.png" group-title="Кино", Феникс плюс Кино
 #EXTGRP:Кино
 http://46.53.208.4:80/live/332.m3u8
@@ -1419,7 +1401,7 @@ http://5.134.87.12:8005/play/a02z/index.m3u8
 http://5.134.87.12:8005/play/a030/index.m3u8
 #EXTINF:-1 tvg-id="amedia-hit" tvg-name="Amedia Hit" tvg-logo="http://epg.one/img/2007.png" group-title="Кино", Amedia Hit
 #EXTGRP:Кино
-http://89.33.29.116/Amedia_Hit_HD/tracks-v1a1/mono.m3u8
+http://77.245.98.18:8000/play/a00p
 #EXTINF:-1 tvg-id="amedia-premium" tvg-name="Amedia Premium" tvg-logo="http://epg.one/img/1372.png" group-title="Кино", Amedia Premium
 #EXTGRP:Кино
 http://5.134.87.12:8005/play/a031/index.m3u8
@@ -1492,12 +1474,6 @@ http://hls127.freeott.top:8080/PG_Premium_HD/manifest.m3u8
 #EXTINF:-1 tvg-id="romance" tvg-name="Romance HD" tvg-logo="http://epg.one/img/9179.png" group-title="Кино", Romance HD
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000008780/tve/index.m3u8
-#EXTINF:-1 tvg-name="Sky2000 India HD" tvg-logo="https://avatars.mds.yandex.net/i?id=f563c74b977a9c9d990cb2f198532df4_sr-5859108-images-thumbs&n=13" group-title="Кино", Sky2000 India HD
-#EXTGRP:Кино
-http://89.33.29.116/Sky1000_India/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Sky2000 VHS HD" tvg-logo="https://avatars.mds.yandex.net/i?id=f563c74b977a9c9d990cb2f198532df4_sr-5859108-images-thumbs&n=13" group-title="Кино", Sky2000 VHS HD
-#EXTGRP:Кино
-http://89.33.29.116/sky2000_VHS/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="star-cinema" tvg-name="Star Cinema Россия" tvg-logo="http://epg.one/img/3328.png" group-title="Кино", Star Cinema Россия HD
 #EXTGRP:Кино
 http://5.134.87.12:8005/play/a038/index.m3u8
@@ -1944,7 +1920,8 @@ https://a3569457567-s70378.cdn.ngenix.net/match_planeta/1/index.m3u8
 https://flussonic.mkpnet.ru/tv-ee3651e1e7ce5cbf/video.m3u8
 #EXTINF:-1 tvg-id="match-premier" tvg-name="Матч! Премьер HD" tvg-logo="http://epg.one/img/2250.png" group-title="Спорт", МАТЧ ПРЕМЬЕР HD
 #EXTGRP:Спорт
-http://89.33.29.116/Nash_futbol_HD/tracks-v1a1/mono.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
+https://mhd128.iptv2022.com/p/2RXZsHvTh7NUxnyY99PUjQ,1776106249/streaming/match_premyerhd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="match-nash-sport" tvg-name="Матч! Страна" tvg-logo="http://epg.one/img/2042.png" group-title="Спорт", МАТЧ! СТРАНА
 #EXTGRP:Спорт
 http://ukr.ukrainske.tv/134/keytvainua/video.m3u8
@@ -1956,19 +1933,22 @@ http://cdn.kubteltv.workers.dev/?ID=110
 http://89.218.32.179:18000/play/a034
 #EXTINF:-1 tvg-id="match-football1" tvg-name="Матч! Футбол 1 HD" tvg-logo="http://epg.one/img/2044.png" group-title="Спорт", Матч! Футбол 1 HD
 #EXTGRP:Спорт
-http://89.33.29.116/Match_Futbol_1_HD/tracks-v1a1/mono.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
+https://mhd128.iptv2022.com/p/aWzUSkTKH0LjyiDCcdLTbQ,1776106249/streaming/footbal1hd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="match-football2" tvg-name="Матч! Футбол 2" tvg-logo="http://epg.one/img/1042.png" group-title="Спорт", Матч! Футбол 2
 #EXTGRP:Спорт
 http://89.218.32.179:18000/play/a035
 #EXTINF:-1 tvg-id="match-football2" tvg-name="Матч! Футбол 2 HD" tvg-logo="http://epg.one/img/1042.png" group-title="Спорт", Матч! Футбол 2 HD
 #EXTGRP:Спорт
-http://89.33.29.116/Match_Futbol_2_HD/tracks-v1a1/mono.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
+https://mhd128.iptv2022.com/p/ACA_R4_8LoUZackYndto4A,1776106249/streaming/footbal2hd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="match-football3" tvg-name="Матч! Футбол 3" tvg-logo="http://epg.one/img/2005.png" group-title="Спорт", Матч! Футбол 3
 #EXTGRP:Спорт
 http://185.57.68.33:80/110/index.m3u8
 #EXTINF:-1 tvg-id="match-football3" tvg-name="Матч! Футбол 3 HD" tvg-logo="http://epg.one/img/2005.png" group-title="Спорт", Матч! Футбол 3 HD
 #EXTGRP:Спорт
-http://89.33.29.116/Match_Futbol_3_HD/tracks-v1a1/mono.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
+https://mhd128.iptv2022.com/p/2SVBzQSfVqRD2GdjBGu8Tw,1776106249/streaming/footbal3hd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="mir-basketbola" tvg-name="Мир баскетбола" tvg-logo="http://epg.one/img/4629.png" group-title="Спорт", Мир Баскетбола
 #EXTGRP:Спорт
 http://45.145.32.13:20440/mir_basketbola/index.m3u8?token=test
@@ -2094,7 +2074,7 @@ https://a3285272783-s80718.cdn.ngenix.net//hls//CH_KHL//video_800x450_avc1/playl
 https://stream8.cinerama.uz/1028/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="kxl-hd" tvg-name="KHL Prime HD" tvg-logo="http://epg.one/img/1038.png" group-title="Спорт", KHL Prime HD
 #EXTGRP:Спорт
-http://89.33.29.116/KHL_TV_HD/tracks-v1a1/mono.m3u8
+http://77.245.98.18:8000/play/a016
 #EXTINF:-1 tvg-id="kxl-hd" tvg-name="KHL Prime HD" tvg-logo="http://epg.one/img/1038.png" group-title="Спорт", KHL Prime HD (резерв)
 #EXTGRP:Спорт
 http://37.46.49.14:18010/play/a01q/index.m3u8
@@ -2316,7 +2296,7 @@ http://5.188.221.43:8080/play/bridge-tv
 http://89.218.32.179:18000/play/a02l
 #EXTINF:-1 tvg-id="bridge-tv-fresh" tvg-name="Bridge TV Фрэш" tvg-logo="http://epg.one/img/8803.png" group-title="Музыка", Bridge Фрэш
 #EXTGRP:Музыка
-http://89.33.29.116/Bridge_TV_HD/tracks-v1a1/mono.m3u8
+http://89.218.32.179:18000/play/a02j
 #EXTINF:-1 tvg-id="bridge-tv-shlager" tvg-name="Bridge TV Шлягер" tvg-logo="http://epg.one/img/4621.png" group-title="Музыка", Bridge Шлягер
 #EXTGRP:Музыка
 http://89.218.32.179:18000/play/a02h
@@ -2376,7 +2356,7 @@ http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 #EXTINF:-1 tvg-id="mcm-top" tvg-name="MCM Top" tvg-logo="http://epg.one/img/2276.png" group-title="Музыка", MCM Top
 #EXTGRP:Музыка
-http://89.33.29.116/MCM/tracks-v1a1/mono.m3u8
+http://46.32.176.50/mcmtop/index.m3u8
 #EXTINF:-1 tvg-id="mezzo" tvg-name="Mezzo" tvg-logo="http://epg.one/img/801.png" group-title="Музыка", Mezzo
 #EXTGRP:Музыка
 https://a3569457567-s70378.cdn.ngenix.net/mezzo/1/index.m3u8
