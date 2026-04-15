@@ -3185,15 +3185,15 @@ http://xantv.site:41480/MahniTV/video.m3u8
 #EXTINF:-1 tvg-name="Mədəniyyət TV" tvg-logo="http://epg.one/img/2557.png" group-title="Азербайджан", Mədəniyyət TV
 #EXTGRP:Азербайджан
 http://str.yodacdn.net/medeniyyettele/playlist.m3u8
-#EXTINF:-1 tvg-name="Musi̇c Azerbaycan" tvg-logo="https://i.postimg.cc/PJbFG4MH/In-Shot-20250209-195400220.png" group-title="Азербайджан", Musi̇c Azerbaycan
+#EXTINF:-1 tvg-name="Musi̇c Azerbaycan" tvg-logo="https://avatars.mds.yandex.net/i?id=c800412a2dc527ac7e5333394e5c9190abed29a9-4055050-images-thumbs&n=13" group-title="Азербайджан", Musi̇c Azerbaycan
 #EXTGRP:Азербайджан
-https://cdn-sinematv.yayin.com.tr/sinematv/sinematv/playlist.m3u8
-#EXTINF:-1 tvg-name="Music Hit AZ" tvg-logo="https://pbs.twimg.com/profile_images/690541902823833600/7N-iqryQ_200x200.png" group-title="Азербайджан", Music Hit AZ
+http://cdn-sinematv.yayin.com.tr/sinematv/sinematv/playlist.m3u8
+#EXTINF:-1 tvg-name="Music Azerbaycan Hit" tvg-logo="https://avatars.mds.yandex.net/i?id=c800412a2dc527ac7e5333394e5c9190abed29a9-4055050-images-thumbs&n=13" group-title="Азербайджан", Music Azerbaycan Hit
 #EXTGRP:Азербайджан
 https://cdn4.yayin.com.tr/musicazhit/video.m3u8
 #EXTINF:-1 tvg-name="Real TV" tvg-logo="https://avatars.mds.yandex.net/i?id=ae8d81adcc8b8f1d646ed5f4d1952c2a26087897-12940477-images-thumbs&n=13" group-title="Азербайджан", Real TV
 #EXTGRP:Азербайджан
-http://blackaksari54.xyz:8080/RYPGWNCQ/GAS4FWDR/563800
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/real-tv.m3u8
 #EXTINF:-1 tvg-name="SDM TV" tvg-logo="https://avatars.mds.yandex.net/i?id=6891dd0fea7df7f178942183221edd4a_sr-10878212-images-thumbs&n=13" group-title="Азербайджан", SDM TV
 #EXTGRP:Азербайджан
 http://blackaksari54.xyz:8080/RYPGWNCQ/GAS4FWDR/563767
