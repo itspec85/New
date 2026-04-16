@@ -2351,9 +2351,6 @@ http://185.46.16.239:8000/Nashe_TV
 #EXTINF:-1 tvg-id="tnt-music" tvg-name="FON music" tvg-logo="http://epg.one/img/680.png" group-title="Музыка", FON music HD
 #EXTGRP:Музыка
 http://tntm.mediacdn.ru/cdn/tntmusic/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="Fresh TV Armenia" tvg-logo="http://epg.it999.ru/img/5606.png" group-title="Музыка", Fresh TV Armenia
-#EXTGRP:Музыка
-https://freshtv-live.ru/FreshTV/tracks-v1a1/mono.m3u8?token=livestream
 #EXTINF:-1 tvg-name="Kiss Kiss Italia HD" tvg-logo="http://epg.one/img/6117.png" group-title="Музыка", Kiss Kiss Italia HD
 #EXTGRP:Музыка
 https://59253971be783.streamlock.net/KKTV01/livestream/playlist.m3u8
@@ -3248,6 +3245,9 @@ https://a3569457567-s70378.cdn.ngenix.net/dar21/1/index.m3u8
 #EXTINF:-1 tvg-name="Գեղամա TV" tvg-logo="https://mytv.do.am/logo/geghama.png" group-title="Армения", Գեղամա TV
 #EXTGRP:Армения
 http://45.11.139.43:8555/geghama/index.m3u8
+#EXTINF:-1 tvg-name="Fresh TV Armenia" tvg-logo="http://epg.it999.ru/img/5606.png" group-title="Армения", Fresh TV Armenia
+#EXTGRP:Армения
+https://freshtv-live.ru/FreshTV/tracks-v1a1/mono.m3u8?token=livestream
 #EXTINF:-1 tvg-id="h1-am" tvg-name="Armenia 1" tvg-logo="http://epg.one/img/2060.png" group-title="Армения", H1 HD AM
 #EXTGRP:Армения
 https://a3569457567-s70378.cdn.ngenix.net/h1/1/index.m3u8
