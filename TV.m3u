@@ -3227,6 +3227,15 @@ https://restreamer.livetv.az/memfs/a6cecb21-e17c-4f32-8854-0b72d57211d8.m3u8
 #EXTINF:-1 tvg-name="Amga TV" tvg-logo="https://avatars.mds.yandex.net/i?id=c7b36a89ec713c78cbf51713fd2d0cbc_sr-8449287-images-thumbs&n=13" group-title="Армения", Amga TV
 #EXTGRP:Армения
 https://streamer1.connectto.com/AMGA_WEB_1202/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="armnews" tvg-name="Armnews [AM]" tvg-logo="http://epg.one/img/5919.png" group-title="Армения", Arm News
+#EXTGRP:Армения
+http://109.68.122.117:8899/armnews_24
+#EXTINF:-1 tvg-name="Arm Toon TV" tvg-logo="http://epg.one/img/5943.png" group-title="Армения", Arm Toon TV
+#EXTGRP:Армения
+http://timeshift.arpinet.am/236/index.m3u8
+#EXTINF:-1 tvg-name="Armenia Premium 6" tvg-logo="https://avatars.mds.yandex.net/i?id=b91704a77b2f46e29749ff37370d15bb5bb07e3a-10113106-images-thumbs&n=13" group-title="Армения", Armenia Premium 6
+#EXTGRP:Армения
+http://timeshift.arpinet.am/255/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="artn-am" tvg-name="ARTN" tvg-logo="https://epg.iptvx.one/picons/artn-am.png" group-title="Армения", ARTN TV
 #EXTGRP:Армения
 https://streamer1.connectto.com/ARTN_mobile/index.m3u8
