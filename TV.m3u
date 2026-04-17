@@ -1665,6 +1665,9 @@ http://kinowalk.hopto.org/miiz90x_live
 #EXTINF:-1 tvg-name="Стримканал. Назад в СССР" tvg-logo="https://avatars.mds.yandex.net/i?id=555d891d488c5365011716af505489b85bf0170c-9044089-images-thumbs&n=13" group-title="Кинозал", Стримканал. Назад в СССР
 #EXTGRP:Кинозал
 http://kinowalk.hopto.org/backtotheussr_live
+#EXTINF:-1 tvg-name="Стримканал. Паранормальный" tvg-logo="https://avatars.mds.yandex.net/i?id=555d891d488c5365011716af505489b85bf0170c-9044089-images-thumbs&n=13" group-title="Кинозал", Стримканал. Паранормальный
+#EXTGRP:Кинозал
+http://kinowalk.hopto.org/paranormal404_live
 #EXTINF:-1 tvg-name="Стримканал. Первый ряд" tvg-logo="https://avatars.mds.yandex.net/i?id=555d891d488c5365011716af505489b85bf0170c-9044089-images-thumbs&n=13" group-title="Кинозал", Стримканал. Первый ряд
 #EXTGRP:Кинозал
 http://kinowalk.hopto.org/perviryad_live%20
