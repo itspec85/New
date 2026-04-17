@@ -612,6 +612,9 @@ http://hls127.freeott.top:8080/Kuhnya_TV/mono.m3u8
 #EXTINF:-1 tvg-id="ldpr-tv" tvg-name="ЛДПР ТВ" tvg-logo="http://epg.one/img/2465.png" group-title="Познавательные", ЛДПР ТВ
 #EXTGRP:Познавательные
 http://46.46.143.222:1935/live/mp4:ldpr.stream_480p/playlist.m3u8
+#EXTINF:-1 tvg-id="legenda" tvg-name="Легенда" tvg-logo="https://epg.iptvx.one/picons/legenda.png" group-title="Познавательные", Легенда
+#EXTGRP:Познавательные
+https://flussonic.mkpnet.ru/tv-7a5f996197077375/video.m3u8
 #EXTINF:-1 tvg-name="лекторий DОСТОЕВСКИЙ" tvg-logo="https://www.rsl.ru/photo/!_ORS/documents/dostoevsky-banner.jpeg" group-title="Познавательные", лекторий DОСТОЕВСКИЙ
 #EXTGRP:Познавательные
 https://fl1001.bozztv.com/ushba3/tracks-v1a1/mono.m3u8
