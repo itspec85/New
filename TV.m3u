@@ -3472,6 +3472,9 @@ http://live.mediabaytv.workers.dev/?ID=621
 #EXTINF:-1 tvg-name="Manas TV KG" tvg-logo="https://avatars.mds.yandex.net/i?id=3c2227606fab637607ef691a6e48cc0a9992a39f-5144307-images-thumbs&n=13" group-title="Киргизия", Manas TV KG
 #EXTGRP:Киргизия
 http://212.42.111.152:8080/hls/manas.m3u8
+#EXTINF:-1 tvg-id="osh-pirim-kg" tvg-name="Ош Пирим [KG]" tvg-logo="https://epg.iptvx.one/picons/osh-pirim-kg.png" group-title="Киргизия", Ош Пирим KG
+#EXTGRP:Киргизия
+http://live.mediabaytv.workers.dev/?ID=697
 #EXTINF:-1 tvg-id="osh-tv-kg" tvg-name="Ош ТВ [KG]" tvg-logo="https://avatars.mds.yandex.net/i?id=2a0000017a010573b03b49a647a063ab2bfc-4256054-images-thumbs&n=13" group-title="Киргизия", Ош ТВ KG
 #EXTGRP:Киргизия
 http://212.42.117.34:8080/hls/OshTV.m3u8
@@ -3481,6 +3484,9 @@ http://31.192.249.68:8080/0.m3u8
 #EXTINF:-1 tvg-name="TMedia KG" tvg-logo="https://avatars.mds.yandex.net/i?id=b0d3635ca39fcc4aeff44755a93a477db69cb932-11520084-images-thumbs&n=13" group-title="Киргизия", TMedia KG
 #EXTGRP:Киргизия
 http://92.62.68.29:8086/0.ts
+#EXTINF:-1 tvg-id="tv1-kg-hd" tvg-name="TV1 KG HD [KG]" tvg-logo="https://epg.iptvx.one/picons/tv1-kg-hd.png" group-title="Киргизия", TV1 KG HD
+#EXTGRP:Киргизия
+http://212.2.225.30:1935/live/site.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="tv15-kg" tvg-name="TV 15 [KG]" tvg-logo="https://epg.iptvx.one/picons/tv15-kg.png" group-title="Киргизия", TV 15 KG
 #EXTGRP:Киргизия
 http://213.109.64.248:8086/0.m3u8
@@ -3499,9 +3505,6 @@ http://live.mediabaytv.workers.dev/?ID=561
 #EXTINF:-1 tvg-id="utrk-muzyka-kg" tvg-name="УТРК Музыка [KG]" tvg-logo="https://epg.iptvx.one/picons/utrk-muzyka-kg.png" group-title="Киргизия", УТРК Музыка KG
 #EXTGRP:Киргизия
 http://live.mediabaytv.workers.dev/?ID=560
-#EXTINF:-1 tvg-id="tv1-kg-hd" tvg-name="TV1 KG HD [KG]" tvg-logo="https://epg.iptvx.one/picons/tv1-kg-hd.png" group-title="Киргизия", TV1 KG HD
-#EXTGRP:Киргизия
-http://212.2.225.30:1935/live/site.stream/playlist.m3u8
 
 
 
@@ -3790,6 +3793,9 @@ https://stream8.cinerama.uz/1001/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Qaraqalpaqstan" tvg-logo="https://qtrk.uz/wp-content/uploads/2024/06/logo.png" group-title="Узбекистан", Qaraqalpaqstan
 #EXTGRP:Узбекистан
 https://stream8.cinerama.uz/1467/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Qiziq TV" tvg-logo="https://avatars.mds.yandex.net/i?id=d3390b7613a9f14feb6e2582b71db5763acc2ee0-4345430-images-thumbs&n=13" group-title="Узбекистан", Qiziq TV
+#EXTGRP:Узбекистан
+https://stream8.cinerama.uz/1291/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Renessans TV UZ" tvg-logo="http://epg.one/img/7933.png" group-title="Узбекистан", Renessans TV UZ
 #EXTGRP:Узбекистан
 https://stream8.cinerama.uz/1221/tracks-v1a1/playlist.m3u8
