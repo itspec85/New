@@ -3466,9 +3466,9 @@ http://176.126.166.43:1935/live/312kino/playlist.m3u8
 #EXTINF:-1 tvg-id="312-serial" tvg-name="312 Сериал" tvg-logo="https://epg.iptvx.one/picons/312-serial.png" group-title="Киргизия", 312 Сериал
 #EXTGRP:Киргизия
 http://176.126.166.43:1935/live/312musik/chunklist_w1516016500.m3u8
-#EXTINF:-1 tvg-id="tv1-kg-hd" tvg-name="TV1 KG HD [KG]" tvg-logo="https://epg.iptvx.one/picons/tv1-kg-hd.png" group-title="Киргизия", TV1 KG HD
+#EXTINF:-1 tvg-name="Ала-Тоо 24" tvg-logo="https://avatars.mds.yandex.net/i?id=cd4cdbe2c5d72f11df36abd64a332225ebd7331a-5244992-images-thumbs&n=13" group-title="Киргизия", Ала-Тоо 24
 #EXTGRP:Киргизия
-http://212.2.225.30:1935/live/site.stream/playlist.m3u8
+http://live.mediabaytv.workers.dev/?ID=621
 #EXTINF:-1 tvg-name="Manas TV KG" tvg-logo="https://avatars.mds.yandex.net/i?id=3c2227606fab637607ef691a6e48cc0a9992a39f-5144307-images-thumbs&n=13" group-title="Киргизия", Manas TV KG
 #EXTGRP:Киргизия
 http://212.42.111.152:8080/hls/manas.m3u8
@@ -3484,9 +3484,24 @@ http://92.62.68.29:8086/0.ts
 #EXTINF:-1 tvg-id="tv15-kg" tvg-name="TV 15 [KG]" tvg-logo="https://epg.iptvx.one/picons/tv15-kg.png" group-title="Киргизия", TV 15 KG
 #EXTGRP:Киргизия
 http://213.109.64.248:8086/0.m3u8
+#EXTINF:-1 tvg-id="utrk-kg" tvg-name="УТРК HD [KG]" tvg-logo="https://epg.iptvx.one/picons/utrk-kg.png" group-title="Киргизия", УТРК HD KG
+#EXTGRP:Киргизия
+http://live.mediabaytv.workers.dev/?ID=559
+#EXTINF:-1 tvg-id="utrk-balastan-kg" tvg-name="УТРК Баластан [KG]" tvg-logo="https://epg.iptvx.one/picons/utrk-balastan-kg.png" group-title="Киргизия", УТРК Баластан KG
+#EXTGRP:Киргизия
+http://live.mediabaytv.workers.dev/?ID=564
 #EXTINF:-1 tvg-name="УТРК Жалал-Абад KG" tvg-logo="https://avatars.mds.yandex.net/i?id=084cc4deeac956ae39641a7f5c989171869c2528-12933346-images-thumbs&n=13" group-title="Киргизия", УТРК Жалал-Абад KG
 #EXTGRP:Киргизия
 http://80.72.179.162:8086/0.m3u8
+#EXTINF:-1 tvg-id="utrk-madanyat-kg" tvg-name="УТРК Маданият [KG]" tvg-logo="https://epg.iptvx.one/picons/utrk-madanyat-kg.png" group-title="Киргизия", УТРК Маданият KG
+#EXTGRP:Киргизия
+http://live.mediabaytv.workers.dev/?ID=561
+#EXTINF:-1 tvg-id="utrk-muzyka-kg" tvg-name="УТРК Музыка [KG]" tvg-logo="https://epg.iptvx.one/picons/utrk-muzyka-kg.png" group-title="Киргизия", УТРК Музыка KG
+#EXTGRP:Киргизия
+http://live.mediabaytv.workers.dev/?ID=560
+#EXTINF:-1 tvg-id="tv1-kg-hd" tvg-name="TV1 KG HD [KG]" tvg-logo="https://epg.iptvx.one/picons/tv1-kg-hd.png" group-title="Киргизия", TV1 KG HD
+#EXTGRP:Киргизия
+http://212.2.225.30:1935/live/site.stream/playlist.m3u8
 
 
 
