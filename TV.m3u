@@ -2431,6 +2431,12 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62
 #EXTINF:-1 tvg-name="MTV Biggest Pop" tvg-logo="http://epg.one/img/3604.png" group-title="Музыка", MTV Biggest Pop
 #EXTGRP:Музыка
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=db3aa987-9f35-4664-b523-5fe34623b36c
+#EXTINF:-1 tvg-id="musicbox-dance" tvg-name="Music Box Dance" tvg-logo="https://epg.iptvx.one/picons/musicbox-dance.png" group-title="Музыка", Music Box Dance
+#EXTGRP:Музыка
+https://vkvsd80.okcdn.ru/cmaf/2765758728770/sig/8XgYVgqXDjM/srcIp/141.101.76.169/urls/185.226.52.104/expires/1776549902958/clientType/13/srcAg/CHROME/fromCache/1/mid/3718962948930/id/2765758728770/get/CMLW3JuebBDoBxgFMggKBgiAChDQBToECMTYAloGCAMQAigXYgIIGKuXOA1nK6AW/track.m3u8
+#EXTINF:-1 tvg-id="musicbox-hits" tvg-name="Music Box Hits" tvg-logo="https://epg.iptvx.one/picons/musicbox-hits.png" group-title="Музыка", Music Box Hits
+#EXTGRP:Музыка
+https://vkvsd173.okcdn.ru/cmaf/6083717368449/sig/BUXcbDkqCdc/srcIp/104.23.172.132/urls/185.226.52.67/expires/1776550054012/clientType/13/srcAg/CHROME/fromCache/1/mid/6800584223617/id/6083717368449/get/CIHXoJP2xQEQ6AcYBDIICgYI2AYQ4AM6BAjE2AJaBggBEAIoF2ICCBBqE463f8wbMg/track.m3u8
 #EXTINF:-1 tvg-id="now70s" tvg-name="Now 70's" tvg-logo="http://epg.one/img/6626.png" group-title="Музыка", Now 70s HD UK
 #EXTGRP:Музыка
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
