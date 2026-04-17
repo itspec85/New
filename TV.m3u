@@ -2426,6 +2426,9 @@ https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ru-tv" tvg-name="RU TV HD" tvg-logo="http://epg.one/img/2277.png" group-title="Музыка", RU TV HD
 #EXTGRP:Музыка
 http://5.188.159.128:8070/rutv/index.m3u8
+#EXTINF:-1 tvg-id="song-tv-ru" tvg-name="Song TV Russia" tvg-logo="http://epg.one/img/3358.png" group-title="Музыка", SONG TV HD RU
+#EXTGRP:Музыка
+https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8
 #EXTINF:-1 tvg-name="Spirit TV HD" tvg-logo="http://epg.one/img/4657.png" group-title="Музыка", Spirit Tv HD
 #EXTGRP:Музыка
 http://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
