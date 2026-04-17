@@ -1636,6 +1636,9 @@ http://kinowalk.hopto.org/vsetv_live
 #EXTINF:-1 tvg-name="Стримканал. Егор Егорыч" tvg-logo="https://avatars.mds.yandex.net/i?id=555d891d488c5365011716af505489b85bf0170c-9044089-images-thumbs&n=13" group-title="Кинозал", Стримканал. Егор Егорыч
 #EXTGRP:Кинозал
 http://kinowalk.hopto.org/yegor_yegorych_live
+#EXTINF:-1 tvg-name="Стримканал. 𝕂𝔸ℂℂ𝔼𝕋𝔸" tvg-logo="https://avatars.mds.yandex.net/i?id=555d891d488c5365011716af505489b85bf0170c-9044089-images-thumbs&n=13" group-title="Кинозал", Стримканал. 𝕂𝔸ℂℂ𝔼𝕋𝔸
+#EXTGRP:Кинозал
+http://kinowalk.hopto.org/kasseta_live
 #EXTINF:-1 tvg-name="Стримканал. КИНО СТРИМ" tvg-logo="https://avatars.mds.yandex.net/i?id=437ca6dffd5419cad1016d2be8def5e17dd21082-5878501-images-thumbs&n=13" group-title="Кинозал", Стримканал. КИНО СТРИМ
 #EXTGRP:Кинозал
 http://kinowalk.hopto.org/kinostreamlive_live
@@ -1651,6 +1654,9 @@ http://kinowalk.hopto.org/miiz90x_live
 #EXTINF:-1 tvg-name="Стримканал. Назад в СССР" tvg-logo="https://avatars.mds.yandex.net/i?id=555d891d488c5365011716af505489b85bf0170c-9044089-images-thumbs&n=13" group-title="Кинозал", Стримканал. Назад в СССР
 #EXTGRP:Кинозал
 http://kinowalk.hopto.org/backtotheussr_live
+#EXTINF:-1 tvg-name="Стримканал. Первый ряд" tvg-logo="https://avatars.mds.yandex.net/i?id=555d891d488c5365011716af505489b85bf0170c-9044089-images-thumbs&n=13" group-title="Кинозал", Стримканал. Первый ряд
+#EXTGRP:Кинозал
+http://kinowalk.hopto.org/perviryad_live%20
 #EXTINF:-1 tvg-name="Стримканал. Провинция" tvg-logo="https://avatars.mds.yandex.net/i?id=555d891d488c5365011716af505489b85bf0170c-9044089-images-thumbs&n=13" group-title="Кинозал", Стримканал. Провинция
 #EXTGRP:Кинозал
 https://ab2262fdd9c5.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.061051251131.channel.rmtRK2FPYHmD.m3u8
@@ -1705,6 +1711,9 @@ http://kinowalk.hopto.org/bossfilm_live
 #EXTINF:-1 tvg-name="Стримканал. ChowAmigo" tvg-logo="https://avatars.mds.yandex.net/i?id=555d891d488c5365011716af505489b85bf0170c-9044089-images-thumbs&n=13" group-title="Кинозал", Стримканал. ChowAmigo
 #EXTGRP:Кинозал
 http://kinowalk.hopto.org/chowamigo_live
+#EXTINF:-1 tvg-name="Стримканал. Cinema Time" tvg-logo="https://avatars.mds.yandex.net/i?id=555d891d488c5365011716af505489b85bf0170c-9044089-images-thumbs&n=13" group-title="Кинозал", Стримканал. Cinema Time
+#EXTGRP:Кинозал
+http://kinowalk.hopto.org/cinematime_live
 #EXTINF:-1 tvg-name="Стримканал. Dimpon HD" tvg-logo="https://avatars.mds.yandex.net/i?id=30d003421a04a81dcc8a800b6b9a8a48b4bf7234-10770607-images-thumbs&n=13" group-title="Кинозал", Стримканал. Dimpon HD
 #EXTGRP:Кинозал
 http://kinowalk.hopto.org/dimpon_live
