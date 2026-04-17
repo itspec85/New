@@ -1207,6 +1207,9 @@ http://46.53.208.4/live/1812.m3u8
 #EXTINF:-1 tvg-id="kino1int-tviksel" tvg-name="Кино 1 International" tvg-logo="http://epg.one/img/6258.png" group-title="Кино", Кино 1 International
 #EXTGRP:Кино
 https://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1 tvg-id="kino-i-zhizn" tvg-name="Кино и Жизнь" tvg-logo="https://epg.iptvx.one/picons/kino-i-zhizn.png" group-title="Кино", Кино и Жизнь
+#EXTGRP:Кино
+https://100.free-iptvchannel.workers.dev/kino_i_zhizn_hd/index.m3u8
 #EXTINF:-1 tvg-id="kino-tv" tvg-name="Кино ТВ" tvg-logo="http://epg.one/img/1037.png" group-title="Кино", КИНО ТВ
 #EXTGRP:Кино
 http://185.46.16.239:8000/Kino_TV
@@ -1368,6 +1371,9 @@ https://stream.smotrim.ru/hls/fasttv01/playlist_3.m3u8
 #EXTINF:-1 tvg-id="smotrim-100-muzhskoe" tvg-name="Смотрим 100% Мужское" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-muzhskoe.png" group-title="Кино", Смотрим 100% Мужское
 #EXTGRP:Кино
 https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8
+#EXTINF:-1 tvg-name="ТЕХ ЛЕТ ТВ" tvg-logo="https://avatars.mds.yandex.net/i?id=4eec7ea358d2be017234f51013bfcb5a10b4f3c2-6985270-images-thumbs&n=13" group-title="Кино", ТЕХ ЛЕТ ТВ
+#EXTGRP:Кино
+http://46.53.208.4/live/9489.m3u8
 #EXTINF:-1 tvg-id="chestny-detektiv" tvg-name="Честный детектив" tvg-logo="https://epg.iptvx.one/picons/chestny-detektiv.png" group-title="Кино", Смотрим Честный детектив
 #EXTGRP:Кино
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
@@ -1642,6 +1648,9 @@ http://kinowalk.hopto.org/miiz90x_live
 #EXTINF:-1 tvg-name="Стримканал. Назад в СССР" tvg-logo="https://avatars.mds.yandex.net/i?id=555d891d488c5365011716af505489b85bf0170c-9044089-images-thumbs&n=13" group-title="Кинозал", Стримканал. Назад в СССР
 #EXTGRP:Кинозал
 http://kinowalk.hopto.org/backtotheussr_live
+#EXTINF:-1 tvg-name="Стримканал. Провинция" tvg-logo="https://avatars.mds.yandex.net/i?id=555d891d488c5365011716af505489b85bf0170c-9044089-images-thumbs&n=13" group-title="Кинозал", Стримканал. Провинция
+#EXTGRP:Кинозал
+https://ab2262fdd9c5.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.061051251131.channel.rmtRK2FPYHmD.m3u8
 #EXTINF:-1 tvg-name="Стримканал. Сериальный мир" tvg-logo="https://avatars.mds.yandex.net/i?id=555d891d488c5365011716af505489b85bf0170c-9044089-images-thumbs&n=13" group-title="Кинозал", Стримканал. Сериальный мир
 #EXTGRP:Кинозал
 http://kinowalk.hopto.org/serials2025_live
