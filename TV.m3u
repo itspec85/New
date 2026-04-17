@@ -1303,11 +1303,10 @@ https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1_output_0.m3u
 http://80.77.52.3/streams/media/nstv_720x576/index.m3u8
 #EXTINF:-1 tvg-id="ntv-serial" tvg-name="НТВ Сериал" tvg-logo="http://epg.one/img/1754.png" group-title="Кино", НТВ Сериал
 #EXTGRP:Кино
-http://46.53.208.4/live/2065-req_5k_v5.m3u8
+https://100.free-iptvchannel.workers.dev/ntv_serial_hd/index.m3u8
 #EXTINF:-1 tvg-id="ntv-xit" tvg-name="НТВ Хит" tvg-logo="http://epg.one/img/2041.png" group-title="Кино", НТВ Хит HD
 #EXTGRP:Кино
-#EXTVLCOPT:http-user-agent=ntv
-https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
+https://100.free-iptvchannel.workers.dev/ntv_hit_hd/index.m3u8
 #EXTINF:-1 tvg-id="ostrosiuzhetnoe-hd" tvg-name="Остросюжетное HD" tvg-logo="http://epg.one/img/1588.png" group-title="Кино", Остросюжетное HD
 #EXTGRP:Кино
 http://51.159.108.7:83/play/27043-Ostrosuzhetnoe/index.m3u8
@@ -1450,6 +1449,9 @@ https://a3569457567-s70378.cdn.ngenix.net/filmbox_arthouse/1/index.m3u8
 #EXTINF:-1 tvg-id="flixsnip" tvg-name="Flix Snip" tvg-logo="http://epg.one/img/774.png" group-title="Кино", Flix Snip
 #EXTGRP:Кино
 https://a3569457567-s70378.cdn.ngenix.net/flixsnip/1/index.m3u8
+#EXTINF:-1 tvg-name="FMC" tvg-logo="https://avatars.mds.yandex.net/i?id=1959193b12698485d22fe83173de7c117f9b4b37-5887368-images-thumbs&n=13" group-title="Кино", FMC
+#EXTGRP:Кино
+rtmp://vkvsd69.okcdn.ru/playback/3780958366657?stkn=QkbWCnARWe2BdgDd2ZlIsACtDwpqkYXvX5avvzYaOvFMLx0UvcPKLeTbLVWs99SwkzSDsjYLt-I&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 #EXTINF:-1 tvg-id="fox" tvg-name="FX" tvg-logo="http://epg.one/img/1031.png" group-title="Кино", FX
 #EXTGRP:Кино
 http://51.159.108.7:83/play/27027-Fox/index.m3u8
@@ -1474,6 +1476,9 @@ http://cdn.kubteltv.workers.dev/?ID=297
 #EXTINF:-1 tvg-id="kinojam2" tvg-name="Kinojam 2 HD" tvg-logo="http://epg.one/img/4467.png" group-title="Кино", Kinojam 2 HD
 #EXTGRP:Кино
 http://cdn.kubteltv.workers.dev/?ID=298
+#EXTINF:-1 tvg-name="NSC" tvg-logo="https://avatars.mds.yandex.net/i?id=2104bf41d9e9376e184076b17c82dc1fb6a9f5af-16483332-images-thumbs&n=13" group-title="Кино", NSC
+#EXTGRP:Кино
+https://live.15plusmg.ru/memfs/5a03fc7a-8417-4874-b56f-91b8aeba1210_output_0.m3u8?session=bomhMGCHEtND9D3hX7kb4M
 #EXTINF:-1 tvg-id="plan-b" tvg-name="Plan B HD" tvg-logo="http://epg.one/img/6643.png" group-title="Кино", Plan B HD
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000007625/tve/index.m3u8
@@ -1531,6 +1536,12 @@ http://hls127.freeott.top:8080/PG_VHS_HD/manifest.m3u8
 #EXTINF:-1 tvg-id="vhs-ka" tvg-name="VHS-ка HD" tvg-logo="http://epg.one/img/9065.png" group-title="Кино", VHS-ка HD
 #EXTGRP:Кино
 http://46.53.208.4:80/live/1123.m3u8
+#EXTINF:-1 tvg-id="4k-ruskino" tvg-name="VHS-ка Русское кино HD" tvg-logo="https://epg.iptvx.one/picons/4k-ruskino.png" group-title="Кино", VHS-ка Русское кино HD
+#EXTGRP:Кино
+https://100.free-iptvchannel.workers.dev/russkoe_kino_4k/index.m3u8
+#EXTINF:-1 tvg-id="vhska-serial" tvg-name="VHS-ка Сериал" tvg-logo="https://epg.iptvx.one/picons/vhska-serial.png" group-title="Кино", VHS-ка Сериал
+#EXTGRP:Кино
+https://100.free-iptvchannel.workers.dev/vhs_serial_hd/index.m3u8
 #EXTINF:-1 tvg-id="vip-comedy-cee" tvg-name="Viasat Kino Comedy" tvg-logo="http://epg.one/img/8880.png" group-title="Кино", Viasat Kino Comedy HD
 #EXTGRP:Кино
 http://ukr2.ukrainske.tv/493/video.m3u8
