@@ -2073,7 +2073,7 @@ http://ukr.ukrainske.tv/134/keytvainua/video.m3u8
 http://cdn.kubteltv.workers.dev/?ID=110
 #EXTINF:-1 tvg-id="match-football1" tvg-name="Матч! Футбол 1" tvg-logo="http://epg.one/img/2044.png" group-title="Спорт", Матч! Футбол 1
 #EXTGRP:Спорт
-https://mhd128.iptv2022.com/p/nKjM7mp4Or_XYhKgACdM9A,1776279411/streaming/footbal1hd/324/1/tracks-v5a1/mono.m3u8
+http://89.218.32.179:18000/play/a034
 #EXTINF:-1 tvg-id="match-football1" tvg-name="Матч! Футбол 1 HD" tvg-logo="http://epg.one/img/2044.png" group-title="Спорт", Матч! Футбол 1 HD
 #EXTGRP:Спорт
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
