@@ -1956,6 +1956,32 @@ https://100.free-iptvchannel.workers.dev/BCU_Ultra_4K/index.m3u8
 #EXTINF:-1 tvg-id="bcu-vhs" tvg-name="BCU VHS HD" tvg-logo="http://epg.one/img/4763.png" group-title="Кинозал", BCU VHS HD
 #EXTGRP:Кинозал
 https://100.free-iptvchannel.workers.dev/BCU_VHS_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="box-franchise" tvg-name="BOX Franchise HD" tvg-logo="http://epg.one/img/6696.png" group-title="Кинозал", BOX Franchise HD
+#EXTGRP:Кинозал
+https://100.free-iptvchannel.workers.dev/BOX_Franchise_HD/index.m3u8
+#EXTINF:-1 tvg-id="box-gangster" tvg-name="BOX Gangster HD" tvg-logo="http://epg.one/img/6699.png" group-title="Кинозал", BOX Gangster HD
+#EXTGRP:Кинозал
+https://100.free-iptvchannel.workers.dev/BOX_Gangster_HD/index.m3u8
+#EXTINF:-1 tvg-id="box-hybrid" tvg-name="BOX Hybrid HD" tvg-logo="http://epg.one/img/6697.png" group-title="Кинозал", BOX Hybrid HD
+#EXTGRP:Кинозал
+https://100.free-iptvchannel.workers.dev/BOX_Hybrid_HD/index.m3u8
+#EXTINF:-1 tvg-id="box-memory" tvg-name="BOX Memory HD" tvg-logo="http://epg.one/img/6701.png" group-title="Кинозал", BOX Memory HD
+#EXTGRP:Кинозал
+https://100.free-iptvchannel.workers.dev/BOX_Memory_HD/index.m3u8
+#EXTINF:-1 tvg-id="box-serial" tvg-name="BOX Serial HD" tvg-logo="http://epg.one/img/6703.png" group-title="Кинозал", BOX Serial HD
+#EXTGRP:Кинозал
+https://100.free-iptvchannel.workers.dev/BOX_Serial_HD/index.m3u8
+#EXTINF:-1 tvg-id="box-spy" tvg-name="BOX Spy HD" tvg-logo="http://epg.one/img/6705.png" group-title="Кинозал", BOX Spy HD
+#EXTGRP:Кинозал
+https://100.free-iptvchannel.workers.dev/BOX_Spy_HD/index.m3u8
+#EXTINF:-1 tvg-id="box-western" tvg-name="BOX Western HD" tvg-logo="http://epg.one/img/6832.png" group-title="Кинозал", BOX Western HD
+#EXTGRP:Кинозал
+https://100.free-iptvchannel.workers.dev/BOX_Western_HD/index.m3u8
+#EXTINF:-1 tvg-id="box-zombie" tvg-name="BOX Zombie HD" tvg-logo="http://epg.one/img/6833.png" group-title="Кинозал", BOX Zombie HD
+#EXTGRP:Кинозал
+https://100.free-iptvchannel.workers.dev/BOX_Zombie_HD/index.m3u8
+
 #EXTINF:-1 tvg-name="CPS Action" tvg-logo="https://avatars.mds.yandex.net/i?id=d0cd0536644c44380ed9a5f1fc4f51bd2169a5dd-5335451-images-thumbs&n=13" group-title="Кинозал", CPS Action
 #EXTGRP:Кинозал
 http://hls127.freeott.top:8080/CPS_Action/video.m3u8
