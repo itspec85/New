@@ -476,7 +476,7 @@ http://185.46.16.239:8000/Paramount_Comedy
 http://46.53.208.4/live/588.m3u8
 #EXTINF:-1 tvg-id="avto-plus" tvg-name="Авто Плюс" tvg-logo="http://epg.one/img/153.png" group-title="Познавательные", Авто Плюс
 #EXTGRP:Познавательные
-https://stream8.cinerama.uz/1036/tracks-v1a1/mono.m3u8
+http://46.32.176.50/avtoplyus/index.m3u8
 #EXTINF:-1 tvg-id="anekdottv" tvg-name="Анекдот тв" tvg-logo="http://epg.one/img/2760.png" group-title="Познавательные", Анекдот тв
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000001921/tve/index.m3u8
@@ -554,10 +554,10 @@ https://ucdn.beetv.kz/bpk-tv/000008065/tve/index.m3u8
 http://185.46.16.239:8000/Zhivaya_Planeta
 #EXTINF:-1 tvg-id="zhivi" tvg-name="ЖИВИ!" tvg-logo="http://epg.one/img/113.png" group-title="Познавательные", ЖИВИ!
 #EXTGRP:Познавательные
-https://stream8.cinerama.uz/1419/tracks-v1a1/mono.m3u8
+http://46.32.176.50/jivi/index.m3u8
 #EXTINF:-1 tvg-id="zhivi-aktivno" tvg-name="Живи активно" tvg-logo="https://epg.iptvx.one/picons/zhivi-aktivno.png" group-title="Познавательные", Живи активно
 #EXTGRP:Познавательные
-https://stream8.cinerama.uz/1405/tracks-v1a1/mono.m3u8
+http://77.245.98.18:8000/play/a012
 #EXTINF:-1 tvg-name="За!ТВ" tvg-logo="https://avatars.mds.yandex.net/i?id=3392ef595a598b716b3a9c5e8939f4338114f599-5287388-images-thumbs&n=13" group-title="Познавательные", За!ТВ
 #EXTGRP:Познавательные
 https://streaming.televizor-24-tochka.ru/live/25-req_offset_28000000-req_window_0-1k_v5.m3u8
@@ -575,10 +575,7 @@ https://ucdn.beetv.kz/bpk-tv/000006638/tve/index.m3u8
 http://46.53.208.4:80/live/342.m3u8
 #EXTINF:-1 tvg-id="istoria" tvg-name="История" tvg-logo="http://epg.one/img/1036.png" group-title="Познавательные", История
 #EXTGRP:Познавательные
-https://stream8.cinerama.uz/1266/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="istoria" tvg-name="История" tvg-logo="http://epg.one/img/1036.png" group-title="Познавательные", История HD
-#EXTGRP:Познавательные
-http://176.96.241.40/History/index.m3u8
+http://hls127.freeott.top:8080/Istoriya/video.m3u8
 #EXTINF:-1 tvg-name="Каббала ТВ" tvg-logo="https://avatars.mds.yandex.net/i?id=0212fb5c11225b6ff52b28a86438b19edf271916-5219731-images-thumbs&n=13" group-title="Познавательные", Каббала ТВ
 #EXTGRP:Познавательные
 http://edge2.uk.kab.tv/rtplive/kabtv-rus-medium.stream/playlist.m3u8
