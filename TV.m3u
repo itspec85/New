@@ -2643,7 +2643,7 @@ http://iptv.prosto.tv:7000/ch325/video.m3u8
 http://iptv.prosto.tv:7000/ch316/video.m3u8
 #EXTINF:-1 tvg-id="zhivaya-priroda" tvg-name="Живая природа HD" tvg-logo="http://epg.one/img/2495.png" group-title="Релакс", Живая природа HD
 #EXTGRP:Релакс
-http://5.134.87.12:8002/play/a06o/index.m3u8
+https://ucdn.beetv.kz/bpk-tv/000001187/tve/index.m3u8
 #EXTINF:-1 tvg-name="Камин" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00310.png" group-title="Релакс", Камин
 #EXTGRP:Релакс
 http://iptv.prosto.tv:7000/ch318/video.m3u8
