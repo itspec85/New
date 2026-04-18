@@ -1956,7 +1956,6 @@ https://100.free-iptvchannel.workers.dev/BCU_Ultra_4K/index.m3u8
 #EXTINF:-1 tvg-id="bcu-vhs" tvg-name="BCU VHS HD" tvg-logo="http://epg.one/img/4763.png" group-title="Кинозал", BCU VHS HD
 #EXTGRP:Кинозал
 https://100.free-iptvchannel.workers.dev/BCU_VHS_HD/index.m3u8
-
 #EXTINF:-1 tvg-id="box-cyber" tvg-name="BOX Cyber HD" tvg-logo="http://epg.one/img/6834.png" group-title="Кинозал", BOX Cyber HD
 #EXTGRP:Кинозал
 https://100.free-iptvchannel.workers.dev/BOX_Cyber_HD/index.m3u8
@@ -1978,6 +1977,15 @@ https://100.free-iptvchannel.workers.dev/BOX_Hybrid_HD/index.m3u8
 #EXTINF:-1 tvg-id="box-memory" tvg-name="BOX Memory HD" tvg-logo="http://epg.one/img/6701.png" group-title="Кинозал", BOX Memory HD
 #EXTGRP:Кинозал
 https://100.free-iptvchannel.workers.dev/BOX_Memory_HD/index.m3u8
+#EXTINF:-1 tvg-id="box-remast-4k" tvg-name="BOX Remast 4K" tvg-logo="http://epg.one/img/7492.png" group-title="Кинозал", BOX Remast 4K
+#EXTGRP:Кинозал
+https://100.free-iptvchannel.workers.dev/BOX_Remast_4K/index.m3u8
+#EXTINF:-1 tvg-id="box-remast-plus-4k" tvg-name="BOX Remast+ 4K" tvg-logo="http://epg.one/img/8922.png" group-title="Кинозал", BOX Remast+ 4K
+#EXTGRP:Кинозал
+https://100.free-iptvchannel.workers.dev/BOX_Remast_Plus_4K/index.m3u8
+#EXTINF:-1 tvg-id="box-serial4k" tvg-name="BOX Serial 4K" tvg-logo="http://epg.one/img/8923.png" group-title="Кинозал", BOX Serial 4K
+#EXTGRP:Кинозал
+https://100.free-iptvchannel.workers.dev/BOX_Serial_4K/index.m3u8
 #EXTINF:-1 tvg-id="box-serial" tvg-name="BOX Serial HD" tvg-logo="http://epg.one/img/6703.png" group-title="Кинозал", BOX Serial HD
 #EXTGRP:Кинозал
 https://100.free-iptvchannel.workers.dev/BOX_Serial_HD/index.m3u8
