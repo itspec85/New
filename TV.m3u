@@ -1574,13 +1574,13 @@ http://46.53.208.4:80/live/545.m3u8
 https://ucdn.beetv.kz/bpk-tv/000003748/tve/index.m3u8
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino" tvg-name="Viju TV1000 Русское HD" tvg-logo="http://epg.one/img/267.png" group-title="Кино", Viju TV1000 Русское HD
 #EXTGRP:Кино
-https://stream8.cinerama.uz/1059/mono.m3u8
+http://cdn.kubteltv.workers.dev/?ID=193
 #EXTINF:-1 tvg-id="tv1000-action" tvg-name="Viju TV1000 Action" tvg-logo="http://epg.one/img/125.png" group-title="Кино", Viju TV1000 Action
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000003910/tve/index.m3u8
 #EXTINF:-1 tvg-id="tv1000-action" tvg-name="Viju TV1000 Action HD" tvg-logo="http://epg.one/img/125.png" group-title="Кино", Viju TV1000 Action HD
 #EXTGRP:Кино
-https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8
+http://cdn.kubteltv.workers.dev/?ID=192
 #EXTINF:-1 tvg-id="viju-tv1000-romantica" tvg-name="Viju TV1000 Romantica HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/97/Viju_TV1000_Romantica.svg/revision/latest/scale-to-width-down/284?cb=20240928200507" group-title="Кино", Viju TV1000 Romantica HD
 #EXTGRP:Кино
 http://46.53.208.4:80/live/3111.m3u8
@@ -2211,7 +2211,7 @@ http://fortv.cc:8080/sed8nurse@hotmail.com/0LzoNUu9jX/10255
 https://ucdn.beetv.kz/bpk-tv/000002478/tve/index.m3u8
 #EXTINF:-1 tvg-id="eurosport1" tvg-name="Eurosport 1 HD" tvg-logo="http://epg.one/img/2052.png" group-title="Спорт", Eurosport 1 HD
 #EXTGRP:Спорт
-http://176.96.241.40/Eurosport1/index.m3u8
+http://85.117.37.41/eurosport1/index.m3u8
 #EXTINF:-1 tvg-id="eurosport1-pl" tvg-name="Eurosport 1 HD [PL]" tvg-logo="http://epg.one/img/2052.png" group-title="Спорт", Eurosport 1 RS (Сербия)
 #EXTGRP:Спорт
 http://185.112.249.46:9981/stream/channelid/718615486?profile=pass
@@ -2262,7 +2262,7 @@ https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
 https://a3285272783-s80718.cdn.ngenix.net//hls//CH_KHL//video_800x450_avc1/playlist.m3u8
 #EXTINF:-1 tvg-id="kxl" tvg-name="KHL" tvg-logo="http://epg.one/img/2048.png" group-title="Спорт", KHL TV Channel (резерв)
 #EXTGRP:Спорт
-https://stream8.cinerama.uz/1028/tracks-v1a1/mono.m3u8
+https://flussonic.mkpnet.ru/tv-e3d23fc7511b5fcd/video.m3u8
 #EXTINF:-1 tvg-id="kxl-hd" tvg-name="KHL Prime HD" tvg-logo="http://epg.one/img/1038.png" group-title="Спорт", KHL Prime HD
 #EXTGRP:Спорт
 http://77.245.98.18:8000/play/a016
