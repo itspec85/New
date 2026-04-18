@@ -1957,12 +1957,21 @@ https://100.free-iptvchannel.workers.dev/BCU_Ultra_4K/index.m3u8
 #EXTGRP:Кинозал
 https://100.free-iptvchannel.workers.dev/BCU_VHS_HD/index.m3u8
 
+#EXTINF:-1 tvg-id="box-cyber" tvg-name="BOX Cyber HD" tvg-logo="http://epg.one/img/6834.png" group-title="Кинозал", BOX Cyber HD
+#EXTGRP:Кинозал
+https://100.free-iptvchannel.workers.dev/BOX_Cyber_HD/index.m3u8
+#EXTINF:-1 tvg-id="box-fantasy" tvg-name="BOX Fantasy HD" tvg-logo="http://epg.one/img/7490.png" group-title="Кинозал", BOX Fantasy HD
+#EXTGRP:Кинозал
+https://100.free-iptvchannel.workers.dev/BOX_Fantasy_HD/index.m3u8
 #EXTINF:-1 tvg-id="box-franchise" tvg-name="BOX Franchise HD" tvg-logo="http://epg.one/img/6696.png" group-title="Кинозал", BOX Franchise HD
 #EXTGRP:Кинозал
 https://100.free-iptvchannel.workers.dev/BOX_Franchise_HD/index.m3u8
 #EXTINF:-1 tvg-id="box-gangster" tvg-name="BOX Gangster HD" tvg-logo="http://epg.one/img/6699.png" group-title="Кинозал", BOX Gangster HD
 #EXTGRP:Кинозал
 https://100.free-iptvchannel.workers.dev/BOX_Gangster_HD/index.m3u8
+#EXTINF:-1 tvg-id="box-ghost" tvg-name="BOX Ghost HD" tvg-logo="http://epg.one/img/7488.png" group-title="Кинозал", BOX Ghost HD
+#EXTGRP:Кинозал
+https://100.free-iptvchannel.workers.dev/BOX_Ghost_HD/index.m3u8
 #EXTINF:-1 tvg-id="box-hybrid" tvg-name="BOX Hybrid HD" tvg-logo="http://epg.one/img/6697.png" group-title="Кинозал", BOX Hybrid HD
 #EXTGRP:Кинозал
 https://100.free-iptvchannel.workers.dev/BOX_Hybrid_HD/index.m3u8
