@@ -1956,6 +1956,9 @@ https://100.free-iptvchannel.workers.dev/BCU_Ultra_4K/index.m3u8
 #EXTINF:-1 tvg-id="bcu-vhs" tvg-name="BCU VHS HD" tvg-logo="http://epg.one/img/4763.png" group-title="Кинозал", BCU VHS HD
 #EXTGRP:Кинозал
 https://100.free-iptvchannel.workers.dev/BCU_VHS_HD/index.m3u8
+#EXTINF:-1 tvg-id="box-apocalipse" tvg-name="BOX Apocalypse HD" tvg-logo="http://epg.one/img/8768.png" group-title="Кинозал", BOX Apocalypse HD
+#EXTGRP:Кинозал
+https://100.free-iptvchannel.workers.dev/BOX_Apocalypse_HD/index.m3u8
 #EXTINF:-1 tvg-id="box-cyber" tvg-name="BOX Cyber HD" tvg-logo="http://epg.one/img/6834.png" group-title="Кинозал", BOX Cyber HD
 #EXTGRP:Кинозал
 https://100.free-iptvchannel.workers.dev/BOX_Cyber_HD/index.m3u8
@@ -1998,7 +2001,6 @@ https://100.free-iptvchannel.workers.dev/BOX_Western_HD/index.m3u8
 #EXTINF:-1 tvg-id="box-zombie" tvg-name="BOX Zombie HD" tvg-logo="http://epg.one/img/6833.png" group-title="Кинозал", BOX Zombie HD
 #EXTGRP:Кинозал
 https://100.free-iptvchannel.workers.dev/BOX_Zombie_HD/index.m3u8
-
 #EXTINF:-1 tvg-name="CPS Action" tvg-logo="https://avatars.mds.yandex.net/i?id=d0cd0536644c44380ed9a5f1fc4f51bd2169a5dd-5335451-images-thumbs&n=13" group-title="Кинозал", CPS Action
 #EXTGRP:Кинозал
 http://hls127.freeott.top:8080/CPS_Action/video.m3u8
