@@ -2910,7 +2910,9 @@ http://bsttv.bonus-tv.ru/cdn/kurai/tracks-v1a1/mono.ts.m3u8
 http://river-1.rutube.ru/stream/genetta-318.m9.rutube.ru/sPsXsUAhD-POWYUfFzNEvQ/1775574557/dd022de9cc6c8af89409513fa0a6117a/1080p_stream.m3u8
 #EXTINF:-1 tvg-id="lipeck24" tvg-name="Липецк 24" tvg-logo="https://iptvx.one/picons/lipeck24.png" group-title="Региональные РФ", Липецк 24
 #EXTGRP:Региональные РФ
-http://river-1.rutube.ru/stream/genetta-313.m9.rutube.ru/pEA9BOgaaMhXiWF0qNg_4g/1775574386/b04fc212802bbf7ec94768c029e54aa9/1080p_stream.m3u8
+https://bl.rutube.ru/livestream/b04fc212802bbf7ec94768c029e54aa9/index.m3u8?s=dN0rc0Qf3vACjL-qblyo6A&e=2074209234&scheme=https
+
+
 #EXTINF:-1 tvg-name="Луганск 24" tvg-logo="https://avatars.mds.yandex.net/i?id=2bf7af2d105e5cccdb521e753bfc76fb5433d906-5231073-images-thumbs&n=13" group-title="Региональные РФ", Луганск 24
 #EXTGRP:Региональные РФ
 https://streaming.televizor-24-tochka.ru/live/29.m3u8
