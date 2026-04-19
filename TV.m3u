@@ -763,6 +763,9 @@ http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 #EXTINF:-1 tvg-name="ТАСС" tvg-logo="https://avatars.mds.yandex.net/i?id=e60e5cf5b5f0b2931e57c68bfd435bef596e41d6-5752088-images-thumbs&n=13" group-title="Познавательные", ТАСС
 #EXTGRP:Познавательные
 https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream_480p/playlist.m3u8
+#EXTINF:-1 tvg-name="ТБВ" tvg-logo="https://avatars.mds.yandex.net/i?id=bb24a7c517c4f21049103772516bbd71f292c735-12347089-images-thumbs&n=13" group-title="Познавательные", ТБВ
+#EXTGRP:Познавательные
+https://bl.rutube.ru/livestream/68b2533a29f7de163842baf1b9dfc17e/index.m3u8?s=tnztAhUZCpa-F-GHDQxBNA&e=2074209248&scheme=https
 #EXTINF:-1 tvg-id="tbn-ru" tvg-name="ТБН" tvg-logo="http://epg.one/img/2360.png" group-title="Познавательные", ТБН
 #EXTGRP:Познавательные
 https://5f05e059699ae.streamlock.net/WEB_TBN/ngrp:TBN.stream-adaptive/playlist.m3u8
