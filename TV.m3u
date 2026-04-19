@@ -2724,7 +2724,7 @@ http://85.234.33.63/stream/c11.m3u8
 http://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-id="41region" tvg-name="41 регион" tvg-logo="https://avatars.mds.yandex.net/i?id=7f1219a323cdc6cb127722da52b91cd1838cec20-3193980-images-thumbs&n=13" group-title="Региональные РФ", 41 регион
 #EXTGRP:Региональные РФ
-http://river-1.rutube.ru/stream/genetta-311.m9.rutube.ru/i0t4KxtWaooYYdkCX7B8Bw/1775574326/aff0a2b356d2e1eef55bdb868be4dcc3/1080p_stream.m3u8
+https://bl.rutube.ru/livestream/aff0a2b356d2e1eef55bdb868be4dcc3/index.m3u8?s=fYaC21JKllUYEwp3KQ2dAA&e=2074209232&scheme=https
 #EXTINF:-1 tvg-id="78kanal" tvg-name="78 канал Санкт-Петербург" tvg-logo="http://epg.one/img/7616.png" group-title="Региональные РФ", 78 канал Санкт-Петербург
 #EXTGRP:Региональные РФ
 https://bl.rutube.ru/livestream/bbf23277dbd0dd0e6a623526d4c3f8c9/index.m3u8?s=ORv5xqN37wdG93boM0PkjA&e=2075588012&scheme=https
@@ -2739,7 +2739,7 @@ http://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8
 https://public.apsny.camera/tv_abaza_tv_to_site/index.m3u8
 #EXTINF:-1 tvg-id="abakan24" tvg-name="Абакан 24" tvg-logo="http://epg.one/img/5777.png" group-title="Региональные РФ", Абакан 24
 #EXTGRP:Региональные РФ
-http://river-1.rutube.ru/stream/genetta-326.m9.rutube.ru/UrVwdtdExWurba79RlL8pA/1775574454/7c5ae60686a94e04691f6917e1dec066/1080p_stream.m3u8
+https://bl.rutube.ru/livestream/7c5ae60686a94e04691f6917e1dec066/index.m3u8?s=RzYQnlF2FeQ_2zO6pKVf8Q&e=2074209234&scheme=https
 #EXTINF:-1 tvg-id="aist" tvg-name="Аист Иркутск" tvg-logo="http://epg.one/img/5816.png" group-title="Региональные РФ", Аист Иркутск
 #EXTGRP:Региональные РФ
 http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
@@ -2748,7 +2748,7 @@ http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
 https://stream.almaz-media.tv:8080/hls/720.m3u8
 #EXTINF:-1 tvg-id="arig-us-24" tvg-name="Ариг Ус 24 Улан-Удэ" tvg-logo="https://iptvx.one/picons/arig-us-24.png" group-title="Региональные РФ", Ариг Ус 24 Улан-Удэ
 #EXTGRP:Региональные РФ
-http://river-1.rutube.ru/stream/genetta-311.m9.rutube.ru/752zPw9fxGevOpuWx1v_oA/1775574376/5d9273a93631b87a3bbdc883bb3a58cb/1080p_stream.m3u8
+https://bl.rutube.ru/livestream/5d9273a93631b87a3bbdc883bb3a58cb/index.m3u8?s=a9AGChX7HqLeoQeY4Fuu3g&e=2074209234&scheme=https
 #EXTINF:-1 tvg-id="aris24" tvg-name="Арис 24 HD" tvg-logo="http://epg.one/img/7708.png" group-title="Региональные РФ", Арис 24 HD
 #EXTGRP:Региональные РФ
 http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
@@ -2775,7 +2775,7 @@ https://stream.afontovo.ru/hd.m3u8
 http://stream01.bgu.ru:8081/1/1/playlist.m3u8
 #EXTINF:-1 tvg-id="bars" tvg-name="Барс Иваново" tvg-logo="https://iptvx.one/picons/bars.png" group-title="Региональные РФ", Барс Иваново
 #EXTGRP:Региональные РФ
-http://river-1.rutube.ru/stream/genetta-326.m9.rutube.ru/gmK5an_DE5zmVPENdIN16g/1775574335/f79ff24ad16cf5f5eb52994647596d13/1080p_stream.m3u8
+https://bl.rutube.ru/livestream/f79ff24ad16cf5f5eb52994647596d13/index.m3u8?s=TUopaW8CoTT-LSwqNomY9A&e=2074209229&scheme=https
 #EXTINF:-1 tvg-id="bashkortostan24" tvg-name="Башкортостан 24" tvg-logo="http://epg.one/img/7707.png" group-title="Региональные РФ", Башкортостан 24
 #EXTGRP:Региональные РФ
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/bashkortostan24-hd/index.m3u8
@@ -2796,7 +2796,7 @@ http://bsttv.bonus-tv.ru:80/cdn/bst/playlist_sdhigh.m3u8
 http://bst.bratsk.ru/hls/bst2/fhd/stream.m3u8
 #EXTINF:-1 tvg-id="buriaad" tvg-name="Буряад ТВ Улан-Удэ" tvg-logo="https://avatars.mds.yandex.net/i?id=e2ca8715c74145f06d0e01d0bc7ccc4336f4137af3f56775-12530521-images-thumbs&n=13" group-title="Региональные РФ", Буряад ТВ Улан-Удэ
 #EXTGRP:Региональные РФ
-http://river-1.rutube.ru/stream/genetta-317.m9.rutube.ru/pOqJrfiYTbC1ZunQQ7YZ6Q/1775574367/55fec7f2c11f4decc66568fca39f26b2/1080p_stream.m3u8
+https://bl.rutube.ru/livestream/55fec7f2c11f4decc66568fca39f26b2/index.m3u8?s=b8Hx3LKhZByL5FosK9mMkQ&e=2074209228&scheme=https
 #EXTINF:-1 tvg-id="tk-variant" tvg-name="Вариант ТВ Владимир" tvg-logo="https://cdn.epg.one/img/6758.png" group-title="Региональные РФ", Вариант ТВ Владимир
 #EXTGRP:Региональные РФ
 https://variant33.ru/direct/live/site/playlist600k.m3u8
@@ -2832,7 +2832,7 @@ https://balancer.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/1.m3u8
 https://s68149.cdn.ngenix.net/s68149-media-origin/lvs/tvgub/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="gubernia-33" tvg-name="Губерния 33 HD" tvg-logo="http://epg.one/img/2633.png" group-title="Региональные РФ", Губерния 33 HD
 #EXTGRP:Региональные РФ
-http://river-1.rutube.ru/stream/genetta-305.m9.rutube.ru/H88BMYmWCGbw-RjntTGSPw/1775574487/52a1592710d8803b0570bfef9d2fbeff/1080p_stream.m3u8
+https://bl.rutube.ru/livestream/52a1592710d8803b0570bfef9d2fbeff/index.m3u8?s=CK6SacwD4ovegdSe_uyvyA&e=2074209243&scheme=https
 #EXTINF:-1 tvg-id="gubernia-samara" tvg-name="Губерния Самара" tvg-logo="http://epg.one/img/6750.png" group-title="Региональные РФ", Губерния Самара
 #EXTGRP:Региональные РФ
 http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
@@ -2847,7 +2847,7 @@ https://v.dzertv.ru:8588/dzertv/live_yandex/tracks-v1a1/mono.m3u8
 http://live-3.otcnet.ru/dimgrad/index.m3u8
 #EXTINF:-1 tvg-id="don-24" tvg-name="ДОН 24" tvg-logo="http://epg.one/img/2299.png" group-title="Региональные РФ", ДОН 24
 #EXTGRP:Региональные РФ
-http://river-1.rutube.ru/stream/genetta-408.ntv.rutube.ru/Ff9CN68y6OoKcjEir1kxxw/1775574356/72ced5d533f940251e5e4bd5d61f6bc9/1080p_stream.m3u8
+https://bl.rutube.ru/livestream/72ced5d533f940251e5e4bd5d61f6bc9/index.m3u8?s=kUIBvOzgo5d3L4_DhBwWBQ&e=2074209235&scheme=https
 #EXTINF:-1 tvg-id="enisey-region" tvg-name="Енисей Регион" tvg-logo="http://epg.one/img/5819.png" group-title="Региональные РФ", Енисей Регион
 #EXTGRP:Региональные РФ
 http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
@@ -2865,7 +2865,7 @@ https://bl.rutube.ru/livestream/eda2da42eea89951e4135141a30915f7/index.m3u8?s=nb
 https://bl.rutube.ru/livestream/342a3e4f3c9bb0d7830a52af0d956c44/index.m3u8?s=VUfJh9EGdTctWVWkVsjykA&e=2074209245&scheme=https
 #EXTINF:-1 tvg-id="rentv-istoki" tvg-name="Истоки Орёл" tvg-logo="http://epg.one/img/6032.png" group-title="Региональные РФ", Истоки Орёл
 #EXTGRP:Региональные РФ
-http://river-1.rutube.ru/stream/genetta-312.m9.rutube.ru/1mc6-H1coWphnXvEo7f8Sw/1775574447/503a8ac5ca6d738f05a147764f70215b/576p_stream.m3u8
+https://bl.rutube.ru/livestream/503a8ac5ca6d738f05a147764f70215b/index.m3u8?s=zj3hqg2tTLdXDx5EffzNFg&e=2074209250&scheme=https
 #EXTINF:-1 tvg-id="k16-sarov" tvg-name="К16 Саров" tvg-logo="http://epg.one/img/6749.png" group-title="Региональные РФ", К16 Саров
 #EXTGRP:Региональные РФ
 http://serv25.vintera.tv:8081/test/k16/playlist.m3u8
@@ -3002,7 +3002,7 @@ http://www.omsk-kprf.ru/hls/stream.m3u8
 https://live.overtime26.ru/app/potok/playlist.m3u8
 #EXTINF:-1 tvg-name="Омск-ТВ" tvg-logo="https://avatars.mds.yandex.net/i?id=b0780fa8971d60c7a5ddab7157dddf7eb1f8e7c6-8425275-images-thumbs&n=13" group-title="Региональные РФ", Омск-ТВ
 #EXTGRP:Региональные РФ
-http://river-1.rutube.ru/stream/genetta-324.m9.rutube.ru/9c4M29qX5e1uN1I162xkJQ/1775574350/9927a61345cbec5aac6558f6c5454d61/1080p_stream.m3u8
+https://bl.rutube.ru/livestream/9927a61345cbec5aac6558f6c5454d61/index.m3u8?s=mAM-rkM4cTBwyhInoawXeA&e=2074209247&scheme=https
 #EXTINF:-1 tvg-name="Оплот ТВ ДНР" tvg-logo="https://avatars.mds.yandex.net/i?id=ed3cc28f0b1f8f7f59d6cd8a3a1dfe398482869f-5236416-images-thumbs&n=13" group-title="Региональные РФ", Оплот ТВ ДНР
 #EXTGRP:Региональные РФ
 http://31.131.141.195:8000/play/a006/index.m3u8
@@ -3056,7 +3056,7 @@ http://dagestan.mediacdn.ru/cdn/dagestan/tracks-v3a1/mono.m3u8
 http://212.3.155.126:8181/udp/233.67.67.177:5510
 #EXTINF:-1 tvg-id="rifey-tv" tvg-name="Рифей-ТВ" tvg-logo="https://epg.iptvx.one/picons/rifey-tv.png" group-title="Региональные РФ", Рифей-ТВ Пермь
 #EXTGRP:Региональные РФ
-http://river-1.rutube.ru/stream/genetta-402.ntv.rutube.ru/XMt_l-gLgwymNmyrycHRww/1775574337/57486bf8e1c01d16a5a939c463867fab/1080p_stream.m3u8
+https://bl.rutube.ru/livestream/57486bf8e1c01d16a5a939c463867fab/index.m3u8?s=jjk2zGBrmQ2ZQ09HiRN1uQ&e=2074209243&scheme=https
 #EXTINF:-1 tvg-id="zabajkajkalje" tvg-name="РТК Забайкалье" tvg-logo="https://avatars.mds.yandex.net/i?id=d0237e1bc0f56b6c68d5454f0a325090366ef658-3965918-images-thumbs&n=13" group-title="Региональные РФ", РТК Забайкалье
 #EXTGRP:Региональные РФ
 https://stream.zrtk.ru/zrtk.m3u8
@@ -3074,7 +3074,7 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/samara/samara24-hd/index.m3u8
 https://tv.samaragis.ru/new/new/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="samotlor-nv" tvg-name="Самотлор Нижневартовск" tvg-logo="https://avatars.mds.yandex.net/i?id=f8a462f6389fca4fc290de18641faf64980d9dd3-10928745-images-thumbs&n=13" group-title="Региональные РФ", Самотлор Нижневартовск
 #EXTGRP:Региональные РФ
-http://river-1.rutube.ru/stream/genetta-312.m9.rutube.ru/NkP7a4VY-hoX2mnPWKFUTg/1775574444/695f0fdefc96b6f7f2b4a311b71f596b/1080p_stream.m3u8
+https://bl.rutube.ru/livestream/695f0fdefc96b6f7f2b4a311b71f596b/index.m3u8?s=HxPBFgFQYrHvTWqc7LNLvA&e=2074209245&scheme=https
 #EXTINF:-1 tvg-id="sampo-tv" tvg-name="Сампо ТВ Петрозаводск" tvg-logo="https://iptvx.one/picons/sampo-tv.png" group-title="Региональные РФ", Сампо ТВ Петрозаводск
 #EXTGRP:Региональные РФ
 http://iptv-hls.karelia.pro/streams/Sampo360/stream.m3u8
@@ -3224,7 +3224,7 @@ http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
 https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8
 #EXTINF:-1 tvg-id="yurgan" tvg-name="Юрган" tvg-logo="https://cdn.epg.one/img/2454.png" group-title="Региональные РФ", Юрган
 #EXTGRP:Региональные РФ
-http://river-1.rutube.ru/stream/genetta-316.m9.rutube.ru/sHLZxmdTM5n4MEJR46t1Ww/1775574381/601ca3d760de90391c18772e43d5190e/1080p_stream.m3u8
+https://bl.rutube.ru/livestream/601ca3d760de90391c18772e43d5190e/index.m3u8?s=W7PStPJPiUwZT05PMJ_pxA&e=2074209247&scheme=https
 #EXTINF:-1 tvg-id="utv-cheboxary" tvg-name="ЮТВ Чебоксары" tvg-logo="https://iptvx.one/picons/utv-cheboxary.png" group-title="Региональные РФ", ЮТВ Чебоксары
 #EXTGRP:Региональные РФ
 http://utv.iptv2022.com/tracks-v1a1/mono.m3u8
