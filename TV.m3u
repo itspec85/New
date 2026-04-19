@@ -342,6 +342,9 @@ https://ucdn.beetv.kz/bpk-tv/000007833/tve/index.m3u8
 #EXTINF:-1 tvg-id="tnt4" tvg-name="ТНТ4" tvg-logo="http://epg.one/img/1649.png" group-title="Россия", ТНТ4
 #EXTGRP:Россия
 https://flussonic.mkpnet.ru/tv-5f6d3cfda1af8989/video.m3u8
+#EXTINF:-1 tvg-id="tnt4" tvg-name="ТНТ4 HD" tvg-logo="http://epg.one/img/1649.png" group-title="Россия", ТНТ4 HD
+#EXTGRP:Россия
+https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=fDLHkeQFZszOkQ36Or8vsQ&e=2074209215&scheme=https
 #EXTINF:-1 tvg-id="tnt4-international" tvg-name="ТНТ4 International" tvg-logo="http://epg.one/img/1649.png" group-title="Россия", ТНТ4 International
 #EXTGRP:Россия
 https://ucdn.beetv.kz/bpk-tv/000002926/tve/index.m3u8
@@ -567,6 +570,9 @@ http://185.57.68.33/40/mpegts
 #EXTINF:-1 tvg-id="zagorodny" tvg-name="Загородный" tvg-logo="http://epg.one/img/2463.png" group-title="Познавательные", Загородный
 #EXTGRP:Познавательные
 https://stream8.cinerama.uz/1044/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="zagorodny-int" tvg-name="Загородный International" tvg-logo="https://epg.iptvx.one/picons/zagorodny-int.png" group-title="Познавательные", Загородный International
+#EXTGRP:Познавательные
+https://bl.rutube.ru/livestream/406973c72e9d0449feef05ef7811ad01/index.m3u8?s=fGF80rX9QohIJizmjd4pNw&e=2074209219&scheme=https
 #EXTINF:-1 tvg-id="zal-suda" tvg-name="Зал суда HD" tvg-logo="http://epg.one/img/3550.png" group-title="Познавательные", Зал суда HD
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000006638/tve/index.m3u8
@@ -685,6 +691,9 @@ http://37.46.49.14:18010/play/a02u/index.m3u8
 #EXTINF:-1 tvg-id="oxotnik-i-rybolov-hd" tvg-name="Охотник и рыболов" tvg-logo="http://epg.one/img/1681.png" group-title="Познавательные", Охотник и рыболов
 #EXTGRP:Познавательные
 https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="oxotnik-i-rybolov-int" tvg-name="Охотник и Рыболов International" tvg-logo="https://epg.iptvx.one/picons/oxotnik-i-rybolov-int.png" group-title="Познавательные", Охотник и Рыболов International
+#EXTGRP:Познавательные
+https://bl.rutube.ru/livestream/1da5d92af8c55b16241f1eb12a27f00c/index.m3u8?s=k3XzMAcprnWLf7qzlawecA&e=2074209218&scheme=https
 #EXTINF:-1 tvg-name="Первый медицинский канал" tvg-logo="https://avatars.mds.yandex.net/i?id=9494f3a37664c7da5f8f894e7169af2497116e6e-10767708-images-thumbs&n=13" group-title="Познавательные", Первый медицинский канал
 #EXTGRP:Познавательные
 https://rq3qltxnbx1.a.trbcdn.net/livemaster/8hwxnq4s0v_efir0_tcode1080p/playlist.m3u8
@@ -1033,6 +1042,9 @@ http://87.246.54.249:8080/Karusel/mpegts
 #EXTINF:-1 tvg-id="kinomult" tvg-name="Киномульт" tvg-logo="http://epg.one/img/9024.png" group-title="Детские", КиноМульт
 #EXTGRP:Детские
 http://46.53.208.4:80/live/157.m3u8
+#EXTINF:-1 tvg-name="Ключайка" tvg-logo="https://avatars.mds.yandex.net/i?id=0a79d7b82f165a3245db9bb350b81902dafb234c-5214146-images-thumbs&n=13" group-title="Детские", Ключайка
+#EXTGRP:Детские
+https://bl.rutube.ru/livestream/ed497bdb28846536f3928849f8f7e469/index.m3u8?s=XMboX_N1XspO-2OT-qnF3Q&e=2074209252&scheme=https
 #EXTINF:-1 tvg-id="liova" tvg-name="Лёва HD" tvg-logo="http://epg.one/img/7990.png" group-title="Детские", Лёва HD
 #EXTGRP:Детские
 http://46.53.208.4/live/2424.m3u8
@@ -1234,9 +1246,15 @@ https://ucdn.beetv.kz/bpk-tv/000008490/tve/index.m3u8
 #EXTINF:-1 tvg-id="q-kino-hit" tvg-name="Кинодрама KZ" tvg-logo="https://iptvx.one/picons/q-kino-hit.png" group-title="Кино", Кинодрама KZ
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000005449/tve/index.m3u8
+#EXTINF:-1 tvg-name="Киножелезо" tvg-logo="https://avatars.mds.yandex.net/i?id=1ef33650d426407089682099e8bb1486be69400b-5916570-images-thumbs&n=13" group-title="Кино", Киножелезо
+#EXTGRP:Кино
+https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=0jJC8KRAJzL-k6C375NH3g&e=2074209219&scheme=https
 #EXTINF:-1 tvg-id="kinokomedia" tvg-name="Кинокомедия" tvg-logo="http://epg.one/img/821.png" group-title="Кино", КИНОКОМЕДИЯ
 #EXTGRP:Кино
 http://213.230.65.254:8200/play/a02n
+#EXTINF:-1 tvg-name="Кинолаффка" tvg-logo="https://avatars.mds.yandex.net/i?id=1ef33650d426407089682099e8bb1486be69400b-5916570-images-thumbs&n=13" group-title="Кино", Кинолаффка
+#EXTGRP:Кино
+https://bl.rutube.ru/livestream/3b7d1499da9396462bfd17282d758d30/index.m3u8?s=1LbhK_E1BiUoBBs7aq7PHQ&e=2074209219&scheme=https
 #EXTINF:-1 tvg-id="kinomiks" tvg-name="Киномикс" tvg-logo="http://epg.one/img/644.png" group-title="Кино", КИНОМИКС
 #EXTGRP:Кино
 http://93.170.254.17/Kinomiks/index.m3u8
