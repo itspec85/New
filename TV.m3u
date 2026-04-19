@@ -2779,6 +2779,9 @@ http://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/bashkortostan24-hd/index.m3u8
 #EXTINF:-1 tvg-id="belgorod24" tvg-name="Белгород 24" tvg-logo="http://epg.one/img/5831.png" group-title="Региональные РФ", Белгород 24
 #EXTGRP:Региональные РФ
 https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8
+#EXTINF:-1 tvg-id="bijskoetv" tvg-name="Бийское ТВ" tvg-logo="https://epg.iptvx.one/picons/bijskoetv.png" group-title="Региональные РФ", Бийское ТВ
+#EXTGRP:Региональные РФ
+https://bl.rutube.ru/livestream/671239d68ada3000a154a68efa0c7813/index.m3u8?s=ErEfsf_FF5o5ryI5phTkDg&e=2074209248&scheme=https
 #EXTINF:-1 tvg-id="brianskaya-gubernia" tvg-name="Брянская Губерния" tvg-logo="http://epg.one/img/2300.png" group-title="Региональные РФ", Брянская Губерния
 #EXTGRP:Региональные РФ
 https://online.guberniya.tv/hls/gub_3500K/Guberniya_HD_3500K.m3u8
@@ -2809,6 +2812,9 @@ http://live-nntv2.cdnvideo.ru/nntv2/vremyan/playlist.m3u8
 #EXTINF:-1 tvg-id="vostok-24" tvg-name="Восток 24 FHD" tvg-logo="http://epg.one/img/7705.png" group-title="Региональные РФ", Восток 24 FHD
 #EXTGRP:Региональные РФ
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladivostok/vostok24-hd/index.m3u8
+#EXTINF:-1 tvg-id="vsia-ufa" tvg-name="Вся Уфа" tvg-logo="http://epg.one/img/5722.png" group-title="Региональные РФ", Вся Уфа
+#EXTGRP:Региональные РФ
+https://bl.rutube.ru/livestream/5a88a8d75565c5cdebeb11d87bfc61e9/index.m3u8?s=TS4IF3TxJTDKgUAB3eBodg&e=2074209232&scheme=https
 #EXTINF:-1 tvg-id="vtk-argus" tvg-name="ВТК Аргус Воронеж" tvg-logo="https://avatars.mds.yandex.net/i?id=aa97ac8843e5d4a123351649031bccf7_sr-10159322-images-thumbs&n=13" group-title="Региональные РФ", ВТК Аргус Воронеж
 #EXTGRP:Региональные РФ
 http://4kfp3cm483g.a.trbcdn.net/livemaster/753nqiuemp_VTC-41/tracks-v1a1/mono.m3u8
@@ -2845,12 +2851,15 @@ http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 #EXTINF:-1 tvg-name="Жизнь Глазова" tvg-logo="https://avatars.mds.yandex.net/i?id=3caf7d3a015f2ad36df9c341b953b8e174122a8a-9042494-images-thumbs&n=13" group-title="Региональные РФ", Жизнь Глазова
 #EXTGRP:Региональные РФ
 https://yellow.garant.tv/glazov24/stream.m3u8
-#EXTINF:-1 tvg-name="Запад 24 HD" tvg-logo="http://epg.one/img/7703.png" group-title="Региональные РФ", Запад 24 HD
+#EXTINF:-1 tvg-id="zapad-24" tvg-name="Запад 24 HD" tvg-logo="http://epg.one/img/7703.png" group-title="Региональные РФ", Запад 24 HD
 #EXTGRP:Региональные РФ
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-name="Илли ТВ" tvg-logo="https://avatars.mds.yandex.net/i?id=a8367c659ad87549d38828d47773270db6ff84da-5218867-images-thumbs&n=13" group-title="Региональные РФ", Илли ТВ
+#EXTGRP:Региональные РФ
+https://bl.rutube.ru/livestream/eda2da42eea89951e4135141a30915f7/index.m3u8?s=nbZ4ooGORESUVz28fEE4Zg&e=2074209254&scheme=https
 #EXTINF:-1 tvg-id="impuls-sewera" tvg-name="Импульс Севера Новый Уренгой" tvg-logo="https://iptvx.one/picons/impuls-sewera.png" group-title="Региональные РФ", Импульс Севера Новый Уренгой
 #EXTGRP:Региональные РФ
-http://river-1.rutube.ru/stream/genetta-314.m9.rutube.ru/OkSbEaN_rCuhsJqMCNodGg/1775574419/342a3e4f3c9bb0d7830a52af0d956c44/1080p_stream.m3u8
+https://bl.rutube.ru/livestream/342a3e4f3c9bb0d7830a52af0d956c44/index.m3u8?s=VUfJh9EGdTctWVWkVsjykA&e=2074209245&scheme=https
 #EXTINF:-1 tvg-id="rentv-istoki" tvg-name="Истоки Орёл" tvg-logo="http://epg.one/img/6032.png" group-title="Региональные РФ", Истоки Орёл
 #EXTGRP:Региональные РФ
 http://river-1.rutube.ru/stream/genetta-312.m9.rutube.ru/1mc6-H1coWphnXvEo7f8Sw/1775574447/503a8ac5ca6d738f05a147764f70215b/576p_stream.m3u8
@@ -3097,6 +3106,9 @@ http://sok.ath.cx:8080/941f070df772290824bdf3906afc01f9/video.m3u8
 #EXTINF:-1 tvg-id="sochi24" tvg-name="Сочи 24 HD" tvg-logo="https://cdn.epg.one/img/2830.png" group-title="Региональные РФ", Сочи 24 HD
 #EXTGRP:Региональные РФ
 http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="sreda" tvg-name="Среда" tvg-logo="http://epg.one/img/9083.png" group-title="Региональные РФ", Среда HD
+#EXTGRP:Региональные РФ
+https://bl.rutube.ru/livestream/5fa486bf465c8735fff9f41b372610cc/index.m3u8?s=VZ49BrTsHbD13QC7g4WHLA&e=2074209232&scheme=https
 #EXTINF:-1 tvg-name="СТВ Стрежевой" tvg-logo="https://avatars.mds.yandex.net/i?id=113b7551c6dc229fd57e8eca49baf2a9f2d84054-9243502-images-thumbs&n=13" group-title="Региональные РФ", СТВ Стрежевой
 #EXTGRP:Региональные РФ
 http://live.stv-tv.ru/playlist2.m3u8
