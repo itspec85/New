@@ -805,6 +805,9 @@ http://46.53.208.4:80/live/341-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 tvg-id="uspex" tvg-name="Успех" tvg-logo="http://epg.one/img/2455.png" group-title="Познавательные", Успех
 #EXTGRP:Познавательные
 https://flussonic.mkpnet.ru/tv-324fe9acc597fbc1/video.m3u8
+#EXTINF:-1 tvg-name="Царьград" tvg-logo="https://avatars.mds.yandex.net/i?id=6f6be02443ae3b9fdb8c2eed7eac430bda40d4fcd7b53fd8-8496612-images-thumbs&n=13" group-title="Познавательные", Царьград
+#EXTGRP:Познавательные
+https://bl.rutube.ru/livestream/91815da4edb167b5bd617bae490e57da/index.m3u8?s=fXjHoW_OCoImZKbWyv_iwQ&e=2074209247&scheme=https
 #EXTINF:-1 tvg-id="centralnoye-tv" tvg-name="Центральное телевидение" tvg-logo="http://epg.one/img/2400.png" group-title="Познавательные", Центральное телевидение
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000001880/tve/index.m3u8
@@ -2356,6 +2359,9 @@ http://iptv.prosto.tv:7000/ch313/video.m3u8
 #EXTINF:-1 tvg-id="vostok-tv" tvg-name="Восток ТВ" tvg-logo="http://epg.one/img/2353.png" group-title="Музыка", Восток ТВ
 #EXTGRP:Музыка
 http://37.46.49.14:18010/play/a02z/index.m3u8
+#EXTINF:-1 tvg-id="zhar-ptica" tvg-name="Жар Птица" tvg-logo="http://epg.one/img/2415.png" group-title="Музыка", Жар Птица
+#EXTGRP:Музыка
+https://bl.rutube.ru/livestream/c93be53cba8a4ba6ac311b395a00f4d5/index.m3u8?s=h-fppD9WZKbcD0ZIZls2sg&e=2074209252&scheme=https
 #EXTINF:-1 tvg-id="zhara" tvg-name="Жара" tvg-logo="http://epg.one/img/165.png" group-title="Музыка", ЖАРА
 #EXTGRP:Музыка
 http://31.148.48.15:80/Zhara/index.m3u8
