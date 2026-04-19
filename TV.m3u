@@ -3025,6 +3025,9 @@ http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_OTC_ap1f55f482a2df2bede07c661806c
 #EXTINF:-1 tvg-id="panorama-tv-tver" tvg-name="Панорама ТВ FHD Тверь" tvg-logo="http://epg.one/img/6742.png" group-title="Региональные РФ", Панорама ТВ FHD Тверь
 #EXTGRP:Региональные РФ
 http://stream.fastlnk.ru:88/Panorama_TV_HD/index.m3u8
+#EXTINF:-1 tvg-id="pervouralsk-tv" tvg-name="Первоуральск ТВ" tvg-logo="https://avatars.mds.yandex.net/i?id=e1f2bb7085f16888190d9d4d7bd3a9eb_sr-12147736-images-thumbs&n=13" group-title="Региональные РФ", Первоуральск ТВ
+#EXTGRP:Региональные РФ
+https://bl.rutube.ru/livestream/59e0373a9aa587e06aeaf9009f86ded1/index.m3u8?s=pIeforyXT9NjFKUNQyyM6w&e=2074209230&scheme=https
 #EXTINF:-1 tvg-id="pervy-krymsky" tvg-name="Первый Крымский" tvg-logo="https://cdn.epg.one/img/2472.png" group-title="Региональные РФ", Первый Крымский
 #EXTGRP:Региональные РФ
 http://live1.1tvcrimea.ru/1tvcrimea.m3u8
@@ -3082,6 +3085,9 @@ https://bl.rutube.ru/livestream/695f0fdefc96b6f7f2b4a311b71f596b/index.m3u8?s=Hx
 #EXTINF:-1 tvg-id="sampo-tv" tvg-name="Сампо ТВ Петрозаводск" tvg-logo="https://iptvx.one/picons/sampo-tv.png" group-title="Региональные РФ", Сампо ТВ Петрозаводск
 #EXTGRP:Региональные РФ
 http://iptv-hls.karelia.pro/streams/Sampo360/stream.m3u8
+#EXTINF:-1 tvg-name="Сангат" tvg-logo="https://avatars.mds.yandex.net/i?id=36b1964019792eb86208565b3dd1e08d6aae665b-4793215-images-thumbs&n=13" group-title="Региональные РФ", Сангат
+#EXTGRP:Региональные РФ
+https://bl.rutube.ru/livestream/dce1080977de5e89dcbd1dd24d014b4e/index.m3u8?s=uMI6QDBDgvhCyc99_r0Vng&e=2074209229&scheme=https
 #EXTINF:-1 tvg-id="sankt-peterburg" tvg-name="Санкт-Петербург" tvg-logo="http://epg.one/img/690.png" group-title="Региональные РФ", Санкт-Петербург
 #EXTGRP:Региональные РФ
 https://edge-ekat1.teletarget.ru/stream/msk/tvspb/index.m3u8
@@ -3262,6 +3268,9 @@ http://141.101.205.134:8080/hls/tvaist.m3u8
 #EXTINF:-1 tvg-id="utv-kazan" tvg-name="Univer TV HD" tvg-logo="https://cdn.epg.one/img/5600.png" group-title="Региональные РФ", Univer TV HD
 #EXTGRP:Региональные РФ
 https://cdn.universmotri.ru/live/smil:univer.smil/chunklist_w720990141_b3628000_slru.m3u8
+#EXTINF:-1 tvg-id="utv" tvg-name="UTV Уфа" tvg-logo="https://epg.iptvx.one/picons/utv.png" group-title="Региональные РФ", UTV Уфа
+#EXTGRP:Региональные РФ
+https://bl.rutube.ru/livestream/673b559e08f8b99d65a4e8fbbceb911b/index.m3u8?s=a0zvKzcdaubV20o2nQZgTw&e=2074209233&scheme=https
 
 
 
