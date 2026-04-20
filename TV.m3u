@@ -3574,9 +3574,6 @@ http://176.126.166.43:1935/live/312musik/chunklist_w1516016500.m3u8
 #EXTINF:-1 tvg-name="Manas TV KG" tvg-logo="https://avatars.mds.yandex.net/i?id=3c2227606fab637607ef691a6e48cc0a9992a39f-5144307-images-thumbs&n=13" group-title="Киргизия", Manas TV KG
 #EXTGRP:Киргизия
 http://212.42.111.152:8080/hls/manas.m3u8
-#EXTINF:-1 tvg-id="osh-pirim-kg" tvg-name="Ош Пирим [KG]" tvg-logo="https://epg.iptvx.one/picons/osh-pirim-kg.png" group-title="Киргизия", Ош Пирим KG
-#EXTGRP:Киргизия
-http://live.mediabaytv.workers.dev/?ID=697
 #EXTINF:-1 tvg-id="osh-tv-kg" tvg-name="Ош ТВ [KG]" tvg-logo="https://avatars.mds.yandex.net/i?id=2a0000017a010573b03b49a647a063ab2bfc-4256054-images-thumbs&n=13" group-title="Киргизия", Ош ТВ KG
 #EXTGRP:Киргизия
 http://212.42.117.34:8080/hls/OshTV.m3u8
