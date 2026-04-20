@@ -366,9 +366,15 @@ http://81.161.126.82:80/1010/index.m3u8
 #EXTINF:-1 tvg-id="domashny-pl7" tvg-name="Домашний +7" tvg-logo="http://epg.one/img/3012.png" group-title="Россия плюсовые", Домашний +7
 #EXTGRP:Россия плюсовые
 https://plus.free-iptvchannel.workers.dev/channel/9090/1807d3bc/index.m3u8
+#EXTINF:-1 tvg-id="zvezda-pl2" tvg-name="Звезда +2" tvg-logo="http://epg.one/img/2039.png" group-title="Россия плюсовые", Звезда +2
+#EXTGRP:Россия плюсовые
+https://plus.free-iptvchannel.workers.dev/channel/9090/n472715db/index.m3u8
 #EXTINF:-1 tvg-id="zvezda-pl4" tvg-name="Звезда +4" tvg-logo="http://epg.one/img/3035.png" group-title="Россия плюсовые", Звезда +4
 #EXTGRP:Россия плюсовые
 http://81.161.126.82:80/1390/index.m3u8
+#EXTINF:-1 tvg-id="zvezda-pl7" tvg-name="Звезда +7" tvg-logo="http://epg.one/img/3036.png" group-title="Россия плюсовые", Звезда +7
+#EXTGRP:Россия плюсовые
+https://plus.free-iptvchannel.workers.dev/channel/9090/n47271540/index.m3u8
 #EXTINF:-1 tvg-id="mir-pl2" tvg-name="Мир +2" tvg-logo="http://epg.one/img/3019.png" group-title="Россия плюсовые", Мир +2
 #EXTGRP:Россия плюсовые
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/playlist.m3u8
@@ -503,6 +509,15 @@ http://81.161.126.82:80/1230/index.m3u8
 #EXTINF:-1 tvg-id="sts-pl7" tvg-name="СТС +7" tvg-logo="http://epg.one/img/3009.png" group-title="Россия плюсовые", СТС +7
 #EXTGRP:Россия плюсовые
 https://plus.free-iptvchannel.workers.dev/channel/9090/n12cd806f/index.m3u8
+#EXTINF:-1 tvg-id="super" tvg-shift="-2" tvg-name="Суббота +2" tvg-logo="http://epg.one/img/7976.png" group-title="Россия плюсовые", Суббота +2
+#EXTGRP:Россия плюсовые
+https://plus.free-iptvchannel.workers.dev/channel/9090/n60b4aa92/index.m3u8
+#EXTINF:-1 tvg-id="super" tvg-shift="-4" tvg-name="Суббота +4" tvg-logo="http://epg.one/img/7977.png" group-title="Россия плюсовые", Суббота +4
+#EXTGRP:Россия плюсовые
+https://plus.free-iptvchannel.workers.dev/channel/9090/n60b4aa54/index.m3u8
+#EXTINF:-1 tvg-id="super" tvg-shift="-7" tvg-name="Суббота +7" tvg-logo="http://epg.one/img/1103.png" group-title="Россия плюсовые", Суббота +7
+#EXTGRP:Россия плюсовые
+https://plus.free-iptvchannel.workers.dev/channel/9090/n60b4a9f7/index.m3u8
 #EXTINF:-1 tvg-id="tv3-ru-pl2" tvg-name="ТВ3 +2" tvg-logo="http://epg.one/img/3013.png" group-title="Россия плюсовые", ТВ3 +2
 #EXTGRP:Россия плюсовые
 https://plus.free-iptvchannel.workers.dev/channel/9090/5204b6f3/index.m3u8
@@ -524,9 +539,27 @@ http://176.118.197.101/THT/index.m3u8
 #EXTINF:-1 tvg-id="tnt-pl4" tvg-name="ТНТ +4" tvg-logo="http://epg.one/img/3023.png" group-title="Россия плюсовые", ТНТ +4
 #EXTGRP:Россия плюсовые
 http://81.161.126.82:80/1070/index.m3u8
+#EXTINF:-1 tvg-id="tnt-pl7" tvg-name="ТНТ +7" tvg-logo="http://epg.one/img/3024.png" group-title="Россия плюсовые", ТНТ +7
+#EXTGRP:Россия плюсовые
+https://plus.free-iptvchannel.workers.dev/channel/9090/4e495cca/index.m3u8
 #EXTINF:-1 tvg-id="che-pl2" tvg-name="Че +2" tvg-logo="http://epg.one/img/1598.png" group-title="Россия плюсовые", Че +2
 #EXTGRP:Россия плюсовые
 http://176.118.197.101/Che/index.m3u8
+#EXTINF:-1 tvg-id="che-pl4" tvg-name="Че +4" tvg-logo="http://epg.one/img/1598.png" group-title="Россия плюсовые", Че +4
+#EXTGRP:Россия плюсовые
+https://plus.free-iptvchannel.workers.dev/channel/9090/762d7641/index.m3u8
+#EXTINF:-1 tvg-id="che-pl7" tvg-name="Че +7" tvg-logo="http://epg.one/img/1598.png" group-title="Россия плюсовые", Че +7
+#EXTGRP:Россия плюсовые
+https://plus.free-iptvchannel.workers.dev/channel/9090/762d769e/index.m3u8
+#EXTINF:-1 tvg-id="yu-pl2" tvg-name="Ю +2" tvg-logo="http://epg.one/img/898.png" group-title="Россия плюсовые", Ю +2
+#EXTGRP:Россия плюсовые
+https://plus.free-iptvchannel.workers.dev/channel/9090/548e46a8/index.m3u8
+#EXTINF:-1 tvg-id="yu-pl4" tvg-name="Ю +4" tvg-logo="http://epg.one/img/898.png" group-title="Россия плюсовые", Ю +4
+#EXTGRP:Россия плюсовые
+https://plus.free-iptvchannel.workers.dev/channel/9090/548e46e6/index.m3u8
+#EXTINF:-1 tvg-id="yu-pl7" tvg-name="Ю +7" tvg-logo="http://epg.one/img/898.png" group-title="Россия плюсовые", Ю +7
+#EXTGRP:Россия плюсовые
+https://plus.free-iptvchannel.workers.dev/channel/9090/548e4743/index.m3u8
 
 
 
