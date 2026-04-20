@@ -2083,6 +2083,15 @@ http://45.145.32.13:20440/mir_basketbola/index.m3u8?token=test
 #EXTINF:-1 tvg-id="footbolny" tvg-name="Мяч" tvg-logo="http://epg.one/img/4679.png" group-title="Спорт", Мяч HD
 #EXTGRP:Спорт
 http://cdn.kubteltv.workers.dev/?ID=404
+#EXTINF:-1 tvg-id="okko-sport-2" tvg-name="Окко.Прайм Спорт" tvg-logo="https://epg.iptvx.one/picons/okko-sport-2.png" group-title="Спорт", Окко.Прайм Спорт
+#EXTGRP:Спорт
+https://100.free-iptvchannel.workers.dev/okko_praym_sport_hd/index.m3u8
+#EXTINF:-1 tvg-id="okko-sport" tvg-name="Окко.Спорт" tvg-logo="https://epg.iptvx.one/picons/okko-sport.png" group-title="Спорт", Окко.Спорт
+#EXTGRP:Спорт
+https://100.free-iptvchannel.workers.dev/okko_sport_hd/index.m3u8
+#EXTINF:-1 tvg-id="okko-football" tvg-name="Окко.Футбол" tvg-logo="https://epg.iptvx.one/picons/okko-football.png" group-title="Спорт", Окко.Футбол
+#EXTGRP:Спорт
+https://100.free-iptvchannel.workers.dev/okko_futbol_hd/index.m3u8
 #EXTINF:-1 tvg-id="sportivny" tvg-name="ТВ Спорт" tvg-logo="http://epg.one/img/4678.png" group-title="Спорт", ТВ Спорт HD
 #EXTGRP:Спорт
 http://live-3.otcnet.ru/sportivny/index.m3u8
