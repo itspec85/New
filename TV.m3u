@@ -2296,6 +2296,12 @@ https://ucdn.beetv.kz/bpk-tv/000004499/tve/index.m3u8
 #EXTINF:-1 tvg-id="setanta2-ge" tvg-name="Setanta Sports 2 GE" tvg-logo="http://epg.one/img/6805.png" group-title="Спорт", Setanta Sports 2 GE
 #EXTGRP:Спорт
 http://158.101.222.193:88/georgia_play.php?id=setanta_sports_plus_georgia
+#EXTINF:-1 tvg-id="setanta-ua" tvg-name="Setanta Sports Ukraine" tvg-logo="http://epg.one/img/2370.png" group-title="Спорт", Setanta Sports Ukraine HD
+#EXTGRP:Спорт
+https://100.free-iptvchannel.workers.dev/setanta_sports_ukraine_hd/index.m3u8
+#EXTINF:-1 tvg-id="setanta-plus-ua" tvg-name="Setanta Sports+ Ukraine" tvg-logo="http://epg.one/img/6860.png" group-title="Спорт", Setanta Sports+ HD UA
+#EXTGRP:Спорт
+https://100.free-iptvchannel.workers.dev/setanta_sports_plus_ukraine_hd/index.m3u8
 #EXTINF:-1 tvg-id="sky-sports-apl" tvg-name="Sky Sports Premiere League UK" tvg-logo="http://epg.one/img/4569.png" group-title="Спорт", Sky Sports Premiere League UK
 #EXTGRP:Спорт
 http://kstv.us:8080/c2Q2HDqQfM/111770/47871
