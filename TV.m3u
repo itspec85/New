@@ -382,11 +382,10 @@ https://cdn.ntv.ru/ntv1/tracks-v1a1/playlist.m3u8
 http://176.118.197.101/NTV/index.m3u8
 #EXTINF:-1 tvg-id="ntv-pl4" tvg-name="НТВ (+4)" tvg-logo="http://epg.one/img/2964.png" group-title="Россия плюсовые", НТВ +4
 #EXTGRP:Россия плюсовые
-http://81.161.126.82:80/1170/index.m3u8
+https://plus.free-iptvchannel.workers.dev/channel/9091/34151a67/index.m3u8
 #EXTINF:-1 tvg-id="ntv-pl7" tvg-name="НТВ (+7)" tvg-logo="http://epg.one/img/3028.png" group-title="Россия плюсовые", НТВ +7
 #EXTGRP:Россия плюсовые
-#EXTVLCOPT:http-user-agent=ntv
-https://cdn.ntv.ru/ntv7/tracks-v1a1/playlist.m3u8
+https://plus.free-iptvchannel.workers.dev/channel/9091/34151ac4/index.m3u8
 #EXTINF:-1 tvg-id="otr" tvg-shift="-4" tvg-name="ОТР +4" tvg-logo="http://epg.one/img/1000.png" group-title="Россия плюсовые", ОТР +4
 #EXTGRP:Россия плюсовые
 http://81.161.126.82:80/1470/index.m3u8
@@ -404,7 +403,10 @@ https://plus.free-iptvchannel.workers.dev/channel/9091/n57169a0e/index.m3u8
 http://81.161.126.82:80/1610/index.m3u8
 #EXTINF:-1 tvg-id="5kanal-ru-pl4" tvg-name="Пятый канал +4" tvg-logo="http://epg.one/img/3030.png" group-title="Россия плюсовые", Пятый канал +4
 #EXTGRP:Россия плюсовые
-http://81.161.126.82:80/1460/index.m3u8
+https://plus.free-iptvchannel.workers.dev/channel/9090/n57169a4c/index.m3u8
+#EXTINF:-1 tvg-id="5kanal-ru" tvg-shift="-6" tvg-name="Пятый канал +6" tvg-logo="http://epg.one/img/427.png" group-title="Россия плюсовые", Пятый канал +6
+#EXTGRP:Россия плюсовые
+https://plus.free-iptvchannel.workers.dev/channel/9090/n57169a0e/index.m3u8
 #EXTINF:-1 tvg-id="rentv-pl4" tvg-name="Рен ТВ +4" tvg-logo="http://epg.one/img/3033.png" group-title="оссия плюсовые", Рен ТВ +4
 #EXTGRP:Россия плюсовые
 http://81.161.126.82:80/1870/index.m3u8
@@ -435,24 +437,42 @@ http://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-id="rossia1" tvg-shift="-5" tvg-name="Россия 1 +5 HD" tvg-logo="http://epg.one/img/711.png" group-title="Россия плюсовые", Россия 1 +5 HD
 #EXTGRP:Россия плюсовые
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/5/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="rossia1" tvg-shift="-6" tvg-name="Россия 1 +6" tvg-logo="http://epg.one/img/711.png" group-title="Россия плюсовые", Россия 1 +6
+#EXTGRP:Россия плюсовые
+https://plus.free-iptvchannel.workers.dev/channel/9090/1edf04b4/index.m3u8
 #EXTINF:-1 tvg-id="rossia1" tvg-shift="-6" tvg-name="Россия 1 +6 HD" tvg-logo="http://epg.one/img/3002.png" group-title="Россия плюсовые", Россия 1 +6 HD
 #EXTGRP:Россия плюсовые
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/6/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-id="rossia1" tvg-shift="-7" tvg-name="Россия 1 +7 HD" tvg-logo="http://epg.one/img/711.png" group-title="Россия плюсовые", Россия 1 +7 HD
 #EXTGRP:Россия плюсовые
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="rossia1" tvg-shift="-8" tvg-name="Россия 1 +8" tvg-logo="http://epg.one/img/3003.png" group-title="Россия плюсовые", Россия 1 +8
+#EXTGRP:Россия плюсовые
+https://plus.free-iptvchannel.workers.dev/channel/9090/4c6e7a31/index.m3u8
 #EXTINF:-1 tvg-id="rossia1" tvg-shift="-8" tvg-name="Россия 1 +8 HD" tvg-logo="http://epg.one/img/3003.png" group-title="Россия плюсовые", Россия 1 +8 HD
 #EXTGRP:Россия плюсовые
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/8/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="rossia1" tvg-shift="-9" tvg-name="Россия 1 +9" tvg-logo="http://epg.one/img/711.png" group-title="Россия плюсовые", Россия 1 +9
+#EXTGRP:Россия плюсовые
+https://plus.free-iptvchannel.workers.dev/channel/9090/4c6e7a50/index.m3u8
 #EXTINF:-1 tvg-id="rossia1" tvg-shift="-9" tvg-name="Россия 1 +9 HD" tvg-logo="http://epg.one/img/711.png" group-title="Россия плюсовые", Россия 1 +9 HD
 #EXTGRP:Россия плюсовые
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/9/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="kultura" tvg-shift="-2" tvg-name="Россия К +2" tvg-logo="http://epg.one/img/4642.png" group-title="Россия плюсовые", Россия К +2
+#EXTGRP:Россия плюсовые
+https://plus.free-iptvchannel.workers.dev/channel/9090/n34fdf611/index.m3u8
 #EXTINF:-1 tvg-id="kultura" tvg-shift="-2" tvg-name="Россия К +2 HD" tvg-logo="http://epg.one/img/4642.png" group-title="Россия плюсовые", Россия К +2 HD
 #EXTGRP:Россия плюсовые
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/kultura-hd/index.m3u8
+#EXTINF:-1 tvg-id="kultura" tvg-shift="-4" tvg-name="Россия К +4" tvg-logo="http://epg.one/img/1100.png" group-title="Россия плюсовые", Россия К +4
+#EXTGRP:Россия плюсовые
+https://plus.free-iptvchannel.workers.dev/channel/9090/n34fdf5d3/index.m3u8
 #EXTINF:-1 tvg-id="kultura" tvg-shift="-4" tvg-name="Россия К +4 HD" tvg-logo="http://epg.one/img/1100.png" group-title="Россия плюсовые", Россия К +4 HD
 #EXTGRP:Россия плюсовые
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/kultura-hd/index.m3u8
+#EXTINF:-1 tvg-id="kultura" tvg-shift="-7" tvg-name="Россия К +7" tvg-logo="http://epg.one/img/1101.png" group-title="Россия плюсовые", Россия К +7
+#EXTGRP:Россия плюсовые
+https://plus.free-iptvchannel.workers.dev/channel/9090/n34fdf576/index.m3u8
 #EXTINF:-1 tvg-id="kultura" tvg-shift="-7" tvg-name="Россия К +7 HD" tvg-logo="http://epg.one/img/1101.png" group-title="Россия плюсовые", Россия К +7 HD
 #EXTGRP:Россия плюсовые
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/kultura-hd/index.m3u8
