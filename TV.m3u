@@ -381,7 +381,6 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="mir-pl4" tvg-name="Мир +4" tvg-logo="http://epg.one/img/3020.png" group-title="Россия плюсовые", Мир +4
 #EXTGRP:Россия плюсовые
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
-#EXTINF:-1 tvg-id="mir" tvg-shift="-6" tvg-name="Мир +6" tvg-logo="http://epg.one/img/726.png" group-title="Россия плюсовые", Мир +6
 #EXTINF:-1 tvg-id="mir-pl7" tvg-name="Мир +7" tvg-logo="http://epg.one/img/3021.png" group-title="Россия плюсовые", Мир +7
 #EXTGRP:Россия плюсовые
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/playlist.m3u8
@@ -434,7 +433,7 @@ http://193.25.8.59:8000/5
 #EXTINF:-1 tvg-id="rentv-pl2" tvg-name="Рен ТВ +2" tvg-logo="http://epg.one/img/2037.png" group-title="Россия плюсовые", Рен ТВ +2
 #EXTGRP:Россия плюсовые
 https://plus.free-iptvchannel.workers.dev/channel/9090/n632916ea/index.m3u8
-#EXTINF:-1 tvg-id="rentv-pl4" tvg-name="Рен ТВ +4" tvg-logo="http://epg.one/img/3033.png" group-title="оссия плюсовые", Рен ТВ +4
+#EXTINF:-1 tvg-id="rentv-pl4" tvg-name="Рен ТВ +4" tvg-logo="http://epg.one/img/3033.png" group-title="Россия плюсовые", Рен ТВ +4
 #EXTGRP:Россия плюсовые
 http://81.161.126.82:80/1870/index.m3u8
 #EXTINF:-1 tvg-id="rentv-pl7" tvg-name="Рен ТВ +7" tvg-logo="http://epg.one/img/3034.png" group-title="Россия плюсовые", Рен ТВ +7
