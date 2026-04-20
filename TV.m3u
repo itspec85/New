@@ -2278,18 +2278,12 @@ https://ucdn.beetv.kz/bpk-tv/000008786/tve/index.m3u8
 #EXTINF:-1 tvg-id="setanta1-kz" tvg-name="Setanta Sports 1 HD KZ" tvg-logo="http://epg.one/img/7238.png" group-title="Спорт", Setanta Sports 1 HD KZ
 #EXTGRP:Спорт
 https://ucdn.beetv.kz/bpk-tv/000004498/tve/index.m3u8
-#EXTINF:-1 tvg-name="Setanta Sports 1 AZ" tvg-logo="http://epg.one/img/7238.png" group-title="Спорт", Setanta Sports 1 AZ
-#EXTGRP:Спорт
-http://blackaksari54.xyz:8080/RYPGWNCQ/GAS4FWDR/563716
 #EXTINF:-1 tvg-id="setanta1-ge" tvg-name="Setanta Sports 1 GE" tvg-logo="http://epg.one/img/6806.png" group-title="Спорт", Setanta Sports 1 GE
 #EXTGRP:Спорт
 http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
 #EXTINF:-1 tvg-id="setanta2-kz" tvg-name="Setanta Sports 2 HD KZ" tvg-logo="http://epg.one/img/2363.png" group-title="Спорт", Setanta Sports 2 HD KZ
 #EXTGRP:Спорт
 https://ucdn.beetv.kz/bpk-tv/000004499/tve/index.m3u8
-#EXTINF:-1 tvg-name="Setanta Sports 2 AZ" tvg-logo="http://epg.one/img/2363.png" group-title="Спорт", Setanta Sports 2 AZ
-#EXTGRP:Спорт
-http://blackaksari54.xyz:8080/RYPGWNCQ/GAS4FWDR/563715
 #EXTINF:-1 tvg-id="setanta2-ge" tvg-name="Setanta Sports 2 GE" tvg-logo="http://epg.one/img/6805.png" group-title="Спорт", Setanta Sports 2 GE
 #EXTGRP:Спорт
 http://158.101.222.193:88/georgia_play.php?id=setanta_sports_plus_georgia
@@ -3274,9 +3268,6 @@ https://bl.rutube.ru/livestream/673b559e08f8b99d65a4e8fbbceb911b/index.m3u8?s=a0
 
 
 
-#EXTINF:-1 tvg-name="APA TV" tvg-logo="https://avatars.mds.yandex.net/i?id=9cc9a6efa345edaded84fb0fed755013047031df-5221472-images-thumbs&n=13" group-title="Азербайджан", APA TV
-#EXTGRP:Азербайджан
-http://blackaksari54.xyz:8080/RYPGWNCQ/GAS4FWDR/563734
 #EXTINF:-1 tvg-name="ARB 24" tvg-logo="http://epg.one/img/2551.png" group-title="Азербайджан", ARB 24
 #EXTGRP:Азербайджан
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-24.m3u8
@@ -3286,9 +3277,6 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8
 #EXTINF:-1 tvg-id="arb-gunes" tvg-name="ARB Gunes HD" tvg-logo="http://epg.one/img/2552.png" group-title="Азербайджан", ARB Gunes HD
 #EXTGRP:Азербайджан
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8
-#EXTINF:-1 tvg-name="ATV AZ" tvg-logo="https://avatars.mds.yandex.net/i?id=0951c25562181a03d31e9b44d854fb138a4a2001-8539554-images-thumbs&n=13" group-title="Азербайджан", ATV AZ
-#EXTGRP:Азербайджан
-http://live.mediabaytv.workers.dev/?ID=86
 #EXTINF:-1 tvg-name="Ayaz TV" tvg-logo="https://vipotv.com/wp-content/uploads/2024/07/ayaz-tv-izle-vipotv.png" group-title="Азербайджан", Ayaz TV
 #EXTGRP:Азербайджан
 https://janya-ayaztv.vgcdn.net/ptnr-Vipo%20TV/title-Ayaz_TV/v1/vglive-sk-934820/AyazTV_1500k.m3u8
@@ -3307,9 +3295,6 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/cbc.m3u8
 #EXTINF:-1 tvg-name="Dünya TV" tvg-logo="https://i.imgur.com/A3yaU4J.png" group-title="Азербайджан", Dünya TV
 #EXTGRP:Азербайджан
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/dunya-tv.m3u8
-#EXTINF:-1 tvg-name="FTV Azerbaijan" tvg-logo="https://ftv.az/assets/img/logo.png" group-title="Азербайджан", FTV Azerbaijan
-#EXTGRP:Азербайджан
-http://blackaksari54.xyz:8080/RYPGWNCQ/GAS4FWDR/563781
 #EXTINF:-1 tvg-name="GünAz TV" tvg-logo="https://avatars.mds.yandex.net/get-entity_search/2030810/601476929/S104x104FitScale_2x" group-title="Азербайджан", GünAz TV
 #EXTGRP:Азербайджан
 https://tv.gunaz.tv/hls/live.m3u8
