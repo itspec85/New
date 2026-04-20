@@ -3397,6 +3397,9 @@ http://109.68.122.117:8899/bazmoc
 #EXTINF:-1 tvg-name="ATV Cineman" tvg-logo="https://avatars.mds.yandex.net/i?id=20556f25c9b1ceb58cfd3c7482aad9e99cb8f471-5248034-images-thumbs&n=13" group-title="Армения", ATV Cineman
 #EXTGRP:Армения
 http://185.57.68.33:80/255/index.m3u8
+#EXTINF:-1 tvg-name="ATV Hay" tvg-logo="https://avatars.mds.yandex.net/i?id=2a0000017a0b5dd16a0751e923786418508e-4146308-images-thumbs&n=13" group-title="Армения", ATV Hay
+#EXTGRP:Армения
+http://109.68.122.117:8899/hay_tv
 #EXTINF:-1 tvg-name="Dar 21 AM" tvg-logo="http://epg.one/img/2061.png" group-title="Армения", Dar 21 AM
 #EXTGRP:Армения
 https://a3569457567-s70378.cdn.ngenix.net/dar21/1/index.m3u8
