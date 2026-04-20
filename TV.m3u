@@ -1673,9 +1673,21 @@ https://100.free-iptvchannel.workers.dev/russkoe_kino_4k/index.m3u8
 #EXTINF:-1 tvg-id="vhska-serial" tvg-name="VHS-ка Сериал" tvg-logo="https://epg.iptvx.one/picons/vhska-serial.png" group-title="Кино", VHS-ка Сериал
 #EXTGRP:Кино
 https://100.free-iptvchannel.workers.dev/vhs_serial_hd/index.m3u8
+#EXTINF:-1 tvg-id="tv1000-cee" tvg-name="Viasat Kino" tvg-logo="http://epg.one/img/8881.png" group-title="Кино", Viasat Kino HD
+#EXTGRP:Кино
+https://prosto.free-iptvchannel.workers.dev/stream/id104/video.m3u8
+#EXTINF:-1 tvg-id="tv1000-action-cee" tvg-name="Viasat Kino Action" tvg-logo="http://epg.one/img/7944.png" group-title="Кино", Viasat Kino Action HD
+#EXTGRP:Кино
+https://prosto.free-iptvchannel.workers.dev/stream/id105/video.m3u8
 #EXTINF:-1 tvg-id="vip-comedy-cee" tvg-name="Viasat Kino Comedy" tvg-logo="http://epg.one/img/8880.png" group-title="Кино", Viasat Kino Comedy HD
 #EXTGRP:Кино
 http://ukr2.ukrainske.tv/493/video.m3u8
+#EXTINF:-1 tvg-id="tv1000-worldkino" tvg-name="Viasat Kino World" tvg-logo="http://epg.one/img/8883.png" group-title="Кино", Viasat Kino World HD
+#EXTGRP:Кино
+https://prosto.free-iptvchannel.workers.dev/stream/id103/video.m3u8
+#EXTINF:-1 tvg-id="viasat-serial" tvg-name="Viasat Serial" tvg-logo="http://epg.one/img/9067.png" group-title="Кино", Viasat Serial HD
+#EXTGRP:Кино
+https://prosto.free-iptvchannel.workers.dev/stream/id599/video.m3u8
 #EXTINF:-1 tvg-id="tv1000" tvg-name="Viju TV1000" tvg-logo="http://epg.one/img/127.png" group-title="Кино", Viju TV1000
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000003747/tve/index.m3u8
