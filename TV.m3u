@@ -862,7 +862,7 @@ https://stream.smotrim.ru/hls/fasttv05/playlist_3.m3u8
 http://hls127.freeott.top:8080/Sovershenno_Sekretno/mono.m3u8
 #EXTINF:-1 tvg-id="solovjinypomiot" tvg-name="Соловьев.Live" tvg-logo="http://epg.one/img/13.png" group-title="Познавательные", Соловьев.Live
 #EXTGRP:Познавательные
-http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1.m3u8
+https://stream.smotrim.ru/hls/solovievlive/playlist_6.m3u8
 #EXTINF:-1 tvg-id="soyuz" tvg-name="Союз" tvg-logo="http://epg.one/img/2448.png" group-title="Познавательные", Союз
 #EXTGRP:Познавательные
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
@@ -3034,7 +3034,7 @@ http://streaming.astrakhan.ru/telplushd/tracks-v1a1/mono.ts.m3u8
 http://bsttv.bonus-tv.ru/cdn/kurai/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="lot-47" tvg-name="Лен ТВ 24 FHD" tvg-logo="http://epg.one/img/7701.png" group-title="Региональные РФ", Лен ТВ 24 FHD
 #EXTGRP:Региональные РФ
-http://river-1.rutube.ru/stream/genetta-318.m9.rutube.ru/UKDr4_k6i6k-nwrIvbVTzg/1776699163/dd022de9cc6c8af89409513fa0a6117a/1080p_stream.m3u8
+https://bl.rutube.ru/livestream/dd022de9cc6c8af89409513fa0a6117a/index.m3u8?s=z9EtqQs00CKeoPyDOirgoQ&e=2076711430&scheme=https
 #EXTINF:-1 tvg-id="lipeck24" tvg-name="Липецк 24" tvg-logo="https://iptvx.one/picons/lipeck24.png" group-title="Региональные РФ", Липецк 24
 #EXTGRP:Региональные РФ
 https://bl.rutube.ru/livestream/b04fc212802bbf7ec94768c029e54aa9/index.m3u8?s=dN0rc0Qf3vACjL-qblyo6A&e=2074209234&scheme=https
