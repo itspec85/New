@@ -525,7 +525,7 @@ https://plus.free-iptvchannel.workers.dev/channel/9090/n60b4aa54/index.m3u8
 https://plus.free-iptvchannel.workers.dev/channel/9090/n60b4a9f7/index.m3u8
 #EXTINF:-1 tvg-id="tv3-ru-pl2" tvg-name="ТВ3 +2" tvg-logo="http://epg.one/img/3013.png" group-title="Россия плюсовые", ТВ3 +2
 #EXTGRP:Россия плюсовые
-https://plus.free-iptvchannel.workers.dev/channel/9090/5204b6f3/index.m3u8
+http://176.118.197.101/TB3/index.m3u8
 #EXTINF:-1 tvg-id="tv3-ru-pl4" tvg-name="ТВ3 +4" tvg-logo="http://epg.one/img/3014.png" group-title="Россия плюсовые", ТВ3 +4
 #EXTGRP:Россия плюсовые
 http://95.47.155.244:8001/play/a015
