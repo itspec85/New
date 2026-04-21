@@ -8,7 +8,7 @@ https://ucdn.beetv.kz/bpk-tv/000000950/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000005177/tve/index.m3u8
 #EXTINF:-1 tvg-id="31-kanal-kz" tvg-name="31 канал KZ" tvg-logo="http://epg.one/img/2639.png" group-title="Казахстан", 31 канал KZ
 #EXTGRP:Казахстан
-https://streams.adapto.kz/hls/live/31kz/main_stream.m3u8
+https://ucdn.beetv.kz/bpk-tv/000000663/tve/index.m3u8
 #EXTINF:-1 tvg-id="77tv-kz" tvg-name="77 TV" tvg-logo="https://iptvx.one/picons/77tv-kz.png" group-title="Казахстан", 77 TV
 #EXTGRP:Казахстан
 https://ucdn.beetv.kz/bpk-tv/000002851/tve/index.m3u8
@@ -161,7 +161,7 @@ https://ucdn.beetv.kz/bpk-tv/000003604/tve/index.m3u8
 https://592f1881b3d5f.streamlock.net:1443/santraltv_742/santraltv_742/chunklist_w2070697692.m3u8
 #EXTINF:-1 tvg-id="xabar" tvg-name="Хабар KZ" tvg-logo="http://epg.one/img/2576.png" group-title="Казахстан", Хабар KZ
 #EXTGRP:Казахстан
-https://livekhabar-srt.cdnvideo.ru/khabarsrt/khabarsrt/tracks-v1a1/mono.m3u8
+https://ucdn.beetv.kz/bpk-tv/000004211/tve/index.m3u8
 #EXTINF:-1 tvg-id="hit-tv" tvg-name="Hit TV KZ" tvg-logo="https://avatars.mds.yandex.net/i?id=63987aa3ae765cb7928145eb56a43371b08e982f3b880f20-12646988-images-thumbs&n=13" group-title="Казахстан", Hit TV KZ
 #EXTGRP:Казахстан
 https://ucdn.beetv.kz/bpk-tv/000001213/tve/index.m3u8
