@@ -1296,9 +1296,6 @@ https://a3569457567-s70378.cdn.ngenix.net/tiji/2/index.m3u8
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
 https://mhd128.iptv2022.com/p/mp3xeem_In-RswRxNel8Cg,1776797759/streaming/blokbaster/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-id="blokbaster-hd" tvg-name="Блокбастер HD" tvg-logo="http://epg.one/img/2832.png" group-title="Кино", Блокбастер HD
-#EXTGRP:Кино
-http://cdn.kubteltv.workers.dev/?ID=219
 #EXTINF:-1 tvg-name="Видеокассета TV" tvg-logo="https://avatars.mds.yandex.net/i?id=aa54d677b7da13a106d22ee95411b140d0009712-15274206-images-thumbs&n=13" group-title="Кино", Видеокассета TV
 #EXTGRP:Кино
 https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/playlist.m3u8
