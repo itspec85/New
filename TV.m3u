@@ -212,7 +212,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 http://37.46.49.14:18010/play/a024/index.m3u8
 #EXTINF:-1 tvg-id="ntv" tvg-name="НТВ HD" tvg-logo="http://epg.one/img/2001.png" group-title="Россия", НТВ HD
 #EXTGRP:Россия
-http://river-1.rutube.ru/stream/genetta-315.m9.rutube.ru/2svjARS2byq7uMOQ-X0EIg/1776698889/c37cd74192c6bc3d6cd6077c0c4fd686/1080p_stream.m3u8
+http://s1.merlive.am/ntvhd/index.m3u8
 #EXTINF:-1 tvg-id="ntv-mir" tvg-name="НТВ Мир" tvg-logo="http://epg.one/img/7258.png" group-title="Россия", НТВ Мир
 #EXTGRP:Россия
 http://tchaikovsky.af-stream.com:8080/s/agvha3rn/ntv-mir/video.m3u8
@@ -332,7 +332,7 @@ https://ucdn.beetv.kz/bpk-tv/000000112/tve/index.m3u8
 http://31.131.141.195:8000/play/2090/index.m3u8
 #EXTINF:-1 tvg-id="tnt" tvg-name="ТНТ HD" tvg-logo="http://epg.one/img/1767.png" group-title="Россия", ТНТ HD
 #EXTGRP:Россия
-http://river-1.rutube.ru/stream/genetta-419.ntv.rutube.ru/QzpUoVD5xKzlnKIB4v7LzA/1776698908/e90ba242c98400b075835c3c3eec999a/1080p_stream.m3u8
+http://s1.merlive.am/tnthd/index.m3u8
 #EXTINF:-1 tvg-id="tnt-int-eu" tvg-name="ТНТ-International (Европа)" tvg-logo="http://epg.one/img/5692.png" group-title="Россия", ТНТ-International (Европа)
 #EXTGRP:Россия
 http://46.53.208.4/live/5120.m3u8
