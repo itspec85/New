@@ -357,18 +357,12 @@ https://flussonic.mkpnet.ru/tv-3b21847ece4b1c19/video.m3u8
 
 
 
-#EXTINF:-1 tvg-id="domashny-pl2" tvg-name="Домашний +2" tvg-logo="http://epg.one/img/3010.png" group-title="Россия плюсовые", Домашний +2
-#EXTGRP:Россия плюсовые
-https://plus.free-iptvchannel.workers.dev/channel/9090/1807d3b7/index.m3u8
 #EXTINF:-1 tvg-id="domashny-pl4" tvg-name="Домашний +4" tvg-logo="http://epg.one/img/3011.png" group-title="Россия плюсовые", Домашний +4
 #EXTGRP:Россия плюсовые
 http://95.47.155.244:8001/play/a014
 #EXTINF:-1 tvg-id="domashny-pl7" tvg-name="Домашний +7" tvg-logo="http://epg.one/img/3012.png" group-title="Россия плюсовые", Домашний +7
 #EXTGRP:Россия плюсовые
 http://193.25.8.59:8000/dom
-#EXTINF:-1 tvg-id="zvezda-pl2" tvg-name="Звезда +2" tvg-logo="http://epg.one/img/2039.png" group-title="Россия плюсовые", Звезда +2
-#EXTGRP:Россия плюсовые
-https://plus.free-iptvchannel.workers.dev/channel/9090/n472715db/index.m3u8
 #EXTINF:-1 tvg-id="zvezda-pl4" tvg-name="Звезда +4" tvg-logo="http://epg.one/img/3035.png" group-title="Россия плюсовые", Звезда +4
 #EXTGRP:Россия плюсовые
 http://95.47.155.244:8001/play/a017
@@ -396,25 +390,17 @@ http://176.118.197.101/NTV/index.m3u8
 http://95.47.155.244:8001/play/a004
 #EXTINF:-1 tvg-id="ntv-pl7" tvg-name="НТВ (+7)" tvg-logo="http://epg.one/img/3028.png" group-title="Россия плюсовые", НТВ +7
 #EXTGRP:Россия плюсовые
-https://plus.free-iptvchannel.workers.dev/channel/9091/34151ac4/index.m3u8
+#EXTVLCOPT:http-user-agent=ntv
+http://cdn2.ntv.ru/ntv7/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="otr" tvg-shift="-4" tvg-name="ОТР +4" tvg-logo="http://epg.one/img/1000.png" group-title="Россия плюсовые", ОТР +4
 #EXTGRP:Россия плюсовые
 http://95.47.155.244:8001/play/a009
 #EXTINF:-1 tvg-id="otr" tvg-shift="-7" tvg-name="ОТР +7" tvg-logo="http://epg.one/img/1000.png" group-title="Россия плюсовые", ОТР +7
 #EXTGRP:Россия плюсовые
 http://193.25.8.59:8000/otr
-#EXTINF:-1 tvg-id="pervy-pl2" tvg-name="Первый канал +2" tvg-logo="http://epg.one/img/2034.png" group-title="Россия плюсовые", Первый канал +2
-#EXTGRP:Россия плюсовые
-https://plus.free-iptvchannel.workers.dev/channel/9091/769dda33/index.m3u8
 #EXTINF:-1 tvg-id="pervy-pl4" tvg-name="Первый канал +4" tvg-logo="http://epg.one/img/3025.png" group-title="Россия плюсовые", Первый канал +4
 #EXTGRP:Россия плюсовые
 http://95.47.155.244:8001/play/a001
-#EXTINF:-1 tvg-id="pervy-pl6" tvg-name="Первый канал +6" tvg-logo="http://epg.one/img/20.png" group-title="Россия плюсовые", Первый канал +6
-#EXTGRP:Россия плюсовые
-https://plus.free-iptvchannel.workers.dev/channel/9091/n57169a0e/index.m3u8
-#EXTINF:-1 tvg-id="piatnica-pl2" tvg-name="Пятница +2" tvg-logo="http://epg.one/img/3016.png" group-title="Россия плюсовые", Пятница +2
-#EXTGRP:Россия плюсовые
-https://plus.free-iptvchannel.workers.dev/channel/9090/n64007e6c/index.m3u8
 #EXTINF:-1 tvg-id="piatnica-pl4" tvg-name="Пятница +4" tvg-logo="http://epg.one/img/3017.png" group-title="Россия плюсовые", Пятница +4
 #EXTGRP:Россия плюсовые
 http://95.47.155.244:8001/play/a016
@@ -424,24 +410,15 @@ http://193.25.8.59:8000/pyatnitsa
 #EXTINF:-1 tvg-id="5kanal-ru-pl4" tvg-name="Пятый канал +4" tvg-logo="http://epg.one/img/3030.png" group-title="Россия плюсовые", Пятый канал +4
 #EXTGRP:Россия плюсовые
 http://95.47.155.244:8001/play/a005
-#EXTINF:-1 tvg-id="5kanal-ru" tvg-shift="-6" tvg-name="Пятый канал +6" tvg-logo="http://epg.one/img/427.png" group-title="Россия плюсовые", Пятый канал +6
-#EXTGRP:Россия плюсовые
-https://plus.free-iptvchannel.workers.dev/channel/9090/n57169a0e/index.m3u8
 #EXTINF:-1 tvg-id="5kanal-ru-pl7" tvg-name="Пятый канал +7" tvg-logo="http://epg.one/img/3031.png" group-title="Россия плюсовые", Пятый канал +7
 #EXTGRP:Россия плюсовые
 http://193.25.8.59:8000/5
-#EXTINF:-1 tvg-id="rentv-pl2" tvg-name="Рен ТВ +2" tvg-logo="http://epg.one/img/2037.png" group-title="Россия плюсовые", Рен ТВ +2
-#EXTGRP:Россия плюсовые
-https://plus.free-iptvchannel.workers.dev/channel/9090/n632916ea/index.m3u8
 #EXTINF:-1 tvg-id="rentv-pl4" tvg-name="Рен ТВ +4" tvg-logo="http://epg.one/img/3033.png" group-title="Россия плюсовые", Рен ТВ +4
 #EXTGRP:Россия плюсовые
 http://95.47.155.244:8001/play/a011
 #EXTINF:-1 tvg-id="rentv-pl7" tvg-name="Рен ТВ +7" tvg-logo="http://epg.one/img/3034.png" group-title="Россия плюсовые", Рен ТВ +7
 #EXTGRP:Россия плюсовые
 http://193.25.8.59:8000/ren
-#EXTINF:-1 tvg-id="rossia1" tvg-shift="-1" tvg-name="Россия 1 +1" tvg-logo="http://epg.one/img/711.png" group-title="Россия плюсовые", Россия 1 +1
-#EXTGRP:Россия плюсовые
-https://plus.free-iptvchannel.workers.dev/channel/9091/n5d4bb32d/index.m3u8
 #EXTINF:-1 tvg-id="rossia1" tvg-shift="-1" tvg-name="Россия 1 +1 HD" tvg-logo="http://epg.one/img/711.png" group-title="Россия плюсовые", Россия 1 +1 HD
 #EXTGRP:Россия плюсовые
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/1/russia1-hd/index.m3u8
@@ -451,9 +428,6 @@ http://s1.merlive.am/Rossia1/index.m3u8
 #EXTINF:-1 tvg-id="rossia1" tvg-shift="-2" tvg-name="Россия 1 +2 HD" tvg-logo="http://epg.one/img/3000.png" group-title="Россия плюсовые", Россия 1 +2 HD
 #EXTGRP:Россия плюсовые
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/russia1-hd/index.m3u8
-#EXTINF:-1 tvg-id="rossia1" tvg-shift="-3" tvg-name="Россия 1 +3" tvg-logo="http://epg.one/img/711.png" group-title="Россия плюсовые", Россия 1 +3
-#EXTGRP:Россия плюсовые
-https://plus.free-iptvchannel.workers.dev/channel/9090/6226106/index.m3u8
 #EXTINF:-1 tvg-id="rossia1" tvg-shift="-3" tvg-name="Россия 1 +3 HD" tvg-logo="http://epg.one/img/711.png" group-title="Россия плюсовые", Россия 1 +3 HD
 #EXTGRP:Россия плюсовые
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/3/russia1-hd/index.m3u8
@@ -466,24 +440,15 @@ http://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-id="rossia1" tvg-shift="-5" tvg-name="Россия 1 +5 HD" tvg-logo="http://epg.one/img/711.png" group-title="Россия плюсовые", Россия 1 +5 HD
 #EXTGRP:Россия плюсовые
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/5/russia1-hd/index.m3u8
-#EXTINF:-1 tvg-id="rossia1" tvg-shift="-6" tvg-name="Россия 1 +6" tvg-logo="http://epg.one/img/711.png" group-title="Россия плюсовые", Россия 1 +6
-#EXTGRP:Россия плюсовые
-https://plus.free-iptvchannel.workers.dev/channel/9090/1edf04b4/index.m3u8
 #EXTINF:-1 tvg-id="rossia1" tvg-shift="-6" tvg-name="Россия 1 +6 HD" tvg-logo="http://epg.one/img/3002.png" group-title="Россия плюсовые", Россия 1 +6 HD
 #EXTGRP:Россия плюсовые
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/6/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-id="rossia1" tvg-shift="-7" tvg-name="Россия 1 +7 HD" tvg-logo="http://epg.one/img/711.png" group-title="Россия плюсовые", Россия 1 +7 HD
 #EXTGRP:Россия плюсовые
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/russia1-hd/index.m3u8
-#EXTINF:-1 tvg-id="rossia1" tvg-shift="-8" tvg-name="Россия 1 +8" tvg-logo="http://epg.one/img/3003.png" group-title="Россия плюсовые", Россия 1 +8
-#EXTGRP:Россия плюсовые
-https://plus.free-iptvchannel.workers.dev/channel/9090/4c6e7a31/index.m3u8
 #EXTINF:-1 tvg-id="rossia1" tvg-shift="-8" tvg-name="Россия 1 +8 HD" tvg-logo="http://epg.one/img/3003.png" group-title="Россия плюсовые", Россия 1 +8 HD
 #EXTGRP:Россия плюсовые
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/8/russia1-hd/index.m3u8
-#EXTINF:-1 tvg-id="rossia1" tvg-shift="-9" tvg-name="Россия 1 +9" tvg-logo="http://epg.one/img/711.png" group-title="Россия плюсовые", Россия 1 +9
-#EXTGRP:Россия плюсовые
-https://plus.free-iptvchannel.workers.dev/channel/9090/4c6e7a50/index.m3u8
 #EXTINF:-1 tvg-id="rossia1" tvg-shift="-9" tvg-name="Россия 1 +9 HD" tvg-logo="http://epg.one/img/711.png" group-title="Россия плюсовые", Россия 1 +9 HD
 #EXTGRP:Россия плюсовые
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/9/russia1-hd/index.m3u8
@@ -511,18 +476,6 @@ http://176.118.197.101/CTC/index.m3u8
 #EXTINF:-1 tvg-id="sts-pl4" tvg-name="СТС +4" tvg-logo="http://epg.one/img/3008.png" group-title="Россия плюсовые", СТС +4
 #EXTGRP:Россия плюсовые
 http://95.47.155.244:8001/play/a013
-#EXTINF:-1 tvg-id="sts-pl7" tvg-name="СТС +7" tvg-logo="http://epg.one/img/3009.png" group-title="Россия плюсовые", СТС +7
-#EXTGRP:Россия плюсовые
-https://plus.free-iptvchannel.workers.dev/channel/9090/n12cd806f/index.m3u8
-#EXTINF:-1 tvg-id="super" tvg-shift="-2" tvg-name="Суббота +2" tvg-logo="http://epg.one/img/7976.png" group-title="Россия плюсовые", Суббота +2
-#EXTGRP:Россия плюсовые
-https://plus.free-iptvchannel.workers.dev/channel/9090/n60b4aa92/index.m3u8
-#EXTINF:-1 tvg-id="super" tvg-shift="-4" tvg-name="Суббота +4" tvg-logo="http://epg.one/img/7977.png" group-title="Россия плюсовые", Суббота +4
-#EXTGRP:Россия плюсовые
-https://plus.free-iptvchannel.workers.dev/channel/9090/n60b4aa54/index.m3u8
-#EXTINF:-1 tvg-id="super" tvg-shift="-7" tvg-name="Суббота +7" tvg-logo="http://epg.one/img/1103.png" group-title="Россия плюсовые", Суббота +7
-#EXTGRP:Россия плюсовые
-https://plus.free-iptvchannel.workers.dev/channel/9090/n60b4a9f7/index.m3u8
 #EXTINF:-1 tvg-id="tv3-ru-pl2" tvg-name="ТВ3 +2" tvg-logo="http://epg.one/img/3013.png" group-title="Россия плюсовые", ТВ3 +2
 #EXTGRP:Россия плюсовые
 http://176.118.197.101/TB3/index.m3u8
@@ -544,27 +497,15 @@ http://176.118.197.101/THT/index.m3u8
 #EXTINF:-1 tvg-id="tnt-pl4" tvg-name="ТНТ +4" tvg-logo="http://epg.one/img/3023.png" group-title="Россия плюсовые", ТНТ +4
 #EXTGRP:Россия плюсовые
 http://95.47.155.244:8001/play/a019
-#EXTINF:-1 tvg-id="tnt-pl7" tvg-name="ТНТ +7" tvg-logo="http://epg.one/img/3024.png" group-title="Россия плюсовые", ТНТ +7
-#EXTGRP:Россия плюсовые
-https://plus.free-iptvchannel.workers.dev/channel/9090/4e495cca/index.m3u8
 #EXTINF:-1 tvg-id="tnt4-pl7" tvg-name="ТНТ4 +7" tvg-logo="http://epg.one/img/1104.png" group-title="Россия плюсовые", ТНТ4 +7
 #EXTGRP:Россия плюсовые
 http://193.25.8.59:8000/tntcomedy
 #EXTINF:-1 tvg-id="che-pl2" tvg-name="Че +2" tvg-logo="http://epg.one/img/1598.png" group-title="Россия плюсовые", Че +2
 #EXTGRP:Россия плюсовые
 http://176.118.197.101/Che/index.m3u8
-#EXTINF:-1 tvg-id="che-pl4" tvg-name="Че +4" tvg-logo="http://epg.one/img/1598.png" group-title="Россия плюсовые", Че +4
-#EXTGRP:Россия плюсовые
-https://plus.free-iptvchannel.workers.dev/channel/9090/762d7641/index.m3u8
 #EXTINF:-1 tvg-id="che-pl7" tvg-name="Че +7" tvg-logo="http://epg.one/img/1598.png" group-title="Россия плюсовые", Че +7
 #EXTGRP:Россия плюсовые
 http://193.25.8.59:8000/perec
-#EXTINF:-1 tvg-id="yu-pl2" tvg-name="Ю +2" tvg-logo="http://epg.one/img/898.png" group-title="Россия плюсовые", Ю +2
-#EXTGRP:Россия плюсовые
-https://plus.free-iptvchannel.workers.dev/channel/9090/548e46a8/index.m3u8
-#EXTINF:-1 tvg-id="yu-pl4" tvg-name="Ю +4" tvg-logo="http://epg.one/img/898.png" group-title="Россия плюсовые", Ю +4
-#EXTGRP:Россия плюсовые
-https://plus.free-iptvchannel.workers.dev/channel/9090/548e46e6/index.m3u8
 #EXTINF:-1 tvg-id="yu-pl7" tvg-name="Ю +7" tvg-logo="http://epg.one/img/898.png" group-title="Россия плюсовые", Ю +7
 #EXTGRP:Россия плюсовые
 http://193.25.8.59:8000/u
@@ -1220,21 +1161,9 @@ http://89.218.32.179:18000/play/a028
 #EXTINF:-1 tvg-id="balapan" tvg-name="Balapan" tvg-logo="https://epg.iptvx.one/picons/balapan.png" group-title="Детские", Balapan
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000005178/tve/index.m3u8
-#EXTINF:-1 tvg-id="bcu-kids" tvg-name="BCU Kids HD" tvg-logo="http://epg.one/img/4756.png" group-title="Детские", BCU Kids HD
-#EXTGRP:Детские
-https://100.free-iptvchannel.workers.dev/BCU_Kids_HD/index.m3u8
-#EXTINF:-1 tvg-id="bcu-kids-plus" tvg-name="BCU Kids+ HD" tvg-logo="http://epg.one/img/4757.png" group-title="Детские", BCU Kids+ HD
-#EXTGRP:Детские
-https://100.free-iptvchannel.workers.dev/BCU_Kids_Plus_HD/index.m3u8
-#EXTINF:-1 tvg-id="bcu-multserial" tvg-name="BCU Multserial HD" tvg-logo="http://epg.one/img/4746.png" group-title="Детские", BCU Multserial HD
-#EXTGRP:Детские
-https://100.free-iptvchannel.workers.dev/BCU_Multserial_HD/index.m3u8
 #EXTINF:-1 tvg-id="box-anime" tvg-name="BOX Anime HD" tvg-logo="http://epg.one/img/6698.png" group-title="Детские", BOX Anime HD
 #EXTGRP:Детские
-https://100.free-iptvchannel.workers.dev/BOX_Anime_HD/index.m3u8
-#EXTINF:-1 tvg-id="box-m-serial" tvg-name="BOX M.Serial HD" tvg-logo="http://epg.one/img/6702.png" group-title="Детские", BOX M.Serial HD
-#EXTGRP:Детские
-https://100.free-iptvchannel.workers.dev/BOX_MSerial_HD/index.m3u8
+http://hls127.freeott.top:8080/box_anime_hd/video.m3u8
 #EXTINF:-1 tvg-id="cartoon-classics" tvg-name="Cartoon Classics" tvg-logo="http://epg.one/img/9183.png" group-title="Детские", Cartoon Classics
 #EXTGRP:Детские
 http://5.188.159.128:8070/Cartoon_Network/index.m3u8
@@ -1345,7 +1274,7 @@ http://46.53.208.4/live/1812.m3u8
 https://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 tvg-id="kino-i-zhizn" tvg-name="Кино и Жизнь" tvg-logo="https://epg.iptvx.one/picons/kino-i-zhizn.png" group-title="Кино", Кино и Жизнь
 #EXTGRP:Кино
-https://100.free-iptvchannel.workers.dev/kino_i_zhizn_hd/index.m3u8
+https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=rguudX-088KMchE_oKxn4g&e=2074209221&scheme=https
 #EXTINF:-1 tvg-id="kino-tv" tvg-name="Кино ТВ" tvg-logo="http://epg.one/img/1037.png" group-title="Кино", КИНО ТВ
 #EXTGRP:Кино
 http://185.46.16.239:8000/Kino_TV
@@ -1672,27 +1601,9 @@ http://hls127.freeott.top:8080/PG_VHS_HD/manifest.m3u8
 #EXTINF:-1 tvg-id="vhs-ka" tvg-name="VHS-ка HD" tvg-logo="http://epg.one/img/9065.png" group-title="Кино", VHS-ка HD
 #EXTGRP:Кино
 http://46.53.208.4:80/live/1123.m3u8
-#EXTINF:-1 tvg-id="4k-ruskino" tvg-name="VHS-ка Русское кино HD" tvg-logo="https://epg.iptvx.one/picons/4k-ruskino.png" group-title="Кино", VHS-ка Русское кино HD
-#EXTGRP:Кино
-https://100.free-iptvchannel.workers.dev/russkoe_kino_4k/index.m3u8
-#EXTINF:-1 tvg-id="vhska-serial" tvg-name="VHS-ка Сериал" tvg-logo="https://epg.iptvx.one/picons/vhska-serial.png" group-title="Кино", VHS-ка Сериал
-#EXTGRP:Кино
-https://100.free-iptvchannel.workers.dev/vhs_serial_hd/index.m3u8
-#EXTINF:-1 tvg-id="tv1000-cee" tvg-name="Viasat Kino" tvg-logo="http://epg.one/img/8881.png" group-title="Кино", Viasat Kino HD
-#EXTGRP:Кино
-https://prosto.free-iptvchannel.workers.dev/stream/id104/video.m3u8
-#EXTINF:-1 tvg-id="tv1000-action-cee" tvg-name="Viasat Kino Action" tvg-logo="http://epg.one/img/7944.png" group-title="Кино", Viasat Kino Action HD
-#EXTGRP:Кино
-https://prosto.free-iptvchannel.workers.dev/stream/id105/video.m3u8
 #EXTINF:-1 tvg-id="vip-comedy-cee" tvg-name="Viasat Kino Comedy" tvg-logo="http://epg.one/img/8880.png" group-title="Кино", Viasat Kino Comedy HD
 #EXTGRP:Кино
 http://ukr2.ukrainske.tv/493/video.m3u8
-#EXTINF:-1 tvg-id="tv1000-worldkino" tvg-name="Viasat Kino World" tvg-logo="http://epg.one/img/8883.png" group-title="Кино", Viasat Kino World HD
-#EXTGRP:Кино
-https://prosto.free-iptvchannel.workers.dev/stream/id103/video.m3u8
-#EXTINF:-1 tvg-id="viasat-serial" tvg-name="Viasat Serial" tvg-logo="http://epg.one/img/9067.png" group-title="Кино", Viasat Serial HD
-#EXTGRP:Кино
-https://prosto.free-iptvchannel.workers.dev/stream/id599/video.m3u8
 #EXTINF:-1 tvg-id="tv1000" tvg-name="Viju TV1000" tvg-logo="http://epg.one/img/127.png" group-title="Кино", Viju TV1000
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000003747/tve/index.m3u8
@@ -1939,123 +1850,12 @@ http://kinowalk.hopto.org/wfliq_live
 #EXTINF:-1 tvg-name="Стримканал. ZubrilomFilm" tvg-logo="https://images.live.vkvideo.ru/user/18824582/avatar?change_time=1714643599&croped=1&mh=140&mw=140" group-title="Кинозал", Стримканал. ZubrilomFilm
 #EXTGRP:Кинозал
 http://kinowalk.hopto.org/zubrilomfilm_live
-#EXTINF:-1 tvg-id="bcu-kinozal-prem-1" tvg-name="BCU Кинозал Premiere 1 HD" tvg-logo="http://epg.one/img/4736.png" group-title="Кинозал", BCU Кинозал Premiere 1 HD
-#EXTGRP:Кинозал
-https://100.free-iptvchannel.workers.dev/BCU_Kinozal_Premiere_1_HD/index.m3u8
-#EXTINF:-1 tvg-id="bcu-kinozal-prem-2" tvg-name="BCU Кинозал Premiere 2 HD" tvg-logo="http://epg.one/img/4737.png" group-title="Кинозал", BCU Кинозал Premiere 2 HD
-#EXTGRP:Кинозал
-https://100.free-iptvchannel.workers.dev/BCU_Kinozal_Premiere_2_HD/index.m3u8
-#EXTINF:-1 tvg-id="bcu-kinozal-prem-3" tvg-name="BCU Кинозал Premiere 3 HD" tvg-logo="http://epg.one/img/4738.png" group-title="Кинозал", BCU Кинозал Premiere 3 HD
-#EXTGRP:Кинозал
-https://100.free-iptvchannel.workers.dev/BCU_Kinozal_Premiere_3_HD/index.m3u8
-#EXTINF:-1 tvg-id="bcu-svaty" tvg-name="BCU Сваты HD" tvg-logo="http://epg.one/img/4738.png" group-title="Кинозал", BCU Сваты HD
-#EXTGRP:Кинозал
-https://100.free-iptvchannel.workers.dev/BCU_Svaty_HD/index.m3u8
-#EXTINF:-1 tvg-id="bcu-sssr" tvg-name="BCU СССР HD" tvg-logo="http://epg.one/img/4738.png" group-title="Кинозал", BCU СССР HD
-#EXTGRP:Кинозал
-https://100.free-iptvchannel.workers.dev/BCU_USSR_HD/index.m3u8
-#EXTINF:-1 tvg-id="bcu-action" tvg-name="BCU  Action HD" tvg-logo="http://epg.one/img/4748.png" group-title="Кинозал", BCU  Action HD
-#EXTGRP:Кинозал
-https://100.free-iptvchannel.workers.dev/BCU_Action_HD/index.m3u8
-#EXTINF:-1 tvg-id="bcu-catastrophe" tvg-name="BCU  Catastrophe HD" tvg-logo="http://epg.one/img/4749.png" group-title="Кинозал", BCU  Catastrophe HD
-#EXTGRP:Кинозал
-https://100.free-iptvchannel.workers.dev/BCU_Catastrophe_HD/index.m3u8
-#EXTINF:-1 tvg-id="bcu-cinema" tvg-name="BCU  Cinema HD" tvg-logo="http://epg.one/img/4750.png" group-title="Кинозал", BCU  Cinema HD
-#EXTGRP:Кинозал
-https://100.free-iptvchannel.workers.dev/BCU_Cinema_HD/index.m3u8
-#EXTINF:-1 tvg-id="bcu-cinemaplus" tvg-name="BCU  Cinema+ HD" tvg-logo="http://epg.one/img/4751.png" group-title="Кинозал", BCU  Cinema+ HD
-#EXTGRP:Кинозал
-https://100.free-iptvchannel.workers.dev/BCU_Cinema_Plus_HD/index.m3u8
-#EXTINF:-1 tvg-id="bcu-comedy" tvg-name="BCU  Comedy HD" tvg-logo="http://epg.one/img/5515.png" group-title="Кинозал", BCU  Comedy HD
-#EXTGRP:Кинозал
-https://100.free-iptvchannel.workers.dev/BCU_Comedy_HD/index.m3u8
-#EXTINF:-1 tvg-id="bcu-criminal" tvg-name="BCU  Criminal HD" tvg-logo="http://epg.one/img/4769.png" group-title="Кинозал", BCU  Criminal HD
-#EXTGRP:Кинозал
-https://100.free-iptvchannel.workers.dev/BCU_Criminal_HD/index.m3u8
-#EXTINF:-1 tvg-id="bcu-fantastic" tvg-name="BCU  Fantastic HD" tvg-logo="http://epg.one/img/4753.png" group-title="Кинозал", BCU  Fantastic HD
-#EXTGRP:Кинозал
-https://100.free-iptvchannel.workers.dev/BCU_Fantastic_HD/index.m3u8
-#EXTINF:-1 tvg-id="bcu-filmystic" tvg-name="BCU  FilMystic HD" tvg-logo="http://epg.one/img/4754.png" group-title="Кинозал", BCU  FilMystic HD
-#EXTGRP:Кинозал
-https://100.free-iptvchannel.workers.dev/BCU_FilMystic_HD/index.m3u8
-#EXTINF:-1 tvg-id="bcu-history" tvg-name="BCU  History HD" tvg-logo="http://epg.one/img/4755.png" group-title="Кинозал", BCU  History HD
-#EXTGRP:Кинозал
-https://100.free-iptvchannel.workers.dev/BCU_History_HD/index.m3u8
 #EXTINF:-1 tvg-id="bcu-kinorating" tvg-name="BCU Kinorating HD" tvg-logo="http://epg.one/img/4758.png" group-title="Кинозал", BCU Kinorating HD
 #EXTGRP:Кинозал
 http://hls127.freeott.top:8080/BCUKinoratingHD/video.m3u8
-#EXTINF:-1 tvg-id="bcu-marvel" tvg-name="BCU Marvel HD" tvg-logo="http://epg.one/img/5514.png" group-title="Кинозал", BCU Marvel HD
-#EXTGRP:Кинозал
-https://100.free-iptvchannel.workers.dev/BCU_Marvel_HD/index.m3u8
-#EXTINF:-1 tvg-id="bcu-media" tvg-name="BCU Media HD" tvg-logo="http://epg.one/img/4764.png" group-title="Кинозал", BCU Media HD
-#EXTGRP:Кинозал
-https://100.free-iptvchannel.workers.dev/BCUMEDIA_HD/index.m3u8
-#EXTINF:-1 tvg-id="bcu-premiere" tvg-name="BCU Premiere HD" tvg-logo="http://epg.one/img/4760.png" group-title="Кинозал", BCU Premiere HD
-#EXTGRP:Кинозал
-https://100.free-iptvchannel.workers.dev/BCU_Premiere_HD/index.m3u8
-#EXTINF:-1 tvg-id="bcu-romantic" tvg-name="BCU  Romantic HD" tvg-logo="http://epg.one/img/4761.png" group-title="Кинозал", BCU  Romantic HD
-#EXTGRP:Кинозал
-https://100.free-iptvchannel.workers.dev/BCU_Romantic_HD/index.m3u8
-#EXTINF:-1 tvg-id="bcu-ruserial" tvg-name="BCU  RUSerial HD" tvg-logo="http://epg.one/img/4767.png" group-title="Кинозал", BCU  RUSerial HD
-#EXTGRP:Кинозал
-https://100.free-iptvchannel.workers.dev/BCU_RUSERIAL_HD/index.m3u8
-#EXTINF:-1 tvg-id="bcu-russian" tvg-name="BCU  Russian HD" tvg-logo="http://epg.one/img/4762.png" group-title="Кинозал", BCU  Russian HD
-#EXTGRP:Кинозал
-https://100.free-iptvchannel.workers.dev/BCU_Russian_HD/index.m3u8
 #EXTINF:-1 tvg-id="bcu-stars" tvg-name="BCU Stars HD" tvg-logo="http://epg.one/img/4765.png" group-title="Кинозал", BCU Stars HD
 #EXTGRP:Кинозал
 http://hls127.freeott.top:8080/BCUStarsHD/video.m3u8
-#EXTINF:-1 tvg-id="bcu-ultra4k" tvg-name="BCU Ultra 4K" tvg-logo="http://epg.one/img/4766.png" group-title="Кинозал", BCU Ultra 4K
-#EXTGRP:Кинозал
-https://100.free-iptvchannel.workers.dev/BCU_Ultra_4K/index.m3u8
-#EXTINF:-1 tvg-id="bcu-vhs" tvg-name="BCU VHS HD" tvg-logo="http://epg.one/img/4763.png" group-title="Кинозал", BCU VHS HD
-#EXTGRP:Кинозал
-https://100.free-iptvchannel.workers.dev/BCU_VHS_HD/index.m3u8
-#EXTINF:-1 tvg-id="box-apocalipse" tvg-name="BOX Apocalypse HD" tvg-logo="http://epg.one/img/8768.png" group-title="Кинозал", BOX Apocalypse HD
-#EXTGRP:Кинозал
-https://100.free-iptvchannel.workers.dev/BOX_Apocalypse_HD/index.m3u8
-#EXTINF:-1 tvg-id="box-cyber" tvg-name="BOX Cyber HD" tvg-logo="http://epg.one/img/6834.png" group-title="Кинозал", BOX Cyber HD
-#EXTGRP:Кинозал
-https://100.free-iptvchannel.workers.dev/BOX_Cyber_HD/index.m3u8
-#EXTINF:-1 tvg-id="box-fantasy" tvg-name="BOX Fantasy HD" tvg-logo="http://epg.one/img/7490.png" group-title="Кинозал", BOX Fantasy HD
-#EXTGRP:Кинозал
-https://100.free-iptvchannel.workers.dev/BOX_Fantasy_HD/index.m3u8
-#EXTINF:-1 tvg-id="box-franchise" tvg-name="BOX Franchise HD" tvg-logo="http://epg.one/img/6696.png" group-title="Кинозал", BOX Franchise HD
-#EXTGRP:Кинозал
-https://100.free-iptvchannel.workers.dev/BOX_Franchise_HD/index.m3u8
-#EXTINF:-1 tvg-id="box-gangster" tvg-name="BOX Gangster HD" tvg-logo="http://epg.one/img/6699.png" group-title="Кинозал", BOX Gangster HD
-#EXTGRP:Кинозал
-https://100.free-iptvchannel.workers.dev/BOX_Gangster_HD/index.m3u8
-#EXTINF:-1 tvg-id="box-ghost" tvg-name="BOX Ghost HD" tvg-logo="http://epg.one/img/7488.png" group-title="Кинозал", BOX Ghost HD
-#EXTGRP:Кинозал
-https://100.free-iptvchannel.workers.dev/BOX_Ghost_HD/index.m3u8
-#EXTINF:-1 tvg-id="box-hybrid" tvg-name="BOX Hybrid HD" tvg-logo="http://epg.one/img/6697.png" group-title="Кинозал", BOX Hybrid HD
-#EXTGRP:Кинозал
-https://100.free-iptvchannel.workers.dev/BOX_Hybrid_HD/index.m3u8
-#EXTINF:-1 tvg-id="box-memory" tvg-name="BOX Memory HD" tvg-logo="http://epg.one/img/6701.png" group-title="Кинозал", BOX Memory HD
-#EXTGRP:Кинозал
-https://100.free-iptvchannel.workers.dev/BOX_Memory_HD/index.m3u8
-#EXTINF:-1 tvg-id="box-remast-4k" tvg-name="BOX Remast 4K" tvg-logo="http://epg.one/img/7492.png" group-title="Кинозал", BOX Remast 4K
-#EXTGRP:Кинозал
-https://100.free-iptvchannel.workers.dev/BOX_Remast_4K/index.m3u8
-#EXTINF:-1 tvg-id="box-remast-plus-4k" tvg-name="BOX Remast+ 4K" tvg-logo="http://epg.one/img/8922.png" group-title="Кинозал", BOX Remast+ 4K
-#EXTGRP:Кинозал
-https://100.free-iptvchannel.workers.dev/BOX_Remast_Plus_4K/index.m3u8
-#EXTINF:-1 tvg-id="box-serial4k" tvg-name="BOX Serial 4K" tvg-logo="http://epg.one/img/8923.png" group-title="Кинозал", BOX Serial 4K
-#EXTGRP:Кинозал
-https://100.free-iptvchannel.workers.dev/BOX_Serial_4K/index.m3u8
-#EXTINF:-1 tvg-id="box-serial" tvg-name="BOX Serial HD" tvg-logo="http://epg.one/img/6703.png" group-title="Кинозал", BOX Serial HD
-#EXTGRP:Кинозал
-https://100.free-iptvchannel.workers.dev/BOX_Serial_HD/index.m3u8
-#EXTINF:-1 tvg-id="box-spy" tvg-name="BOX Spy HD" tvg-logo="http://epg.one/img/6705.png" group-title="Кинозал", BOX Spy HD
-#EXTGRP:Кинозал
-https://100.free-iptvchannel.workers.dev/BOX_Spy_HD/index.m3u8
-#EXTINF:-1 tvg-id="box-western" tvg-name="BOX Western HD" tvg-logo="http://epg.one/img/6832.png" group-title="Кинозал", BOX Western HD
-#EXTGRP:Кинозал
-https://100.free-iptvchannel.workers.dev/BOX_Western_HD/index.m3u8
-#EXTINF:-1 tvg-id="box-zombie" tvg-name="BOX Zombie HD" tvg-logo="http://epg.one/img/6833.png" group-title="Кинозал", BOX Zombie HD
-#EXTGRP:Кинозал
-https://100.free-iptvchannel.workers.dev/BOX_Zombie_HD/index.m3u8
 #EXTINF:-1 tvg-name="CPS Action" tvg-logo="https://avatars.mds.yandex.net/i?id=d0cd0536644c44380ed9a5f1fc4f51bd2169a5dd-5335451-images-thumbs&n=13" group-title="Кинозал", CPS Action
 #EXTGRP:Кинозал
 http://hls127.freeott.top:8080/CPS_Action/video.m3u8
@@ -2198,15 +1998,9 @@ http://45.145.32.13:20440/mir_basketbola/index.m3u8?token=test
 #EXTINF:-1 tvg-id="footbolny" tvg-name="Мяч" tvg-logo="http://epg.one/img/4679.png" group-title="Спорт", Мяч HD
 #EXTGRP:Спорт
 http://cdn.kubteltv.workers.dev/?ID=404
-#EXTINF:-1 tvg-id="okko-sport-2" tvg-name="Окко.Прайм Спорт" tvg-logo="https://epg.iptvx.one/picons/okko-sport-2.png" group-title="Спорт", Окко.Прайм Спорт
-#EXTGRP:Спорт
-https://100.free-iptvchannel.workers.dev/okko_praym_sport_hd/index.m3u8
 #EXTINF:-1 tvg-id="okko-sport" tvg-name="Окко.Спорт" tvg-logo="https://epg.iptvx.one/picons/okko-sport.png" group-title="Спорт", Окко.Спорт
 #EXTGRP:Спорт
-https://100.free-iptvchannel.workers.dev/okko_sport_hd/index.m3u8
-#EXTINF:-1 tvg-id="okko-football" tvg-name="Окко.Футбол" tvg-logo="https://epg.iptvx.one/picons/okko-football.png" group-title="Спорт", Окко.Футбол
-#EXTGRP:Спорт
-https://100.free-iptvchannel.workers.dev/okko_futbol_hd/index.m3u8
+http://ua.online24.pm/play/7337/350B326FB34F4B8/video.m3u8
 #EXTINF:-1 tvg-id="sportivny" tvg-name="ТВ Спорт" tvg-logo="http://epg.one/img/4678.png" group-title="Спорт", ТВ Спорт HD
 #EXTGRP:Спорт
 http://live-3.otcnet.ru/sportivny/index.m3u8
@@ -2411,12 +2205,6 @@ https://ucdn.beetv.kz/bpk-tv/000004499/tve/index.m3u8
 #EXTINF:-1 tvg-id="setanta2-ge" tvg-name="Setanta Sports 2 GE" tvg-logo="http://epg.one/img/6805.png" group-title="Спорт", Setanta Sports 2 GE
 #EXTGRP:Спорт
 http://158.101.222.193:88/georgia_play.php?id=setanta_sports_plus_georgia
-#EXTINF:-1 tvg-id="setanta-ua" tvg-name="Setanta Sports Ukraine" tvg-logo="http://epg.one/img/2370.png" group-title="Спорт", Setanta Sports Ukraine HD
-#EXTGRP:Спорт
-https://100.free-iptvchannel.workers.dev/setanta_sports_ukraine_hd/index.m3u8
-#EXTINF:-1 tvg-id="setanta-plus-ua" tvg-name="Setanta Sports+ Ukraine" tvg-logo="http://epg.one/img/6860.png" group-title="Спорт", Setanta Sports+ HD UA
-#EXTGRP:Спорт
-https://100.free-iptvchannel.workers.dev/setanta_sports_plus_ukraine_hd/index.m3u8
 #EXTINF:-1 tvg-id="sky-sports-apl" tvg-name="Sky Sports Premiere League UK" tvg-logo="http://epg.one/img/4569.png" group-title="Спорт", Sky Sports Premiere League UK
 #EXTGRP:Спорт
 http://kstv.us:8080/c2Q2HDqQfM/111770/47871
