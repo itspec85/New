@@ -397,9 +397,6 @@ http://95.47.155.244:8001/play/a004
 #EXTINF:-1 tvg-id="ntv-pl7" tvg-name="НТВ (+7)" tvg-logo="http://epg.one/img/3028.png" group-title="Россия плюсовые", НТВ +7
 #EXTGRP:Россия плюсовые
 https://plus.free-iptvchannel.workers.dev/channel/9091/34151ac4/index.m3u8
-#EXTINF:-1 tvg-id="otr-pl2" tvg-name="ОТР (+2)" tvg-logo="http://epg.one/img/1000.png" group-title="Россия плюсовые", ОТР +2
-#EXTGRP:Россия плюсовые
-http://193.25.8.59:8000/otr
 #EXTINF:-1 tvg-id="otr" tvg-shift="-4" tvg-name="ОТР +4" tvg-logo="http://epg.one/img/1000.png" group-title="Россия плюсовые", ОТР +4
 #EXTGRP:Россия плюсовые
 http://95.47.155.244:8001/play/a009
