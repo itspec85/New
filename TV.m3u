@@ -209,7 +209,7 @@ http://37.46.49.14:18010/play/a04m/index.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="ntv" tvg-name="НТВ" tvg-logo="http://epg.one/img/162.png" group-title="Россия", НТВ
 #EXTGRP:Россия
-http://37.46.49.14:18010/play/a024/index.m3u8
+http://46.32.176.50/ntvplus/index.m3u8
 #EXTINF:-1 tvg-id="ntv" tvg-name="НТВ HD" tvg-logo="http://epg.one/img/2001.png" group-title="Россия", НТВ HD
 #EXTGRP:Россия
 http://s1.merlive.am/ntvhd/index.m3u8
@@ -381,7 +381,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="ntv-pl1" tvg-name="НТВ (+1)" tvg-logo="http://epg.one/img/162.png" group-title="Россия плюсовые", НТВ +1
 #EXTGRP:Россия плюсовые
 #EXTVLCOPT:http-user-agent=ntv
-https://cdn2.ntv.ru/ntv1_sd/index.m3u8
+https://cdn.ntv.ru/ntv1/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="ntv-pl2" tvg-name="НТВ (+2)" tvg-logo="http://epg.one/img/2036.png" group-title="Россия плюсовые", НТВ +2
 #EXTGRP:Россия плюсовые
 http://176.118.197.101/NTV/index.m3u8
