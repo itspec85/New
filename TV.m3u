@@ -1960,12 +1960,15 @@ https://kino.zunotv.workers.dev/BCU_Comedy_HD/index.m3u8
 #EXTINF:-1 tvg-id="bcu-criminal" tvg-name="BCU Criminal HD" tvg-logo="http://epg.one/img/4769.png" group-title="Кинозал", BCU Criminal HD
 #EXTGRP:Кинозал
 https://kino.zunotv.workers.dev/BCU_Criminal_HD/index.m3u8
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="bcu-fantastic" tvg-name="BCU Fantastic HD" tvg-logo="http://epg.one/img/4753.png" group-title="Кинозал", BCU Fantastic HD
+#EXTGRP:Кинозал
+https://kino.zunotv.workers.dev/BCU_Fantastic_HD/index.m3u8
+#EXTINF:-1 tvg-id="bcu-filmystic" tvg-name="BCU FilMystic HD" tvg-logo="http://epg.one/img/4754.png" group-title="Кинозал", BCU FilMystic HD
+#EXTGRP:Кинозал
+https://kino.zunotv.workers.dev/BCU_FilMystic_HD/index.m3u8
+#EXTINF:-1 tvg-id="bcu-history" tvg-name="BCU History HD" tvg-logo="http://epg.one/img/4755.png" group-title="Кинозал", BCU History HD
+#EXTGRP:Кинозал
+https://kino.zunotv.workers.dev/BCU_History_HD/index.m3u8
 #EXTINF:-1 tvg-id="bcu-kinorating" tvg-name="BCU Kinorating HD" tvg-logo="http://epg.one/img/4758.png" group-title="Кинозал", BCU Kinorating HD
 #EXTGRP:Кинозал
 http://hls127.freeott.top:8080/BCUKinoratingHD/video.m3u8
