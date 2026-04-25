@@ -1927,6 +1927,45 @@ http://kinowalk.hopto.org/wfliq_live
 #EXTINF:-1 tvg-name="Стримканал. ZubrilomFilm" tvg-logo="https://images.live.vkvideo.ru/user/18824582/avatar?change_time=1714643599&croped=1&mh=140&mw=140" group-title="Кинозал", Стримканал. ZubrilomFilm
 #EXTGRP:Кинозал
 http://kinowalk.hopto.org/zubrilomfilm_live
+#EXTINF:-1 tvg-id="bcu-kinozal-prem-1" tvg-name="BCU Кинозал Premiere 1 HD" tvg-logo="http://epg.one/img/4736.png" group-title="Кинозал", BCU Кинозал Premiere 1 HD
+#EXTGRP:Кинозал
+https://kino.zunotv.workers.dev/BCU_Kinozal_Premiere_1_HD/index.m3u8
+#EXTINF:-1 tvg-id="bcu-kinozal-prem-2" tvg-name="BCU Кинозал Premiere 2 HD" tvg-logo="http://epg.one/img/4737.png" group-title="Кинозал", BCU Кинозал Premiere 2 HD
+#EXTGRP:Кинозал
+https://kino.zunotv.workers.dev/BCU_Kinozal_Premiere_2_HD/index.m3u8
+#EXTINF:-1 tvg-id="bcu-kinozal-prem-3" tvg-name="BCU Кинозал Premiere 3 HD" tvg-logo="http://epg.one/img/4738.png" group-title="Кинозал", BCU Кинозал Premiere 3 HD
+#EXTGRP:Кинозал
+https://kino.zunotv.workers.dev/BCU_Kinozal_Premiere_3_HD/index.m3u8
+#EXTINF:-1 tvg-id="bcu-svaty" tvg-name="BCU Сваты HD" tvg-logo="http://epg.one/img/4768.png" group-title="Кинозал", BCU Сваты HD
+#EXTGRP:Кинозал
+https://kino.zunotv.workers.dev/BCU_Svaty_HD/index.m3u8
+#EXTINF:-1 tvg-id="bcu-sssr" tvg-name="BCU СССР HD" tvg-logo="http://epg.one/img/4747.png" group-title="Кинозал", BCU СССР HD
+#EXTGRP:Кинозал
+https://kino.zunotv.workers.dev/BCU_USSR_HD/index.m3u8
+#EXTINF:-1 tvg-id="bcu-action" tvg-name="BCU Action HD" tvg-logo="http://epg.one/img/4748.png" group-title="Кинозал", BCU Action HD
+#EXTGRP:Кинозал
+https://kino.zunotv.workers.dev/BCU_Action_HD/index.m3u8
+#EXTINF:-1 tvg-id="bcu-catastrophe" tvg-name="BCU Catastrophe HD" tvg-logo="http://epg.one/img/4749.png" group-title="Кинозал", BCU Catastrophe HD
+#EXTGRP:Кинозал
+https://kino.zunotv.workers.dev/BCU_Catastrophe_HD/index.m3u8
+#EXTINF:-1 tvg-id="bcu-cinema" tvg-name="BCU Cinema HD" tvg-logo="http://epg.one/img/4750.png" group-title="Кинозал", BCU Cinema HD
+#EXTGRP:Кинозал
+https://kino.zunotv.workers.dev/BCU_Cinema_HD/index.m3u8
+#EXTINF:-1 tvg-id="bcu-cinemaplus" tvg-name="BCU Cinema+ HD" tvg-logo="http://epg.one/img/4751.png" group-title="Кинозал", BCU Cinema+ HD
+#EXTGRP:Кинозал
+https://kino.zunotv.workers.dev/BCU_Cinema_Plus_HD/index.m3u8
+#EXTINF:-1 tvg-id="bcu-comedy" tvg-name="BCU Comedy HD" tvg-logo="http://epg.one/img/5515.png" group-title="Кинозал", BCU Comedy HD
+#EXTGRP:Кинозал
+https://kino.zunotv.workers.dev/BCU_Comedy_HD/index.m3u8
+#EXTINF:-1 tvg-id="bcu-criminal" tvg-name="BCU Criminal HD" tvg-logo="http://epg.one/img/4769.png" group-title="Кинозал", BCU Criminal HD
+#EXTGRP:Кинозал
+https://kino.zunotv.workers.dev/BCU_Criminal_HD/index.m3u8
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="bcu-kinorating" tvg-name="BCU Kinorating HD" tvg-logo="http://epg.one/img/4758.png" group-title="Кинозал", BCU Kinorating HD
 #EXTGRP:Кинозал
 http://hls127.freeott.top:8080/BCUKinoratingHD/video.m3u8
