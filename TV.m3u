@@ -1388,6 +1388,9 @@ https://a3569457567-s70378.cdn.ngenix.net/kinouzhas/1/index.m3u8
 #EXTINF:-1 tvg-id="kinoxit" tvg-name="Кинохит" tvg-logo="http://epg.one/img/542.png" group-title="Кино", КИНОХИТ
 #EXTGRP:Кино
 https://a3285272783-s80718.cdn.ngenix.net//hls//CH_KINOHITHD//video_800x450_avc1/playlist.m3u8
+#EXTINF:-1 tvg-id="klassika-kino" tvg-name="Классика Кино" tvg-logo="https://epg.iptvx.one/picons/klassika-kino.png" group-title="Кино", Классика Кино
+#EXTGRP:Кино
+http://nat6-minsk-pool-46-53-208-4.telecom.by/live/3006-req_offset_28000000-req_window_0-3k_v5.m3u8
 #EXTINF:-1 tvg-id="komedijnoe-hd" tvg-name="Комедийное HD" tvg-logo="http://epg.one/img/138.png" group-title="Кино", Комедийное HD
 #EXTGRP:Кино
 http://51.159.108.7:83/play/27042-Komedijnoe/index.m3u8
@@ -1478,7 +1481,7 @@ https://flussonic.mkpnet.ru/tv-ccf8c891702508a7/video.m3u8
 https://flussonic.mkpnet.ru/tv-2997fed720614567/video.m3u8
 #EXTINF:-1 tvg-id="russky-illuzion" tvg-name="Русский иллюзион" tvg-logo="http://epg.one/img/53.png" group-title="Кино", Русский Иллюзион
 #EXTGRP:Кино
-http://185.46.16.239:8000/Russkiy_Illyuzion
+http://nat6-minsk-pool-46-53-208-4.telecom.by/live/616-req_offset_28000000-req_window_0-5k_v5.m3u8
 #EXTINF:-1 tvg-name="Русский иллюзион International" tvg-logo="http://epg.one/img/53.png" group-title="Кино", Русский Иллюзион International
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000004207/tve/index.m3u8
@@ -1561,6 +1564,9 @@ http://176.118.197.101/Bollywood_HD/index.m3u8
 #EXTINF:-1 tvg-id="bolt-ru" tvg-name="Bolt HD Россия" tvg-logo="http://epg.one/img/2138.png" group-title="Кино", Bolt HD Россия
 #EXTGRP:Кино
 http://hls127.freeott.top:8080/Bolt/mono.m3u8
+#EXTINF:-1 tvg-id="cinema" tvg-name="Cinema Cosmos TV" tvg-logo="https://epg.iptvx.one/picons/cinema.png" group-title="Кино", Cinema Cosmos TV
+#EXTGRP:Кино
+http://nat6-minsk-pool-46-53-208-4.telecom.by/live/3870-req_offset_28000000-req_window_0-4k_v5.m3u8
 #EXTINF:-1 tvg-id="cinema-ru" tvg-name="Cinema HD" tvg-logo="http://epg.one/img/2754.png" group-title="Кино", Cinema HD
 #EXTGRP:Кино
 http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
@@ -1609,6 +1615,9 @@ http://cdn.kubteltv.workers.dev/?ID=297
 #EXTINF:-1 tvg-id="kinojam2" tvg-name="Kinojam 2 HD" tvg-logo="http://epg.one/img/4467.png" group-title="Кино", Kinojam 2 HD
 #EXTGRP:Кино
 http://cdn.kubteltv.workers.dev/?ID=298
+#EXTINF:-1 tvg-id="novellatv" tvg-name="Novella TV" tvg-logo="https://epg.iptvx.one/picons/novellatv.png" group-title="Кино", Novella TV
+#EXTGRP:Кино
+http://nat6-minsk-pool-46-53-208-4.telecom.by/live/545-req_offset_28000000-req_window_0-vid-5k_v5.m3u8
 #EXTINF:-1 tvg-name="NSC" tvg-logo="https://avatars.mds.yandex.net/i?id=2104bf41d9e9376e184076b17c82dc1fb6a9f5af-16483332-images-thumbs&n=13" group-title="Кино", NSC
 #EXTGRP:Кино
 https://live.15plusmg.ru/memfs/5a03fc7a-8417-4874-b56f-91b8aeba1210_output_0.m3u8?session=bomhMGCHEtND9D3hX7kb4M
@@ -2063,6 +2072,9 @@ http://cdn.kubteltv.workers.dev/?ID=404
 #EXTINF:-1 tvg-id="okko-sport" tvg-name="Окко.Спорт" tvg-logo="https://epg.iptvx.one/picons/okko-sport.png" group-title="Спорт", Окко.Спорт
 #EXTGRP:Спорт
 http://ua.online24.pm/play/7337/350B326FB34F4B8/video.m3u8
+#EXTINF:-1 tvg-id="sport-tv-by" tvg-name="Спорт ТВ [BY]" tvg-logo="https://epg.iptvx.one/picons/sport-tv-by.png" group-title="Спорт", Спорт ТВ BY
+#EXTGRP:Спорт
+http://nat6-minsk-pool-46-53-208-4.telecom.by/live/8112-req_offset_28000000-req_window_0-5k_v5.m3u8
 #EXTINF:-1 tvg-id="sportivny" tvg-name="ТВ Спорт" tvg-logo="http://epg.one/img/4678.png" group-title="Спорт", ТВ Спорт HD
 #EXTGRP:Спорт
 http://live-3.otcnet.ru/sportivny/index.m3u8
