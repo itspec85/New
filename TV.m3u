@@ -1972,9 +1972,33 @@ https://kino.zunotv.workers.dev/BCU_History_HD/index.m3u8
 #EXTINF:-1 tvg-id="bcu-kinorating" tvg-name="BCU Kinorating HD" tvg-logo="http://epg.one/img/4758.png" group-title="Кинозал", BCU Kinorating HD
 #EXTGRP:Кинозал
 http://hls127.freeott.top:8080/BCUKinoratingHD/video.m3u8
+#EXTINF:-1 tvg-id="bcu-marvel" tvg-name="BCU Marvel HD" tvg-logo="http://epg.one/img/5514.png" group-title="Кинозал", BCU Marvel HD
+#EXTGRP:Кинозал
+https://kino.zunotv.workers.dev/BCU_Marvel_HD/index.m3u8
+#EXTINF:-1 tvg-id="bcu-media" tvg-name="BCU Media HD" tvg-logo="http://epg.one/img/4764.png" group-title="Кинозал", BCU Media HD
+#EXTGRP:Кинозал
+https://kino.zunotv.workers.dev/BCUMEDIA_HD/index.m3u8
+#EXTINF:-1 tvg-id="bcu-premiere" tvg-name="BCU Premiere HD" tvg-logo="http://epg.one/img/4760.png" group-title="Кинозал", BCU Premiere HD
+#EXTGRP:Кинозал
+https://kino.zunotv.workers.dev/BCU_Premiere_HD/index.m3u8
+#EXTINF:-1 tvg-id="bcu-romantic" tvg-name="BCU Romantic HD" tvg-logo="http://epg.one/img/4761.png" group-title="Кинозал", BCU Romantic HD
+#EXTGRP:Кинозал
+https://kino.zunotv.workers.dev/BCU_Romantic_HD/index.m3u8
+#EXTINF:-1 tvg-id="bcu-ruserial" tvg-name="BCU RUSerial HD" tvg-logo="http://epg.one/img/4767.png" group-title="Кинозал", BCU RUSerial HD
+#EXTGRP:Кинозал
+https://kino.zunotv.workers.dev/BCU_RUSERIAL_HD/index.m3u8
+#EXTINF:-1 tvg-id="bcu-russian" tvg-name="BCU Russian HD" tvg-logo="http://epg.one/img/4762.png" group-title="Кинозал", BCU Russian HD
+#EXTGRP:Кинозал
+https://kino.zunotv.workers.dev/BCU_Russian_HD/index.m3u8
 #EXTINF:-1 tvg-id="bcu-stars" tvg-name="BCU Stars HD" tvg-logo="http://epg.one/img/4765.png" group-title="Кинозал", BCU Stars HD
 #EXTGRP:Кинозал
 http://hls127.freeott.top:8080/BCUStarsHD/video.m3u8
+#EXTINF:-1 tvg-id="bcu-ultra4k" tvg-name="BCU Ultra 4K" tvg-logo="http://epg.one/img/4766.png" group-title="Кинозал", BCU Ultra 4K
+#EXTGRP:Кинозал
+https://kino.zunotv.workers.dev/BCU_Ultra_4K/index.m3u8
+#EXTINF:-1 tvg-id="bcu-vhs" tvg-name="BCU VHS HD" tvg-logo="http://epg.one/img/4763.png" group-title="Кинозал", BCU VHS HD
+#EXTGRP:Кинозал
+https://kino.zunotv.workers.dev/BCU_VHS_HD/index.m3u8
 #EXTINF:-1 tvg-name="CPS Action" tvg-logo="https://avatars.mds.yandex.net/i?id=d0cd0536644c44380ed9a5f1fc4f51bd2169a5dd-5335451-images-thumbs&n=13" group-title="Кинозал", CPS Action
 #EXTGRP:Кинозал
 http://hls127.freeott.top:8080/CPS_Action/video.m3u8
