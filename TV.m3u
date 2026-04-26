@@ -1529,7 +1529,7 @@ http://46.32.176.50/amedia1/index.m3u8
 http://46.32.176.50/amedia2/index.m3u8
 #EXTINF:-1 tvg-id="amedia-hit" tvg-name="Amedia Hit" tvg-logo="http://epg.one/img/2007.png" group-title="Кино", Amedia Hit
 #EXTGRP:Кино
-http://77.245.98.18:8000/play/a00p
+http://46.32.176.50/amediahit/index.m3u8
 #EXTINF:-1 tvg-id="amedia-premium" tvg-name="Amedia Premium" tvg-logo="http://epg.one/img/1372.png" group-title="Кино", Amedia Premium
 #EXTGRP:Кино
 http://46.32.176.50/AmediaPremiumHD/index.m3u8
@@ -1568,10 +1568,10 @@ https://a3569457567-s70378.cdn.ngenix.net/flixsnip/1/index.m3u8
 rtmp://vkvsd69.okcdn.ru/playback/3780958366657?stkn=QkbWCnARWe2BdgDd2ZlIsACtDwpqkYXvX5avvzYaOvFMLx0UvcPKLeTbLVWs99SwkzSDsjYLt-I&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 #EXTINF:-1 tvg-id="fox" tvg-name="FX" tvg-logo="http://epg.one/img/1031.png" group-title="Кино", FX
 #EXTGRP:Кино
-http://51.159.108.7:83/play/27027-Fox/index.m3u8
+https://ucdn.beetv.kz/bpk-tv/000004472/tve/index.m3u8
 #EXTINF:-1 tvg-id="foxlife" tvg-name="FX Life" tvg-logo="http://epg.one/img/615.png" group-title="Кино", FX Life
 #EXTGRP:Кино
-http://51.159.108.7:83/play/27028-Fox-Life/index.m3u8
+https://ucdn.beetv.kz/bpk-tv/000004471/tve/index.m3u8
 #EXTINF:-1 tvg-id="hollywood" tvg-name="Hollywood" tvg-logo="http://epg.one/img/608.png" group-title="Кино", Hollywood
 #EXTGRP:Кино
 http://37.46.49.14:18010/play/a09n/index.m3u8
@@ -1592,7 +1592,7 @@ http://cdn.kubteltv.workers.dev/?ID=297
 http://cdn.kubteltv.workers.dev/?ID=298
 #EXTINF:-1 tvg-id="novellatv" tvg-name="Novella TV" tvg-logo="https://epg.iptvx.one/picons/novellatv.png" group-title="Кино", Novella TV
 #EXTGRP:Кино
-http://nat6-minsk-pool-46-53-208-4.telecom.by/live/545-req_offset_28000000-req_window_0-vid-5k_v5.m3u8
+http://46.53.208.4:80/live/1205-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 tvg-name="NSC" tvg-logo="https://avatars.mds.yandex.net/i?id=2104bf41d9e9376e184076b17c82dc1fb6a9f5af-16483332-images-thumbs&n=13" group-title="Кино", NSC
 #EXTGRP:Кино
 https://live.15plusmg.ru/memfs/5a03fc7a-8417-4874-b56f-91b8aeba1210_output_0.m3u8?session=bomhMGCHEtND9D3hX7kb4M
@@ -1626,9 +1626,6 @@ https://str-01.sunset-media.org/SunsetOne/index.m3u8
 #EXTINF:-1 tvg-id="suspense" tvg-name="Suspense HD" tvg-logo="http://epg.one/img/9180.png" group-title="Кино", Suspense HD
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000008739/tve/index.m3u8
-#EXTINF:-1 tvg-id="trashtv" tvg-name="Trash HD" tvg-logo="http://epg.one/img/3361.png" group-title="Кино", Trash HD
-#EXTGRP:Кино
-http://5.188.159.128:8070/Trash_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="thriller-hd" tvg-name="Thriller HD" tvg-logo="http://epg.one/img/4724.png" group-title="Кино", Thriller HD
 #EXTGRP:Кино
 http://hls127.freeott.top:8080/PG_Thriller_HD/manifest.m3u8
