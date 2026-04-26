@@ -36,9 +36,6 @@ https://ucdn.beetv.kz/bpk-tv/000001572/tve/index.m3u8
 #EXTINF:-1 tvg-id="astana" tvg-name="Astana TV KZ" tvg-logo="http://epg.one/img/2573.png" group-title="Казахстан", Astana TV KZ
 #EXTGRP:Казахстан
 https://ucdn.beetv.kz/bpk-tv/000000666/tve/index.m3u8
-#EXTINF:-1 tvg-id="astana" tvg-name="Astana TV KZ" tvg-logo="http://epg.one/img/2573.png" group-title="Казахстан", Astana TV KZ (резерв)
-#EXTGRP:Казахстан
-https://fs.uplink.kz/astana/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="atameken-business" tvg-name="Atameken Business" tvg-logo="https://iptvx.one/picons/atameken-business.png" group-title="Казахстан", Atameken Business
 #EXTGRP:Казахстан
 https://ucdn.beetv.kz/bpk-tv/000005322/tve/index.m3u8
@@ -2373,7 +2370,7 @@ http://31.148.48.15:80/Zhara/index.m3u8
 http://185.46.16.239:8000/Muz_TV
 #EXTINF:-1 tvg-id="muztv" tvg-name="Муз-ТВ HD" tvg-logo="http://epg.one/img/897.png" group-title="Музыка", МУЗ-ТВ HD
 #EXTGRP:Музыка
-http://radio.tvs.by:8088/MuzTV/index.m3u8
+https://bl.rutube.ru/livestream/df6fe73494a26f74da51573fd97b9baa/index.m3u8?s=uvkm0EbMiqsoxCn0iBw9wQ&e=2074209253&scheme=https
 #EXTINF:-1 tvg-name="Музыка 1 International" tvg-logo="http://epg.one/img/6266.png" group-title="Музыка", Музыка 1 International
 #EXTGRP:Музыка
 http://kino-1.catcast.tv/content/37745/index.m3u8
