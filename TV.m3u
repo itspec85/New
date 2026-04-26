@@ -2282,9 +2282,6 @@ http://46.53.208.4:80/live/2100.m3u8
 #EXTINF:-1 tvg-id="nba-tv" tvg-name="NBA TV HD US" tvg-logo="http://epg.one/img/4587.png" group-title="Спорт", NBA TV HD US
 #EXTGRP:Спорт
 http://kstv.us:8080/c2Q2HDqQfM/111770/15946
-#EXTINF:-1 tvg-id="nfl-network" tvg-name="NFL Network HD CA" tvg-logo="http://epg.one/img/3568.png" group-title="Спорт", NFL Network HD CA
-#EXTGRP:Спорт
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5105-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6477ef85-3680-442c-94d8-27197903b1f6&serverSideAds=false
 #EXTINF:-1 tvg-name="NHL Интересные моменты" tvg-logo="https://avatars.mds.yandex.net/get-sport/1642542/d8e715976f899e5ec54adc0e1b30dea4/orig" group-title="Спорт", NHL Интересные моменты
 #EXTGRP:Спорт
 http://nhl-firetv.amagi.tv/playlist.m3u8
@@ -2300,9 +2297,6 @@ https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-643f0ecd76de2b4015ae6c01.m3u8
 #EXTINF:-1 tvg-name="Poker Night TV" tvg-logo="https://avatars.mds.yandex.net/i?id=db8c760bd347d63acef0463dba83995b29c11630-4576282-images-thumbs&n=13" group-title="Спорт", Poker Night TV
 #EXTGRP:Спорт
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-60afc726623f2f002c5bb49f.m3u8
-#EXTINF:-1 tvg-name="PokerGo" tvg-logo="https://avatars.mds.yandex.net/i?id=7822bfec4e4ddfe39ced9e298ca559e312340267-5295169-images-thumbs&n=13" group-title="Спорт", PokerGo
-#EXTGRP:Спорт
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fc54366b04b2300072e31af/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b6274-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a68d07ef-a794-43f8-a287-3bd7f27d909b
 #EXTINF:-1 tvg-name="Prosto Drive" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00349.png" group-title="Спорт", Prosto Drive
 #EXTGRP:Спорт
 http://iptv.prosto.tv:7000/ch326/video.m3u8
@@ -2377,19 +2371,13 @@ http://app-plus.live:80/9680723188/kyft6ks0g7gr7uw0xio6/157124
 http://app-plus.live:80/9680723188/kyft6ks0g7gr7uw0xio6/157123
 #EXTINF:-1 tvg-id="trace-sport-stars" tvg-name="Trace Sport Stars HD" tvg-logo="http://epg.one/img/7507.png" group-title="Спорт", Trace Sport Stars HD
 #EXTGRP:Спорт
-http://87.120.142.11:18000/Rossiya1
+https://stream8.cinerama.uz/1274/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="trt-3-hd" tvg-name="TRT Spor" tvg-logo="http://epg.one/img/6525.png" group-title="Спорт", TRT Spor TR
 #EXTGRP:Спорт
 http://app-plus.live:80/9680723188/kyft6ks0g7gr7uw0xio6/196810
 #EXTINF:-1 tvg-id="trt-spor-yild-tr" tvg-name="TRT Spor Yıldız [TR]" tvg-logo="https://avatars.mds.yandex.net/i?id=cf9bb06b92b88cc4cbe97810f53496a8f3579629-4303862-images-thumbs&n=13" group-title="Спорт", TRT Spor Yildiz HD TR
 #EXTGRP:Спорт
 http://app-plus.live:80/9680723188/kyft6ks0g7gr7uw0xio6/196815
-#EXTINF:-1 tvg-id="tsn1-ca" tvg-name="TSN1" tvg-logo="http://epg.one/img/3663.png" group-title="Спорт", TSN 1 HD CA
-#EXTGRP:Спорт
-http://kstv.us:8080/live/BWxD9XBSgz/2859225324/15929.ts
-#EXTINF:-1 tvg-id="tsn2-ca" tvg-name="TSN2" tvg-logo="http://epg.one/img/3635.png" group-title="Спорт", TSN 2 HD CA
-#EXTGRP:Спорт
-http://kstv.us:8080/live/BWxD9XBSgz/2859225324/15928.ts
 #EXTINF:-1 tvg-name="Türkmenistan Sport" tvg-logo="https://avatars.mds.yandex.net/i?id=da678a9d544adb3ed0e3fe916af1b74d_l-5288772-images-thumbs&n=13" group-title="Спорт", Türkmenistan Sport
 #EXTGRP:Спорт
 http://217.174.225.146/hls/ch004_720/index.m3u8
