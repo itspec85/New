@@ -1138,10 +1138,10 @@ https://stream8.cinerama.uz/1270/tracks-v1a1/mono.m3u8
 http://46.32.176.50/detskiymir/index.m3u8
 #EXTINF:-1 tvg-id="detkinoint-tviksel" tvg-name="Детское кино International" tvg-logo="http://epg.one/img/6261.png" group-title="Детские", Детское кино International
 #EXTGRP:Детские
-http://autopilot.catcast.tv/content/38720/index.m3u8
+https://v2.catcast.tv/content/38720/index.m3u8
 #EXTINF:-1 tvg-name="Ералаш" tvg-logo="https://avatars.mds.yandex.net/i?id=c6f5bc2f73653d3a20399ad99adef4d3378d348e-10255460-images-thumbs&n=13" group-title="Детские", Ералаш HD
 #EXTGRP:Детские
-https://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
+https://live20.bozztv.com/giatvplayout7/ushba8/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ginger-hd" tvg-name="Капитан Фантастика" tvg-logo="http://epg.one/img/2438.png" group-title="Детские", Капитан Фантастика
 #EXTGRP:Детские
 https://stream8.cinerama.uz/1406/tracks-v1a1/mono.m3u8
@@ -1150,7 +1150,7 @@ https://stream8.cinerama.uz/1406/tracks-v1a1/mono.m3u8
 http://77.232.131.211/Karusel/index.m3u8
 #EXTINF:-1 tvg-id="karusel-int" tvg-name="Карусель International" tvg-logo="https://iptvx.one/picons/karusel.png" group-title="Детские", Карусель International
 #EXTGRP:Детские
-http://87.246.54.249:8080/Karusel/mpegts
+https://ucdn.beetv.kz/bpk-tv/000000781/tve/index.m3u8
 #EXTINF:-1 tvg-id="kinomult" tvg-name="Киномульт" tvg-logo="http://epg.one/img/9024.png" group-title="Детские", КиноМульт
 #EXTGRP:Детские
 http://46.53.208.4:80/live/157.m3u8
@@ -1243,7 +1243,7 @@ http://5.188.159.128:8070/Cartoon_Network/index.m3u8
 http://176.118.197.101/Cartoon_Network/index.m3u8
 #EXTINF:-1 tvg-id="boomerang" tvg-name="Cartoonito" tvg-logo="http://epg.one/img/929.png" group-title="Детские", Cartoonito
 #EXTGRP:Детские
-http://88.216.112.114/Cartoonito/index.m3u8
+https://ucdn.beetv.kz/bpk-tv/000000160/tve/index.m3u8
 #EXTINF:-1 tvg-name="CPS Anime" tvg-logo="https://avatars.mds.yandex.net/i?id=d0cd0536644c44380ed9a5f1fc4f51bd2169a5dd-5335451-images-thumbs&n=13" group-title="Детские", CPS Anime
 #EXTGRP:Детские
 http://hls127.freeott.top:8080/CPS_Anime/video.m3u8
