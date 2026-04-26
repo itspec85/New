@@ -2125,14 +2125,14 @@ http://ukr.ukrainske.tv/134/keytvainua/video.m3u8
 http://cdn.kubteltv.workers.dev/?ID=110
 #EXTINF:-1 tvg-id="match-football1" tvg-name="Матч! Футбол 1" tvg-logo="http://epg.one/img/2044.png" group-title="Спорт", Матч! Футбол 1
 #EXTGRP:Спорт
-http://89.218.32.179:18000/play/a034
+http://s1.merlive.am/matchfutbol1/index.m3u8
 #EXTINF:-1 tvg-id="match-football1" tvg-name="Матч! Футбол 1 HD" tvg-logo="http://epg.one/img/2044.png" group-title="Спорт", Матч! Футбол 1 HD
 #EXTGRP:Спорт
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
 https://mhd128.iptv2022.com/p/qKFxRRYwRvXMlIJ_o5Mcnw,1777229963/streaming/footbal1hd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="match-football2" tvg-name="Матч! Футбол 2" tvg-logo="http://epg.one/img/1042.png" group-title="Спорт", Матч! Футбол 2
 #EXTGRP:Спорт
-http://89.218.32.179:18000/play/a035
+http://193.25.8.59:8000/fut2
 #EXTINF:-1 tvg-id="match-football2" tvg-name="Матч! Футбол 2 HD" tvg-logo="http://epg.one/img/1042.png" group-title="Спорт", Матч! Футбол 2 HD
 #EXTGRP:Спорт
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
@@ -2174,9 +2174,6 @@ https://live.teleradiocom.tj/8/3m.m3u8
 #EXTINF:-1 tvg-id="xokkejny" tvg-name="Хоккей ТВ" tvg-logo="http://epg.one/img/4605.png" group-title="Спорт", Хоккей ТВ HD
 #EXTGRP:Спорт
 http://cdn.kubteltv.workers.dev/?ID=405
-#EXTINF:-1 tvg-name="A21 Network" tvg-logo="https://a21network.ru/wp-content/uploads/2022/02/a21_live.jpg" group-title="Спорт", A21 Network
-#EXTGRP:Спорт
-https://autopilot.catcast.tv/content/37909/index.m3u8
 #EXTINF:-1 tvg-id="a-spor-tr" tvg-name="A Spor [TR]" tvg-logo="http://epg.one/img/2587.png" group-title="Спорт", A Spor HD TR
 #EXTGRP:Спорт
 http://app-plus.live:80/9680723188/kyft6ks0g7gr7uw0xio6/196803
@@ -2224,7 +2221,7 @@ https://ucdn.beetv.kz/bpk-tv/000002478/tve/index.m3u8
 http://85.117.37.41/eurosport1/index.m3u8
 #EXTINF:-1 tvg-id="eurosport1-pl" tvg-name="Eurosport 1 HD [PL]" tvg-logo="http://epg.one/img/2052.png" group-title="Спорт", Eurosport 1 RS (Сербия)
 #EXTGRP:Спорт
-http://185.112.249.46:9981/stream/channelid/718615486?profile=pass
+http://169.150.223.25/Eurosport1HD/index.m3u8
 #EXTINF:-1 tvg-name="Eurosport 1 TR" tvg-logo="http://epg.one/img/2052.png" group-title="Спорт", Eurosport 1 TR
 #EXTGRP:Спорт
 http://app-plus.live:80/9680723188/kyft6ks0g7gr7uw0xio6/196844
@@ -2236,7 +2233,7 @@ https://ucdn.beetv.kz/bpk-tv/000002479/tve/index.m3u8
 http://176.96.241.40/Eurosport2/index.m3u8
 #EXTINF:-1 tvg-id="eurosport2-pl" tvg-name="Eurosport 2 HD [PL]" tvg-logo="http://epg.one/img/4313.png" group-title="Спорт", Eurosport 2 RS (Сербия)
 #EXTGRP:Спорт
-http://185.112.249.46:9981/stream/channelid/737993602?profile=pass
+http://169.150.223.25/Eurosport2HD/index.m3u8
 #EXTINF:-1 tvg-name="Eurosport 2 TR" tvg-logo="http://epg.one/img/4313.png" group-title="Спорт", Eurosport 2 TR
 #EXTGRP:Спорт
 http://app-plus.live:80/9680723188/kyft6ks0g7gr7uw0xio6/196845
@@ -2257,7 +2254,7 @@ https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3
 https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8
 #EXTINF:-1 tvg-name="Glory Kickboxing" tvg-logo="https://avatars.mds.yandex.net/i?id=abf21721486b2e4657813651412bc1e1a1a854a9-10304277-images-thumbs&n=13" group-title="Спорт", Glory Kickboxing
 #EXTGRP:Спорт
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f178-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=df3ca9c7-d700-4719-be3f-74dd169206f8
+https://jmp2.uk/plu-5417a212ff9fba68282fbf5e.m3u8
 #EXTINF:-1 tvg-name="HORSE & COUNTRY HD SE" tvg-logo="http://epg.one/img/4850.png" group-title="Спорт", HORSE & COUNTRY HD SE
 #EXTGRP:Спорт
 https://hncfree-samsungau.amagi.tv/playlist720-p.m3u8
@@ -2276,21 +2273,9 @@ http://77.245.98.18:8000/play/a016
 #EXTINF:-1 tvg-id="kxl-hd" tvg-name="KHL Prime HD" tvg-logo="http://epg.one/img/1038.png" group-title="Спорт", KHL Prime HD (резерв)
 #EXTGRP:Спорт
 http://37.46.49.14:18010/play/a01q/index.m3u8
-#EXTINF:-1 tvg-id="max-sport-1" tvg-name="MAX Sport 1 HD" tvg-logo="https://epg.iptvx.one/picons/max-sport-1.png" group-title="Спорт", MAX Sport 1 HD
-#EXTGRP:Спорт
-http://87.246.54.249:8080/MaxSport1/index.m3u8
-#EXTINF:-1 tvg-id="max-sport-2" tvg-name="MAX Sport 2 HD" tvg-logo="https://epg.iptvx.one/picons/max-sport-2.png" group-title="Спорт", MAX Sport 2 HD
-#EXTGRP:Спорт
-http://87.246.54.249:8080/MaxSport2/index.m3u8
-#EXTINF:-1 tvg-id="max-sport-3" tvg-name="MAX Sport 3 HD" tvg-logo="https://epg.iptvx.one/picons/max-sport-3.png" group-title="Спорт", MAX Sport 3 HD
-#EXTGRP:Спорт
-http://87.246.54.249:8080/MaxSport3/index.m3u8
-#EXTINF:-1 tvg-id="max-sport-4" tvg-name="MAX Sport 4 HD" tvg-logo="https://epg.iptvx.one/picons/max-sport-4.png" group-title="Спорт", MAX Sport 4 HD
-#EXTGRP:Спорт
-http://87.246.54.249:8080/MaxSport4/index.m3u8
 #EXTINF:-1 tvg-id="mlb-network-us" tvg-name="MLB Network HD CA" tvg-logo="http://epg.one/img/3654.png" group-title="Спорт", MLB Network HD CA
 #EXTGRP:Спорт
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e66968a70f34c0007d050be/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c29dbd3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0f1d3baf-2f1b-47d7-9966-3e92a98f1c8a&serverSideAds=false
+https://aegis-cloudfront-1.tubi.video/36ef2f9d-7100-4c4d-b41a-dbf41ab7e461/playlist.m3u8
 #EXTINF:-1 tvg-id="m1global" tvg-name="MMA-TV.com" tvg-logo="http://epg.one/img/2326.png" group-title="Спорт", MMA-TV.com
 #EXTGRP:Спорт
 http://46.53.208.4:80/live/2100.m3u8
