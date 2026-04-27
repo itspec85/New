@@ -948,7 +948,7 @@ https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-67642f277c5e3b38af72dcdb.m3u8
 #EXTINF:-1 tvg-id="curiosity-stream" tvg-name="Curiosity Stream HD" tvg-logo="http://epg.one/img/7266.png" group-title="Познавательные", Curiosity Stream HD
 #EXTGRP:Познавательные
-http://46.53.208.4:80/live/994.m3u8
+http://37.46.49.14:18010/play/a08w/index.m3u8
 #EXTINF:-1 tvg-id="deutsche-welle-eu" tvg-name="Deutsche Welle EN" tvg-logo="http://epg.one/img/8638.png" group-title="Познавательные", Deutsche Welle EN
 #EXTGRP:Познавательные
 https://api-tv.ipnet.ua/api/v1/manifest/2118742360.m3u8
@@ -958,9 +958,6 @@ https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
 #EXTINF:-1 tvg-id="discovery-channel" tvg-name="Discovery Channel" tvg-logo="http://epg.one/img/325.png" group-title="Познавательные", Discovery Channel
 #EXTGRP:Познавательные
 http://5.188.159.128:8070/DiscoveryChannel/index.m3u8
-#EXTINF:-1 tvg-id="epic" tvg-name="Epic" tvg-logo="http://epg.one/img/9054.png" group-title="Познавательные", Epic HD
-#EXTGRP:Познавательные
-http://46.53.208.4:80/live/171-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 tvg-id="euronews" tvg-name="Euronews Россия" tvg-logo="http://epg.one/img/2266.png" group-title="Познавательные", Euronews Россия
 #EXTGRP:Познавательные
 https://a3569457567-s70378.cdn.ngenix.net/euronews/1/index.m3u8
@@ -1023,10 +1020,10 @@ https://api.alpaca.t62a.com/hls/9104/stream0.m3u8
 http://api.alpaca.t62a.com/hls/9110/stream0.m3u8
 #EXTINF:-1 tvg-id="luxury" tvg-name="Luxury" tvg-logo="http://epg.one/img/2759.png" group-title="Познавательные", Luxury
 #EXTGRP:Познавательные
-http://nat6-minsk-pool-46-53-208-4.telecom.by/live/212-req_offset_28000000-req_window_0-4k_v5.m3u8
+http://s1.tv-nano.com/Luxury_rec/video.m3u8
 #EXTINF:-1 tvg-id="nano-hd" tvg-name="NANO TV" tvg-logo="http://epg.one/img/2428.png" group-title="Познавательные", NANO TV HD
 #EXTGRP:Познавательные
-http://nat6-minsk-pool-46-53-208-4.telecom.by/live/211-req_offset_28000000-req_window_0-4k_v5.m3u8
+http://178.134.1.158:8081/nano/index.m3u8
 #EXTINF:-1 tvg-id="nat-geo-wild" tvg-name="Nat Geo Wild" tvg-logo="http://epg.one/img/223.png" group-title="Познавательные", Nat Geo Wild
 #EXTGRP:Познавательные
 http://176.96.241.40/NatGeoWildHD/index.m3u8
@@ -1053,10 +1050,10 @@ https://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
 https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-4/mxtm-wdfe_1080p/chunklist_DVR.m3u8
 #EXTINF:-1 tvg-id="rtg-hd" tvg-name="RTG HD" tvg-logo="http://epg.one/img/648.png" group-title="Познавательные", RTG HD
 #EXTGRP:Познавательные
-http://nat6-minsk-pool-46-53-208-4.telecom.by/live/1406-req_offset_28000000-req_window_0-3k_v5.m3u8
+https://a3569457567-s70378.cdn.ngenix.net/rtg_hd/1/index.m3u8
 #EXTINF:-1 tvg-id="rtg-tv" tvg-name="RTG TV" tvg-logo="http://epg.one/img/2280.png" group-title="Познавательные", RTG TV
 #EXTGRP:Познавательные
-http://46.53.208.4:80/live/131.m3u8
+http://hls127.freeott.top:8080/RTG_TV/mono.m3u8
 #EXTINF:-1 tvg-id="rtvi" tvg-name="RTVi" tvg-logo="http://epg.one/img/2401.png" group-title="Познавательные", RTVi
 #EXTGRP:Познавательные
 https://a3569457567-s70378.cdn.ngenix.net/rtvi/1/index.m3u8
