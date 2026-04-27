@@ -1306,9 +1306,6 @@ https://mhd128.iptv2022.com/p/X_kc1O6zTa497EXIA_Sz_w,1777316490/streaming/den-po
 #EXTINF:-1 tvg-id="domkino" tvg-name="Дом кино" tvg-logo="http://epg.one/img/834.png" group-title="Кино", Дом Кино
 #EXTGRP:Кино
 http://46.32.176.50/domkino/index.m3u8
-#EXTINF:-1 tvg-id="domkino-premium" tvg-name="Дом Кино Премиум" tvg-logo="http://epg.one/img/2020.png" group-title="Кино", Дом Кино Премиум
-#EXTGRP:Кино
-http://46.53.208.4:80/live/5111.m3u8
 #EXTINF:-1 tvg-id="domkino-premium" tvg-name="Дом Кино Премиум HD" tvg-logo="http://epg.one/img/2020.png" group-title="Кино", Дом Кино Премиум HD
 #EXTGRP:Кино
 https://a3569457567-s70378.cdn.ngenix.net/dom_kino_premium_hd/3/index.m3u8
@@ -1317,10 +1314,10 @@ https://a3569457567-s70378.cdn.ngenix.net/dom_kino_premium_hd/3/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000003392/tve/index.m3u8
 #EXTINF:-1 tvg-id="evrokino" tvg-name="Еврокино" tvg-logo="http://epg.one/img/352.png" group-title="Кино", Еврокино
 #EXTGRP:Кино
-http://46.53.208.4:80/live/903-req_offset_28000000-req_window_0-1k_v5.m3u8
+http://46.32.176.50/eurokino/index.m3u8
 #EXTINF:-1 tvg-name="Иллюзион+" tvg-logo="http://epg.one/img/2403.png" group-title="Кино", Иллюзион +
 #EXTGRP:Кино
-http://46.53.208.4/live/603.m3u8
+http://46.32.176.50/illuzion/index.m3u8
 #EXTINF:-1 tvg-id="indiyskoe-kino" tvg-name="Индийское кино" tvg-logo="http://epg.one/img/798.png" group-title="Кино", ИНДИЙСКОЕ КИНО
 #EXTGRP:Кино
 http://188.113.190.12/329/index.m3u8
@@ -1333,7 +1330,7 @@ https://a3569457567-s70378.cdn.ngenix.net/zee_tv/2/index.m3u8
 https://mhd128.iptv2022.com/p/Pl_x4kOk39ngtpSpow5AIg,1777316489/streaming/kamedi/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="kineko" tvg-name="Кинеко" tvg-logo="http://epg.one/img/7314.png" group-title="Кино", Кинеко
 #EXTGRP:Кино
-http://46.53.208.4/live/1812.m3u8
+https://ucdn.beetv.kz/bpk-tv/000008136/tve/index.m3u8
 #EXTINF:-1 tvg-id="kino1int-tviksel" tvg-name="Кино 1 International" tvg-logo="http://epg.one/img/6258.png" group-title="Кино", Кино 1 International
 #EXTGRP:Кино
 https://kino-1.catcast.tv/content/38617/index.m3u8
@@ -1369,7 +1366,7 @@ http://hls127.freeott.top:8080/Kinopokaz_HD/video.m3u8
 http://157.90.0.245:8070/KINOPREMIERA/index.m3u8
 #EXTINF:-1 tvg-id="kinosat" tvg-name="Киносат" tvg-logo="http://epg.one/img/2407.png" group-title="Кино", Киносат
 #EXTGRP:Кино
-http://46.53.208.4/live/59.m3u8
+https://flussonic.mkpnet.ru/tv-e055808223a74709/video.m3u8
 #EXTINF:-1 tvg-id="kinosvidanie" tvg-name="Киносвидание" tvg-logo="http://epg.one/img/462.png" group-title="Кино", КИНОСВИДАНИЕ
 #EXTGRP:Кино
 https://a3569457567-s70378.cdn.ngenix.net/kinoklub/1/index.m3u8
@@ -1393,7 +1390,7 @@ https://a3569457567-s70378.cdn.ngenix.net/kinouzhas/1/index.m3u8
 https://a3285272783-s80718.cdn.ngenix.net//hls//CH_KINOHITHD//video_800x450_avc1/playlist.m3u8
 #EXTINF:-1 tvg-id="klassika-kino" tvg-name="Классика Кино" tvg-logo="https://epg.iptvx.one/picons/klassika-kino.png" group-title="Кино", Классика Кино
 #EXTGRP:Кино
-http://nat6-minsk-pool-46-53-208-4.telecom.by/live/3006-req_offset_28000000-req_window_0-3k_v5.m3u8
+http://stitch.teletarget.ru/vintera/movieclassic/index.m3u8
 #EXTINF:-1 tvg-id="lubimoe-kino" tvg-name="Любимое кино" tvg-logo="http://epg.one/img/477.png" group-title="Кино", Любимое Кино
 #EXTGRP:Кино
 http://176.118.197.101/LubimoeKino/index.m3u8
@@ -1405,10 +1402,10 @@ http://94.236.201.114/MIR_SERIALA_SD/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000008488/tve/index.m3u8
 #EXTINF:-1 tvg-id="mosfilm" tvg-name="Мосфильм. Золотая коллекция" tvg-logo="http://epg.one/img/3357.png" group-title="Кино", Мосфильм. Золотая коллекция
 #EXTGRP:Кино
-http://46.53.208.4/live/1124.m3u8
-#EXTINF:-1 tvg-id="muvitv" tvg-name="Муви ТВ" tvg-logo="https://epg.iptvx.one/picons/muvitv.png" group-title="Кино", Муви ТВ
+http://hls127.freeott.top:8080/Mosfilm/mono.m3u8
+#EXTINF:-1 tvg-id="mosfilm" tvg-name="Мосфильм. Золотая коллекция" tvg-logo="http://epg.one/img/3357.png" group-title="Кино", Мосфильм. Золотая коллекция HD
 #EXTGRP:Кино
-http://46.53.208.4:80/live/5007-req_offset_28000000-req_window_0-3k_v5.m3u8
+http://cdn.kubteltv.workers.dev/?ID=353
 #EXTINF:-1 tvg-id="muzhskoe-kino" tvg-name="Мужское кино" tvg-logo="http://epg.one/img/1584.png" group-title="Кино", МУЖСКОЕ КИНО
 #EXTGRP:Кино
 http://46.32.176.50/MujskoeKinoHD/index.m3u8
@@ -1417,7 +1414,7 @@ http://46.32.176.50/MujskoeKinoHD/index.m3u8
 http://hls127.freeott.top:8080/Nash_kinomir/video.m3u8
 #EXTINF:-1 tvg-id="nash-kinopokaz" tvg-name="Наш кинопоказ" tvg-logo="http://epg.one/img/2831.png" group-title="Кино", Наш Кинопоказ HD
 #EXTGRP:Кино
-http://46.53.208.4:80/live/285.m3u8
+http://cdn.kubteltv.workers.dev/?ID=414
 #EXTINF:-1 tvg-id="nashehd" tvg-name="Наше крутое HD" tvg-logo="http://epg.one/img/2018.png" group-title="Кино", Наше крутое HD
 #EXTGRP:Кино
 http://hls127.freeott.top:8080/Nashe_HD/mono.m3u8
@@ -1436,7 +1433,7 @@ https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1_output_0.m3u
 http://80.77.52.3/streams/media/nstv_720x576/index.m3u8
 #EXTINF:-1 tvg-id="ntv-serial" tvg-name="НТВ Сериал" tvg-logo="http://epg.one/img/1754.png" group-title="Кино", НТВ Сериал
 #EXTGRP:Кино
-http://46.53.208.4/live/2065-req_5k_v5.m3u8
+http://s1.merlive.am/ntvserial/index.m3u8
 #EXTINF:-1 tvg-id="ntv-xit" tvg-name="НТВ Хит" tvg-logo="http://epg.one/img/2041.png" group-title="Кино", НТВ Хит HD
 #EXTGRP:Кино
 http://193.25.8.59:8000/Paramount
@@ -1454,7 +1451,7 @@ https://ucdn.beetv.kz/bpk-tv/000008491/tve/index.m3u8
 http://hls127.freeott.top:8080/ProLubovHD/mono.m3u8
 #EXTINF:-1 tvg-id="retro-tv" tvg-name="Ретро ТВ" tvg-logo="http://epg.one/img/2402.png" group-title="Кино", Ретро ТВ
 #EXTGRP:Кино
-http://46.53.208.4:80/live/335-req_offset_28000000-req_window_0-1k_v5.m3u8
+http://176.96.241.40/Retro/index.m3u8
 #EXTINF:-1 tvg-id="rodnoe-kino" tvg-name="Родное кино" tvg-logo="http://epg.one/img/12.png" group-title="Кино", РОДНОЕ КИНО
 #EXTGRP:Кино
 http://176.118.197.101/RodnoeKino/index.m3u8
@@ -1469,7 +1466,7 @@ https://flussonic.mkpnet.ru/tv-ccf8c891702508a7/video.m3u8
 https://flussonic.mkpnet.ru/tv-2997fed720614567/video.m3u8
 #EXTINF:-1 tvg-id="russky-illuzion" tvg-name="Русский иллюзион" tvg-logo="http://epg.one/img/53.png" group-title="Кино", Русский Иллюзион
 #EXTGRP:Кино
-http://nat6-minsk-pool-46-53-208-4.telecom.by/live/616-req_offset_28000000-req_window_0-5k_v5.m3u8
+http://46.32.176.50/russkiyiluzion/index.m3u8
 #EXTINF:-1 tvg-name="Русский иллюзион International" tvg-logo="http://epg.one/img/53.png" group-title="Кино", Русский Иллюзион International
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000004207/tve/index.m3u8
@@ -1478,7 +1475,7 @@ https://ucdn.beetv.kz/bpk-tv/000004207/tve/index.m3u8
 http://185.46.16.239:8000/Russkiy_roman
 #EXTINF:-1 tvg-id="sapfir" tvg-name="Сапфир" tvg-logo="http://epg.one/img/7315.png" group-title="Кино", Сапфир
 #EXTGRP:Кино
-http://46.53.208.4/live/3978-req_5k_v5.m3u8
+https://ucdn.beetv.kz/bpk-tv/000008135/tve/index.m3u8
 #EXTINF:-1 tvg-id="semejnoe-kino-kz" tvg-name="Семейное кино KZ" tvg-logo="https://iptvx.one/picons/semejnoe-kino-kz.png" group-title="Кино", Семейное кино KZ
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000008489/tve/index.m3u8
@@ -1491,9 +1488,6 @@ https://stream.smotrim.ru/hls/fasttv01/playlist_3.m3u8
 #EXTINF:-1 tvg-id="smotrim-100-muzhskoe" tvg-name="Смотрим 100% Мужское" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-muzhskoe.png" group-title="Кино", Смотрим 100% Мужское
 #EXTGRP:Кино
 https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8
-#EXTINF:-1 tvg-name="ТЕХ ЛЕТ ТВ" tvg-logo="https://avatars.mds.yandex.net/i?id=4eec7ea358d2be017234f51013bfcb5a10b4f3c2-6985270-images-thumbs&n=13" group-title="Кино", ТЕХ ЛЕТ ТВ
-#EXTGRP:Кино
-http://46.53.208.4/live/9489.m3u8
 #EXTINF:-1 tvg-id="chestny-detektiv" tvg-name="Честный детектив" tvg-logo="https://epg.iptvx.one/picons/chestny-detektiv.png" group-title="Кино", Смотрим Честный детектив
 #EXTGRP:Кино
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
@@ -1502,7 +1496,7 @@ http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5
 http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8
 #EXTINF:-1 tvg-id="feniks-plus-kino" tvg-name="Феникс плюс Кино" tvg-logo="http://epg.one/img/2404.png" group-title="Кино", Феникс плюс Кино
 #EXTGRP:Кино
-http://46.53.208.4:80/live/332.m3u8
+https://ucdn.beetv.kz/bpk-tv/000000125/tve/index.m3u8
 #EXTINF:-1 tvg-id="khit-hd" tvg-name="Хит HD" tvg-logo="http://epg.one/img/2833.png" group-title="Кино", Хит HD
 #EXTGRP:Кино
 http://hls127.freeott.top:8080/XitHD/video.m3u8
