@@ -1629,9 +1629,6 @@ http://hls127.freeott.top:8080/PG_USSR_HD/manifest.m3u8
 #EXTINF:-1 tvg-id="vhshd" tvg-name="VHS HD" tvg-logo="http://epg.one/img/5462.png" group-title="Кино", VHS HD
 #EXTGRP:Кино
 http://hls127.freeott.top:8080/PG_VHS_HD/manifest.m3u8
-#EXTINF:-1 tvg-id="vhs-ka" tvg-name="VHS-ка HD" tvg-logo="http://epg.one/img/9065.png" group-title="Кино", VHS-ка HD
-#EXTGRP:Кино
-http://46.53.208.4:80/live/1123.m3u8
 #EXTINF:-1 tvg-id="4k-ruskino" tvg-name="VHS-ка Русское кино HD" tvg-logo="https://epg.iptvx.one/picons/4k-ruskino.png" group-title="Кино", VHS-ка Русское кино HD
 #EXTGRP:Кино
 https://kino.zunotv.workers.dev/russkoe_kino_4k/index.m3u8
@@ -1664,7 +1661,7 @@ https://ucdn.beetv.kz/bpk-tv/000003910/tve/index.m3u8
 http://cdn.kubteltv.workers.dev/?ID=192
 #EXTINF:-1 tvg-id="viju-tv1000-romantica" tvg-name="Viju TV1000 Romantica HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/97/Viju_TV1000_Romantica.svg/revision/latest/scale-to-width-down/284?cb=20240928200507" group-title="Кино", Viju TV1000 Romantica HD
 #EXTGRP:Кино
-http://46.53.208.4:80/live/3111.m3u8
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=hDVXfOe6KkbonXhEjIc93w&e=1777998159&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1 tvg-id="vip-comedy" tvg-name="viju+ Comedy HD" tvg-logo="http://epg.one/img/1011.png" group-title="Кино", Viju+ Comedy HD
 #EXTGRP:Кино
 http://46.32.176.50/VIPComedyHD/index.m3u8
@@ -2066,7 +2063,7 @@ http://hls127.freeott.top:8080/MyTV_Hit/mono.m3u8
 
 #EXTINF:-1 tvg-id="belarus5" tvg-name="Беларусь 5 HD" tvg-logo="http://epg.one/img/2541.png" group-title="Спорт", Беларусь 5 HD
 #EXTGRP:Спорт
-http://nat6-minsk-pool-46-53-208-4.telecom.by/live/9-req_offset_28000000-req_window_0-4k_v5.m3u8
+https://edge55.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/chunklist_w654405596_b2660000_sleng.m3u8
 #EXTINF:-1 tvg-id="box-tv" tvg-name="Бокс ТВ" tvg-logo="http://epg.one/img/2285.png" group-title="Спорт", Бокс ТВ
 #EXTGRP:Спорт
 https://a3285272783-s80718.cdn.ngenix.net/hls/CH_BOKS_TVHD/video_1920x1080_avc1/playlist.m3u8?useseq=t
@@ -2152,9 +2149,6 @@ http://ua.online24.pm/play/7337/350B326FB34F4B8/video.m3u8
 #EXTINF:-1 tvg-id="okko-football" tvg-name="Окко.Футбол" tvg-logo="http://epg.one/img/9325.png" group-title="Спорт", Окко Футбол HD
 #EXTGRP:Спорт
 https://kino.zunotv.workers.dev/okko_futbol_hd/index.m3u8
-#EXTINF:-1 tvg-id="sport-tv-by" tvg-name="Спорт ТВ [BY]" tvg-logo="https://epg.iptvx.one/picons/sport-tv-by.png" group-title="Спорт", Спорт ТВ BY
-#EXTGRP:Спорт
-http://nat6-minsk-pool-46-53-208-4.telecom.by/live/8112-req_offset_28000000-req_window_0-5k_v5.m3u8
 #EXTINF:-1 tvg-id="sportivny" tvg-name="ТВ Спорт" tvg-logo="http://epg.one/img/4678.png" group-title="Спорт", ТВ Спорт HD
 #EXTGRP:Спорт
 http://live-3.otcnet.ru/sportivny/index.m3u8
@@ -2238,7 +2232,7 @@ http://169.150.223.25/Eurosport2HD/index.m3u8
 http://app-plus.live:80/9680723188/kyft6ks0g7gr7uw0xio6/196845
 #EXTINF:-1 tvg-id="extreme-sports" tvg-name="Extreme Sports" tvg-logo="http://epg.one/img/2053.png" group-title="Спорт", Extreme Sports
 #EXTGRP:Спорт
-http://46.53.208.4/live/3009-req_5k_v5.m3u8
+https://flussonic.mkpnet.ru/tv-1a9441fd32d63873/video.m3u8
 #EXTINF:-1 tvg-id="fast-sport-am" tvg-name="Fast Sports" tvg-logo="https://epg.iptvx.one/picons/fast-sport-am.png" group-title="Спорт", Fast Sports
 #EXTGRP:Спорт
 https://a3285272783-s80718.cdn.ngenix.net//hls//CH_FAST_SPORTSHD//video_1920x1080_avc1/playlist.m3u8
@@ -2277,7 +2271,7 @@ http://37.46.49.14:18010/play/a01q/index.m3u8
 https://aegis-cloudfront-1.tubi.video/36ef2f9d-7100-4c4d-b41a-dbf41ab7e461/playlist.m3u8
 #EXTINF:-1 tvg-id="m1global" tvg-name="MMA-TV.com" tvg-logo="http://epg.one/img/2326.png" group-title="Спорт", MMA-TV.com
 #EXTGRP:Спорт
-http://46.53.208.4:80/live/2100.m3u8
+https://a3569457567-s70378.cdn.ngenix.net/m1_global/1/index.m3u8
 #EXTINF:-1 tvg-id="nba-tv" tvg-name="NBA TV HD US" tvg-logo="http://epg.one/img/4587.png" group-title="Спорт", NBA TV HD US
 #EXTGRP:Спорт
 http://kstv.us:8080/c2Q2HDqQfM/111770/15946
@@ -2478,7 +2472,7 @@ http://89.218.32.179:18000/play/a02n
 http://5.188.159.128:8070/Bridge_TV_Classic/index.m3u8
 #EXTINF:-1 tvg-id="bridge-hd" tvg-name="Bridge TV Deluxe" tvg-logo="http://epg.one/img/2022.png" group-title="Музыка", Bridge Deluxe HD
 #EXTGRP:Музыка
-http://46.53.208.4/live/110.m3u8
+http://46.32.176.50/BridgeTVHD/index.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-dance" tvg-name="Bridge TV Hits" tvg-logo="http://epg.one/img/2024.png" group-title="Музыка", Bridge Hits
 #EXTGRP:Музыка
 http://5.188.159.128:8070/Bridge_TV_Hits/index.m3u8
