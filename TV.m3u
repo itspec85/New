@@ -194,7 +194,7 @@ http://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v3a1/mono.m3u8
 http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
 #EXTINF:-1 tvg-id="mir" tvg-name="Мир" tvg-logo="http://epg.one/img/726.png" group-title="Россия", Мир
 #EXTGRP:Россия
-http://46.53.208.4:80/live/754-req_offset_28000000-req_window_0-1k_v5.m3u8
+http://s1.merlive.am/Mir/index.m3u8
 #EXTINF:-1 tvg-id="mir" tvg-name="Мир HD" tvg-logo="http://epg.one/img/726.png" group-title="Россия", Мир HD
 #EXTGRP:Россия
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
@@ -330,9 +330,6 @@ http://31.131.141.195:8000/play/2090/index.m3u8
 #EXTINF:-1 tvg-id="tnt" tvg-name="ТНТ HD" tvg-logo="http://epg.one/img/1767.png" group-title="Россия", ТНТ HD
 #EXTGRP:Россия
 http://s1.merlive.am/tnthd/index.m3u8
-#EXTINF:-1 tvg-id="tnt-int-eu" tvg-name="ТНТ-International (Европа)" tvg-logo="http://epg.one/img/5692.png" group-title="Россия", ТНТ-International (Европа)
-#EXTGRP:Россия
-http://46.53.208.4/live/5120.m3u8
 #EXTINF:-1 tvg-id="tnt-int-cis" tvg-name="ТНТ-International (СНГ)" tvg-logo="http://epg.one/img/5692.png" group-title="Россия", ТНТ International (СНГ)
 #EXTGRP:Россия
 https://ucdn.beetv.kz/bpk-tv/000007833/tve/index.m3u8
@@ -576,7 +573,7 @@ https://stream8.cinerama.uz/1037/tracks-v1a1/mono.m3u8
 http://185.46.16.239:8000/Paramount_Comedy
 #EXTINF:-1 tvg-id="avto24" tvg-name="Авто 24" tvg-logo="http://epg.one/img/2008.png" group-title="Познавательные", Авто 24
 #EXTGRP:Познавательные
-http://46.53.208.4/live/588.m3u8
+http://s1.merlive.am/Avto24/index.m3u8
 #EXTINF:-1 tvg-id="avto-plus" tvg-name="Авто Плюс" tvg-logo="http://epg.one/img/153.png" group-title="Познавательные", Авто Плюс
 #EXTGRP:Познавательные
 http://46.32.176.50/avtoplyus/index.m3u8
@@ -612,7 +609,7 @@ http://89.218.32.179:18000/play/a027
 https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="voprosy-i-otvety" tvg-name="Вопросы и ответы" tvg-logo="http://epg.one/img/2451.png" group-title="Познавательные", Вопросы и ответы
 #EXTGRP:Познавательные
-http://46.53.208.4/live/1515.m3u8
+https://ucdn.beetv.kz/bpk-tv/000000195/tve/index.m3u8
 #EXTINF:-1 tvg-id="vremia" tvg-name="Время" tvg-logo="http://epg.one/img/669.png" group-title="Познавательные", Время
 #EXTGRP:Познавательные
 http://46.32.176.50/Vremya/index.m3u8
@@ -627,10 +624,12 @@ https://a3569457567-s70378.cdn.ngenix.net/glazami_turista/1/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000003174/tve/index.m3u8
 #EXTINF:-1 tvg-id="dikaya-oxota-hd" tvg-name="Дикая охота HD" tvg-logo="http://epg.one/img/2483.png" group-title="Познавательные", Дикая охота HD
 #EXTGRP:Познавательные
-http://46.53.208.4:80/live/2325.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
+https://mhd128.iptv2022.com/p/e5q3PDnG09p97NVCCPHmmw,1777359216/streaming/ohotahd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="dikaya-rybalka-hd" tvg-name="Дикая рыбалка HD" tvg-logo="http://epg.one/img/2484.png" group-title="Познавательные", Дикая рыбалка HD
 #EXTGRP:Познавательные
-http://46.53.208.4:80/live/2324.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
+https://mhd128.iptv2022.com/p/JIISyyHoJY7tDZy3p6Tosg,1777359216/streaming/ribalkahd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="dikiy" tvg-name="Дикий" tvg-logo="http://epg.one/img/2283.png" group-title="Познавательные", Дикий
 #EXTGRP:Познавательные
 http://176.96.241.40/Dikiy/index.m3u8
