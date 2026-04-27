@@ -1063,12 +1063,9 @@ http://87.246.54.249:8080/RTVI/index.m3u8
 #EXTINF:-1 tvg-id="russky-ekstrim" tvg-name="Russian Extreme HD" tvg-logo="http://epg.one/img/2497.png" group-title="Познавательные", Russian Extreme HD
 #EXTGRP:Познавательные
 http://cdn.kubteltv.workers.dev/?ID=358
-#EXTINF:-1 tvg-id="russian-extreme-uhd" tvg-name="Russian Extreme UHD" tvg-logo="http://epg.one/img/4110.png" group-title="Познавательные", Russian Extreme UHD
-#EXTGRP:Познавательные
-http://46.53.208.4:80/live/1042.m3u8
 #EXTINF:-1 tvg-id="terra-ru" tvg-name="TERRA" tvg-logo="http://epg.one/img/7632.png" group-title="Познавательные", TERRA
 #EXTGRP:Познавательные
-http://46.53.208.4/live/1500.m3u8
+https://ucdn.beetv.kz/bpk-tv/000008142/tve/index.m3u8
 #EXTINF:-1 tvg-id="the-explorers" tvg-name="The Explorers" tvg-logo="http://epg.one/img/9082.png" group-title="Познавательные", The Explorers
 #EXTGRP:Познавательные
 https://a3569457567-s70378.cdn.ngenix.net/the_explorers/2/index.m3u8
@@ -1089,25 +1086,25 @@ http://77.245.98.18:8000/play/a00n
 http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="viasat-explore" tvg-name="Viju Explore" tvg-logo="http://epg.one/img/521.png" group-title="Познавательные", Viju Explore
 #EXTGRP:Познавательные
-http://46.53.208.4/live/540.m3u8
+http://217.11.177.56/streams/media/viasat-explore_720x576/index.m3u8
 #EXTINF:-1 tvg-id="viasat-explore" tvg-name="Viju Explore" tvg-logo="http://epg.one/img/521.png" group-title="Познавательные", Viju Explore HD
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000004157/tve/index.m3u8
 #EXTINF:-1 tvg-id="viasat-history" tvg-name="Viju History" tvg-logo="http://epg.one/img/277.png" group-title="Познавательные", Viju History
 #EXTGRP:Познавательные
-http://46.53.208.4/live/541.m3u8
+https://a3569457567-s70378.cdn.ngenix.net/viasat_history/2/index.m3u8
 #EXTINF:-1 tvg-id="viasat-history" tvg-name="Viju History" tvg-logo="http://epg.one/img/277.png" group-title="Познавательные", Viju History HD
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000005528/tve/index.m3u8
 #EXTINF:-1 tvg-id="viasat-nature" tvg-name="Viju Nature" tvg-logo="http://epg.one/img/765.png" group-title="Познавательные", Viju Nature
 #EXTGRP:Познавательные
-http://46.53.208.4/live/542.m3u8
+https://a3569457567-s70378.cdn.ngenix.net/viasat_nature/2/index.m3u8
 #EXTINF:-1 tvg-id="viasat-nature" tvg-name="Viju Nature" tvg-logo="http://epg.one/img/765.png" group-title="Познавательные", Viju Nature HD
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000006482/tve/index.m3u8
 #EXTINF:-1 tvg-id="viasat-nature-history-hd" tvg-name="viju+ Planet HD" tvg-logo="http://epg.one/img/2012.png" group-title="Познавательные", viju+ Planet HD
 #EXTGRP:Познавательные
-http://46.53.208.4/live/6006-req_5k_v5.m3u8
+https://kino.zunotv.workers.dev/viju_plus_planet_hd/index.m3u8
 #EXTINF:-1 tvg-name="VIP HD" tvg-logo="https://avatars.mds.yandex.net/i?id=caa18786cf719cb262caf54d3cbbd750_sr-9099210-images-thumbs&n=13" group-title="Познавательные", VIP HD
 #EXTGRP:Познавательные
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/vip.m3u8
@@ -1116,7 +1113,7 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-
 http://live-3.otcnet.ru/wfcrus/index.m3u8
 #EXTINF:-1 tvg-id="zoopark" tvg-name="ZOOПарк" tvg-logo="http://epg.one/img/367.png" group-title="Познавательные", Zooпарк HD
 #EXTGRP:Познавательные
-http://46.53.208.4/live/996.m3u8
+https://a3569457567-s70378.cdn.ngenix.net/zoopark/2/index.m3u8
 
 
 
