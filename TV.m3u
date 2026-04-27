@@ -3471,60 +3471,30 @@ http://timeshift.arpinet.am/233/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="8kanal-by" tvg-name="8 канал Беларусь" tvg-logo="https://epg.iptvx.one/picons/8by.png" group-title="Беларусь", 8 канал Беларусь
-#EXTGRP:Беларусь
-http://nat6-minsk-pool-46-53-208-4.telecom.by/live/962-req_offset_28000000-req_window_0-4k_v5.m3u8
 #EXTINF:-1 tvg-id="belarus1" tvg-name="Беларусь 1 HD" tvg-logo="http://epg.one/img/2538.png" group-title="Беларусь", Беларусь 1 HD
 #EXTGRP:Беларусь
-http://nat6-minsk-pool-46-53-208-4.telecom.by/live/10001-req_offset_28000000-req_window_0-4k_v5.m3u8
+https://edge53.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1/chunklist_w749522209_b5160000_sleng.m3u8
 #EXTINF:-1 tvg-id="belarus2" tvg-name="Беларусь 2 HD" tvg-logo="http://epg.one/img/2539.png" group-title="Беларусь", Беларусь 2 HD
 #EXTGRP:Беларусь
-http://nat6-minsk-pool-46-53-208-4.telecom.by/live/693-req_offset_28000000-req_window_0-4k_v5.m3u8
+https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus2.smil/chunklist_w684715497_b1460000_sleng.m3u8
 #EXTINF:-1 tvg-id="belarus3" tvg-name="Беларусь 3 HD" tvg-logo="http://epg.one/img/2540.png" group-title="Беларусь", Беларусь 3 HD
 #EXTGRP:Беларусь
-http://nat6-minsk-pool-46-53-208-4.telecom.by/live/8-req_offset_28000000-req_window_0-5k_v5.m3u8
-#EXTINF:-1 tvg-id="belarus4-brest" tvg-name="Беларусь 4 Брест" tvg-logo="https://epg.iptvx.one/picons/belarus4-brest.png" group-title="Беларусь", Беларусь 4 Брест
-#EXTGRP:Беларусь
-http://nat6-minsk-pool-46-53-208-4.telecom.by/live/2013-req_offset_28000000-req_window_0-3k_v5.m3u8
-#EXTINF:-1 tvg-id="belarus4-vitebsk" tvg-name="Беларусь 4 Витебск" tvg-logo="https://epg.iptvx.one/picons/belarus4-vitebsk.png" group-title="Беларусь", Беларусь 4 Витебск
-#EXTGRP:Беларусь
-http://nat6-minsk-pool-46-53-208-4.telecom.by/live/2012-req_offset_28000000-req_window_0-4k_v5.m3u8
+https://edge56.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3/chunklist_w1793694951_b5160000_sleng.m3u8
 #EXTINF:-1 tvg-id="belarus4-gomel" tvg-name="Беларусь 4 Гомель" tvg-logo="https://epg.iptvx.one/picons/belarus4-gomel.png" group-title="Беларусь", Беларусь 4 Гомель
 #EXTGRP:Беларусь
-http://nat6-minsk-pool-46-53-208-4.telecom.by/live/2011-req_offset_28000000-req_window_0-4k_v5.m3u8
-#EXTINF:-1 tvg-id="belarus4-mogilev" tvg-name="Беларусь 4 Могилев" tvg-logo="https://epg.iptvx.one/picons/belarus4-mogilev.png" group-title="Беларусь", Беларусь 4 Могилев
-#EXTGRP:Беларусь
-http://nat6-minsk-pool-46-53-208-4.telecom.by/live/2097-req_offset_28000000-req_window_0-4k_v5.m3u8
+http://46.56.85.151:8080/0.m3u8
 #EXTINF:-1 tvg-id="belarus24" tvg-name="Беларусь 24" tvg-logo="http://epg.one/img/2170.png" group-title="Беларусь", Беларусь 24
 #EXTGRP:Беларусь
-https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/chunklist_w1008231497_b5160000_sleng.m3u8
-#EXTINF:-1 tvg-id="belmuztv" tvg-name="БелМузТВ" tvg-logo="https://epg.iptvx.one/picons/belmuztv.png" group-title="Беларусь", БелМузТВ
-#EXTGRP:Беларусь
-http://nat6-minsk-pool-46-53-208-4.telecom.by/live/966-req_offset_28000000-req_window_0-3k_v5.m3u8
+https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/chunklist_w_b1460000_sleng.m3u8
 #EXTINF:-1 tvg-id="belsat" tvg-name="Белсат" tvg-logo="http://epg.one/img/4627.png" group-title="Беларусь", БелСат
 #EXTGRP:Беларусь
 http://portal.ott.pink/C5UK_BelsatTV/mpegts?token=9ED1CC22511FE66191AD465072EEE8DF
-#EXTINF:-1 tvg-id="bobruysk360" tvg-name="Бобруйск 360" tvg-logo="https://epg.iptvx.one/picons/bobruysk360.png" group-title="Беларусь", Бобруйск 360
-#EXTGRP:Беларусь
-http://nat6-minsk-pool-46-53-208-4.telecom.by/live/6239-req_offset_28000000-req_window_0-3k_v5.m3u8
-#EXTINF:-1 tvg-id="bug-tv" tvg-name="Буг-ТВ" tvg-logo="https://epg.iptvx.one/picons/bug-tv.png" group-title="Беларусь", Буг-ТВ
-#EXTGRP:Беларусь
-http://nat6-minsk-pool-46-53-208-4.telecom.by/live/7001-req_offset_28000000-req_window_0-4k_v5.m3u8
-#EXTINF:-1 tvg-id="vitebsk" tvg-name="Витебск" tvg-logo="https://epg.iptvx.one/picons/vitebsk.png" group-title="Беларусь", Витебск
-#EXTGRP:Беларусь
-http://nat6-minsk-pool-46-53-208-4.telecom.by/live/2023-req_offset_28000000-req_window_0-3k_v5.m3u8
-#EXTINF:-1 tvg-id="voentv-by" tvg-name="ВоенТВ [BY]" tvg-logo="https://epg.iptvx.one/picons/voentv-by.png" group-title="Беларусь", ВоенТВ [BY]
-#EXTGRP:Беларусь
-http://46.53.208.4:80/live/101.m3u8
-#EXTINF:-1 tvg-id="zvyazda-by" tvg-name="Звязда" tvg-logo="https://epg.iptvx.one/picons/zvyazda-by.png" group-title="Беларусь", Звязда
-#EXTGRP:Беларусь
-http://nat6-minsk-pool-46-53-208-4.telecom.by/live/6238-req_offset_28000000-req_window_0-4k_v5.m3u8
 #EXTINF:-1 tvg-name="Лагуна ТВ" tvg-logo="https://avatars.mds.yandex.net/i?id=84b07f2bc267c0f28c1618f35568dafc6bf0dcc5-5549928-images-thumbs&n=13" group-title="Беларусь", Лагуна ТВ
 #EXTGRP:Беларусь
 http://nat6-minsk-pool-46-53-208-4.telecom.by/live/7002-req_offset_28000000-req_window_0-4k_v5.m3u8
 #EXTINF:-1 tvg-name="Наше ТВ" tvg-logo="https://avatars.mds.yandex.net/i?id=c467f7ea055f40491143eede7620ffc343d62545-10384273-images-thumbs&n=13" group-title="Беларусь", Наше ТВ
 #EXTGRP:Беларусь
-http://nat6-minsk-pool-46-53-208-4.telecom.by/live/218-req_offset_28000000-req_window_0-3k_v5.m3u8
+
 #EXTINF:-1 tvg-id="ntv-belarus" tvg-name="НТВ-Беларусь" tvg-logo="http://epg.one/img/6773.png" group-title="Беларусь", НТВ Беларусь
 #EXTGRP:Беларусь
 http://nat6-minsk-pool-46-53-208-4.telecom.by/live/6-req_offset_28000000-req_window_0-4k_v5.m3u8
