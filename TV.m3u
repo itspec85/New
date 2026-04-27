@@ -1641,6 +1641,12 @@ http://hls127.freeott.top:8080/PG_VHS_HD/manifest.m3u8
 #EXTINF:-1 tvg-id="vhs-ka" tvg-name="VHS-ка HD" tvg-logo="http://epg.one/img/9065.png" group-title="Кино", VHS-ка HD
 #EXTGRP:Кино
 http://46.53.208.4:80/live/1123.m3u8
+#EXTINF:-1 tvg-id="4k-ruskino" tvg-name="VHS-ка Русское кино HD" tvg-logo="https://epg.iptvx.one/picons/4k-ruskino.png" group-title="Кино", VHS-ка Русское кино HD
+#EXTGRP:Кино
+https://kino.zunotv.workers.dev/russkoe_kino_4k/index.m3u8
+#EXTINF:-1 tvg-id="vhska-serial" tvg-name="VHS-ка Сериал" tvg-logo="https://epg.iptvx.one/picons/vhska-serial.png" group-title="Кино", VHS-ка Сериал HD
+#EXTGRP:Кино
+https://kino.zunotv.workers.dev/vhs_serial_hd/index.m3u8
 #EXTINF:-1 tvg-id="vip-comedy-cee" tvg-name="Viasat Kino Comedy" tvg-logo="http://epg.one/img/8880.png" group-title="Кино", Viasat Kino Comedy HD
 #EXTGRP:Кино
 http://ukr2.ukrainske.tv/493/video.m3u8
@@ -2104,9 +2110,15 @@ http://45.145.32.13:20440/mir_basketbola/index.m3u8?token=test
 #EXTINF:-1 tvg-id="footbolny" tvg-name="Мяч" tvg-logo="http://epg.one/img/4679.png" group-title="Спорт", Мяч HD
 #EXTGRP:Спорт
 http://cdn.kubteltv.workers.dev/?ID=404
-#EXTINF:-1 tvg-id="okko-sport" tvg-name="Окко.Спорт" tvg-logo="https://epg.iptvx.one/picons/okko-sport.png" group-title="Спорт", Окко.Спорт
+#EXTINF:-1 tvg-id="okko-sport-2" tvg-name="Окко.Прайм Спорт" tvg-logo="http://epg.one/img/9324.png" group-title="Спорт", Окко Прайм Спорт
+#EXTGRP:Спорт
+https://kino.zunotv.workers.dev/okko_praym_sport_hd/index.m3u8
+#EXTINF:-1 tvg-id="okko-sport" tvg-name="Окко.Спорт" tvg-logo="http://epg.one/img/7889.png" group-title="Спорт", Окко Спорт HD
 #EXTGRP:Спорт
 http://ua.online24.pm/play/7337/350B326FB34F4B8/video.m3u8
+#EXTINF:-1 tvg-id="okko-football" tvg-name="Окко.Футбол" tvg-logo="http://epg.one/img/9325.png" group-title="Спорт", Окко Футбол HD
+#EXTGRP:Спорт
+https://kino.zunotv.workers.dev/okko_futbol_hd/index.m3u8
 #EXTINF:-1 tvg-id="sport-tv-by" tvg-name="Спорт ТВ [BY]" tvg-logo="https://epg.iptvx.one/picons/sport-tv-by.png" group-title="Спорт", Спорт ТВ BY
 #EXTGRP:Спорт
 http://nat6-minsk-pool-46-53-208-4.telecom.by/live/8112-req_offset_28000000-req_window_0-5k_v5.m3u8
