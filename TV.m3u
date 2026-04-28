@@ -1472,7 +1472,7 @@ https://stream.smotrim.ru/hls/fasttv01/playlist_3.m3u8
 #EXTINF:-1 tvg-id="smotrim-100-muzhskoe" tvg-name="Смотрим 100% Мужское" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-muzhskoe.png" group-title="Кино", Смотрим 100% Мужское
 #EXTGRP:Кино
 https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8
-#EXTINF:-1 tvg-id="chestny-detektiv" tvg-name="Честный детектив" tvg-logo="https://epg.iptvx.one/picons/chestny-detektiv.png" group-title="Кино", Смотрим Честный детектив
+#EXTINF:-1 tvg-id="chestny-detektiv" tvg-name="Честный детектив" tvg-logo="https://cdn-st3.smotrim.ru/vh/pictures/r/444/241/8.png" group-title="Кино", Смотрим Честный детектив
 #EXTGRP:Кино
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="sovkino" tvg-name="Советское кино" tvg-logo="http://epg.one/img/9399.png" group-title="Кино", Советское кино
