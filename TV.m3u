@@ -2124,7 +2124,7 @@ http://cdn.kubteltv.workers.dev/?ID=404
 https://kino.zunotv.workers.dev/okko_praym_sport_hd/index.m3u8
 #EXTINF:-1 tvg-id="okko-sport" tvg-name="Окко.Спорт" tvg-logo="http://epg.one/img/7889.png" group-title="Спорт", Окко Спорт HD
 #EXTGRP:Спорт
-http://ua.online24.pm/play/7337/350B326FB34F4B8/video.m3u8
+https://kino.zunotv.workers.dev/okko_sport_hd/index.m3u8
 #EXTINF:-1 tvg-id="okko-football" tvg-name="Окко.Футбол" tvg-logo="http://epg.one/img/9325.png" group-title="Спорт", Окко Футбол HD
 #EXTGRP:Спорт
 https://kino.zunotv.workers.dev/okko_futbol_hd/index.m3u8
