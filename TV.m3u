@@ -2076,7 +2076,7 @@ http://185.46.48.18:80/match/tracks-v1a1/mono.m3u8
 https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
 #EXTINF:-1 tvg-id="match-arena" tvg-name="Матч! Арена" tvg-logo="http://epg.one/img/2003.png" group-title="Спорт", Матч! Арена
 #EXTGRP:Спорт
-http://46.32.176.50/MatchArenaHD/index.m3u8
+https://flussonic.mkpnet.ru/tv-9dda1dd9d740a9a4/video.m3u8
 #EXTINF:-1 tvg-id="match-arena" tvg-name="Матч! Арена" tvg-logo="http://epg.one/img/2003.png" group-title="Спорт", Матч! Арена HD
 #EXTGRP:Спорт
 http://cdn.kubteltv.workers.dev/?ID=113
