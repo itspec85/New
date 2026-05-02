@@ -1509,16 +1509,16 @@ http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
 http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
 #EXTINF:-1 tvg-id="amedia1" tvg-name="Amedia 1" tvg-logo="http://epg.one/img/1371.png" group-title="Кино", Amedia 1
 #EXTGRP:Кино
-http://46.32.176.50/amedia1/index.m3u8
+https://a3569457567-s70378.cdn.ngenix.net/amedia_1/2/index.m3u8
 #EXTINF:-1 tvg-id="amedia2" tvg-name="Amedia 2" tvg-logo="http://epg.one/img/2492.png" group-title="Кино", Amedia 2
 #EXTGRP:Кино
-http://46.32.176.50/amedia2/index.m3u8
+http://hls127.freeott.top:8080/Amedia_2_HD/video.m3u8
 #EXTINF:-1 tvg-id="amedia-hit" tvg-name="Amedia Hit" tvg-logo="http://epg.one/img/2007.png" group-title="Кино", Amedia Hit
 #EXTGRP:Кино
-http://46.32.176.50/amediahit/index.m3u8
+https://flussonic.mkpnet.ru/tv-8f04998179283ee5/video.m3u8
 #EXTINF:-1 tvg-id="amedia-premium" tvg-name="Amedia Premium" tvg-logo="http://epg.one/img/1372.png" group-title="Кино", Amedia Premium
 #EXTGRP:Кино
-http://46.32.176.50/AmediaPremiumHD/index.m3u8
+https://a3569457567-s70378.cdn.ngenix.net/amedia_premium_hd/3/index.m3u8
 #EXTINF:-1 tvg-id="bollywood-hd" tvg-name="Bollywood HD" tvg-logo="http://epg.one/img/1395.png" group-title="Кино", Bollywood HD
 #EXTGRP:Кино
 http://176.118.197.101/Bollywood_HD/index.m3u8
@@ -1560,7 +1560,7 @@ https://ucdn.beetv.kz/bpk-tv/000004471/tve/index.m3u8
 http://37.46.49.14:18010/play/a09n/index.m3u8
 #EXTINF:-1 tvg-id="hollywood-hd" tvg-name="Hollywood HD" tvg-logo="http://epg.one/img/934.png" group-title="Кино", Hollywood HD
 #EXTGRP:Кино
-http://46.32.176.50/HollywoodHD/index.m3u8
+http://tmptv.sunduk.tv/CH291/index.m3u8
 #EXTINF:-1 tvg-name="Horror TV" tvg-logo="http://epg.one/img/8792.png" group-title="Кино", Horror TV
 #EXTGRP:Кино
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/93dc292b-cbcf-4988-ab97-94feced4c14b/manifest.m3u8
@@ -1659,16 +1659,16 @@ http://cdn.kubteltv.workers.dev/?ID=192
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=hDVXfOe6KkbonXhEjIc93w&e=1777998159&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1 tvg-id="vip-comedy" tvg-name="viju+ Comedy HD" tvg-logo="http://epg.one/img/1011.png" group-title="Кино", Viju+ Comedy HD
 #EXTGRP:Кино
-http://46.32.176.50/VIPComedyHD/index.m3u8
+https://flussonic.mkpnet.ru/tv-c385ec3bab3a3605/video.m3u8
 #EXTINF:-1 tvg-id="vip-megahit" tvg-name="viju+ Megahit HD" tvg-logo="http://epg.one/img/1012.png" group-title="Кино", Viju+ Megahit HD
 #EXTGRP:Кино
-http://46.32.176.50/VIPMegahitHD/index.m3u8
+http://hls127.freeott.top:8080/ViP_Megahit/video.m3u8
 #EXTINF:-1 tvg-id="vip-premiere" tvg-name="viju+ Premiere HD" tvg-logo="http://epg.one/img/1013.png" group-title="Кино", Viju+ Premiere HD
 #EXTGRP:Кино
-http://46.32.176.50/VIPPremiereHD/index.m3u8
+https://flussonic.mkpnet.ru/tv-e107d21a90cb808f/video.m3u8
 #EXTINF:-1 tvg-id="vip-serial" tvg-name="viju+ Serial HD" tvg-logo="http://epg.one/img/2838.png" group-title="Кино", Viju+ Serial HD
 #EXTGRP:Кино
-http://46.32.176.50/ViasatSportHD/index.m3u8
+http://tv.woobl.ru/viju_plus_serial_hd/video.m3u8?token=test3445
 
 
 
