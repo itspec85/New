@@ -1612,6 +1612,9 @@ http://hls127.freeott.top:8080/PG_USSR_HD/manifest.m3u8
 #EXTINF:-1 tvg-id="vhshd" tvg-name="VHS HD" tvg-logo="http://epg.one/img/5462.png" group-title="Кино", VHS HD
 #EXTGRP:Кино
 http://hls127.freeott.top:8080/PG_VHS_HD/manifest.m3u8
+#EXTINF:-1 tvg-id="vhs-ka" tvg-name="VHS-ка HD" tvg-logo="https://epg.iptvx.one/picons/vhs-ka.png" group-title="Кино", VHS-ка HD
+#EXTGRP:Кино
+http://tmptv.sunduk.tv/CH5505/index.m3u8
 #EXTINF:-1 tvg-id="4k-ruskino" tvg-name="VHS-ка Русское кино HD" tvg-logo="https://epg.iptvx.one/picons/4k-ruskino.png" group-title="Кино", VHS-ка Русское кино HD
 #EXTGRP:Кино
 https://kino.zunotv.workers.dev/russkoe_kino_4k/index.m3u8
