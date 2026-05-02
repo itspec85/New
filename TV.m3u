@@ -2199,7 +2199,7 @@ http://fortv.cc:8080/sed8nurse@hotmail.com/0LzoNUu9jX/17707
 http://fortv.cc:8080/sed8nurse@hotmail.com/0LzoNUu9jX/10255
 #EXTINF:-1 tvg-id="eurosport1" tvg-name="Eurosport 1" tvg-logo="http://epg.one/img/2052.png" group-title="Спорт", Eurosport 1
 #EXTGRP:Спорт
-http://46.32.176.50/eurosport/index.m3u8
+http://85.117.37.41/eurosport1/index.m3u8
 #EXTINF:-1 tvg-id="eurosport1" tvg-name="Eurosport 1 HD" tvg-logo="http://epg.one/img/2052.png" group-title="Спорт", Eurosport 1 HD
 #EXTGRP:Спорт
 https://ucdn.beetv.kz/bpk-tv/000002478/tve/index.m3u8
@@ -2211,7 +2211,7 @@ http://169.150.223.25/Eurosport1HD/index.m3u8
 http://app-plus.live:80/9680723188/kyft6ks0g7gr7uw0xio6/196844
 #EXTINF:-1 tvg-id="eurosport2" tvg-name="Eurosport 2" tvg-logo="http://epg.one/img/4313.png" group-title="Спорт", Eurosport 2
 #EXTGRP:Спорт
-http://46.32.176.50/eurosport2/index.m3u8
+http://176.96.241.40/Eurosport2/index.m3u8
 #EXTINF:-1 tvg-id="eurosport2" tvg-name="Eurosport 2 HD" tvg-logo="http://epg.one/img/4313.png" group-title="Спорт", Eurosport 2 HD
 #EXTGRP:Спорт
 https://ucdn.beetv.kz/bpk-tv/000002479/tve/index.m3u8
@@ -2463,7 +2463,7 @@ http://89.218.32.179:18000/play/a02n
 http://5.188.159.128:8070/Bridge_TV_Classic/index.m3u8
 #EXTINF:-1 tvg-id="bridge-hd" tvg-name="Bridge TV Deluxe" tvg-logo="http://epg.one/img/2022.png" group-title="Музыка", Bridge Deluxe HD
 #EXTGRP:Музыка
-http://46.32.176.50/BridgeTVHD/index.m3u8
+http://tmptv.sunduk.tv/CH257/index.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-dance" tvg-name="Bridge TV Hits" tvg-logo="http://epg.one/img/2024.png" group-title="Музыка", Bridge Hits
 #EXTGRP:Музыка
 http://5.188.159.128:8070/Bridge_TV_Hits/index.m3u8
@@ -2490,7 +2490,7 @@ http://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
 #EXTINF:-1 tvg-id="europa-plus-tv" tvg-name="Europa Plus TV" tvg-logo="http://epg.one/img/681.png" group-title="Музыка", Europa Plus TV
 #EXTGRP:Музыка
-http://46.32.176.50/europaplus/index.m3u8
+http://tmptv.sunduk.tv/CH267/index.m3u8
 #EXTINF:-1 tvg-id="tnt-music" tvg-name="FON music" tvg-logo="http://epg.one/img/680.png" group-title="Музыка", FON music
 #EXTGRP:Музыка
 http://185.46.16.239:8000/Nashe_TV
@@ -2508,7 +2508,7 @@ http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 #EXTINF:-1 tvg-id="mcm-top" tvg-name="MCM Top" tvg-logo="http://epg.one/img/2276.png" group-title="Музыка", MCM Top
 #EXTGRP:Музыка
-http://46.32.176.50/mcmtop/index.m3u8
+https://ucdn.beetv.kz/bpk-tv/000000327/tve/index.m3u8
 #EXTINF:-1 tvg-id="mezzo" tvg-name="Mezzo" tvg-logo="http://epg.one/img/801.png" group-title="Музыка", Mezzo
 #EXTGRP:Музыка
 https://a3569457567-s70378.cdn.ngenix.net/mezzo/1/index.m3u8
