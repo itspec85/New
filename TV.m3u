@@ -1441,7 +1441,7 @@ http://176.96.241.40/Retro/index.m3u8
 http://176.118.197.101/RodnoeKino/index.m3u8
 #EXTINF:-1 tvg-id="rukino-hd" tvg-name="РуКино HD" tvg-logo="http://epg.one/img/4721.png" group-title="Кино", РуКино HD
 #EXTGRP:Кино
-http://hls127.freeott.top:8080/PG_Rukino_HD/manifest.m3u8
+http://hls127.freeott.top:8080/PG_Rukino_HD/mono.m3u8
 #EXTINF:-1 tvg-id="russky-bestseller" tvg-name="Русский бестселлер" tvg-logo="http://epg.one/img/994.png" group-title="Кино", Русский бестселлер
 #EXTGRP:Кино
 https://flussonic.mkpnet.ru/tv-ccf8c891702508a7/video.m3u8
@@ -1556,6 +1556,9 @@ http://tmptv.sunduk.tv/CH291/index.m3u8
 #EXTINF:-1 tvg-name="Horror TV" tvg-logo="http://epg.one/img/8792.png" group-title="Кино", Horror TV
 #EXTGRP:Кино
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/93dc292b-cbcf-4988-ab97-94feced4c14b/manifest.m3u8
+#EXTINF:-1 tvg-id="insomnia-hd" tvg-name="Insomnia HD" tvg-logo="http://epg.one/img/6836.png" group-title="Кино", Insomnia HD
+#EXTGRP:Кино
+http://hls127.freeott.top:8080/PG_Insomnia_HD/mono.m3u8
 #EXTINF:-1 tvg-id="kino-24" tvg-name="Kino 24" tvg-logo="https://avatars.mds.yandex.net/i?id=e1062a4964110759e8963d4fc1aef3b22c56bddf-7761267-images-thumbs&n=13" group-title="Кино", Kino 24
 #EXTGRP:Кино
 http://sirius.greenhosting.ru/Kino24Ru/tracks-v1a1/mono.m3u8
@@ -1573,16 +1576,16 @@ https://live.15plusmg.ru/memfs/5a03fc7a-8417-4874-b56f-91b8aeba1210_output_0.m3u
 https://ucdn.beetv.kz/bpk-tv/000007625/tve/index.m3u8
 #EXTINF:-1 tvg-id="paradise-hd" tvg-name="Paradise HD" tvg-logo="http://epg.one/img/4725.png" group-title="Кино", Paradise HD
 #EXTGRP:Кино
-http://hls127.freeott.top:8080/PG_Paradise_HD/manifest.m3u8
+http://hls127.freeott.top:8080/PG_Paradise_HD/mono.m3u8
 #EXTINF:-1 tvg-id="paradox-hd" tvg-name="Paradox HD" tvg-logo="http://epg.one/img/4723.png" group-title="Кино", Paradox HD
 #EXTGRP:Кино
-http://hls127.freeott.top:8080/PG_Paradox_HD/manifest.m3u8
-#EXTINF:-1 tvg-id="premiere-hd" tvg-name="Premiere HD" tvg-logo="http://epg.one/img/6836.png" group-title="Кино", Premier Insomnia HD
+http://hls127.freeott.top:8080/PG_Paradox_HD/mono.m3u8
+#EXTINF:-1 tvg-id="premiere-hd" tvg-name="Premiere HD" tvg-logo="http://epg.one/img/4719.png" group-title="Кино", Premier HD
 #EXTGRP:Кино
-http://hls127.freeott.top:8080/PG_Premiere_HD/manifest.m3u8
+http://hls127.freeott.top:8080/PG_Premiere_HD/mono.m3u8
 #EXTINF:-1 tvg-id="premium-hd" tvg-name="Premium HD" tvg-logo="http://epg.one/img/4720.png" group-title="Кино", Premium HD
 #EXTGRP:Кино
-http://hls127.freeott.top:8080/PG_Premium_HD/manifest.m3u8
+http://hls127.freeott.top:8080/PG_Premium_HD/mono.m3u8
 #EXTINF:-1 tvg-id="romance" tvg-name="Romance HD" tvg-logo="http://epg.one/img/9179.png" group-title="Кино", Romance HD
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000008780/tve/index.m3u8
@@ -1600,7 +1603,7 @@ https://str-01.sunset-media.org/SunsetOne/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000008739/tve/index.m3u8
 #EXTINF:-1 tvg-id="thriller-hd" tvg-name="Thriller HD" tvg-logo="http://epg.one/img/4724.png" group-title="Кино", Thriller HD
 #EXTGRP:Кино
-http://hls127.freeott.top:8080/PG_Thriller_HD/manifest.m3u8
+http://hls127.freeott.top:8080/PG_Thriller_HD/mono.m3u8
 #EXTINF:-1 tvg-id="tvxxi" tvg-name="TV XXI" tvg-logo="http://epg.one/img/309.png" group-title="Кино", TV XXI
 #EXTGRP:Кино
 http://85.117.37.41/tv21/index.m3u8
@@ -1609,10 +1612,10 @@ http://85.117.37.41/tv21/index.m3u8
 https://kb.catcast.tv/content/49702/index.m3u8
 #EXTINF:-1 tvg-id="ussr-premieregroup" tvg-name="USSR HD" tvg-logo="http://epg.one/img/4727.png" group-title="Кино", USSR
 #EXTGRP:Кино
-http://hls127.freeott.top:8080/PG_USSR_HD/manifest.m3u8
+http://hls127.freeott.top:8080/PG_USSR_HD/mono.m3u8
 #EXTINF:-1 tvg-id="vhshd" tvg-name="VHS HD" tvg-logo="http://epg.one/img/5462.png" group-title="Кино", VHS HD
 #EXTGRP:Кино
-http://hls127.freeott.top:8080/PG_VHS_HD/manifest.m3u8
+http://hls127.freeott.top:8080/PG_VHS_HD/mono.m3u8
 #EXTINF:-1 tvg-id="vhs-ka" tvg-name="VHS-ка HD" tvg-logo="https://epg.iptvx.one/picons/vhs-ka.png" group-title="Кино", VHS-ка HD
 #EXTGRP:Кино
 http://tmptv.sunduk.tv/CH5505/index.m3u8
