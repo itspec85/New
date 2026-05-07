@@ -397,6 +397,9 @@ http://95.47.155.244:8001/play/a009
 #EXTINF:-1 tvg-id="otr" tvg-shift="-7" tvg-name="ОТР +7" tvg-logo="http://epg.one/img/1000.png" group-title="Россия плюсовые", ОТР +7
 #EXTGRP:Россия плюсовые
 http://193.25.8.59:8000/otr
+#EXTINF:-1 tvg-id="pervy-pl1" tvg-name="Первый канал +1" tvg-logo="http://epg.one/img/146.png" group-title="Россия плюсовые", Первый канал +1
+#EXTGRP:Россия плюсовые
+http://de1.plist.link:3355/FGfpnUmovVu02842/index.m3u8?token=8AqJ8y_ch5_3l2pEaM-dP69Dd05bBcjtc0E-5QWb3DCVA8R6XpnInAXvqhi6viPw.tg6457680141
 #EXTINF:-1 tvg-id="pervy-pl2" tvg-name="Первый канал +2" tvg-logo="http://epg.one/img/2034.png" group-title="Россия плюсовые", Первый канал +2
 #EXTGRP:Россия плюсовые
 https://stream.zuno-tv.workers.dev/channel/9091/769dda33/index.m3u8
@@ -406,6 +409,12 @@ http://95.47.155.244:8001/play/a001
 #EXTINF:-1 tvg-id="pervy-pl6" tvg-name="Первый канал +6" tvg-logo="http://epg.one/img/20.png" group-title="Россия плюсовые", Первый канал +6
 #EXTGRP:Россия плюсовые
 https://stream.zuno-tv.workers.dev/channel/9091/n57169a0e/index.m3u8
+#EXTINF:-1 tvg-id="pervy-pl7" tvg-name="Первый канал +7" tvg-logo="http://epg.one/img/3026.png" group-title="Россия плюсовые", Первый канал +7
+#EXTGRP:Россия плюсовые
+http://de1.plist.link:3355/FGfpnUmovVu92802/index.m3u8?token=8AqJ8y_ch5_3l2pEaM-dPwmoRj9UIHNlAFENdt517uEWeSOBYOPqeoUuPwgneF1A.tg6457680141
+#EXTINF:-1 tvg-id="pervy-pl8" tvg-name="Первый канал +8" tvg-logo="http://epg.one/img/3027.png" group-title="Россия плюсовые", Первый канал +8
+#EXTGRP:Россия плюсовые
+http://de1.plist.link:3355/FGfpnUmovVu5387/index.m3u8?token=8AqJ8y_ch5_3l2pEaM-dP_XkBesYMorMpB-Wj3GMvgynXvgaqyNrL1lkQMJbVZCw.tg6457680141
 #EXTINF:-1 tvg-id="piatnica-pl2" tvg-name="Пятница +2" tvg-logo="http://epg.one/img/3016.png" group-title="Россия плюсовые", Пятница +2
 #EXTGRP:Россия плюсовые
 https://stream.zuno-tv.workers.dev/channel/9090/n64007e6c/index.m3u8
@@ -415,6 +424,9 @@ http://95.47.155.244:8001/play/a016
 #EXTINF:-1 tvg-id="piatnica-pl7" tvg-name="Пятница +7" tvg-logo="http://epg.one/img/3018.png" group-title="Россия плюсовые", Пятница +7
 #EXTGRP:Россия плюсовые
 http://193.25.8.59:8000/pyatnitsa
+#EXTINF:-1 tvg-id="5kanal-ru-pl2" tvg-name="Пятый канал +2" tvg-logo="http://epg.one/img/2035.png" group-title="Россия плюсовые", Пятый канал +2
+#EXTGRP:Россия плюсовые
+http://de1.plist.link:3355/FGfpnUmovVu7372/index.m3u8?token=8AqJ8y_ch5_3l2pEaM-dP2YUxeN1P7z4LUlAzPZKMIUAunxLM3wkwAYH3hgGvYDL.tg6457680141
 #EXTINF:-1 tvg-id="5kanal-ru-pl4" tvg-name="Пятый канал +4" tvg-logo="http://epg.one/img/3030.png" group-title="Россия плюсовые", Пятый канал +4
 #EXTGRP:Россия плюсовые
 http://95.47.155.244:8001/play/a005
@@ -466,9 +478,15 @@ https://stream.zuno-tv.workers.dev/channel/9090/1edf04b4/index.m3u8
 #EXTINF:-1 tvg-id="rossia1" tvg-shift="-6" tvg-name="Россия 1 +6 HD" tvg-logo="http://epg.one/img/3002.png" group-title="Россия плюсовые", Россия 1 +6 HD
 #EXTGRP:Россия плюсовые
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/6/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="rossia1" tvg-shift="-7" tvg-name="Россия 1 +7" tvg-logo="http://epg.one/img/711.png" group-title="Россия плюсовые", Россия 1 +7
+#EXTGRP:Россия плюсовые
+http://de1.plist.link:3355/FGfpnUmovVu62804/index.m3u8?token=8AqJ8y_ch5_3l2pEaM-dP-3F26Lfz7p8j8m4CvcaH7-ceylsJGhfSwxyIwTAPaUo.tg6457680141
 #EXTINF:-1 tvg-id="rossia1" tvg-shift="-7" tvg-name="Россия 1 +7 HD" tvg-logo="http://epg.one/img/711.png" group-title="Россия плюсовые", Россия 1 +7 HD
 #EXTGRP:Россия плюсовые
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="rossia1" tvg-shift="-8" tvg-name="Россия 1 +8" tvg-logo="http://epg.one/img/3003.png" group-title="Россия плюсовые", Россия 1 +8
+#EXTGRP:Россия плюсовые
+http://de1.plist.link:3355/FGfpnUmovVu3389/index.m3u8?token=8AqJ8y_ch5_3l2pEaM-dP0Sj8iorNnrRDx2J1p-hkAlM7NHmDNQFya9RpyFrHnGn.tg6457680141
 #EXTINF:-1 tvg-id="rossia1" tvg-shift="-8" tvg-name="Россия 1 +8 HD" tvg-logo="http://epg.one/img/3003.png" group-title="Россия плюсовые", Россия 1 +8 HD
 #EXTGRP:Россия плюсовые
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/8/russia1-hd/index.m3u8
@@ -520,6 +538,9 @@ http://95.47.155.244:8001/play/a015
 #EXTINF:-1 tvg-id="tv3-ru-pl7" tvg-name="ТВ3 +7" tvg-logo="http://epg.one/img/3015.png" group-title="Россия плюсовые", ТВ3 +7
 #EXTGRP:Россия плюсовые
 http://193.25.8.59:8000/tv3
+#EXTINF:-1 tvg-id="tvcentr-pl2" tvg-name="ТВЦ +2" tvg-logo="http://epg.one/img/2038.png" group-title="Россия плюсовые", ТВЦ +2
+#EXTGRP:Россия плюсовые
+http://de1.plist.link:3355/FGfpnUmovVu6374/index.m3u8?token=8AqJ8y_ch5_3l2pEaM-dP4dktFaaHDtWo4gEIaRpCnODvfdEJfuKrvWJFcyoKCOj.tg6457680141
 #EXTINF:-1 tvg-id="tvcentr-pl4" tvg-name="ТВЦ +4" tvg-logo="http://epg.one/img/3037.png" group-title="Россия плюсовые", ТВЦ +4
 #EXTGRP:Россия плюсовые
 http://95.47.155.244:8001/play/a010
@@ -535,6 +556,9 @@ http://95.47.155.244:8001/play/a019
 #EXTINF:-1 tvg-id="tnt-pl7" tvg-name="ТНТ +7" tvg-logo="http://epg.one/img/3024.png" group-title="Россия плюсовые", ТНТ +7
 #EXTGRP:Россия плюсовые
 https://stream.zuno-tv.workers.dev/channel/9090/4e495cca/index.m3u8
+#EXTINF:-1 tvg-id="tnt4-pl2" tvg-name="ТНТ4 +2" tvg-logo="http://epg.one/img/7978.png" group-title="Россия плюсовые", ТНТ4 +2
+#EXTGRP:Россия плюсовые
+http://de1.plist.link:3355/FGfpnUmovVu0423/index.m3u8?token=8AqJ8y_ch5_3l2pEaM-dP3uPQnRDjX-r4oYFA9Y76B94rGHBsKqnyTMJdV-a_f2J.tg6457680141
 #EXTINF:-1 tvg-id="tnt4-pl4" tvg-name="ТНТ4 +4" tvg-logo="http://epg.one/img/7979.png" group-title="Россия плюсовые", ТНТ4 +4
 #EXTGRP:Россия плюсовые
 https://stream.zuno-tv.workers.dev/channel/9090/4e495c6d/index.m3u8
