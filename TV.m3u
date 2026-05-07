@@ -2101,7 +2101,7 @@ https://flussonic.mkpnet.ru/tv-9dda1dd9d740a9a4/video.m3u8
 http://cdn.kubteltv.workers.dev/?ID=113
 #EXTINF:-1 tvg-id="match-boets" tvg-name="Матч! Боец" tvg-logo="http://epg.one/img/2054.png" group-title="Спорт", Матч! Боец
 #EXTGRP:Спорт
-http://s1.merlive.am/match-boec/index.m3u8
+http://tmptv.sunduk.tv/CH51/index.m3u8
 #EXTINF:-1 tvg-id="match-boets" tvg-name="Матч! Боец HD" tvg-logo="http://epg.one/img/2054.png" group-title="Спорт", Матч! Боец HD
 #EXTGRP:Спорт
 http://cdn.kubteltv.workers.dev/?ID=112
@@ -2128,7 +2128,7 @@ http://ukr.ukrainske.tv/134/keytvainua/video.m3u8
 http://cdn.kubteltv.workers.dev/?ID=110
 #EXTINF:-1 tvg-id="match-football1" tvg-name="Матч! Футбол 1" tvg-logo="http://epg.one/img/2044.png" group-title="Спорт", Матч! Футбол 1
 #EXTGRP:Спорт
-http://s1.merlive.am/matchfutbol1/index.m3u8
+http://tmptv.sunduk.tv/CH95/index.m3u8
 #EXTINF:-1 tvg-id="match-football1" tvg-name="Матч! Футбол 1 HD" tvg-logo="http://epg.one/img/2044.png" group-title="Спорт", Матч! Футбол 1 HD
 #EXTGRP:Спорт
 https://kino.zunotv.workers.dev/match_futbol_1_hd/index.m3u8
