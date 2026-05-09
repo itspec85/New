@@ -2085,6 +2085,9 @@ https://kino.zunotv.workers.dev/SKY_HIGH_CASE_VHS_FHD/index.m3u8
 #EXTINF:-1 tvg-id="sky-high-civil-s-fhd" tvg-name="SKY HIGH CIVIL S FHD" tvg-logo="https://epg.iptvx.one/picons/sky-high-civil-s-fhd.png" group-title="Кинозал", SKY HIGH CIVIL S FHD
 #EXTGRP:Кинозал
 https://kino.zunotv.workers.dev/SKY_HIGH_CIVIL_S_FHD/index.m3u8
+#EXTINF:-1 tvg-id="sky-high-dragon-fhd" tvg-name="SKY HIGH DRAGON FHD" tvg-logo="https://epg.iptvx.one/picons/sky-high-dragon-fhd.png" group-title="Кинозал", SKY HIGH DRAGON FHD
+#EXTGRP:Кинозал
+https://kino.zunotv.workers.dev/SKY_HIGH_DRAGON_FHD/index.m3u8
 #EXTINF:-1 tvg-id="sky-high-fear-vhs-fhd" tvg-name="SKY HIGH FEAR VHS FHD" tvg-logo="https://epg.iptvx.one/picons/sky-high-fear-vhs-fhd.png" group-title="Кинозал", SKY HIGH FEAR VHS FHD
 #EXTGRP:Кинозал
 https://kino.zunotv.workers.dev/SKY_HIGH_FEAR_VHS_FHD/index.m3u8
@@ -2100,6 +2103,9 @@ https://kino.zunotv.workers.dev/SKY_HIGH_GUNRUSH_FHD/index.m3u8
 #EXTINF:-1 tvg-id="sky-high-heart-s-fhd" tvg-name="SKY HIGH HEART S FHD" tvg-logo="https://epg.iptvx.one/picons/sky-high-heart-s-fhd.png" group-title="Кинозал", SKY HIGH HEART S FHD
 #EXTGRP:Кинозал
 https://kino.zunotv.workers.dev/SKY_HIGH_HEART_S_FHD/index.m3u8
+#EXTINF:-1 tvg-id="sky-high-horror-4k-hdr" tvg-name="SKY HIGH HORROR 4K HDR" tvg-logo="https://epg.iptvx.one/picons/sky-high-horror-4k-hdr.png" group-title="Кинозал", SKY HIGH HORROR 4K HDR
+#EXTGRP:Кинозал
+https://kino.zunotv.workers.dev/SKY_HIGH_HORROR_4K_HDR/index.m3u8
 #EXTINF:-1 tvg-id="sky-high-joke-fhd" tvg-name="SKY HIGH JOKE FHD" tvg-logo="https://epg.iptvx.one/picons/sky-high-joke-fhd.png" group-title="Кинозал", SKY HIGH JOKE FHD
 #EXTGRP:Кинозал
 https://kino.zunotv.workers.dev/SKY_HIGH_JOKE_FHD/index.m3u8
@@ -2115,6 +2121,9 @@ https://kino.zunotv.workers.dev/SKY_HIGH_RED_S_FHD/index.m3u8
 #EXTINF:-1 tvg-id="sky-high-scream-fhd" tvg-name="SKY HIGH SCREAM FHD" tvg-logo="https://epg.iptvx.one/picons/sky-high-scream-fhd.png" group-title="Кинозал", SKY HIGH SCREAM FHD
 #EXTGRP:Кинозал
 https://kino.zunotv.workers.dev/SKY_HIGH_SCREAM_FHD/index.m3u8
+#EXTINF:-1 tvg-id="sky-high-space-4k-hdr" tvg-name="SKY HIGH SPACE 4K HDR" tvg-logo="https://epg.iptvx.one/picons/sky-high-space-4k-hdr.png" group-title="Кинозал", SKY HIGH SPACE 4K HDR
+#EXTGRP:Кинозал
+https://kino.zunotv.workers.dev/SKY_HIGH_SPACE_4K_HDR/index.m3u8
 #EXTINF:-1 tvg-id="sky-high-strike-vhs-fhd" tvg-name="SKY HIGH STRIKE VHS FHD" tvg-logo="https://epg.iptvx.one/picons/sky-high-strike-vhs-fhd.png" group-title="Кинозал", SKY HIGH STRIKE VHS FHD
 #EXTGRP:Кинозал
 https://kino.zunotv.workers.dev/SKY_HIGH_STRIKE_VHS_FHD/index.m3u8
@@ -2127,6 +2136,12 @@ https://kino.zunotv.workers.dev/SKY_HIGH_TRACE_S_FHD/index.m3u8
 #EXTINF:-1 tvg-id="sky-high-votum-s-fhd" tvg-name="SKY HIGH VOTUM S FHD" tvg-logo="https://epg.iptvx.one/picons/sky-high-votum-s-fhd.png" group-title="Кинозал", SKY HIGH VOTUM S FHD
 #EXTGRP:Кинозал
 https://kino.zunotv.workers.dev/SKY_HIGH_VOTUM_S_FHD/index.m3u8
+#EXTINF:-1 tvg-id="sky-high-wizz-vhs-fhd" tvg-name="SKY HIGH WIZZ VHS FHD" tvg-logo="https://epg.iptvx.one/picons/sky-high-wizz-vhs-fhd.png" group-title="Кинозал", SKY HIGH WIZZ VHS FHD
+#EXTGRP:Кинозал
+https://kino.zunotv.workers.dev/SKY_HIGH_WIZZ_VHS_FHD/index.m3u8
+#EXTINF:-1 tvg-id="sky-high-woonder-fhd" tvg-name="SKY HIGH WOONDER FHD" tvg-logo="https://epg.iptvx.one/picons/sky-high-woonder-fhd.png" group-title="Кинозал", SKY HIGH WOONDER FHD
+#EXTGRP:Кинозал
+https://kino.zunotv.workers.dev/SKY_HIGH_WOONDER_FHD/index.m3u8
 #EXTINF:-1 tvg-id="sky-high-zippy-s-fhd" tvg-name="SKY HIGH ZIPPY S FHD" tvg-logo="https://epg.iptvx.one/picons/sky-high-zippy-s-fhd.png" group-title="Кинозал", SKY HIGH ZIPPY S FHD
 #EXTGRP:Кинозал
 https://kino.zunotv.workers.dev/SKY_HIGH_ZIPPY_S_FHD/index.m3u8
