@@ -645,12 +645,10 @@ https://a3569457567-s70378.cdn.ngenix.net/glazami_turista/1/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000003174/tve/index.m3u8
 #EXTINF:-1 tvg-id="dikaya-oxota-hd" tvg-name="Дикая охота HD" tvg-logo="http://epg.one/img/2483.png" group-title="Познавательные", Дикая охота HD
 #EXTGRP:Познавательные
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
-https://mhd128.iptv2022.com/p/pQosAR1rqPDi-_vzDdlRzA,1778311136/streaming/ohotahd/324/1/tracks-v5a1/mono.m3u8
+http://46.53.208.4/live/2325.m3u8
 #EXTINF:-1 tvg-id="dikaya-rybalka-hd" tvg-name="Дикая рыбалка HD" tvg-logo="http://epg.one/img/2484.png" group-title="Познавательные", Дикая рыбалка HD
 #EXTGRP:Познавательные
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
-https://mhd128.iptv2022.com/p/X80QdWFZ-EFkCC-KiUbCOQ,1778311137/streaming/ribalkahd/324/1/tracks-v5a1/mono.m3u8
+http://46.53.208.4/live/2324.m3u8
 #EXTINF:-1 tvg-id="dikiy" tvg-name="Дикий" tvg-logo="http://epg.one/img/2283.png" group-title="Познавательные", Дикий
 #EXTGRP:Познавательные
 http://176.96.241.40/Dikiy/index.m3u8
