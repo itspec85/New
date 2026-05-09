@@ -1540,7 +1540,7 @@ http://176.118.197.101/Bollywood_HD/index.m3u8
 http://hls127.freeott.top:8080/Bolt/mono.m3u8
 #EXTINF:-1 tvg-id="cinema-ru" tvg-name="Cinema HD" tvg-logo="http://epg.one/img/2754.png" group-title="Кино", Cinema HD
 #EXTGRP:Кино
-http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
+http://176.96.241.40/Cinema/index.m3u8
 #EXTINF:-1 tvg-id="detectivejam" tvg-name="DetectiveJam" tvg-logo="http://epg.one/img/7901.png" group-title="Кино", DetectiveJam HD
 #EXTGRP:Кино
 http://cdn.kubteltv.workers.dev/?ID=299
@@ -1684,7 +1684,7 @@ http://hls127.freeott.top:8080/ViP_Megahit/video.m3u8
 https://flussonic.mkpnet.ru/tv-e107d21a90cb808f/video.m3u8
 #EXTINF:-1 tvg-id="vip-serial" tvg-name="viju+ Serial HD" tvg-logo="http://epg.one/img/2838.png" group-title="Кино", Viju+ Serial HD
 #EXTGRP:Кино
-https://a3569457567-s70378.cdn.ngenix.net/vip_serial/2/index.m3u8
+http://46.53.208.4/live/6004.m3u8
 
 
 
