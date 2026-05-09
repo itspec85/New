@@ -2070,33 +2070,51 @@ http://hls127.freeott.top:8080/MyTV3/mono.m3u8
 #EXTGRP:Кинозал
 http://hls127.freeott.top:8080/MyTV_Hit/mono.m3u8
 
+#EXTINF:-1 tvg-id="sky-high-archive-fhd" tvg-name="SKY HIGH ARCHIVE FHD" tvg-logo="https://epg.iptvx.one/picons/sky-high-archive-fhd.png" group-title="Кинозал", SKY HIGH ARCHIVE FHD
+#EXTGRP:Кинозал
+https://kino.zunotv.workers.dev/SKY_HIGH_ARCHIVE_FHD/index.m3u8
 #EXTINF:-1 tvg-id="sky-high-beyond-s-fhd" tvg-name="SKY HIGH BEYOND S FHD" tvg-logo="https://epg.iptvx.one/picons/sky-high-beyond-s-fhd.png" group-title="Кинозал", SKY HIGH BEYOND S FHD
 #EXTGRP:Кинозал
 https://kino.zunotv.workers.dev/SKY_HIGH_BEYOND_S_FHD/index.m3u8
 #EXTINF:-1 tvg-id="sky-high-brick-s-fhd" tvg-name="SKY HIGH BRICK S FHD" tvg-logo="https://epg.iptvx.one/picons/sky-high-brick-s-fhd.png" group-title="Кинозал", SKY HIGH BRICK S FHD
 #EXTGRP:Кинозал
 https://kino.zunotv.workers.dev/SKY_HIGH_BRICK_S_FHD/index.m3u8
+#EXTINF:-1 tvg-id="sky-high-case-vhs-fhd" tvg-name="SKY HIGH CASE VHS FHD" tvg-logo="https://epg.iptvx.one/picons/sky-high-case-vhs-fhd.png" group-title="Кинозал", SKY HIGH CASE VHS FHD
+#EXTGRP:Кинозал
+https://kino.zunotv.workers.dev/SKY_HIGH_CASE_VHS_FHD/index.m3u8
+#EXTINF:-1 tvg-id="sky-high-civil-s-fhd" tvg-name="SKY HIGH CIVIL S FHD" tvg-logo="https://epg.iptvx.one/picons/sky-high-civil-s-fhd.png" group-title="Кинозал", SKY HIGH CIVIL S FHD
+#EXTGRP:Кинозал
+https://kino.zunotv.workers.dev/SKY_HIGH_CIVIL_S_FHD/index.m3u8
 #EXTINF:-1 tvg-id="sky-high-fear-vhs-fhd" tvg-name="SKY HIGH FEAR VHS FHD" tvg-logo="https://epg.iptvx.one/picons/sky-high-fear-vhs-fhd.png" group-title="Кинозал", SKY HIGH FEAR VHS FHD
 #EXTGRP:Кинозал
 https://kino.zunotv.workers.dev/SKY_HIGH_FEAR_VHS_FHD/index.m3u8
 #EXTINF:-1 tvg-id="sky-high-firezone-fhd" tvg-name="SKY HIGH FIREZONE FHD" tvg-logo="https://epg.iptvx.one/picons/sky-high-firezone-fhd.png" group-title="Кинозал", SKY HIGH FIREZONE FHD
 #EXTGRP:Кинозал
 https://kino.zunotv.workers.dev/SKY_HIGH_FIREZONE_FHD/index.m3u8
+#EXTINF:-1 tvg-id="sky-high-future-fhd" tvg-name="SKY HIGH FUTURE FHD" tvg-logo="https://epg.iptvx.one/picons/sky-high-future-fhd.png" group-title="Кинозал", SKY HIGH FUTURE FHD
+#EXTGRP:Кинозал
+https://kino.zunotv.workers.dev/SKY_HIGH_FUTURE_FHD/index.m3u8
 #EXTINF:-1 tvg-id="sky-high-gunrush-fhd" tvg-name="SKY HIGH GUNRUSH FHD" tvg-logo="https://epg.iptvx.one/picons/sky-high-gunrush-fhd.png" group-title="Кинозал", SKY HIGH GUNRUSH FHD
 #EXTGRP:Кинозал
 https://kino.zunotv.workers.dev/SKY_HIGH_GUNRUSH_FHD/index.m3u8
+#EXTINF:-1 tvg-id="sky-high-neonvhs-fhd" tvg-name="SKY HIGH NEON VHS FHD" tvg-logo="https://epg.iptvx.one/picons/sky-high-neonvhs-fhd.png" group-title="Кинозал", SKY HIGH NEON VHS FHD
+#EXTGRP:Кинозал
+https://kino.zunotv.workers.dev/SKY_HIGH_NEON_VHS_FHD/index.m3u8
 #EXTINF:-1 tvg-id="sky-high-scream-fhd" tvg-name="SKY HIGH SCREAM FHD" tvg-logo="https://epg.iptvx.one/picons/sky-high-scream-fhd.png" group-title="Кинозал", SKY HIGH SCREAM FHD
 #EXTGRP:Кинозал
 https://kino.zunotv.workers.dev/SKY_HIGH_SCREAM_FHD/index.m3u8
 #EXTINF:-1 tvg-id="sky-high-strike-vhs-fhd" tvg-name="SKY HIGH STRIKE VHS FHD" tvg-logo="https://epg.iptvx.one/picons/sky-high-strike-vhs-fhd.png" group-title="Кинозал", SKY HIGH STRIKE VHS FHD
 #EXTGRP:Кинозал
 https://kino.zunotv.workers.dev/SKY_HIGH_STRIKE_VHS_FHD/index.m3u8
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="sky-high-tanoss-fhd" tvg-name="SKY HIGH TANOS S FHD" tvg-logo="https://epg.iptvx.one/picons/sky-high-tanoss-fhd.png" group-title="Кинозал", SKY HIGH TANOS S FHD
+#EXTGRP:Кинозал
+https://kino.zunotv.workers.dev/SKY_HIGH_TANOS_S_FHD/index.m3u8
+#EXTINF:-1 tvg-id="sky-high-trace-s-fhd" tvg-name="SKY HIGH TRACE S FHD" tvg-logo="https://epg.iptvx.one/picons/sky-high-trace-s-fhd.png" group-title="Кинозал", SKY HIGH TRACE S FHD
+#EXTGRP:Кинозал
+https://kino.zunotv.workers.dev/SKY_HIGH_TRACE_S_FHD/index.m3u8
+#EXTINF:-1 tvg-id="sky-high-votum-s-fhd" tvg-name="SKY HIGH VOTUM S FHD" tvg-logo="https://epg.iptvx.one/picons/sky-high-votum-s-fhd.png" group-title="Кинозал", SKY HIGH VOTUM S FHD
+#EXTGRP:Кинозал
+https://kino.zunotv.workers.dev/SKY_HIGH_VOTUM_S_FHD/index.m3u8
 
 
 
