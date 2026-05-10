@@ -1310,7 +1310,7 @@ https://a3569457567-s70378.cdn.ngenix.net/tiji/2/index.m3u8
 #EXTINF:-1 tvg-id="blokbaster" tvg-name="Блокбастер" tvg-logo="http://epg.one/img/2832.png" group-title="Кино", Блокбастер
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
-https://mhd128.iptv2022.com/p/eAkYJY7myEEJcXSmDqvVHw,1778352901/streaming/blokbaster/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/Lmk99yUuIue3K4p7rm8VhQ,1778439326/streaming/blokbaster/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="blokbaster-hd" tvg-name="Блокбастер HD" tvg-logo="http://epg.one/img/2832.png" group-title="Кино", Блокбастер HD
 #EXTGRP:Кино
 http://cdn.kubteltv.workers.dev/?ID=219
@@ -1320,7 +1320,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/playlist.m3u8
 #EXTINF:-1 tvg-id="denpobedy" tvg-name="День Победы HD" tvg-logo="http://epg.one/img/2773.png" group-title="Кино", День Победы HD
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
-https://mhd128.iptv2022.com/p/a_1g_ouVbMwWIxOmk3NRdA,1778352901/streaming/den-pobedi/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/OdZ6K6riZALLaz3NMarlVw,1778439327/streaming/den-pobedi/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="domkino" tvg-name="Дом кино" tvg-logo="http://epg.one/img/834.png" group-title="Кино", Дом Кино
 #EXTGRP:Кино
 http://tmptv.sunduk.tv/CH73/index.m3u8
@@ -1345,7 +1345,7 @@ https://a3569457567-s70378.cdn.ngenix.net/zee_tv/2/index.m3u8
 #EXTINF:-1 tvg-id="kamedi" tvg-name="Камеди HD" tvg-logo="http://epg.one/img/2836.png" group-title="Кино", Камеди HD
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
-https://mhd128.iptv2022.com/p/2sUimdrEu7Q8pvl1hZq-4g,1778352901/streaming/kamedi/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/ne8ea_hcXBKFoekeYFR7Xw,1778439327/streaming/kamedi/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="kineko" tvg-name="Кинеко" tvg-logo="http://epg.one/img/7314.png" group-title="Кино", Кинеко
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000008136/tve/index.m3u8
@@ -1751,9 +1751,6 @@ https://cityeden.catcast.tv/content/45268/index.m3u8
 #EXTINF:-1 tvg-id="cityedem-kinoact" tvg-name="Сити Эдем - КиноЭкшен" tvg-logo="https://www.cityeden.info/logotv/logotip_siti_ehdem-kinoehkshen2.png" group-title="Кинозал", Сити Эдем - КиноЭкшен
 #EXTGRP:Кинозал
 http://autopilot.catcast.tv/content/41333/index.m3u8
-#EXTINF:-1 tvg-name="Стримканал. Ёжик в тумане" tvg-logo="https://avatars.mds.yandex.net/i?id=555d891d488c5365011716af505489b85bf0170c-9044089-images-thumbs&n=13" group-title="Кинозал", Стримканал. Ёжик в тумане
-#EXTGRP:Кинозал
-http://kinowalk.hopto.org/hurumburumum_live
 #EXTINF:-1 tvg-name="Стримканал. 𝕂𝔸ℂℂ𝔼𝕋𝔸" tvg-logo="https://avatars.mds.yandex.net/i?id=555d891d488c5365011716af505489b85bf0170c-9044089-images-thumbs&n=13" group-title="Кинозал", Стримканал. 𝕂𝔸ℂℂ𝔼𝕋𝔸
 #EXTGRP:Кинозал
 http://kinowalk.hopto.org/kasseta_live
@@ -1811,9 +1808,6 @@ http://kinowalk.hopto.org/bossfilm_live
 #EXTINF:-1 tvg-name="Стримканал. Cinema Time" tvg-logo="https://avatars.mds.yandex.net/i?id=555d891d488c5365011716af505489b85bf0170c-9044089-images-thumbs&n=13" group-title="Кинозал", Стримканал. Cinema Time
 #EXTGRP:Кинозал
 http://kinowalk.hopto.org/cinematime_live
-#EXTINF:-1 tvg-name="Стримканал. Dimpon HD" tvg-logo="https://avatars.mds.yandex.net/i?id=30d003421a04a81dcc8a800b6b9a8a48b4bf7234-10770607-images-thumbs&n=13" group-title="Кинозал", Стримканал. Dimpon HD
-#EXTGRP:Кинозал
-http://kinowalk.hopto.org/dimpon_live
 #EXTINF:-1 tvg-name="Стримканал. DJ Zour" tvg-logo="https://avatars.mds.yandex.net/i?id=555d891d488c5365011716af505489b85bf0170c-9044089-images-thumbs&n=13" group-title="Кинозал", Стримканал. DJ Zour
 #EXTGRP:Кинозал
 http://kinowalk.hopto.org/zsmedia_live
@@ -1826,9 +1820,6 @@ http://kinowalk.hopto.org/kinolampa_live
 #EXTINF:-1 tvg-name="Стримканал. KinoMix" tvg-logo="https://avatars.mds.yandex.net/i?id=af393372701abefe85a4a4c01d825d84800faa88-10611483-images-thumbs&n=13" group-title="Кинозал", Стримканал. KinoMix
 #EXTGRP:Кинозал
 http://kinowalk.hopto.org/yurich_kinomix_live
-#EXTINF:-1 tvg-name="Стримканал. KINOPRO" tvg-logo="https://lastfm.freetls.fastly.net/i/u/300x300/e6ac114abd700e4d57b230a703187a26.jpg" group-title="Кинозал", Стримканал. KINOPRO
-#EXTGRP:Кинозал
-http://kinowalk.hopto.org/kinopro_live
 #EXTINF:-1 tvg-name="Стримканал. Kinowalk TV" tvg-logo="https://images.live.vkvideo.ru/user/20428041/avatar?change_time=1766171277&croped=1&mh=140&mw=140" group-title="Кинозал", Стримканал. Kinowalk TV
 #EXTGRP:Кинозал
 https://kinowalk.hopto.org/kinowalk_live
@@ -1856,9 +1847,6 @@ http://kinowalk.hopto.org/vampiro1965_live
 #EXTINF:-1 tvg-name="Стримканал. ReanimatoR VHS" tvg-logo="https://images.live.vkvideo.ru/user/19638295/avatar?change_time=1758747161&croped=1&mh=140&mw=140" group-title="Кинозал", Стримканал. ReanimatoR VHS
 #EXTGRP:Кинозал
 http://kinowalk.hopto.org/reanimator_vhs_live
-#EXTINF:-1 tvg-name="Стримканал. Scarface" tvg-logo="https://images.live.vkvideo.ru/user/19957061/avatar?change_time=1745459243&croped=1&mh=140&mw=140" group-title="Кинозал", Стримканал. Scarface
-#EXTGRP:Кинозал
-http://kinowalk.hopto.org/filmomania_live
 #EXTINF:-1 tvg-name="Стримканал. Scripach TV" tvg-logo="https://avatars.mds.yandex.net/i?id=29fb8bd7d350ed96b41e360e8245a7a791612a62-4571029-images-thumbs&n=13" group-title="Кинозал", Стримканал. Scripach TV
 #EXTGRP:Кинозал
 http://kinowalk.hopto.org/scripachtv_live
@@ -1874,9 +1862,6 @@ http://kinowalk.hopto.org/serial4u_live
 #EXTINF:-1 tvg-name="Стримканал. SerialTV" tvg-logo="https://images.live.vkvideo.ru/user/30346500/avatar?change_time=1767118302&croped=1&mh=140&mw=140" group-title="Кинозал", Стримканал. SerialTV
 #EXTGRP:Кинозал
 http://kinowalk.hopto.org/serialtv_live
-#EXTINF:-1 tvg-name="Стримканал. SеVаNz" tvg-logo="https://avatars.mds.yandex.net/i?id=555d891d488c5365011716af505489b85bf0170c-9044089-images-thumbs&n=13" group-title="Кинозал", Стримканал. SеVаNz
-#EXTGRP:Кинозал
-http://kinowalk.hopto.org/sevanz_live
 #EXTINF:-1 tvg-name="Стримканал. Solo ink" tvg-logo="https://avatars.mds.yandex.net/i?id=555d891d488c5365011716af505489b85bf0170c-9044089-images-thumbs&n=13" group-title="Кинозал", Стримканал. Solo ink
 #EXTGRP:Кинозал
 http://kinowalk.hopto.org/soloink_live
@@ -2066,9 +2051,6 @@ http://5.188.158.65:4040/IPTVPLAYUZHASTIK.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1 tvg-name="IPTVPLAY Фантастика" tvg-logo="https://i.ibb.co/pbxx3Sd/Fantastika.png" group-title="Кинозал", IPTVPLAY Фантастика
 #EXTGRP:Кинозал
 http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 tvg-id="minimax-skorost" tvg-name="MM Скорость HD" tvg-logo="http://epg.one/img/5166.png" group-title="Кинозал", MM Скорость HD
-#EXTGRP:Кинозал
-http://hls127.freeott.top:8080/minimax-skorost-m4f/video.m3u8
 #EXTINF:-1 tvg-name="MYTV" tvg-logo="http://epg.one/img/104.png" group-title="Кинозал", MYTV
 #EXTGRP:Кинозал
 http://hls127.freeott.top:8080/MyTV/mono.m3u8
