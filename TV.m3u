@@ -1304,6 +1304,21 @@ http://cdn.kubteltv.workers.dev/?ID=343
 #EXTINF:-1 tvg-id="tiji" tvg-name="Tiji TV" tvg-logo="http://epg.one/img/555.png" group-title="Детские", Tiji TV
 #EXTGRP:Детские
 https://a3569457567-s70378.cdn.ngenix.net/tiji/2/index.m3u8
+#EXTINF:-1 tvg-id="vf-eralash" tvg-name="VF Ералаш" tvg-logo="http://epg.one/img/7595.png" group-title="Детские", VF Ералаш
+#EXTGRP:Детские
+https://stream.zuno-tv.workers.dev/channel/9090/559cfdb2/index.m3u8
+#EXTINF:-1 tvg-id="vf-nowogodmult" tvg-name="VF Новогодние мультфильмы" tvg-logo="http://epg.one/img/5996.png" group-title="Детские", VF Новогодние мультфильмы
+#EXTGRP:Детские
+https://stream.zuno-tv.workers.dev/channel/9090/292969e0/index.m3u8
+#EXTINF:-1 tvg-id="vf-soyuzmultfilm" tvg-name="VF Союзмультфильм" tvg-logo="http://epg.one/img/7594.png" group-title="Детские", VF Союзмультфильм
+#EXTGRP:Детские
+https://stream.zuno-tv.workers.dev/channel/9090/n2d6853a9/index.m3u8
+#EXTINF:-1 tvg-id="vf-disney-cartoon" tvg-name="VF Disney Cartoon" tvg-logo="http://epg.one/img/7593.png" group-title="Детские", VF Disney Cartoon
+#EXTGRP:Детские
+https://stream.zuno-tv.workers.dev/channel/9090/6b3d5ca6/index.m3u8
+#EXTINF:-1 tvg-id="vf-vhs-cartoon" tvg-name="VF VHS Cartoon" tvg-logo="http://epg.one/img/4790.png" group-title="Детские", VF VHS Cartoon
+#EXTGRP:Детские
+https://stream.zuno-tv.workers.dev/channel/9090/n2661f275/index.m3u8
 
 
 
