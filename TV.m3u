@@ -296,7 +296,7 @@ http://94.230.128.107:8080/CTC/index.m3u8
 http://cdn.kubteltv.workers.dev/?ID=377
 #EXTINF:-1 tvg-id="sts-int" tvg-name="СТС International" tvg-logo="http://epg.one/img/5652.png" group-title="Россия", СТС International
 #EXTGRP:Россия
-https://ucdn.beetv.kz/bpk-tv/000000428/tve/index.m3u8
+http://178.134.1.158:8081/CTC/index.m3u8
 #EXTINF:-1 tvg-id="sts-love" tvg-name="СТС Love" tvg-logo="http://epg.one/img/1322.png" group-title="Россия", СТС Love
 #EXTGRP:Россия
 https://flussonic.mkpnet.ru/tv-b9f0884f9a81b8c6/video.m3u8
