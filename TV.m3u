@@ -2154,28 +2154,28 @@ https://kino.zunotv.workers.dev/SKY_HIGH_WOONDER_FHD/index.m3u8
 #EXTGRP:Кинозал
 https://kino.zunotv.workers.dev/SKY_HIGH_ZIPPY_S_FHD/index.m3u8
 
-#EXTINF:-1 tvg-id="vf-ahs" tvg-name="VF Американская история ужасов" tvg-logo="http://epg.one/img/6226.png" group-title="Кинозал", VF Американская история ужасов
+#EXTINF:-1 tvg-id="vf-ahs" tvg-name="VF Американская история ужасов" tvg-logo="http://epg.one/img/6149.png" group-title="Кинозал", VF Американская история ужасов
 #EXTGRP:Кинозал
 https://stream.zuno-tv.workers.dev/channel/9090/n1b025ffc/index.m3u8
 #EXTINF:-1 tvg-id="vf-gorodok" tvg-name="VF Городок" tvg-logo="http://epg.one/img/6226.png" group-title="Кинозал", VF Городок
 #EXTGRP:Кинозал
 https://stream.zuno-tv.workers.dev/channel/9090/ne5087fd/index.m3u8
-#EXTINF:-1 tvg-id="vf-dzhekichan" tvg-name="VF Джеки Чан" tvg-logo="http://epg.one/img/6226.png" group-title="Кинозал", VF Джеки Чан
+#EXTINF:-1 tvg-id="vf-dzhekichan" tvg-name="VF Джеки Чан" tvg-logo="http://epg.one/img/6152.png" group-title="Кинозал", VF Джеки Чан
 #EXTGRP:Кинозал
 https://stream.zuno-tv.workers.dev/channel/9090/4a8e1aa1/index.m3u8
 #EXTINF:-1 tvg-id="vf-kalambur" tvg-name="VF Каламбур" tvg-logo="http://epg.one/img/9233.png" group-title="Кинозал", VF Каламбур
 #EXTGRP:Кинозал
 https://stream.zuno-tv.workers.dev/channel/9090/2d867841/index.m3u8
-#EXTINF:-1 tvg-id="vf-gaidai" tvg-name="VF Леонид Гайдай" tvg-logo="http://epg.one/img/9233.png" group-title="Кинозал", VF Леонид Гайдай
+#EXTINF:-1 tvg-id="vf-gaidai" tvg-name="VF Леонид Гайдай" tvg-logo="http://epg.one/img/6148.png" group-title="Кинозал", VF Леонид Гайдай
 #EXTGRP:Кинозал
 https://stream.zuno-tv.workers.dev/channel/9090/n378da818/index.m3u8
-#EXTINF:-1 tvg-id="vf-luidefunes" tvg-name="VF Луи де Фюнес" tvg-logo="http://epg.one/img/9233.png" group-title="Кинозал", VF Луи де Фюнес
+#EXTINF:-1 tvg-id="vf-luidefunes" tvg-name="VF Луи де Фюнес" tvg-logo="http://epg.one/img/6144.png" group-title="Кинозал", VF Луи де Фюнес
 #EXTGRP:Кинозал
 https://stream.zuno-tv.workers.dev/channel/9090/d84cd4/index.m3u8
 #EXTINF:-1 tvg-id="vf-ryazanov" tvg-name="VF Эльдар Рязанов" tvg-logo="http://epg.one/img/6155.png" group-title="Кинозал", VF Эльдар Рязанов
 #EXTGRP:Кинозал
 https://stream.zuno-tv.workers.dev/channel/9090/2392d973/index.m3u8
-#EXTINF:-1 tvg-id="vf-xfiles" tvg-name="VF The X-Files" tvg-logo="http://epg.one/img/6155.png" group-title="Кинозал", VF The X-Files
+#EXTINF:-1 tvg-id="vf-xfiles" tvg-name="VF The X-Files" tvg-logo="http://epg.one/img/6146.png" group-title="Кинозал", VF The X-Files
 #EXTGRP:Кинозал
 https://stream.zuno-tv.workers.dev/channel/9090/n5e77a0b1/index.m3u8
 
