@@ -2154,6 +2154,13 @@ https://kino.zunotv.workers.dev/SKY_HIGH_WOONDER_FHD/index.m3u8
 #EXTGRP:Кинозал
 https://kino.zunotv.workers.dev/SKY_HIGH_ZIPPY_S_FHD/index.m3u8
 
+#EXTINF:-1 tvg-id="vf-gorodok" tvg-name="VF Городок" tvg-logo="http://epg.one/img/6226.png" group-title="Кинозал", VF Городок
+#EXTGRP:Кинозал
+https://stream.zuno-tv.workers.dev/channel/9090/ne5087fd/index.m3u8
+#EXTINF:-1 tvg-id="vf-kalambur" tvg-name="VF Каламбур" tvg-logo="http://epg.one/img/9233.png" group-title="Кинозал", VF Каламбур
+#EXTGRP:Кинозал
+https://stream.zuno-tv.workers.dev/channel/9090/2d867841/index.m3u8
+
 
 
 #EXTINF:-1 tvg-id="belarus5" tvg-name="Беларусь 5 HD" tvg-logo="http://epg.one/img/2541.png" group-title="Спорт", Беларусь 5 HD
