@@ -2174,6 +2174,9 @@ https://stream.zuno-tv.workers.dev/channel/9090/4eaf9130/index.m3u8
 #EXTINF:-1 tvg-id="vf-western" tvg-name="VF Вестерн" tvg-logo="http://epg.one/img/9227.png" group-title="Кинозал", VF Вестерн
 #EXTGRP:Кинозал
 https://stream.zuno-tv.workers.dev/channel/9090/n528273d6/index.m3u8
+#EXTINF:-1 tvg-id="vf-vysocki" tvg-name="VF Владимир Высоцкий" tvg-logo="http://epg.one/img/7270.png" group-title="Кинозал", VF Владимир Высоцкий
+#EXTGRP:Кинозал
+https://stream.zuno-tv.workers.dev/channel/9090/1c358a0e/index.m3u8
 #EXTINF:-1 tvg-id="vf-voennye" tvg-name="VF Военные" tvg-logo="http://epg.one/img/4665.png" group-title="Кинозал", VF Военные
 #EXTGRP:Кинозал
 https://stream.zuno-tv.workers.dev/channel/9090/n43d216d1/index.m3u8
@@ -2246,6 +2249,9 @@ https://stream.zuno-tv.workers.dev/channel/9090/1c2bef24/index.m3u8
 #EXTINF:-1 tvg-id="vf-sverdlovskkinostudia" tvg-name="VF Свердловская киностудия" tvg-logo="http://epg.one/img/6328.png" group-title="Кинозал", VF Свердловская киностудия
 #EXTGRP:Кинозал
 https://stream.zuno-tv.workers.dev/channel/9090/2ca97b95/index.m3u8
+#EXTINF:-1 tvg-id="vf-serial" tvg-name="VF Сериал" tvg-logo="http://epg.one/img/5200.png" group-title="Кинозал", VF Сериал
+#EXTGRP:Кинозал
+https://stream.zuno-tv.workers.dev/channel/9090/69835d3b/index.m3u8
 #EXTINF:-1 tvg-id="vf-serial4k" tvg-name="VF Сериал 4K" tvg-logo="http://epg.one/img/4805.png" group-title="Кинозал", VF Сериал 4K
 #EXTGRP:Кинозал
 https://stream.zuno-tv.workers.dev/channel/9090/n52012c64/index.m3u8
