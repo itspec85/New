@@ -2172,30 +2172,72 @@ https://stream.zuno-tv.workers.dev/channel/9090/4a8e1aa1/index.m3u8
 #EXTINF:-1 tvg-id="vf-kalambur" tvg-name="VF Каламбур" tvg-logo="http://epg.one/img/9233.png" group-title="Кинозал", VF Каламбур
 #EXTGRP:Кинозал
 https://stream.zuno-tv.workers.dev/channel/9090/2d867841/index.m3u8
+#EXTINF:-1 tvg-id="vf-klassika" tvg-name="VF Классика" tvg-logo="http://epg.one/img/4646.png" group-title="Кинозал", VF Классика
+#EXTGRP:Кинозал
+https://stream.zuno-tv.workers.dev/channel/9090/6197a3c3/index.m3u8
 #EXTINF:-1 tvg-id="vf-gaidai" tvg-name="VF Леонид Гайдай" tvg-logo="http://epg.one/img/6148.png" group-title="Кинозал", VF Леонид Гайдай
 #EXTGRP:Кинозал
 https://stream.zuno-tv.workers.dev/channel/9090/n378da818/index.m3u8
 #EXTINF:-1 tvg-id="vf-luidefunes" tvg-name="VF Луи де Фюнес" tvg-logo="http://epg.one/img/6144.png" group-title="Кинозал", VF Луи де Фюнес
 #EXTGRP:Кинозал
 https://stream.zuno-tv.workers.dev/channel/9090/d84cd4/index.m3u8
+#EXTINF:-1 tvg-id="vf-premiera" tvg-name="VF Премьера" tvg-logo="http://epg.one/img/4644.png" group-title="Кинозал", VF Премьера
+#EXTGRP:Кинозал
+https://stream.zuno-tv.workers.dev/channel/9090/79c36785/index.m3u8
 #EXTINF:-1 tvg-id="vf-snovymgodom" tvg-name="VF С новым Годом!" tvg-logo="http://epg.one/img/5982.png" group-title="Кинозал", VF С новым Годом!
 #EXTGRP:Кинозал
 https://stream.zuno-tv.workers.dev/channel/9090/174fc91b/index.m3u8
 #EXTINF:-1 tvg-id="vf-serialy-turcii" tvg-name="VF Сериалы Турции" tvg-logo="http://epg.one/img/9226.png" group-title="Кинозал", VF Сериалы Турции
 #EXTGRP:Кинозал
 https://stream.zuno-tv.workers.dev/channel/9090/1a838d17/index.m3u8
+#EXTINF:-1 tvg-id="vf-uzhasy" tvg-name="VF Ужасы" tvg-logo="http://epg.one/img/4599.png" group-title="Кинозал", VF Ужасы
+#EXTGRP:Кинозал
+https://stream.zuno-tv.workers.dev/channel/9090/1c49ef83/index.m3u8
+#EXTINF:-1 tvg-id="vf-uzhasy-vhs" tvg-name="VF Ужасы VHS" tvg-logo="http://epg.one/img/4601.png" group-title="Кинозал", VF Ужасы VHS
+#EXTGRP:Кинозал
+https://stream.zuno-tv.workers.dev/channel/9090/nffb23c/index.m3u8
 #EXTINF:-1 tvg-id="vf-ryazanov" tvg-name="VF Эльдар Рязанов" tvg-logo="http://epg.one/img/6155.png" group-title="Кинозал", VF Эльдар Рязанов
 #EXTGRP:Кинозал
 https://stream.zuno-tv.workers.dev/channel/9090/2392d973/index.m3u8
+#EXTINF:-1 tvg-id="vf-adventure" tvg-name="VF Adventure" tvg-logo="http://epg.one/img/4591.png" group-title="Кинозал", VF Adventure
+#EXTGRP:Кинозал
+https://stream.zuno-tv.workers.dev/channel/9090/n7b2b1a94/index.m3u8
+#EXTINF:-1 tvg-id="vf-classic" tvg-name="VF Classic" tvg-logo="http://epg.one/img/4647.png" group-title="Кинозал", VF Classic
+#EXTGRP:Кинозал
+https://stream.zuno-tv.workers.dev/channel/9090/n794af212/index.m3u8
+#EXTINF:-1 tvg-id="vf-comedy" tvg-name="VF Comedy" tvg-logo="http://epg.one/img/4594.png" group-title="Кинозал", VF Comedy
+#EXTGRP:Кинозал
+https://stream.zuno-tv.workers.dev/channel/9090/n66d2e643/index.m3u8
 #EXTINF:-1 tvg-id="vf-disney-movie" tvg-name="VF Disney Movie" tvg-logo="http://epg.one/img/7278.png" group-title="Кинозал", VF Disney Movie
 #EXTGRP:Кинозал
 https://stream.zuno-tv.workers.dev/channel/9090/n156c5598/index.m3u8
+#EXTINF:-1 tvg-id="vf-family" tvg-name="VF Family" tvg-logo="http://epg.one/img/4595.png" group-title="Кинозал", VF Family
+#EXTGRP:Кинозал
+https://stream.zuno-tv.workers.dev/channel/9090/n62799578/index.m3u8
+#EXTINF:-1 tvg-id="vf-fantasy" tvg-name="VF Fantasy" tvg-logo="http://epg.one/img/4596.png" group-title="Кинозал", VF Fantasy
+#EXTGRP:Кинозал
+https://stream.zuno-tv.workers.dev/channel/9090/1359d482/index.m3u8
+#EXTINF:-1 tvg-id="vf-melodrama" tvg-name="VF Melodrama" tvg-logo="http://epg.one/img/4597.png" group-title="Кинозал", VF Melodrama
+#EXTGRP:Кинозал
+https://stream.zuno-tv.workers.dev/channel/9090/n2090b378/index.m3u8
+#EXTINF:-1 tvg-id="vf-mystic" tvg-name="VF Mystic" tvg-logo="http://epg.one/img/4598.png" group-title="Кинозал", VF Mystic
+#EXTGRP:Кинозал
+https://stream.zuno-tv.workers.dev/channel/9090/n553291f5/index.m3u8
 #EXTINF:-1 tvg-id="vf-newyear" tvg-name="VF New Year" tvg-logo="http://epg.one/img/5981.png" group-title="Кинозал", VF New Year
 #EXTGRP:Кинозал
 https://stream.zuno-tv.workers.dev/channel/9090/753b1d01/index.m3u8
+#EXTINF:-1 tvg-id="vf-premiere" tvg-name="VF Premiere" tvg-logo="http://epg.one/img/4645.png" group-title="Кинозал", VF Premiere
+#EXTGRP:Кинозал
+https://stream.zuno-tv.workers.dev/channel/9090/n25c46863/index.m3u8
 #EXTINF:-1 tvg-id="vf-xfiles" tvg-name="VF The X-Files" tvg-logo="http://epg.one/img/6146.png" group-title="Кинозал", VF The X-Files
 #EXTGRP:Кинозал
 https://stream.zuno-tv.workers.dev/channel/9090/n5e77a0b1/index.m3u8
+#EXTINF:-1 tvg-id="vf-vhs" tvg-name="VF VHS" tvg-logo="http://epg.one/img/4600.png" group-title="Кинозал", VF VHS
+#EXTGRP:Кинозал
+https://stream.zuno-tv.workers.dev/channel/9090/357166f9/index.m3u8
+
+
+
 
 
 
