@@ -2178,6 +2178,12 @@ https://stream.zuno-tv.workers.dev/channel/9090/ne5087fd/index.m3u8
 #EXTINF:-1 tvg-id="vf-dzhekichan" tvg-name="VF Джеки Чан" tvg-logo="http://epg.one/img/6152.png" group-title="Кинозал", VF Джеки Чан
 #EXTGRP:Кинозал
 https://stream.zuno-tv.workers.dev/channel/9090/4a8e1aa1/index.m3u8
+#EXTINF:-1 tvg-id="vf-indiya" tvg-name="VF Индия" tvg-logo="http://epg.one/img/5203.png" group-title="Кинозал", VF Индия
+#EXTGRP:Кинозал
+https://stream.zuno-tv.workers.dev/channel/9090/1bb22982/index.m3u8
+#EXTINF:-1 tvg-id="vf-istorya" tvg-name="VF История" tvg-logo="http://epg.one/img/5204.png" group-title="Кинозал", VF История
+#EXTGRP:Кинозал
+https://stream.zuno-tv.workers.dev/channel/9090/n967a72/index.m3u8
 #EXTINF:-1 tvg-id="vf-kalambur" tvg-name="VF Каламбур" tvg-logo="http://epg.one/img/9233.png" group-title="Кинозал", VF Каламбур
 #EXTGRP:Кинозал
 https://stream.zuno-tv.workers.dev/channel/9090/2d867841/index.m3u8
@@ -2193,6 +2199,9 @@ https://stream.zuno-tv.workers.dev/channel/9090/6197a3c3/index.m3u8
 #EXTINF:-1 tvg-id="vf-komedia" tvg-name="VF Комедия" tvg-logo="http://epg.one/img/4648.png" group-title="Кинозал", VF Комедия
 #EXTGRP:Кинозал
 https://stream.zuno-tv.workers.dev/channel/9090/63bea0ca/index.m3u8
+#EXTINF:-1 tvg-id="vf-kriminal" tvg-name="VF Криминал" tvg-logo="http://epg.one/img/5206.png" group-title="Кинозал", VF Криминал
+#EXTGRP:Кинозал
+https://stream.zuno-tv.workers.dev/channel/9090/777315be/index.m3u8
 #EXTINF:-1 tvg-id="vf-gaidai" tvg-name="VF Леонид Гайдай" tvg-logo="http://epg.one/img/6148.png" group-title="Кинозал", VF Леонид Гайдай
 #EXTGRP:Кинозал
 https://stream.zuno-tv.workers.dev/channel/9090/n378da818/index.m3u8
@@ -2287,10 +2296,13 @@ https://stream.zuno-tv.workers.dev/channel/9090/313bb8e6/index.m3u8
 #EXTGRP:Кинозал
 https://stream.zuno-tv.workers.dev/channel/9090/357166f9/index.m3u8
 
+#EXTINF:-1 tvg-id="vf-thrilr" tvg-name="VF Thriller" tvg-logo="http://epg.one/img/4600.png" group-title="Кинозал", VF Thriller
+#EXTGRP:Кинозал
+https://stream.zuno-tv.workers.dev/channel/9090/7eba127c/index.m3u8
 
-
-
-
+#EXTINF:-1 tvg-id="vf-comics" tvg-name="VF Comics" tvg-logo="http://epg.one/img/4600.png" group-title="Кинозал", VF Comics
+#EXTGRP:Кинозал
+https://stream.zuno-tv.workers.dev/channel/9090/n66d2d764/index.m3u8
 
 
 
