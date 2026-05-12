@@ -1313,6 +1313,9 @@ https://stream.zuno-tv.workers.dev/channel/9090/292969e0/index.m3u8
 #EXTINF:-1 tvg-id="vf-soyuzmultfilm" tvg-name="VF Союзмультфильм" tvg-logo="http://epg.one/img/7594.png" group-title="Детские", VF Союзмультфильм
 #EXTGRP:Детские
 https://stream.zuno-tv.workers.dev/channel/9090/n2d6853a9/index.m3u8
+#EXTINF:-1 tvg-id="vf-cartoon" tvg-name="VF Cartoon" tvg-logo="http://epg.one/img/4593.png" group-title="Детские", VF Cartoon
+#EXTGRP:Детские
+https://stream.zuno-tv.workers.dev/channel/9090/74dfb4ca/index.m3u8
 #EXTINF:-1 tvg-id="vf-disney-cartoon" tvg-name="VF Disney Cartoon" tvg-logo="http://epg.one/img/7593.png" group-title="Детские", VF Disney Cartoon
 #EXTGRP:Детские
 https://stream.zuno-tv.workers.dev/channel/9090/6b3d5ca6/index.m3u8
