@@ -2256,6 +2256,9 @@ https://stream.zuno-tv.workers.dev/channel/9090/n794af212/index.m3u8
 #EXTINF:-1 tvg-id="vf-comedy" tvg-name="VF Comedy" tvg-logo="http://epg.one/img/4594.png" group-title="Кинозал", VF Comedy
 #EXTGRP:Кинозал
 https://stream.zuno-tv.workers.dev/channel/9090/n66d2e643/index.m3u8
+#EXTINF:-1 tvg-id="vf-comics" tvg-name="VF Comics" tvg-logo="http://epg.one/img/5205.png" group-title="Кинозал", VF Comics
+#EXTGRP:Кинозал
+https://stream.zuno-tv.workers.dev/channel/9090/n66d2d764/index.m3u8
 #EXTINF:-1 tvg-id="vf-disney-movie" tvg-name="VF Disney Movie" tvg-logo="http://epg.one/img/7278.png" group-title="Кинозал", VF Disney Movie
 #EXTGRP:Кинозал
 https://stream.zuno-tv.workers.dev/channel/9090/n156c5598/index.m3u8
@@ -2289,6 +2292,9 @@ https://stream.zuno-tv.workers.dev/channel/9090/n4c0ff265/index.m3u8
 #EXTINF:-1 tvg-id="vf-xfiles" tvg-name="VF The X-Files" tvg-logo="http://epg.one/img/6146.png" group-title="Кинозал", VF The X-Files
 #EXTGRP:Кинозал
 https://stream.zuno-tv.workers.dev/channel/9090/n5e77a0b1/index.m3u8
+#EXTINF:-1 tvg-id="vf-thrilr" tvg-name="VF Thriller" tvg-logo="http://epg.one/img/5202.png" group-title="Кинозал", VF Thriller
+#EXTGRP:Кинозал
+https://stream.zuno-tv.workers.dev/channel/9090/7eba127c/index.m3u8
 #EXTINF:-1 tvg-id="vf-top-series" tvg-name="VF TOP Series" tvg-logo="http://epg.one/img/4789.png" group-title="Кинозал", VF TOP Series
 #EXTGRP:Кинозал
 https://stream.zuno-tv.workers.dev/channel/9090/313bb8e6/index.m3u8
@@ -2296,13 +2302,9 @@ https://stream.zuno-tv.workers.dev/channel/9090/313bb8e6/index.m3u8
 #EXTGRP:Кинозал
 https://stream.zuno-tv.workers.dev/channel/9090/357166f9/index.m3u8
 
-#EXTINF:-1 tvg-id="vf-thrilr" tvg-name="VF Thriller" tvg-logo="http://epg.one/img/4600.png" group-title="Кинозал", VF Thriller
-#EXTGRP:Кинозал
-https://stream.zuno-tv.workers.dev/channel/9090/7eba127c/index.m3u8
 
-#EXTINF:-1 tvg-id="vf-comics" tvg-name="VF Comics" tvg-logo="http://epg.one/img/4600.png" group-title="Кинозал", VF Comics
-#EXTGRP:Кинозал
-https://stream.zuno-tv.workers.dev/channel/9090/n66d2d764/index.m3u8
+
+
 
 
 
