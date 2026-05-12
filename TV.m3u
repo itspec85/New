@@ -2258,6 +2258,9 @@ https://stream.zuno-tv.workers.dev/channel/9090/1c49ef83/index.m3u8
 #EXTINF:-1 tvg-id="vf-uzhasy-vhs" tvg-name="VF Ужасы VHS" tvg-logo="http://epg.one/img/4601.png" group-title="Кинозал", VF Ужасы VHS
 #EXTGRP:Кинозал
 https://stream.zuno-tv.workers.dev/channel/9090/nffb23c/index.m3u8
+#EXTINF:-1 tvg-id="vf-uralskie-pelmeni" tvg-name="VF Уральские пельмени" tvg-logo="http://epg.one/img/6417.png" group-title="Кинозал", VF Уральские пельмени
+#EXTGRP:Кинозал
+https://stream.zuno-tv.workers.dev/channel/9090/124864a5/index.m3u8
 #EXTINF:-1 tvg-id="vf-filmy-sssr" tvg-name="VF Фильмы СССР" tvg-logo="http://epg.one/img/4670.png" group-title="Кинозал", VF Фильмы СССР
 #EXTGRP:Кинозал
 https://stream.zuno-tv.workers.dev/channel/9090/n6aabccf9/index.m3u8
