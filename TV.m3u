@@ -934,7 +934,7 @@ https://bl.rutube.ru/livestream/91815da4edb167b5bd617bae490e57da/index.m3u8?s=fX
 https://ucdn.beetv.kz/bpk-tv/000001880/tve/index.m3u8
 #EXTINF:-1 tvg-id="2na2" tvg-name="2x2" tvg-logo="http://epg.one/img/323.png" group-title="Познавательные", 2x2
 #EXTGRP:Познавательные
-http://tmptv.sunduk.tv/CH171/index.m3u8
+http://185.78.112.47:8077/2x2/index.m3u8
 #EXTINF:-1 tvg-name="555 Hunt Fishing TV" tvg-logo="https://avatars.mds.yandex.net/i?id=635b73799daf216d5519050021039012e1e8254f-10349168-images-thumbs&n=13" group-title="Познавательные", 555 Hunt Fishing TV
 #EXTGRP:Познавательные
 http://193.169.178.29:8081/podsekaiTV/chanelHD1080/playlist.m3u8
@@ -1048,7 +1048,7 @@ http://178.134.1.158:8081/nano/index.m3u8
 http://176.96.241.40/NatGeoWildHD/index.m3u8
 #EXTINF:-1 tvg-id="national-geographic" tvg-name="National Geographic" tvg-logo="http://epg.one/img/102.png" group-title="Познавательные", National Geographic
 #EXTGRP:Познавательные
-http://tmptv.sunduk.tv/CH53/index.m3u8
+http://stream8.cinerama.uz/1041/mono.m3u8
 #EXTINF:-1 tvg-name="NewsFront TV" tvg-logo="https://avatars.mds.yandex.net/i?id=821654eae286bccb7d36424d975f665b1b62e203-10245177-images-thumbs&n=13" group-title="Познавательные", NewsFront TV
 #EXTGRP:Познавательные
 https://tv.2kita.com/stream/index.m3u8
@@ -1090,7 +1090,7 @@ https://ucdn.beetv.kz/bpk-tv/000008142/tve/index.m3u8
 https://a3569457567-s70378.cdn.ngenix.net/the_explorers/2/index.m3u8
 #EXTINF:-1 tvg-id="tlc" tvg-name="TLC" tvg-logo="http://epg.one/img/2345.png" group-title="Познавательные", TLC
 #EXTGRP:Познавательные
-http://tmptv.sunduk.tv/CH41/index.m3u8
+https://ucdn.beetv.kz/bpk-tv/000001498/tve/index.m3u8
 #EXTINF:-1 tvg-id="travel-adventure" tvg-name="travel+adventure" tvg-logo="http://epg.one/img/1035.png" group-title="Познавательные", travel+adventure
 #EXTGRP:Познавательные
 http://77.232.131.211/TravelAdventureHD/index.m3u8
@@ -1344,7 +1344,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/playlist.m3u8
 https://mhd128.iptv2022.com/p/nbwWvNIkDCPkocnQAwighA,1778785102/streaming/den-pobedi/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="domkino" tvg-name="Дом кино" tvg-logo="http://epg.one/img/834.png" group-title="Кино", Дом Кино
 #EXTGRP:Кино
-http://tmptv.sunduk.tv/CH73/index.m3u8
+http://185.78.112.47:8077/dom_kino/index.m3u8
 #EXTINF:-1 tvg-id="domkino-premium" tvg-name="Дом Кино Премиум HD" tvg-logo="http://epg.one/img/2020.png" group-title="Кино", Дом Кино Премиум HD
 #EXTGRP:Кино
 https://a3569457567-s70378.cdn.ngenix.net/dom_kino_premium_hd/3/index.m3u8
@@ -1353,7 +1353,7 @@ https://a3569457567-s70378.cdn.ngenix.net/dom_kino_premium_hd/3/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000003392/tve/index.m3u8
 #EXTINF:-1 tvg-id="evrokino" tvg-name="Еврокино" tvg-logo="http://epg.one/img/352.png" group-title="Кино", Еврокино
 #EXTGRP:Кино
-http://tmptv.sunduk.tv/CH163/index.m3u8
+http://176.118.197.101/Evrokino/mono.m3u8
 #EXTINF:-1 tvg-name="Иллюзион+" tvg-logo="http://epg.one/img/2403.png" group-title="Кино", Иллюзион +
 #EXTGRP:Кино
 https://a3569457567-s70378.cdn.ngenix.net/illusion_plus/1/index.m3u8
@@ -1414,7 +1414,7 @@ https://a3569457567-s70378.cdn.ngenix.net/kinoklub/1/index.m3u8
 https://stitch.teletarget.ru/vintera/movieseason/1764950731551101ef187a38512cd3d3db48c1eca37527e836ab81636ac589b9/lvl1.m3u8
 #EXTINF:-1 tvg-id="kinosemiya" tvg-name="Киносемья" tvg-logo="http://epg.one/img/987.png" group-title="Кино", КИНОСЕМЬЯ
 #EXTGRP:Кино
-http://tmptv.sunduk.tv/CH25/index.m3u8
+http://185.78.112.47:8077/kinosemya/index.m3u8
 #EXTINF:-1 tvg-id="q-kino-alem" tvg-name="Киносериал KZ" tvg-logo="https://iptvx.one/picons/q-kino-alem.png" group-title="Кино", Киносериал KZ
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000005450/tve/index.m3u8
@@ -1423,7 +1423,7 @@ https://ucdn.beetv.kz/bpk-tv/000005450/tve/index.m3u8
 http://176.118.197.101/Kinoseria/mono.m3u8
 #EXTINF:-1 tvg-id="kinouzhas" tvg-name="Киноужас" tvg-logo="http://epg.one/img/2493.png" group-title="Кино", Киноужас
 #EXTGRP:Кино
-http://tmptv.sunduk.tv/CH409/index.m3u8
+http://185.78.112.47:8077/kinoujas/index.m3u8
 #EXTINF:-1 tvg-id="kinoxit" tvg-name="Кинохит" tvg-logo="http://epg.one/img/542.png" group-title="Кино", КИНОХИТ
 #EXTGRP:Кино
 https://a3285272783-s80718.cdn.ngenix.net//hls//CH_KINOHITHD//video_800x450_avc1/playlist.m3u8
@@ -1606,7 +1606,7 @@ https://ucdn.beetv.kz/bpk-tv/000004471/tve/index.m3u8
 http://37.46.49.14:18010/play/a09n/index.m3u8
 #EXTINF:-1 tvg-id="hollywood-hd" tvg-name="Hollywood HD" tvg-logo="http://epg.one/img/934.png" group-title="Кино", Hollywood HD
 #EXTGRP:Кино
-http://tmptv.sunduk.tv/CH291/index.m3u8
+https://a3569457567-s70378.cdn.ngenix.net/amc/2/index.m3u8
 #EXTINF:-1 tvg-name="Horror TV" tvg-logo="http://epg.one/img/8792.png" group-title="Кино", Horror TV
 #EXTGRP:Кино
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/93dc292b-cbcf-4988-ab97-94feced4c14b/manifest.m3u8
@@ -2362,7 +2362,7 @@ https://flussonic.mkpnet.ru/tv-9dda1dd9d740a9a4/video.m3u8
 http://cdn.kubteltv.workers.dev/?ID=113
 #EXTINF:-1 tvg-id="match-boets" tvg-name="Матч! Боец" tvg-logo="http://epg.one/img/2054.png" group-title="Спорт", Матч! Боец
 #EXTGRP:Спорт
-http://tmptv.sunduk.tv/CH51/index.m3u8
+http://tv.woobl.ru/match_boets_hd/video.m3u8?token=test55555
 #EXTINF:-1 tvg-id="match-boets" tvg-name="Матч! Боец HD" tvg-logo="http://epg.one/img/2054.png" group-title="Спорт", Матч! Боец HD
 #EXTGRP:Спорт
 http://cdn.kubteltv.workers.dev/?ID=112
@@ -2389,7 +2389,7 @@ http://ukr.ukrainske.tv/134/keytvainua/video.m3u8
 http://cdn.kubteltv.workers.dev/?ID=110
 #EXTINF:-1 tvg-id="match-football1" tvg-name="Матч! Футбол 1" tvg-logo="http://epg.one/img/2044.png" group-title="Спорт", Матч! Футбол 1
 #EXTGRP:Спорт
-http://tmptv.sunduk.tv/CH95/index.m3u8
+http://193.25.8.59:8000/fut
 #EXTINF:-1 tvg-id="match-football1" tvg-name="Матч! Футбол 1 HD" tvg-logo="http://epg.one/img/2044.png" group-title="Спорт", Матч! Футбол 1 HD
 #EXTGRP:Спорт
 https://kino.zunotv.workers.dev/match_futbol_1_hd/index.m3u8
@@ -2776,7 +2776,7 @@ http://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
 #EXTINF:-1 tvg-id="europa-plus-tv" tvg-name="Europa Plus TV" tvg-logo="http://epg.one/img/681.png" group-title="Музыка", Europa Plus TV
 #EXTGRP:Музыка
-http://tmptv.sunduk.tv/CH267/index.m3u8
+https://flussonic.mkpnet.ru/tv-0f5fe3eb19ad83d9/video.m3u8
 #EXTINF:-1 tvg-id="tnt-music" tvg-name="FON music" tvg-logo="http://epg.one/img/680.png" group-title="Музыка", FON music
 #EXTGRP:Музыка
 http://185.46.16.239:8000/Nashe_TV
