@@ -594,10 +594,10 @@ https://stream8.cinerama.uz/1037/tracks-v1a1/mono.m3u8
 http://185.46.16.239:8000/Paramount_Comedy
 #EXTINF:-1 tvg-id="avto24" tvg-name="Авто 24" tvg-logo="http://epg.one/img/2008.png" group-title="Познавательные", Авто 24
 #EXTGRP:Познавательные
-http://tmptv.sunduk.tv/CH405/index.m3u8
+http://stream8.cinerama.uz/1430/mono.m3u8
 #EXTINF:-1 tvg-id="avto-plus" tvg-name="Авто Плюс" tvg-logo="http://epg.one/img/153.png" group-title="Познавательные", Авто Плюс
 #EXTGRP:Познавательные
-http://tmptv.sunduk.tv/CH49/index.m3u8
+http://185.78.112.47:8077/avto_plus/index.m3u8
 #EXTINF:-1 tvg-id="anekdottv" tvg-name="Анекдот тв" tvg-logo="http://epg.one/img/2760.png" group-title="Познавательные", Анекдот тв
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000001921/tve/index.m3u8
@@ -660,7 +660,7 @@ http://portal.ott.pink/C5UK_DozhdSD/mpegts?token=9ED1CC22511FE66191AD465072EEE8D
 http://45.11.139.43:8555/doctor/index.m3u8
 #EXTINF:-1 tvg-id="domashnie-zhivotnye" tvg-name="Домашние Животные" tvg-logo="http://epg.one/img/520.png" group-title="Познавательные", Домашние Животные
 #EXTGRP:Познавательные
-http://tmptv.sunduk.tv/CH207/index.m3u8
+http://93.84.115.174:10181/domjivot
 #EXTINF:-1 tvg-id="drive" tvg-name="Драйв" tvg-logo="http://epg.one/img/2443.png" group-title="Познавательные", Драйв
 #EXTGRP:Познавательные
 http://185.46.16.239:8000/Drayv
@@ -943,7 +943,7 @@ http://193.169.178.29:8081/podsekaiTV/chanelHD1080/playlist.m3u8
 http://live.15plusmg.ru/memfs/90b76c71-a86e-488a-aac4-cb66d6f88781.m3u8
 #EXTINF:-1 tvg-id="animal-planet-eu" tvg-name="Animal Planet" tvg-logo="http://epg.one/img/365.png" group-title="Познавательные", Animal Planet
 #EXTGRP:Познавательные
-http://tmptv.sunduk.tv/CH33/index.m3u8
+http://185.78.112.47:8077/AnimalPlanetRussiaHD/index.m3u8
 #EXTINF:-1 tvg-id="bbc" tvg-name="BBC World News" tvg-logo="http://epg.one/img/828.png" group-title="Познавательные", BBC World News
 #EXTGRP:Познавательные
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
