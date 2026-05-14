@@ -721,9 +721,6 @@ https://live-4.otcnet.ru/504/135/1080p/index.m3u8
 #EXTINF:-1 tvg-id="krasnaya-linia" tvg-name="Красная линия" tvg-logo="http://epg.one/img/2476.png" group-title="Познавательные", Красная линия
 #EXTGRP:Познавательные
 https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="kto-est-kto" tvg-name="Кто есть кто" tvg-logo="http://epg.one/img/2456.png" group-title="Познавательные", Кто есть кто
-#EXTGRP:Познавательные
-http://tmptv.sunduk.tv/CH343/index.m3u8
 #EXTINF:-1 tvg-id="mir-uvlecheniy" tvg-name="Кто куда" tvg-logo="http://epg.one/img/2467.png" group-title="Познавательные", Кто куда
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000001377/tve/index.m3u8
@@ -1670,9 +1667,6 @@ http://hls127.freeott.top:8080/PG_USSR_HD/mono.m3u8
 #EXTINF:-1 tvg-id="vhshd" tvg-name="VHS HD" tvg-logo="http://epg.one/img/5462.png" group-title="Кино", VHS HD
 #EXTGRP:Кино
 http://hls127.freeott.top:8080/PG_VHS_HD/mono.m3u8
-#EXTINF:-1 tvg-id="vhs-ka" tvg-name="VHS-ка HD" tvg-logo="https://epg.iptvx.one/picons/vhs-ka.png" group-title="Кино", VHS-ка HD
-#EXTGRP:Кино
-http://tmptv.sunduk.tv/CH5505/index.m3u8
 #EXTINF:-1 tvg-id="4k-ruskino" tvg-name="VHS-ка Русское кино HD" tvg-logo="https://epg.iptvx.one/picons/4k-ruskino.png" group-title="Кино", VHS-ка Русское кино HD
 #EXTGRP:Кино
 https://kino.zunotv.workers.dev/russkoe_kino_4k/index.m3u8
@@ -2362,7 +2356,7 @@ https://flussonic.mkpnet.ru/tv-9dda1dd9d740a9a4/video.m3u8
 http://cdn.kubteltv.workers.dev/?ID=113
 #EXTINF:-1 tvg-id="match-boets" tvg-name="Матч! Боец" tvg-logo="http://epg.one/img/2054.png" group-title="Спорт", Матч! Боец
 #EXTGRP:Спорт
-http://tv.woobl.ru/match_boets_hd/video.m3u8?token=test55555
+http://89.218.32.179:18000/play/a037
 #EXTINF:-1 tvg-id="match-boets" tvg-name="Матч! Боец HD" tvg-logo="http://epg.one/img/2054.png" group-title="Спорт", Матч! Боец HD
 #EXTGRP:Спорт
 http://cdn.kubteltv.workers.dev/?ID=112
@@ -2749,7 +2743,7 @@ http://89.218.32.179:18000/play/a02n
 http://5.188.159.128:8070/Bridge_TV_Classic/index.m3u8
 #EXTINF:-1 tvg-id="bridge-hd" tvg-name="Bridge TV Deluxe" tvg-logo="http://epg.one/img/2022.png" group-title="Музыка", Bridge Deluxe HD
 #EXTGRP:Музыка
-http://tmptv.sunduk.tv/CH257/index.m3u8
+http://89.218.32.179:18000/play/a02m
 #EXTINF:-1 tvg-id="bridge-tv-dance" tvg-name="Bridge TV Hits" tvg-logo="http://epg.one/img/2024.png" group-title="Музыка", Bridge Hits
 #EXTGRP:Музыка
 http://5.188.159.128:8070/Bridge_TV_Hits/index.m3u8
