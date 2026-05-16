@@ -480,7 +480,7 @@ http://vgtrkregion-reg.cdnvideo.ru/vgtrk/8/russia1-hd/index.m3u8
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/9/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-id="kultura" tvg-shift="-2" tvg-name="Россия К +2" tvg-logo="http://epg.one/img/4642.png" group-title="Россия плюсовые", Россия К +2
 #EXTGRP:Россия плюсовые
-http://31.148.48.15/TDK/index.m3u8
+https://stream.zuno-tv.workers.dev/channel/9090/n34fdf611/index.m3u8
 #EXTINF:-1 tvg-id="kultura" tvg-shift="-2" tvg-name="Россия К +2 HD" tvg-logo="http://epg.one/img/4642.png" group-title="Россия плюсовые", Россия К +2 HD
 #EXTGRP:Россия плюсовые
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/kultura-hd/index.m3u8
@@ -492,7 +492,7 @@ https://stream.zuno-tv.workers.dev/channel/9090/n34fdf5d3/index.m3u8
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/kultura-hd/index.m3u8
 #EXTINF:-1 tvg-id="kultura" tvg-shift="-7" tvg-name="Россия К +7" tvg-logo="http://epg.one/img/1101.png" group-title="Россия плюсовые", Россия К +7
 #EXTGRP:Россия плюсовые
-http://193.25.8.59:8000/rossiak
+https://stream.zuno-tv.workers.dev/channel/9090/n34fdf576/index.m3u8
 #EXTINF:-1 tvg-id="kultura" tvg-shift="-7" tvg-name="Россия К +7 HD" tvg-logo="http://epg.one/img/1101.png" group-title="Россия плюсовые", Россия К +7 HD
 #EXTGRP:Россия плюсовые
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/kultura-hd/index.m3u8
@@ -522,7 +522,7 @@ https://stream.zuno-tv.workers.dev/channel/9090/5204b6f3/index.m3u8
 https://stream.zuno-tv.workers.dev/channel/9090/5204b731/index.m3u8
 #EXTINF:-1 tvg-id="tv3-ru-pl7" tvg-name="ТВ3 +7" tvg-logo="http://epg.one/img/3015.png" group-title="Россия плюсовые", ТВ3 +7
 #EXTGRP:Россия плюсовые
-http://193.25.8.59:8000/tv3
+https://stream.zuno-tv.workers.dev/channel/9090/5204b78e/index.m3u8
 #EXTINF:-1 tvg-id="tvcentr-pl2" tvg-name="ТВЦ +2" tvg-logo="http://epg.one/img/2038.png" group-title="Россия плюсовые", ТВЦ +2
 #EXTGRP:Россия плюсовые
 http://de1.plist.link:3355/FGfpnUmovVu6374/index.m3u8?token=8AqJ8y_ch5_3l2pEaM-dP4dktFaaHDtWo4gEIaRpCnODvfdEJfuKrvWJFcyoKCOj.tg6457680141
@@ -531,7 +531,7 @@ http://de1.plist.link:3355/FGfpnUmovVu6374/index.m3u8?token=8AqJ8y_ch5_3l2pEaM-d
 https://stream.zuno-tv.workers.dev/channel/9090/797d434f/index.m3u8
 #EXTINF:-1 tvg-id="tvcentr-pl7" tvg-name="ТВЦ +7" tvg-logo="http://epg.one/img/3038.png" group-title="Россия плюсовые", ТВЦ +7
 #EXTGRP:Россия плюсовые
-http://193.25.8.59:8000/tvc
+https://stream.zuno-tv.workers.dev/channel/9090/797d4352/index.m3u8
 #EXTINF:-1 tvg-id="tnt-pl2" tvg-name="ТНТ +2" tvg-logo="http://epg.one/img/3022.png" group-title="Россия плюсовые", ТНТ +2
 #EXTGRP:Россия плюсовые
 https://stream.zuno-tv.workers.dev/channel/9090/4e495c2f/index.m3u8
@@ -547,9 +547,6 @@ http://de1.plist.link:3355/FGfpnUmovVu0423/index.m3u8?token=8AqJ8y_ch5_3l2pEaM-d
 #EXTINF:-1 tvg-id="tnt4-pl4" tvg-name="ТНТ4 +4" tvg-logo="http://epg.one/img/7979.png" group-title="Россия плюсовые", ТНТ4 +4
 #EXTGRP:Россия плюсовые
 https://stream.zuno-tv.workers.dev/channel/9090/4e495c6d/index.m3u8
-#EXTINF:-1 tvg-id="tnt4-pl7" tvg-name="ТНТ4 +7" tvg-logo="http://epg.one/img/1104.png" group-title="Россия плюсовые", ТНТ4 +7
-#EXTGRP:Россия плюсовые
-http://193.25.8.59:8000/tntcomedy
 #EXTINF:-1 tvg-id="che-pl2" tvg-name="Че +2" tvg-logo="http://epg.one/img/1598.png" group-title="Россия плюсовые", Че +2
 #EXTGRP:Россия плюсовые
 https://stream.zuno-tv.workers.dev/channel/9090/1769f2d8/index.m3u8
@@ -558,7 +555,7 @@ https://stream.zuno-tv.workers.dev/channel/9090/1769f2d8/index.m3u8
 https://stream.zuno-tv.workers.dev/channel/9090/762d7641/index.m3u8
 #EXTINF:-1 tvg-id="che-pl7" tvg-name="Че +7" tvg-logo="http://epg.one/img/1598.png" group-title="Россия плюсовые", Че +7
 #EXTGRP:Россия плюсовые
-http://193.25.8.59:8000/perec
+https://stream.zuno-tv.workers.dev/channel/9090/762d769e/index.m3u8
 #EXTINF:-1 tvg-id="yu-pl2" tvg-name="Ю +2" tvg-logo="http://epg.one/img/898.png" group-title="Россия плюсовые", Ю +2
 #EXTGRP:Россия плюсовые
 https://stream.zuno-tv.workers.dev/channel/9090/548e46a8/index.m3u8
@@ -567,7 +564,7 @@ https://stream.zuno-tv.workers.dev/channel/9090/548e46a8/index.m3u8
 https://stream.zuno-tv.workers.dev/channel/9090/548e46e6/index.m3u8
 #EXTINF:-1 tvg-id="yu-pl7" tvg-name="Ю +7" tvg-logo="http://epg.one/img/898.png" group-title="Россия плюсовые", Ю +7
 #EXTGRP:Россия плюсовые
-http://193.25.8.59:8000/u
+https://stream.zuno-tv.workers.dev/channel/9090/548e4743/index.m3u8
 
 
 
