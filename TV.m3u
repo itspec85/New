@@ -77,7 +77,7 @@ https://ucdn.beetv.kz/bpk-tv/000008934/tve/index.m3u8
 https://s.qonaevtv.kz/live/qonaev/playlist.m3u8
 #EXTINF:-1 tvg-id="qostanai-kz" tvg-name="Qostanai" tvg-logo="https://avatars.mds.yandex.net/i?id=b9c5446aad6bfc54fe6b4d7495cfd38a1d94d795-5628812-images-thumbs&n=13" group-title="Казахстан", Qostanai
 #EXTGRP:Казахстан
-http://stream.kaztrk.kz/regional/kostanaytv/index.m3u8
+https://ucdn.beetv.kz/bpk-tv/000001521/tve/index.m3u8
 #EXTINF:-1 tvg-name="КСК ТВ" tvg-logo="https://avatars.mds.yandex.net/i?id=27ca1b72b765d2578935a4001eea1ed35c0ed276-9147217-images-thumbs&n=13" group-title="Казахстан", КСК ТВ
 #EXTGRP:Казахстан
 https://otv.wotom.net/ksk/stream.m3u8
