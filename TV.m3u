@@ -2514,13 +2514,13 @@ https://aegis-cloudfront-1.tubi.video/36ef2f9d-7100-4c4d-b41a-dbf41ab7e461/playl
 https://a3569457567-s70378.cdn.ngenix.net/m1_global/1/index.m3u8
 #EXTINF:-1 tvg-id="nba-tv" tvg-name="NBA TV HD US" tvg-logo="http://epg.one/img/4587.png" group-title="Спорт", NBA TV HD US
 #EXTGRP:Спорт
-http://kstv.us:8080/c2Q2HDqQfM/111770/15946
+https://bl.rutube.ru/livestream/d01241e9fd2bc2d65dbf6d74cca02f89/index.m3u8?s=tosWxEeYUB0mx8rAHJ_Pqg&e=2074209262&scheme=https
 #EXTINF:-1 tvg-name="NHL Интересные моменты" tvg-logo="https://avatars.mds.yandex.net/get-sport/1642542/d8e715976f899e5ec54adc0e1b30dea4/orig" group-title="Спорт", NHL Интересные моменты
 #EXTGRP:Спорт
 http://nhl-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="nhl-network-us" tvg-name="NHL Network [US]" tvg-logo="http://epg.one/img/4562.png" group-title="Спорт", NHL Network US
 #EXTGRP:Спорт
-http://kstv.us:8080/c2Q2HDqQfM/111770/15941
+https://bl.rutube.ru/livestream/7a485ef5da9fe50ba939f36ca3e6ed96/index.m3u8?s=h-Sei-URL7d4KhCfx0xCzg&e=2074209261&scheme=https
 #EXTINF:-1 tvg-name="Pac 12 Insider USA" tvg-logo="https://i.imgur.com/736QREy.png" group-title="Спорт", Pac 12 Insider USA
 #EXTGRP:Спорт
 https://pac12-roku-us.amagi.tv/playlist.m3u8
