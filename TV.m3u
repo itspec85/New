@@ -2334,7 +2334,7 @@ https://flussonic.mkpnet.ru/tv-9dda1dd9d740a9a4/video.m3u8
 http://cdn.kubteltv.workers.dev/?ID=113
 #EXTINF:-1 tvg-id="match-boets" tvg-name="Матч! Боец" tvg-logo="http://epg.one/img/2054.png" group-title="Спорт", Матч! Боец
 #EXTGRP:Спорт
-http://89.218.32.179:18000/play/a037
+http://46.32.176.50/boets/index.m3u8
 #EXTINF:-1 tvg-id="match-boets" tvg-name="Матч! Боец HD" tvg-logo="http://epg.one/img/2054.png" group-title="Спорт", Матч! Боец HD
 #EXTGRP:Спорт
 http://cdn.kubteltv.workers.dev/?ID=112
@@ -2443,9 +2443,6 @@ http://cord-cutter.net:8080/LeeAv21/AvantL12/14197
 #EXTINF:-1 tvg-id="espn2-us" tvg-name="ESPN2 [US]" tvg-logo="http://epg.one/img/6581.png" group-title="Спорт", ESPN 2 HD US
 #EXTGRP:Спорт
 http://fortv.cc:8080/sed8nurse@hotmail.com/0LzoNUu9jX/2210
-#EXTINF:-1 tvg-id="espn-news-us" tvg-name="ESPN News [US]" tvg-logo="http://epg.one/img/6580.png" group-title="Спорт", ESPNews HD US
-#EXTGRP:Спорт
-http://fortv.cc:8080/sed8nurse@hotmail.com/0LzoNUu9jX/17707
 #EXTINF:-1 tvg-id="espn-u-us" tvg-name="ESPN U [US]" tvg-logo="http://epg.one/img/8396.png" group-title="Спорт", ESPNU HD US
 #EXTGRP:Спорт
 http://fortv.cc:8080/sed8nurse@hotmail.com/0LzoNUu9jX/10255
@@ -2463,7 +2460,7 @@ http://169.150.223.25/Eurosport1HD/index.m3u8
 http://app-plus.live:80/9680723188/kyft6ks0g7gr7uw0xio6/196844
 #EXTINF:-1 tvg-id="eurosport2" tvg-name="Eurosport 2" tvg-logo="http://epg.one/img/4313.png" group-title="Спорт", Eurosport 2
 #EXTGRP:Спорт
-http://176.96.241.40/Eurosport2/index.m3u8
+http://46.32.176.50/eurosport2/index.m3u8
 #EXTINF:-1 tvg-id="eurosport2" tvg-name="Eurosport 2 HD" tvg-logo="http://epg.one/img/4313.png" group-title="Спорт", Eurosport 2 HD
 #EXTGRP:Спорт
 https://ucdn.beetv.kz/bpk-tv/000002479/tve/index.m3u8
@@ -2490,7 +2487,7 @@ https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3
 https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8
 #EXTINF:-1 tvg-name="Glory Kickboxing" tvg-logo="https://avatars.mds.yandex.net/i?id=abf21721486b2e4657813651412bc1e1a1a854a9-10304277-images-thumbs&n=13" group-title="Спорт", Glory Kickboxing
 #EXTGRP:Спорт
-https://jmp2.uk/plu-5417a212ff9fba68282fbf5e.m3u8
+https://6f972d29.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0dsb3J5S2lja2JveGluZ19ITFM/playlist.m3u8
 #EXTINF:-1 tvg-name="HORSE & COUNTRY HD SE" tvg-logo="http://epg.one/img/4850.png" group-title="Спорт", HORSE & COUNTRY HD SE
 #EXTGRP:Спорт
 https://hncfree-samsungau.amagi.tv/playlist720-p.m3u8
