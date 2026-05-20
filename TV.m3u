@@ -2661,7 +2661,7 @@ http://kino-1.catcast.tv/content/37739/index.m3u8
 http://176.96.241.40/MuzikaPervogo/index.m3u8
 #EXTINF:-1 tvg-id="la-minor" tvg-name="Музыка Live" tvg-logo="https://epg.iptvx.one/picons/la-minor.png" group-title="Музыка", Музыка Live
 #EXTGRP:Музыка
-http://31.148.48.15:80/La-Minor_TV/index.m3u8
+http://93.84.115.174:10181/laminor
 #EXTINF:-1 tvg-id="o2tv" tvg-name="О2 ТВ" tvg-logo="http://epg.one/img/2412.png" group-title="Музыка", О2 ТВ
 #EXTGRP:Музыка
 http://77.232.131.211/O2TV/index.m3u8
