@@ -2578,9 +2578,6 @@ https://prosto.zuno-tv.workers.dev/stream/id313/video.m3u8
 #EXTINF:-1 tvg-id="setanta-plus-ua" tvg-name="Setanta Sports+ Ukraine" tvg-logo="http://epg.one/img/6860.png" group-title="Спорт", Setanta Ukraine Plus HD
 #EXTGRP:Спорт
 https://prosto.zuno-tv.workers.dev/stream/id371/video.m3u8
-#EXTINF:-1 tvg-id="sky-sports-apl" tvg-name="Sky Sports Premiere League UK" tvg-logo="http://epg.one/img/4569.png" group-title="Спорт", Sky Sports Premiere League UK
-#EXTGRP:Спорт
-http://kstv.us:8080/c2Q2HDqQfM/111770/47871
 #EXTINF:-1 tvg-id="sky-sports-tennis" tvg-name="Sky Sports Tennis [UK]" tvg-logo="http://epg.one/img/9400.png" group-title="Спорт", Sky Sports Tennis HD UK
 #EXTGRP:Спорт
 https://bl.rutube.ru/livestream/5f5dc9d64b43dfc740e92f2bdf2b0d38/index.m3u8?s=Yz-1aGV40bGEy8WEbP7DMw&e=2067730155&scheme=https
@@ -2595,7 +2592,7 @@ https://stream8.cinerama.uz/1004/tracks-v1a1/mono.m3u8
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
 #EXTINF:-1 tvg-id="tennis-cnl-us" tvg-name="Tennis Channel [US]" tvg-logo="http://epg.one/img/3118.png" group-title="Спорт", TENNIS HD US
 #EXTGRP:Спорт
-https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+https://jmp2.uk/plu-681109b688b9d85d0938c6ba.m3u8
 #EXTINF:-1 tvg-name="Tennis+" tvg-logo="https://avatars.mds.yandex.net/i?id=26b7ad6af5b884c9d329427d05133b2d1e2ded89-4011855-images-thumbs&n=13" group-title="Спорт", Tennis+
 #EXTGRP:Спорт
 https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
