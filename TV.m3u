@@ -1198,6 +1198,9 @@ http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:-1 tvg-id="ani" tvg-name="Ani" tvg-logo="http://epg.one/img/2011.png" group-title="Детские", Ani
 #EXTGRP:Детские
 http://185.46.16.239:8000/Ani
+#EXTINF:-1 tvg-name="animation" tvg-logo="https://avatars.mds.yandex.net/i?id=2a0000017a16a1bd96b9dc40c85205c4d998-4245511-images-thumbs&n=13" group-title="Детские", animation
+#EXTGRP:Детские
+http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
 #EXTINF:-1 tvg-id="baby-time" tvg-name="Baby Time" tvg-logo="http://epg.one/img/9029.png" group-title="Детские", Baby Time
 #EXTGRP:Детские
 http://89.218.32.179:18000/play/a028
@@ -1525,12 +1528,6 @@ https://a3285272783-s80718.cdn.ngenix.net/hls/CH_REDHD/video_1920x1080_avc1/play
 #EXTINF:-1 tvg-id="sony-scifi" tvg-name=".sci-fi" tvg-logo="http://epg.one/img/516.png" group-title="Кино", .sci-fi
 #EXTGRP:Кино
 https://a3569457567-s70378.cdn.ngenix.net/sony_sci_fi/2/index.m3u8
-#EXTINF:-1 tvg-name="Alpha Cinema" tvg-logo="https://avatars.mds.yandex.net/i?id=5881e5d66b4fd37d34441f48c9160147-4743742-images-thumbs&n=13" group-title="Кино", Alpha Cinema
-#EXTGRP:Кино
-http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
-#EXTINF:-1 tvg-name="Alpha Moretime" tvg-logo="https://avatars.mds.yandex.net/i?id=5881e5d66b4fd37d34441f48c9160147-4743742-images-thumbs&n=13" group-title="Кино", Alpha Moretime
-#EXTGRP:Кино
-http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
 #EXTINF:-1 tvg-id="amedia1" tvg-name="Amedia 1" tvg-logo="http://epg.one/img/1371.png" group-title="Кино", Amedia 1
 #EXTGRP:Кино
 https://a3569457567-s70378.cdn.ngenix.net/amedia_1/2/index.m3u8
@@ -1597,6 +1594,9 @@ http://cdn.kubteltv.workers.dev/?ID=297
 #EXTINF:-1 tvg-id="kinojam2" tvg-name="Kinojam 2 HD" tvg-logo="http://epg.one/img/4467.png" group-title="Кино", Kinojam 2 HD
 #EXTGRP:Кино
 http://cdn.kubteltv.workers.dev/?ID=298
+#EXTINF:-1 tvg-name="nsc+" tvg-logo="https://avatars.mds.yandex.net/i?id=9e0e17abb257685d9b30fcdc31730c0ef3723ad5-4797777-images-thumbs&n=13" group-title="Кино", nsc+
+#EXTGRP:Кино
+http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
 #EXTINF:-1 tvg-id="plan-b" tvg-name="Plan B HD" tvg-logo="http://epg.one/img/6643.png" group-title="Кино", Plan B HD
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000007625/tve/index.m3u8
