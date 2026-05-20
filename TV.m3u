@@ -2758,12 +2758,6 @@ https://a3569457567-s70378.cdn.ngenix.net/mezzo/1/index.m3u8
 #EXTINF:-1 tvg-name="MIX MUSIC" tvg-logo="https://avatars.mds.yandex.net/i?id=8552986643492f1dee0ad4744313f6cc2472b778-4568203-images-thumbs&n=13" group-title="Музыка", MIX MUSIC
 #EXTGRP:Музыка
 https://cdamix.streaming.ws/mixmusic/live/chunklist.m3u8
-#EXTINF:-1 tvg-id="musicbox-dance" tvg-name="Music Box Dance" tvg-logo="https://epg.iptvx.one/picons/musicbox-dance.png" group-title="Музыка", Music Box Dance
-#EXTGRP:Музыка
-https://vkvsd80.okcdn.ru/cmaf/2765758728770/sig/8XgYVgqXDjM/srcIp/141.101.76.169/urls/185.226.52.104/expires/1776549902958/clientType/13/srcAg/CHROME/fromCache/1/mid/3718962948930/id/2765758728770/get/CMLW3JuebBDoBxgFMggKBgiAChDQBToECMTYAloGCAMQAigXYgIIGKuXOA1nK6AW/track.m3u8
-#EXTINF:-1 tvg-id="musicbox-hits" tvg-name="Music Box Hits" tvg-logo="https://epg.iptvx.one/picons/musicbox-hits.png" group-title="Музыка", Music Box Hits
-#EXTGRP:Музыка
-https://vkvsd173.okcdn.ru/cmaf/6083717368449/sig/BUXcbDkqCdc/srcIp/104.23.172.132/urls/185.226.52.67/expires/1776550054012/clientType/13/srcAg/CHROME/fromCache/1/mid/6800584223617/id/6083717368449/get/CIHXoJP2xQEQ6AcYBDIICgYI2AYQ4AM6BAjE2AJaBggBEAIoF2ICCBBqE463f8wbMg/track.m3u8
 #EXTINF:-1 tvg-id="now70s" tvg-name="Now 70's" tvg-logo="http://epg.one/img/6626.png" group-title="Музыка", Now 70s HD UK
 #EXTGRP:Музыка
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
@@ -2808,7 +2802,7 @@ https://listen.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
 https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="retro-music-cz" tvg-name="Retro Music TV" tvg-logo="http://epg.one/img/5380.png" group-title="Музыка", RETRO TV
 #EXTGRP:Музыка
-https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist.m3u8
+rtmp://stream.mediawork.cz/retrotv/retrotvHQ1
 #EXTINF:-1 tvg-id="ru-tv" tvg-name="RU TV HD" tvg-logo="http://epg.one/img/2277.png" group-title="Музыка", RU TV HD
 #EXTGRP:Музыка
 http://5.188.159.128:8070/rutv/index.m3u8
