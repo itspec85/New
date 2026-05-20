@@ -1441,9 +1441,6 @@ http://hls127.freeott.top:8080/Nash_kinomir/video.m3u8
 #EXTINF:-1 tvg-id="nash-kinopokaz" tvg-name="Наш кинопоказ" tvg-logo="http://epg.one/img/2831.png" group-title="Кино", Наш Кинопоказ HD
 #EXTGRP:Кино
 http://cdn.kubteltv.workers.dev/?ID=414
-#EXTINF:-1 tvg-id="nashehd" tvg-name="Наше крутое HD" tvg-logo="http://epg.one/img/2018.png" group-title="Кино", Наше крутое HD
-#EXTGRP:Кино
-http://hls127.freeott.top:8080/Nashe_HD/mono.m3u8
 #EXTINF:-1 tvg-id="nashe-muzhskoe" tvg-name="Наше Мужское HD" tvg-logo="http://epg.one/img/2835.png" group-title="Кино", Наше Мужское HD
 #EXTGRP:Кино
 https://kino.zunotv.workers.dev/nashe_muzhskoe_hd/index.m3u8
@@ -1576,9 +1573,6 @@ https://a3569457567-s70378.cdn.ngenix.net/filmbox/1/index.m3u8
 #EXTINF:-1 tvg-id="filmbox-arthouse" tvg-name="FilmBox ArtHouse" tvg-logo="http://epg.one/img/2182.png" group-title="Кино", FilmBox ArtHouse
 #EXTGRP:Кино
 https://a3569457567-s70378.cdn.ngenix.net/filmbox_arthouse/1/index.m3u8
-#EXTINF:-1 tvg-id="flixsnip" tvg-name="Flix Snip" tvg-logo="http://epg.one/img/774.png" group-title="Кино", Flix Snip
-#EXTGRP:Кино
-https://a3569457567-s70378.cdn.ngenix.net/flixsnip/1/index.m3u8
 #EXTINF:-1 tvg-name="FMC" tvg-logo="https://avatars.mds.yandex.net/i?id=1959193b12698485d22fe83173de7c117f9b4b37-5887368-images-thumbs&n=13" group-title="Кино", FMC
 #EXTGRP:Кино
 rtmp://vkvsd69.okcdn.ru/playback/3780958366657?stkn=QkbWCnARWe2BdgDd2ZlIsACtDwpqkYXvX5avvzYaOvFMLx0UvcPKLeTbLVWs99SwkzSDsjYLt-I&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
@@ -1609,9 +1603,6 @@ http://cdn.kubteltv.workers.dev/?ID=297
 #EXTINF:-1 tvg-id="kinojam2" tvg-name="Kinojam 2 HD" tvg-logo="http://epg.one/img/4467.png" group-title="Кино", Kinojam 2 HD
 #EXTGRP:Кино
 http://cdn.kubteltv.workers.dev/?ID=298
-#EXTINF:-1 tvg-name="NSC" tvg-logo="https://avatars.mds.yandex.net/i?id=2104bf41d9e9376e184076b17c82dc1fb6a9f5af-16483332-images-thumbs&n=13" group-title="Кино", NSC
-#EXTGRP:Кино
-https://live.15plusmg.ru/memfs/5a03fc7a-8417-4874-b56f-91b8aeba1210_output_0.m3u8?session=bomhMGCHEtND9D3hX7kb4M
 #EXTINF:-1 tvg-id="plan-b" tvg-name="Plan B HD" tvg-logo="http://epg.one/img/6643.png" group-title="Кино", Plan B HD
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000007625/tve/index.m3u8
@@ -1636,9 +1627,6 @@ https://ucdn.beetv.kz/bpk-tv/000007815/tve/index.m3u8
 #EXTINF:-1 tvg-id="start-world" tvg-name="START World" tvg-logo="http://epg.one/img/6240.png" group-title="Кино", START World HD
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000007818/tve/index.m3u8
-#EXTINF:-1 tvg-name="SunsetOne" tvg-logo="https://i.postimg.cc/0jSkDzbr/Sun.jpg" group-title="Кино", SunsetOne
-#EXTGRP:Кино
-https://str-01.sunset-media.org/SunsetOne/index.m3u8
 #EXTINF:-1 tvg-id="suspense" tvg-name="Suspense HD" tvg-logo="http://epg.one/img/9180.png" group-title="Кино", Suspense HD
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000008739/tve/index.m3u8
