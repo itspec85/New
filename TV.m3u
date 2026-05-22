@@ -350,22 +350,22 @@ https://flussonic.mkpnet.ru/tv-3b21847ece4b1c19/video.m3u8
 
 #EXTINF:-1 tvg-id="domashny-pl2" tvg-name="Домашний +2" tvg-logo="http://epg.one/img/3010.png" group-title="Россия плюсовые", Домашний +2
 #EXTGRP:Россия плюсовые
-https://stream.zuno-tv.workers.dev/channel/9090/1807d3b7/index.m3u8
+http://217.174.229.136:8000/play/a07v
 #EXTINF:-1 tvg-id="domashny-pl4" tvg-name="Домашний +4" tvg-logo="http://epg.one/img/3011.png" group-title="Россия плюсовые", Домашний +4
 #EXTGRP:Россия плюсовые
-https://stream.zuno-tv.workers.dev/channel/9090/1807d3b9/index.m3u8
+http://217.174.229.136:8000/play/a01q
 #EXTINF:-1 tvg-id="domashny-pl7" tvg-name="Домашний +7" tvg-logo="http://epg.one/img/3012.png" group-title="Россия плюсовые", Домашний +7
 #EXTGRP:Россия плюсовые
 https://stream.zuno-tv.workers.dev/channel/9090/1807d3bc/index.m3u8
 #EXTINF:-1 tvg-id="zvezda-pl2" tvg-name="Звезда +2" tvg-logo="http://epg.one/img/2039.png" group-title="Россия плюсовые", Звезда +2
 #EXTGRP:Россия плюсовые
-https://stream.zuno-tv.workers.dev/channel/9090/n472715db/index.m3u8
+http://217.174.229.136:8000/play/a074
 #EXTINF:-1 tvg-id="zvezda-pl4" tvg-name="Звезда +4" tvg-logo="http://epg.one/img/3035.png" group-title="Россия плюсовые", Звезда +4
 #EXTGRP:Россия плюсовые
 https://stream.zuno-tv.workers.dev/channel/9090/n4727159d/index.m3u8
 #EXTINF:-1 tvg-id="zvezda-pl7" tvg-name="Звезда +7" tvg-logo="http://epg.one/img/3036.png" group-title="Россия плюсовые", Звезда +7
 #EXTGRP:Россия плюсовые
-https://stream.zuno-tv.workers.dev/channel/9090/n47271540/index.m3u8
+http://217.174.229.136:8000/play/a07c
 #EXTINF:-1 tvg-id="mir-pl2" tvg-name="Мир +2" tvg-logo="http://epg.one/img/3019.png" group-title="Россия плюсовые", Мир +2
 #EXTGRP:Россия плюсовые
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/playlist.m3u8
@@ -381,19 +381,19 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/playlist.m3u8
 https://cdn.ntv.ru/ntv1/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="ntv-pl2" tvg-name="НТВ (+2)" tvg-logo="http://epg.one/img/2036.png" group-title="Россия плюсовые", НТВ +2
 #EXTGRP:Россия плюсовые
-https://stream.zuno-tv.workers.dev/channel/9091/34151a29/index.m3u8
+http://217.174.229.136:8000/play/a07n
 #EXTINF:-1 tvg-id="ntv-pl4" tvg-name="НТВ (+4)" tvg-logo="http://epg.one/img/2964.png" group-title="Россия плюсовые", НТВ +4
 #EXTGRP:Россия плюсовые
 https://stream.zuno-tv.workers.dev/channel/9091/34151a67/index.m3u8
 #EXTINF:-1 tvg-id="ntv-pl7" tvg-name="НТВ (+7)" tvg-logo="http://epg.one/img/3028.png" group-title="Россия плюсовые", НТВ +7
 #EXTGRP:Россия плюсовые
-https://stream.zuno-tv.workers.dev/channel/9091/34151ac4/index.m3u8
+http://217.174.229.136:8000/play/a08p
 #EXTINF:-1 tvg-id="pervy-pl1" tvg-name="Первый канал +1" tvg-logo="http://epg.one/img/146.png" group-title="Россия плюсовые", Первый канал +1
 #EXTGRP:Россия плюсовые
 http://de1.plist.link:3355/FGfpnUmovVu02842/index.m3u8?token=8AqJ8y_ch5_3l2pEaM-dP69Dd05bBcjtc0E-5QWb3DCVA8R6XpnInAXvqhi6viPw.tg6457680141
 #EXTINF:-1 tvg-id="pervy-pl2" tvg-name="Первый канал +2" tvg-logo="http://epg.one/img/2034.png" group-title="Россия плюсовые", Первый канал +2
 #EXTGRP:Россия плюсовые
-https://stream.zuno-tv.workers.dev/channel/9091/769dda33/index.m3u8
+http://217.174.229.136:8000/play/a00t
 #EXTINF:-1 tvg-id="pervy-pl4" tvg-name="Первый канал +4" tvg-logo="http://epg.one/img/3025.png" group-title="Россия плюсовые", Первый канал +4
 #EXTGRP:Россия плюсовые
 https://stream.zuno-tv.workers.dev/channel/9091/n57169a4c/index.m3u8
@@ -414,7 +414,7 @@ https://stream.zuno-tv.workers.dev/channel/9090/n64007e6c/index.m3u8
 https://stream.zuno-tv.workers.dev/channel/9090/n64007e2e/index.m3u8
 #EXTINF:-1 tvg-id="piatnica-pl7" tvg-name="Пятница +7" tvg-logo="http://epg.one/img/3018.png" group-title="Россия плюсовые", Пятница +7
 #EXTGRP:Россия плюсовые
-https://stream.zuno-tv.workers.dev/channel/9090/n2bb57401/index.m3u8
+http://217.174.229.136:8000/play/a01w
 #EXTINF:-1 tvg-id="5kanal-ru-pl2" tvg-name="Пятый канал +2" tvg-logo="http://epg.one/img/2035.png" group-title="Россия плюсовые", Пятый канал +2
 #EXTGRP:Россия плюсовые
 http://de1.plist.link:3355/FGfpnUmovVu7372/index.m3u8?token=8AqJ8y_ch5_3l2pEaM-dP2YUxeN1P7z4LUlAzPZKMIUAunxLM3wkwAYH3hgGvYDL.tg6457680141
@@ -426,13 +426,13 @@ https://stream.zuno-tv.workers.dev/channel/9090/n57169a4c/index.m3u8
 https://stream.zuno-tv.workers.dev/channel/9090/n57169a0e/index.m3u8
 #EXTINF:-1 tvg-id="rentv-pl2" tvg-name="Рен ТВ +2" tvg-logo="http://epg.one/img/2037.png" group-title="Россия плюсовые", Рен ТВ +2
 #EXTGRP:Россия плюсовые
-https://stream.zuno-tv.workers.dev/channel/9090/n632916ea/index.m3u8
+http://217.174.229.136:8000/play/a097
 #EXTINF:-1 tvg-id="rentv-pl4" tvg-name="Рен ТВ +4" tvg-logo="http://epg.one/img/3033.png" group-title="Россия плюсовые", Рен ТВ +4
 #EXTGRP:Россия плюсовые
-https://stream.zuno-tv.workers.dev/channel/9090/n2272ecfb/index.m3u8
+http://217.174.229.136:8000/play/a01o
 #EXTINF:-1 tvg-id="rentv-pl7" tvg-name="Рен ТВ +7" tvg-logo="http://epg.one/img/3034.png" group-title="Россия плюсовые", Рен ТВ +7
 #EXTGRP:Россия плюсовые
-https://stream.zuno-tv.workers.dev/channel/9090/n2272ecf8/index.m3u8
+http://217.174.229.136:8000/play/a07f
 #EXTINF:-1 tvg-id="rossia1" tvg-shift="-1" tvg-name="Россия 1 +1" tvg-logo="http://epg.one/img/711.png" group-title="Россия плюсовые", Россия 1 +1
 #EXTGRP:Россия плюсовые
 https://stream.zuno-tv.workers.dev/channel/9091/n5d4bb32d/index.m3u8
@@ -441,7 +441,7 @@ https://stream.zuno-tv.workers.dev/channel/9091/n5d4bb32d/index.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/1/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-id="rossia1" tvg-shift="-2" tvg-name="Россия 1 +2" tvg-logo="http://epg.one/img/3000.png" group-title="Россия плюсовые", Россия 1 +2
 #EXTGRP:Россия плюсовые
-https://stream.zuno-tv.workers.dev/channel/9090/1edf0438/index.m3u8
+http://217.174.229.136:8000/play/a00u
 #EXTINF:-1 tvg-id="rossia1" tvg-shift="-2" tvg-name="Россия 1 +2 HD" tvg-logo="http://epg.one/img/3000.png" group-title="Россия плюсовые", Россия 1 +2 HD
 #EXTGRP:Россия плюсовые
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/russia1-hd/index.m3u8
@@ -501,13 +501,13 @@ https://stream.zuno-tv.workers.dev/channel/9090/n34fdf576/index.m3u8
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/kultura-hd/index.m3u8
 #EXTINF:-1 tvg-id="sts-pl2" tvg-name="СТС +2" tvg-logo="http://epg.one/img/3007.png" group-title="Россия плюсовые", СТС +2
 #EXTGRP:Россия плюсовые
-https://stream.zuno-tv.workers.dev/channel/9090/n12cd810a/index.m3u8
+http://217.174.229.136:8000/play/a07u
 #EXTINF:-1 tvg-id="sts-pl4" tvg-name="СТС +4" tvg-logo="http://epg.one/img/3008.png" group-title="Россия плюсовые", СТС +4
 #EXTGRP:Россия плюсовые
 https://stream.zuno-tv.workers.dev/channel/9090/n12cd80cc/index.m3u8
 #EXTINF:-1 tvg-id="sts-pl7" tvg-name="СТС +7" tvg-logo="http://epg.one/img/3009.png" group-title="Россия плюсовые", СТС +7
 #EXTGRP:Россия плюсовые
-https://stream.zuno-tv.workers.dev/channel/9090/n12cd806f/index.m3u8
+http://217.174.229.136:8000/play/a07t
 #EXTINF:-1 tvg-id="super" tvg-shift="-2" tvg-name="Суббота +2" tvg-logo="http://epg.one/img/7976.png" group-title="Россия плюсовые", Суббота +2
 #EXTGRP:Россия плюсовые
 https://stream.zuno-tv.workers.dev/channel/9090/n60b4aa92/index.m3u8
@@ -537,10 +537,10 @@ https://stream.zuno-tv.workers.dev/channel/9090/797d434f/index.m3u8
 https://stream.zuno-tv.workers.dev/channel/9090/797d4352/index.m3u8
 #EXTINF:-1 tvg-id="tnt-pl2" tvg-name="ТНТ +2" tvg-logo="http://epg.one/img/3022.png" group-title="Россия плюсовые", ТНТ +2
 #EXTGRP:Россия плюсовые
-https://stream.zuno-tv.workers.dev/channel/9090/4e495c2f/index.m3u8
+http://217.174.229.136:8000/play/a09u
 #EXTINF:-1 tvg-id="tnt-pl4" tvg-name="ТНТ +4" tvg-logo="http://epg.one/img/3023.png" group-title="Россия плюсовые", ТНТ +4
 #EXTGRP:Россия плюсовые
-https://stream.zuno-tv.workers.dev/channel/9090/4e495c6d/index.m3u8
+http://217.174.229.136:8000/play/a01h
 #EXTINF:-1 tvg-id="tnt-pl7" tvg-name="ТНТ +7" tvg-logo="http://epg.one/img/3024.png" group-title="Россия плюсовые", ТНТ +7
 #EXTGRP:Россия плюсовые
 https://stream.zuno-tv.workers.dev/channel/9090/4e495cca/index.m3u8
@@ -633,12 +633,10 @@ https://a3569457567-s70378.cdn.ngenix.net/glazami_turista/1/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000003174/tve/index.m3u8
 #EXTINF:-1 tvg-id="dikaya-oxota-hd" tvg-name="Дикая охота HD" tvg-logo="http://epg.one/img/2483.png" group-title="Познавательные", Дикая охота HD
 #EXTGRP:Познавательные
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
-https://mhd128.iptv2022.com/p/fJwq9HnJFF5YttjTXbg8dg,1779390211/streaming/ohotahd/324/1/tracks-v5a1/mono.m3u8
+http://217.174.229.136:8000/play/a08k
 #EXTINF:-1 tvg-id="dikaya-rybalka-hd" tvg-name="Дикая рыбалка HD" tvg-logo="http://epg.one/img/2484.png" group-title="Познавательные", Дикая рыбалка HD
 #EXTGRP:Познавательные
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
-https://mhd128.iptv2022.com/p/7OMzL81ebGBM2Qqbut_xkg,1779390211/streaming/ribalkahd/324/1/tracks-v5a1/mono.m3u8
+http://217.174.229.136:8000/play/a08j
 #EXTINF:-1 tvg-id="dikiy" tvg-name="Дикий" tvg-logo="http://epg.one/img/2283.png" group-title="Познавательные", Дикий
 #EXTGRP:Познавательные
 http://176.96.241.40/Dikiy/index.m3u8
