@@ -626,7 +626,7 @@ http://185.46.16.239:8000/Zhivaya_Planeta
 https://a3569457567-s70378.cdn.ngenix.net/jivi/1/index.m3u8
 #EXTINF:-1 tvg-id="zhivi-aktivno" tvg-name="Живи активно" tvg-logo="https://epg.iptvx.one/picons/zhivi-aktivno.png" group-title="Познавательные", Живи активно
 #EXTGRP:Познавательные
-http://77.245.98.18:8000/play/a012
+https://flussonic.mkpnet.ru/tv-fa810958620d77d8/video.m3u8
 #EXTINF:-1 tvg-name="За!ТВ" tvg-logo="https://avatars.mds.yandex.net/i?id=3392ef595a598b716b3a9c5e8939f4338114f599-5287388-images-thumbs&n=13" group-title="Познавательные", За!ТВ
 #EXTGRP:Познавательные
 https://streaming.televizor-24-tochka.ru/live/25-req_offset_28000000-req_window_0-1k_v5.m3u8
@@ -1032,7 +1032,7 @@ http://77.232.131.211/TravelAdventureHD/index.m3u8
 http://91.247.68.229:8000/play/Travelxp/index.m3u8
 #EXTINF:-1 tvg-id="travel-xp-hd" tvg-name="TravelXP HD" tvg-logo="http://epg.one/img/9155.png" group-title="Познавательные", TravelXP HD
 #EXTGRP:Познавательные
-http://77.245.98.18:8000/play/a00n
+https://prosto.zuno-tv.workers.dev/stream/id524/video.m3u8
 #EXTINF:-1 tvg-id="tv-brics" tvg-name="TV BRICS" tvg-logo="https://iptvx.one/picons/tv-brics.png" group-title="Познавательные", TV BRICS
 #EXTGRP:Познавательные
 http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
