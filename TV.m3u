@@ -318,6 +318,9 @@ https://ucdn.beetv.kz/bpk-tv/000004712/tve/index.m3u8
 #EXTINF:-1 tvg-id="tvcentr" tvg-name="ТВЦ" tvg-logo="http://epg.one/img/649.png" group-title="Россия", ТВЦ
 #EXTGRP:Россия
 http://185.71.81.6:8080/10/index.m3u8
+#EXTINF:-1 tvg-id="tvcentr" tvg-name="ТВЦ HD" tvg-logo="http://epg.one/img/649.png" group-title="Россия", ТВЦ HD
+#EXTGRP:Россия
+http://tchaikovsky.af-stream.com:8080/s/agvha3rn/tvc-hd/video.m3u8
 #EXTINF:-1 tvg-id="tvci" tvg-name="ТВЦ International" tvg-logo="http://epg.one/img/5691.png" group-title="Россия", ТВЦ International
 #EXTGRP:Россия
 https://ucdn.beetv.kz/bpk-tv/000000112/tve/index.m3u8
