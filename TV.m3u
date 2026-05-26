@@ -684,6 +684,9 @@ https://live-4.otcnet.ru/504/135/1080p/index.m3u8
 #EXTINF:-1 tvg-id="krasnaya-linia" tvg-name="Красная линия" tvg-logo="http://epg.one/img/2476.png" group-title="Познавательные", Красная линия
 #EXTGRP:Познавательные
 https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="kto-est-kto" tvg-name="Кто есть кто" tvg-logo="http://epg.one/img/2456.png" group-title="Познавательные", Кто есть кто
+#EXTGRP:Познавательные
+http://185.78.112.47:8077/kto-est-kto/index.m3u8
 #EXTINF:-1 tvg-id="mir-uvlecheniy" tvg-name="Кто куда" tvg-logo="http://epg.one/img/2467.png" group-title="Познавательные", Кто куда
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000001377/tve/index.m3u8
@@ -988,6 +991,9 @@ https://api.alpaca.t62a.com/hls/9104/stream0.m3u8
 #EXTINF:-1 tvg-name="Kulinar TV" tvg-logo="https://bem-media.de/wp-content/uploads/Kulinar.png" group-title="Познавательные", Kulinar TV
 #EXTGRP:Познавательные
 http://api.alpaca.t62a.com/hls/9110/stream0.m3u8
+#EXTINF:-1 tvg-id="love-nature-4k" tvg-name="Love Nature 4K" tvg-logo="http://epg.one/img/2801.png" group-title="Познавательные", Love Nature 4K
+#EXTGRP:Познавательные
+https://jmp2.uk/stvp-USBA3400003IP
 #EXTINF:-1 tvg-id="luxury" tvg-name="Luxury" tvg-logo="http://epg.one/img/2759.png" group-title="Познавательные", Luxury
 #EXTGRP:Познавательные
 http://s1.tv-nano.com/Luxury_rec/video.m3u8
