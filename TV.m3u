@@ -2368,6 +2368,9 @@ https://live.teleradiocom.tj/8/3m.m3u8
 #EXTINF:-1 tvg-id="xokkejny" tvg-name="Хоккей ТВ" tvg-logo="http://epg.one/img/4605.png" group-title="Спорт", Хоккей ТВ HD
 #EXTGRP:Спорт
 http://cdn.kubteltv.workers.dev/?ID=405
+#EXTINF:-1 tvg-name="1TV Sport GE" tvg-logo="https://avatars.mds.yandex.net/i?id=49ca460f5223191d3603351e5e7de169453b298c-12714922-images-thumbs&n=13" group-title="Спорт", 1TV Sport GE
+#EXTGRP:Спорт
+https://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="a-spor-tr" tvg-name="A Spor [TR]" tvg-logo="http://epg.one/img/2587.png" group-title="Спорт", A Spor HD TR
 #EXTGRP:Спорт
 http://app-plus.live:80/9680723188/kyft6ks0g7gr7uw0xio6/196803
@@ -2542,9 +2545,12 @@ https://bl.rutube.ru/livestream/5f5dc9d64b43dfc740e92f2bdf2b0d38/index.m3u8?s=Yz
 #EXTINF:-1 tvg-id="sport-plus-kz" tvg-name="Sport+ Qazaqstan" tvg-logo="https://avatars.mds.yandex.net/i?id=c14e904d7639f1e1e2e3bf732a13b2cf_sr-4957269-images-thumbs&n=13" group-title="Спорт", Sport+ Qazaqstan
 #EXTGRP:Спорт
 https://ucdn.beetv.kz/bpk-tv/000008731/tve/index.m3u8
-#EXTINF:-1 tvg-name="Sport UZ HD" tvg-logo="http://epg.one/img/7935.png" group-title="Спорт", Sport UZ HD
+#EXTINF:-1 tvg-id="uzsport" tvg-name="UzSport" tvg-logo="http://epg.one/img/7935.png" group-title="Спорт", Sport UZ HD
 #EXTGRP:Спорт
 https://stream8.cinerama.uz/1004/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Strongman Champions" tvg-logo="https://avatars.mds.yandex.net/i?id=2bab972b97bd79e9073970e2679ef019574e92aa-5523519-images-thumbs&n=13" group-title="Спорт", Strongman Champions
+#EXTGRP:Спорт
+https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-644b13a3a1c0a5b2024c8403.m3u8
 #EXTINF:-1 tvg-id="supertennis" tvg-name="SuperTennis" tvg-logo="http://epg.one/img/6539.png" group-title="Спорт", Super Tennis HD
 #EXTGRP:Спорт
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
