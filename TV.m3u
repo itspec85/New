@@ -708,6 +708,9 @@ http://stitch.teletarget.ru/vintera/motodrive/index.m3u8
 #EXTINF:-1 tvg-id="moya-planeta" tvg-name="Моя Планета" tvg-logo="http://epg.one/img/675.png" group-title="Познавательные", Моя Планета
 #EXTGRP:Познавательные
 http://185.46.16.239:8000/Planeta_HD
+#EXTINF:-1 tvg-id="morskoy" tvg-name="Моя стихия" tvg-logo="http://epg.one/img/2028.png" group-title="Познавательные", Моя Стихия
+#EXTGRP:Познавательные
+http://62.89.17.130:4451/play/a00z/index.m3u8
 #EXTINF:-1 tvg-id="muzhskoy" tvg-name="Мужской" tvg-logo="http://epg.one/img/2444.png" group-title="Познавательные", Мужской
 #EXTGRP:Познавательные
 https://flussonic.mkpnet.ru/tv-55c94e838b306657/video.m3u8
@@ -1291,7 +1294,7 @@ https://stream.zuno-tv.workers.dev/channel/9090/n2661f275/index.m3u8
 https://mhd128.iptv2022.com/p/sNFs97pecGzR0nEkcNdHig,1779821744/streaming/blokbaster/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="blokbaster-hd" tvg-name="Блокбастер HD" tvg-logo="http://epg.one/img/2832.png" group-title="Кино", Блокбастер HD
 #EXTGRP:Кино
-http://cdn.kubteltv.workers.dev/?ID=219
+http://185.78.112.47:8077/blokbaster_hd/index.m3u8
 #EXTINF:-1 tvg-name="Видеокассета TV" tvg-logo="https://avatars.mds.yandex.net/i?id=aa54d677b7da13a106d22ee95411b140d0009712-15274206-images-thumbs&n=13" group-title="Кино", Видеокассета TV
 #EXTGRP:Кино
 https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/playlist.m3u8
@@ -1435,6 +1438,9 @@ http://catchup.videoline.ru/asvtv/index.m3u8
 #EXTINF:-1 tvg-id="pobeda" tvg-name="Победа" tvg-logo="http://epg.one/img/2447.png" group-title="Кино", Победа
 #EXTGRP:Кино
 http://193.25.8.59:8000/tochka
+#EXTINF:-1 tvg-id="pobeda" tvg-name="Победа" tvg-logo="http://epg.one/img/2447.png" group-title="Кино", Победа HD
+#EXTGRP:Кино
+http://185.78.112.47:8077/pobeda_hd/index.m3u8
 #EXTINF:-1 tvg-id="premium-kino-kz" tvg-name="Премиум кино KZ" tvg-logo="https://iptvx.one/picons/premium-kino-kz.png" group-title="Кино", Премиум кино KZ
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000008491/tve/index.m3u8
@@ -1450,6 +1456,9 @@ http://176.118.197.101/RodnoeKino/index.m3u8
 #EXTINF:-1 tvg-id="rukino-hd" tvg-name="РуКино HD" tvg-logo="http://epg.one/img/4721.png" group-title="Кино", РуКино HD
 #EXTGRP:Кино
 http://hls127.freeott.top:8080/PG_Rukino_HD/mono.m3u8
+#EXTINF:-1 tvg-id="russkaya-komedia" tvg-name="Русская комедия" tvg-logo="http://epg.one/img/1620.png" group-title="Кино", Русская комедия
+#EXTGRP:Кино
+http://185.78.112.47:8077/comedy/index.m3u8
 #EXTINF:-1 tvg-id="russky-bestseller" tvg-name="Русский бестселлер" tvg-logo="http://epg.one/img/994.png" group-title="Кино", Русский бестселлер
 #EXTGRP:Кино
 https://flussonic.mkpnet.ru/tv-ccf8c891702508a7/video.m3u8
@@ -1465,6 +1474,9 @@ https://ucdn.beetv.kz/bpk-tv/000004207/tve/index.m3u8
 #EXTINF:-1 tvg-id="russky-roman" tvg-name="Русский роман" tvg-logo="http://epg.one/img/401.png" group-title="Кино", Русский роман
 #EXTGRP:Кино
 http://185.46.16.239:8000/Russkiy_roman
+#EXTINF:-1 tvg-id="russky-roman" tvg-name="Русский роман" tvg-logo="http://epg.one/img/401.png" group-title="Кино", Русский роман HD
+#EXTGRP:Кино
+http://185.78.112.47:8077/russki_roman_hd/index.m3u8
 #EXTINF:-1 tvg-id="sapfir" tvg-name="Сапфир" tvg-logo="http://epg.one/img/7315.png" group-title="Кино", Сапфир
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000008135/tve/index.m3u8
@@ -1528,6 +1540,9 @@ http://cdn.kubteltv.workers.dev/?ID=299
 #EXTINF:-1 tvg-id="epik-drama" tvg-name="Epic Drama" tvg-logo="http://epg.one/img/2229.png" group-title="Кино", Epic Drama
 #EXTGRP:Кино
 http://195.189.60.253/118/index.m3u8
+#EXTINF:-1 tvg-id="fanhd" tvg-name="FAN" tvg-logo="http://epg.one/img/2359.png" group-title="Кино", FAN
+#EXTGRP:Кино
+http://185.78.112.47:8077/fan/index.m3u8
 #EXTINF:-1 tvg-id="filmua-drama" tvg-name="Film.UA Drama" tvg-logo="http://epg.one/img/8911.png" group-title="Кино", Film UA Drama
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000003028/tve/index.m3u8
@@ -1563,10 +1578,10 @@ http://hls127.freeott.top:8080/PG_Insomnia_HD/mono.m3u8
 http://sirius.greenhosting.ru/Kino24Ru/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="kinojam1" tvg-name="Kinojam 1 HD" tvg-logo="http://epg.one/img/4466.png" group-title="Кино", Kinojam 1 HD
 #EXTGRP:Кино
-http://cdn.kubteltv.workers.dev/?ID=297
+http://185.78.112.47:8077/kinojam1/index.m3u8
 #EXTINF:-1 tvg-id="kinojam2" tvg-name="Kinojam 2 HD" tvg-logo="http://epg.one/img/4467.png" group-title="Кино", Kinojam 2 HD
 #EXTGRP:Кино
-http://cdn.kubteltv.workers.dev/?ID=298
+http://185.78.112.47:8077/kinojam2/index.m3u8
 #EXTINF:-1 tvg-name="nsc+" tvg-logo="https://avatars.mds.yandex.net/i?id=9e0e17abb257685d9b30fcdc31730c0ef3723ad5-4797777-images-thumbs&n=13" group-title="Кино", nsc+
 #EXTGRP:Кино
 http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
