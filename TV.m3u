@@ -2347,6 +2347,9 @@ https://kino.zunotv.workers.dev/okko_sport_hd/index.m3u8
 #EXTINF:-1 tvg-id="okko-football" tvg-name="Окко.Футбол" tvg-logo="http://epg.one/img/9325.png" group-title="Спорт", Окко Футбол HD
 #EXTGRP:Спорт
 https://kino.zunotv.workers.dev/okko_futbol_hd/index.m3u8
+#EXTINF:-1 tvg-id="start" tvg-name="Старт" tvg-logo="http://epg.one/img/2530.png" group-title="Спорт", Старт
+#EXTGRP:Спорт
+http://185.78.112.47:8077/start_hd/index.m3u8
 #EXTINF:-1 tvg-id="sportivny" tvg-name="ТВ Спорт" tvg-logo="http://epg.one/img/4678.png" group-title="Спорт", ТВ Спорт HD
 #EXTGRP:Спорт
 http://live-3.otcnet.ru/sportivny/index.m3u8
