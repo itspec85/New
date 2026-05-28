@@ -2362,10 +2362,10 @@ http://185.78.112.47:8077/start_hd/index.m3u8
 http://live-3.otcnet.ru/sportivny/index.m3u8
 #EXTINF:-1 tvg-id="ufc" tvg-name="Удар" tvg-logo="http://epg.one/img/2480.png" group-title="Спорт", Удар
 #EXTGRP:Спорт
-https://a3569457567-s70378.cdn.ngenix.net/ufc/2/index.m3u8
+http://5.188.159.128:8070/udar/index.m3u8
 #EXTINF:-1 tvg-id="ufc" tvg-name="Удар" tvg-logo="http://epg.one/img/2480.png" group-title="Спорт", Удар HD
 #EXTGRP:Спорт
-http://5.188.159.128:8070/udar/index.m3u8
+https://ucdn.beetv.kz/bpk-tv/000007802/tve/index.m3u8
 #EXTINF:-1 tvg-id="football-ru" tvg-name="Футбол" tvg-logo="http://epg.one/img/2782.png" group-title="Спорт", Футбол
 #EXTGRP:Спорт
 http://hls127.freeott.top:8080/Football/mono.m3u8
