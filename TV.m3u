@@ -2311,7 +2311,7 @@ http://185.46.16.239:8000/Match_Igra
 http://cdn.kubteltv.workers.dev/?ID=111
 #EXTINF:-1 tvg-id="match-planeta" tvg-name="Матч! Планета" tvg-logo="http://epg.one/img/2043.png" group-title="Спорт", Матч! Планета
 #EXTGRP:Спорт
-https://a3569457567-s70378.cdn.ngenix.net/match_planeta/1/index.m3u8
+http://93.84.115.174:10181/matchplaneta
 #EXTINF:-1 tvg-id="match-premier" tvg-name="Матч! Премьер" tvg-logo="http://epg.one/img/2250.png" group-title="Спорт", МАТЧ ПРЕМЬЕР
 #EXTGRP:Спорт
 https://flussonic.mkpnet.ru/tv-ee3651e1e7ce5cbf/video.m3u8
@@ -2368,7 +2368,7 @@ http://live-3.otcnet.ru/sportivny/index.m3u8
 https://a3569457567-s70378.cdn.ngenix.net/ufc/2/index.m3u8
 #EXTINF:-1 tvg-id="ufc" tvg-name="Удар" tvg-logo="http://epg.one/img/2480.png" group-title="Спорт", Удар HD
 #EXTGRP:Спорт
-https://a787201481-s80718.cdn.ngenix.net/hls/CH_UDARHD/video_1920x1080_avc1/playlist.m3u8
+http://5.188.159.128:8070/udar/index.m3u8
 #EXTINF:-1 tvg-id="football-ru" tvg-name="Футбол" tvg-logo="http://epg.one/img/2782.png" group-title="Спорт", Футбол
 #EXTGRP:Спорт
 http://hls127.freeott.top:8080/Football/mono.m3u8
@@ -2482,7 +2482,7 @@ http://37.46.49.14:18010/play/a01q/index.m3u8
 https://aegis-cloudfront-1.tubi.video/36ef2f9d-7100-4c4d-b41a-dbf41ab7e461/playlist.m3u8
 #EXTINF:-1 tvg-id="m1global" tvg-name="MMA-TV.com" tvg-logo="http://epg.one/img/2326.png" group-title="Спорт", MMA-TV.com
 #EXTGRP:Спорт
-https://a3569457567-s70378.cdn.ngenix.net/m1_global/1/index.m3u8
+http://46.32.176.50/mmatv/index.m3u8
 #EXTINF:-1 tvg-name="Monster Jam" tvg-logo="https://avatars.mds.yandex.net/i?id=ca4fc7bc2e85374dd016dded5c6cc4104cf795b0-8438956-images-thumbs&n=13" group-title="Спорт", Monster Jam
 #EXTGRP:Спорт
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6615885e1eabecf2c9d56495.m3u8
@@ -2602,7 +2602,7 @@ http://217.174.225.146/hls/ch004_720/index.m3u8
 https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="viasat-sport" tvg-name="Viju+ Sport" tvg-logo="http://epg.one/img/2055.png" group-title="Спорт", Viju+ Sport
 #EXTGRP:Спорт
-https://a3569457567-s70378.cdn.ngenix.net/viasat_sport/2/index.m3u8
+http://185.78.112.47:8077/ViasatSportHD/index.m3u8
 #EXTINF:-1 tvg-id="viasat-sport" tvg-name="Viju+ Sport HD" tvg-logo="http://epg.one/img/2055.png" group-title="Спорт", Viju+ Sport HD
 #EXTGRP:Спорт
 http://176.96.241.40/ViasatSport/index.m3u8
@@ -2737,7 +2737,7 @@ https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/p
 https://ucdn.beetv.kz/bpk-tv/000000327/tve/index.m3u8
 #EXTINF:-1 tvg-id="mezzo" tvg-name="Mezzo" tvg-logo="http://epg.one/img/801.png" group-title="Музыка", Mezzo
 #EXTGRP:Музыка
-https://a3569457567-s70378.cdn.ngenix.net/mezzo/1/index.m3u8
+http://93.84.115.174:10181/mezzo
 #EXTINF:-1 tvg-name="MIX MUSIC" tvg-logo="https://avatars.mds.yandex.net/i?id=8552986643492f1dee0ad4744313f6cc2472b778-4568203-images-thumbs&n=13" group-title="Музыка", MIX MUSIC
 #EXTGRP:Музыка
 https://cdamix.streaming.ws/mixmusic/live/chunklist.m3u8
@@ -3634,19 +3634,13 @@ http://185.57.68.33:80/255/index.m3u8
 http://109.68.122.117:8899/hay_tv
 #EXTINF:-1 tvg-name="Dar 21 AM" tvg-logo="http://epg.one/img/2061.png" group-title="Армения", Dar 21 AM
 #EXTGRP:Армения
-https://a3569457567-s70378.cdn.ngenix.net/dar21/1/index.m3u8
+http://45.159.74.13/21TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Գեղամա TV" tvg-logo="https://mytv.do.am/logo/geghama.png" group-title="Армения", Գեղամա TV
 #EXTGRP:Армения
 http://45.11.139.43:8555/geghama/index.m3u8
 #EXTINF:-1 tvg-name="Fresh TV Armenia" tvg-logo="http://epg.it999.ru/img/5606.png" group-title="Армения", Fresh TV Armenia
 #EXTGRP:Армения
 https://freshtv-live.ru/FreshTV/tracks-v1a1/mono.m3u8?token=livestream
-#EXTINF:-1 tvg-id="h1-am" tvg-name="Armenia 1" tvg-logo="http://epg.one/img/2060.png" group-title="Армения", H1 HD AM
-#EXTGRP:Армения
-https://a3569457567-s70378.cdn.ngenix.net/h1/1/index.m3u8
-#EXTINF:-1 tvg-id="h2-am" tvg-name="Armenia 2" tvg-logo="http://epg.one/img/2062.png" group-title="Армения", H2 HD AM
-#EXTGRP:Армения
-https://a3569457567-s70378.cdn.ngenix.net/h2/1/index.m3u8
 #EXTINF:-1 tvg-name="Laym Armenius TV" tvg-logo="https://avatars.mds.yandex.net/i?id=5359d62b916123202541ae22150b6c70a76eb642-5104820-images-thumbs&n=13" group-title="Армения", Laym Armenius TV
 #EXTGRP:Армения
 https://v2.catcast.tv/content/40504/index.m3u8
@@ -3662,18 +3656,6 @@ http://b01c02nl.mediatriple.net/videoonlylive/mtpayqrfkgirxelive/broadcast_5e91c
 #EXTINF:-1 tvg-name="Շանթ" tvg-logo="https://i.ibb.co/Y7Rxs9J/SGN-03-22-2022-1647976102720.png" group-title="Армения", Շանթ
 #EXTGRP:Армения
 http://5.188.172.179/Shant/index.m3u8
-#EXTINF:-1 tvg-id="shant-music-hd" tvg-name="Shant Music HD" tvg-logo="https://epg.iptvx.one/picons/shant-music-hd.png" group-title="Армения", Shant Music HD
-#EXTGRP:Армения
-https://a3569457567-s70378.cdn.ngenix.net/shant_music/2/index.m3u8
-#EXTINF:-1 tvg-id="shant-premium-hd" tvg-name="Shant Premium HD" tvg-logo="https://epg.iptvx.one/picons/shant-premium.png" group-title="Армения", Shant Premium HD
-#EXTGRP:Армения
-https://a3569457567-s70378.cdn.ngenix.net/shant_premium/1/index.m3u8
-#EXTINF:-1 tvg-id="shant-serial-hd" tvg-name="Shant Serial HD" tvg-logo="https://epg.iptvx.one/picons/shant-serial-hd.png" group-title="Армения", Shant Serial HD
-#EXTGRP:Армения
-https://a3569457567-s70378.cdn.ngenix.net/shant_serial/1/index.m3u8
-#EXTINF:-1 tvg-name="Shoghakat TV" tvg-logo="https://www.shoghakat.am/sites/default/files/shem.jpg" group-title="Армения", Shoghakat TV
-#EXTGRP:Армения
-https://a3569457567-s70378.cdn.ngenix.net/shoghakat/2/index.m3u8
 #EXTINF:-1 tvg-id="tbn-armenia" tvg-name="TBN Armenia" tvg-logo="https://epg.iptvx.one/picons/tbn-armenia.png" group-title="Армения", TBN Armenia AM
 #EXTGRP:Армения
 https://164475.gvideo.io/mpegts/164475_650646/master_mpegts.m3u8
