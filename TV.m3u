@@ -1387,7 +1387,7 @@ http://176.118.197.101/Kinoseria/mono.m3u8
 http://185.78.112.47:8077/kinoujas/index.m3u8
 #EXTINF:-1 tvg-id="kinoxit" tvg-name="Кинохит" tvg-logo="http://epg.one/img/542.png" group-title="Кино", КИНОХИТ
 #EXTGRP:Кино
-https://a3285272783-s80718.cdn.ngenix.net//hls//CH_KINOHITHD//video_800x450_avc1/playlist.m3u8
+http://185.78.112.47:8077/kinohit/index.m3u8
 #EXTINF:-1 tvg-id="klassika-kino" tvg-name="Классика Кино" tvg-logo="https://epg.iptvx.one/picons/klassika-kino.png" group-title="Кино", Классика Кино
 #EXTGRP:Кино
 http://stitch.teletarget.ru/vintera/movieclassic/index.m3u8
@@ -1408,7 +1408,7 @@ http://hls127.freeott.top:8080/Mosfilm/mono.m3u8
 http://cdn.kubteltv.workers.dev/?ID=353
 #EXTINF:-1 tvg-id="muzhskoe-kino" tvg-name="Мужское кино" tvg-logo="http://epg.one/img/1584.png" group-title="Кино", МУЖСКОЕ КИНО
 #EXTGRP:Кино
-https://a3285272783-s80718.cdn.ngenix.net/hls/CH_MUJSKOE_KINOHD/video_1920x1080_avc1/playlist.m3u8
+http://185.78.112.47:8077/muzhskoe-kino_hd/index.m3u8
 #EXTINF:-1 tvg-name="Наш киномир" tvg-logo="https://avatars.mds.yandex.net/i?id=b948c22c207c0e3a4e8301e7231b42b39a836461-5883734-images-thumbs&n=13" group-title="Кино", Наш киномир
 #EXTGRP:Кино
 http://hls127.freeott.top:8080/Nash_kinomir/video.m3u8
@@ -1510,7 +1510,7 @@ http://hls127.freeott.top:8080/XitHD/video.m3u8
 http://185.78.112.47:8077/black_hd/index.m3u8
 #EXTINF:-1 tvg-id="sony-tv" tvg-name=".red" tvg-logo="http://epg.one/img/311.png" group-title="Кино", .red
 #EXTGRP:Кино
-https://a3285272783-s80718.cdn.ngenix.net/hls/CH_REDHD/video_1920x1080_avc1/playlist.m3u8
+http://185.78.112.47:8077/red_hd/index.m3u8
 #EXTINF:-1 tvg-id="sony-scifi" tvg-name=".sci-fi" tvg-logo="http://epg.one/img/516.png" group-title="Кино", .sci-fi
 #EXTGRP:Кино
 https://flussonic.mkpnet.ru/tv-e80cc885d4ae14d1/video.m3u8
@@ -2275,7 +2275,7 @@ https://stream.zuno-tv.workers.dev/channel/9090/357166f9/index.m3u8
 https://edge55.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/chunklist_w654405596_b2660000_sleng.m3u8
 #EXTINF:-1 tvg-id="box-tv" tvg-name="Бокс ТВ" tvg-logo="http://epg.one/img/2285.png" group-title="Спорт", Бокс ТВ
 #EXTGRP:Спорт
-https://a3285272783-s80718.cdn.ngenix.net/hls/CH_BOKS_TVHD/video_1920x1080_avc1/playlist.m3u8?useseq=t
+http://46.32.176.50/bokstv/index.m3u8
 #EXTINF:-1 tvg-id="varzish-sport" tvg-name="Варзиш Спорт" tvg-logo="https://avatars.mds.yandex.net/i?id=fe5e8e285aa57ec8a4c5cab5f8a4d2289986601c-4470903-images-thumbs&n=13" group-title="Спорт", Варзиш Sport
 #EXTGRP:Спорт
 https://live.teleradiocom.tj/5/3m.m3u8
@@ -2464,7 +2464,7 @@ https://hncfree-samsungau.amagi.tv/playlist720-p.m3u8
 https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="kxl" tvg-name="KHL" tvg-logo="http://epg.one/img/2048.png" group-title="Спорт", KHL TV Channel
 #EXTGRP:Спорт
-https://a3285272783-s80718.cdn.ngenix.net//hls//CH_KHL//video_800x450_avc1/playlist.m3u8
+http://195.26.83.96:7007/play/4/index.m3u8
 #EXTINF:-1 tvg-id="kxl" tvg-name="KHL" tvg-logo="http://epg.one/img/2048.png" group-title="Спорт", KHL TV Channel (резерв)
 #EXTGRP:Спорт
 https://flussonic.mkpnet.ru/tv-e3d23fc7511b5fcd/video.m3u8
