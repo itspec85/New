@@ -1552,7 +1552,7 @@ https://ucdn.beetv.kz/bpk-tv/000003028/tve/index.m3u8
 http://213.169.39.30:5009
 #EXTINF:-1 tvg-id="filmbox-arthouse" tvg-name="FilmBox ArtHouse" tvg-logo="http://epg.one/img/2182.png" group-title="Кино", FilmBox ArtHouse
 #EXTGRP:Кино
-https://a3569457567-s70378.cdn.ngenix.net/filmbox_arthouse/1/index.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id111/video.m3u8
 #EXTINF:-1 tvg-name="FMC" tvg-logo="https://avatars.mds.yandex.net/i?id=1959193b12698485d22fe83173de7c117f9b4b37-5887368-images-thumbs&n=13" group-title="Кино", FMC
 #EXTGRP:Кино
 rtmp://vkvsd69.okcdn.ru/playback/3780958366657?stkn=QkbWCnARWe2BdgDd2ZlIsACtDwpqkYXvX5avvzYaOvFMLx0UvcPKLeTbLVWs99SwkzSDsjYLt-I&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
@@ -2441,9 +2441,6 @@ http://app-plus.live:80/9680723188/kyft6ks0g7gr7uw0xio6/196845
 #EXTINF:-1 tvg-id="extreme-sports" tvg-name="Extreme Sports" tvg-logo="http://epg.one/img/2053.png" group-title="Спорт", Extreme Sports
 #EXTGRP:Спорт
 https://flussonic.mkpnet.ru/tv-1a9441fd32d63873/video.m3u8
-#EXTINF:-1 tvg-id="fast-sport-am" tvg-name="Fast Sports" tvg-logo="https://epg.iptvx.one/picons/fast-sport-am.png" group-title="Спорт", Fast Sports
-#EXTGRP:Спорт
-https://a3285272783-s80718.cdn.ngenix.net//hls//CH_FAST_SPORTSHD//video_1920x1080_avc1/playlist.m3u8
 #EXTINF:-1 tvg-name="FIFA+" tvg-logo="https://avatars.mds.yandex.net/i?id=bdbc330ef7e210c9dc6e98fb73c2a0a56935397c-5761336-images-thumbs&n=13" group-title="Спорт", FIFA+
 #EXTGRP:Спорт
 https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
