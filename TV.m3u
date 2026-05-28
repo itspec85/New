@@ -1045,7 +1045,7 @@ http://cdn.kubteltv.workers.dev/?ID=358
 https://ucdn.beetv.kz/bpk-tv/000008142/tve/index.m3u8
 #EXTINF:-1 tvg-id="the-explorers" tvg-name="The Explorers" tvg-logo="http://epg.one/img/9082.png" group-title="Познавательные", The Explorers
 #EXTGRP:Познавательные
-https://a3569457567-s70378.cdn.ngenix.net/the_explorers/2/index.m3u8
+http://cdn.kubteltv.workers.dev/?ID=443
 #EXTINF:-1 tvg-id="tlc" tvg-name="TLC" tvg-logo="http://epg.one/img/2345.png" group-title="Познавательные", TLC
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000001498/tve/index.m3u8
@@ -1069,13 +1069,13 @@ http://217.11.177.56/streams/media/viasat-explore_720x576/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000004157/tve/index.m3u8
 #EXTINF:-1 tvg-id="viasat-history" tvg-name="Viju History" tvg-logo="http://epg.one/img/277.png" group-title="Познавательные", Viju History
 #EXTGRP:Познавательные
-https://a3569457567-s70378.cdn.ngenix.net/viasat_history/2/index.m3u8
+http://185.78.112.47:8077/ViasatHistoryHD/index.m3u8
 #EXTINF:-1 tvg-id="viasat-history" tvg-name="Viju History" tvg-logo="http://epg.one/img/277.png" group-title="Познавательные", Viju History HD
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000005528/tve/index.m3u8
 #EXTINF:-1 tvg-id="viasat-nature" tvg-name="Viju Nature" tvg-logo="http://epg.one/img/765.png" group-title="Познавательные", Viju Nature
 #EXTGRP:Познавательные
-https://a3569457567-s70378.cdn.ngenix.net/viasat_nature/2/index.m3u8
+http://217.11.177.56/streams/media/viasat-nature_720x576/index.m3u8
 #EXTINF:-1 tvg-id="viasat-nature" tvg-name="Viju Nature" tvg-logo="http://epg.one/img/765.png" group-title="Познавательные", Viju Nature HD
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000006482/tve/index.m3u8
@@ -1090,7 +1090,7 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-
 http://live-3.otcnet.ru/wfcrus/index.m3u8
 #EXTINF:-1 tvg-id="zoopark" tvg-name="ZOOПарк" tvg-logo="http://epg.one/img/367.png" group-title="Познавательные", Zooпарк HD
 #EXTGRP:Познавательные
-https://a3569457567-s70378.cdn.ngenix.net/zoopark/2/index.m3u8
+http://185.78.112.47:8077/Zoopark/index.m3u8
 
 
 
@@ -1099,7 +1099,7 @@ https://a3569457567-s70378.cdn.ngenix.net/zoopark/2/index.m3u8
 https://stream8.cinerama.uz/1270/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="detsky-mir" tvg-name="Детский мир" tvg-logo="http://epg.one/img/923.png" group-title="Детские", Детский мир
 #EXTGRP:Детские
-https://a3569457567-s70378.cdn.ngenix.net/detskij_mir/1/index.m3u8
+http://46.32.176.50/detskiymir/index.m3u8
 #EXTINF:-1 tvg-id="detkinoint-tviksel" tvg-name="Детское кино International" tvg-logo="http://epg.one/img/6261.png" group-title="Детские", Детское кино International
 #EXTGRP:Детские
 https://v2.catcast.tv/content/38720/index.m3u8
@@ -1264,7 +1264,7 @@ https://kino.zunotv.workers.dev/SKY_HIGH_TOON_S_FHD/index.m3u8
 http://cdn.kubteltv.workers.dev/?ID=343
 #EXTINF:-1 tvg-id="tiji" tvg-name="Tiji TV" tvg-logo="http://epg.one/img/555.png" group-title="Детские", Tiji TV
 #EXTGRP:Детские
-https://a3569457567-s70378.cdn.ngenix.net/tiji/2/index.m3u8
+http://185.78.112.47:8077/TiJi/index.m3u8
 #EXTINF:-1 tvg-id="vf-eralash" tvg-name="VF Ералаш" tvg-logo="http://epg.one/img/7595.png" group-title="Детские", VF Ералаш
 #EXTGRP:Детские
 https://stream.zuno-tv.workers.dev/channel/9090/559cfdb2/index.m3u8
