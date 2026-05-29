@@ -1289,7 +1289,7 @@ https://stream.zuno-tv.workers.dev/channel/9090/n2661f275/index.m3u8
 #EXTINF:-1 tvg-id="blokbaster" tvg-name="Блокбастер" tvg-logo="http://epg.one/img/2832.png" group-title="Кино", Блокбастер
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
-https://mhd128.iptv2022.com/p/NJ5q3pWIi0a-yFhuLWb2tg,1779994797/streaming/blokbaster/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/CqwohLv5WM-lKkcJeD49nw,1780080905/streaming/blokbaster/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="blokbaster-hd" tvg-name="Блокбастер HD" tvg-logo="http://epg.one/img/2832.png" group-title="Кино", Блокбастер HD
 #EXTGRP:Кино
 http://185.78.112.47:8077/blokbaster_hd/index.m3u8
@@ -1299,7 +1299,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/playlist.m3u8
 #EXTINF:-1 tvg-id="denpobedy" tvg-name="День Победы HD" tvg-logo="http://epg.one/img/2773.png" group-title="Кино", День Победы HD
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
-https://mhd128.iptv2022.com/p/X16OM1CIinlAezLpv15IZA,1779994797/streaming/den-pobedi/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/4mIBLx5Y8hNIVS3xP3zJaA,1780080906/streaming/den-pobedi/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="domkino" tvg-name="Дом кино" tvg-logo="http://epg.one/img/834.png" group-title="Кино", Дом Кино
 #EXTGRP:Кино
 http://185.78.112.47:8077/dom_kino/index.m3u8
@@ -1327,7 +1327,7 @@ http://185.78.112.47:8077/zee-tv/index.m3u8
 #EXTINF:-1 tvg-id="kamedi" tvg-name="Камеди HD" tvg-logo="http://epg.one/img/2836.png" group-title="Кино", Камеди HD
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
-https://mhd128.iptv2022.com/p/yG_IahkTQni5VCo8oZJXMg,1779994797/streaming/kamedi/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/X0K_L4pyf0JFBJBM7F4Rcw,1780080905/streaming/kamedi/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="kineko" tvg-name="Кинеко" tvg-logo="http://epg.one/img/7314.png" group-title="Кино", Кинеко
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000008136/tve/index.m3u8
@@ -2461,7 +2461,7 @@ https://hncfree-samsungau.amagi.tv/playlist720-p.m3u8
 https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="kxl" tvg-name="KHL" tvg-logo="http://epg.one/img/2048.png" group-title="Спорт", KHL TV Channel
 #EXTGRP:Спорт
-http://195.26.83.96:7007/play/4/index.m3u8
+http://85.117.37.41/khl/index.m3u8
 #EXTINF:-1 tvg-id="kxl" tvg-name="KHL" tvg-logo="http://epg.one/img/2048.png" group-title="Спорт", KHL TV Channel (резерв)
 #EXTGRP:Спорт
 https://flussonic.mkpnet.ru/tv-e3d23fc7511b5fcd/video.m3u8
@@ -2477,9 +2477,6 @@ https://aegis-cloudfront-1.tubi.video/36ef2f9d-7100-4c4d-b41a-dbf41ab7e461/playl
 #EXTINF:-1 tvg-id="m1global" tvg-name="MMA-TV.com" tvg-logo="http://epg.one/img/2326.png" group-title="Спорт", MMA-TV.com
 #EXTGRP:Спорт
 http://46.32.176.50/mmatv/index.m3u8
-#EXTINF:-1 tvg-name="Monster Jam" tvg-logo="https://avatars.mds.yandex.net/i?id=ca4fc7bc2e85374dd016dded5c6cc4104cf795b0-8438956-images-thumbs&n=13" group-title="Спорт", Monster Jam
-#EXTGRP:Спорт
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6615885e1eabecf2c9d56495.m3u8
 #EXTINF:-1 tvg-id="nba-tv" tvg-name="NBA TV HD US" tvg-logo="http://epg.one/img/4587.png" group-title="Спорт", NBA TV HD US
 #EXTGRP:Спорт
 https://bl.rutube.ru/livestream/d01241e9fd2bc2d65dbf6d74cca02f89/index.m3u8?s=tosWxEeYUB0mx8rAHJ_Pqg&e=2074209262&scheme=https
@@ -2492,12 +2489,6 @@ https://bl.rutube.ru/livestream/7a485ef5da9fe50ba939f36ca3e6ed96/index.m3u8?s=h-
 #EXTINF:-1 tvg-name="Pac 12 Insider USA" tvg-logo="https://i.imgur.com/736QREy.png" group-title="Спорт", Pac 12 Insider USA
 #EXTGRP:Спорт
 https://pac12-roku-us.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="PFL MMA" tvg-logo="https://avatars.mds.yandex.net/i?id=6ebeea0173bf97f3e27bb9e6977dd3bbce2fa087-12421956-images-thumbs&n=13" group-title="Спорт", PFL MMA
-#EXTGRP:Спорт
-https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-643f0ecd76de2b4015ae6c01.m3u8
-#EXTINF:-1 tvg-name="Poker Night TV" tvg-logo="https://avatars.mds.yandex.net/i?id=db8c760bd347d63acef0463dba83995b29c11630-4576282-images-thumbs&n=13" group-title="Спорт", Poker Night TV
-#EXTGRP:Спорт
-https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-60afc726623f2f002c5bb49f.m3u8
 #EXTINF:-1 tvg-name="Prosto Drive" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00349.png" group-title="Спорт", Prosto Drive
 #EXTGRP:Спорт
 http://iptv.prosto.tv:7000/ch326/video.m3u8
@@ -2555,9 +2546,6 @@ https://ucdn.beetv.kz/bpk-tv/000008731/tve/index.m3u8
 #EXTINF:-1 tvg-id="uzsport" tvg-name="UzSport" tvg-logo="http://epg.one/img/7935.png" group-title="Спорт", Sport UZ HD
 #EXTGRP:Спорт
 https://stream8.cinerama.uz/1004/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Strongman Champions" tvg-logo="https://avatars.mds.yandex.net/i?id=2bab972b97bd79e9073970e2679ef019574e92aa-5523519-images-thumbs&n=13" group-title="Спорт", Strongman Champions
-#EXTGRP:Спорт
-https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-644b13a3a1c0a5b2024c8403.m3u8
 #EXTINF:-1 tvg-id="supertennis" tvg-name="SuperTennis" tvg-logo="http://epg.one/img/6539.png" group-title="Спорт", Super Tennis HD
 #EXTGRP:Спорт
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
@@ -2599,7 +2587,7 @@ https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
 http://185.78.112.47:8077/ViasatSportHD/index.m3u8
 #EXTINF:-1 tvg-id="viasat-sport" tvg-name="Viju+ Sport HD" tvg-logo="http://epg.one/img/2055.png" group-title="Спорт", Viju+ Sport HD
 #EXTGRP:Спорт
-http://176.96.241.40/ViasatSport/index.m3u8
+http://185.78.112.47:8077/ViasatSportHD/index.m3u8
 #EXTINF:-1 tvg-name="World Poker Tour USA" tvg-logo="https://avatars.mds.yandex.net/i?id=bc2003e45785f22c83853338865075e9c9638944-9877580-images-thumbs&n=13" group-title="Спорт", World Poker Tour USA
 #EXTGRP:Спорт
 http://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
