@@ -1289,7 +1289,7 @@ https://stream.zuno-tv.workers.dev/channel/9090/n2661f275/index.m3u8
 #EXTINF:-1 tvg-id="blokbaster" tvg-name="Блокбастер" tvg-logo="http://epg.one/img/2832.png" group-title="Кино", Блокбастер
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
-https://mhd128.iptv2022.com/p/npVFdxEvrR5T-_Gq77a1MA,1780168243/streaming/blokbaster/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/eLPRTwOAkeDlQf76B3A_GQ,1780253637/streaming/blokbaster/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="blokbaster-hd" tvg-name="Блокбастер HD" tvg-logo="http://epg.one/img/2832.png" group-title="Кино", Блокбастер HD
 #EXTGRP:Кино
 http://185.78.112.47:8077/blokbaster_hd/index.m3u8
@@ -1299,7 +1299,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/playlist.m3u8
 #EXTINF:-1 tvg-id="denpobedy" tvg-name="День Победы HD" tvg-logo="http://epg.one/img/2773.png" group-title="Кино", День Победы HD
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
-https://mhd128.iptv2022.com/p/2JsA6-ybHpgePQDND5l2Yg,1780168243/streaming/den-pobedi/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/C9gUsQhDXYXSGqg4prhW0Q,1780253637/streaming/den-pobedi/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="domkino" tvg-name="Дом кино" tvg-logo="http://epg.one/img/834.png" group-title="Кино", Дом Кино
 #EXTGRP:Кино
 http://185.78.112.47:8077/dom_kino/index.m3u8
@@ -1327,7 +1327,7 @@ http://185.78.112.47:8077/zee-tv/index.m3u8
 #EXTINF:-1 tvg-id="kamedi" tvg-name="Камеди HD" tvg-logo="http://epg.one/img/2836.png" group-title="Кино", Камеди HD
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
-https://mhd128.iptv2022.com/p/gmpy47ry46VabaLNcV2FSw,1780168243/streaming/kamedi/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/5SuUMduRYrjmxI2P3CNyPA,1780253637/streaming/kamedi/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="kineko" tvg-name="Кинеко" tvg-logo="http://epg.one/img/7314.png" group-title="Кино", Кинеко
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000008136/tve/index.m3u8
@@ -1891,7 +1891,7 @@ https://kino.zunotv.workers.dev/BCU_FilMystic_HD/index.m3u8
 https://kino.zunotv.workers.dev/BCU_History_HD/index.m3u8
 #EXTINF:-1 tvg-id="bcu-kinorating" tvg-name="BCU Kinorating HD" tvg-logo="http://epg.one/img/4758.png" group-title="Кинозал", BCU Kinorating HD
 #EXTGRP:Кинозал
-http://hls127.freeott.top:8080/BCUKinoratingHD/video.m3u8
+https://kino.zunotv.workers.dev/BCU_Kinorating_HD/index.m3u8
 #EXTINF:-1 tvg-id="bcu-marvel" tvg-name="BCU Marvel HD" tvg-logo="http://epg.one/img/5514.png" group-title="Кинозал", BCU Marvel HD
 #EXTGRP:Кинозал
 https://kino.zunotv.workers.dev/BCU_Marvel_HD/index.m3u8
@@ -1912,7 +1912,7 @@ https://kino.zunotv.workers.dev/BCU_RUSERIAL_HD/index.m3u8
 https://kino.zunotv.workers.dev/BCU_Russian_HD/index.m3u8
 #EXTINF:-1 tvg-id="bcu-stars" tvg-name="BCU Stars HD" tvg-logo="http://epg.one/img/4765.png" group-title="Кинозал", BCU Stars HD
 #EXTGRP:Кинозал
-http://hls127.freeott.top:8080/BCUStarsHD/video.m3u8
+https://kino.zunotv.workers.dev/BCU_Stars_HD/index.m3u8
 #EXTINF:-1 tvg-id="bcu-ultra4k" tvg-name="BCU Ultra 4K" tvg-logo="http://epg.one/img/4766.png" group-title="Кинозал", BCU Ultra 4K
 #EXTGRP:Кинозал
 https://kino.zunotv.workers.dev/BCU_Ultra_4K/index.m3u8
