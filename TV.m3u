@@ -245,7 +245,7 @@ https://flussonic.mkpnet.ru/tv-a5ff8c7a86c8b951/video.m3u8
 http://cdn.kubteltv.workers.dev/?ID=423
 #EXTINF:-1 tvg-id="piaty-int" tvg-name="Пятый канал International" tvg-logo="https://avatars.mds.yandex.net/i?id=e9ba006374ab68db1cf51c33b359b14053195429-5477304-images-thumbs&n=13" group-title="Россия", Пятый канал International
 #EXTGRP:Россия
-http://178.124.153.123:44400/5kanal
+http://178.134.1.158:8081/5channel/index.m3u8
 #EXTINF:-1 tvg-id="rbk" tvg-name="РБК" tvg-logo="http://epg.one/img/743.png" group-title="Россия", РБК
 #EXTGRP:Россия
 http://online.video.rbc.ru/online/rbctv_720p/index.m3u8
