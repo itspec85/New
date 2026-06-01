@@ -1003,7 +1003,7 @@ http://s1.tv-nano.com/Luxury_rec/video.m3u8
 http://178.134.1.158:8081/nano/index.m3u8
 #EXTINF:-1 tvg-id="nat-geo-wild" tvg-name="Nat Geo Wild" tvg-logo="http://epg.one/img/223.png" group-title="Познавательные", Nat Geo Wild
 #EXTGRP:Познавательные
-http://176.96.241.40/NatGeoWildHD/index.m3u8
+http://185.78.112.47:8077/natgeo_wild_hd/index.m3u8
 #EXTINF:-1 tvg-id="national-geographic" tvg-name="National Geographic" tvg-logo="http://epg.one/img/102.png" group-title="Познавательные", National Geographic
 #EXTGRP:Познавательные
 http://stream8.cinerama.uz/1041/mono.m3u8
