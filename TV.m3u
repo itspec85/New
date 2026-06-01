@@ -575,7 +575,7 @@ https://stream8.cinerama.uz/1414/tracks-v1a1/mono.m3u8
 http://89.104.114.24:8080/art/index.m3u8?token=test
 #EXTINF:-1 tvg-id="bobior" tvg-name="Бобёр" tvg-logo="http://epg.one/img/2026.png" group-title="Познавательные", Бобёр
 #EXTGRP:Познавательные
-http://176.96.241.40/Bober/index.m3u8
+https://flussonic.mkpnet.ru/tv-319cadb3fff5fb3e/video.m3u8
 #EXTINF:-1 tvg-id="bolshaya-azia" tvg-name="Большая Азия HD" tvg-logo="http://epg.one/img/2417.png" group-title="Познавательные", Большая Азия HD
 #EXTGRP:Познавательные
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
@@ -614,7 +614,7 @@ http://217.174.229.136:8000/play/a08k
 http://217.174.229.136:8000/play/a08j
 #EXTINF:-1 tvg-id="dikiy" tvg-name="Дикий" tvg-logo="http://epg.one/img/2283.png" group-title="Познавательные", Дикий
 #EXTGRP:Познавательные
-http://176.96.241.40/Dikiy/index.m3u8
+http://185.78.112.47:8077/Dikiy/index.m3u8
 #EXTINF:-1 tvg-id="dozhd" tvg-name="Дождь" tvg-logo="http://epg.one/img/2399.png" group-title="Познавательные", Дождь
 #EXTGRP:Познавательные
 http://portal.ott.pink/C5UK_DozhdSD/mpegts?token=9ED1CC22511FE66191AD465072EEE8DF
@@ -1012,7 +1012,7 @@ http://stream8.cinerama.uz/1041/mono.m3u8
 https://tv.2kita.com/stream/index.m3u8
 #EXTINF:-1 tvg-id="ocean-tv" tvg-name="OCEAN-TV" tvg-logo="http://epg.one/img/55.png" group-title="Познавательные", OCEAN-TV
 #EXTGRP:Познавательные
-http://176.96.241.40/Ocean/index.m3u8
+http://185.78.112.47:8077/OceanTV/index.m3u8
 #EXTINF:-1 tvg-name="Pro Факт" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00301.png" group-title="Познавательные", Pro Факт
 #EXTGRP:Познавательные
 https://iptv.prosto.tv/id301/video.m3u8
@@ -1108,7 +1108,7 @@ https://live20.bozztv.com/giatvplayout7/ushba8/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1406/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="karusel" tvg-name="Карусель" tvg-logo="http://epg.one/img/740.png" group-title="Детские", Карусель
 #EXTGRP:Детские
-http://176.96.241.40/Karusel/index.m3u8
+http://194.152.35.17/Karusel/index.m3u8
 #EXTINF:-1 tvg-id="karusel-int" tvg-name="Карусель International" tvg-logo="https://iptvx.one/picons/karusel.png" group-title="Детские", Карусель International
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000000781/tve/index.m3u8
@@ -1450,7 +1450,7 @@ https://ucdn.beetv.kz/bpk-tv/000008491/tve/index.m3u8
 http://hls127.freeott.top:8080/ProLubovHD/mono.m3u8
 #EXTINF:-1 tvg-id="retro-tv" tvg-name="Ретро ТВ" tvg-logo="http://epg.one/img/2402.png" group-title="Кино", Ретро ТВ
 #EXTGRP:Кино
-http://176.96.241.40/Retro/index.m3u8
+http://176.118.197.101/Retro/mono.m3u8
 #EXTINF:-1 tvg-id="rodnoe-kino" tvg-name="Родное кино" tvg-logo="http://epg.one/img/12.png" group-title="Кино", РОДНОЕ КИНО
 #EXTGRP:Кино
 http://176.118.197.101/RodnoeKino/index.m3u8
@@ -1534,7 +1534,7 @@ http://176.118.197.101/Bollywood_HD/index.m3u8
 http://hls127.freeott.top:8080/Bolt/mono.m3u8
 #EXTINF:-1 tvg-id="cinema-ru" tvg-name="Cinema HD" tvg-logo="http://epg.one/img/2754.png" group-title="Кино", Cinema HD
 #EXTGRP:Кино
-http://176.96.241.40/Cinema/index.m3u8
+http://185.78.112.47:8077/cinema_hd/index.m3u8
 #EXTINF:-1 tvg-id="detectivejam" tvg-name="DetectiveJam" tvg-logo="http://epg.one/img/7901.png" group-title="Кино", DetectiveJam HD
 #EXTGRP:Кино
 http://cdn.kubteltv.workers.dev/?ID=299
@@ -1648,7 +1648,7 @@ http://ukr2.ukrainske.tv/493/video.m3u8
 https://ucdn.beetv.kz/bpk-tv/000003747/tve/index.m3u8
 #EXTINF:-1 tvg-id="tv1000" tvg-name="Viju TV1000 HD" tvg-logo="http://epg.one/img/127.png" group-title="Кино", Viju TV1000 HD
 #EXTGRP:Кино
-http://176.96.241.40/TV1000/index.m3u8
+http://185.78.112.47:8077/viju_tv1000_hd/index.m3u8
 #EXTINF:-1 tvg-id="viju-tv1000-novella" tvg-name="Viju TV1000 Новелла HD" tvg-logo="http://epg.one/img/9057.png" group-title="Кино", Viju TV1000 Новелла HD
 #EXTGRP:Кино
 http://cdn.kubteltv.workers.dev/?ID=381
@@ -2626,7 +2626,7 @@ http://kino-1.catcast.tv/content/37742/index.m3u8
 http://kino-1.catcast.tv/content/37739/index.m3u8
 #EXTINF:-1 tvg-id="muzyka-pervogo" tvg-name="Музыка Первого" tvg-logo="http://epg.one/img/715.png" group-title="Музыка", Музыка Первого
 #EXTGRP:Музыка
-http://176.96.241.40/MuzikaPervogo/index.m3u8
+http://185.78.112.47:8077/1hd/index.m3u8
 #EXTINF:-1 tvg-id="la-minor" tvg-name="Музыка Live" tvg-logo="https://epg.iptvx.one/picons/la-minor.png" group-title="Музыка", Музыка Live
 #EXTGRP:Музыка
 http://93.84.115.174:10181/laminor
