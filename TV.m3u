@@ -1136,7 +1136,7 @@ https://bl.rutube.ru/livestream/ed497bdb28846536f3928849f8f7e469/index.m3u8?s=XM
 https://ucdn.beetv.kz/bpk-tv/000008003/tve/index.m3u8
 #EXTINF:-1 tvg-id="mama" tvg-name="Мама" tvg-logo="http://epg.one/img/618.png" group-title="Детские", Мама
 #EXTGRP:Детские
-http://stream8.cinerama.uz/1244/index.m3u8
+http://46.32.176.50/mama/index.m3u8
 #EXTINF:-1 tvg-name="Мамонтенок" tvg-logo="https://avatars.mds.yandex.net/i?id=23c919d0d50c1df17b27e2c6ea75da2271d66feb-9222271-images-thumbs&n=13" group-title="Детские", Мамонтенок
 #EXTGRP:Детские
 http://sirius.greenhosting.ru/MamontRu/tracks-v1a1/mono.m3u8
@@ -1160,7 +1160,7 @@ https://ucdn.beetv.kz/bpk-tv/000002928/tve/index.m3u8
 https://stream8.cinerama.uz/1407/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="smaylik-tv" tvg-name="Смайл ТВ" tvg-logo="http://epg.one/img/2442.png" group-title="Детские", Смайл ТВ
 #EXTGRP:Детские
-https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
+https://5d23269b3ec0c.streamlock.net/WEB_Smilik/Smilik.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="smotrim-100-detskoe" tvg-name="Смотрим 100% Детское" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-detskoe.png" group-title="Детские", Смотрим 100% Детское
 #EXTGRP:Детские
 https://stream.smotrim.ru/hls/fasttv05/playlist_3.m3u8
