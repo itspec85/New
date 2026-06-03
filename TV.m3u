@@ -2285,7 +2285,7 @@ https://stream.zuno-tv.workers.dev/channel/9090/357166f9/index.m3u8
 
 #EXTINF:-1 tvg-id="belarus5" tvg-name="Беларусь 5 HD" tvg-logo="http://epg.one/img/2541.png" group-title="Спорт", Беларусь 5 HD
 #EXTGRP:Спорт
-https://edge55.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/chunklist_w654405596_b2660000_sleng.m3u8
+http://93.84.115.174:10181/belarus5hd
 #EXTINF:-1 tvg-id="box-tv" tvg-name="Бокс ТВ" tvg-logo="http://epg.one/img/2285.png" group-title="Спорт", Бокс ТВ
 #EXTGRP:Спорт
 http://46.32.176.50/bokstv/index.m3u8
@@ -2421,12 +2421,6 @@ https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/playl
 #EXTINF:-1 tvg-id="espn-us" tvg-name="ESPN USA" tvg-logo="http://epg.one/img/6582.png" group-title="Спорт", ESPN HD US
 #EXTGRP:Спорт
 http://cord-cutter.net:8080/LeeAv21/AvantL12/14197
-#EXTINF:-1 tvg-id="espn2-us" tvg-name="ESPN2 [US]" tvg-logo="http://epg.one/img/6581.png" group-title="Спорт", ESPN 2 HD US
-#EXTGRP:Спорт
-http://fortv.cc:8080/sed8nurse@hotmail.com/0LzoNUu9jX/2210
-#EXTINF:-1 tvg-id="espn-u-us" tvg-name="ESPN U [US]" tvg-logo="http://epg.one/img/8396.png" group-title="Спорт", ESPNU HD US
-#EXTGRP:Спорт
-http://fortv.cc:8080/sed8nurse@hotmail.com/0LzoNUu9jX/10255
 #EXTINF:-1 tvg-id="eurosport1" tvg-name="Eurosport 1" tvg-logo="http://epg.one/img/2052.png" group-title="Спорт", Eurosport 1
 #EXTGRP:Спорт
 http://85.117.37.41/eurosport1/index.m3u8
@@ -2483,7 +2477,7 @@ https://flussonic.mkpnet.ru/tv-e3d23fc7511b5fcd/video.m3u8
 http://185.78.112.47:8077/khl_hd/index.m3u8
 #EXTINF:-1 tvg-id="kxl-hd" tvg-name="KHL Prime HD" tvg-logo="http://epg.one/img/1038.png" group-title="Спорт", KHL Prime HD (резерв)
 #EXTGRP:Спорт
-http://37.46.49.14:18010/play/a01q/index.m3u8
+http://93.84.115.174:10181/khl
 #EXTINF:-1 tvg-id="mlb-network-us" tvg-name="MLB Network HD CA" tvg-logo="http://epg.one/img/3654.png" group-title="Спорт", MLB Network HD CA
 #EXTGRP:Спорт
 https://aegis-cloudfront-1.tubi.video/36ef2f9d-7100-4c4d-b41a-dbf41ab7e461/playlist.m3u8
@@ -2565,9 +2559,6 @@ https://stream8.cinerama.uz/1004/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="supertennis" tvg-name="SuperTennis" tvg-logo="http://epg.one/img/6539.png" group-title="Спорт", Super Tennis HD
 #EXTGRP:Спорт
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
-#EXTINF:-1 tvg-id="tennis-cnl-us" tvg-name="Tennis Channel [US]" tvg-logo="http://epg.one/img/3118.png" group-title="Спорт", TENNIS HD US
-#EXTGRP:Спорт
-https://jmp2.uk/plu-681109b688b9d85d0938c6ba.m3u8
 #EXTINF:-1 tvg-name="Tennis+" tvg-logo="https://avatars.mds.yandex.net/i?id=26b7ad6af5b884c9d329427d05133b2d1e2ded89-4011855-images-thumbs&n=13" group-title="Спорт", Tennis+
 #EXTGRP:Спорт
 https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
@@ -2580,9 +2571,6 @@ https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/and
 #EXTINF:-1 tvg-id="tivibu-spor-3" tvg-name="Tivibu Spor 3 [TR]" tvg-logo="https://epg.iptvx.one/picons/tivibu-spor-3.png" group-title="Спорт", Tivibu Spor 3 HD TR
 #EXTGRP:Спорт
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivets3.m3u8
-#EXTINF:-1 tvg-id="tivibu-spor-4" tvg-name="Tivibu Spor 4 [TR]" tvg-logo="https://epg.iptvx.one/picons/tivibu-spor-4.png" group-title="Спорт", Tivibu Spor 4 HD TR
-#EXTGRP:Спорт
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivets4.m3u8
 #EXTINF:-1 tvg-id="trace-sport-stars" tvg-name="Trace Sport Stars HD" tvg-logo="http://epg.one/img/7507.png" group-title="Спорт", Trace Sport Stars HD
 #EXTGRP:Спорт
 https://stream8.cinerama.uz/1274/tracks-v1a1/mono.m3u8
