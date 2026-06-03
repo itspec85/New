@@ -1308,7 +1308,7 @@ https://mhd128.iptv2022.com/p/yynPOXaqoQUcvVEdA6u-vg,1780512440/streaming/blokba
 http://185.78.112.47:8077/blokbaster_hd/index.m3u8
 #EXTINF:-1 tvg-name="Видеокассета TV" tvg-logo="https://avatars.mds.yandex.net/i?id=aa54d677b7da13a106d22ee95411b140d0009712-15274206-images-thumbs&n=13" group-title="Кино", Видеокассета TV
 #EXTGRP:Кино
-https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/playlist.m3u8
+https://lbgo.bozztv.com/ssh101/ssh101/livebest90e/chunks.m3u8
 #EXTINF:-1 tvg-id="denpobedy" tvg-name="День Победы HD" tvg-logo="http://epg.one/img/2773.png" group-title="Кино", День Победы HD
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
@@ -1664,7 +1664,7 @@ https://ucdn.beetv.kz/bpk-tv/000003747/tve/index.m3u8
 http://185.78.112.47:8077/viju_tv1000_hd/index.m3u8
 #EXTINF:-1 tvg-id="viju-tv1000-novella" tvg-name="Viju TV1000 Новелла HD" tvg-logo="http://epg.one/img/9057.png" group-title="Кино", Viju TV1000 Новелла HD
 #EXTGRP:Кино
-http://cdn.kubteltv.workers.dev/?ID=381
+https://kino.zunotv.workers.dev/viju_tv1000_novella_hd/index.m3u8
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino" tvg-name="Viju TV1000 Русское" tvg-logo="http://epg.one/img/267.png" group-title="Кино", Viju TV1000 Русское
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000003748/tve/index.m3u8
@@ -1679,7 +1679,7 @@ https://ucdn.beetv.kz/bpk-tv/000003910/tve/index.m3u8
 http://cdn.kubteltv.workers.dev/?ID=192
 #EXTINF:-1 tvg-id="viju-tv1000-romantica" tvg-name="Viju TV1000 Romantica HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/97/Viju_TV1000_Romantica.svg/revision/latest/scale-to-width-down/284?cb=20240928200507" group-title="Кино", Viju TV1000 Romantica HD
 #EXTGRP:Кино
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=C5Wsi294DTigZMvRUoE5HA&e=1780163143&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+http://217.174.229.136:8000/play/a04b
 #EXTINF:-1 tvg-id="vip-comedy" tvg-name="viju+ Comedy HD" tvg-logo="http://epg.one/img/1011.png" group-title="Кино", Viju+ Comedy HD
 #EXTGRP:Кино
 https://flussonic.mkpnet.ru/tv-c385ec3bab3a3605/video.m3u8
