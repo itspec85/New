@@ -2603,7 +2603,7 @@ http://iptv.prosto.tv:7000/ch313/video.m3u8
 
 #EXTINF:-1 tvg-id="vostok-tv" tvg-name="Восток ТВ" tvg-logo="http://epg.one/img/2353.png" group-title="Музыка", Восток ТВ
 #EXTGRP:Музыка
-http://37.46.49.14:18010/play/a02z/index.m3u8
+http://911play.ru:3456/live/VostokSite/cdnVostaoc911tv123456/489.m3u8
 #EXTINF:-1 tvg-id="zhar-ptica" tvg-name="Жар Птица" tvg-logo="http://epg.one/img/2415.png" group-title="Музыка", Жар Птица
 #EXTGRP:Музыка
 https://bl.rutube.ru/livestream/c93be53cba8a4ba6ac311b395a00f4d5/index.m3u8?s=h-fppD9WZKbcD0ZIZls2sg&e=2074209252&scheme=https
@@ -2633,16 +2633,13 @@ http://185.78.112.47:8077/1hd/index.m3u8
 http://93.84.115.174:10181/laminor
 #EXTINF:-1 tvg-id="o2tv" tvg-name="О2 ТВ" tvg-logo="http://epg.one/img/2412.png" group-title="Музыка", О2 ТВ
 #EXTGRP:Музыка
-http://77.232.131.211/O2TV/index.m3u8
+http://185.78.112.47:8077/o2_tv/index.m3u8
 #EXTINF:-1 tvg-name="Первый музыкальный BY" tvg-logo="http://epg.one/img/5365.png" group-title="Музыка", Первый музыкальный BY
 #EXTGRP:Музыка
 http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:-1 tvg-id="onemuz" tvg-name="Первый музыкальный RU" tvg-logo="http://epg.one/img/5364.png" group-title="Музыка", Первый музыкальный RU
 #EXTGRP:Музыка
 http://rtmp.one.by:2300
-#EXTINF:-1 tvg-id="radio-strana-fm-tv" tvg-name="Страна FM HD" tvg-logo="http://epg.one/img/5369.png" group-title="Музыка", Страна FM HD
-#EXTGRP:Музыка
-http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="shanson-tv" tvg-name="Шансон TB" tvg-logo="http://epg.one/img/2278.png" group-title="Музыка", Шансон TB
 #EXTGRP:Музыка
 http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
@@ -2651,7 +2648,7 @@ http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
 http://176.118.197.101/1HD/index.m3u8
 #EXTINF:-1 tvg-name="88 Stereo" tvg-logo="https://www.88stereo.com/wp-content/uploads/2017/05/88Stereo-logoweb.png" group-title="Музыка", 88 Stereo
 #EXTGRP:Музыка
-http://k3.usastreams.com/CableLatino/88stereo/chunklist_w986835325.m3u8
+http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
 #EXTINF:-1 tvg-name="Atomic Academy TV" tvg-logo="https://avatars.mds.yandex.net/i?id=aaf23cc486a8e86b82b15c55d27606091c217541-4897019-images-thumbs&n=13" group-title="Музыка", Atomic Academy TV
 #EXTGRP:Музыка
 https://atomic.streamnet.ro/academia.m3u8
