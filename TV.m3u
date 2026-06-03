@@ -1061,7 +1061,7 @@ http://cdn.kubteltv.workers.dev/?ID=443
 https://ucdn.beetv.kz/bpk-tv/000001498/tve/index.m3u8
 #EXTINF:-1 tvg-id="travel-adventure" tvg-name="travel+adventure" tvg-logo="http://epg.one/img/1035.png" group-title="Познавательные", travel+adventure
 #EXTGRP:Познавательные
-http://77.232.131.211/TravelAdventureHD/index.m3u8
+http://62.89.17.130:4451/play/a009/index.m3u8
 #EXTINF:-1 tvg-id="travel-xp-4k" tvg-name="TravelXP 4K" tvg-logo="http://epg.one/img/7617.png" group-title="Познавательные", TravelXP 4K
 #EXTGRP:Познавательные
 http://91.247.68.229:8000/play/Travelxp/index.m3u8
