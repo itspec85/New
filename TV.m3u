@@ -1346,7 +1346,7 @@ https://kino-1.catcast.tv/content/38617/index.m3u8
 https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=rguudX-088KMchE_oKxn4g&e=2074209221&scheme=https
 #EXTINF:-1 tvg-id="kino-tv" tvg-name="Кино ТВ" tvg-logo="http://epg.one/img/1037.png" group-title="Кино", КИНО ТВ
 #EXTGRP:Кино
-http://185.46.16.239:8000/Kino_TV
+http://194.152.35.17/kino-tv/index.m3u8
 #EXTINF:-1 tvg-id="kinoboevik-kz" tvg-name="Кинобоевик KZ" tvg-logo="https://iptvx.one/picons/kinoboevik-kz.png" group-title="Кино", Кинобоевик KZ
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000008490/tve/index.m3u8
