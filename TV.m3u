@@ -3099,9 +3099,6 @@ http://109.94.1.3:8080/25/index.m3u8
 #EXTINF:-1 tvg-id="kolyma-plus" tvg-name="Колыма-Плюс Магадан" tvg-logo="https://iptvx.one/picons/kolyma-plus.png" group-title="Региональные РФ", Колыма-Плюс Магадан
 #EXTGRP:Региональные РФ
 https://tw2ywfm7jbp.a.trbcdn.net/livemaster/w91n1qa6dh_kolymaplus_live/playlist.m3u8
-#EXTINF:-1 tvg-name="Компас ТВ Каменск-Уральский" tvg-logo="https://static.mts.ru/dpc_upload/contents/482/350x350/epg759.png" group-title="Региональные РФ", Компас ТВ Каменск-Уральский
-#EXTGRP:Региональные РФ
-rtmp://89.107.113.89/live/kamensktv
 #EXTINF:-1 tvg-id="krasnodar" tvg-name="Краснодар" tvg-logo="https://avatars.mds.yandex.net/i?id=a8d7284ae992ed62aec9d5816bbfe4b488a557cd-9123151-images-thumbs&n=13" group-title="Региональные РФ", Краснодар
 #EXTGRP:Региональные РФ
 https://live-tvkrasnodar-soc.cdnvideo.ru/tvkrasnodar-soc/social/playlist.m3u8
@@ -3282,9 +3279,6 @@ http://212.3.155.126:8181/udp/233.67.67.177:5510
 #EXTINF:-1 tvg-id="rifey-tv" tvg-name="Рифей-ТВ" tvg-logo="https://epg.iptvx.one/picons/rifey-tv.png" group-title="Региональные РФ", Рифей-ТВ Пермь
 #EXTGRP:Региональные РФ
 https://bl.rutube.ru/livestream/57486bf8e1c01d16a5a939c463867fab/index.m3u8?s=jjk2zGBrmQ2ZQ09HiRN1uQ&e=2074209243&scheme=https
-#EXTINF:-1 tvg-id="zabajkajkalje" tvg-name="РТК Забайкалье" tvg-logo="https://avatars.mds.yandex.net/i?id=d0237e1bc0f56b6c68d5454f0a325090366ef658-3965918-images-thumbs&n=13" group-title="Региональные РФ", РТК Забайкалье
-#EXTGRP:Региональные РФ
-https://stream.zrtk.ru/zrtk.m3u8
 #EXTINF:-1 tvg-id="rts-abakan" tvg-name="РТС Абакан" tvg-logo="https://cdn.epg.one/img/5776.png" group-title="Региональные РФ", РТС Абакан
 #EXTGRP:Региональные РФ
 http://95.47.155.244:8001/play/a022
@@ -3363,9 +3357,6 @@ http://tele2dvrnat01-02.cdnvideo.ru/stream/TatTVR_tat24_bf1f738079c0cf5c4a67893c
 #EXTINF:-1 tvg-name="ТВ Студия Факт Тазовский" tvg-logo="https://avatars.mds.yandex.net/i?id=2a0000017a0ef1540ecf9cb519b3a424e098-5092287-images-thumbs&n=13" group-title="Региональные РФ", ТВ Студия Факт Тазовский
 #EXTGRP:Региональные РФ
 https://042auhsnh0x.a.trbcdn.net/livemaster/lezlkenzbx_TV_Studia_Fakt/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="tv-in" tvg-name="ТВ-ИН Магнитогорск" tvg-logo="https://iptvx.one/picons/tv-in.png" group-title="Региональные РФ", ТВ-ИН Магнитогорск
-#EXTGRP:Региональные РФ
-https://live.tv-in.ru/hls/stream/index.m3u8
 #EXTINF:-1 tvg-id="tverskoy-prospekt" tvg-name="Тверской проспект Регион" tvg-logo="https://avatars.mds.yandex.net/i?id=2a0000017a071e5bb2d5c69811e4571f3265-4079523-images-thumbs&n=13" group-title="Региональные РФ", Тверской проспект Регион
 #EXTGRP:Региональные РФ
 http://stream.fastlnk.ru:88/Tverskojj_prospekt_hd/index.m3u8
@@ -3378,9 +3369,6 @@ https://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 #EXTINF:-1 tvg-id="teotv" tvg-name="ТЕО ТВ HD" tvg-logo="https://cdn.epg.one/img/6783.png" group-title="Региональные РФ", ТЕО ТВ HD
 #EXTGRP:Региональные РФ
 https://stream.teotv.ru/live/site360/chunklist.m3u8
-#EXTINF:-1 tvg-id="tivikom" tvg-name="Тивиком ТВ FHD Улан Удэ" tvg-logo="https://cdn.epg.one/img/6782.png" group-title="Региональные РФ", Тивиком ТВ FHD Улан Удэ
-#EXTGRP:Региональные РФ
-http://stream.trafjam.ru/tvcom/studio/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tivisi-hd" tvg-name="ТиВиСи HD" tvg-logo="https://epg.iptvx.one/picons/tivisi-hd.png" group-title="Региональные РФ", ТиВиСи HD
 #EXTGRP:Региональные РФ
 https://zrnr369ssda.a.trbcdn.net/livemaster/rpwpuqsjap_tvstv/tracks-v1a1/mono.m3u8
