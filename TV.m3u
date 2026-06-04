@@ -3071,7 +3071,7 @@ https://bl.rutube.ru/livestream/72ced5d533f940251e5e4bd5d61f6bc9/index.m3u8?s=kU
 http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 #EXTINF:-1 tvg-name="Жизнь Глазова" tvg-logo="https://avatars.mds.yandex.net/i?id=3caf7d3a015f2ad36df9c341b953b8e174122a8a-9042494-images-thumbs&n=13" group-title="Региональные РФ", Жизнь Глазова
 #EXTGRP:Региональные РФ
-https://yellow.garant.tv/glazov24/stream.m3u8
+http://yellow.garant.tv/glazov24/stream.m3u8
 #EXTINF:-1 tvg-id="zapad-24" tvg-name="Запад 24 HD" tvg-logo="http://epg.one/img/7703.png" group-title="Региональные РФ", Запад 24 HD
 #EXTGRP:Региональные РФ
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/russia1-hd/index.m3u8
@@ -3116,7 +3116,7 @@ http://live-krtv.cdnvideo.ru/krtv/krtv.sdp/playlist.m3u8
 http://iptv.crimea.net:8787
 #EXTINF:-1 tvg-id="kuzbas1" tvg-name="Кузбасс 1 FHD" tvg-logo="http://epg.one/img/7702.png" group-title="Региональные РФ", Кузбасс 1 FHD
 #EXTGRP:Региональные РФ
-http://81.161.126.82:80/4200/index.m3u8
+http://rmhkuzbass.ru:8082/10kanal/k24/playlist.m3u8
 #EXTINF:-1 tvg-name="Культ Медиа Астрахань" tvg-logo="https://avatars.mds.yandex.net/i?id=b66c5deb653809ec10d1480bad631e105c066b78-5258850-images-thumbs&n=13" group-title="Региональные РФ", Культ Медиа Астрахань
 #EXTGRP:Региональные РФ
 http://streaming.astrakhan.ru/telplushd/tracks-v1a1/mono.ts.m3u8
@@ -3167,7 +3167,7 @@ http://85.208.223.249:8888/play/a033
 https://live-mordovia24.cdnvideo.ru/mordovia24/streamtr/playlist.m3u8
 #EXTINF:-1 tvg-id="moskva-24" tvg-name="Москва 24" tvg-logo="http://epg.one/img/334.png" group-title="Региональные РФ", Москва 24
 #EXTGRP:Региональные РФ
-https://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe
+http://193.25.8.59:8000/moskva24
 #EXTINF:-1 tvg-id="mtv-volgograd" tvg-name="МТВ Волгоград HD" tvg-logo="http://epg.one/img/6401.png" group-title="Региональные РФ", МТВ Волгоград HD
 #EXTGRP:Региональные РФ
 http://hls-volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
@@ -3176,7 +3176,7 @@ http://hls-volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3
 https://hls-volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="Муром ТВ" tvg-logo="https://avatars.mds.yandex.net/i?id=f24eba0a0f0bbb0ef28c018344961969d1162afb-5232628-images-thumbs&n=13" group-title="Региональные РФ", Муром ТВ
 #EXTGRP:Региональные РФ
-http://live.murom-tv.ru/hls/stream.m3u8
+http://62.76.73.38/hls/stream.m3u8
 #EXTINF:-1 tvg-id="vestnik-nadyma" tvg-name="Надымский вестник" tvg-logo="http://epg.one/img/5709.png" group-title="Региональные РФ", Надымский вестник
 #EXTGRP:Региональные РФ
 https://0werof7ib0p.a.trbcdn.net/livemaster/6r10qa9k6d_trknadym.sdp/playlist.m3u8
@@ -3308,7 +3308,7 @@ http://iptv-hls.karelia.pro/streams/Sampo360/stream.m3u8
 https://bl.rutube.ru/livestream/dce1080977de5e89dcbd1dd24d014b4e/index.m3u8?s=uMI6QDBDgvhCyc99_r0Vng&e=2074209229&scheme=https
 #EXTINF:-1 tvg-id="sankt-peterburg" tvg-name="Санкт-Петербург" tvg-logo="http://epg.one/img/690.png" group-title="Региональные РФ", Санкт-Петербург
 #EXTGRP:Региональные РФ
-https://edge-ekat1.teletarget.ru/stream/msk/tvspb/index.m3u8
+http://46.32.64.39:10021
 #EXTINF:-1 tvg-id="saratov-24" tvg-name="Саратов 24 HD" tvg-logo="http://epg.one/img/7693.png" group-title="Региональные РФ", Саратов 24 HD
 #EXTGRP:Региональные РФ
 http://109.248.11.19:8081/web/c24/playlist.m3u8
@@ -3381,6 +3381,9 @@ https://stream.teotv.ru/live/site360/chunklist.m3u8
 #EXTINF:-1 tvg-id="tivikom" tvg-name="Тивиком ТВ FHD Улан Удэ" tvg-logo="https://cdn.epg.one/img/6782.png" group-title="Региональные РФ", Тивиком ТВ FHD Улан Удэ
 #EXTGRP:Региональные РФ
 http://stream.trafjam.ru/tvcom/studio/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="tivisi-hd" tvg-name="ТиВиСи HD" tvg-logo="https://epg.iptvx.one/picons/tivisi-hd.png" group-title="Региональные РФ", ТиВиСи HD
+#EXTGRP:Региональные РФ
+https://zrnr369ssda.a.trbcdn.net/livemaster/rpwpuqsjap_tvstv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="trk-ryazan" tvg-name="ТКР Рязань" tvg-logo="https://iptvx.one/picons/trk-ryazan.png" group-title="Региональные РФ", ТКР Рязань
 #EXTGRP:Региональные РФ
 http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8
@@ -3389,7 +3392,7 @@ http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8
 http://user91229.clients-cdnnow.ru/hls/user91229_1_720/index.m3u8
 #EXTINF:-1 tvg-id="tnv-planeta" tvg-name="ТНВ-Планета" tvg-logo="http://epg.one/img/933.png" group-title="Региональные РФ", ТНВ-Планета
 #EXTGRP:Региональные РФ
-http://planeta.mediacdn.ru/cdn/tnvplanet/tracks-v1a1/mono.m3u8
+http://user91229.clients-cdnnow.ru/hls/user91229_1.m3u8
 #EXTINF:-1 tvg-id="tolk" tvg-name="ТОЛК" tvg-logo="https://cdn.epg.one/img/2473.png" group-title="Региональные РФ", ТОЛК
 #EXTGRP:Региональные РФ
 https://live-tolknews.cdnvideo.ru/tolknews/stream/tracks-v1a1/mono.m3u8
