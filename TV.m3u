@@ -3878,16 +3878,13 @@ https://stream8.cinerama.uz/1205/tracks-v1a1/mono.m3u8
 http://s8.rafail1982.uz/1491/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Biz Cinema UZ" tvg-logo="http://epg.one/img/7913.png" group-title="Узбекистан", Biz Cinema UZ
 #EXTGRP:Узбекистан
-https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/index.m3u8
+https://stream8.cinerama.uz/1213/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Biz Music HD UZ" tvg-logo="http://epg.one/img/7914.png" group-title="Узбекистан", Biz Music HD UZ
 #EXTGRP:Узбекистан
-https://fl.biztv.media/music_720_QAKpGmVUjaPApCNjpsgBxrdqNihAkl/index.m3u8
+https://stream8.cinerama.uz/1212/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="BizTV HD UZ" tvg-logo="http://epg.one/img/7915.png" group-title="Узбекистан", BizTV HD UZ
 #EXTGRP:Узбекистан
-https://fl.biztv.media/biz_tv_720_uni8jhub4h8fub4idejswh8dh3j94finbu4nidj39inwsj92in3d/index.m3u8
-#EXTINF:-1 tvg-name="Biznes TV" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/e/e9/Biznes_TV_%282015-.n.v.%29.png/revision/latest?cb=20230318203351" group-title="Узбекистан", Biznes TV
-#EXTGRP:Узбекистан
-https://fl.biztv.media/BiznesTV_1080/tracks-v1a1/mono.m3u8
+https://stream8.cinerama.uz/1211/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Bolajon UZ" tvg-logo="http://epg.one/img/2650.png" group-title="Узбекистан", Bolajon UZ
 #EXTGRP:Узбекистан
 https://stream8.cinerama.uz/1007/tracks-v1a1/mono.m3u8
@@ -3945,9 +3942,6 @@ http://s8.rafail1982.uz/1497/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Milliy TV UZ" tvg-logo="http://epg.one/img/7926.png" group-title="Узбекистан", Milliy TV UZ
 #EXTGRP:Узбекистан
 https://stream8.cinerama.uz/1014/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="MiMi TV" tvg-logo="https://avatars.mds.yandex.net/i?id=c8f4f57c42d738d392e8aa6557dfc7a5701f2fd3-16397087-images-thumbs&n=13" group-title="Узбекистан", MiMi TV
-#EXTGRP:Узбекистан
-https://fl.biztv.media/MiMiTV_1080/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Muloqot TV" tvg-logo="https://avatars.mds.yandex.net/i?id=74dc1a141c67541ed1f9c6c24069b7b2e5e96d23-5334983-images-thumbs&n=13" group-title="Узбекистан", Muloqot TV
 #EXTGRP:Узбекистан
 http://s8.rafail1982.uz/1285/tracks-v1a1/mono.m3u8
@@ -3990,9 +3984,6 @@ https://stream8.cinerama.uz/1291/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Renessans TV UZ" tvg-logo="http://epg.one/img/7933.png" group-title="Узбекистан", Renessans TV UZ
 #EXTGRP:Узбекистан
 https://stream8.cinerama.uz/1221/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-name="S Music" tvg-logo="https://avatars.mds.yandex.net/i?id=ebd4c68efc183524dfe9ea27533e1bb75a9d7c1a-5252675-images-thumbs&n=13" group-title="Узбекистан", S Music
-#EXTGRP:Узбекистан
-http://s8.rafail1982.uz/1476/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="S-Ikbol" tvg-logo="https://avatars.mds.yandex.net/i?id=90dc33aeadc7269b4b85ba83d87569e7fb099654-11043615-images-thumbs&n=13" group-title="Узбекистан", S-Ikbol
 #EXTGRP:Узбекистан
 http://s8.rafail1982.uz/1282/tracks-v1a1/mono.m3u8
@@ -4001,10 +3992,10 @@ http://s8.rafail1982.uz/1282/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1017/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-name="Shifo TV" tvg-logo="https://avatars.mds.yandex.net/i?id=4e620f55f4833e21f250ad7bf4271233d76065f9-13218119-images-thumbs&n=13" group-title="Узбекистан", Shifo TV
 #EXTGRP:Узбекистан
-https://st1.uzdigital.tv/shifo_tv/tracks-v1a1/mono.m3u8
+http://fl.biztv.media/cheksiz_tv_480_unif7hujidth7f4du83jrhuid3k94j8hfj8d93eubych8eju93n4ubt/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Солнечный ТВ" tvg-logo="https://avatars.mds.yandex.net/i?id=cb29a4527c511d0092117554b283ead458fc218a-13200326-images-thumbs&n=13" group-title="Узбекистан", Солнечный ТВ
 #EXTGRP:Узбекистан
-https://fl.biztv.media/stv_720_bizstvvietfujeyrah/tracks-v1a1/mono.m3u8
+http://fl.biztv.media/stv_720_bizstvvietfujeyrah/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Surxondaryo MTRK" tvg-logo="https://avatars.mds.yandex.net/i?id=2a9cff388fd3fb407c4d583c3fef7348711ce1ca-4435853-images-thumbs&n=13" group-title="Узбекистан", Surxondaryo MTRK
 #EXTGRP:Узбекистан
 http://s8.rafail1982.uz/1463/tracks-v1a1/mono.m3u8
@@ -4017,15 +4008,9 @@ https://tt.tas-ix.media:444/telegram/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Toshkent UZ" tvg-logo="http://epg.one/img/7938.png" group-title="Узбекистан", Toshkent UZ
 #EXTGRP:Узбекистан
 https://stream8.cinerama.uz/1003/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Travel TV" tvg-logo="https://avatars.mds.yandex.net/i?id=6fbda1f76006fdaacc975097c08bc1c2bcd8db8c-4432918-images-thumbs&n=13" group-title="Узбекистан", Travel TV
-#EXTGRP:Узбекистан
-https://fl.biztv.media/TabiatTV_1080/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="TTV Kino" tvg-logo="https://avatars.mds.yandex.net/i?id=669d8a158e2f4cee5fc7f48feaafd7a32cd4b402-9459492-images-thumbs&n=13" group-title="Узбекистан", TTV Kino
 #EXTGRP:Узбекистан
 http://s8.rafail1982.uz/1486/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="TTV Musiqa" tvg-logo="https://cdn.uzd.udevs.io/uzdigital/images/a6bd8e61-84e3-440e-b2d1-d34b3c7a90ab.jpg" group-title="Узбекистан", TTV Musiqa
-#EXTGRP:Узбекистан
-https://st1.uzdigital.tv/TTV_Musiqa/video.m3u8
 #EXTINF:-1 tvg-name="TTV Telekanal" tvg-logo="https://avatars.mds.yandex.net/i?id=f51c1da7a51c0546bcfb203433da9f56155b5ccc-5008775-images-thumbs&n=13" group-title="Узбекистан", TTV Telekanal
 #EXTGRP:Узбекистан
 http://s8.rafail1982.uz/1494/tracks-v1a1/mono.m3u8
