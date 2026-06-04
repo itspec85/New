@@ -3749,7 +3749,7 @@ https://live.teleradiocom.tj/4/3m.m3u8
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 #EXTINF:-1 tvg-name="Akit TV HD TR" tvg-logo="http://epg.one/img/3839.png" group-title="Турция", Akit TV HD TR
 #EXTGRP:Турция
-http://akittv-live.ercdn.net/akittv/akittv.m3u8
+http://app-plus.live:80/9680723188/kyft6ks0g7gr7uw0xio6/314418
 #EXTINF:-1 tvg-name="ATV TR" tvg-logo="http://epg.one/img/2600.png" group-title="Турция", ATV TR
 #EXTGRP:Турция
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamliveatv.m3u8
@@ -3762,9 +3762,6 @@ https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
 #EXTINF:-1 tvg-id="bloomberg-ht-tr" tvg-name="Bloomberg HT TR" tvg-logo="http://epg.one/img/2613.png" group-title="Турция", Bloomberg HT TR
 #EXTGRP:Турция
 https://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8
-#EXTINF:-1 tvg-name="Cine6 Max" tvg-logo="https://avatars.mds.yandex.net/i?id=83904fc824e445a94e47584a05456b061cd54183-8972142-images-thumbs&n=13" group-title="Турция", Cine6 Max
-#EXTGRP:Турция
-https://cinemax6.cinemax6.com:3118/stream/play.m3u8
 #EXTINF:-1 tvg-name="Dost TV TR" tvg-logo="http://epg.one/img/3852.png" group-title="Турция", Dost TV TR
 #EXTGRP:Турция
 https://dost.stream.emsal.im/tv/live.m3u8
@@ -3812,13 +3809,10 @@ https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist.m3u8
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="show-hd-tr" tvg-name="Show TV TR" tvg-logo="http://epg.one/img/2608.png" group-title="Турция", Show TV TR
 #EXTGRP:Турция
-http://app-plus.live:80/9680723188/kyft6ks0g7gr7uw0xio6/10794
+http://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv_1080p.m3u8
 #EXTINF:-1 tvg-id="star-tv-hd-tr" tvg-name="Star TV HD TR" tvg-logo="http://epg.one/img/2667.png" group-title="Турция", STAR TV HD TR
 #EXTGRP:Турция
 https://dogus.daioncdn.net/startv/startv_720p.m3u8?app=startv_web
-#EXTINF:-1 tvg-name="Super Türk" tvg-logo="https://i.postimg.cc/QCMn4kZC/Fqf-J37n-Xs-AAD9-2.png" group-title="Турция", Super Türk
-#EXTGRP:Турция
-http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
 #EXTINF:-1 tvg-name="TBMM" tvg-logo="https://avatars.mds.yandex.net/i?id=4573b709670ca587c35226ccc6031096df760058-5537820-images-thumbs&n=13" group-title="Турция", TBMM
 #EXTGRP:Турция
 https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
@@ -3827,13 +3821,13 @@ https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
 https://live.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
 #EXTINF:-1 tvg-id="trt-1-hd" tvg-name="TRT 1 HD" tvg-logo="http://epg.one/img/2598.png" group-title="Турция", TRT 1 HD TR
 #EXTGRP:Турция
-https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
+http://tv-trt1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="TRT 2 HD" tvg-logo="http://epg.one/img/3939.png" group-title="Турция", TRT 2 HD
 #EXTGRP:Турция
 http://app-plus.live:80/9680723188/kyft6ks0g7gr7uw0xio6/196785
 #EXTINF:-1 tvg-id="trt-avaz" tvg-name="TRT Avaz [TR]" tvg-logo="http://epg.one/img/3858.png" group-title="Турция", TRT Avaz TR
 #EXTGRP:Турция
-https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
+http://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="TRT Belgesel TR" tvg-logo="http://epg.one/img/3907.png" group-title="Турция", TRT Belgesel TR
 #EXTGRP:Турция
 http://app-plus.live:80/9680723188/kyft6ks0g7gr7uw0xio6/196807
@@ -3845,7 +3839,7 @@ https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="TRT Diyanet Çocuk" tvg-logo="https://avatars.mds.yandex.net/i?id=ffe95945d141324a8d94d6f7ae249401f07be20d-10963969-images-thumbs&n=13" group-title="Турция", TRT Diyanet Çocuk
 #EXTGRP:Турция
-https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
+http://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="TRT EBATV ORTAOKUL" tvg-logo="http://epg.one/img/3973.png" group-title="Турция", TRT EBATV ORTAOKUL
 #EXTGRP:Турция
 https://tv-e-okul01.medya.trt.com.tr/master.m3u8
