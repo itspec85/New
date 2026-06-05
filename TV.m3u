@@ -3462,9 +3462,6 @@ https://bl.webcaster.pro/media/playlist/free_eb0182bd41004b93570aa08119ad9151/4_
 #EXTINF:-1 tvg-id="gln24" tvg-name="GLN 24 Геленджик" tvg-logo="https://avatars.mds.yandex.net/i?id=fda5e6ac5ccb8ea7711d0f8f0b91d36bf5cd8c84-10871934-images-thumbs&n=13" group-title="Региональные РФ", GLN 24 Геленджик
 #EXTGRP:Региональные РФ
 http://serv25.vintera.tv:8081/gelendzhik/stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="next-tv" tvg-name="Next TV Нефтекамск" tvg-logo="https://avatars.mds.yandex.net/i?id=f433fa7f533cd4781152d0df9e0be6b54b809459-5529899-images-thumbs&n=13" group-title="Региональные РФ", Next TV Нефтекамск
-#EXTGRP:Региональные РФ
-https://next-tv.iptv2022.com/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="OVAA TV Тыва" tvg-logo="https://avatars.mds.yandex.net/i?id=046b910f67ce94a65700a1c9fd70fd31d3e54e35-5233519-images-thumbs&n=13" group-title="Региональные РФ", OVAA TV Тыва
 #EXTGRP:Региональные РФ
 http://tv.tuva.ru/ovaa/index.m3u8
