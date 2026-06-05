@@ -834,6 +834,21 @@ https://ucdn.beetv.kz/bpk-tv/000002510/tve/index.m3u8
 #EXTINF:-1 tvg-id="sarafan" tvg-name="Сарафан" tvg-logo="http://epg.one/img/663.png" group-title="Познавательные", Сарафан
 #EXTGRP:Познавательные
 https://stream8.cinerama.uz/1249/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Сити Эдем - АвтоГид" tvg-logo="https://www.cityeden.info/logotv/logotip_avtogid1.png" group-title="Познавательные", Сити Эдем - АвтоГид
+#EXTGRP:Познавательные
+https://cityeden.catcast.tv/content/47515/index.m3u8
+#EXTINF:-1 tvg-name="Сити Эдем - КиноДок" tvg-logo="https://www.cityeden.info/logotv/logotip_kinodok1.png" group-title="Познавательные", Сити Эдем - КиноДок
+#EXTGRP:Познавательные
+https://cityeden.catcast.tv/content/38354/index.m3u8
+#EXTINF:-1 tvg-name="Сити Эдем - МедЗдрав" tvg-logo="https://www.cityeden.info/logotv/logotip_medzdrav1.png" group-title="Познавательные", Сити Эдем - МедЗдрав
+#EXTGRP:Познавательные
+https://cityeden.catcast.tv/content/47519/index.m3u8
+#EXTINF:-1 tvg-name="Сити Эдем - Рецепты Гурмана" tvg-logo="https://www.cityeden.info/logotv/logotip_receptygurmana1.png" group-title="Познавательные", Сити Эдем - Рецепты Гурмана
+#EXTGRP:Познавательные
+https://cityeden.catcast.tv/content/47516/index.m3u8
+#EXTINF:-1 tvg-name="Сити Эдем - Христианский" tvg-logo="https://www.cityeden.info/logotv/siti_ehdem_tv_2024.png" group-title="Познавательные", Сити Эдем - Христианский
+#EXTGRP:Познавательные
+https://cityeden.catcast.tv/content/34246/index.m3u8
 #EXTINF:-1 tvg-id="smotrim-100-prazdnik" tvg-name="Смотрим 100% Праздник" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-prazdnik.png" group-title="Познавательные", Смотрим 100% Праздник
 #EXTGRP:Познавательные
 https://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8
