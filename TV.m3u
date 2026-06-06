@@ -84,7 +84,7 @@ https://otv.wotom.net/ksk/stream.m3u8
 #EXTINF:-1 tvg-id="ktk-kz" tvg-name="КТК" tvg-logo="http://epg.one/img/2570.png" group-title="Казахстан", КТК
 #EXTGRP:Казахстан
 https://ucdn.beetv.kz/bpk-tv/000000672/tve/index.m3u8
-#EXTINF:-1 tvg-id="qyzyljar" tvg-name="Qyzyljar" tvg-logo="https://avatars.mds.yandex.net/i?id=00a7490e0ef21c9524daccc66716bdb8e256ac82-5870034-images-thumbs&n=13" group-title="Казахстан", Qyzyljar
+#EXTINF:-1 tvg-id="qyzyljar" tvg-name="Qyzyljar" tvg-logo="https://avatars.mds.yandex.net/i?id=e526e463bdd5bf84fdcd9e5576100f593c77229d-13216520-images-thumbs&n=13" group-title="Казахстан", Qyzyljar
 #EXTGRP:Казахстан
 https://ucdn.beetv.kz/bpk-tv/000003249/tve/index.m3u8
 #EXTINF:-1 tvg-id="qyzylorda-kz" tvg-name="Qyzylorda KZ" tvg-logo="http://epg.one/img/9171.png" group-title="Казахстан", Qyzylorda KZ
@@ -1596,7 +1596,7 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/93
 #EXTINF:-1 tvg-id="insomnia-hd" tvg-name="Insomnia HD" tvg-logo="http://epg.one/img/6836.png" group-title="Кино", Insomnia HD
 #EXTGRP:Кино
 http://hls127.freeott.top:8080/PG_Insomnia_HD/mono.m3u8
-#EXTINF:-1 tvg-id="kino-24" tvg-name="Kino 24" tvg-logo="https://avatars.mds.yandex.net/i?id=e1062a4964110759e8963d4fc1aef3b22c56bddf-7761267-images-thumbs&n=13" group-title="Кино", Kino 24
+#EXTINF:-1 tvg-id="kino-24" tvg-name="Kino 24" tvg-logo="https://avatars.mds.yandex.net/i?id=bcb344db8e930caadd7dda8f42123ff8073d584c-5607498-images-thumbs&n=13" group-title="Кино", Kino 24
 #EXTGRP:Кино
 http://sirius.greenhosting.ru/Kino24Ru/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="kinojam1" tvg-name="Kinojam 1 HD" tvg-logo="http://epg.one/img/4466.png" group-title="Кино", Kinojam 1 HD
@@ -1722,7 +1722,7 @@ https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1 tvg-name="НТВ сериалы. Скорая помощь" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/sp_vert_live8.jpg" group-title="Кинозал", НТВ сериалы. Скорая помощь
 #EXTGRP:Кинозал
 https://cdn-dvr.ntv.ru/Skoraja_pomosh/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="НТВ сериалы. Следствие вели..." tvg-logo="https://avatars.mds.yandex.net/i?id=17f95aa5166e372371b9b4f9ec2c19bff8003edf-5877972-images-thumbs&n=13" group-title="Кинозал", НТВ сериалы. Следствие вели...
+#EXTINF:-1 tvg-name="НТВ сериалы. Следствие вели..." tvg-logo="https://avatars.mds.yandex.net/i?id=b2c39da0b7ef15d5857a0f98904fd13b7b18f325-5876583-images-thumbs&n=13" group-title="Кинозал", НТВ сериалы. Следствие вели...
 #EXTGRP:Кинозал
 https://cdn-dvr.ntv.ru/sledstvie/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="НТВ сериалы. Шеф" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/shef_vert_live_1.jpg" group-title="Кинозал", НТВ сериалы. Шеф
@@ -1854,13 +1854,13 @@ http://kinowalk.hopto.org/vampiro1965_live
 #EXTINF:-1 tvg-name="Стримканал. ReanimatoR VHS" tvg-logo="https://images.live.vkvideo.ru/user/19638295/avatar?change_time=1758747161&croped=1&mh=140&mw=140" group-title="Кинозал", Стримканал. ReanimatoR VHS
 #EXTGRP:Кинозал
 http://kinowalk.hopto.org/reanimator_vhs_live
-#EXTINF:-1 tvg-name="Стримканал. Scripach TV" tvg-logo="https://avatars.mds.yandex.net/i?id=29fb8bd7d350ed96b41e360e8245a7a791612a62-4571029-images-thumbs&n=13" group-title="Кинозал", Стримканал. Scripach TV
+#EXTINF:-1 tvg-name="Стримканал. Scripach TV" tvg-logo="https://avatars.mds.yandex.net/i?id=555d891d488c5365011716af505489b85bf0170c-9044089-images-thumbs&n=13" group-title="Кинозал", Стримканал. Scripach TV
 #EXTGRP:Кинозал
 http://kinowalk.hopto.org/scripachtv_live
-#EXTINF:-1 tvg-name="Стримканал. SeleCaoTV 1" tvg-logo="https://kino-stream.online/logo/SeleCaoTV.png" group-title="Кинозал", Стримканал. SeleCaoTV 1
+#EXTINF:-1 tvg-name="Стримканал. SeleCaoTV 1" tvg-logo="https://avatars.mds.yandex.net/i?id=555d891d488c5365011716af505489b85bf0170c-9044089-images-thumbs&n=13" group-title="Кинозал", Стримканал. SeleCaoTV 1
 #EXTGRP:Кинозал
 http://kinowalk.hopto.org/selecaotv1_live
-#EXTINF:-1 tvg-name="Стримканал. SeleCaoTV 2" tvg-logo="https://kino-stream.online/logo/SeleCaoTV.png" group-title="Кинозал", Стримканал. SeleCaoTV 2
+#EXTINF:-1 tvg-name="Стримканал. SeleCaoTV 2" tvg-logo="https://avatars.mds.yandex.net/i?id=555d891d488c5365011716af505489b85bf0170c-9044089-images-thumbs&n=13" group-title="Кинозал", Стримканал. SeleCaoTV 2
 #EXTGRP:Кинозал
 http://kinowalk.hopto.org/selecaotv_live
 #EXTINF:-1 tvg-name="Стримканал. Serial4u" tvg-logo="https://images.live.vkvideo.ru/user/20555010/avatar?change_time=1742524384&croped=1&mh=140&mw=140" group-title="Кинозал", Стримканал. Serial4u
@@ -1890,7 +1890,7 @@ http://kinowalk.hopto.org/videoarsenal_live
 #EXTINF:-1 tvg-name="Стримканал. Video Channel" tvg-logo="https://images.live.vkvideo.ru/user/20737705/avatar?change_time=1746958066&croped=1&mh=140&mw=140" group-title="Кинозал", Стримканал. Video Channel
 #EXTGRP:Кинозал
 http://kinowalk.hopto.org/video_channel_live
-#EXTINF:-1 tvg-name="Стримканал. Video Prokat" tvg-logo="https://avatars.mds.yandex.net/i?id=737774f979209b2775e342b362e38f520eba7463-16318762-images-thumbs&n=13" group-title="Кинозал", Стримканал. Video Prokat
+#EXTINF:-1 tvg-name="Стримканал. Video Prokat" tvg-logo="https://avatars.mds.yandex.net/i?id=555d891d488c5365011716af505489b85bf0170c-9044089-images-thumbs&n=13" group-title="Кинозал", Стримканал. Video Prokat
 #EXTGRP:Кинозал
 http://kinowalk.hopto.org/video_prokat_live
 #EXTINF:-1 tvg-name="Стримканал. Wfliq" tvg-logo="https://avatars.mds.yandex.net/i?id=555d891d488c5365011716af505489b85bf0170c-9044089-images-thumbs&n=13" group-title="Кинозал", Стримканал. Wfliq
@@ -3714,7 +3714,7 @@ http://87.252.229.200:8083/pinsk
 #EXTINF:-1 tvg-id="rtr-belarus" tvg-name="РТР-Беларусь" tvg-logo="https://epg.iptvx.one/picons/rtr-belarus.png" group-title="Беларусь", РТР Беларусь
 #EXTGRP:Беларусь
 http://194.158.222.36:6106
-#EXTINF:-1 tvg-id="tro" tvg-name="Союзный" tvg-logo="https://avatars.mds.yandex.net/i?id=2a0000019d3def4e3785ed089ba92e7d2c4b-1412630-fast-images&n=13" group-title="Беларусь", Союзный
+#EXTINF:-1 tvg-id="tro" tvg-name="Союзный" tvg-logo="https://avatars.mds.yandex.net/i?id=d8ea57331ddd96ec12ef31981d5c43238680a48c-7555196-images-thumbs&n=13" group-title="Беларусь", Союзный
 #EXTGRP:Беларусь
 http://souzny.mediacdn.ru/cdn/souzny/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="stv-by" tvg-name="СТВ" tvg-logo="http://epg.one/img/2543.png" group-title="Беларусь", СТВ
@@ -3981,7 +3981,7 @@ https://stream8.cinerama.uz/1005/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Mahalla UZ" tvg-logo="http://epg.one/img/7924.png" group-title="Узбекистан", Mahalla UZ
 #EXTGRP:Узбекистан
 https://stream8.cinerama.uz/1013/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Makon TV" tvg-logo="https://avatars.mds.yandex.net/i?id=3e55ace75988f4da83df463f16a195c8b77e9928-4556787-images-thumbs&n=13" group-title="Узбекистан", Makon TV
+#EXTINF:-1 tvg-name="Makon TV" tvg-logo="https://avatars.mds.yandex.net/i?id=73acb0195bea988d8d2e6a1fe6bc09d34004ba5a-5234381-images-thumbs&n=13" group-title="Узбекистан", Makon TV
 #EXTGRP:Узбекистан
 http://s8.rafail1982.uz/1497/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Milliy TV UZ" tvg-logo="http://epg.one/img/7926.png" group-title="Узбекистан", Milliy TV UZ
