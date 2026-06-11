@@ -2332,7 +2332,7 @@ http://cdn.kubteltv.workers.dev/?ID=444
 http://185.46.48.18:80/match/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="match-tv" tvg-name="Матч ТВ HD" tvg-logo="http://epg.one/img/2051.png" group-title="Спорт", Матч ТВ HD
 #EXTGRP:Спорт
-https://bl.rutube.ru/livestream/11bbbec75a2ceb8cf446ad16813c6eec/index.m3u8?s=xR155qrpY1dB_6LYesspIQ&e=2081160972&scheme=https
+http://iptv46.mcx-ix.ru:8077/match_hd/index.m3u8
 #EXTINF:-1 tvg-id="match-arena" tvg-name="Матч! Арена" tvg-logo="http://epg.one/img/2003.png" group-title="Спорт", Матч! Арена
 #EXTGRP:Спорт
 https://flussonic.mkpnet.ru/tv-9dda1dd9d740a9a4/video.m3u8
