@@ -378,8 +378,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/playlist.m3u8
 https://cdn.ntv.ru/ntv1/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="ntv-pl2" tvg-name="НТВ (+2)" tvg-logo="http://epg.one/img/2036.png" group-title="Россия плюсовые", НТВ +2
 #EXTGRP:Россия плюсовые
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-https://cdn.ntv.ru/ntv2/tracks-v1a1/playlist.m3u8
+http://176.118.197.101/NTV/index.m3u8
 #EXTINF:-1 tvg-id="ntv-pl4" tvg-name="НТВ (+4)" tvg-logo="http://epg.one/img/2964.png" group-title="Россия плюсовые", НТВ +4
 #EXTGRP:Россия плюсовые
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
@@ -495,7 +494,7 @@ http://stream.smotrim.ru/hls/russia_k_dubl1/playlist_3.m3u8
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/kultura-hd/index.m3u8
 #EXTINF:-1 tvg-id="sts-pl2" tvg-name="СТС +2" tvg-logo="http://epg.one/img/3007.png" group-title="Россия плюсовые", СТС +2
 #EXTGRP:Россия плюсовые
-https://stream.zuno-tv.workers.dev/channel/9090/n12cd810a/index.m3u8
+http://176.118.197.101/CTC/index.m3u8
 #EXTINF:-1 tvg-id="sts-pl4" tvg-name="СТС +4" tvg-logo="http://epg.one/img/3008.png" group-title="Россия плюсовые", СТС +4
 #EXTGRP:Россия плюсовые
 http://95.47.155.244:8001/play/a013
@@ -528,7 +527,7 @@ http://95.47.155.244:8001/play/a010
 https://stream.zuno-tv.workers.dev/channel/9090/797d4352/index.m3u8
 #EXTINF:-1 tvg-id="tnt-pl2" tvg-name="ТНТ +2" tvg-logo="http://epg.one/img/3022.png" group-title="Россия плюсовые", ТНТ +2
 #EXTGRP:Россия плюсовые
-https://stream.zuno-tv.workers.dev/channel/9090/4e495c2f/index.m3u8
+http://176.118.197.101/THT/index.m3u8
 #EXTINF:-1 tvg-id="tnt-pl4" tvg-name="ТНТ +4" tvg-logo="http://epg.one/img/3023.png" group-title="Россия плюсовые", ТНТ +4
 #EXTGRP:Россия плюсовые
 http://95.47.155.244:8001/play/a019
@@ -537,7 +536,7 @@ http://95.47.155.244:8001/play/a019
 https://stream.zuno-tv.workers.dev/channel/9090/4e495cca/index.m3u8
 #EXTINF:-1 tvg-id="che-pl2" tvg-name="Че +2" tvg-logo="http://epg.one/img/1598.png" group-title="Россия плюсовые", Че +2
 #EXTGRP:Россия плюсовые
-https://stream.zuno-tv.workers.dev/channel/9090/1769f2d8/index.m3u8
+http://176.118.197.101/Che/index.m3u8
 #EXTINF:-1 tvg-id="che-pl4" tvg-name="Че +4" tvg-logo="http://epg.one/img/1598.png" group-title="Россия плюсовые", Че +4
 #EXTGRP:Россия плюсовые
 https://stream.zuno-tv.workers.dev/channel/9090/762d7641/index.m3u8
@@ -1311,7 +1310,7 @@ https://stream.zuno-tv.workers.dev/channel/9090/n2661f275/index.m3u8
 #EXTINF:-1 tvg-id="blokbaster" tvg-name="Блокбастер" tvg-logo="http://epg.one/img/2832.png" group-title="Кино", Блокбастер
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
-https://mhd128.iptv2022.com/p/q4yBT-47zBRCTrTo-t_mYg,1781117616/streaming/blokbaster/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/CaUiE1YOLgZOAdxtx1MN3Q,1781203852/streaming/blokbaster/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="blokbaster-hd" tvg-name="Блокбастер HD" tvg-logo="http://epg.one/img/2832.png" group-title="Кино", Блокбастер HD
 #EXTGRP:Кино
 http://185.78.112.47:8077/blokbaster_hd/index.m3u8
@@ -1321,7 +1320,7 @@ https://lbgo.bozztv.com/ssh101/ssh101/livebest90e/chunks.m3u8
 #EXTINF:-1 tvg-id="denpobedy" tvg-name="День Победы HD" tvg-logo="http://epg.one/img/2773.png" group-title="Кино", День Победы HD
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
-https://mhd128.iptv2022.com/p/06aSeBzA2qz1U_vxaXmmiQ,1781117617/streaming/den-pobedi/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/XQPr4YBJEw8EyTbwfCNsVg,1781203852/streaming/den-pobedi/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="domkino" tvg-name="Дом кино" tvg-logo="http://epg.one/img/834.png" group-title="Кино", Дом Кино
 #EXTGRP:Кино
 http://185.78.112.47:8077/dom_kino/index.m3u8
@@ -1349,7 +1348,7 @@ http://185.78.112.47:8077/zee-tv/index.m3u8
 #EXTINF:-1 tvg-id="kamedi" tvg-name="Камеди HD" tvg-logo="http://epg.one/img/2836.png" group-title="Кино", Камеди HD
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
-https://mhd128.iptv2022.com/p/3IHH3YJh9-M9LwuYHjaYxQ,1781117616/streaming/kamedi/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/zQjJU7hX5AGVAWa4Ep3WEg,1781203852/streaming/kamedi/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="kineko" tvg-name="Кинеко" tvg-logo="http://epg.one/img/7314.png" group-title="Кино", Кинеко
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000008136/tve/index.m3u8
