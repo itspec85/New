@@ -536,10 +536,10 @@ http://95.47.155.244:8001/play/a019
 https://stream.zuno-tv.workers.dev/channel/9090/4e495cca/index.m3u8
 #EXTINF:-1 tvg-id="che-pl2" tvg-name="Че +2" tvg-logo="http://epg.one/img/1598.png" group-title="Россия плюсовые", Че +2
 #EXTGRP:Россия плюсовые
-http://176.118.197.101/Che/index.m3u8
+
 #EXTINF:-1 tvg-id="che-pl4" tvg-name="Че +4" tvg-logo="http://epg.one/img/1598.png" group-title="Россия плюсовые", Че +4
 #EXTGRP:Россия плюсовые
-https://stream.zuno-tv.workers.dev/channel/9090/762d7641/index.m3u8
+http://176.118.197.101/Che/index.m3u8
 #EXTINF:-1 tvg-id="che-pl7" tvg-name="Че +7" tvg-logo="http://epg.one/img/1598.png" group-title="Россия плюсовые", Че +7
 #EXTGRP:Россия плюсовые
 https://stream.zuno-tv.workers.dev/channel/9090/762d769e/index.m3u8
