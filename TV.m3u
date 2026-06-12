@@ -1054,7 +1054,7 @@ https://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
 https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-4/mxtm-wdfe_1080p/chunklist_DVR.m3u8
 #EXTINF:-1 tvg-id="rtg-hd" tvg-name="RTG HD" tvg-logo="http://epg.one/img/648.png" group-title="Познавательные", RTG HD
 #EXTGRP:Познавательные
-http://185.78.112.47:8077/rtg_hd/index.m3u8
+https://s70378.cdn.ngenix.net/rtg_hd/3/index.m3u8
 #EXTINF:-1 tvg-id="rtg-tv" tvg-name="RTG TV" tvg-logo="http://epg.one/img/2280.png" group-title="Познавательные", RTG TV
 #EXTGRP:Познавательные
 http://hls127.freeott.top:8080/RTG_TV/mono.m3u8
@@ -1093,7 +1093,7 @@ http://46.32.176.50/viasatexplorer/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000004157/tve/index.m3u8
 #EXTINF:-1 tvg-id="viasat-history" tvg-name="Viju History" tvg-logo="http://epg.one/img/277.png" group-title="Познавательные", Viju History
 #EXTGRP:Познавательные
-http://185.78.112.47:8077/ViasatHistoryHD/index.m3u8
+https://s70378.cdn.ngenix.net/viasat_history/2/index.m3u8
 #EXTINF:-1 tvg-id="viasat-history" tvg-name="Viju History" tvg-logo="http://epg.one/img/277.png" group-title="Познавательные", Viju History HD
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000005528/tve/index.m3u8
@@ -1114,7 +1114,7 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-
 http://live-3.otcnet.ru/wfcrus/index.m3u8
 #EXTINF:-1 tvg-id="zoopark" tvg-name="ZOOПарк" tvg-logo="http://epg.one/img/367.png" group-title="Познавательные", Zooпарк HD
 #EXTGRP:Познавательные
-http://185.78.112.47:8077/Zoopark/index.m3u8
+https://s70378.cdn.ngenix.net/zoopark/2/index.m3u8
 
 
 
@@ -1198,7 +1198,7 @@ http://185.46.16.239:8000/Detskiy
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:-1 tvg-id="ani" tvg-name="Ani" tvg-logo="http://epg.one/img/2011.png" group-title="Детские", Ani
 #EXTGRP:Детские
-http://185.78.112.47:8077/ani/index.m3u8
+http://iptv46.mcx-ix.ru:8077/ani/index.m3u8
 #EXTINF:-1 tvg-name="animation" tvg-logo="https://avatars.mds.yandex.net/i?id=2a0000017a16a1bd96b9dc40c85205c4d998-4245511-images-thumbs&n=13" group-title="Детские", animation
 #EXTGRP:Детские
 http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
@@ -1208,21 +1208,9 @@ http://89.218.32.179:18000/play/a028
 #EXTINF:-1 tvg-id="balapan" tvg-name="Balapan" tvg-logo="https://epg.iptvx.one/picons/balapan.png" group-title="Детские", Balapan
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000005178/tve/index.m3u8
-#EXTINF:-1 tvg-id="bcu-kids" tvg-name="BCU Kids HD" tvg-logo="http://epg.one/img/4756.png" group-title="Детские", BCU Kids HD
-#EXTGRP:Детские
-https://kino.zunotv.workers.dev/BCU_Kids_HD/index.m3u8
-#EXTINF:-1 tvg-id="bcu-kids-plus" tvg-name="BCU Kids+ HD" tvg-logo="http://epg.one/img/4757.png" group-title="Детские", BCU Kids+ HD
-#EXTGRP:Детские
-https://kino.zunotv.workers.dev/BCU_Kids_Plus_HD/index.m3u8
-#EXTINF:-1 tvg-id="bcu-multserial" tvg-name="BCU Multserial HD" tvg-logo="http://epg.one/img/6702.png" group-title="Детские", BCU Multserial HD
-#EXTGRP:Детские
-https://kino.zunotv.workers.dev/BCU_Multserial_HD/index.m3u8
 #EXTINF:-1 tvg-id="box-anime" tvg-name="BOX Anime HD" tvg-logo="http://epg.one/img/6698.png" group-title="Детские", BOX Anime HD
 #EXTGRP:Детские
 http://hls127.freeott.top:8080/box_anime_hd/video.m3u8
-#EXTINF:-1 tvg-id="box-m-serial" tvg-name="BOX M.Serial HD" tvg-logo="http://epg.one/img/6698.png" group-title="Детские", BOX M.Serial HD
-#EXTGRP:Детские
-https://kino.zunotv.workers.dev/BOX_MSerial_HD/index.m3u8
 #EXTINF:-1 tvg-id="cartoon-classics" tvg-name="Cartoon Classics" tvg-logo="http://epg.one/img/9183.png" group-title="Детские", Cartoon Classics
 #EXTGRP:Детские
 http://5.188.159.128:8070/Cartoon_Network/index.m3u8
@@ -1271,45 +1259,12 @@ https://hostrec.ru/live/wic2AtEFCLwsZcUkAgtZcjlYgjc.m3u8
 #EXTINF:-1 tvg-id="salemalem-kz" tvg-name="Sälem älem!" tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/28afaf58f765c2ebf009_250x250c.jpg" group-title="Детские", Sälem älem!
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000008864/tve/index.m3u8
-#EXTINF:-1 tvg-id="sky-high-boom-fhd" tvg-name="SKY HIGH BOOM FHD" tvg-logo="https://epg.iptvx.one/picons/sky-high-boom-fhd.png" group-title="Детские", SKY HIGH BOOM FHD
-#EXTGRP:Детские
-https://kino.zunotv.workers.dev/SKY_HIGH_BOOM_FHD/index.m3u8
-#EXTINF:-1 tvg-id="sky-high-junior-fhd" tvg-name="SKY HIGH JUNIOR FHD" tvg-logo="https://epg.iptvx.one/picons/sky-high-junior-fhd.png" group-title="Детские", SKY HIGH JUNIOR FHD
-#EXTGRP:Детские
-https://kino.zunotv.workers.dev/SKY_HIGH_JUNIOR_FHD/index.m3u8
-#EXTINF:-1 tvg-id="sky-high-teen-fhd" tvg-name="SKY HIGH TEEN FHD" tvg-logo="https://epg.iptvx.one/picons/sky-high-teen-fhd.png" group-title="Детские", SKY HIGH TEEN FHD
-#EXTGRP:Детские
-https://kino.zunotv.workers.dev/SKY_HIGH_TEEN_FHD/index.m3u8
-#EXTINF:-1 tvg-id="sky-high-toon-s-fhd" tvg-name="SKY HIGH TOON S FHD" tvg-logo="https://epg.iptvx.one/picons/sky-high-toon-s-fhd.png" group-title="Детские", SKY HIGH TOON S FHD
-#EXTGRP:Детские
-https://kino.zunotv.workers.dev/SKY_HIGH_TOON_S_FHD/index.m3u8
 #EXTINF:-1 tvg-id="sumiko" tvg-name="Sumiko" tvg-logo="http://epg.one/img/9181.png" group-title="Детские", Sumiko HD
 #EXTGRP:Детские
 http://cdn.kubteltv.workers.dev/?ID=343
 #EXTINF:-1 tvg-id="tiji" tvg-name="Tiji TV" tvg-logo="http://epg.one/img/555.png" group-title="Детские", Tiji TV
 #EXTGRP:Детские
-http://185.78.112.47:8077/TiJi/index.m3u8
-#EXTINF:-1 tvg-id="vf-eralash" tvg-name="VF Ералаш" tvg-logo="http://epg.one/img/7595.png" group-title="Детские", VF Ералаш
-#EXTGRP:Детские
-https://stream.zuno-tv.workers.dev/channel/9090/559cfdb2/index.m3u8
-#EXTINF:-1 tvg-id="vf-multfilmy-sssr" tvg-name="VF Мультфильмы СССР" tvg-logo="http://epg.one/img/4668.png" group-title="Детские", VF Мультфильмы СССР
-#EXTGRP:Детские
-https://stream.zuno-tv.workers.dev/channel/9090/dd63185/index.m3u8
-#EXTINF:-1 tvg-id="vf-nowogodmult" tvg-name="VF Новогодние мультфильмы" tvg-logo="http://epg.one/img/5996.png" group-title="Детские", VF Новогодние мультфильмы
-#EXTGRP:Детские
-https://stream.zuno-tv.workers.dev/channel/9090/292969e0/index.m3u8
-#EXTINF:-1 tvg-id="vf-soyuzmultfilm" tvg-name="VF Союзмультфильм" tvg-logo="http://epg.one/img/7594.png" group-title="Детские", VF Союзмультфильм
-#EXTGRP:Детские
-https://stream.zuno-tv.workers.dev/channel/9090/n2d6853a9/index.m3u8
-#EXTINF:-1 tvg-id="vf-cartoon" tvg-name="VF Cartoon" tvg-logo="http://epg.one/img/4593.png" group-title="Детские", VF Cartoon
-#EXTGRP:Детские
-https://stream.zuno-tv.workers.dev/channel/9090/74dfb4ca/index.m3u8
-#EXTINF:-1 tvg-id="vf-disney-cartoon" tvg-name="VF Disney Cartoon" tvg-logo="http://epg.one/img/7593.png" group-title="Детские", VF Disney Cartoon
-#EXTGRP:Детские
-https://stream.zuno-tv.workers.dev/channel/9090/6b3d5ca6/index.m3u8
-#EXTINF:-1 tvg-id="vf-vhs-cartoon" tvg-name="VF VHS Cartoon" tvg-logo="http://epg.one/img/4790.png" group-title="Детские", VF VHS Cartoon
-#EXTGRP:Детские
-https://stream.zuno-tv.workers.dev/channel/9090/n2661f275/index.m3u8
+http://194.152.35.17/tiji/index.m3u8
 
 
 
