@@ -1411,10 +1411,10 @@ https://ucdn.beetv.kz/bpk-tv/000005450/tve/index.m3u8
 http://176.118.197.101/Kinoseria/mono.m3u8
 #EXTINF:-1 tvg-id="kinouzhas" tvg-name="Киноужас" tvg-logo="http://epg.one/img/2493.png" group-title="Кино", Киноужас
 #EXTGRP:Кино
-http://185.78.112.47:8077/kinoujas/index.m3u8
+http://37.186.70.39:40/play/78/index.m3u8
 #EXTINF:-1 tvg-id="kinoxit" tvg-name="Кинохит" tvg-logo="http://epg.one/img/542.png" group-title="Кино", КИНОХИТ
 #EXTGRP:Кино
-http://185.78.112.47:8077/kinohit/index.m3u8
+http://46.32.176.50/kinoxit/index.m3u8
 #EXTINF:-1 tvg-id="klassika-kino" tvg-name="Классика Кино" tvg-logo="https://epg.iptvx.one/picons/klassika-kino.png" group-title="Кино", Классика Кино
 #EXTGRP:Кино
 http://stitch.teletarget.ru/vintera/movieclassic/index.m3u8
@@ -1435,7 +1435,7 @@ http://hls127.freeott.top:8080/Mosfilm/mono.m3u8
 http://cdn.kubteltv.workers.dev/?ID=353
 #EXTINF:-1 tvg-id="muzhskoe-kino" tvg-name="Мужское кино" tvg-logo="http://epg.one/img/1584.png" group-title="Кино", МУЖСКОЕ КИНО
 #EXTGRP:Кино
-http://185.78.112.47:8077/muzhskoe-kino_hd/index.m3u8
+http://46.32.176.50/MujskoeKinoHD/index.m3u8
 #EXTINF:-1 tvg-name="Наш киномир" tvg-logo="https://avatars.mds.yandex.net/i?id=b948c22c207c0e3a4e8301e7231b42b39a836461-5883734-images-thumbs&n=13" group-title="Кино", Наш киномир
 #EXTGRP:Кино
 http://hls127.freeott.top:8080/Nash_kinomir/video.m3u8
@@ -1466,9 +1466,6 @@ http://catchup.videoline.ru/asvtv/index.m3u8
 #EXTINF:-1 tvg-id="pobeda" tvg-name="Победа" tvg-logo="http://epg.one/img/2447.png" group-title="Кино", Победа
 #EXTGRP:Кино
 http://193.25.8.59:8000/tochka
-#EXTINF:-1 tvg-id="pobeda" tvg-name="Победа" tvg-logo="http://epg.one/img/2447.png" group-title="Кино", Победа HD
-#EXTGRP:Кино
-http://185.78.112.47:8077/pobeda_hd/index.m3u8
 #EXTINF:-1 tvg-id="premium-kino-kz" tvg-name="Премиум кино KZ" tvg-logo="https://iptvx.one/picons/premium-kino-kz.png" group-title="Кино", Премиум кино KZ
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000008491/tve/index.m3u8
@@ -1486,7 +1483,7 @@ http://176.118.197.101/RodnoeKino/index.m3u8
 http://hls127.freeott.top:8080/PG_Rukino_HD/mono.m3u8
 #EXTINF:-1 tvg-id="russkaya-komedia" tvg-name="Русская комедия" tvg-logo="http://epg.one/img/1620.png" group-title="Кино", Русская комедия
 #EXTGRP:Кино
-http://185.78.112.47:8077/comedy/index.m3u8
+http://176.118.197.101/Komediya/mono.m3u8
 #EXTINF:-1 tvg-id="russky-bestseller" tvg-name="Русский бестселлер" tvg-logo="http://epg.one/img/994.png" group-title="Кино", Русский бестселлер
 #EXTGRP:Кино
 https://flussonic.mkpnet.ru/tv-ccf8c891702508a7/video.m3u8
@@ -1502,9 +1499,6 @@ https://ucdn.beetv.kz/bpk-tv/000004207/tve/index.m3u8
 #EXTINF:-1 tvg-id="russky-roman" tvg-name="Русский роман" tvg-logo="http://epg.one/img/401.png" group-title="Кино", Русский роман
 #EXTGRP:Кино
 http://185.46.16.239:8000/Russkiy_roman
-#EXTINF:-1 tvg-id="russky-roman" tvg-name="Русский роман" tvg-logo="http://epg.one/img/401.png" group-title="Кино", Русский роман HD
-#EXTGRP:Кино
-http://185.78.112.47:8077/russki_roman_hd/index.m3u8
 #EXTINF:-1 tvg-id="sapfir" tvg-name="Сапфир" tvg-logo="http://epg.one/img/7315.png" group-title="Кино", Сапфир
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000008135/tve/index.m3u8
