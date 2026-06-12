@@ -342,6 +342,9 @@ https://flussonic.mkpnet.ru/tv-cf5a26a180f402ef/video.m3u8
 #EXTINF:-1 tvg-id="yu" tvg-name="Ю" tvg-logo="http://epg.one/img/898.png" group-title="Россия", Ю
 #EXTGRP:Россия
 https://flussonic.mkpnet.ru/tv-3b21847ece4b1c19/video.m3u8
+#EXTINF:-1 tvg-id="yu" tvg-name="Ю" tvg-logo="http://epg.one/img/898.png" group-title="Россия", Ю HD
+#EXTGRP:Россия
+https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?s=7PFV3wq6oYYpWGA5Z3go2Q&e=2074209217&scheme=https
 
 
 
@@ -863,6 +866,9 @@ http://195.26.83.96:7029/play/a003
 #EXTINF:-1 tvg-id="soyuz" tvg-name="Союз" tvg-logo="http://epg.one/img/2448.png" group-title="Познавательные", Союз
 #EXTGRP:Познавательные
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+#EXTINF:-1 tvg-id="tayna" tvg-name="Союз" tvg-logo="http://epg.one/img/2426.png" group-title="Познавательные", ТАЙНА
+#EXTGRP:Познавательные
+https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=v4oWHmeWLxRXizdT4iMNCg&e=2074209219&scheme=https
 #EXTINF:-1 tvg-name="ТАСС" tvg-logo="https://avatars.mds.yandex.net/i?id=e60e5cf5b5f0b2931e57c68bfd435bef596e41d6-5752088-images-thumbs&n=13" group-title="Познавательные", ТАСС
 #EXTGRP:Познавательные
 https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream_480p/playlist.m3u8
@@ -920,6 +926,9 @@ https://ucdn.beetv.kz/bpk-tv/000001880/tve/index.m3u8
 #EXTINF:-1 tvg-id="2na2" tvg-name="2x2" tvg-logo="http://epg.one/img/323.png" group-title="Познавательные", 2x2
 #EXTGRP:Познавательные
 http://185.78.112.47:8077/2x2/index.m3u8
+#EXTINF:-1 tvg-id="2na2" tvg-name="2x2" tvg-logo="http://epg.one/img/323.png" group-title="Познавательные", 2x2 HD
+#EXTGRP:Познавательные
+https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?s=ZBpjlEhdXYWSfKfKizUGSg&e=2074209217&scheme=https
 #EXTINF:-1 tvg-name="555 Hunt Fishing TV" tvg-logo="https://avatars.mds.yandex.net/i?id=635b73799daf216d5519050021039012e1e8254f-10349168-images-thumbs&n=13" group-title="Познавательные", 555 Hunt Fishing TV
 #EXTGRP:Познавательные
 http://193.169.178.29:8081/podsekaiTV/chanelHD1080/playlist.m3u8
