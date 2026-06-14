@@ -2021,6 +2021,9 @@ https://bl.rutube.ru/livestream/7a485ef5da9fe50ba939f36ca3e6ed96/index.m3u8?s=h-
 #EXTINF:-1 tvg-name="Pac 12 Insider USA" tvg-logo="https://i.imgur.com/736QREy.png" group-title="Спорт", Pac 12 Insider USA
 #EXTGRP:Спорт
 https://pac12-roku-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Poker Night TV" tvg-logo="https://avatars.mds.yandex.net/i?id=db8c760bd347d63acef0463dba83995b29c11630-4576282-images-thumbs&n=13" group-title="Спорт", Poker Night TV
+#EXTGRP:Спорт
+https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-60afc726623f2f002c5bb49f.m3u8
 #EXTINF:-1 tvg-name="Prosto Drive" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00349.png" group-title="Спорт", Prosto Drive
 #EXTGRP:Спорт
 http://iptv.prosto.tv:7000/ch326/video.m3u8
