@@ -1298,7 +1298,7 @@ https://ucdn.beetv.kz/bpk-tv/000008488/tve/index.m3u8
 http://hls127.freeott.top:8080/Mosfilm/mono.m3u8
 #EXTINF:-1 tvg-id="mosfilm" tvg-name="Мосфильм. Золотая коллекция" tvg-logo="http://epg.one/img/3357.png" group-title="Кино", Мосфильм. Золотая коллекция HD
 #EXTGRP:Кино
-http://cdn.kubteltv.workers.dev/?ID=353
+http://iptv46.mcx-ix.ru:8077/mosfilm/index.m3u8
 #EXTINF:-1 tvg-id="muzhskoe-kino" tvg-name="Мужское кино" tvg-logo="http://epg.one/img/1584.png" group-title="Кино", МУЖСКОЕ КИНО
 #EXTGRP:Кино
 http://46.32.176.50/MujskoeKinoHD/index.m3u8
@@ -1423,9 +1423,6 @@ http://hls127.freeott.top:8080/Bolt/mono.m3u8
 #EXTINF:-1 tvg-id="cinema-ru" tvg-name="Cinema HD" tvg-logo="http://epg.one/img/2754.png" group-title="Кино", Cinema HD
 #EXTGRP:Кино
 https://stream1.cinerama.uz/1227/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="detectivejam" tvg-name="DetectiveJam" tvg-logo="http://epg.one/img/7901.png" group-title="Кино", DetectiveJam HD
-#EXTGRP:Кино
-http://cdn.kubteltv.workers.dev/?ID=299
 #EXTINF:-1 tvg-id="epik-drama" tvg-name="Epic Drama" tvg-logo="http://epg.one/img/2229.png" group-title="Кино", Epic Drama
 #EXTGRP:Кино
 http://195.189.60.253/118/index.m3u8
@@ -1821,7 +1818,7 @@ http://46.32.176.50/bokstv/index.m3u8
 https://live.teleradiocom.tj/5/3m.m3u8
 #EXTINF:-1 tvg-id="voleybol" tvg-name="Волейбол" tvg-logo="https://epg.iptvx.one/picons/voleybol.png" group-title="Спорт", Волейбол HD
 #EXTGRP:Спорт
-http://cdn.kubteltv.workers.dev/?ID=444
+https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=4rfg4hzvwhuOkxvKpOgKTA&e=2074209265&scheme=https
 #EXTINF:-1 tvg-id="match-tv" tvg-name="Матч ТВ" tvg-logo="http://epg.one/img/2051.png" group-title="Спорт", Матч ТВ
 #EXTGRP:Спорт
 http://185.46.48.18:80/match/tracks-v1a1/mono.m3u8
@@ -1837,15 +1834,12 @@ http://46.32.176.50/MatchArenaHD/index.m3u8
 #EXTINF:-1 tvg-id="match-boets" tvg-name="Матч! Боец" tvg-logo="http://epg.one/img/2054.png" group-title="Спорт", Матч! Боец
 #EXTGRP:Спорт
 http://46.32.176.50/boets/index.m3u8
-#EXTINF:-1 tvg-id="match-boets" tvg-name="Матч! Боец HD" tvg-logo="http://epg.one/img/2054.png" group-title="Спорт", Матч! Боец HD
-#EXTGRP:Спорт
-http://cdn.kubteltv.workers.dev/?ID=112
 #EXTINF:-1 tvg-id="match-igra" tvg-name="Матч! Игра" tvg-logo="http://epg.one/img/2050.png" group-title="Спорт", Матч! Игра
 #EXTGRP:Спорт
 http://185.46.16.239:8000/Match_Igra
 #EXTINF:-1 tvg-id="match-igra" tvg-name="Матч! Игра" tvg-logo="http://epg.one/img/2050.png" group-title="Спорт", Матч! Игра HD
 #EXTGRP:Спорт
-http://cdn.kubteltv.workers.dev/?ID=111
+http://iptv46.mcx-ix.ru:8077/match_igra_hd/index.m3u8
 #EXTINF:-1 tvg-id="match-planeta" tvg-name="Матч! Планета" tvg-logo="http://epg.one/img/2043.png" group-title="Спорт", Матч! Планета
 #EXTGRP:Спорт
 http://93.84.115.174:10181/matchplaneta
@@ -1858,9 +1852,6 @@ http://iptv46.mcx-ix.ru:8077/nash_football_hd/index.m3u8
 #EXTINF:-1 tvg-id="match-nash-sport" tvg-name="Матч! Страна" tvg-logo="http://epg.one/img/2042.png" group-title="Спорт", МАТЧ! СТРАНА
 #EXTGRP:Спорт
 http://ukr.ukrainske.tv/134/keytvainua/video.m3u8
-#EXTINF:-1 tvg-id="match-nash-sport" tvg-name="Матч! Страна" tvg-logo="http://epg.one/img/2042.png" group-title="Спорт", МАТЧ! Страна HD
-#EXTGRP:Спорт
-http://cdn.kubteltv.workers.dev/?ID=110
 #EXTINF:-1 tvg-id="match-football1" tvg-name="Матч! Футбол 1" tvg-logo="http://epg.one/img/2044.png" group-title="Спорт", Матч! Футбол 1
 #EXTGRP:Спорт
 http://193.25.8.59:8000/fut
@@ -1882,9 +1873,6 @@ http://iptv46.mcx-ix.ru:8077/football3_hd/index.m3u8
 #EXTINF:-1 tvg-id="mir-basketbola" tvg-name="Мир баскетбола" tvg-logo="http://epg.one/img/4629.png" group-title="Спорт", Мир Баскетбола
 #EXTGRP:Спорт
 http://45.145.32.13:20440/mir_basketbola/index.m3u8?token=test
-#EXTINF:-1 tvg-id="footbolny" tvg-name="Мяч" tvg-logo="http://epg.one/img/4679.png" group-title="Спорт", Мяч HD
-#EXTGRP:Спорт
-http://cdn.kubteltv.workers.dev/?ID=404
 #EXTINF:-1 tvg-id="sportivny" tvg-name="ТВ Спорт" tvg-logo="http://epg.one/img/4678.png" group-title="Спорт", ТВ Спорт HD
 #EXTGRP:Спорт
 http://live-3.otcnet.ru/sportivny/index.m3u8
@@ -1900,9 +1888,6 @@ http://hls127.freeott.top:8080/Football/mono.m3u8
 #EXTINF:-1 tvg-id="football-tj" tvg-name="Футбол [TJ]" tvg-logo="https://epg.iptvx.one/picons/football-tj.png" group-title="Спорт", Футбол TJ
 #EXTGRP:Спорт
 https://live.teleradiocom.tj/8/3m.m3u8
-#EXTINF:-1 tvg-id="xokkejny" tvg-name="Хоккей ТВ" tvg-logo="http://epg.one/img/4605.png" group-title="Спорт", Хоккей ТВ HD
-#EXTGRP:Спорт
-http://cdn.kubteltv.workers.dev/?ID=405
 #EXTINF:-1 tvg-name="1TV Sport GE" tvg-logo="https://avatars.mds.yandex.net/i?id=49ca460f5223191d3603351e5e7de169453b298c-12714922-images-thumbs&n=13" group-title="Спорт", 1TV Sport GE
 #EXTGRP:Спорт
 https://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.ts.m3u8
