@@ -1065,9 +1065,6 @@ http://194.152.35.17/Karusel/index.m3u8
 #EXTINF:-1 tvg-id="karusel-int" tvg-name="Карусель International" tvg-logo="https://iptvx.one/picons/karusel.png" group-title="Детские", Карусель International
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000000781/tve/index.m3u8
-#EXTINF:-1 tvg-id="kinomult" tvg-name="Киномульт" tvg-logo="http://epg.one/img/9024.png" group-title="Детские", КиноМульт
-#EXTGRP:Детские
-http://cdn.kubteltv.workers.dev/?ID=346
 #EXTINF:-1 tvg-name="Ключайка" tvg-logo="https://avatars.mds.yandex.net/i?id=0a79d7b82f165a3245db9bb350b81902dafb234c-5214146-images-thumbs&n=13" group-title="Детские", Ключайка
 #EXTGRP:Детские
 https://bl.rutube.ru/livestream/ed497bdb28846536f3928849f8f7e469/index.m3u8?s=XMboX_N1XspO-2OT-qnF3Q&e=2074209252&scheme=https
@@ -1155,9 +1152,6 @@ http://hls127.freeott.top:8080/CPS_Cartoon/video.m3u8
 #EXTINF:-1 tvg-id="da-vinci" tvg-name="Da Vinci HD" tvg-logo="http://epg.one/img/8908.png" group-title="Детские", Da Vinci HD
 #EXTGRP:Детские
 http://hls127.freeott.top:8080/Da_Vinci_Learning/video.m3u8
-#EXTINF:-1 tvg-id="familyjam" tvg-name="FamilyJam" tvg-logo="http://epg.one/img/7902.png" group-title="Детские", FamilyJam HD
-#EXTGRP:Детские
-http://cdn.kubteltv.workers.dev/?ID=300
 #EXTINF:-1 tvg-id="gulli-girl" tvg-name="Gulli" tvg-logo="http://epg.one/img/810.png" group-title="Детские", Gulli
 #EXTGRP:Детские
 https://flussonic.mkpnet.ru/tv-d66fcf59f2f4c966/video.m3u8
@@ -1185,9 +1179,6 @@ https://hostrec.ru/live/wic2AtEFCLwsZcUkAgtZcjlYgjc.m3u8
 #EXTINF:-1 tvg-id="salemalem-kz" tvg-name="Sälem älem!" tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/28afaf58f765c2ebf009_250x250c.jpg" group-title="Детские", Sälem älem!
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000008864/tve/index.m3u8
-#EXTINF:-1 tvg-id="sumiko" tvg-name="Sumiko" tvg-logo="http://epg.one/img/9181.png" group-title="Детские", Sumiko HD
-#EXTGRP:Детские
-http://cdn.kubteltv.workers.dev/?ID=343
 #EXTINF:-1 tvg-id="tiji" tvg-name="Tiji TV" tvg-logo="http://epg.one/img/555.png" group-title="Детские", Tiji TV
 #EXTGRP:Детские
 http://194.152.35.17/tiji/index.m3u8
