@@ -537,9 +537,6 @@ https://ucdn.beetv.kz/bpk-tv/000000195/tve/index.m3u8
 #EXTINF:-1 tvg-id="vremia" tvg-name="Время" tvg-logo="http://epg.one/img/669.png" group-title="Познавательные", Время
 #EXTGRP:Познавательные
 http://46.32.176.50/Vremya/index.m3u8
-#EXTINF:-1 tvg-id="glazami-turista-4k" tvg-name="Глазами туриста 4K" tvg-logo="http://epg.one/img/5979.png" group-title="Познавательные", Глазами туриста 4K
-#EXTGRP:Познавательные
-http://cdn.kubteltv.workers.dev/?ID=342
 #EXTINF:-1 tvg-id="glazami-turista" tvg-name="Глазами туриста HD" tvg-logo="http://epg.one/img/2508.png" group-title="Познавательные", Глазами туриста HD
 #EXTGRP:Познавательные
 https://s70378.cdn.ngenix.net/glazami_turista/1/index.m3u8
@@ -911,7 +908,7 @@ https://stream8.cinerama.uz/1053/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1053/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="eda-hd" tvg-name="FoodTime" tvg-logo="http://epg.one/img/7635.png" group-title="Познавательные", FoodTime
 #EXTGRP:Познавательные
-http://cdn.kubteltv.workers.dev/?ID=457
+http://iptv46.mcx-ix.ru:8077/eda_hd/index.m3u8
 #EXTINF:-1 tvg-id="fox-news-us" tvg-name="FOX NEWS CHANNEL FHD" tvg-logo="http://epg.one/img/6683.png" group-title="Познавательные", FOX NEWS CHANNEL FHD
 #EXTGRP:Познавательные
 http://tv14s.xyz:8080/4bYr9R/770632/135794
@@ -992,13 +989,13 @@ http://hls127.freeott.top:8080/RTG_TV/mono.m3u8
 http://api.dommir.top/ch/RTVi_RU/playlist.m3u8?token=4893203acbcedddbddedd5f2033698b0
 #EXTINF:-1 tvg-id="russky-ekstrim" tvg-name="Russian Extreme HD" tvg-logo="http://epg.one/img/2497.png" group-title="Познавательные", Russian Extreme HD
 #EXTGRP:Познавательные
-http://cdn.kubteltv.workers.dev/?ID=358
+http://iptv46.mcx-ix.ru:8077/rus-extrim-hd/index.m3u8
 #EXTINF:-1 tvg-id="terra-ru" tvg-name="TERRA" tvg-logo="http://epg.one/img/7632.png" group-title="Познавательные", TERRA
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000008142/tve/index.m3u8
 #EXTINF:-1 tvg-id="the-explorers" tvg-name="The Explorers" tvg-logo="http://epg.one/img/9082.png" group-title="Познавательные", The Explorers
 #EXTGRP:Познавательные
-http://cdn.kubteltv.workers.dev/?ID=443
+https://s70378.cdn.ngenix.net/the_explorers/2/index.m3u8
 #EXTINF:-1 tvg-id="tlc" tvg-name="TLC" tvg-logo="http://epg.one/img/2345.png" group-title="Познавательные", TLC
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000001498/tve/index.m3u8
