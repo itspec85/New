@@ -233,7 +233,7 @@ https://ucdn.beetv.kz/bpk-tv/000001227/tve/index.m3u8
 http://185.46.16.239:8000/Pyatnitsa
 #EXTINF:-1 tvg-id="piatnica" tvg-name="Пятница! HD" tvg-logo="http://epg.one/img/2765.png" group-title="Россия", Пятница! HD
 #EXTGRP:Россия
-http://cdn.kubteltv.workers.dev/?ID=380
+https://bl.rutube.ru/livestream/9f87a9a0cecbe773be6fddcbd93585ac/index.m3u8?s=TOCZtoja06CDmfB2qI-6HQ&e=2074209215&scheme=https
 #EXTINF:-1 tvg-id="piatnica-int" tvg-name="Пятница International" tvg-logo="https://avatars.mds.yandex.net/i?id=6e89c0754d8e6800feb8f51ae53f5192eb27ea76-5222505-images-thumbs&n=13" group-title="Россия", Пятница International
 #EXTGRP:Россия
 https://ucdn.beetv.kz/bpk-tv/000007816/tve/index.m3u8
@@ -299,13 +299,13 @@ https://flussonic.mkpnet.ru/tv-b9f0884f9a81b8c6/video.m3u8
 http://217.114.191.150/Subbota/index.m3u8
 #EXTINF:-1 tvg-id="super" tvg-name="Суббота HD" tvg-logo="http://epg.one/img/2288.png" group-title="Россия", Суббота HD
 #EXTGRP:Россия
-http://cdn.kubteltv.workers.dev/?ID=136
+https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=XOeppIXq80B31LaV1xZkRA&e=2074209217&scheme=https
 #EXTINF:-1 tvg-id="tv3-ru" tvg-name="ТВ3" tvg-logo="http://epg.one/img/698.png" group-title="Россия", ТВ3
 #EXTGRP:Россия
 http://185.46.16.239:8000/TV3
 #EXTINF:-1 tvg-id="tv3-ru" tvg-name="ТВ3" tvg-logo="http://epg.one/img/698.png" group-title="Россия", ТВ3 HD
 #EXTGRP:Россия
-http://cdn.kubteltv.workers.dev/?ID=379
+https://bl.rutube.ru/livestream/7bf12d9c050f9a7ef3728db5730432ae/index.m3u8?s=wNORo4Q0sLdTsnZ4MdrJuQ&e=2074209216&scheme=https
 #EXTINF:-1 tvg-id="tv3-int" tvg-name="ТВ3 International" tvg-logo="https://avatars.mds.yandex.net/i?id=8eb6e54feabff4269b2b5bca31f0abdffeefb21a-7552730-images-thumbs&n=13" group-title="Россия", ТВ3 International
 #EXTGRP:Россия
 https://ucdn.beetv.kz/bpk-tv/000004712/tve/index.m3u8
@@ -323,7 +323,7 @@ https://ucdn.beetv.kz/bpk-tv/000000112/tve/index.m3u8
 http://46.32.64.39:10019
 #EXTINF:-1 tvg-id="tnt" tvg-name="ТНТ HD" tvg-logo="http://epg.one/img/1767.png" group-title="Россия", ТНТ HD
 #EXTGRP:Россия
-http://cdn.kubteltv.workers.dev/?ID=373
+https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=--ERKWFsV88icsLYD12oqA&e=2074209214&scheme=https
 #EXTINF:-1 tvg-id="tnt-int-cis" tvg-name="ТНТ-International (СНГ)" tvg-logo="http://epg.one/img/5692.png" group-title="Россия", ТНТ International (СНГ)
 #EXTGRP:Россия
 https://ucdn.beetv.kz/bpk-tv/000007833/tve/index.m3u8
