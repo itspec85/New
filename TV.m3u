@@ -1309,6 +1309,9 @@ http://hls127.freeott.top:8080/Nash_kinomir/video.m3u8
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
 https://mhd128.iptv2022.com/p/yFHwiviAra8-_RdLn31KcA,1781808653/streaming/nashpokaz/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="nashehd" tvg-name="Наше крутое HD" tvg-logo="http://epg.one/img/2018.png" group-title="Кино", Наше крутое HD
+#EXTGRP:Кино
+http://91.204.123.202/217/index.m3u8
 #EXTINF:-1 tvg-id="nashe-muzhskoe" tvg-name="Наше Мужское HD" tvg-logo="http://epg.one/img/2835.png" group-title="Кино", Наше Мужское HD
 #EXTGRP:Кино
 https://kino.zunotv.workers.dev/nashe_muzhskoe_hd/index.m3u8
