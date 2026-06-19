@@ -1430,6 +1430,9 @@ https://stream1.cinerama.uz/1227/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="epik-drama" tvg-name="Epic Drama" tvg-logo="http://epg.one/img/2229.png" group-title="Кино", Epic Drama
 #EXTGRP:Кино
 http://195.189.60.253/118/index.m3u8
+#EXTINF:-1 tvg-id="fanhd" tvg-name="FAN HD" tvg-logo="http://epg.one/img/2359.png" group-title="Кино", FAN HD
+#EXTGRP:Кино
+http://91.204.123.202/420/index.m3u8
 #EXTINF:-1 tvg-id="filmua-drama" tvg-name="Film.UA Drama" tvg-logo="http://epg.one/img/8911.png" group-title="Кино", Film UA Drama
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000003028/tve/index.m3u8
