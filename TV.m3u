@@ -1278,7 +1278,7 @@ http://46.32.176.50/kinosemya/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000005450/tve/index.m3u8
 #EXTINF:-1 tvg-id="kinoseria" tvg-name="Киносерия" tvg-logo="http://epg.one/img/799.png" group-title="Кино", КИНОСЕРИЯ
 #EXTGRP:Кино
-http://176.118.197.101/Kinoseria/mono.m3u8
+http://hls127.freeott.top:8080/Kinoseriya_HD/video.m3u8
 #EXTINF:-1 tvg-id="kinouzhas" tvg-name="Киноужас" tvg-logo="http://epg.one/img/2493.png" group-title="Кино", Киноужас
 #EXTGRP:Кино
 http://37.186.70.39:40/play/78/index.m3u8
@@ -1355,7 +1355,7 @@ http://hls127.freeott.top:8080/ProLubovHD/mono.m3u8
 http://176.118.197.101/Retro/mono.m3u8
 #EXTINF:-1 tvg-id="rodnoe-kino" tvg-name="Родное кино" tvg-logo="http://epg.one/img/12.png" group-title="Кино", РОДНОЕ КИНО
 #EXTGRP:Кино
-http://176.118.197.101/RodnoeKino/index.m3u8
+http://iptv46.mcx-ix.ru:8077/nashe-kino/index.m3u8
 #EXTINF:-1 tvg-id="rukino-hd" tvg-name="РуКино HD" tvg-logo="http://epg.one/img/4721.png" group-title="Кино", РуКино HD
 #EXTGRP:Кино
 http://hls127.freeott.top:8080/PG_Rukino_HD/mono.m3u8
@@ -1427,7 +1427,7 @@ https://flussonic.mkpnet.ru/tv-8f04998179283ee5/video.m3u8
 http://85.117.37.41/amedipremium/index.m3u8
 #EXTINF:-1 tvg-id="bollywood-hd" tvg-name="Bollywood HD" tvg-logo="http://epg.one/img/1395.png" group-title="Кино", Bollywood HD
 #EXTGRP:Кино
-http://176.118.197.101/Bollywood_HD/index.m3u8
+https://stream1.cinerama.uz/1444/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="bolt-ru" tvg-name="Bolt HD Россия" tvg-logo="http://epg.one/img/2138.png" group-title="Кино", Bolt HD Россия
 #EXTGRP:Кино
 http://hls127.freeott.top:8080/Bolt/mono.m3u8
