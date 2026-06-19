@@ -218,7 +218,7 @@ https://ucdn.beetv.kz/bpk-tv/000000079/tve/index.m3u8
 http://185.46.16.239:8000/OTR
 #EXTINF:-1 tvg-id="otr" tvg-name="ОТР HD" tvg-logo="http://epg.one/img/1000.png" group-title="Россия", ОТР HD
 #EXTGRP:Россия
-http://85.25.46.88:8000/play/29/index.m3u8
+https://bl.rutube.ru/livestream/faa934385b83f9e8a92f5484defae5fa/index.m3u8?s=A2y3x2QJum0Y9JnlHOW0Mw&e=2074209249&scheme=https
 #EXTINF:-1 tvg-id="pervy" tvg-name="Первый канал" tvg-logo="http://epg.one/img/146.png" group-title="Россия", Первый канал
 #EXTGRP:Россия
 https://flussonic.mkpnet.ru/tv-4f9598ab5f91dca4/video.m3u8
