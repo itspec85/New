@@ -1764,6 +1764,9 @@ http://kinowalk.hopto.org/wfliq_live
 #EXTINF:-1 tvg-name="Стримканал. ZubrilomFilm" tvg-logo="https://images.live.vkvideo.ru/user/18824582/avatar?change_time=1714643599&croped=1&mh=140&mw=140" group-title="Кинозал", Стримканал. ZubrilomFilm
 #EXTGRP:Кинозал
 http://kinowalk.hopto.org/zubrilomfilm_live
+#EXTINF:-1 tvg-id="cineman" tvg-name="CineMan" tvg-logo="http://epg.one/img/4682.png" group-title="Кинозал", CineMan
+#EXTGRP:Кинозал
+http://91.204.123.202:80/349/index.m3u8
 #EXTINF:-1 tvg-id="cineman-katastrofy" tvg-name="CineMan Катастрофы" tvg-logo="http://epg.one/img/5585.png" group-title="Кинозал", CineMan Катастрофы
 #EXTGRP:Кинозал
 http://91.204.123.202:80/471/index.m3u8
@@ -1788,12 +1791,27 @@ http://91.204.123.202:80/475/index.m3u8
 #EXTINF:-1 tvg-id="cineman-uzhasy" tvg-name="CineMan Ужасы" tvg-logo="http://epg.one/img/4688.png" group-title="Кинозал", CineMan Ужасы
 #EXTGRP:Кинозал
 http://91.204.123.202:80/355/index.m3u8
-
-#EXTINF:-1 tvg-id="cineman-melodrama" tvg-name="CineMan Melodrama" tvg-logo="http://epg.one/img/6711.png" group-title="Кинозал", CineMan Melodrama
+#EXTINF:-1 tvg-id="cineman-action" tvg-name="CineMan Action" tvg-logo="http://epg.one/img/4684.png" group-title="Кинозал", CineMan Action
+#EXTGRP:Кинозал
+http://91.204.123.202:80/351/index.m3u8
+#EXTINF:-1 tvg-id="cineman-marvel" tvg-name="CineMan Marvel" tvg-logo="http://epg.one/img/4687.png" group-title="Кинозал", CineMan Marvel
+#EXTGRP:Кинозал
+http://91.204.123.202:80/354/index.m3u8
+#EXTINF:-1 tvg-id="cineman-melodrama" tvg-name="CineMan Melodrama" tvg-logo="http://epg.one/img/4686.png" group-title="Кинозал", CineMan Melodrama
 #EXTGRP:Кинозал
 http://91.204.123.202:80/472/index.m3u8
-
-
+#EXTINF:-1 tvg-id="cineman-miniseries" tvg-name="CineMan MiniSeries" tvg-logo="http://epg.one/img/7150.png" group-title="Кинозал", CineMan MiniSeries
+#EXTGRP:Кинозал
+http://91.204.123.202:80/122/index.m3u8
+#EXTINF:-1 tvg-id="cineman-thriller" tvg-name="CineMan Thriller" tvg-logo="http://epg.one/img/4685.png" group-title="Кинозал", CineMan Thriller
+#EXTGRP:Кинозал
+http://91.204.123.202:80/352/index.m3u8
+#EXTINF:-1 tvg-id="cineman-top" tvg-name="CineMan Top" tvg-logo="http://epg.one/img/4683.png" group-title="Кинозал", CineMan Top
+#EXTGRP:Кинозал
+http://91.204.123.202:80/350/index.m3u8
+#EXTINF:-1 tvg-id="cineman-vhs" tvg-name="CineMan VHS" tvg-logo="http://epg.one/img/4690.png" group-title="Кинозал", CineMan VHS
+#EXTGRP:Кинозал
+http://91.204.123.202:80/474/index.m3u8
 #EXTINF:-1 tvg-name="CPS Action" tvg-logo="https://avatars.mds.yandex.net/i?id=d0cd0536644c44380ed9a5f1fc4f51bd2169a5dd-5335451-images-thumbs&n=13" group-title="Кинозал", CPS Action
 #EXTGRP:Кинозал
 http://hls127.freeott.top:8080/CPS_Action/video.m3u8
