@@ -1144,6 +1144,15 @@ http://176.118.197.101/Cartoon_Network/index.m3u8
 #EXTINF:-1 tvg-id="boomerang" tvg-name="Cartoonito" tvg-logo="http://epg.one/img/929.png" group-title="Детские", Cartoonito
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000000160/tve/index.m3u8
+#EXTINF:-1 tvg-id="cartoons-90" tvg-name="Cartoons 90" tvg-logo="http://epg.one/img/4728.png" group-title="Детские", Cartoons 90
+#EXTGRP:Детские
+http://91.204.123.202:80/484/index.m3u8
+#EXTINF:-1 tvg-id="cartoons-big" tvg-name="Cartoons Big" tvg-logo="http://epg.one/img/4730.png" group-title="Детские", Cartoons Big
+#EXTGRP:Детские
+http://91.204.123.202:80/348/index.m3u8
+#EXTINF:-1 tvg-id="cartoons-short" tvg-name="Cartoons Short" tvg-logo="http://epg.one/img/4729.png" group-title="Детские", Cartoons Short
+#EXTGRP:Детские
+http://91.204.123.202:80/347/index.m3u8
 #EXTINF:-1 tvg-name="CPS Anime" tvg-logo="https://avatars.mds.yandex.net/i?id=d0cd0536644c44380ed9a5f1fc4f51bd2169a5dd-5335451-images-thumbs&n=13" group-title="Детские", CPS Anime
 #EXTGRP:Детские
 http://hls127.freeott.top:8080/CPS_Anime/video.m3u8
@@ -1764,6 +1773,9 @@ http://kinowalk.hopto.org/wfliq_live
 #EXTINF:-1 tvg-name="Стримканал. ZubrilomFilm" tvg-logo="https://images.live.vkvideo.ru/user/18824582/avatar?change_time=1714643599&croped=1&mh=140&mw=140" group-title="Кинозал", Стримканал. ZubrilomFilm
 #EXTGRP:Кинозал
 http://kinowalk.hopto.org/zubrilomfilm_live
+#EXTINF:-1 tvg-id="bcu-sssr" tvg-name="BCU СССР HD" tvg-logo="http://epg.one/img/4747.png" group-title="Кинозал", BCU СССР HD
+#EXTGRP:Кинозал
+http://91.204.123.202:80/488/index.m3u8
 #EXTINF:-1 tvg-id="cineman" tvg-name="CineMan" tvg-logo="http://epg.one/img/4682.png" group-title="Кинозал", CineMan
 #EXTGRP:Кинозал
 http://91.204.123.202:80/349/index.m3u8
