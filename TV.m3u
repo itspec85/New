@@ -1153,6 +1153,9 @@ http://hls127.freeott.top:8080/CPS_Cartoon/video.m3u8
 #EXTINF:-1 tvg-id="da-vinci" tvg-name="Da Vinci HD" tvg-logo="http://epg.one/img/8908.png" group-title="Детские", Da Vinci HD
 #EXTGRP:Детские
 http://hls127.freeott.top:8080/Da_Vinci_Learning/video.m3u8
+#EXTINF:-1 tvg-id="fresh-kids" tvg-name="Fresh Kids" tvg-logo="http://epg.one/img/6128.png" group-title="Детские", Fresh Kids
+#EXTGRP:Детские
+http://91.204.123.202:80/425/index.m3u8
 #EXTINF:-1 tvg-id="gulli-girl" tvg-name="Gulli" tvg-logo="http://epg.one/img/810.png" group-title="Детские", Gulli
 #EXTGRP:Детские
 https://flussonic.mkpnet.ru/tv-d66fcf59f2f4c966/video.m3u8
@@ -1785,6 +1788,42 @@ http://hls127.freeott.top:8080/CPS_Investigation/video.m3u8
 #EXTINF:-1 tvg-name="CPS Mix" tvg-logo="https://avatars.mds.yandex.net/i?id=d0cd0536644c44380ed9a5f1fc4f51bd2169a5dd-5335451-images-thumbs&n=13" group-title="Кинозал", CPS Mix
 #EXTGRP:Кинозал
 http://hls127.freeott.top:8080/CPS_Mix/video.m3u8
+#EXTINF:-1 tvg-id="fresh-adventure" tvg-name="Fresh Adventure" tvg-logo="http://epg.one/img/6719.png" group-title="Кинозал", Fresh Adventure
+#EXTGRP:Кинозал
+http://91.204.123.202:80/432/index.m3u8
+#EXTINF:-1 tvg-id="fresh-cinema" tvg-name="Fresh Cinema" tvg-logo="http://epg.one/img/6105.png" group-title="Кинозал", Fresh Cinema
+#EXTGRP:Кинозал
+http://91.204.123.202:80/423/index.m3u8
+#EXTINF:-1 tvg-id="fresh-comedy" tvg-name="Fresh Comedy" tvg-logo="http://epg.one/img/6711.png" group-title="Кинозал", Fresh Comedy
+#EXTGRP:Кинозал
+http://91.204.123.202:80/426/index.m3u8
+#EXTINF:-1 tvg-id="fresh-family" tvg-name="Fresh Family" tvg-logo="http://epg.one/img/6713.png" group-title="Кинозал", Fresh Family
+#EXTGRP:Кинозал
+http://91.204.123.202:80/427/index.m3u8
+#EXTINF:-1 tvg-id="fresh-fantastic" tvg-name="Fresh Fantastic" tvg-logo="http://epg.one/img/6716.png" group-title="Кинозал", Fresh Fantastic
+#EXTGRP:Кинозал
+http://91.204.123.202:80/429/index.m3u8
+#EXTINF:-1 tvg-id="fresh-horror" tvg-name="Fresh Horror" tvg-logo="http://epg.one/img/6718.png" group-title="Кинозал", Fresh Horror
+#EXTGRP:Кинозал
+http://91.204.123.202:80/431/index.m3u8
+#EXTINF:-1 tvg-id="fresh-premiere" tvg-name="Fresh Premiere" tvg-logo="http://epg.one/img/6712.png" group-title="Кинозал", Fresh Premiere
+#EXTGRP:Кинозал
+http://91.204.123.202:80/424/index.m3u8
+#EXTINF:-1 tvg-id="fresh-rating" tvg-name="Fresh Rating" tvg-logo="http://epg.one/img/6714.png" group-title="Кинозал", Fresh Rating
+#EXTGRP:Кинозал
+http://91.204.123.202:80/422/index.m3u8
+#EXTINF:-1 tvg-id="fresh-romatic" tvg-name="Fresh Romantic" tvg-logo="http://epg.one/img/6720.png" group-title="Кинозал", Fresh Romantic
+#EXTGRP:Кинозал
+http://91.204.123.202:80/433/index.m3u8
+#EXTINF:-1 tvg-id="fresh-series" tvg-name="Fresh Series" tvg-logo="http://epg.one/img/6717.png" group-title="Кинозал", Fresh Series
+#EXTGRP:Кинозал
+http://91.204.123.202:80/430/index.m3u8
+#EXTINF:-1 tvg-id="fresh-thriller" tvg-name="Fresh Thriller" tvg-logo="http://epg.one/img/6722.png" group-title="Кинозал", Fresh Thriller
+#EXTGRP:Кинозал
+http://91.204.123.202:80/434/index.m3u8
+#EXTINF:-1 tvg-id="fresh-vhs" tvg-name="Fresh VHS" tvg-logo="http://epg.one/img/6715.png" group-title="Кинозал", Fresh VHS
+#EXTGRP:Кинозал
+http://91.204.123.202:80/428/index.m3u8
 #EXTINF:-1 tvg-name="IPTVPLAY Ведьмак" tvg-logo="https://i123.fastpic.org/big/2024/0826/01/adbb4692281cf3cc6540f47f4460c701.png" group-title="Кинозал", IPTVPLAY Ведьмак
 #EXTGRP:Кинозал
 http://5.188.158.65:4040/IPTVPLAYVEDMAK.tv/video.m3u8?token=lqRGka5-YwwqF0
