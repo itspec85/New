@@ -1934,7 +1934,7 @@ https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=4r
 http://iptv46.mcx-ix.ru:8077/match/index.m3u8
 #EXTINF:-1 tvg-id="match-tv" tvg-name="Матч ТВ HD" tvg-logo="http://epg.one/img/2051.png" group-title="Спорт", Матч ТВ HD
 #EXTGRP:Спорт
-http://iptv46.mcx-ix.ru:8077/match_hd/index.m3u8
+http://46.32.176.50/MatchTVHD/index.m3u8
 #EXTINF:-1 tvg-id="match-arena" tvg-name="Матч! Арена" tvg-logo="http://epg.one/img/2003.png" group-title="Спорт", Матч! Арена
 #EXTGRP:Спорт
 https://flussonic.mkpnet.ru/tv-9dda1dd9d740a9a4/video.m3u8
