@@ -1054,9 +1054,6 @@ http://46.32.176.50/detskiymir/index.m3u8
 #EXTINF:-1 tvg-id="detkinoint-tviksel" tvg-name="Детское кино International" tvg-logo="http://epg.one/img/6261.png" group-title="Детские", Детское кино International
 #EXTGRP:Детские
 https://v2.catcast.tv/content/38720/index.m3u8
-#EXTINF:-1 tvg-name="Ералаш" tvg-logo="https://avatars.mds.yandex.net/i?id=c6f5bc2f73653d3a20399ad99adef4d3378d348e-10255460-images-thumbs&n=13" group-title="Детские", Ералаш HD
-#EXTGRP:Детские
-https://live20.bozztv.com/giatvplayout7/ushba8/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ginger-hd" tvg-name="Капитан Фантастика" tvg-logo="http://epg.one/img/2438.png" group-title="Детские", Капитан Фантастика
 #EXTGRP:Детские
 https://stream8.cinerama.uz/1406/tracks-v1a1/mono.m3u8
