@@ -1934,7 +1934,7 @@ https://live.teleradiocom.tj/5/3m.m3u8
 https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=4rfg4hzvwhuOkxvKpOgKTA&e=2074209265&scheme=https
 #EXTINF:-1 tvg-id="match-tv" tvg-name="Матч ТВ" tvg-logo="http://epg.one/img/2051.png" group-title="Спорт", Матч ТВ
 #EXTGRP:Спорт
-http://185.46.48.18:80/match/tracks-v1a1/mono.m3u8
+http://iptv46.mcx-ix.ru:8077/match/index.m3u8
 #EXTINF:-1 tvg-id="match-tv" tvg-name="Матч ТВ HD" tvg-logo="http://epg.one/img/2051.png" group-title="Спорт", Матч ТВ HD
 #EXTGRP:Спорт
 http://iptv46.mcx-ix.ru:8077/match_hd/index.m3u8
