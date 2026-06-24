@@ -1425,7 +1425,7 @@ http://hls127.freeott.top:8080/Amedia_2_HD/video.m3u8
 https://flussonic.mkpnet.ru/tv-8f04998179283ee5/video.m3u8
 #EXTINF:-1 tvg-id="amedia-premium" tvg-name="Amedia Premium" tvg-logo="http://epg.one/img/1372.png" group-title="Кино", Amedia Premium
 #EXTGRP:Кино
-http://85.117.37.41/amedipremium/index.m3u8
+https://s70378.cdn.ngenix.net/amedia_premium_hd/3/index.m3u8
 #EXTINF:-1 tvg-id="bollywood-hd" tvg-name="Bollywood HD" tvg-logo="http://epg.one/img/1395.png" group-title="Кино", Bollywood HD
 #EXTGRP:Кино
 https://stream1.cinerama.uz/1444/tracks-v1a1/mono.m3u8
@@ -1446,7 +1446,7 @@ http://91.204.123.202/420/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000003028/tve/index.m3u8
 #EXTINF:-1 tvg-id="filmbox-ru" tvg-name="FilmBox Russia" tvg-logo="http://epg.one/img/2181.png" group-title="Кино", FilmBox
 #EXTGRP:Кино
-http://213.169.39.30:5009
+https://s70378.cdn.ngenix.net/filmbox/2/index.m3u8
 #EXTINF:-1 tvg-id="filmbox-arthouse" tvg-name="FilmBox ArtHouse" tvg-logo="http://epg.one/img/2182.png" group-title="Кино", FilmBox ArtHouse
 #EXTGRP:Кино
 https://prosto.zuno-tv.workers.dev/stream/id111/video.m3u8
@@ -1461,7 +1461,7 @@ https://ucdn.beetv.kz/bpk-tv/000004472/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000004471/tve/index.m3u8
 #EXTINF:-1 tvg-id="hollywood" tvg-name="Hollywood" tvg-logo="http://epg.one/img/608.png" group-title="Кино", Hollywood
 #EXTGRP:Кино
-http://37.46.49.14:18010/play/a09n/index.m3u8
+http://5.188.159.128:8070/HOLLYWOOD_HD/index.m3u8
 #EXTINF:-1 tvg-id="hollywood-hd" tvg-name="Hollywood HD" tvg-logo="http://epg.one/img/934.png" group-title="Кино", Hollywood HD
 #EXTGRP:Кино
 http://46.32.176.50/HollywoodHD/index.m3u8
@@ -1477,15 +1477,15 @@ http://sirius.greenhosting.ru/Kino24Ru/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="nsc+" tvg-logo="https://avatars.mds.yandex.net/i?id=9e0e17abb257685d9b30fcdc31730c0ef3723ad5-4797777-images-thumbs&n=13" group-title="Кино", nsc+
 #EXTGRP:Кино
 http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
-#EXTINF:-1 tvg-id="plan-b" tvg-name="Plan B HD" tvg-logo="http://epg.one/img/6643.png" group-title="Кино", Plan B HD
-#EXTGRP:Кино
-https://ucdn.beetv.kz/bpk-tv/000007625/tve/index.m3u8
 #EXTINF:-1 tvg-id="paradise-hd" tvg-name="Paradise HD" tvg-logo="http://epg.one/img/4725.png" group-title="Кино", Paradise HD
 #EXTGRP:Кино
 http://hls127.freeott.top:8080/PG_Paradise_HD/mono.m3u8
 #EXTINF:-1 tvg-id="paradox-hd" tvg-name="Paradox HD" tvg-logo="http://epg.one/img/4723.png" group-title="Кино", Paradox HD
 #EXTGRP:Кино
 http://hls127.freeott.top:8080/PG_Paradox_HD/mono.m3u8
+#EXTINF:-1 tvg-id="plan-b" tvg-name="Plan B HD" tvg-logo="http://epg.one/img/6643.png" group-title="Кино", Plan B HD
+#EXTGRP:Кино
+http://46.32.176.50/paramountchannel/index.m3u8
 #EXTINF:-1 tvg-id="premiere-hd" tvg-name="Premiere HD" tvg-logo="http://epg.one/img/4719.png" group-title="Кино", Premier HD
 #EXTGRP:Кино
 http://hls127.freeott.top:8080/PG_Premiere_HD/mono.m3u8
