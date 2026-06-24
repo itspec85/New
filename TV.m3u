@@ -2002,21 +2002,9 @@ http://app-plus.live:80/9680723188/kyft6ks0g7gr7uw0xio6/196803
 #EXTINF:-1 tvg-id="bein-sports-1-tr" tvg-name="beIN Sports 1 [TR]" tvg-logo="http://epg.one/img/3873.png" group-title="Спорт", beIN Sports 1 FHD TR
 #EXTGRP:Спорт
 http://app-plus.live:80/9680723188/kyft6ks0g7gr7uw0xio6/1162644
-#EXTINF:-1 tvg-id="bein-sports-2-tr" tvg-name="beIN Sports 2 [TR]" tvg-logo="http://epg.one/img/3874.png" group-title="Спорт", beIN Sports 2 FHD TR
-#EXTGRP:Спорт
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivebs2.m3u8
-#EXTINF:-1 tvg-id="bein-sports-3-tr" tvg-name="beIN Sports 3 [TR]" tvg-logo="http://epg.one/img/3876.png" group-title="Спорт", beIN Sports 3 FHD TR
-#EXTGRP:Спорт
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivebs3.m3u8
-#EXTINF:-1 tvg-id="bein-sports-4-tr" tvg-name="beIN Sports 4 [TR]" tvg-logo="http://epg.one/img/3878.png" group-title="Спорт", beIN Sports 4 FHD TR
-#EXTGRP:Спорт
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivebs4.m3u8
-#EXTINF:-1 tvg-id="bein-sports-5-tr" tvg-name="beIN Sports 5 [TR]" tvg-logo="http://epg.one/img/3050.png" group-title="Спорт", beIN Sports 5 FHD TR
-#EXTGRP:Спорт
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivebs5.m3u8
 #EXTINF:-1 tvg-id="cbc-sport" tvg-name="CBC Sport" tvg-logo="http://epg.one/img/2636.png" group-title="Спорт", CBC Sport AZ
 #EXTGRP:Спорт
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivecbcs.m3u8
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=380862&extension=ts
 #EXTINF:-1 tvg-name="DAZN Combat" tvg-logo="https://i.postimg.cc/VsW3Jsrz/logo-DAZN-Combat.png" group-title="Спорт", DAZN Combat
 #EXTGRP:Спорт
 https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
@@ -2172,13 +2160,13 @@ https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c
 https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="tivibu-spor-1" tvg-name="Tivibu Spor 1 [TR]" tvg-logo="https://epg.iptvx.one/picons/tivibu-spor-1.png" group-title="Спорт", Tivibu Spor 1 HD TR
 #EXTGRP:Спорт
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivets1.m3u8
+http://app-plus.live:80/9680723188/kyft6ks0g7gr7uw0xio6/157122
 #EXTINF:-1 tvg-id="tivibu-spor-2" tvg-name="Tivibu Spor 2 [TR]" tvg-logo="https://epg.iptvx.one/picons/tivibu-spor-2.png" group-title="Спорт", Tivibu Spor 2 HD TR
 #EXTGRP:Спорт
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivets2.m3u8
+http://app-plus.live:80/9680723188/kyft6ks0g7gr7uw0xio6/157123
 #EXTINF:-1 tvg-id="tivibu-spor-3" tvg-name="Tivibu Spor 3 [TR]" tvg-logo="https://epg.iptvx.one/picons/tivibu-spor-3.png" group-title="Спорт", Tivibu Spor 3 HD TR
 #EXTGRP:Спорт
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivets3.m3u8
+http://app-plus.live:80/9680723188/kyft6ks0g7gr7uw0xio6/54288
 #EXTINF:-1 tvg-id="trace-sport-stars" tvg-name="Trace Sport Stars HD" tvg-logo="http://epg.one/img/7507.png" group-title="Спорт", Trace Sport Stars HD
 #EXTGRP:Спорт
 https://stream8.cinerama.uz/1274/tracks-v1a1/mono.m3u8
