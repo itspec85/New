@@ -2016,13 +2016,10 @@ https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/playl
 http://cord-cutter.net:8080/LeeAv21/AvantL12/14197
 #EXTINF:-1 tvg-id="eurosport1" tvg-name="Eurosport 1" tvg-logo="http://epg.one/img/2052.png" group-title="Спорт", Eurosport 1
 #EXTGRP:Спорт
-http://85.117.37.41/eurosport1/index.m3u8
+http://178.134.1.158:8081/eurosport/index.m3u8
 #EXTINF:-1 tvg-id="eurosport1" tvg-name="Eurosport 1 HD" tvg-logo="http://epg.one/img/2052.png" group-title="Спорт", Eurosport 1 HD
 #EXTGRP:Спорт
 https://ucdn.beetv.kz/bpk-tv/000002478/tve/index.m3u8
-#EXTINF:-1 tvg-id="eurosport1-pl" tvg-name="Eurosport 1 HD [PL]" tvg-logo="http://epg.one/img/2052.png" group-title="Спорт", Eurosport 1 RS (Сербия)
-#EXTGRP:Спорт
-http://169.150.223.25/Eurosport1HD/index.m3u8
 #EXTINF:-1 tvg-name="Eurosport 1 TR" tvg-logo="http://epg.one/img/2052.png" group-title="Спорт", Eurosport 1 TR
 #EXTGRP:Спорт
 http://app-plus.live:80/9680723188/kyft6ks0g7gr7uw0xio6/196844
@@ -2032,9 +2029,6 @@ http://46.32.176.50/eurosport2/index.m3u8
 #EXTINF:-1 tvg-id="eurosport2" tvg-name="Eurosport 2 HD" tvg-logo="http://epg.one/img/4313.png" group-title="Спорт", Eurosport 2 HD
 #EXTGRP:Спорт
 https://ucdn.beetv.kz/bpk-tv/000002479/tve/index.m3u8
-#EXTINF:-1 tvg-id="eurosport2-pl" tvg-name="Eurosport 2 HD [PL]" tvg-logo="http://epg.one/img/4313.png" group-title="Спорт", Eurosport 2 RS (Сербия)
-#EXTGRP:Спорт
-http://169.150.223.25/Eurosport2HD/index.m3u8
 #EXTINF:-1 tvg-name="Eurosport 2 TR" tvg-logo="http://epg.one/img/4313.png" group-title="Спорт", Eurosport 2 TR
 #EXTGRP:Спорт
 http://app-plus.live:80/9680723188/kyft6ks0g7gr7uw0xio6/196845
@@ -2110,12 +2104,6 @@ https://ucdn.beetv.kz/bpk-tv/000003038/tve/index.m3u8
 #EXTINF:-1 tvg-name="Red Bull TV" tvg-logo="http://epg.one/img/6039.png" group-title="Спорт", Red Bull TV
 #EXTGRP:Спорт
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 tvg-id="s-sport-tr" tvg-name="S Sport [TR]" tvg-logo="http://epg.one/img/3881.png" group-title="Спорт", S Sport HD TR
-#EXTGRP:Спорт
-http://app-plus.live:80/9680723188/kyft6ks0g7gr7uw0xio6/196856
-#EXTINF:-1 tvg-id="s-sport-2-tr" tvg-name="S Sport 2 [TR]" tvg-logo="http://epg.one/img/3881.png" group-title="Спорт", S Sport 2 HD TR
-#EXTGRP:Спорт
-http://app-plus.live:80/9680723188/kyft6ks0g7gr7uw0xio6/196857
 #EXTINF:-1 tvg-id="setanta-kz" tvg-name="Setanta Qazaqstan HD" tvg-logo="http://epg.one/img/2630.png" group-title="Спорт", Setanta Qazaqstan HD
 #EXTGRP:Спорт
 https://ucdn.beetv.kz/bpk-tv/000002649/tve/index.m3u8
