@@ -427,12 +427,24 @@ http://95.47.155.244:8001/play/a016
 #EXTINF:-1 tvg-id="piatnica-pl7" tvg-name="Пятница +7" tvg-logo="http://epg.one/img/3018.png" group-title="Россия плюсовые", Пятница +7
 #EXTGRP:Россия плюсовые
 http://stream-tv-digital.hf.space/channel/624.m3u8
+#EXTINF:-1 tvg-id="5kanal-ru-pl2" tvg-name="Пятый канал +2" tvg-logo="http://epg.one/img/2035.png" group-title="Россия плюсовые", Пятый канал +2
+#EXTGRP:Россия плюсовые
+http://stream-tv-digital.hf.space/channel/625.m3u8
 #EXTINF:-1 tvg-id="5kanal-ru-pl4" tvg-name="Пятый канал +4" tvg-logo="http://epg.one/img/3030.png" group-title="Россия плюсовые", Пятый канал +4
 #EXTGRP:Россия плюсовые
 http://95.47.155.244:8001/play/a005
+#EXTINF:-1 tvg-id="5kanal-ru-pl7" tvg-name="Пятый канал +7" tvg-logo="http://epg.one/img/3031.png" group-title="Россия плюсовые", Пятый канал +7
+#EXTGRP:Россия плюсовые
+http://stream-tv-digital.hf.space/channel/626.m3u8
+#EXTINF:-1 tvg-id="rentv-pl2" tvg-name="Рен ТВ +2" tvg-logo="http://epg.one/img/2037.png" group-title="Россия плюсовые", Рен ТВ +2
+#EXTGRP:Россия плюсовые
+http://stream-tv-digital.hf.space/channel/628.m3u8
 #EXTINF:-1 tvg-id="rentv-pl4" tvg-name="Рен ТВ +4" tvg-logo="http://epg.one/img/3033.png" group-title="Россия плюсовые", Рен ТВ +4
 #EXTGRP:Россия плюсовые
 http://95.47.155.244:8001/play/a011
+#EXTINF:-1 tvg-id="rentv-pl7" tvg-name="Рен ТВ +7" tvg-logo="http://epg.one/img/3034.png" group-title="Россия плюсовые", Рен ТВ +7
+#EXTGRP:Россия плюсовые
+http://stream-tv-digital.hf.space/channel/629.m3u8
 #EXTINF:-1 tvg-id="rossia1" tvg-shift="-1" tvg-name="Россия 1 +1" tvg-logo="http://epg.one/img/711.png" group-title="Россия плюсовые", Россия 1 +1
 #EXTGRP:Россия плюсовые
 http://stream.smotrim.ru/hls/russia1_plus1/playlist_3.m3u8
@@ -511,12 +523,36 @@ http://176.118.197.101/CTC/index.m3u8
 #EXTINF:-1 tvg-id="sts-pl4" tvg-name="СТС +4" tvg-logo="http://epg.one/img/3008.png" group-title="Россия плюсовые", СТС +4
 #EXTGRP:Россия плюсовые
 http://95.47.155.244:8001/play/a013
+#EXTINF:-1 tvg-id="sts-pl7" tvg-name="СТС +7" tvg-logo="http://epg.one/img/3009.png" group-title="Россия плюсовые", СТС +7
+#EXTGRP:Россия плюсовые
+http://stream-tv-digital.hf.space/channel/658.m3u8
+#EXTINF:-1 tvg-id="super" tvg-shift="-2" tvg-name="Суббота +2" tvg-logo="http://epg.one/img/7976.png" group-title="Россия плюсовые", Суббота +2
+#EXTGRP:Россия плюсовые
+http://stream-tv-digital.hf.space/channel/663.m3u8
+#EXTINF:-1 tvg-id="super" tvg-shift="-4" tvg-name="Суббота +4" tvg-logo="http://epg.one/img/7977.png" group-title="Россия плюсовые", Суббота +4
+#EXTGRP:Россия плюсовые
+http://stream-tv-digital.hf.space/channel/140.m3u8
+#EXTINF:-1 tvg-id="super" tvg-shift="-7" tvg-name="Суббота +7" tvg-logo="http://epg.one/img/1103.png" group-title="Россия плюсовые", Суббота +7
+#EXTGRP:Россия плюсовые
+http://stream-tv-digital.hf.space/channel/664.m3u8
+#EXTINF:-1 tvg-id="tv3-ru-pl2" tvg-name="ТВ3 +2" tvg-logo="http://epg.one/img/3013.png" group-title="Россия плюсовые", ТВ3 +2
+#EXTGRP:Россия плюсовые
+http://stream-tv-digital.hf.space/channel/667.m3u8
 #EXTINF:-1 tvg-id="tv3-ru-pl4" tvg-name="ТВ3 +4" tvg-logo="http://epg.one/img/3014.png" group-title="Россия плюсовые", ТВ3 +4
 #EXTGRP:Россия плюсовые
 http://95.47.155.244:8001/play/a015
+#EXTINF:-1 tvg-id="tv3-ru-pl7" tvg-name="ТВ3 +7" tvg-logo="http://epg.one/img/3015.png" group-title="Россия плюсовые", ТВ3 +7
+#EXTGRP:Россия плюсовые
+http://stream-tv-digital.hf.space/channel/668.m3u8
+#EXTINF:-1 tvg-id="tvcentr-pl2" tvg-name="ТВЦ +2" tvg-logo="http://epg.one/img/2038.png" group-title="Россия плюсовые", ТВЦ +2
+#EXTGRP:Россия плюсовые
+http://stream-tv-digital.hf.space/channel/669.m3u8
 #EXTINF:-1 tvg-id="tvcentr-pl4" tvg-name="ТВЦ +4" tvg-logo="http://epg.one/img/3037.png" group-title="Россия плюсовые", ТВЦ +4
 #EXTGRP:Россия плюсовые
 http://95.47.155.244:8001/play/a010
+#EXTINF:-1 tvg-id="tvcentr-pl7" tvg-name="ТВЦ +7" tvg-logo="http://epg.one/img/3038.png" group-title="Россия плюсовые", ТВЦ +7
+#EXTGRP:Россия плюсовые
+http://stream-tv-digital.hf.space/channel/670.m3u8
 #EXTINF:-1 tvg-id="tnt-pl2" tvg-name="ТНТ +2" tvg-logo="http://epg.one/img/3022.png" group-title="Россия плюсовые", ТНТ +2
 #EXTGRP:Россия плюсовые
 http://176.118.197.101/THT/index.m3u8
