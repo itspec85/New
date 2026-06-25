@@ -559,9 +559,36 @@ http://176.118.197.101/THT/index.m3u8
 #EXTINF:-1 tvg-id="tnt-pl4" tvg-name="ТНТ +4" tvg-logo="http://epg.one/img/3023.png" group-title="Россия плюсовые", ТНТ +4
 #EXTGRP:Россия плюсовые
 http://95.47.155.244:8001/play/a019
+#EXTINF:-1 tvg-id="tnt-pl7" tvg-name="ТНТ +7" tvg-logo="http://epg.one/img/3024.png" group-title="Россия плюсовые", ТНТ +7
+#EXTGRP:Россия плюсовые
+http://stream-tv-digital.hf.space/channel/681.m3u8
+#EXTINF:-1 tvg-id="tnt4-pl2" tvg-name="ТНТ4 +2" tvg-logo="http://epg.one/img/7978.png" group-title="Россия плюсовые", ТНТ4 +2
+#EXTGRP:Россия плюсовые
+http://stream-tv-digital.hf.space/channel/682.m3u8
+#EXTINF:-1 tvg-id="tnt4-pl4" tvg-name="ТНТ4 +4" tvg-logo="http://epg.one/img/7979.png" group-title="Россия плюсовые", ТНТ4 +4
+#EXTGRP:Россия плюсовые
+http://stream-tv-digital.hf.space/channel/182.m3u8
+#EXTINF:-1 tvg-id="tnt4-pl7" tvg-name="ТНТ4 +7" tvg-logo="http://epg.one/img/1104.png" group-title="Россия плюсовые", ТНТ4 +7
+#EXTGRP:Россия плюсовые
+http://stream-tv-digital.hf.space/channel/683.m3u8
+#EXTINF:-1 tvg-id="che-pl2" tvg-name="Че +2" tvg-logo="http://epg.one/img/1598.png" group-title="Россия плюсовые", Че +2
+#EXTGRP:Россия плюсовые
+http://stream-tv-digital.hf.space/channel/688.m3u8
 #EXTINF:-1 tvg-id="che-pl4" tvg-name="Че +4" tvg-logo="http://epg.one/img/1598.png" group-title="Россия плюсовые", Че +4
 #EXTGRP:Россия плюсовые
 http://176.118.197.101/Che/index.m3u8
+#EXTINF:-1 tvg-id="che-pl7" tvg-name="Че +7" tvg-logo="http://epg.one/img/1598.png" group-title="Россия плюсовые", Че +7
+#EXTGRP:Россия плюсовые
+http://stream-tv-digital.hf.space/channel/689.m3u8
+#EXTINF:-1 tvg-id="yu-pl2" tvg-name="Ю +2" tvg-logo="http://epg.one/img/898.png" group-title="Россия плюсовые", Ю +2
+#EXTGRP:Россия плюсовые
+http://stream-tv-digital.hf.space/channel/692.m3u8
+#EXTINF:-1 tvg-id="yu-pl4" tvg-name="Ю +4" tvg-logo="http://epg.one/img/898.png" group-title="Россия плюсовые", Ю +4
+#EXTGRP:Россия плюсовые
+http://stream-tv-digital.hf.space/channel/693.m3u8
+#EXTINF:-1 tvg-id="yu-pl7" tvg-name="Ю +7" tvg-logo="http://epg.one/img/898.png" group-title="Россия плюсовые", Ю +7
+#EXTGRP:Россия плюсовые
+http://stream-tv-digital.hf.space/channel/694.m3u8
 
 
 
