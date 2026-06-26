@@ -1117,15 +1117,6 @@ http://176.118.197.101/Cartoon_Network/index.m3u8
 #EXTINF:-1 tvg-id="boomerang" tvg-name="Cartoonito" tvg-logo="http://epg.one/img/929.png" group-title="Детские", Cartoonito
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000000160/tve/index.m3u8
-#EXTINF:-1 tvg-id="cartoons-90" tvg-name="Cartoons 90" tvg-logo="http://epg.one/img/4728.png" group-title="Детские", Cartoons 90
-#EXTGRP:Детские
-http://91.204.123.202:80/484/index.m3u8
-#EXTINF:-1 tvg-id="cartoons-big" tvg-name="Cartoons Big" tvg-logo="http://epg.one/img/4730.png" group-title="Детские", Cartoons Big
-#EXTGRP:Детские
-http://91.204.123.202:80/348/index.m3u8
-#EXTINF:-1 tvg-id="cartoons-short" tvg-name="Cartoons Short" tvg-logo="http://epg.one/img/4729.png" group-title="Детские", Cartoons Short
-#EXTGRP:Детские
-http://91.204.123.202:80/347/index.m3u8
 #EXTINF:-1 tvg-name="CPS Anime" tvg-logo="https://avatars.mds.yandex.net/i?id=d0cd0536644c44380ed9a5f1fc4f51bd2169a5dd-5335451-images-thumbs&n=13" group-title="Детские", CPS Anime
 #EXTGRP:Детские
 http://hls127.freeott.top:8080/CPS_Anime/video.m3u8
@@ -1135,9 +1126,6 @@ http://hls127.freeott.top:8080/CPS_Cartoon/video.m3u8
 #EXTINF:-1 tvg-id="da-vinci" tvg-name="Da Vinci HD" tvg-logo="http://epg.one/img/8908.png" group-title="Детские", Da Vinci HD
 #EXTGRP:Детские
 http://hls127.freeott.top:8080/Da_Vinci_Learning/video.m3u8
-#EXTINF:-1 tvg-id="fresh-kids" tvg-name="Fresh Kids" tvg-logo="http://epg.one/img/6128.png" group-title="Детские", Fresh Kids
-#EXTGRP:Детские
-http://91.204.123.202:80/425/index.m3u8
 #EXTINF:-1 tvg-id="gulli-girl" tvg-name="Gulli" tvg-logo="http://epg.one/img/810.png" group-title="Детские", Gulli
 #EXTGRP:Детские
 https://flussonic.mkpnet.ru/tv-d66fcf59f2f4c966/video.m3u8
@@ -1295,9 +1283,6 @@ http://hls127.freeott.top:8080/Nash_kinomir/video.m3u8
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
 https://cdn-lb.iptv2022.com/p/XScBGXjtAZCfzCdxllnieQ,1782301266/streaming/nashpokaz/324/1/index.m3u8
-#EXTINF:-1 tvg-id="nashehd" tvg-name="Наше крутое HD" tvg-logo="http://epg.one/img/2018.png" group-title="Кино", Наше Крутое HD
-#EXTGRP:Кино
-http://91.204.123.202/217/index.m3u8
 #EXTINF:-1 tvg-id="nashe-muzhskoe" tvg-name="Наше Мужское HD" tvg-logo="http://epg.one/img/2835.png" group-title="Кино", Наше Мужское HD
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
@@ -1321,9 +1306,6 @@ http://193.25.8.59:8000/Paramount
 #EXTINF:-1 tvg-id="pobeda" tvg-name="Победа" tvg-logo="http://epg.one/img/2447.png" group-title="Кино", Победа
 #EXTGRP:Кино
 http://193.25.8.59:8000/tochka
-#EXTINF:-1 tvg-id="premialnoe-hd" tvg-name="Премиальное HD" tvg-logo="http://epg.one/img/2732.png" group-title="Кино", Премиальное HD
-#EXTGRP:Кино
-http://91.204.123.202/421/index.m3u8
 #EXTINF:-1 tvg-id="premium-kino-kz" tvg-name="Премиум кино KZ" tvg-logo="https://iptvx.one/picons/premium-kino-kz.png" group-title="Кино", Премиум кино KZ
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000008491/tve/index.m3u8
@@ -1735,57 +1717,6 @@ http://kinowalk.hopto.org/wfliq_live
 #EXTINF:-1 tvg-name="Стримканал. ZubrilomFilm" tvg-logo="https://images.live.vkvideo.ru/user/18824582/avatar?change_time=1714643599&croped=1&mh=140&mw=140" group-title="Кинозал", Стримканал. ZubrilomFilm
 #EXTGRP:Кинозал
 http://kinowalk.hopto.org/zubrilomfilm_live
-#EXTINF:-1 tvg-id="bcu-sssr" tvg-name="BCU СССР HD" tvg-logo="http://epg.one/img/4747.png" group-title="Кинозал", BCU СССР HD
-#EXTGRP:Кинозал
-http://91.204.123.202:80/488/index.m3u8
-#EXTINF:-1 tvg-id="cineman" tvg-name="CineMan" tvg-logo="http://epg.one/img/4682.png" group-title="Кинозал", CineMan
-#EXTGRP:Кинозал
-http://91.204.123.202:80/349/index.m3u8
-#EXTINF:-1 tvg-id="cineman-katastrofy" tvg-name="CineMan Катастрофы" tvg-logo="http://epg.one/img/5585.png" group-title="Кинозал", CineMan Катастрофы
-#EXTGRP:Кинозал
-http://91.204.123.202:80/471/index.m3u8
-#EXTINF:-1 tvg-id="cineman-comedy" tvg-name="CineMan Комедия" tvg-logo="http://epg.one/img/4689.png" group-title="Кинозал", CineMan Комедия
-#EXTGRP:Кинозал
-http://91.204.123.202:80/356/index.m3u8
-#EXTINF:-1 tvg-id="cineman-lesnik" tvg-name="CineMan Лесник" tvg-logo="http://epg.one/img/6053.png" group-title="Кинозал", CineMan Лесник
-#EXTGRP:Кинозал
-http://91.204.123.202:80/115/index.m3u8
-#EXTINF:-1 tvg-id="cineman-musw" tvg-name="CineMan Ментовские войны" tvg-logo="http://epg.one/img/6051.png" group-title="Кинозал", CineMan Ментовские войны
-#EXTGRP:Кинозал
-http://91.204.123.202:80/477/index.m3u8
-#EXTINF:-1 tvg-id="cineman-svaty" tvg-name="CineMan Сваты" tvg-logo="http://epg.one/img/4692.png" group-title="Кинозал", CineMan Сваты
-#EXTGRP:Кинозал
-http://91.204.123.202:80/359/index.m3u8
-#EXTINF:-1 tvg-id="cineman-simps" tvg-name="CineMan Симпсоны" tvg-logo="http://epg.one/img/5525.png" group-title="Кинозал", CineMan Симпсоны
-#EXTGRP:Кинозал
-http://91.204.123.202:80/476/index.m3u8
-#EXTINF:-1 tvg-id="cineman-skorpom" tvg-name="CineMan Скорая Помощь" tvg-logo="http://epg.one/img/5524.png" group-title="Кинозал", CineMan Скорая Помощь
-#EXTGRP:Кинозал
-http://91.204.123.202:80/475/index.m3u8
-#EXTINF:-1 tvg-id="cineman-uzhasy" tvg-name="CineMan Ужасы" tvg-logo="http://epg.one/img/4688.png" group-title="Кинозал", CineMan Ужасы
-#EXTGRP:Кинозал
-http://91.204.123.202:80/355/index.m3u8
-#EXTINF:-1 tvg-id="cineman-action" tvg-name="CineMan Action" tvg-logo="http://epg.one/img/4684.png" group-title="Кинозал", CineMan Action
-#EXTGRP:Кинозал
-http://91.204.123.202:80/351/index.m3u8
-#EXTINF:-1 tvg-id="cineman-marvel" tvg-name="CineMan Marvel" tvg-logo="http://epg.one/img/4687.png" group-title="Кинозал", CineMan Marvel
-#EXTGRP:Кинозал
-http://91.204.123.202:80/354/index.m3u8
-#EXTINF:-1 tvg-id="cineman-melodrama" tvg-name="CineMan Melodrama" tvg-logo="http://epg.one/img/4686.png" group-title="Кинозал", CineMan Melodrama
-#EXTGRP:Кинозал
-http://91.204.123.202:80/472/index.m3u8
-#EXTINF:-1 tvg-id="cineman-miniseries" tvg-name="CineMan MiniSeries" tvg-logo="http://epg.one/img/7150.png" group-title="Кинозал", CineMan MiniSeries
-#EXTGRP:Кинозал
-http://91.204.123.202:80/122/index.m3u8
-#EXTINF:-1 tvg-id="cineman-thriller" tvg-name="CineMan Thriller" tvg-logo="http://epg.one/img/4685.png" group-title="Кинозал", CineMan Thriller
-#EXTGRP:Кинозал
-http://91.204.123.202:80/352/index.m3u8
-#EXTINF:-1 tvg-id="cineman-top" tvg-name="CineMan Top" tvg-logo="http://epg.one/img/4683.png" group-title="Кинозал", CineMan Top
-#EXTGRP:Кинозал
-http://91.204.123.202:80/350/index.m3u8
-#EXTINF:-1 tvg-id="cineman-vhs" tvg-name="CineMan VHS" tvg-logo="http://epg.one/img/4690.png" group-title="Кинозал", CineMan VHS
-#EXTGRP:Кинозал
-http://91.204.123.202:80/474/index.m3u8
 #EXTINF:-1 tvg-name="CPS Action" tvg-logo="https://avatars.mds.yandex.net/i?id=d0cd0536644c44380ed9a5f1fc4f51bd2169a5dd-5335451-images-thumbs&n=13" group-title="Кинозал", CPS Action
 #EXTGRP:Кинозал
 http://hls127.freeott.top:8080/CPS_Action/video.m3u8
@@ -1810,42 +1741,6 @@ http://hls127.freeott.top:8080/CPS_Investigation/video.m3u8
 #EXTINF:-1 tvg-name="CPS Mix" tvg-logo="https://avatars.mds.yandex.net/i?id=d0cd0536644c44380ed9a5f1fc4f51bd2169a5dd-5335451-images-thumbs&n=13" group-title="Кинозал", CPS Mix
 #EXTGRP:Кинозал
 http://hls127.freeott.top:8080/CPS_Mix/video.m3u8
-#EXTINF:-1 tvg-id="fresh-adventure" tvg-name="Fresh Adventure" tvg-logo="http://epg.one/img/6719.png" group-title="Кинозал", Fresh Adventure
-#EXTGRP:Кинозал
-http://91.204.123.202:80/432/index.m3u8
-#EXTINF:-1 tvg-id="fresh-cinema" tvg-name="Fresh Cinema" tvg-logo="http://epg.one/img/6105.png" group-title="Кинозал", Fresh Cinema
-#EXTGRP:Кинозал
-http://91.204.123.202:80/423/index.m3u8
-#EXTINF:-1 tvg-id="fresh-comedy" tvg-name="Fresh Comedy" tvg-logo="http://epg.one/img/6711.png" group-title="Кинозал", Fresh Comedy
-#EXTGRP:Кинозал
-http://91.204.123.202:80/426/index.m3u8
-#EXTINF:-1 tvg-id="fresh-family" tvg-name="Fresh Family" tvg-logo="http://epg.one/img/6713.png" group-title="Кинозал", Fresh Family
-#EXTGRP:Кинозал
-http://91.204.123.202:80/427/index.m3u8
-#EXTINF:-1 tvg-id="fresh-fantastic" tvg-name="Fresh Fantastic" tvg-logo="http://epg.one/img/6716.png" group-title="Кинозал", Fresh Fantastic
-#EXTGRP:Кинозал
-http://91.204.123.202:80/429/index.m3u8
-#EXTINF:-1 tvg-id="fresh-horror" tvg-name="Fresh Horror" tvg-logo="http://epg.one/img/6718.png" group-title="Кинозал", Fresh Horror
-#EXTGRP:Кинозал
-http://91.204.123.202:80/431/index.m3u8
-#EXTINF:-1 tvg-id="fresh-premiere" tvg-name="Fresh Premiere" tvg-logo="http://epg.one/img/6712.png" group-title="Кинозал", Fresh Premiere
-#EXTGRP:Кинозал
-http://91.204.123.202:80/424/index.m3u8
-#EXTINF:-1 tvg-id="fresh-rating" tvg-name="Fresh Rating" tvg-logo="http://epg.one/img/6714.png" group-title="Кинозал", Fresh Rating
-#EXTGRP:Кинозал
-http://91.204.123.202:80/422/index.m3u8
-#EXTINF:-1 tvg-id="fresh-romatic" tvg-name="Fresh Romantic" tvg-logo="http://epg.one/img/6720.png" group-title="Кинозал", Fresh Romantic
-#EXTGRP:Кинозал
-http://91.204.123.202:80/433/index.m3u8
-#EXTINF:-1 tvg-id="fresh-series" tvg-name="Fresh Series" tvg-logo="http://epg.one/img/6717.png" group-title="Кинозал", Fresh Series
-#EXTGRP:Кинозал
-http://91.204.123.202:80/430/index.m3u8
-#EXTINF:-1 tvg-id="fresh-thriller" tvg-name="Fresh Thriller" tvg-logo="http://epg.one/img/6722.png" group-title="Кинозал", Fresh Thriller
-#EXTGRP:Кинозал
-http://91.204.123.202:80/434/index.m3u8
-#EXTINF:-1 tvg-id="fresh-vhs" tvg-name="Fresh VHS" tvg-logo="http://epg.one/img/6715.png" group-title="Кинозал", Fresh VHS
-#EXTGRP:Кинозал
-http://91.204.123.202:80/428/index.m3u8
 #EXTINF:-1 tvg-name="IPTVPLAY Ведьмак" tvg-logo="https://i123.fastpic.org/big/2024/0826/01/adbb4692281cf3cc6540f47f4460c701.png" group-title="Кинозал", IPTVPLAY Ведьмак
 #EXTGRP:Кинозал
 http://5.188.158.65:4040/IPTVPLAYVEDMAK.tv/video.m3u8?token=lqRGka5-YwwqF0
@@ -1923,7 +1818,7 @@ http://37.186.70.39:40/play/83/index.m3u8
 https://flussonic.mkpnet.ru/tv-ee3651e1e7ce5cbf/video.m3u8
 #EXTINF:-1 tvg-id="match-premier" tvg-name="Матч! Премьер HD" tvg-logo="http://epg.one/img/2250.png" group-title="Спорт", МАТЧ ПРЕМЬЕР HD
 #EXTGRP:Спорт
-http://95.181.17.26/dvr01/hd1/NashFutHD/chunks.m3u8?&&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNS8yMDI2IDY6NTI6NDcgQU0maGFzaF92YWx1ZT13SzRyQStPSTQxQnhjOW5aMk1UVlNnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+http://95.181.17.26/dvr01/hd1/NashFutHD/chunks.m3u8?&&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNS8yMDI2IDc6MDE6NDMgUE0maGFzaF92YWx1ZT1XNkRhdElaMzhjUVE4emZHWVhESXRnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 #EXTINF:-1 tvg-id="match-nash-sport" tvg-name="Матч! Страна" tvg-logo="http://epg.one/img/2042.png" group-title="Спорт", МАТЧ! СТРАНА
 #EXTGRP:Спорт
 http://ukr.ukrainske.tv/134/keytvainua/video.m3u8
