@@ -1565,9 +1565,6 @@ http://kinowalk.hopto.org/paranormal404_live
 #EXTINF:-1 tvg-name="Стримканал. Первый ряд" tvg-logo="https://avatars.mds.yandex.net/i?id=555d891d488c5365011716af505489b85bf0170c-9044089-images-thumbs&n=13" group-title="Кинозал", Стримканал. Первый ряд
 #EXTGRP:Кинозал
 http://kinowalk.hopto.org/perviryad_live%20
-#EXTINF:-1 tvg-name="Стримканал. Провинция" tvg-logo="https://avatars.mds.yandex.net/i?id=555d891d488c5365011716af505489b85bf0170c-9044089-images-thumbs&n=13" group-title="Кинозал", Стримканал. Провинция
-#EXTGRP:Кинозал
-https://ab2262fdd9c5.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.061051251131.channel.rmtRK2FPYHmD.m3u8
 #EXTINF:-1 tvg-name="Стримканал. Тоха Киноман" tvg-logo="https://avatars.mds.yandex.net/i?id=555d891d488c5365011716af505489b85bf0170c-9044089-images-thumbs&n=13" group-title="Кинозал", Стримканал. Тоха Киноман
 #EXTGRP:Кинозал
 http://kinowalk.hopto.org/kinomania_stream_live
@@ -1577,18 +1574,12 @@ http://kinowalk.hopto.org/toxa_stream_live
 #EXTINF:-1 tvg-name="Стримканал. У края бездны 24/7" tvg-logo="https://avatars.mds.yandex.net/i?id=555d891d488c5365011716af505489b85bf0170c-9044089-images-thumbs&n=13" group-title="Кинозал", Стримканал. У края бездны 24/7
 #EXTGRP:Кинозал
 http://kinowalk.hopto.org/ddator_live
-#EXTINF:-1 tvg-name="Стримканал. Фильмы сериалы" tvg-logo="https://images.live.vkvideo.ru/user/19940394/avatar?change_time=1734982742&croped=1&mh=140&mw=140" group-title="Кинозал", Стримканал. Фильмы сериалы
-#EXTGRP:Кинозал
-http://kinowalk.hopto.org/dfsfsdg_live
 #EXTINF:-1 tvg-name="Стримканал. Эквилибриум" tvg-logo="https://images.live.vkvideo.ru/user/20745126/avatar?change_time=1746520742&croped=1&mh=140&mw=140" group-title="Кинозал", Стримканал. Эквилибриум
 #EXTGRP:Кинозал
 http://kinowalk.hopto.org/equilibrium_live
 #EXTINF:-1 tvg-name="Стримканал. Эра VHS" tvg-logo="https://avatars.mds.yandex.net/i?id=555d891d488c5365011716af505489b85bf0170c-9044089-images-thumbs&n=13" group-title="Кинозал", Стримканал. Эра VHS
 #EXTGRP:Кинозал
 http://kinowalk.hopto.org/era_vhs_live
-#EXTINF:-1 tvg-name="Стримканал. AASS" tvg-logo="https://avatars.mds.yandex.net/i?id=555d891d488c5365011716af505489b85bf0170c-9044089-images-thumbs&n=13" group-title="Кинозал", Стримканал. AASS
-#EXTGRP:Кинозал
-http://kinowalk.hopto.org/aaasss_live
 #EXTINF:-1 tvg-name="Стримканал. Aleksey_24RUS" tvg-logo="https://avatars.mds.yandex.net/i?id=555d891d488c5365011716af505489b85bf0170c-9044089-images-thumbs&n=13" group-title="Кинозал", Стримканал. Aleksey_24RUS
 #EXTGRP:Кинозал
 http://kinowalk.hopto.org/aleksey_24rus_live
@@ -1598,9 +1589,6 @@ http://kinowalk.hopto.org/apricus_live
 #EXTINF:-1 tvg-name="Стримканал. Blockbusters Time" tvg-logo="https://avatars.mds.yandex.net/i?id=ca00afd604f2495ca4af1ad9d4786398bbab6f48-12728079-images-thumbs&n=13" group-title="Кинозал", Стримканал. Blockbusters Time
 #EXTGRP:Кинозал
 http://kinowalk.hopto.org/blockbusterstime_live
-#EXTINF:-1 tvg-name="Стримканал. BOSSFILM" tvg-logo="https://images.live.vkvideo.ru/user/19857529/avatar?change_time=1735363832&croped=1&mh=140&mw=140" group-title="Кинозал", Стримканал. BOSSFILM
-#EXTGRP:Кинозал
-http://kinowalk.hopto.org/bossfilm_live
 #EXTINF:-1 tvg-name="Стримканал. Cinema Time" tvg-logo="https://avatars.mds.yandex.net/i?id=555d891d488c5365011716af505489b85bf0170c-9044089-images-thumbs&n=13" group-title="Кинозал", Стримканал. Cinema Time
 #EXTGRP:Кинозал
 http://kinowalk.hopto.org/cinematime_live
@@ -1622,12 +1610,6 @@ https://kinowalk.hopto.org/kinowalk_live
 #EXTINF:-1 tvg-name="Стримканал. LampoTV" tvg-logo="https://avatars.mds.yandex.net/i?id=555d891d488c5365011716af505489b85bf0170c-9044089-images-thumbs&n=13" group-title="Кинозал", Стримканал. LampoTV
 #EXTGRP:Кинозал
 http://kinowalk.hopto.org/lampotv_live
-#EXTINF:-1 tvg-name="Стримканал. LAV-KINO" tvg-logo="https://avatars.mds.yandex.net/i?id=d345b761b1d177dd5e38d776f2ad20a51ab97ebf-5668792-images-thumbs&n=13" group-title="Кинозал", Стримканал. LAV-KINO
-#EXTGRP:Кинозал
-https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Стримканал. Logovo Films" tvg-logo="https://avatars.mds.yandex.net/i?id=0d2a36f62671a0501ca3cf27a5eb2b8d58d11926-5877910-images-thumbs&n=13" group-title="Кинозал", Стримканал. Logovo Films
-#EXTGRP:Кинозал
-https://stream.ushba.tv/akamaiushba/ushba-films-a/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Стримканал. Maksim Films" tvg-logo="https://avatars.mds.yandex.net/i?id=d8bb932a618b126fd382904f1cde2371_sr-5429110-images-thumbs&n=13" group-title="Кинозал", Стримканал. Maksim Films
 #EXTGRP:Кинозал
 http://kinowalk.hopto.org/mmaxim0vich_live
@@ -1721,18 +1703,6 @@ http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1 tvg-name="IPTVPLAY Десятое Королевство" tvg-logo="https://i123.fastpic.org/big/2024/0826/ac/f4f87b57a79f0fbc6381996811439dac.png" group-title="Кинозал", IPTVPLAY Десятое Королевство
 #EXTGRP:Кинозал
 http://5.188.158.65:4040/IPTVPLAY10KOROLEVSTVO.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 tvg-name="IPTVPLAY Интерны" tvg-logo="https://i123.fastpic.org/big/2024/0826/ee/6d269a3701fd505b42ad593a52cd9eee.png" group-title="Кинозал", IPTVPLAY Интерны
-#EXTGRP:Кинозал
-http://5.188.158.65:4040/IPTVPLAYINTERNY.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 tvg-name="IPTVPLAY Память" tvg-logo="https://i.ibb.co/7gj4dQM/Pamyat.png" group-title="Кинозал", IPTVPLAY Память
-#EXTGRP:Кинозал
-http://5.188.158.65:4040/IPTVPLAYPAMYAT.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 tvg-name="IPTVPLAY Ужастик" tvg-logo="https://i.ibb.co/LZkQq0x/Uzhastik.png" group-title="Кинозал", IPTVPLAY Ужастик
-#EXTGRP:Кинозал
-http://5.188.158.65:4040/IPTVPLAYUZHASTIK.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 tvg-name="IPTVPLAY Фантастика" tvg-logo="https://i.ibb.co/pbxx3Sd/Fantastika.png" group-title="Кинозал", IPTVPLAY Фантастика
-#EXTGRP:Кинозал
-http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1 tvg-name="MYTV" tvg-logo="http://epg.one/img/104.png" group-title="Кинозал", MYTV
 #EXTGRP:Кинозал
 http://hls127.freeott.top:8080/MyTV/mono.m3u8
