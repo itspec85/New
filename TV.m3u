@@ -153,9 +153,6 @@ https://ucdn.beetv.kz/bpk-tv/000007248/tve/index.m3u8
 #EXTINF:-1 tvg-id="ulytau-kz" tvg-name="Ulytau KZ" tvg-logo="http://epg.one/img/9173.png" group-title="Казахстан", Ulytau KZ
 #EXTGRP:Казахстан
 https://ucdn.beetv.kz/bpk-tv/000003604/tve/index.m3u8
-#EXTINF:-1 tvg-name="Uygur TV News" tvg-logo="https://avatars.mds.yandex.net/i?id=8a768bceac86a63ce88445f8c58ff72b9c8bae2c7f7e69e5-11512273-images-thumbs&n=13" group-title="Казахстан", Uygur TV News
-#EXTGRP:Казахстан
-https://592f1881b3d5f.streamlock.net:1443/santraltv_742/santraltv_742/chunklist_w2070697692.m3u8
 #EXTINF:-1 tvg-id="xabar" tvg-name="Хабар KZ" tvg-logo="http://epg.one/img/2576.png" group-title="Казахстан", Хабар KZ
 #EXTGRP:Казахстан
 https://ucdn.beetv.kz/bpk-tv/000004211/tve/index.m3u8
