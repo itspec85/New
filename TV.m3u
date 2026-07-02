@@ -973,9 +973,6 @@ https://ucdn.beetv.kz/bpk-tv/000001498/tve/index.m3u8
 #EXTINF:-1 tvg-id="travel-adventure" tvg-name="travel+adventure" tvg-logo="http://epg.one/img/1035.png" group-title="Познавательные", travel+adventure
 #EXTGRP:Познавательные
 https://s70378.cdn.ngenix.net/travel_and_adventure/2/index.m3u8
-#EXTINF:-1 tvg-id="travel-xp-4k" tvg-name="TravelXP 4K" tvg-logo="http://epg.one/img/7617.png" group-title="Познавательные", TravelXP 4K
-#EXTGRP:Познавательные
-http://91.247.68.229:8000/play/Travelxp/index.m3u8
 #EXTINF:-1 tvg-id="travel-xp-hd" tvg-name="TravelXP HD" tvg-logo="http://epg.one/img/9155.png" group-title="Познавательные", TravelXP HD
 #EXTGRP:Познавательные
 https://prosto.zuno-tv.workers.dev/stream/id524/video.m3u8
