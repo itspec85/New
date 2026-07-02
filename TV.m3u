@@ -933,7 +933,7 @@ https://jmp2.uk/stvp-USBA3400003IP
 http://s1.tv-nano.com/Luxury_rec/video.m3u8
 #EXTINF:-1 tvg-id="nano-hd" tvg-name="NANO TV" tvg-logo="http://epg.one/img/2428.png" group-title="Познавательные", NANO TV HD
 #EXTGRP:Познавательные
-http://178.134.1.158:8081/nano/index.m3u8
+http://s1.tv-nano.com/Nano_rec/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="nat-geo-wild" tvg-name="Nat Geo Wild" tvg-logo="http://epg.one/img/223.png" group-title="Познавательные", Nat Geo Wild
 #EXTGRP:Познавательные
 http://hls127.freeott.top:8080/Nat_Geo_Wild_SD/video.m3u8
