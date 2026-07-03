@@ -1844,12 +1844,6 @@ http://158.101.222.193:88/georgia_play.php?id=setanta_sports_plus_georgia
 #EXTINF:-1 tvg-id="setanta3-ge" tvg-name="Setanta Sports 3 GE" tvg-logo="http://epg.one/img/7783.png" group-title="Спорт", Setanta Sports 3 GE
 #EXTGRP:Спорт
 http://158.101.222.193:88/georgia_play.php?id=setanta_sports_3
-#EXTINF:-1 tvg-id="setanta-ua" tvg-name="Setanta Sports Ukraine" tvg-logo="http://epg.one/img/2370.png" group-title="Спорт", Setanta Sports Ukraine HD
-#EXTGRP:Спорт
-https://prosto.zuno-tv.workers.dev/stream/id313/video.m3u8
-#EXTINF:-1 tvg-id="setanta-plus-ua" tvg-name="Setanta Sports+ Ukraine" tvg-logo="http://epg.one/img/6860.png" group-title="Спорт", Setanta Ukraine Plus HD
-#EXTGRP:Спорт
-https://prosto.zuno-tv.workers.dev/stream/id371/video.m3u8
 #EXTINF:-1 tvg-id="sky-sports-tennis" tvg-name="Sky Sports Tennis [UK]" tvg-logo="http://epg.one/img/9400.png" group-title="Спорт", Sky Sports Tennis HD UK
 #EXTGRP:Спорт
 https://bl.rutube.ru/livestream/5f5dc9d64b43dfc740e92f2bdf2b0d38/index.m3u8?s=Yz-1aGV40bGEy8WEbP7DMw&e=2067730155&scheme=https
