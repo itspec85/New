@@ -1355,9 +1355,6 @@ https://s70378.cdn.ngenix.net/filmbox/2/index.m3u8
 #EXTINF:-1 tvg-id="filmbox-arthouse" tvg-name="FilmBox ArtHouse" tvg-logo="http://epg.one/img/2182.png" group-title="Кино", FilmBox ArtHouse
 #EXTGRP:Кино
 https://prosto.zuno-tv.workers.dev/stream/id111/video.m3u8
-#EXTINF:-1 tvg-name="FMC" tvg-logo="https://avatars.mds.yandex.net/i?id=1959193b12698485d22fe83173de7c117f9b4b37-5887368-images-thumbs&n=13" group-title="Кино", FMC
-#EXTGRP:Кино
-rtmp://vkvsd69.okcdn.ru/playback/3780958366657?stkn=QkbWCnARWe2BdgDd2ZlIsACtDwpqkYXvX5avvzYaOvFMLx0UvcPKLeTbLVWs99SwkzSDsjYLt-I&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 #EXTINF:-1 tvg-id="fox" tvg-name="FX" tvg-logo="http://epg.one/img/1031.png" group-title="Кино", FX
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000004472/tve/index.m3u8
@@ -1913,7 +1910,7 @@ http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:-1 tvg-id="onemuz" tvg-name="Первый музыкальный RU" tvg-logo="http://epg.one/img/5364.png" group-title="Музыка", Первый музыкальный RU
 #EXTGRP:Музыка
 http://rtmp.one.by:2300
-#EXTINF:-1 tvg-id="radio-shanson" tvg-name="Радио Шансон" tvg-logo="https://radioshanson.ru/assets/2a380c6a/img/logo-09-09-2019.png" group-title="Музыка", Радио Шансон
+#EXTINF:-1 tvg-id="radio-shanson" tvg-name="Радио Шансон" tvg-logo="https://avatars.mds.yandex.net/i?id=c5c19a2736c0be8c5376730f5b8777cc59031d3e-12173799-images-thumbs&n=13" group-title="Музыка", Радио Шансон
 #EXTGRP:Музыка
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
 #EXTINF:-1 tvg-id="shanson-tv" tvg-name="Шансон TB" tvg-logo="http://epg.one/img/2278.png" group-title="Музыка", Шансон TB
@@ -1934,15 +1931,9 @@ http://5.188.221.43:8080/play/bridge-tv
 #EXTINF:-1 tvg-id="bridge-tv-ruxit" tvg-name="Bridge TV Русский хит" tvg-logo="http://epg.one/img/591.png" group-title="Музыка", Bridge Русский Хит
 #EXTGRP:Музыка
 http://37.186.70.39:40/play/93/index.m3u8
-#EXTINF:-1 tvg-id="bridge-tv-fresh" tvg-name="Bridge TV Фрэш" tvg-logo="http://epg.one/img/8803.png" group-title="Музыка", Bridge Фрэш
-#EXTGRP:Музыка
-http://89.218.32.179:18000/play/a02j
 #EXTINF:-1 tvg-id="bridge-tv-shlager" tvg-name="Bridge TV Шлягер" tvg-logo="http://epg.one/img/4621.png" group-title="Музыка", Bridge Шлягер
 #EXTGRP:Музыка
 http://193.25.8.59:8000/mtv
-#EXTINF:-1 tvg-id="bridge-tv-etno" tvg-name="Bridge TV Этно" tvg-logo="https://avatars.mds.yandex.net/i?id=5d5f0ebfb39b469146befafc0fe1fc53c219da08-3449022-images-thumbs&n=13" group-title="Музыка", Bridge Этно
-#EXTGRP:Музыка
-http://89.218.32.179:18000/play/a02n
 #EXTINF:-1 tvg-id="bridge-tv-classic" tvg-name="Bridge TV Classic" tvg-logo="http://epg.one/img/4373.png" group-title="Музыка", Bridge Classic orig
 #EXTGRP:Музыка
 http://5.188.159.128:8070/Bridge_TV_Classic/index.m3u8
@@ -1952,9 +1943,6 @@ http://5.188.159.128:8070/Bridge_TV_Deluxe/index.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-dance" tvg-name="Bridge TV Hits" tvg-logo="http://epg.one/img/2024.png" group-title="Музыка", Bridge Hits
 #EXTGRP:Музыка
 http://5.188.159.128:8070/Bridge_TV_Hits/index.m3u8
-#EXTINF:-1 tvg-id="bridge-tv-rock" tvg-name="Bridge TV Rock" tvg-logo="http://epg.one/img/6188.png" group-title="Музыка", Bridge Rock
-#EXTGRP:Музыка
-http://89.218.32.179:18000/play/a02i
 #EXTINF:-1 tvg-id="clubbing-tv" tvg-name="Clubbing TV" tvg-logo="http://epg.one/img/2628.png" group-title="Музыка", Clubbing TV
 #EXTGRP:Музыка
 http://46.151.151.250:9201
@@ -1967,9 +1955,6 @@ https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/
 #EXTINF:-1 tvg-id="deluxe-music-de" tvg-name="Deluxe Music [DE]" tvg-logo="http://epg.one/img/8044.png" group-title="Музыка", Deluxe Music HD DE
 #EXTGRP:Музыка
 http://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-#EXTINF:-1 tvg-name="Deluxe Rap" tvg-logo="https://i.imgur.com/s3h67hx.png" group-title="Музыка", Deluxe Rap
-#EXTGRP:Музыка
-http://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
 #EXTINF:-1 tvg-id="dream-turk-tr" tvg-name="Dream Türk [TR]" tvg-logo="http://epg.one/img/3928.png" group-title="Музыка", DREAM TÜRK
 #EXTGRP:Музыка
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
