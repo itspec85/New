@@ -2849,12 +2849,6 @@ http://45.159.74.13/21TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Գեղամա TV" tvg-logo="https://mytv.do.am/logo/geghama.png" group-title="Армения", Գեղամա TV
 #EXTGRP:Армения
 http://45.11.139.43:8555/geghama/index.m3u8
-#EXTINF:-1 tvg-name="Fresh TV Armenia" tvg-logo="http://epg.it999.ru/img/5606.png" group-title="Армения", Fresh TV Armenia
-#EXTGRP:Армения
-https://freshtv-live.ru/FreshTV/tracks-v1a1/mono.m3u8?token=livestream
-#EXTINF:-1 tvg-name="Laym Armenius TV" tvg-logo="https://avatars.mds.yandex.net/i?id=5359d62b916123202541ae22150b6c70a76eb642-5104820-images-thumbs&n=13" group-title="Армения", Laym Armenius TV
-#EXTGRP:Армения
-https://v2.catcast.tv/content/40504/index.m3u8
 #EXTINF:-1 tvg-name="Lori TV ARM" tvg-logo="https://avatars.mds.yandex.net/i?id=e0f6200b4a3fb4a49ceec5a7897f83fa82ca12e3-10502494-images-thumbs&n=13" group-title="Армения", Lori TV ARM
 #EXTGRP:Армения
 http://45.11.139.43:8555/lori/index.m3u8
@@ -2873,9 +2867,6 @@ https://164475.gvideo.io/mpegts/164475_650646/master_mpegts.m3u8
 #EXTINF:-1 tvg-name="USArmeniaTV" tvg-logo="http://epg.one/img/5934.png" group-title="Армения", USArmeniaTV
 #EXTGRP:Армения
 http://livestream.usatv.com/hls/m3u8/USARMENIA_NET1080.m3u8
-#EXTINF:-1 tvg-name="Ֆիթնես TV" tvg-logo="https://mytv.do.am/logo/fitnes.png" group-title="Армения", Ֆիթնես TV
-#EXTGRP:Армения
-http://45.11.139.43:8555/fitnes/index.m3u8
 #EXTINF:-1 tvg-name="Velari TV" tvg-logo="https://mytv.do.am/icon/velary.png" group-title="Армения", Velari TV
 #EXTGRP:Армения
 http://timeshift.arpinet.am/233/mpegts
@@ -2900,9 +2891,6 @@ http://46.56.85.151:8080/0.m3u8
 #EXTINF:-1 tvg-id="belarus24" tvg-name="Беларусь 24" tvg-logo="http://epg.one/img/2170.png" group-title="Беларусь", Беларусь 24
 #EXTGRP:Беларусь
 https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/chunklist_w_b1460000_sleng.m3u8
-#EXTINF:-1 tvg-id="belsat" tvg-name="Белсат" tvg-logo="http://epg.one/img/4627.png" group-title="Беларусь", БелСат
-#EXTGRP:Беларусь
-http://portal.ott.pink/C5UK_BelsatTV/mpegts?token=9ED1CC22511FE66191AD465072EEE8DF
 #EXTINF:-1 tvg-id="ntv-belarus" tvg-name="НТВ-Беларусь" tvg-logo="http://epg.one/img/6773.png" group-title="Беларусь", НТВ Беларусь
 #EXTGRP:Беларусь
 http://194.158.222.36:6107
@@ -2933,9 +2921,6 @@ http://176.126.166.43:1935/live/312kino/playlist.m3u8
 #EXTINF:-1 tvg-id="312-serial" tvg-name="312 Сериал" tvg-logo="https://epg.iptvx.one/picons/312-serial.png" group-title="Киргизия", 312 Сериал
 #EXTGRP:Киргизия
 http://176.126.166.43:1935/live/312musik/chunklist_w1516016500.m3u8
-#EXTINF:-1 tvg-name="Manas TV KG" tvg-logo="https://i.ibb.co/2Kvcj5Q/manas.jpg" group-title="Киргизия", Manas TV KG
-#EXTGRP:Киргизия
-http://212.42.111.152:8080/hls/manas.m3u8
 #EXTINF:-1 tvg-id="osh-tv-kg" tvg-name="Ош ТВ [KG]" tvg-logo="https://avatars.mds.yandex.net/i?id=2a0000017a010573b03b49a647a063ab2bfc-4256054-images-thumbs&n=13" group-title="Киргизия", Ош ТВ KG
 #EXTGRP:Киргизия
 http://212.42.117.34:8080/hls/OshTV.m3u8
