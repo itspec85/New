@@ -745,21 +745,6 @@ https://ucdn.beetv.kz/bpk-tv/000002510/tve/index.m3u8
 #EXTINF:-1 tvg-id="sarafan" tvg-name="Сарафан" tvg-logo="http://epg.one/img/663.png" group-title="Познавательные", Сарафан
 #EXTGRP:Познавательные
 https://stream8.cinerama.uz/1249/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Сити Эдем - АвтоГид" tvg-logo="https://www.cityeden.info/logotv/logotip_avtogid1.png" group-title="Познавательные", Сити Эдем - АвтоГид
-#EXTGRP:Познавательные
-https://cityeden.catcast.tv/content/47515/index.m3u8
-#EXTINF:-1 tvg-name="Сити Эдем - КиноДок" tvg-logo="https://www.cityeden.info/logotv/logotip_kinodok1.png" group-title="Познавательные", Сити Эдем - КиноДок
-#EXTGRP:Познавательные
-https://cityeden.catcast.tv/content/38354/index.m3u8
-#EXTINF:-1 tvg-name="Сити Эдем - МедЗдрав" tvg-logo="https://www.cityeden.info/logotv/logotip_medzdrav1.png" group-title="Познавательные", Сити Эдем - МедЗдрав
-#EXTGRP:Познавательные
-https://cityeden.catcast.tv/content/47519/index.m3u8
-#EXTINF:-1 tvg-name="Сити Эдем - Рецепты Гурмана" tvg-logo="https://www.cityeden.info/logotv/logotip_receptygurmana1.png" group-title="Познавательные", Сити Эдем - Рецепты Гурмана
-#EXTGRP:Познавательные
-https://cityeden.catcast.tv/content/47516/index.m3u8
-#EXTINF:-1 tvg-name="Сити Эдем - Христианский" tvg-logo="https://www.cityeden.info/logotv/siti_ehdem_tv_2024.png" group-title="Познавательные", Сити Эдем - Христианский
-#EXTGRP:Познавательные
-https://cityeden.catcast.tv/content/34246/index.m3u8
 #EXTINF:-1 tvg-id="smotrim-100-prazdnik" tvg-name="Смотрим 100% Праздник" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-prazdnik.png" group-title="Познавательные", Смотрим 100% Праздник
 #EXTGRP:Познавательные
 https://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8
@@ -835,9 +820,6 @@ http://194.152.35.17/2x2/index.m3u8
 #EXTINF:-1 tvg-id="2na2" tvg-name="2x2" tvg-logo="http://epg.one/img/323.png" group-title="Познавательные", 2x2 HD
 #EXTGRP:Познавательные
 https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?s=ZBpjlEhdXYWSfKfKizUGSg&e=2074209217&scheme=https
-#EXTINF:-1 tvg-name="555 Hunt Fishing TV" tvg-logo="https://avatars.mds.yandex.net/i?id=635b73799daf216d5519050021039012e1e8254f-10349168-images-thumbs&n=13" group-title="Познавательные", 555 Hunt Fishing TV
-#EXTGRP:Познавательные
-http://193.169.178.29:8081/podsekaiTV/chanelHD1080/playlist.m3u8
 #EXTINF:-1 tvg-id="animal-planet-eu" tvg-name="Animal Planet" tvg-logo="http://epg.one/img/365.png" group-title="Познавательные", Animal Planet
 #EXTGRP:Познавательные
 http://46.32.176.50/animalplanet/index.m3u8
@@ -1505,36 +1487,6 @@ https://cdn-dvr.ntv.ru/sledstvie/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="НТВ сериалы. Шеф" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/shef_vert_live_1.jpg" group-title="Кинозал", НТВ сериалы. Шеф
 #EXTGRP:Кинозал
 https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="cityedem-kinoazia" tvg-name="Сити Эдем - КиноАзия" tvg-logo="https://www.cityeden.info/logotv/kinoazija_logotip.png" group-title="Кинозал", Сити Эдем - КиноАзия
-#EXTGRP:Кинозал
-https://cityeden.catcast.tv/content/34393/index.m3u8
-#EXTINF:-1 tvg-name="Сити Эдем - КиноАрт" tvg-logo="https://www.cityeden.info/logotv/logotip_kinoart.png" group-title="Кинозал", Сити Эдем - КиноАрт
-#EXTGRP:Кинозал
-https://cityeden.catcast.tv/content/38398/index.m3u8
-#EXTINF:-1 tvg-name="Сити Эдем - КиноДетектив" tvg-logo="https://www.cityeden.info/logotv/logotip_kinodetektiv.png" group-title="Кинозал", Сити Эдем - КиноДетектив
-#EXTGRP:Кинозал
-https://cityeden.catcast.tv/content/41327/index.m3u8
-#EXTINF:-1 tvg-name="Сити Эдем - КиноДрама" tvg-logo="https://www.cityeden.info/logotv/kinodrama_logotip.png" group-title="Кинозал", Сити Эдем - КиноДрама
-#EXTGRP:Кинозал
-https://cityeden.catcast.tv/content/45269/index.m3u8
-#EXTINF:-1 tvg-id="cityedem-kinoklas" tvg-name="Сити Эдем - КиноКлассика" tvg-logo="https://www.cityeden.info/logotv/logotip_kinoklassika.png" group-title="Кинозал", Сити Эдем - КиноКлассика
-#EXTGRP:Кинозал
-https://cityeden.catcast.tv/content/34185/index.m3u8
-#EXTINF:-1 tvg-name="Сити Эдем - КиноКомедия" tvg-logo="https://www.cityeden.info/logotv/logotip_siti_ehdem-kinokomedija.png" group-title="Кинозал", Сити Эдем - КиноКомедия
-#EXTGRP:Кинозал
-https://cityeden.catcast.tv/content/41331/index.m3u8
-#EXTINF:-1 tvg-id="cityedem-kinomist" tvg-name="Сити Эдем - КиноМистика" tvg-logo="https://www.cityeden.info/logotv/logotip_kinomostika.png" group-title="Кинозал", Сити Эдем - КиноМистика
-#EXTGRP:Кинозал
-https://cityeden.catcast.tv/content/40783/index.m3u8
-#EXTINF:-1 tvg-name="Сити Эдем - КиноФантастика" tvg-logo="https://www.cityeden.info/logotv/kinofantastika_logotip.png" group-title="Кинозал", Сити Эдем - КиноФантастика
-#EXTGRP:Кинозал
-https://cityeden.catcast.tv/content/45268/index.m3u8
-#EXTINF:-1 tvg-id="cityedem-kinoact" tvg-name="Сити Эдем - КиноЭкшен" tvg-logo="https://www.cityeden.info/logotv/logotip_siti_ehdem-kinoehkshen2.png" group-title="Кинозал", Сити Эдем - КиноЭкшен
-#EXTGRP:Кинозал
-https://cityeden.catcast.tv/content/41333/index.m3u8
-#EXTINF:-1 tvg-id="cityedem-telenov" tvg-name="Сити Эдем - ТелеНовелла" tvg-logo="https://www.cityeden.info/logotv/logotip_telenovella.png" group-title="Кинозал", Сити Эдем - ТелеНовелла
-#EXTGRP:Кинозал
-https://cityeden.catcast.tv/content/46209/index.m3u8
 #EXTINF:-1 tvg-name="Стримканал. 𝕂𝔸ℂℂ𝔼𝕋𝔸" tvg-logo="https://avatars.mds.yandex.net/i?id=555d891d488c5365011716af505489b85bf0170c-9044089-images-thumbs&n=13" group-title="Кинозал", Стримканал. 𝕂𝔸ℂℂ𝔼𝕋𝔸
 #EXTGRP:Кинозал
 http://kinowalk.hopto.org/kasseta_live
