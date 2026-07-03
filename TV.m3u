@@ -3152,7 +3152,7 @@ http://s8.rafail1982.uz/1495/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Farg'ona MTRK" tvg-logo="https://avatars.mds.yandex.net/i?id=474b117219506c81f58eec2d212992a9caa42c35-5869551-images-thumbs&n=13" group-title="Узбекистан", Farg'ona MTRK
 #EXTGRP:Узбекистан
 http://s8.rafail1982.uz/1458/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Gold UZ TV" tvg-logo="https://avatars.mds.yandex.net/i?id=ecdeceabddfbd571459e765cc40a4f5af1ce6f50-5283686-images-thumbs&n=13" group-title="Узбекистан", Gold UZ TV
+#EXTINF:-1 tvg-name="Gold UZ TV" tvg-logo="https://avatars.mds.yandex.net/i?id=32cd505cede0d08f91cf0c75e69419a99931412c-5160870-images-thumbs&n=13" group-title="Узбекистан", Gold UZ TV
 #EXTGRP:Узбекистан
 https://stream8.cinerama.uz/4007/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Ishonch TV" tvg-logo="https://avatars.mds.yandex.net/i?id=2d9a6e9881d0d59c7d42e9ff1494b1a7eadc6f8a-16439558-images-thumbs&n=13" group-title="Узбекистан", Ishonch TV
@@ -3197,15 +3197,9 @@ http://s8.rafail1982.uz/1285/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="My5 UZ" tvg-logo="http://epg.one/img/7928.png" group-title="Узбекистан", My5 UZ
 #EXTGRP:Узбекистан
 https://stream8.cinerama.uz/1217/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="My5 UZ International" tvg-logo="http://epg.one/img/7928.png" group-title="Узбекистан", My5 UZ International
-#EXTGRP:Узбекистан
-https://st.my5.media/hls/fullhd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="MYDAYTV" tvg-logo="https://avatars.mds.yandex.net/i?id=456d4b357ea21d156531ad8aca3c2f8823f0141e-5287696-images-thumbs&n=13" group-title="Узбекистан", MYDAYTV
 #EXTGRP:Узбекистан
 http://s8.rafail1982.uz/1265/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Nasaf TV" tvg-logo="https://avatars.mds.yandex.net/i?id=7ae27d70660d32625a170e8920c7a057410acf73-12421437-images-thumbs&n=13" group-title="Узбекистан", Nasaf TV
-#EXTGRP:Узбекистан
-http://s8.rafail1982.uz/2025/tracks-a1/mono.m3u8
 #EXTINF:-1 tvg-name="Navo UZ" tvg-logo="http://epg.one/img/2651.png" group-title="Узбекистан", Navo UZ
 #EXTGRP:Узбекистан
 https://stream8.cinerama.uz/1008/tracks-v1a1/mono.m3u8
@@ -3272,9 +3266,6 @@ http://s8.rafail1982.uz/1464/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Yoshlar UZ" tvg-logo="http://epg.one/img/2645.png" group-title="Узбекистан", Yoshlar UZ
 #EXTGRP:Узбекистан
 https://stream8.cinerama.uz/1002/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Zo'r TV HD UZ" tvg-logo="http://epg.one/img/7937.png" group-title="Узбекистан", Zo'r TV HD UZ
-#EXTGRP:Узбекистан
-https://stream8.cinerama.uz/1016/tracks-v1a1/mono.m3u8
 
 
 
