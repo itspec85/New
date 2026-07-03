@@ -3002,12 +3002,9 @@ https://live.teleradiocom.tj/4/3m.m3u8
 #EXTINF:-1 tvg-name="360 TV HD TR" tvg-logo="http://epg.one/img/3964.png" group-title="Турция", 360 TV HD TR
 #EXTGRP:Турция
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
-#EXTINF:-1 tvg-name="Akit TV HD TR" tvg-logo="http://epg.one/img/3839.png" group-title="Турция", Akit TV HD TR
-#EXTGRP:Турция
-http://app-plus.live:80/9680723188/kyft6ks0g7gr7uw0xio6/314418
 #EXTINF:-1 tvg-name="ATV TR" tvg-logo="http://epg.one/img/2600.png" group-title="Турция", ATV TR
 #EXTGRP:Турция
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamliveatv.m3u8
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_480p.m3u8
 #EXTINF:-1 tvg-name="BENGÜTÜRK" tvg-logo="https://i.ibb.co/0MHPk8y/benguturk.png" group-title="Турция", BENGÜTÜRK
 #EXTGRP:Турция
 https://ensonhaber-live.ercdn.net/benguturk/benguturk_720p.m3u8
@@ -3029,9 +3026,6 @@ https://flashhaber-live.ercdn.net/flashhaber/flashhaber.m3u8
 #EXTINF:-1 tvg-name="Global Haber TV TR" tvg-logo="http://epg.one/img/3980.png" group-title="Турция", Global Haber TV TR
 #EXTGRP:Турция
 https://ensonhaber-live.ercdn.net/haberglobal/haberglobal.m3u8
-#EXTINF:-1 tvg-name="Haber 61" tvg-logo="https://avatars.mds.yandex.net/i?id=7da4911edf799e93e2957af4a33f308e4dc9116d-12384153-images-thumbs&n=13" group-title="Турция", Haber 61
-#EXTGRP:Турция
-http://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/iptvdelisi.m3u8
 #EXTINF:-1 tvg-name="Haberturk HD TR" tvg-logo="http://epg.one/img/3979.png" group-title="Турция", Haberturk HD TR
 #EXTGRP:Турция
 https://ensonhaber-live.ercdn.net/haberturk/haberturk.m3u8
@@ -3044,9 +3038,6 @@ https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 #EXTINF:-1 tvg-id="kanal-d-hd" tvg-name="Kanal D" tvg-logo="http://epg.one/img/2605.png" group-title="Турция", Kanal D
 #EXTGRP:Турция
 https://kdlive.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
-#EXTINF:-1 tvg-name="Kanal S TR" tvg-logo="http://epg.one/img/2612.png" group-title="Турция", Kanal S TR
-#EXTGRP:Турция
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/kanal-s.m3u8
 #EXTINF:-1 tvg-name="Lalegul TV TR" tvg-logo="http://epg.one/img/3849.png" group-title="Турция", Lalegul TV TR
 #EXTGRP:Турция
 https://lbl.netmedya.net/hls/lalegultv.m3u8
@@ -3077,15 +3068,9 @@ https://live.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
 #EXTINF:-1 tvg-id="trt-1-hd" tvg-name="TRT 1 HD" tvg-logo="http://epg.one/img/2598.png" group-title="Турция", TRT 1 HD TR
 #EXTGRP:Турция
 http://tv-trt1.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-name="TRT 2 HD" tvg-logo="http://epg.one/img/3939.png" group-title="Турция", TRT 2 HD
-#EXTGRP:Турция
-http://app-plus.live:80/9680723188/kyft6ks0g7gr7uw0xio6/196785
 #EXTINF:-1 tvg-id="trt-avaz" tvg-name="TRT Avaz [TR]" tvg-logo="http://epg.one/img/3858.png" group-title="Турция", TRT Avaz TR
 #EXTGRP:Турция
 http://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-name="TRT Belgesel TR" tvg-logo="http://epg.one/img/3907.png" group-title="Турция", TRT Belgesel TR
-#EXTGRP:Турция
-http://app-plus.live:80/9680723188/kyft6ks0g7gr7uw0xio6/196807
 #EXTINF:-1 tvg-id="trt-cocuk-tr" tvg-name="TRT Çocuk [TR]" tvg-logo="http://epg.one/img/3896.png" group-title="Турция", TRT Çocuk TR
 #EXTGRP:Турция
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
@@ -3106,10 +3091,10 @@ https://tv-trthaber.medya.trt.com.tr/master.m3u8
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="TV 4 HD TR" tvg-logo="https://i.ibb.co/pXncfpb/tv422.png" group-title="Турция", TV 4 HD TR
 #EXTGRP:Турция
-http://app-plus.live:80/9680723188/kyft6ks0g7gr7uw0xio6/10775
+https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 #EXTINF:-1 tvg-id="tv8-tr" tvg-name="TV8 HD TR" tvg-logo="http://epg.one/img/2596.png" group-title="Турция", TV8 HD TR
 #EXTGRP:Турция
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivetv8.m3u8
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8
 #EXTINF:-1 tvg-id="tv85-tr" tvg-name="TV 8.5 HD [TR]" tvg-logo="http://epg.one/img/2614.png" group-title="Турция", TV 8.5 HD TR
 #EXTGRP:Турция
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk.m3u8
