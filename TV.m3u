@@ -1916,21 +1916,6 @@ http://rtmp.one.by:2300
 #EXTINF:-1 tvg-id="radio-shanson" tvg-name="Радио Шансон" tvg-logo="https://radioshanson.ru/assets/2a380c6a/img/logo-09-09-2019.png" group-title="Музыка", Радио Шансон
 #EXTGRP:Музыка
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
-#EXTINF:-1 tvg-name="Сити Эдем - Бирма Play" tvg-logo="https://www.cityeden.info/logotv/logotip_birma_plej.png" group-title="Музыка", Сити Эдем - Бирма Play
-#EXTGRP:Музыка
-https://cityeden.catcast.tv/content/34364/index.m3u8
-#EXTINF:-1 tvg-name="Сити Эдем - Классическая Музыка" tvg-logo="https://www.cityeden.info/logotv/siti_ehdem-klassika.png" group-title="Музыка", Сити Эдем - Классическая Музыка
-#EXTGRP:Музыка
-https://cityeden.catcast.tv/content/47400/index.m3u8
-#EXTINF:-1 tvg-name="Сити Эдем - Сиртаки ТВ" tvg-logo="https://www.cityeden.info/logotv/sirtaki_tv.png" group-title="Музыка", Сити Эдем - Сиртаки ТВ
-#EXTGRP:Музыка
-https://cityeden.catcast.tv/content/46421/index.m3u8
-#EXTINF:-1 tvg-name="Сити Эдем - Христианский Музыкальный" tvg-logo="https://www.cityeden.info/logotv/siti_ehdem_tv_2024.png" group-title="Музыка", Сити Эдем - Христианский Музыкальный
-#EXTGRP:Музыка
-https://cityeden.catcast.tv/content/34100/index.m3u8
-#EXTINF:-1 tvg-name="Сити Эдем - Meditation Music" tvg-logo="https://www.cityeden.info/logotv/siti_ehdem-meditacija.png" group-title="Музыка", Сити Эдем - Meditation Music
-#EXTGRP:Музыка
-https://cityeden.catcast.tv/content/47410/index.m3u8
 #EXTINF:-1 tvg-id="shanson-tv" tvg-name="Шансон TB" tvg-logo="http://epg.one/img/2278.png" group-title="Музыка", Шансон TB
 #EXTGRP:Музыка
 http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
