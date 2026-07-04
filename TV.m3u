@@ -2474,9 +2474,9 @@ http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ntrk-ingushetia" tvg-name="НТРК Ингушетия" tvg-logo="https://avatars.mds.yandex.net/i?id=6040cd15bc41b7ae95b07e304cb662c9216add6a-12411982-images-thumbs&n=13" group-title="Региональные РФ", НТРК Ингушетия
 #EXTGRP:Региональные РФ
 https://ingushetia.mediacdn.ru/cdn/ingushetia/playlist.m3u8
-#EXTINF:-1 tvg-id="nts-sevastopol" tvg-name="НТС" tvg-logo="https://cdn.epg.one/img/1117.png" group-title="Региональные РФ", НТС
+#EXTINF:-1 tvg-id="nts-sevastopol" tvg-name="НТС (Севастополь)" tvg-logo="https://avatars.mds.yandex.net/i?id=db6c49caed665af0178b3a4eedcd5166b95cfec8-5209454-images-thumbs&n=13" group-title="Региональные РФ", НТС (Севастополь)
 #EXTGRP:Региональные РФ
-http://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/chunklist.m3u8
+http://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="nts-irkutsk" tvg-name="НТС FHD Иркутск" tvg-logo="http://epg.one/img/6745.png" group-title="Региональные РФ", НТС FHD Иркутск
 #EXTGRP:Региональные РФ
 https://air.nts-tv.ru/fhd.m3u8
