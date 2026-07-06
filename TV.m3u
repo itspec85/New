@@ -880,6 +880,9 @@ https://s70378.cdn.ngenix.net/galaxy/2/index.m3u8
 #EXTINF:-1 tvg-id="galaxy-tv" tvg-name="Galaxy TV" tvg-logo="http://epg.one/img/2418.png" group-title="Познавательные", Galaxy HD
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000000332/tve/index.m3u8
+#EXTINF:-1 tvg-name="HHQ" tvg-logo="https://avatars.mds.yandex.net/i?id=6cb84ede2c647c11d26a36c4aa2a3f880d6b9365-7679814-images-thumbs&n=13" group-title="Познавательные", HHQ
+#EXTGRP:Познавательные
+https://bl.rutube.ru/livestream/2d7fa51716500fba52586d594201777f/index.m3u8?s=5RC_YHZXg5CPq7KrrCIO3w&e=2074209227&scheme=https
 #EXTINF:-1 tvg-id="history" tvg-name="History" tvg-logo="http://epg.one/img/1394.png" group-title="Познавательные", History
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000001000/tve/index.m3u8
@@ -1895,6 +1898,9 @@ http://kino-1.catcast.tv/content/37742/index.m3u8
 #EXTINF:-1 tvg-name="Музыка кино International" tvg-logo="http://epg.one/img/6270.png" group-title="Музыка", Музыка Кино International
 #EXTGRP:Музыка
 http://kino-1.catcast.tv/content/37739/index.m3u8
+#EXTINF:-1 tvg-id="muzykamodatv" tvg-name="ММТВ" tvg-logo="https://avatars.mds.yandex.net/i?id=5271d1db59a80f16a0e25534bcb795bdff86eee7-4743774-images-thumbs&n=13" group-title="Музыка", ММТВ
+#EXTGRP:Музыка
+https://bl.rutube.ru/livestream/965a025e4ebbaf0957415f80c6de8534/index.m3u8?s=Z0uYbkYrPj4f4UsbEk-CAg&e=2074209253&scheme=https
 #EXTINF:-1 tvg-id="muzyka-pervogo" tvg-name="Музыка Первого" tvg-logo="http://epg.one/img/715.png" group-title="Музыка", Музыка Первого
 #EXTGRP:Музыка
 http://37.186.70.39:40/play/79/index.m3u8
@@ -1922,6 +1928,9 @@ http://176.118.197.101/1HD/index.m3u8
 #EXTINF:-1 tvg-name="88 Stereo" tvg-logo="https://www.88stereo.com/wp-content/uploads/2017/05/88Stereo-logoweb.png" group-title="Музыка", 88 Stereo
 #EXTGRP:Музыка
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
+#EXTINF:-1 tvg-name="Activa TV" tvg-logo="https://avatars.mds.yandex.net/i?id=4b6ccd1bfa71ed866fe82d43df7f1235e2bf8f8a-4289847-images-thumbs&n=13" group-title="Музыка", Activa TV
+#EXTGRP:Музыка
+https://bl.rutube.ru/livestream/8e9da41366fcb497aaeade579f0d715f/index.m3u8?s=1KLVtTtdFploouW54WBELQ&e=2074209252&scheme=https
 #EXTINF:-1 tvg-name="Atomic Academy TV" tvg-logo="https://avatars.mds.yandex.net/i?id=aaf23cc486a8e86b82b15c55d27606091c217541-4897019-images-thumbs&n=13" group-title="Музыка", Atomic Academy TV
 #EXTGRP:Музыка
 https://atomic.streamnet.ro/academia.m3u8
