@@ -1898,7 +1898,7 @@ http://kino-1.catcast.tv/content/37742/index.m3u8
 #EXTINF:-1 tvg-name="Музыка кино International" tvg-logo="http://epg.one/img/6270.png" group-title="Музыка", Музыка Кино International
 #EXTGRP:Музыка
 http://kino-1.catcast.tv/content/37739/index.m3u8
-#EXTINF:-1 tvg-id="muzykamodatv" tvg-name="ММТВ" tvg-logo="https://avatars.mds.yandex.net/i?id=5271d1db59a80f16a0e25534bcb795bdff86eee7-4743774-images-thumbs&n=13" group-title="Музыка", ММТВ
+#EXTINF:-1 tvg-id="muzykamodatv" tvg-name="ММТВ" tvg-logo="https://avatars.mds.yandex.net/i?id=5271d1db59a80f16a0e25534bcb795bdff86eee7-4743774-images-thumbs&n=13" group-title="Музыка", Музыка Мода ТВ
 #EXTGRP:Музыка
 https://bl.rutube.ru/livestream/965a025e4ebbaf0957415f80c6de8534/index.m3u8?s=Z0uYbkYrPj4f4UsbEk-CAg&e=2074209253&scheme=https
 #EXTINF:-1 tvg-id="muzyka-pervogo" tvg-name="Музыка Первого" tvg-logo="http://epg.one/img/715.png" group-title="Музыка", Музыка Первого
