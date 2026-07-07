@@ -1675,7 +1675,7 @@ https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=4r
 https://flussonic.mkpnet.ru/tv-d3098523a4409835/video.m3u8
 #EXTINF:-1 tvg-id="match-tv" tvg-name="Матч ТВ HD" tvg-logo="http://epg.one/img/2051.png" group-title="Спорт", Матч ТВ HD
 #EXTGRP:Спорт
-https://bl.rutube.ru/livestream/11bbbec75a2ceb8cf446ad16813c6eec/index.m3u8?s=OPWhHjvzFdhW_V7TfzG1TQ&e=2074209261&scheme=https
+http://46.32.176.50/MatchTVHD/index.m3u8
 #EXTINF:-1 tvg-id="match-arena" tvg-name="Матч! Арена" tvg-logo="http://epg.one/img/2003.png" group-title="Спорт", Матч! Арена
 #EXTGRP:Спорт
 https://flussonic.mkpnet.ru/tv-9dda1dd9d740a9a4/video.m3u8
