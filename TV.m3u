@@ -1265,9 +1265,6 @@ http://37.186.70.39:40/play/72/index.m3u8
 #EXTINF:-1 tvg-id="rukino-hd" tvg-name="РуКино HD" tvg-logo="http://epg.one/img/4721.png" group-title="Кино", РуКино HD
 #EXTGRP:Кино
 http://hls127.freeott.top:8080/PG_Rukino_HD/mono.m3u8
-#EXTINF:-1 tvg-id="russkaya-komedia" tvg-name="Русская комедия" tvg-logo="http://epg.one/img/1620.png" group-title="Кино", Русская комедия
-#EXTGRP:Кино
-http://176.118.197.101/Komediya/mono.m3u8
 #EXTINF:-1 tvg-id="russky-bestseller" tvg-name="Русский бестселлер" tvg-logo="http://epg.one/img/994.png" group-title="Кино", Русский бестселлер
 #EXTGRP:Кино
 https://flussonic.mkpnet.ru/tv-ccf8c891702508a7/video.m3u8
@@ -1343,9 +1340,6 @@ http://hls127.freeott.top:8080/Bolt/mono.m3u8
 #EXTINF:-1 tvg-id="cinema-ru" tvg-name="Cinema HD" tvg-logo="http://epg.one/img/2754.png" group-title="Кино", Cinema HD
 #EXTGRP:Кино
 https://stream1.cinerama.uz/1227/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="epik-drama" tvg-name="Epic Drama" tvg-logo="http://epg.one/img/2229.png" group-title="Кино", Epic Drama
-#EXTGRP:Кино
-http://195.189.60.253/118/index.m3u8
 #EXTINF:-1 tvg-id="filmua-drama" tvg-name="Film.UA Drama" tvg-logo="http://epg.one/img/8911.png" group-title="Кино", Film UA Drama
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000003028/tve/index.m3u8
@@ -1418,9 +1412,6 @@ http://hls127.freeott.top:8080/PG_USSR_HD/mono.m3u8
 #EXTINF:-1 tvg-id="vhshd" tvg-name="VHS HD" tvg-logo="http://epg.one/img/5462.png" group-title="Кино", VHS HD
 #EXTGRP:Кино
 http://hls127.freeott.top:8080/PG_VHS_HD/mono.m3u8
-#EXTINF:-1 tvg-id="vip-comedy-cee" tvg-name="Viasat Kino Comedy" tvg-logo="http://epg.one/img/8880.png" group-title="Кино", Viasat Kino Comedy HD
-#EXTGRP:Кино
-http://ukr2.ukrainske.tv/493/video.m3u8
 #EXTINF:-1 tvg-id="tv1000" tvg-name="Viju TV1000" tvg-logo="http://epg.one/img/127.png" group-title="Кино", Viju TV1000
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000003747/tve/index.m3u8
@@ -2345,9 +2336,6 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-name="Илли ТВ" tvg-logo="https://avatars.mds.yandex.net/i?id=a8367c659ad87549d38828d47773270db6ff84da-5218867-images-thumbs&n=13" group-title="Региональные РФ", Илли ТВ
 #EXTGRP:Региональные РФ
 https://bl.rutube.ru/livestream/eda2da42eea89951e4135141a30915f7/index.m3u8?s=nbZ4ooGORESUVz28fEE4Zg&e=2074209254&scheme=https
-#EXTINF:-1 tvg-id="impuls-sewera" tvg-name="Импульс Севера Новый Уренгой" tvg-logo="https://iptvx.one/picons/impuls-sewera.png" group-title="Региональные РФ", Импульс Севера Новый Уренгой
-#EXTGRP:Региональные РФ
-https://bl.rutube.ru/livestream/342a3e4f3c9bb0d7830a52af0d956c44/index.m3u8?s=VUfJh9EGdTctWVWkVsjykA&e=2074209245&scheme=https
 #EXTINF:-1 tvg-id="rentv-istoki" tvg-name="Истоки Орёл" tvg-logo="http://epg.one/img/6032.png" group-title="Региональные РФ", Истоки Орёл
 #EXTGRP:Региональные РФ
 https://bl.rutube.ru/livestream/503a8ac5ca6d738f05a147764f70215b/index.m3u8?s=zj3hqg2tTLdXDx5EffzNFg&e=2074209250&scheme=https
