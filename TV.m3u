@@ -460,9 +460,6 @@ http://stream.smotrim.ru/hls/russia_k_dubl1/playlist_3.m3u8
 #EXTINF:-1 tvg-id="kultura" tvg-shift="-7" tvg-name="Россия К +7 HD" tvg-logo="http://epg.one/img/1101.png" group-title="Россия плюсовые", Россия К +7 HD
 #EXTGRP:Россия плюсовые
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/kultura-hd/index.m3u8
-#EXTINF:-1 tvg-id="sts-pl2" tvg-name="СТС +2" tvg-logo="http://epg.one/img/3007.png" group-title="Россия плюсовые", СТС +2
-#EXTGRP:Россия плюсовые
-http://176.118.197.101/CTC/index.m3u8
 #EXTINF:-1 tvg-id="sts-pl4" tvg-name="СТС +4" tvg-logo="http://epg.one/img/3008.png" group-title="Россия плюсовые", СТС +4
 #EXTGRP:Россия плюсовые
 http://95.47.155.244:8001/play/a013
@@ -472,15 +469,9 @@ http://95.47.155.244:8001/play/a015
 #EXTINF:-1 tvg-id="tvcentr-pl4" tvg-name="ТВЦ +4" tvg-logo="http://epg.one/img/3037.png" group-title="Россия плюсовые", ТВЦ +4
 #EXTGRP:Россия плюсовые
 http://95.47.155.244:8001/play/a010
-#EXTINF:-1 tvg-id="tnt-pl2" tvg-name="ТНТ +2" tvg-logo="http://epg.one/img/3022.png" group-title="Россия плюсовые", ТНТ +2
-#EXTGRP:Россия плюсовые
-http://176.118.197.101/THT/index.m3u8
 #EXTINF:-1 tvg-id="tnt-pl4" tvg-name="ТНТ +4" tvg-logo="http://epg.one/img/3023.png" group-title="Россия плюсовые", ТНТ +4
 #EXTGRP:Россия плюсовые
 http://95.47.155.244:8001/play/a019
-#EXTINF:-1 tvg-id="che-pl4" tvg-name="Че +4" tvg-logo="http://epg.one/img/1598.png" group-title="Россия плюсовые", Че +4
-#EXTGRP:Россия плюсовые
-http://176.118.197.101/Che/index.m3u8
 
 
 
@@ -673,7 +664,7 @@ http://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
 https://ucdn.beetv.kz/bpk-tv/000008615/tve/index.m3u8
 #EXTINF:-1 tvg-id="nostalgia" tvg-name="Ностальгия" tvg-logo="http://epg.one/img/783.png" group-title="Познавательные", Ностальгия
 #EXTGRP:Познавательные
-http://176.118.197.101/Nostalgiya/index.m3u8
+https://s70378.cdn.ngenix.net/nostalgia/2/index.m3u8
 #EXTINF:-1 tvg-id="ntv-pravo" tvg-name="НТВ Право" tvg-logo="http://epg.one/img/1753.png" group-title="Познавательные", НТВ Право
 #EXTGRP:Познавательные
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
@@ -1083,7 +1074,7 @@ http://hls127.freeott.top:8080/box_anime_hd/video.m3u8
 http://5.188.159.128:8070/Cartoon_Network/index.m3u8
 #EXTINF:-1 tvg-id="cartoon-network" tvg-name="Cartoon Network" tvg-logo="http://epg.one/img/601.png" group-title="Детские", Cartoon Network
 #EXTGRP:Детские
-http://176.118.197.101/Cartoon_Network/index.m3u8
+http://45.132.87.69:8080/cartoon_network/index.m3u8
 #EXTINF:-1 tvg-id="boomerang" tvg-name="Cartoonito" tvg-logo="http://epg.one/img/929.png" group-title="Детские", Cartoonito
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000000160/tve/index.m3u8
@@ -1258,7 +1249,7 @@ https://ucdn.beetv.kz/bpk-tv/000008491/tve/index.m3u8
 http://hls127.freeott.top:8080/ProLubovHD/mono.m3u8
 #EXTINF:-1 tvg-id="retro-tv" tvg-name="Ретро ТВ" tvg-logo="http://epg.one/img/2402.png" group-title="Кино", Ретро ТВ
 #EXTGRP:Кино
-http://176.118.197.101/Retro/mono.m3u8
+http://193.25.8.59:8000/retro
 #EXTINF:-1 tvg-id="rodnoe-kino" tvg-name="Родное кино" tvg-logo="http://epg.one/img/12.png" group-title="Кино", РОДНОЕ КИНО
 #EXTGRP:Кино
 http://37.186.70.39:40/play/72/index.m3u8
@@ -1912,7 +1903,7 @@ http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
 http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="1hd" tvg-name="1HD" tvg-logo="http://epg.one/img/4037.png" group-title="Музыка", 1HD
 #EXTGRP:Музыка
-http://176.118.197.101/1HD/index.m3u8
+https://ucdn.beetv.kz/bpk-tv/000001020/tve/index.m3u8
 #EXTINF:-1 tvg-name="88 Stereo" tvg-logo="https://www.88stereo.com/wp-content/uploads/2017/05/88Stereo-logoweb.png" group-title="Музыка", 88 Stereo
 #EXTGRP:Музыка
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
