@@ -1354,7 +1354,7 @@ https://ucdn.beetv.kz/bpk-tv/000003028/tve/index.m3u8
 https://s70378.cdn.ngenix.net/filmbox/2/index.m3u8
 #EXTINF:-1 tvg-id="filmbox-arthouse" tvg-name="FilmBox ArtHouse" tvg-logo="http://epg.one/img/2182.png" group-title="Кино", FilmBox ArtHouse
 #EXTGRP:Кино
-https://prosto.zuno-tv.workers.dev/stream/id111/video.m3u8
+https://s70378.cdn.ngenix.net/filmbox_arthouse/2/index.m3u8
 #EXTINF:-1 tvg-id="fox" tvg-name="FX" tvg-logo="http://epg.one/img/1031.png" group-title="Кино", FX
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000004472/tve/index.m3u8
@@ -1375,7 +1375,7 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/93
 http://hls127.freeott.top:8080/PG_Insomnia_HD/mono.m3u8
 #EXTINF:-1 tvg-id="kino-24" tvg-name="Kino 24" tvg-logo="https://avatars.mds.yandex.net/i?id=bcb344db8e930caadd7dda8f42123ff8073d584c-5607498-images-thumbs&n=13" group-title="Кино", Kino 24
 #EXTGRP:Кино
-http://sirius.greenhosting.ru/Kino24Ru/tracks-v1a1/mono.m3u8
+http://85.192.10.131/hls/Kino24Ru/playlist.m3u8
 #EXTINF:-1 tvg-name="nsc+" tvg-logo="https://avatars.mds.yandex.net/i?id=9e0e17abb257685d9b30fcdc31730c0ef3723ad5-4797777-images-thumbs&n=13" group-title="Кино", nsc+
 #EXTGRP:Кино
 http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
