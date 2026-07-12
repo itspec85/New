@@ -165,9 +165,6 @@ https://ucdn.beetv.kz/bpk-tv/000001213/tve/index.m3u8
 #EXTINF:-1 tvg-id="domashny" tvg-name="Домашний" tvg-logo="http://epg.one/img/304.png" group-title="Россия", Домашний
 #EXTGRP:Россия
 http://185.46.16.239:8000/Domashniy
-#EXTINF:-1 tvg-id="domashny" tvg-name="Домашний" tvg-logo="http://epg.one/img/304.png" group-title="Россия", Домашний HD
-#EXTGRP:Россия
-http://api.dommir.top/ch/Domashniy_RU_hi/playlist.m3u8?token=00bc9a19b55d8f8ed70b8a79a66648c4
 #EXTINF:-1 tvg-id="domashny-int" tvg-name="Домашний International" tvg-logo="https://iptvx.one/picons/domashny-int.png" group-title="Россия", Домашний International
 #EXTGRP:Россия
 https://ucdn.beetv.kz/bpk-tv/000002348/tve/index.m3u8
@@ -933,7 +930,7 @@ https://s70378.cdn.ngenix.net/rtg_hd/3/index.m3u8
 http://hls127.freeott.top:8080/RTG_TV/mono.m3u8
 #EXTINF:-1 tvg-id="rtvi" tvg-name="RTVi" tvg-logo="http://epg.one/img/2401.png" group-title="Познавательные", RTVi
 #EXTGRP:Познавательные
-http://api.dommir.top/ch/RTVi_RU/playlist.m3u8?token=4893203acbcedddbddedd5f2033698b0
+https://s70378.cdn.ngenix.net/rtvi/index.m3u8
 #EXTINF:-1 tvg-id="russky-ekstrim" tvg-name="Russian Extreme HD" tvg-logo="http://epg.one/img/2497.png" group-title="Познавательные", Russian Extreme HD
 #EXTGRP:Познавательные
 http://85.208.223.249:8888/play/a004
