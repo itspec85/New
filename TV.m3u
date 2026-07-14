@@ -736,15 +736,27 @@ http://cdn-01.bonus-tv.ru/prosveschenie_edge/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="radost-moya" tvg-name="Радость моя" tvg-logo="http://epg.one/img/2287.png" group-title="Познавательные", Радость моя
 #EXTGRP:Познавательные
 https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
+#EXTINF:-1 tvg-id="ratnik" tvg-name="Ратник" tvg-logo="http://epg.one/img/2470.png" group-title="Познавательные", Ратник
+#EXTGRP:Познавательные
+http://tv.ttk.mx:9106
 #EXTINF:-1 tvg-id="rzhd-tv" tvg-name="РЖД ТВ" tvg-logo="http://epg.one/img/2471.png" group-title="Познавательные", РЖД ТВ
 #EXTGRP:Познавательные
 http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="rybalka-i-oxota" tvg-name="Рыбалка и охота" tvg-logo="https://iptvx.one/picons/rybalka-i-oxota.png" group-title="Познавательные", Рыбалка и охота
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000002510/tve/index.m3u8
+#EXTINF:-1 tvg-id="oxotnik-i-rybolov" tvg-name="Рыболов" tvg-logo="http://epg.one/img/6646.png" group-title="Познавательные", Рыболов HD
+#EXTGRP:Познавательные
+http://37.186.70.39:40/play/108/index.m3u8
 #EXTINF:-1 tvg-id="sarafan" tvg-name="Сарафан" tvg-logo="http://epg.one/img/663.png" group-title="Познавательные", Сарафан
 #EXTGRP:Познавательные
 https://stream8.cinerama.uz/1249/tracks-v1a1/mono.m3u8
+
+https://cityeden.catcast.tv/content/47515/index.m3u8?password=
+
+
+
+
 #EXTINF:-1 tvg-id="smotrim-100-prazdnik" tvg-name="Смотрим 100% Праздник" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-prazdnik.png" group-title="Познавательные", Смотрим 100% Праздник
 #EXTGRP:Познавательные
 https://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8
@@ -793,6 +805,9 @@ http://193.25.8.59:8000/telecafe
 #EXTINF:-1 tvg-id="teleputeshestvia" tvg-name="Телепутешествия" tvg-logo="http://epg.one/img/2424.png" group-title="Познавательные", Телепутешествия
 #EXTGRP:Познавательные
 http://31148.rafail1982.uz/Teleputeshestviya/index.m3u8
+#EXTINF:-1 tvg-id="terra-inkognita" tvg-name="Терра Инкогнита" tvg-logo="https://epg.iptvx.one/picons/terra-inkognita.png" group-title="Познавательные", Терра Инкогнита
+#EXTGRP:Познавательные
+http://stitch.teletarget.ru/vintera/terra/index.m3u8
 #EXTINF:-1 tvg-id="tochka-otryva" tvg-name="Точка отрыва" tvg-logo="http://epg.one/img/617.png" group-title="Познавательные", Точка отрыва
 #EXTGRP:Познавательные
 https://flussonic.mkpnet.ru/tv-025f6f42ae5bcfc6/video.m3u8
