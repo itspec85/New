@@ -754,6 +754,9 @@ https://stream8.cinerama.uz/1249/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Сити Эдем - АвтоГид" tvg-logo="https://www.cityeden.info/logotv/logotip_avtogid1.png" group-title="Познавательные", Сити Эдем - АвтоГид
 #EXTGRP:Познавательные
 https://cityeden.catcast.tv/content/47515/index.m3u8?password=
+#EXTINF:-1 tvg-name="Сити Эдем - КиноДок" tvg-logo="https://www.cityeden.info/logotv/logotip_kinodok1.png" group-title="Познавательные", Сити Эдем - КиноДок
+#EXTGRP:Познавательные
+https://cityeden.catcast.tv/content/38354/index.m3u8?password=
 #EXTINF:-1 tvg-name="Сити Эдем - МедЗдрав" tvg-logo="https://www.cityeden.info/logotv/logotip_medzdrav1.png" group-title="Познавательные", Сити Эдем - МедЗдрав
 #EXTGRP:Познавательные
 https://cityeden.catcast.tv/content/47519/index.m3u8?password=
@@ -1298,6 +1301,9 @@ https://ucdn.beetv.kz/bpk-tv/000004207/tve/index.m3u8
 #EXTINF:-1 tvg-id="russky-roman" tvg-name="Русский роман" tvg-logo="http://epg.one/img/401.png" group-title="Кино", Русский роман
 #EXTGRP:Кино
 http://37.186.70.39:40/play/119/index.m3u8
+#EXTINF:-1 tvg-id="russky-roman" tvg-name="Русский роман" tvg-logo="http://epg.one/img/401.png" group-title="Кино", Русский роман HD
+#EXTGRP:Кино
+http://tv.ttk.mx:9085
 #EXTINF:-1 tvg-id="sapfir" tvg-name="Сапфир" tvg-logo="http://epg.one/img/7315.png" group-title="Кино", Сапфир
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000008135/tve/index.m3u8
@@ -1358,6 +1364,9 @@ http://hls127.freeott.top:8080/Bolt/mono.m3u8
 #EXTINF:-1 tvg-id="cinema-ru" tvg-name="Cinema HD" tvg-logo="http://epg.one/img/2754.png" group-title="Кино", Cinema HD
 #EXTGRP:Кино
 https://stream1.cinerama.uz/1227/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="epik-drama" tvg-name="Epic Drama" tvg-logo="http://epg.one/img/2229.png" group-title="Кино", Epic Drama
+#EXTGRP:Кино
+http://195.189.60.253/118/index.m3u8
 #EXTINF:-1 tvg-id="filmua-drama" tvg-name="Film.UA Drama" tvg-logo="http://epg.one/img/8911.png" group-title="Кино", Film UA Drama
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000003028/tve/index.m3u8
@@ -1367,6 +1376,9 @@ https://s70378.cdn.ngenix.net/filmbox/2/index.m3u8
 #EXTINF:-1 tvg-id="filmbox-arthouse" tvg-name="FilmBox ArtHouse" tvg-logo="http://epg.one/img/2182.png" group-title="Кино", FilmBox ArtHouse
 #EXTGRP:Кино
 https://s70378.cdn.ngenix.net/filmbox_arthouse/2/index.m3u8
+#EXTINF:-1 tvg-id="flixsnip" tvg-name="FlixSnip" tvg-logo="http://epg.one/img/774.png" group-title="Кино", FlixSnip
+#EXTGRP:Кино
+http://45.145.32.13:20440/flixsnip/index.m3u8?token=test
 #EXTINF:-1 tvg-id="fox" tvg-name="FX" tvg-logo="http://epg.one/img/1031.png" group-title="Кино", FX
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000004472/tve/index.m3u8
@@ -1934,6 +1946,15 @@ http://rtmp.one.by:2300
 #EXTINF:-1 tvg-id="radio-shanson" tvg-name="Радио Шансон" tvg-logo="https://avatars.mds.yandex.net/i?id=c5c19a2736c0be8c5376730f5b8777cc59031d3e-12173799-images-thumbs&n=13" group-title="Музыка", Радио Шансон
 #EXTGRP:Музыка
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
+#EXTINF:-1 tvg-name="Сити Эдем - Бирма Play" tvg-logo="https://www.cityeden.info/logotv/logotip_birma_plej.png" group-title="Музыка", Сити Эдем - Бирма Play
+#EXTGRP:Музыка
+https://cityeden.catcast.tv/content/34364/index.m3u8?password=
+#EXTINF:-1 tvg-name="Сити Эдем - Сиртаки ТВ" tvg-logo="https://www.cityeden.info/logotv/sirtaki_tv.png" group-title="Музыка", Сити Эдем - Сиртаки ТВ
+#EXTGRP:Музыка
+https://cityeden.catcast.tv/content/46421/index.m3u8?password=
+#EXTINF:-1 tvg-name="Сити Эдем - Meditation Music" tvg-logo="https://www.cityeden.info/logotv/siti_ehdem-meditacija.png" group-title="Музыка", Сити Эдем - Meditation Music
+#EXTGRP:Музыка
+https://cityeden.catcast.tv/content/47410/index.m3u8?password=
 #EXTINF:-1 tvg-id="shanson-tv" tvg-name="Шансон TB" tvg-logo="http://epg.one/img/2278.png" group-title="Музыка", Шансон TB
 #EXTGRP:Музыка
 http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
@@ -1979,6 +2000,9 @@ https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/
 #EXTINF:-1 tvg-id="deluxe-music-de" tvg-name="Deluxe Music [DE]" tvg-logo="http://epg.one/img/8044.png" group-title="Музыка", Deluxe Music HD DE
 #EXTGRP:Музыка
 http://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:-1 tvg-id="deluxe-rap-de" tvg-name="Deluxe Rap [DE]" tvg-logo="https://epg.iptvx.one/picons/deluxe-rap-de.png" group-title="Музыка", Deluxe Rap
+#EXTGRP:Музыка
+http://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
 #EXTINF:-1 tvg-id="dream-turk-tr" tvg-name="Dream Türk [TR]" tvg-logo="http://epg.one/img/3928.png" group-title="Музыка", DREAM TÜRK
 #EXTGRP:Музыка
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
