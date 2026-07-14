@@ -1775,6 +1775,9 @@ https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-name="FIFA+ Women" tvg-logo="https://avatars.mds.yandex.net/i?id=bdbc330ef7e210c9dc6e98fb73c2a0a56935397c-5761336-images-thumbs&n=13" group-title="Спорт", FIFA+ Women
 #EXTGRP:Спорт
 https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c3dvbWVuX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-id="fightbox-hd" tvg-name="FightBox HD" tvg-logo="http://epg.one/img/3792.png" group-title="Спорт", FightBox HD
+#EXTGRP:Спорт
+http://185.98.211.8:81/fightbox/index.m3u8?token=test&amp;21yo=0
 #EXTINF:-1 tvg-name="FITE 24/7" tvg-logo="https://i.imgur.com/ESV6qgH.png" group-title="Спорт", FITE 24/7
 #EXTGRP:Спорт
 https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8
