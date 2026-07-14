@@ -1703,6 +1703,9 @@ http://37.186.70.39:40/play/83/index.m3u8
 #EXTINF:-1 tvg-id="match-premier" tvg-name="Матч! Премьер" tvg-logo="http://epg.one/img/2250.png" group-title="Спорт", МАТЧ ПРЕМЬЕР
 #EXTGRP:Спорт
 https://flussonic.mkpnet.ru/tv-ee3651e1e7ce5cbf/video.m3u8
+#EXTINF:-1 tvg-id="match-premier" tvg-name="Матч! Премьер" tvg-logo="http://epg.one/img/2250.png" group-title="Спорт", МАТЧ ПРЕМЬЕР HD
+#EXTGRP:Спорт
+http://tv.ttk.mx:10000
 #EXTINF:-1 tvg-id="match-nash-sport" tvg-name="Матч! Страна" tvg-logo="http://epg.one/img/2042.png" group-title="Спорт", МАТЧ! СТРАНА
 #EXTGRP:Спорт
 http://ukr.ukrainske.tv/134/keytvainua/video.m3u8
@@ -1763,6 +1766,9 @@ https://ucdn.beetv.kz/bpk-tv/000002479/tve/index.m3u8
 #EXTINF:-1 tvg-id="extreme-sports" tvg-name="Extreme Sports" tvg-logo="http://epg.one/img/2053.png" group-title="Спорт", Extreme Sports
 #EXTGRP:Спорт
 https://flussonic.mkpnet.ru/tv-1a9441fd32d63873/video.m3u8
+#EXTINF:-1 tvg-id="fastfunbox-hd" tvg-name="Fast&FunBox HD" tvg-logo="http://epg.one/img/2362.png" group-title="Спорт", Fast&FunBox HD
+#EXTGRP:Спорт
+https://iptv.prosto.tv/ch120/tracks-v2a1/mono.m3u8?live=1&amp;ip=178.136.40.86&amp;id=921233&amp;secret=9szoe89y&amp;21yo=0&amp;e=1783249561&amp;st=-CNEhLDi2VkEY_caCemBGQ
 #EXTINF:-1 tvg-name="FIFA+" tvg-logo="https://avatars.mds.yandex.net/i?id=bdbc330ef7e210c9dc6e98fb73c2a0a56935397c-5761336-images-thumbs&n=13" group-title="Спорт", FIFA+
 #EXTGRP:Спорт
 https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
