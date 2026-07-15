@@ -251,7 +251,7 @@ https://e5-online-video.rbc.ru/online2/rbctvhd_1080p/index.m3u8
 http://194.152.35.17/ren_tv/index.m3u8
 #EXTINF:-1 tvg-id="rentv" tvg-name="Рен ТВ" tvg-logo="http://epg.one/img/2487.png" group-title="Россия", РЕН ТВ HD
 #EXTGRP:Россия
-https://edge01d.mediavitrina.ru/hls-livef6/ren-tv/index.m3u8?token=v2.0xenQB0lZ3V4ts_1iCSKdob5w2ALevRMm_Vb9IiQruM.gS1e-T6pHoBeoT5JsnIC_kavphDrPoxp-TDLTiBHXLQ.1782999489.a05b109d1e0bc322e62e070983c89578
+https://edge01p.mediavitrina.ru/hls-livef5/ren-tv/index.m3u8?token=v2.hM2ZLQzw9uLJQ5kvT-x7GEPeyqZvFvGrhAwwMgZNpng.nQjvVFRzmJ1m_CjHvlMCzyO-hu4hWWKIuV4aPsof3kU.1784453889.ad2ee39a13ca3e808ff4c421d4f7ef52
 #EXTINF:-1 tvg-name="Рен ТВ International" tvg-logo="https://i.postimg.cc/SsRGs7Y7/International.png" group-title="Россия", Рен ТВ International
 #EXTGRP:Россия
 https://s70378.cdn.ngenix.net/ren_tv/2/index.m3u8
@@ -1547,9 +1547,6 @@ http://kinowalk.hopto.org/nonestopmovie_live
 #EXTINF:-1 tvg-name="Стримканал. Комедии 24/7" tvg-logo="https://images.live.vkvideo.ru/user/18725544/avatar?change_time=1764060712&croped=1&mh=140&mw=140" group-title="Кинозал", Стримканал. Комедии 24/7
 #EXTGRP:Кинозал
 http://kinowalk.hopto.org/cmexye4ku_live
-#EXTINF:-1 tvg-name="Стримканал. Назад в СССР" tvg-logo="https://avatars.mds.yandex.net/i?id=555d891d488c5365011716af505489b85bf0170c-9044089-images-thumbs&n=13" group-title="Кинозал", Стримканал. Назад в СССР
-#EXTGRP:Кинозал
-http://kinowalk.hopto.org/backtotheussr_live
 #EXTINF:-1 tvg-name="Стримканал. Паранормальный" tvg-logo="https://avatars.mds.yandex.net/i?id=555d891d488c5365011716af505489b85bf0170c-9044089-images-thumbs&n=13" group-title="Кинозал", Стримканал. Паранормальный
 #EXTGRP:Кинозал
 http://kinowalk.hopto.org/paranormal404_live
@@ -1658,9 +1655,6 @@ http://kinowalk.hopto.org/video_prokat_live
 #EXTINF:-1 tvg-name="Стримканал. Wfliq" tvg-logo="https://avatars.mds.yandex.net/i?id=555d891d488c5365011716af505489b85bf0170c-9044089-images-thumbs&n=13" group-title="Кинозал", Стримканал. Wfliq
 #EXTGRP:Кинозал
 http://kinowalk.hopto.org/wfliq_live
-#EXTINF:-1 tvg-name="Стримканал. ZubrilomFilm" tvg-logo="https://images.live.vkvideo.ru/user/18824582/avatar?change_time=1714643599&croped=1&mh=140&mw=140" group-title="Кинозал", Стримканал. ZubrilomFilm
-#EXTGRP:Кинозал
-http://kinowalk.hopto.org/zubrilomfilm_live
 #EXTINF:-1 tvg-name="CPS Action" tvg-logo="https://avatars.mds.yandex.net/i?id=d0cd0536644c44380ed9a5f1fc4f51bd2169a5dd-5335451-images-thumbs&n=13" group-title="Кинозал", CPS Action
 #EXTGRP:Кинозал
 http://hls127.freeott.top:8080/CPS_Action/video.m3u8
