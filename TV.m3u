@@ -342,9 +342,15 @@ https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?s=7P
 
 
 
+#EXTINF:-1 tvg-id="domashny-pl2" tvg-name="Домашний +2" tvg-logo="http://epg.one/img/3010.png" group-title="Россия плюсовые", Домашний +2
+#EXTGRP:Россия плюсовые
+https://sh.kinolar.workers.dev/225/index.m3u8
 #EXTINF:-1 tvg-id="domashny-pl4" tvg-name="Домашний +4" tvg-logo="http://epg.one/img/3011.png" group-title="Россия плюсовые", Домашний +4
 #EXTGRP:Россия плюсовые
 http://95.47.155.244:8001/play/a014
+#EXTINF:-1 tvg-id="domashny-pl7" tvg-name="Домашний +7" tvg-logo="http://epg.one/img/3012.png" group-title="Россия плюсовые", Домашний +7
+#EXTGRP:Россия плюсовые
+https://sh.kinolar.workers.dev/3528/index.m3u8
 #EXTINF:-1 tvg-id="zvezda-pl2" tvg-name="Звезда +2" tvg-logo="http://epg.one/img/2039.png" group-title="Россия плюсовые", Звезда +2
 #EXTGRP:Россия плюсовые
 https://sh.kinolar.workers.dev/366/index.m3u8
@@ -388,9 +394,15 @@ https://sh.kinolar.workers.dev/20751/index.m3u8
 #EXTINF:-1 tvg-id="pervy-pl8" tvg-name="Первый канал +8" tvg-logo="http://epg.one/img/3027.png" group-title="Россия плюсовые", Первый канал +8
 #EXTGRP:Россия плюсовые
 https://sh.kinolar.workers.dev/20771/index.m3u8
+#EXTINF:-1 tvg-id="piatnica-pl2" tvg-name="Пятница +2" tvg-logo="http://epg.one/img/3016.png" group-title="Россия плюсовые", Пятница +2
+#EXTGRP:Россия плюсовые
+https://sh.kinolar.workers.dev/1716/index.m3u8
 #EXTINF:-1 tvg-id="piatnica-pl4" tvg-name="Пятница +4" tvg-logo="http://epg.one/img/3017.png" group-title="Россия плюсовые", Пятница +4
 #EXTGRP:Россия плюсовые
 http://95.47.155.244:8001/play/a016
+#EXTINF:-1 tvg-id="piatnica-pl7" tvg-name="Пятница +7" tvg-logo="http://epg.one/img/3018.png" group-title="Россия плюсовые", Пятница +7
+#EXTGRP:Россия плюсовые
+https://sh.kinolar.workers.dev/3530/index.m3u8
 #EXTINF:-1 tvg-id="5kanal-ru-pl2" tvg-name="Пятый канал +2" tvg-logo="http://epg.one/img/2035.png" group-title="Россия плюсовые", Пятый канал +2
 #EXTGRP:Россия плюсовые
 https://sh.kinolar.workers.dev/285/index.m3u8
@@ -502,9 +514,18 @@ http://176.118.197.101/TB3/index.m3u8
 #EXTINF:-1 tvg-id="tv3-ru-pl4" tvg-name="ТВ3 +4" tvg-logo="http://epg.one/img/3014.png" group-title="Россия плюсовые", ТВ3 +4
 #EXTGRP:Россия плюсовые
 http://95.47.155.244:8001/play/a015
+#EXTINF:-1 tvg-id="tv3-ru-pl7" tvg-name="ТВ3 +7" tvg-logo="http://epg.one/img/3015.png" group-title="Россия плюсовые", ТВ3 +7
+#EXTGRP:Россия плюсовые
+https://sh.kinolar.workers.dev/3529/index.m3u8
+#EXTINF:-1 tvg-id="tvcentr-pl2" tvg-name="ТВЦ +2" tvg-logo="http://epg.one/img/2038.png" group-title="Россия плюсовые", ТВЦ +2
+#EXTGRP:Россия плюсовые
+https://sh.kinolar.workers.dev/1710/index.m3u8
 #EXTINF:-1 tvg-id="tvcentr-pl4" tvg-name="ТВЦ +4" tvg-logo="http://epg.one/img/3037.png" group-title="Россия плюсовые", ТВЦ +4
 #EXTGRP:Россия плюсовые
 http://95.47.155.244:8001/play/a010
+#EXTINF:-1 tvg-id="tvcentr-pl7" tvg-name="ТВЦ +7" tvg-logo="http://epg.one/img/3038.png" group-title="Россия плюсовые", ТВЦ +7
+#EXTGRP:Россия плюсовые
+https://sh.kinolar.workers.dev/3525/index.m3u8
 #EXTINF:-1 tvg-id="tnt-pl2" tvg-name="ТНТ +2" tvg-logo="http://epg.one/img/3022.png" group-title="Россия плюсовые", ТНТ +2
 #EXTGRP:Россия плюсовые
 http://176.118.197.101/THT/index.m3u8
@@ -520,6 +541,21 @@ https://sh.kinolar.workers.dev/3650/index.m3u8
 #EXTINF:-1 tvg-id="che-pl2" tvg-name="Че +2" tvg-logo="http://epg.one/img/1598.png" group-title="Россия плюсовые", Че +2
 #EXTGRP:Россия плюсовые
 http://176.118.197.101/Che/mono.m3u8
+#EXTINF:-1 tvg-id="che-pl4" tvg-name="Че +4" tvg-logo="http://epg.one/img/1598.png" group-title="Россия плюсовые", Че +4
+#EXTGRP:Россия плюсовые
+https://sh.kinolar.workers.dev/3758/index.m3u8
+#EXTINF:-1 tvg-id="che-pl7" tvg-name="Че +7" tvg-logo="http://epg.one/img/1598.png" group-title="Россия плюсовые", Че +7
+#EXTGRP:Россия плюсовые
+https://sh.kinolar.workers.dev/5081/index.m3u8
+#EXTINF:-1 tvg-id="yu-pl2" tvg-name="Ю +2" tvg-logo="http://epg.one/img/898.png" group-title="Россия плюсовые", Ю +2
+#EXTGRP:Россия плюсовые
+https://sh.kinolar.workers.dev/4346/index.m3u8
+#EXTINF:-1 tvg-id="yu-pl4" tvg-name="Ю +4" tvg-logo="http://epg.one/img/898.png" group-title="Россия плюсовые", Ю +4
+#EXTGRP:Россия плюсовые
+https://sh.kinolar.workers.dev/5510/index.m3u8
+#EXTINF:-1 tvg-id="yu-pl7" tvg-name="Ю +7" tvg-logo="http://epg.one/img/898.png" group-title="Россия плюсовые", Ю +7
+#EXTGRP:Россия плюсовые
+https://sh.kinolar.workers.dev/5512/index.m3u8
 
 
 
