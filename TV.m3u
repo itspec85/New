@@ -345,9 +345,15 @@ https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?s=7P
 #EXTINF:-1 tvg-id="domashny-pl4" tvg-name="Домашний +4" tvg-logo="http://epg.one/img/3011.png" group-title="Россия плюсовые", Домашний +4
 #EXTGRP:Россия плюсовые
 http://95.47.155.244:8001/play/a014
+#EXTINF:-1 tvg-id="zvezda-pl2" tvg-name="Звезда +2" tvg-logo="http://epg.one/img/2039.png" group-title="Россия плюсовые", Звезда +2
+#EXTGRP:Россия плюсовые
+https://sh.kinolar.workers.dev/366/index.m3u8
 #EXTINF:-1 tvg-id="zvezda-pl4" tvg-name="Звезда +4" tvg-logo="http://epg.one/img/3035.png" group-title="Россия плюсовые", Звезда +4
 #EXTGRP:Россия плюсовые
 http://95.47.155.244:8001/play/a017
+#EXTINF:-1 tvg-id="zvezda-pl7" tvg-name="Звезда +7" tvg-logo="http://epg.one/img/3036.png" group-title="Россия плюсовые", Звезда +7
+#EXTGRP:Россия плюсовые
+https://sh.kinolar.workers.dev/3531/index.m3u8
 #EXTINF:-1 tvg-id="mir-pl2" tvg-name="Мир +2" tvg-logo="http://epg.one/img/3019.png" group-title="Россия плюсовые", Мир +2
 #EXTGRP:Россия плюсовые
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/playlist.m3u8
@@ -376,15 +382,33 @@ https://cdn.ntv.ru/ntv7/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="pervy-pl4" tvg-name="Первый канал +4" tvg-logo="http://epg.one/img/3025.png" group-title="Россия плюсовые", Первый канал +4
 #EXTGRP:Россия плюсовые
 http://95.47.155.244:8001/play/a001
+#EXTINF:-1 tvg-id="pervy-pl6" tvg-name="Первый канал +6" tvg-logo="http://epg.one/img/20.png" group-title="Россия плюсовые", Первый канал +6
+#EXTGRP:Россия плюсовые
+https://sh.kinolar.workers.dev/20751/index.m3u8
+#EXTINF:-1 tvg-id="pervy-pl8" tvg-name="Первый канал +8" tvg-logo="http://epg.one/img/3027.png" group-title="Россия плюсовые", Первый канал +8
+#EXTGRP:Россия плюсовые
+https://sh.kinolar.workers.dev/20771/index.m3u8
 #EXTINF:-1 tvg-id="piatnica-pl4" tvg-name="Пятница +4" tvg-logo="http://epg.one/img/3017.png" group-title="Россия плюсовые", Пятница +4
 #EXTGRP:Россия плюсовые
 http://95.47.155.244:8001/play/a016
+#EXTINF:-1 tvg-id="5kanal-ru-pl2" tvg-name="Пятый канал +2" tvg-logo="http://epg.one/img/2035.png" group-title="Россия плюсовые", Пятый канал +2
+#EXTGRP:Россия плюсовые
+https://sh.kinolar.workers.dev/285/index.m3u8
 #EXTINF:-1 tvg-id="5kanal-ru-pl4" tvg-name="Пятый канал +4" tvg-logo="http://epg.one/img/3030.png" group-title="Россия плюсовые", Пятый канал +4
 #EXTGRP:Россия плюсовые
 http://95.47.155.244:8001/play/a005
+#EXTINF:-1 tvg-id="5kanal-ru-pl7" tvg-name="Пятый канал +7" tvg-logo="http://epg.one/img/3031.png" group-title="Россия плюсовые", Пятый канал +7
+#EXTGRP:Россия плюсовые
+https://sh.kinolar.workers.dev/1775/index.m3u8
+#EXTINF:-1 tvg-id="rentv-pl2" tvg-name="Рен ТВ +2" tvg-logo="http://epg.one/img/2037.png" group-title="Россия плюсовые", Рен ТВ +2
+#EXTGRP:Россия плюсовые
+https://sh.kinolar.workers.dev/226/index.m3u8
 #EXTINF:-1 tvg-id="rentv-pl4" tvg-name="Рен ТВ +4" tvg-logo="http://epg.one/img/3033.png" group-title="Россия плюсовые", Рен ТВ +4
 #EXTGRP:Россия плюсовые
 http://95.47.155.244:8001/play/a011
+#EXTINF:-1 tvg-id="rentv-pl7" tvg-name="Рен ТВ +7" tvg-logo="http://epg.one/img/3034.png" group-title="Россия плюсовые", Рен ТВ +7
+#EXTGRP:Россия плюсовые
+https://sh.kinolar.workers.dev/3526/index.m3u8
 #EXTINF:-1 tvg-id="rossia1" tvg-shift="-1" tvg-name="Россия 1 +1" tvg-logo="http://epg.one/img/711.png" group-title="Россия плюсовые", Россия 1 +1
 #EXTGRP:Россия плюсовые
 http://stream.smotrim.ru/hls/russia1_plus1/playlist_3.m3u8
@@ -463,6 +487,15 @@ http://176.118.197.101/CTC/index.m3u8
 #EXTINF:-1 tvg-id="sts-pl4" tvg-name="СТС +4" tvg-logo="http://epg.one/img/3008.png" group-title="Россия плюсовые", СТС +4
 #EXTGRP:Россия плюсовые
 http://95.47.155.244:8001/play/a013
+#EXTINF:-1 tvg-id="sts-pl7" tvg-name="СТС +7" tvg-logo="http://epg.one/img/3009.png" group-title="Россия плюсовые", СТС +7
+#EXTGRP:Россия плюсовые
+https://sh.kinolar.workers.dev/3534/index.m3u8
+#EXTINF:-1 tvg-id="sts-love-pl4" tvg-name="СТС Love +4" tvg-logo="http://epg.one/img/7988.png" group-title="Россия плюсовые", СТС Love +4
+#EXTGRP:Россия плюсовые
+https://sh.kinolar.workers.dev/4356/index.m3u8
+#EXTINF:-1 tvg-id="super" tvg-shift="-7" tvg-name="Суббота +7" tvg-logo="http://epg.one/img/1103.png" group-title="Россия плюсовые", Суббота +7
+#EXTGRP:Россия плюсовые
+https://sh.kinolar.workers.dev/6857/index.m3u8
 #EXTINF:-1 tvg-id="tv3-ru-pl2" tvg-name="ТВ3 +2" tvg-logo="http://epg.one/img/3013.png" group-title="Россия плюсовые", ТВ3 +2
 #EXTGRP:Россия плюсовые
 http://176.118.197.101/TB3/index.m3u8
@@ -478,6 +511,12 @@ http://176.118.197.101/THT/index.m3u8
 #EXTINF:-1 tvg-id="tnt-pl4" tvg-name="ТНТ +4" tvg-logo="http://epg.one/img/3023.png" group-title="Россия плюсовые", ТНТ +4
 #EXTGRP:Россия плюсовые
 http://95.47.155.244:8001/play/a019
+#EXTINF:-1 tvg-id="tnt-pl7" tvg-name="ТНТ +7" tvg-logo="http://epg.one/img/3024.png" group-title="Россия плюсовые", ТНТ +7
+#EXTGRP:Россия плюсовые
+https://sh.kinolar.workers.dev/20769/index.m3u8
+#EXTINF:-1 tvg-id="tnt4-pl7" tvg-name="ТНТ4 +7" tvg-logo="http://epg.one/img/1104.png" group-title="Россия плюсовые", ТНТ4 +7
+#EXTGRP:Россия плюсовые
+https://sh.kinolar.workers.dev/3650/index.m3u8
 #EXTINF:-1 tvg-id="che-pl2" tvg-name="Че +2" tvg-logo="http://epg.one/img/1598.png" group-title="Россия плюсовые", Че +2
 #EXTGRP:Россия плюсовые
 http://176.118.197.101/Che/mono.m3u8
