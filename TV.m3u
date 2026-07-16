@@ -2497,7 +2497,7 @@ http://193.25.8.59:8000/moskva24
 http://hls-volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="volgograd-24" tvg-name="МТВ Волгоград 24 HD" tvg-logo="http://epg.one/img/6768.png" group-title="Региональные РФ", МТВ Волгоград 24 HD
 #EXTGRP:Региональные РФ
-https://hls-volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
+http://88.87.79.40:8888/Volgograd24
 #EXTINF:-1 tvg-name="Муром ТВ" tvg-logo="https://avatars.mds.yandex.net/i?id=f24eba0a0f0bbb0ef28c018344961969d1162afb-5232628-images-thumbs&n=13" group-title="Региональные РФ", Муром ТВ
 #EXTGRP:Региональные РФ
 http://62.76.73.38/hls/stream.m3u8
@@ -2725,7 +2725,7 @@ http://185.185.69.62:8084/hls/tuapse24.m3u8
 http://tv.tuva.ru/tuva24/index.m3u8
 #EXTINF:-1 tvg-id="tugan-tel" tvg-name="Туган Тел Уфа" tvg-logo="https://iptvx.one/picons/tugan-tel.png" group-title="Региональные РФ", Туган Тел Уфа
 #EXTGRP:Региональные РФ
-http://streamer.rtkufa.ru/tugantel/hd/playlist.m3u8
+https://stream1.cinerama.uz/1261/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tumenskoe-vremia" tvg-name="Тюменское время" tvg-logo="https://cdn.epg.one/img/4639.png" group-title="Региональные РФ", Тюменское Время
 #EXTGRP:Региональные РФ
 https://hls-sibinformburo.cdnvideo.ru/sibinformburo-srt/sibinformburo001/playlist.m3u8
