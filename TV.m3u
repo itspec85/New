@@ -2372,9 +2372,6 @@ https://bl.rutube.ru/livestream/5a88a8d75565c5cdebeb11d87bfc61e9/index.m3u8?s=TS
 #EXTINF:-1 tvg-id="vtk-argus" tvg-name="ВТК Аргус Воронеж" tvg-logo="https://avatars.mds.yandex.net/i?id=aa97ac8843e5d4a123351649031bccf7_sr-10159322-images-thumbs&n=13" group-title="Региональные РФ", ВТК Аргус Воронеж
 #EXTGRP:Региональные РФ
 http://4kfp3cm483g.a.trbcdn.net/livemaster/753nqiuemp_VTC-41/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="gorodskoy-yaroslavl" tvg-name="Городской Телеканал-Ярославль" tvg-logo="http://epg.one/img/6752.png" group-title="Региональные РФ", Городской Телеканал-Ярославль
-#EXTGRP:Региональные РФ
-http://www.gtk.tv/hls/gtyar.m3u8
 #EXTINF:-1 tvg-id="grozny" tvg-name="Грозный" tvg-logo="http://epg.one/img/2169.png" group-title="Региональные РФ", Грозный
 #EXTGRP:Региональные РФ
 https://balancer.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/1.m3u8
@@ -2477,9 +2474,6 @@ https://live1.1tvcrimea.ru/milletlive.m3u8
 #EXTINF:-1 tvg-id="mir-belogoria" tvg-name="Мир Белогорья" tvg-logo="http://epg.one/img/5830.png" group-title="Региональные РФ", Мир Белогорья
 #EXTGRP:Региональные РФ
 http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8
-#EXTINF:-1 tvg-name="МИТВ (Местное Илимское TV)" tvg-logo="https://avatars.mds.yandex.net/i?id=2f75654c64b41c92fb514034ce2012f8e0722bb4-12421110-images-thumbs&n=13" group-title="Региональные РФ", МИТВ (Местное Илимское TV)
-#EXTGRP:Региональные РФ
-http://193.33.233.109:9000/tv
 #EXTINF:-1 tvg-name="Мой город Кушва" tvg-logo="https://avatars.mds.yandex.net/i?id=8acb0213b0cc51258e082ed9af0884fab1fac6bf-5865925-images-thumbs&n=13" group-title="Региональные РФ", Мой город Кушва
 #EXTGRP:Региональные РФ
 http://85.208.223.249:8888/play/a033
