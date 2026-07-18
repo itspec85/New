@@ -251,7 +251,7 @@ https://e5-online-video.rbc.ru/online2/rbctvhd_1080p/index.m3u8
 http://194.152.35.17/ren_tv/index.m3u8
 #EXTINF:-1 tvg-id="rentv" tvg-name="Рен ТВ" tvg-logo="http://epg.one/img/2487.png" group-title="Россия", РЕН ТВ HD
 #EXTGRP:Россия
-https://edge01p.mediavitrina.ru/hls-livef5/ren-tv/index.m3u8?token=v2.hM2ZLQzw9uLJQ5kvT-x7GEPeyqZvFvGrhAwwMgZNpng.nQjvVFRzmJ1m_CjHvlMCzyO-hu4hWWKIuV4aPsof3kU.1784453889.ad2ee39a13ca3e808ff4c421d4f7ef52
+http://85.25.46.88:8000/play/26/index.m3u8
 #EXTINF:-1 tvg-name="Рен ТВ International" tvg-logo="https://i.postimg.cc/SsRGs7Y7/International.png" group-title="Россия", Рен ТВ International
 #EXTGRP:Россия
 https://s70378.cdn.ngenix.net/ren_tv/2/index.m3u8
