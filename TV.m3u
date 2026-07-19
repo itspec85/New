@@ -245,7 +245,7 @@ http://178.134.1.158:8081/5channel/index.m3u8
 http://hls127.freeott.top:8080/RBK/mono.m3u8
 #EXTINF:-1 tvg-id="rbk" tvg-name="РБК HD" tvg-logo="http://epg.one/img/743.png" group-title="Россия", РБК HD
 #EXTGRP:Россия
-http://178.134.1.158:8081/RBK/index.m3u8
+http://online.video.rbc.ru/online/rbctv_1080p/index.m3u8
 #EXTINF:-1 tvg-id="rentv" tvg-name="Рен ТВ" tvg-logo="http://epg.one/img/18.png" group-title="Россия", РЕН ТВ
 #EXTGRP:Россия
 http://46.32.176.50/rentv/index.m3u8
