@@ -242,10 +242,10 @@ http://94.250.255.172/ptv/vitrina/ch.php?id=aHR0cHM6Ly9tZWRpYS5tZWRpYXZpdHJpbmEu
 http://178.134.1.158:8081/5channel/index.m3u8
 #EXTINF:-1 tvg-id="rbk" tvg-name="РБК" tvg-logo="http://epg.one/img/743.png" group-title="Россия", РБК
 #EXTGRP:Россия
-http://online.video.rbc.ru/online/rbctv_720p/index.m3u8
+http://hls127.freeott.top:8080/RBK/mono.m3u8
 #EXTINF:-1 tvg-id="rbk" tvg-name="РБК HD" tvg-logo="http://epg.one/img/743.png" group-title="Россия", РБК HD
 #EXTGRP:Россия
-https://e5-online-video.rbc.ru/online2/rbctvhd_1080p/index.m3u8
+http://online.video.rbc.ru/online/rbctv_1080p/index.m3u8
 #EXTINF:-1 tvg-id="rentv" tvg-name="Рен ТВ" tvg-logo="http://epg.one/img/18.png" group-title="Россия", РЕН ТВ
 #EXTGRP:Россия
 http://46.32.176.50/rentv/index.m3u8
