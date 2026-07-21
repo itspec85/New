@@ -1649,6 +1649,74 @@ http://kinowalk.hopto.org/video_prokat_live
 #EXTINF:-1 tvg-name="Стримканал. Wfliq" tvg-logo="https://avatars.mds.yandex.net/i?id=555d891d488c5365011716af505489b85bf0170c-9044089-images-thumbs&n=13" group-title="Кинозал", Стримканал. Wfliq
 #EXTGRP:Кинозал
 http://kinowalk.hopto.org/wfliq_live
+
+#EXTINF:-1 tvg-id="cineman" tvg-name="CineMan" tvg-logo="http://epg.one/img/2541.png" group-title="Кинозал", CineMan
+#EXTGRP:Кинозал
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzEyNTUubTN1OA.m3u8?k=12345
+#EXTINF:-1 tvg-id="cineman-vovserials" tvg-name="CineMan Военные Сериалы" tvg-logo="http://epg.one/img/2541.png" group-title="Кинозал", CineMan Военные Сериалы
+#EXTGRP:Кинозал
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIwNjYubTN1OA.m3u8?k=12345
+#EXTINF:-1 tvg-id="cineman-katastrofy" tvg-name="CineMan Катастрофы" tvg-logo="http://epg.one/img/2541.png" group-title="Кинозал", CineMan Катастрофы
+#EXTGRP:Кинозал
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzEyNzEubTN1OA.m3u8?k=12345
+#EXTINF:-1 tvg-id="cineman-komseri" tvg-name="CineMan Комедийные Сериалы" tvg-logo="http://epg.one/img/2541.png" group-title="Кинозал", CineMan Комедийные Сериалы
+#EXTGRP:Кинозал
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1ODEubTN1OA.m3u8?k=12345
+#EXTINF:-1 tvg-id="cineman-comedy" tvg-name="CineMan Комедия" tvg-logo="http://epg.one/img/2541.png" group-title="Кинозал", CineMan Комедия
+#EXTGRP:Кинозал
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzEyNjIubTN1OA.m3u8?k=12345
+#EXTINF:-1 tvg-id="cineman-gluhar" tvg-name="CineMan Криминальные Сериалы" tvg-logo="http://epg.one/img/2541.png" group-title="Кинозал", CineMan Криминальные Сериалы
+#EXTGRP:Кинозал
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1ODAubTN1OA.m3u8?k=12345
+#EXTINF:-1 tvg-id="cineman-lesnik" tvg-name="CineMan Лесник" tvg-logo="http://epg.one/img/2541.png" group-title="Кинозал", CineMan Лесник
+#EXTGRP:Кинозал
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzEyOTcubTN1OA.m3u8?k=12345
+#EXTINF:-1 tvg-id="cineman-musw" tvg-name="CineMan Ментовские войны" tvg-logo="http://epg.one/img/2541.png" group-title="Кинозал", CineMan Ментовские войны
+#EXTGRP:Кинозал
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzEyOTUubTN1OA.m3u8?k=12345
+#EXTINF:-1 tvg-id="cineman-pes" tvg-name="CineMan ПёС" tvg-logo="http://epg.one/img/2541.png" group-title="Кинозал", CineMan ПёС
+#EXTGRP:Кинозал
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzEyOTYubTN1OA.m3u8?k=12345
+#EXTINF:-1 tvg-id="cineman-rukino" tvg-name="CineMan РуКино" tvg-logo="http://epg.one/img/2541.png" group-title="Кинозал", CineMan РуКино
+#EXTGRP:Кинозал
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzEyNjQubTN1OA.m3u8?k=12345
+#EXTINF:-1 tvg-id="cineman-svaty" tvg-name="CineMan Сваты" tvg-logo="http://epg.one/img/2541.png" group-title="Кинозал", CineMan Сваты
+#EXTGRP:Кинозал
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzEyNjUubTN1OA.m3u8?k=12345
+#EXTINF:-1 tvg-id="cineman-skorpom" tvg-name="CineMan Скорая помощь" tvg-logo="http://epg.one/img/2541.png" group-title="Кинозал", CineMan Скорая помощь
+#EXTGRP:Кинозал
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzEyNjYubTN1OA.m3u8?k=12345
+#EXTINF:-1 tvg-id="cineman-sssr4k" tvg-name="CineMan CCCP 4K" tvg-logo="http://epg.one/img/2541.png" group-title="Кинозал", CineMan CCCP 4K
+#EXTGRP:Кинозал
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE2ODIubTN1OA.m3u8?k=12345
+#EXTINF:-1 tvg-id="cineman-sssr-fhd" tvg-name="CineMan CCCP FHD" tvg-logo="http://epg.one/img/2541.png" group-title="Кинозал", CineMan CCCP FHD
+#EXTGRP:Кинозал
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIyMTQubTN1OA.m3u8?k=12345
+#EXTINF:-1 tvg-id="cineman-uzhasy" tvg-name="CineMan Ужасы" tvg-logo="http://epg.one/img/2541.png" group-title="Кинозал", CineMan Ужасы
+#EXTGRP:Кинозал
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzEyNjEubTN1OA.m3u8?k=12345
+#EXTINF:-1 tvg-id="cineman-action" tvg-name="CineMan Action" tvg-logo="http://epg.one/img/2541.png" group-title="Кинозал", CineMan Action
+#EXTGRP:Кинозал
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzEyNTcubTN1OA.m3u8?k=12345
+#EXTINF:-1 tvg-id="cineman-marvel" tvg-name="CineMan Marvel" tvg-logo="http://epg.one/img/2541.png" group-title="Кинозал", CineMan Marvel
+#EXTGRP:Кинозал
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzEyNjAubTN1OA.m3u8?k=12345
+#EXTINF:-1 tvg-id="cineman-melodrama" tvg-name="CineMan Melodrama" tvg-logo="http://epg.one/img/2541.png" group-title="Кинозал", CineMan Melodrama
+#EXTGRP:Кинозал
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzEyNTkubTN1OA.m3u8?k=12345
+#EXTINF:-1 tvg-id="cineman-thriller" tvg-name="CineMan Thriller" tvg-logo="http://epg.one/img/2541.png" group-title="Кинозал", CineMan Thriller
+#EXTGRP:Кинозал
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzEyNTgubTN1OA.m3u8?k=12345
+#EXTINF:-1 tvg-id="cineman-top" tvg-name="CineMan Top" tvg-logo="http://epg.one/img/2541.png" group-title="Кинозал", CineMan Top
+#EXTGRP:Кинозал
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzEyNTYubTN1OA.m3u8?k=12345
+#EXTINF:-1 tvg-id="cineman-vhs" tvg-name="CineMan VHS" tvg-logo="http://epg.one/img/2541.png" group-title="Кинозал", CineMan VHS
+#EXTGRP:Кинозал
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzEyNjMubTN1OA.m3u8?k=12345
+
+
+
+
 #EXTINF:-1 tvg-name="CPS Action" tvg-logo="https://avatars.mds.yandex.net/i?id=d0cd0536644c44380ed9a5f1fc4f51bd2169a5dd-5335451-images-thumbs&n=13" group-title="Кинозал", CPS Action
 #EXTGRP:Кинозал
 http://hls127.freeott.top:8080/CPS_Action/video.m3u8
