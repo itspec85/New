@@ -2806,13 +2806,13 @@ http://live.azstartv.com/azstar/azstar_1080p/playlist.m3u8
 http://str.yodacdn.net/azertv/playlist.m3u8
 #EXTINF:-1 tvg-name="Baku TV AZ" tvg-logo="http://epg.one/img/9144.png" group-title="Азербайджан", Baku TV AZ
 #EXTGRP:Азербайджан
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/baku-tv.m3u8
+https://rtmp.baku.tv/hls/bakutv_1080p.m3u8
 #EXTINF:-1 tvg-id="cbc-az" tvg-name="CBC AZ" tvg-logo="http://epg.one/img/2158.png" group-title="Азербайджан", CBC AZ
 #EXTGRP:Азербайджан
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/cbc.m3u8
 #EXTINF:-1 tvg-name="Dünya TV" tvg-logo="https://i.imgur.com/A3yaU4J.png" group-title="Азербайджан", Dünya TV
 #EXTGRP:Азербайджан
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/dunya-tv.m3u8
+https://stream.dunyatv.az/live/dunyatv.m3u8
 #EXTINF:-1 tvg-name="GünAz TV" tvg-logo="https://avatars.mds.yandex.net/get-entity_search/2030810/601476929/S104x104FitScale_2x" group-title="Азербайджан", GünAz TV
 #EXTGRP:Азербайджан
 https://tv.gunaz.tv/hls/live.m3u8
