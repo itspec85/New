@@ -2786,6 +2786,9 @@ https://bl.rutube.ru/livestream/673b559e08f8b99d65a4e8fbbceb911b/index.m3u8?s=a0
 
 
 
+#EXTINF:-1 tvg-name="APA TV" tvg-logo="https://avatars.mds.yandex.net/i?id=dd9eda528dca49598daec48e3aeefc4326628bd3-6946654-images-thumbs&n=13" group-title="Азербайджан", APA TV
+#EXTGRP:Азербайджан
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=380871&extension=ts
 #EXTINF:-1 tvg-name="ARB 24" tvg-logo="http://epg.one/img/2551.png" group-title="Азербайджан", ARB 24
 #EXTGRP:Азербайджан
 http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=380869&extension=ts
@@ -2813,6 +2816,9 @@ http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=380863&extensi
 #EXTINF:-1 tvg-name="Dünya TV" tvg-logo="https://i.imgur.com/A3yaU4J.png" group-title="Азербайджан", Dünya TV
 #EXTGRP:Азербайджан
 https://stream.dunyatv.az/live/dunyatv.m3u8
+#EXTINF:-1 tvg-name="EL TV" tvg-logo="https://avatars.mds.yandex.net/i?id=c8e9e0b3529df471f0814c2e6895aeddf23cc67f-5219442-images-thumbs&n=13" group-title="Азербайджан", EL TV
+#EXTGRP:Азербайджан
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=380860&extension=ts
 #EXTINF:-1 tvg-name="GünAz TV" tvg-logo="https://avatars.mds.yandex.net/get-entity_search/2030810/601476929/S104x104FitScale_2x" group-title="Азербайджан", GünAz TV
 #EXTGRP:Азербайджан
 https://tv.gunaz.tv/hls/live.m3u8
@@ -2858,13 +2864,6 @@ http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=380852&extensi
 #EXTINF:-1 tvg-name="Xəzər TV" tvg-logo="https://avatars.mds.yandex.net/i?id=a51bcc810957d37002d2dbfb0b0b6e79_sr-4688175-images-thumbs&n=13" group-title="Азербайджан", Xəzər TV
 #EXTGRP:Азербайджан
 http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=380850&extension=ts
-
-#EXTINF:-1 tvg-name="APA TV" tvg-logo="https://avatars.mds.yandex.net/i?id=dd9eda528dca49598daec48e3aeefc4326628bd3-6946654-images-thumbs&n=13" group-title="Азербайджан", APA TV
-#EXTGRP:Азербайджан
-http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=380871&extension=ts
-#EXTINF:-1 tvg-name="EL TV" tvg-logo="https://avatars.mds.yandex.net/i?id=c8e9e0b3529df471f0814c2e6895aeddf23cc67f-5219442-images-thumbs&n=13" group-title="Азербайджан", EL TV
-#EXTGRP:Азербайджан
-http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=380860&extension=ts
 
 
 
