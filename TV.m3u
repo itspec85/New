@@ -2822,9 +2822,6 @@ http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=380859&extensi
 #EXTINF:-1 tvg-id="idman" tvg-name="Idman TV" tvg-logo="http://epg.one/img/2637.png" group-title="Азербайджан", Idman TV
 #EXTGRP:Азербайджан
 http://str1.yodacdn.net/idmantele/playlist.m3u8
-#EXTINF:-1 tvg-name="Kanal S" tvg-logo="https://avatars.mds.yandex.net/i?id=402b4302545d10b50f218026f22e861b21d5a5cd-7051656-images-thumbs&n=13" group-title="Азербайджан", Kanal S
-#EXTGRP:Азербайджан
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/kanal-s.m3u8
 #EXTINF:-1 tvg-name="Kəpəz TV" tvg-logo="https://avatars.mds.yandex.net/i?id=633d85dc7dae64f9c65c008485bac193e2ca234c-12524916-images-thumbs&n=13" group-title="Азербайджан", Kəpəz TV
 #EXTGRP:Азербайджан
 http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=380857&extension=ts
@@ -2858,12 +2855,16 @@ https://cdn-sonumidtv.yayin.com.tr/sonumidtv/sonumidtv/chunklist_w2128397060.m3u
 #EXTINF:-1 tvg-name="Space TV AZ" tvg-logo="http://epg.one/img/2553.png" group-title="Азербайджан", Space TV AZ
 #EXTGRP:Азербайджан
 http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=380852&extension=ts
-#EXTINF:-1 tvg-name="TMB TV" tvg-logo="https://cdn.epg.one/img/8714.png" group-title="Азербайджан", TMB TV
-#EXTGRP:Азербайджан
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/tmb-azerbaycan.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-name="Xəzər TV" tvg-logo="https://avatars.mds.yandex.net/i?id=a51bcc810957d37002d2dbfb0b0b6e79_sr-4688175-images-thumbs&n=13" group-title="Азербайджан", Xəzər TV
 #EXTGRP:Азербайджан
 http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=380850&extension=ts
+
+#EXTINF:-1 tvg-name="APA TV" tvg-logo="https://avatars.mds.yandex.net/i?id=dd9eda528dca49598daec48e3aeefc4326628bd3-6946654-images-thumbs&n=13" group-title="Азербайджан", APA TV
+#EXTGRP:Азербайджан
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=380871&extension=ts
+#EXTINF:-1 tvg-name="EL TV" tvg-logo="https://avatars.mds.yandex.net/i?id=c8e9e0b3529df471f0814c2e6895aeddf23cc67f-5219442-images-thumbs&n=13" group-title="Азербайджан", EL TV
+#EXTGRP:Азербайджан
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=380860&extension=ts
 
 
 
