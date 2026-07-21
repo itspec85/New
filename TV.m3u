@@ -1105,6 +1105,18 @@ http://45.132.87.69:8080/cartoon_network/index.m3u8
 #EXTINF:-1 tvg-id="boomerang" tvg-name="Cartoonito" tvg-logo="http://epg.one/img/929.png" group-title="Детские", Cartoonito
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000000160/tve/index.m3u8
+#EXTINF:-1 tvg-id="cartoons-90" tvg-name="Cartoons 90" tvg-logo="http://epg.one/img/4728.png" group-title="Детские", Cartoons 90
+#EXTGRP:Детские
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzEyNTIubTN1OA.m3u8?k=12345
+#EXTINF:-1 tvg-id="cartoons-big" tvg-name="Cartoons Big" tvg-logo="http://epg.one/img/4730.png" group-title="Детские", Cartoons Big
+#EXTGRP:Детские
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzEyNTQubTN1OA.m3u8?k=12345
+#EXTINF:-1 tvg-id="cartoons-short" tvg-name="Cartoons Short" tvg-logo="http://epg.one/img/4729.png" group-title="Детские", Cartoons Short
+#EXTGRP:Детские
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzEyNTMubTN1OA.m3u8?k=12345
+#EXTINF:-1 tvg-id="cineman-kids4k" tvg-name="CineMan Kids 4K" tvg-logo="https://epg.iptvx.one/picons/cineman-kids4k.png" group-title="Детские", CineMan Kids 4K
+#EXTGRP:Детские
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE5NzUubTN1OA.m3u8?k=12345
 #EXTINF:-1 tvg-name="CPS Anime" tvg-logo="https://avatars.mds.yandex.net/i?id=d0cd0536644c44380ed9a5f1fc4f51bd2169a5dd-5335451-images-thumbs&n=13" group-title="Детские", CPS Anime
 #EXTGRP:Детские
 http://hls127.freeott.top:8080/CPS_Anime/video.m3u8
