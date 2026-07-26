@@ -306,9 +306,6 @@ https://ucdn.beetv.kz/bpk-tv/000004712/tve/index.m3u8
 #EXTINF:-1 tvg-id="tvcentr" tvg-name="ТВЦ" tvg-logo="http://epg.one/img/649.png" group-title="Россия", ТВЦ
 #EXTGRP:Россия
 http://stitch.teletarget.ru/vintera/tvcsd/index.m3u8
-#EXTINF:-1 tvg-id="tvcentr" tvg-name="ТВЦ HD" tvg-logo="http://epg.one/img/649.png" group-title="Россия", ТВЦ HD
-#EXTGRP:Россия
-http://tchaikovsky.af-stream.com:8080/s/agvha3rn/tvc-hd/video.m3u8
 #EXTINF:-1 tvg-id="tvci" tvg-name="ТВЦ International" tvg-logo="http://epg.one/img/5691.png" group-title="Россия", ТВЦ International
 #EXTGRP:Россия
 https://ucdn.beetv.kz/bpk-tv/000000112/tve/index.m3u8
@@ -1575,9 +1572,6 @@ http://kinowalk.hopto.org/blockbusterstime_live
 #EXTINF:-1 tvg-name="Стримканал. Cinema Time" tvg-logo="https://avatars.mds.yandex.net/i?id=555d891d488c5365011716af505489b85bf0170c-9044089-images-thumbs&n=13" group-title="Кинозал", Стримканал. Cinema Time
 #EXTGRP:Кинозал
 http://kinowalk.hopto.org/cinematime_live
-#EXTINF:-1 tvg-name="Стримканал. DJ Zour" tvg-logo="https://avatars.mds.yandex.net/i?id=555d891d488c5365011716af505489b85bf0170c-9044089-images-thumbs&n=13" group-title="Кинозал", Стримканал. DJ Zour
-#EXTGRP:Кинозал
-http://kinowalk.hopto.org/zsmedia_live
 #EXTINF:-1 tvg-name="Стримканал. Kycman" tvg-logo="https://avatars.mds.yandex.net/i?id=555d891d488c5365011716af505489b85bf0170c-9044089-images-thumbs&n=13" group-title="Кинозал", Стримканал. Kycman
 #EXTGRP:Кинозал
 http://kinowalk.hopto.org/kycman_live
