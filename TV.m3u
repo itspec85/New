@@ -940,6 +940,9 @@ https://s70378.cdn.ngenix.net/rtvi/index.m3u8
 #EXTINF:-1 tvg-id="russky-ekstrim" tvg-name="Russian Extreme HD" tvg-logo="http://epg.one/img/2497.png" group-title="Познавательные", Russian Extreme HD
 #EXTGRP:Познавательные
 http://85.208.223.249:8888/play/a004
+#EXTINF:-1 tvg-id="rutube-tv" tvg-name="RUTUBE TV" tvg-logo="https://epg.iptvx.one/picons/rutube-tv.png" group-title="Познавательные", RUTUBE TV
+#EXTGRP:Познавательные
+https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=xMRehEQCTSkIr2w3Vcm-mQ&e=2074209214&scheme=https
 #EXTINF:-1 tvg-id="terra-ru" tvg-name="TERRA" tvg-logo="http://epg.one/img/7632.png" group-title="Познавательные", TERRA
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000008142/tve/index.m3u8
@@ -1854,6 +1857,9 @@ http://158.101.222.193:88/georgia_play.php?id=setanta_sports_plus_georgia
 #EXTINF:-1 tvg-id="setanta3-ge" tvg-name="Setanta Sports 3 GE" tvg-logo="http://epg.one/img/7783.png" group-title="Спорт", Setanta Sports 3 GE
 #EXTGRP:Спорт
 http://158.101.222.193:88/georgia_play.php?id=setanta_sports_3
+#EXTINF:-1 tvg-id="sky-sports-apl" tvg-name="Sky Sports Premier League [UK]" tvg-logo="http://epg.one/img/4569.png" group-title="Спорт", Sky Sports Premier League UK
+#EXTGRP:Спорт
+https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=oObmp1dO48FmEKhyszr1rQ&e=2074209265&scheme=https
 #EXTINF:-1 tvg-id="sky-sports-tennis" tvg-name="Sky Sports Tennis [UK]" tvg-logo="http://epg.one/img/9400.png" group-title="Спорт", Sky Sports Tennis HD UK
 #EXTGRP:Спорт
 https://bl.rutube.ru/livestream/5f5dc9d64b43dfc740e92f2bdf2b0d38/index.m3u8?s=Yz-1aGV40bGEy8WEbP7DMw&e=2067730155&scheme=https
@@ -1919,7 +1925,7 @@ http://kino-1.catcast.tv/content/37739/index.m3u8
 https://bl.rutube.ru/livestream/965a025e4ebbaf0957415f80c6de8534/index.m3u8?s=Z0uYbkYrPj4f4UsbEk-CAg&e=2074209253&scheme=https
 #EXTINF:-1 tvg-id="muzyka-pervogo" tvg-name="Музыка Первого" tvg-logo="http://epg.one/img/715.png" group-title="Музыка", Музыка Первого
 #EXTGRP:Музыка
-http://176.118.197.101/1HD/mono.m3u8
+https://stream1.cinerama.uz/1201/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="la-minor" tvg-name="Музыка Live" tvg-logo="https://epg.iptvx.one/picons/la-minor.png" group-title="Музыка", Музыка Live
 #EXTGRP:Музыка
 https://stream1.cinerama.uz/1238/tracks-v1a1/mono.m3u8
@@ -2019,6 +2025,9 @@ http://live-3.otcnet.ru/Mezzo/index.m3u8
 #EXTINF:-1 tvg-name="MIX MUSIC" tvg-logo="https://avatars.mds.yandex.net/i?id=8552986643492f1dee0ad4744313f6cc2472b778-4568203-images-thumbs&n=13" group-title="Музыка", MIX MUSIC
 #EXTGRP:Музыка
 https://cdamix.streaming.ws/mixmusic/live/chunklist.m3u8
+#EXTINF:-1 tvg-id="mixm-tv" tvg-name="MIXM TV" tvg-logo="https://avatars.mds.yandex.net/i?id=3141f94dae7c8096f4bccb047a9cfaac86d87f4a-5253972-images-thumbs&n=13" group-title="Музыка", Mix m tv hd
+#EXTGRP:Музыка
+https://bl.rutube.ru/livestream/88eba514854a55d87a4b66b66b1977e7/index.m3u8?s=cbQdtI-rLx2VxBqvsh4LCg&e=2074209253&scheme=https
 #EXTINF:-1 tvg-id="now70s" tvg-name="Now 70's" tvg-logo="http://epg.one/img/6626.png" group-title="Музыка", Now 70s HD UK
 #EXTGRP:Музыка
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
@@ -2082,6 +2091,9 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-name="V2BEAT HD" tvg-logo="http://epg.one/img/5483.png" group-title="Музыка", V2BEAT HD
 #EXTGRP:Музыка
 http://de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1 tvg-id="viva-rus" tvg-name="VIVA Russia" tvg-logo="https://avatars.mds.yandex.net/i?id=fc4c85af0e3d74647e44bd6c6b02ad559efb59f9-9604624-images-thumbs&n=13" group-title="Музыка", VIVA Russia HD
+#EXTGRP:Музыка
+
 #EXTINF:-1 tvg-name="XITE 80s Flashback" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB320000647_20231024T231630SQUARE.png_20231024231631.png" group-title="Музыка", XITE 80s Flashback
 #EXTGRP:Музыка
 https://d1n314cytqn9r3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bklagqy82v0pr/XITE_80s_Flashback.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE
