@@ -1781,7 +1781,7 @@ https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
 https://flussonic.mkpnet.ru/tv-e3d23fc7511b5fcd/video.m3u8
 #EXTINF:-1 tvg-id="kxl-hd" tvg-name="KHL Prime HD" tvg-logo="http://epg.one/img/1038.png" group-title="Спорт", KHL Prime HD
 #EXTGRP:Спорт
-http://45.145.32.13:20440/khl_prime/index.m3u8?token=test
+http://stream.mcquack.net/178/index.m3u8
 #EXTINF:-1 tvg-id="mlb-network-us" tvg-name="MLB Network HD CA" tvg-logo="http://epg.one/img/3654.png" group-title="Спорт", MLB Network HD CA
 #EXTGRP:Спорт
 https://aegis-cloudfront-1.tubi.video/36ef2f9d-7100-4c4d-b41a-dbf41ab7e461/playlist.m3u8
