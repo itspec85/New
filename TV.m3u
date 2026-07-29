@@ -991,9 +991,6 @@ https://stream8.cinerama.uz/1270/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="detsky-mir" tvg-name="Детский мир" tvg-logo="http://epg.one/img/923.png" group-title="Детские", Детский мир
 #EXTGRP:Детские
 https://s70378.cdn.ngenix.net/detskij_mir/2/index.m3u8
-#EXTINF:-1 tvg-id="detkinoint-tviksel" tvg-name="Детское кино International" tvg-logo="http://epg.one/img/6261.png" group-title="Детские", Детское кино International
-#EXTGRP:Детские
-http://autopilot.catcast.tv/content/38720/index.m3u8
 #EXTINF:-1 tvg-id="ginger-hd" tvg-name="Капитан Фантастика" tvg-logo="http://epg.one/img/2438.png" group-title="Детские", Капитан Фантастика
 #EXTGRP:Детские
 https://stream8.cinerama.uz/1406/tracks-v1a1/mono.m3u8
@@ -1114,9 +1111,6 @@ https://s70378.cdn.ngenix.net/tiji/2/index.m3u8
 
 
 
-#EXTINF:-1 tvg-name="Видеокассета TV" tvg-logo="https://avatars.mds.yandex.net/i?id=aa54d677b7da13a106d22ee95411b140d0009712-15274206-images-thumbs&n=13" group-title="Кино", Видеокассета TV
-#EXTGRP:Кино
-https://lbgo.bozztv.com/ssh101/ssh101/livebest90e/chunks.m3u8
 #EXTINF:-1 tvg-id="domkino" tvg-name="Дом кино" tvg-logo="http://epg.one/img/834.png" group-title="Кино", Дом Кино
 #EXTGRP:Кино
 https://s70378.cdn.ngenix.net/dom_kino/2/index.m3u8
@@ -1141,9 +1135,6 @@ https://s70378.cdn.ngenix.net/zee_tv/2/index.m3u8
 #EXTINF:-1 tvg-id="kineko" tvg-name="Кинеко" tvg-logo="http://epg.one/img/7314.png" group-title="Кино", Кинеко
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000008136/tve/index.m3u8
-#EXTINF:-1 tvg-id="kino1int-tviksel" tvg-name="Кино 1 International" tvg-logo="http://epg.one/img/6258.png" group-title="Кино", Кино 1 International
-#EXTGRP:Кино
-https://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 tvg-id="kino-i-zhizn" tvg-name="Кино и Жизнь" tvg-logo="https://epg.iptvx.one/picons/kino-i-zhizn.png" group-title="Кино", Кино и Жизнь
 #EXTGRP:Кино
 https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=rguudX-088KMchE_oKxn4g&e=2074209221&scheme=https
