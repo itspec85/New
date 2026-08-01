@@ -1722,6 +1722,9 @@ http://176.100.46.245:90/matchfootball3/index.m3u8
 #EXTINF:-1 tvg-id="mir-basketbola" tvg-name="Мир баскетбола" tvg-logo="http://epg.one/img/4629.png" group-title="Спорт", Мир Баскетбола
 #EXTGRP:Спорт
 http://45.145.32.13:20440/mir_basketbola/index.m3u8?token=test
+#EXTINF:-1 tvg-id="okko-sport-2" tvg-name="Окко.Прайм Спорт" tvg-logo="http://epg.one/img/9324.png" group-title="Спорт", Окко Прайм Спорт
+#EXTGRP:Спорт
+http://185.221.213.254:8080/Okko/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="sportivny" tvg-name="ТВ Спорт" tvg-logo="http://epg.one/img/4678.png" group-title="Спорт", ТВ Спорт HD
 #EXTGRP:Спорт
 http://live-3.otcnet.ru/sportivny/index.m3u8
