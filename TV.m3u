@@ -1114,6 +1114,9 @@ https://s70378.cdn.ngenix.net/tiji/2/index.m3u8
 
 
 
+#EXTINF:-1 tvg-name="Видеокассета" tvg-logo="https://avatars.mds.yandex.net/i?id=a80f84b3a9713ddafc984e09aaafea0b05bde063-4907652-images-thumbs&n=13" group-title="Кино", Видеокассета
+#EXTGRP:Кино
+https://lbgo.bozztv.com/ssh101/ssh101/livebest90e/chunks.m3u8?lb_backend_hint=7
 #EXTINF:-1 tvg-id="domkino" tvg-name="Дом кино" tvg-logo="http://epg.one/img/834.png" group-title="Кино", Дом Кино
 #EXTGRP:Кино
 https://s70378.cdn.ngenix.net/dom_kino/2/index.m3u8
