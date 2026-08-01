@@ -724,6 +724,9 @@ http://cdn-01.bonus-tv.ru/prosveschenie_edge/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="radost-moya" tvg-name="Радость моя" tvg-logo="http://epg.one/img/2287.png" group-title="Познавательные", Радость моя
 #EXTGRP:Познавательные
 https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
+#EXTINF:-1 tvg-id="ratnik" tvg-name="Ратник" tvg-logo="http://epg.one/img/2470.png" group-title="Познавательные", Ратник
+#EXTGRP:Познавательные
+https://bl.rutube.ru/livestream/13b0320238d7938a2deffb4065068986/index.m3u8?s=HzMVLgYZAgIgbsxyAJRejA&e=2085488624&scheme=https
 #EXTINF:-1 tvg-id="rzhd-tv" tvg-name="РЖД ТВ" tvg-logo="http://epg.one/img/2471.png" group-title="Познавательные", РЖД ТВ
 #EXTGRP:Познавательные
 http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
@@ -1326,6 +1329,12 @@ https://stream1.cinerama.uz/1227/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="epik-drama" tvg-name="Epic Drama" tvg-logo="http://epg.one/img/2229.png" group-title="Кино", Epic Drama
 #EXTGRP:Кино
 http://195.189.60.253/118/index.m3u8
+#EXTINF:-1 tvg-name="Epic Love" tvg-logo="https://avatars.mds.yandex.net/i?id=6a5b5ca9b0b5ceffc30e756b6b29bb114210023b-9652646-images-thumbs&n=13" group-title="Кино", Epic Love
+#EXTGRP:Кино
+https://bl.rutube.ru/livestream/21f3993ed8291b70208aa06c982c731f/index.m3u8?s=q43CHXfM9SRjuCkuGaoydQ&e=2085488597&scheme=https
+#EXTINF:-1 tvg-name="Epic Media" tvg-logo="https://web.archive.org/web/20200528011832im_/https://yt3.ggpht.com/a/AATXAJwZj2wFpUD5QftkEWWxIafi70oUlKtt0awqVg=s900-c-k-c0xffffffff-no-rj-mo" group-title="Кино", Epic Media
+#EXTGRP:Кино
+https://bl.rutube.ru/livestream/0ed0696149c131d3a7349372d730d4e6/index.m3u8?s=4f-cgc_8_IY34Q1h-Jje-A&e=2085488596&scheme=https
 #EXTINF:-1 tvg-id="filmua-drama" tvg-name="Film.UA Drama" tvg-logo="http://epg.one/img/8911.png" group-title="Кино", Film UA Drama
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000003028/tve/index.m3u8
