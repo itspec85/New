@@ -1638,6 +1638,9 @@ http://hls127.freeott.top:8080/CPS_Fresh/video.m3u8
 #EXTINF:-1 tvg-name="CPS Investigation" tvg-logo="https://avatars.mds.yandex.net/i?id=d0cd0536644c44380ed9a5f1fc4f51bd2169a5dd-5335451-images-thumbs&n=13" group-title="Кинозал", CPS Investigation
 #EXTGRP:Кинозал
 http://hls127.freeott.top:8080/CPS_Investigation/video.m3u8
+#EXTINF:-1 tvg-name="CPS Jackie Chan" tvg-logo="https://avatars.mds.yandex.net/i?id=d0cd0536644c44380ed9a5f1fc4f51bd2169a5dd-5335451-images-thumbs&n=13" group-title="Кинозал", CPS Jackie Chan
+#EXTGRP:Кинозал
+http://hls127.freeott.top:8080/CPS_Jackie_Chan/video.m3u8
 #EXTINF:-1 tvg-name="CPS Mix" tvg-logo="https://avatars.mds.yandex.net/i?id=d0cd0536644c44380ed9a5f1fc4f51bd2169a5dd-5335451-images-thumbs&n=13" group-title="Кинозал", CPS Mix
 #EXTGRP:Кинозал
 http://hls127.freeott.top:8080/CPS_Mix/video.m3u8
