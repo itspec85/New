@@ -703,6 +703,9 @@ https://serv25.vintera.tv/1pnk/prnk/chunks.m3u8
 #EXTINF:-1 tvg-id="perec-int" tvg-name="Перец International" tvg-logo="http://epg.one/img/5651.png" group-title="Познавательные", Перец International
 #EXTGRP:Познавательные
 http://178.124.153.123:44400/peretz
+#EXTINF:-1 tvg-id="perpetmobile" tvg-name="Перпетуум Мобиле" tvg-logo="https://epg.iptvx.one/picons/perpetmobile.png" group-title="Познавательные", Перпетуум Мобиле
+#EXTGRP:Познавательные
+http://stitch.teletarget.ru/vintera/perpetuummobile/index.m3u8
 #EXTINF:-1 tvg-id="ruskorabl" tvg-name="Плюс Минус 16" tvg-logo="https://avatars.mds.yandex.net/i?id=8e85facbd4eab232179d429a0c72fdb4d53c8e17-3809718-images-thumbs&n=13" group-title="Познавательные", Плюс Минус 16
 #EXTGRP:Познавательные
 http://media.16pm.ru/live/tracks-v1a1/mono.ts.m3u8
@@ -811,6 +814,9 @@ https://stream8.cinerama.uz/1427/index.m3u8
 #EXTINF:-1 tvg-id="uspex" tvg-name="Успех" tvg-logo="http://epg.one/img/2455.png" group-title="Познавательные", Успех
 #EXTGRP:Познавательные
 https://flussonic.mkpnet.ru/tv-324fe9acc597fbc1/video.m3u8
+#EXTINF:-1 tvg-id="xo4u-vsio-znat" tvg-name="Хочу всё знать" tvg-logo="https://epg.iptvx.one/picons/xo4u-vsio-znat.png" group-title="Познавательные", Хочу всё знать
+#EXTGRP:Познавательные
+http://stitch.teletarget.ru/vintera/hochuvseznat/index.m3u8
 #EXTINF:-1 tvg-name="Царьград" tvg-logo="https://avatars.mds.yandex.net/i?id=6f6be02443ae3b9fdb8c2eed7eac430bda40d4fcd7b53fd8-8496612-images-thumbs&n=13" group-title="Познавательные", Царьград
 #EXTGRP:Познавательные
 https://bl.rutube.ru/livestream/91815da4edb167b5bd617bae490e57da/index.m3u8?s=fXjHoW_OCoImZKbWyv_iwQ&e=2074209247&scheme=https
@@ -916,6 +922,9 @@ http://hls127.freeott.top:8080/Nat_Geo_Wild_SD/video.m3u8
 #EXTINF:-1 tvg-id="national-geographic" tvg-name="National Geographic" tvg-logo="http://epg.one/img/102.png" group-title="Познавательные", National Geographic
 #EXTGRP:Познавательные
 https://s70378.cdn.ngenix.net/national_geographic/2/index.m3u8
+#EXTINF:-1 tvg-name="NewsFront TV" tvg-logo="https://avatars.mds.yandex.net/i?id=438695821ac3854ef8c55ba4b6ff5cadf2dbde15-4473780-images-thumbs&n=13" group-title="Познавательные", NewsFront TV
+#EXTGRP:Познавательные
+https://tv.2kita.com/stream/index.m3u8
 #EXTINF:-1 tvg-id="ocean-tv" tvg-name="OCEAN-TV" tvg-logo="http://epg.one/img/55.png" group-title="Познавательные", OCEAN-TV
 #EXTGRP:Познавательные
 https://s70378.cdn.ngenix.net/ocean_tv/2/index.m3u8
@@ -1959,6 +1968,9 @@ https://cityeden.catcast.tv/content/46421/index.m3u8?password=
 #EXTINF:-1 tvg-name="Сити Эдем - Meditation Music" tvg-logo="https://www.cityeden.info/logotv/siti_ehdem-meditacija.png" group-title="Музыка", Сити Эдем - Meditation Music
 #EXTGRP:Музыка
 https://cityeden.catcast.tv/content/47410/index.m3u8?password=
+#EXTINF:-1 tvg-id="radio-strana-fm-tv" tvg-name="Страна FM" tvg-logo="http://epg.one/img/5369.png" group-title="Музыка", Страна FM
+#EXTGRP:Музыка
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="shanson-tv" tvg-name="Шансон TB" tvg-logo="http://epg.one/img/2278.png" group-title="Музыка", Шансон TB
 #EXTGRP:Музыка
 http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
