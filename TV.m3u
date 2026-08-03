@@ -1020,7 +1020,7 @@ http://85.192.10.131/hls/MamonRu/playlist.m3u8
 http://185.46.16.239:8000/Mir_24
 #EXTINF:-1 tvg-id="multimania" tvg-name="Мультиландия" tvg-logo="http://epg.one/img/2757.png" group-title="Детские", Мультиландия
 #EXTGRP:Детские
-https://flussonic.mkpnet.ru/tv-89530153f25733fe/video.m3u8
+http://fs.uplink.kz/multilandia/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 tvg-name="Мультфильмы СССР" tvg-logo="https://avatars.mds.yandex.net/i?id=e793f0057d98d2c9a8bd2536740412cb7c3a2982-4444989-images-thumbs&n=13" group-title="Детские", Мультфильмы СССР
 #EXTGRP:Детские
 https://live20.bozztv.com/giatvplayout7/ushba80/tracks-v1a1/mono.ts.m3u8
