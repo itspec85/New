@@ -197,7 +197,7 @@ https://s70378.cdn.ngenix.net/mir_24/2/index.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="ntv" tvg-name="НТВ" tvg-logo="http://epg.one/img/162.png" group-title="Россия", НТВ
 #EXTGRP:Россия
-http://31.131.141.195:8000/play/1040/index.m3u8
+http://flussonic.mkpnet.ru/tv-1bc5d712ea5ace74/video.m3u8
 #EXTINF:-1 tvg-id="ntv" tvg-name="НТВ HD" tvg-logo="http://epg.one/img/2001.png" group-title="Россия", НТВ HD
 #EXTGRP:Россия
 https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=e2W_eVudzzK8QuuBNGgZnw&e=2074209214&scheme=https
@@ -1697,7 +1697,7 @@ https://live.teleradiocom.tj/5/3m.m3u8
 https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=4rfg4hzvwhuOkxvKpOgKTA&e=2074209265&scheme=https
 #EXTINF:-1 tvg-id="match-tv" tvg-name="Матч ТВ" tvg-logo="http://epg.one/img/2051.png" group-title="Спорт", Матч ТВ
 #EXTGRP:Спорт
-http://31.131.141.195:8000/play/1030/index.m3u8
+http://45.132.87.69:8080/match/index.m3u8
 #EXTINF:-1 tvg-id="match-tv" tvg-name="Матч ТВ HD" tvg-logo="http://epg.one/img/2051.png" group-title="Спорт", Матч ТВ HD
 #EXTGRP:Спорт
 https://bl.rutube.ru/livestream/11bbbec75a2ceb8cf446ad16813c6eec/index.m3u8?s=OPWhHjvzFdhW_V7TfzG1TQ&e=2074209261&scheme=https
@@ -2535,6 +2535,9 @@ https://bl.rutube.ru/livestream/9927a61345cbec5aac6558f6c5454d61/index.m3u8?s=mA
 #EXTINF:-1 tvg-name="Оплот ТВ ДНР" tvg-logo="https://avatars.mds.yandex.net/i?id=ed3cc28f0b1f8f7f59d6cd8a3a1dfe398482869f-5236416-images-thumbs&n=13" group-title="Региональные РФ", Оплот ТВ ДНР
 #EXTGRP:Региональные РФ
 http://31.131.141.195:8000/play/a006/index.m3u8
+#EXTINF:-1 tvg-name="Оплот ТВ 2 ДНР" tvg-logo="https://avatars.mds.yandex.net/i?id=6c9fa41c02ef5ab653e7cbfc65f3db57efaab859-13087339-images-thumbs&n=13" group-title="Региональные РФ", Оплот ТВ 2 ДНР
+#EXTGRP:Региональные РФ
+http://31.131.139.253:9002/oplot2/index.m3u8
 #EXTINF:-1 tvg-id="osetia-iryston" tvg-name="Осетия Иристон" tvg-logo="http://epg.one/img/5808.png" group-title="Региональные РФ", Осетия Иристон
 #EXTGRP:Региональные РФ
 http://catchup.videoline.ru/iriston/tracks-v1a1/mono.m3u8
