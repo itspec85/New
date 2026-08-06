@@ -1425,6 +1425,9 @@ http://hls127.freeott.top:8080/PG_USSR_HD/mono.m3u8
 #EXTINF:-1 tvg-id="vhshd" tvg-name="VHS HD" tvg-logo="http://epg.one/img/5462.png" group-title="Кино", VHS HD
 #EXTGRP:Кино
 http://hls127.freeott.top:8080/PG_VHS_HD/mono.m3u8
+#EXTINF:-1 tvg-id="vip-comedy-cee" tvg-name="Viasat Kino Comedy" tvg-logo="http://epg.one/img/8880.png" group-title="Кино", Viasat Kino Comedy HD
+#EXTGRP:Кино
+http://ukr2.ukrainske.tv/493/video.m3u8
 #EXTINF:-1 tvg-id="tv1000" tvg-name="Viju TV1000" tvg-logo="http://epg.one/img/127.png" group-title="Кино", Viju TV1000
 #EXTGRP:Кино
 http://s70378.cdn.ngenix.net/tv_1000/2/index.m3u8
