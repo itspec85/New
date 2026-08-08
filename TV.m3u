@@ -1551,9 +1551,6 @@ http://kinowalk.hopto.org/ddator_live
 #EXTINF:-1 tvg-name="Стримканал. Эквилибриум" tvg-logo="https://images.live.vkvideo.ru/user/20745126/avatar?change_time=1746520742&croped=1&mh=140&mw=140" group-title="Кинозал", Стримканал. Эквилибриум
 #EXTGRP:Кинозал
 http://kinowalk.hopto.org/equilibrium_live
-#EXTINF:-1 tvg-name="Стримканал. Эра VHS" tvg-logo="https://avatars.mds.yandex.net/i?id=555d891d488c5365011716af505489b85bf0170c-9044089-images-thumbs&n=13" group-title="Кинозал", Стримканал. Эра VHS
-#EXTGRP:Кинозал
-http://kinowalk.hopto.org/era_vhs_live
 #EXTINF:-1 tvg-name="Стримканал. Aleksey_24RUS" tvg-logo="https://avatars.mds.yandex.net/i?id=555d891d488c5365011716af505489b85bf0170c-9044089-images-thumbs&n=13" group-title="Кинозал", Стримканал. Aleksey_24RUS
 #EXTGRP:Кинозал
 http://kinowalk.hopto.org/aleksey_24rus_live
@@ -1590,9 +1587,6 @@ http://kinowalk.hopto.org/movietoper_live
 #EXTINF:-1 tvg-name="Стримканал. Play 4 Fun" tvg-logo="https://avatars.mds.yandex.net/i?id=555d891d488c5365011716af505489b85bf0170c-9044089-images-thumbs&n=13" group-title="Кинозал", Стримканал. Play 4 Fun
 #EXTGRP:Кинозал
 http://kinowalk.hopto.org/play4fun_live
-#EXTINF:-1 tvg-name="Стримканал. PrizraK PlaY" tvg-logo="https://avatars.mds.yandex.net/i?id=555d891d488c5365011716af505489b85bf0170c-9044089-images-thumbs&n=13" group-title="Кинозал", Стримканал. PrizraK PlaY
-#EXTGRP:Кинозал
-http://kinowalk.hopto.org/vampiro1965_live
 #EXTINF:-1 tvg-name="Стримканал. Scripach TV" tvg-logo="https://avatars.mds.yandex.net/i?id=555d891d488c5365011716af505489b85bf0170c-9044089-images-thumbs&n=13" group-title="Кинозал", Стримканал. Scripach TV
 #EXTGRP:Кинозал
 http://kinowalk.hopto.org/scripachtv_live
