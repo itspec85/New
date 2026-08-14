@@ -480,7 +480,7 @@ http://176.118.197.101/Che/mono.m3u8
 
 #EXTINF:-1 tvg-id="texno-24" tvg-name="24 Техно" tvg-logo="http://epg.one/img/2762.png" group-title="Познавательные", 24 Техно
 #EXTGRP:Познавательные
-https://stream8.cinerama.uz/1037/tracks-v1a1/mono.m3u8
+http://fs.uplink.kz/tehno_24/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="365-dnej" tvg-name="365 дней ТВ" tvg-logo="http://epg.one/img/2423.png" group-title="Познавательные", 365 дней ТВ
 #EXTGRP:Познавательные
 http://185.46.16.239:8000/Paramount_Comedy
