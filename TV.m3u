@@ -1836,6 +1836,9 @@ https://a-cdn.klowdtv.com/live2/nautical_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="nba-tv" tvg-name="NBA TV HD US" tvg-logo="http://epg.one/img/4587.png" group-title="Спорт", NBA TV HD US
 #EXTGRP:Спорт
 https://bl.rutube.ru/livestream/d01241e9fd2bc2d65dbf6d74cca02f89/index.m3u8?s=tosWxEeYUB0mx8rAHJ_Pqg&e=2074209262&scheme=https
+#EXTINF:-1 tvg-id="nfl-network-us" tvg-name="NFL Network [US]" tvg-logo="http://epg.one/img/3568.png" group-title="Спорт", NFL Network US
+#EXTGRP:Спорт
+http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="nhl-network-us" tvg-name="NHL Network [US]" tvg-logo="http://epg.one/img/4562.png" group-title="Спорт", NHL Network US
 #EXTGRP:Спорт
 https://bl.rutube.ru/livestream/7a485ef5da9fe50ba939f36ca3e6ed96/index.m3u8?s=h-Sei-URL7d4KhCfx0xCzg&e=2074209261&scheme=https
