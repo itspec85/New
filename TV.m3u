@@ -582,7 +582,7 @@ https://bl.rutube.ru/livestream/406973c72e9d0449feef05ef7811ad01/index.m3u8?s=fG
 https://ucdn.beetv.kz/bpk-tv/000006638/tve/index.m3u8
 #EXTINF:-1 tvg-id="zdorovoe-tv" tvg-name="Здоровое ТВ" tvg-logo="http://epg.one/img/2449.png" group-title="Познавательные", Здоровое ТВ
 #EXTGRP:Познавательные
-https://flussonic.mkpnet.ru/tv-92fa9d648cab0f3f/video.m3u8
+http://stream1.cinerama.uz/1428/index.m3u8
 #EXTINF:-1 tvg-id="istoria" tvg-name="История" tvg-logo="http://epg.one/img/1036.png" group-title="Познавательные", История
 #EXTGRP:Познавательные
 http://hls127.freeott.top:8080/Istoriya/video.m3u8
@@ -595,9 +595,6 @@ http://cdn-01.bonus-tv.ru/Kaleidoskop_edge/index.m3u8
 #EXTINF:-1 tvg-id="kvn-tv" tvg-name="КВН ТВ" tvg-logo="http://epg.one/img/1700.png" group-title="Познавательные", КВН ТВ
 #EXTGRP:Познавательные
 http://radio.tvs.by:8080/KVN-TV/index.m3u8
-#EXTINF:-1 tvg-id="rus-hualiang-tv" tvg-name="Китай ТВ" tvg-logo="https://avatars.mds.yandex.net/i?id=436495c2f8fdbd1b22e12e22f18dabad29cee9d1-9840106-images-thumbs&ref=rim&n=33&w=379&h=379" group-title="Познавательные", Китай ТВ
-#EXTGRP:Познавательные
-https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
 #EXTINF:-1 tvg-id="kluch" tvg-name="Ключ HD" tvg-logo="http://epg.one/img/9156.png" group-title="Познавательные", Ключ HD
 #EXTGRP:Познавательные
 http://hls127.freeott.top:8080/Kluch/mono.m3u8
@@ -759,7 +756,7 @@ https://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8
 https://stream.smotrim.ru/hls/fasttv05/playlist_3.m3u8
 #EXTINF:-1 tvg-id="solovjinypomiot" tvg-name="Соловьев.Live" tvg-logo="http://epg.one/img/13.png" group-title="Познавательные", Соловьев.Live
 #EXTGRP:Познавательные
-http://85.25.46.88:8000/play/12121212/index.m3u8
+https://stream.smotrim.ru/hls/solovievlive/playlist_6.m3u8
 #EXTINF:-1 tvg-id="soyuz" tvg-name="Союз" tvg-logo="http://epg.one/img/2448.png" group-title="Познавательные", Союз
 #EXTGRP:Познавательные
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
@@ -793,9 +790,6 @@ http://tvspas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="telekafe" tvg-name="Телекафе" tvg-logo="http://epg.one/img/2304.png" group-title="Познавательные", Телекафе
 #EXTGRP:Познавательные
 https://s70378.cdn.ngenix.net/telecafe/2/index.m3u8
-#EXTINF:-1 tvg-id="teleputeshestvia" tvg-name="Телепутешествия" tvg-logo="http://epg.one/img/2424.png" group-title="Познавательные", Телепутешествия
-#EXTGRP:Познавательные
-http://31148.rafail1982.uz/Teleputeshestviya/index.m3u8
 #EXTINF:-1 tvg-id="terra-inkognita" tvg-name="Терра Инкогнита" tvg-logo="https://epg.iptvx.one/picons/terra-inkognita.png" group-title="Познавательные", Терра Инкогнита
 #EXTGRP:Познавательные
 http://stitch.teletarget.ru/vintera/terra/index.m3u8
@@ -817,7 +811,7 @@ https://flussonic.mkpnet.ru/tv-324fe9acc597fbc1/video.m3u8
 #EXTINF:-1 tvg-id="xo4u-vsio-znat" tvg-name="Хочу всё знать" tvg-logo="https://epg.iptvx.one/picons/xo4u-vsio-znat.png" group-title="Познавательные", Хочу всё знать
 #EXTGRP:Познавательные
 http://stitch.teletarget.ru/vintera/hochuvseznat/index.m3u8
-#EXTINF:-1 tvg-name="Царьград" tvg-logo="https://avatars.mds.yandex.net/i?id=6f6be02443ae3b9fdb8c2eed7eac430bda40d4fcd7b53fd8-8496612-images-thumbs&n=13" group-title="Познавательные", Царьград
+#EXTINF:-1 tvg-name="Царьград" tvg-logo="https://avatars.mds.yandex.net/i?id=46f33f09300ad809b1a94d9de4d261f806f8bc0c-5221767-images-thumbs&n=13" group-title="Познавательные", Царьград
 #EXTGRP:Познавательные
 https://bl.rutube.ru/livestream/91815da4edb167b5bd617bae490e57da/index.m3u8?s=fXjHoW_OCoImZKbWyv_iwQ&e=2074209247&scheme=https
 #EXTINF:-1 tvg-id="centralnoye-tv" tvg-name="Центральное телевидение" tvg-logo="http://epg.one/img/2400.png" group-title="Познавательные", Центральное телевидение
@@ -870,7 +864,7 @@ https://ucdn.beetv.kz/bpk-tv/000002455/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000000439/tve/index.m3u8
 #EXTINF:-1 tvg-id="fashionbox-hd" tvg-name="FashionBox" tvg-logo="http://epg.one/img/9097.png" group-title="Познавательные", FashionBox HD
 #EXTGRP:Познавательные
-https://stream8.cinerama.uz/1053/tracks-v1a1/mono.m3u8
+https://s70378.cdn.ngenix.net/fashion_box/2/index.m3u8
 #EXTINF:-1 tvg-id="fashion-tv" tvg-name="Fashion TV" tvg-logo="http://epg.one/img/8053.png" group-title="Познавательные", Fashion TV HD
 #EXTGRP:Познавательные
 https://stream8.cinerama.uz/1053/tracks-v1a1/mono.m3u8
@@ -894,7 +888,7 @@ https://ucdn.beetv.kz/bpk-tv/000000332/tve/index.m3u8
 https://bl.rutube.ru/livestream/2d7fa51716500fba52586d594201777f/index.m3u8?s=5RC_YHZXg5CPq7KrrCIO3w&e=2074209227&scheme=https
 #EXTINF:-1 tvg-id="history" tvg-name="History" tvg-logo="http://epg.one/img/1394.png" group-title="Познавательные", History
 #EXTGRP:Познавательные
-https://ucdn.beetv.kz/bpk-tv/000001000/tve/index.m3u8
+https://s70378.cdn.ngenix.net/history/2/index.m3u8
 #EXTINF:-1 tvg-id="h2" tvg-name="History2" tvg-logo="http://epg.one/img/2356.png" group-title="Познавательные", History2
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000002722/tve/index.m3u8
@@ -939,7 +933,7 @@ https://iptv.prosto.tv/id532/video.m3u8
 https://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
 #EXTINF:-1 tvg-id="rt-news" tve="RT News" tvg-logo="http://epg.one/img/2269.png" group-title="Познавательные", RT News
 #EXTGRP:Познавательные
-https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-4/mxtm-wdfe_1080p/chunklist_DVR.m3u8
+http://rt-glb.rttv.com/dvr/rtnews/playlist_2500Kb.m3u8
 #EXTINF:-1 tvg-id="rtg-hd" tvg-name="RTG HD" tvg-logo="http://epg.one/img/648.png" group-title="Познавательные", RTG HD
 #EXTGRP:Познавательные
 https://s70378.cdn.ngenix.net/rtg_hd/3/index.m3u8
