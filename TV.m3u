@@ -164,7 +164,7 @@ https://ucdn.beetv.kz/bpk-tv/000001213/tve/index.m3u8
 http://185.46.16.239:8000/Domashniy
 #EXTINF:-1 tvg-id="domashny-int" tvg-name="Домашний International" tvg-logo="https://iptvx.one/picons/domashny-int.png" group-title="Россия", Домашний International
 #EXTGRP:Россия
-https://ucdn.beetv.kz/bpk-tv/000002348/tve/index.m3u8
+http://158.101.222.193:88/georgia_play.php?id=domashni
 #EXTINF:-1 tvg-id="zvezda" tvg-name="Звезда" tvg-logo="http://epg.one/img/405.png" group-title="Россия", Звезда
 #EXTGRP:Россия
 http://185.46.16.239:8000/Zvezda
@@ -227,7 +227,7 @@ http://185.46.16.239:8000/Pyatnitsa
 https://bl.rutube.ru/livestream/9f87a9a0cecbe773be6fddcbd93585ac/index.m3u8?s=TOCZtoja06CDmfB2qI-6HQ&e=2074209215&scheme=https
 #EXTINF:-1 tvg-id="piatnica-int" tvg-name="Пятница International" tvg-logo="https://avatars.mds.yandex.net/i?id=6e89c0754d8e6800feb8f51ae53f5192eb27ea76-5222505-images-thumbs&n=13" group-title="Россия", Пятница International
 #EXTGRP:Россия
-https://ucdn.beetv.kz/bpk-tv/000007816/tve/index.m3u8
+http://158.101.222.193:88/georgia_play.php?id=friday
 #EXTINF:-1 tvg-id="5kanal-ru" tvg-name="Пятый канал" tvg-logo="http://epg.one/img/427.png" group-title="Россия", Пятый канал
 #EXTGRP:Россия
 http://flussonic.mkpnet.ru/tv-a5ff8c7a86c8b951/video.m3u8
@@ -281,7 +281,7 @@ http://194.152.35.17/sts/index.m3u8
 http://stream.mcquack.net/138/index.m3u8
 #EXTINF:-1 tvg-id="sts-int" tvg-name="СТС International" tvg-logo="http://epg.one/img/5652.png" group-title="Россия", СТС International
 #EXTGRP:Россия
-https://ucdn.beetv.kz/bpk-tv/000000428/tve/index.m3u8
+http://178.134.1.158:8081/CTC/index.m3u8
 #EXTINF:-1 tvg-id="sts-love" tvg-name="СТС Love" tvg-logo="http://epg.one/img/1322.png" group-title="Россия", СТС Love
 #EXTGRP:Россия
 https://flussonic.mkpnet.ru/tv-b9f0884f9a81b8c6/video.m3u8
