@@ -1761,6 +1761,12 @@ http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=380862&extensi
 #EXTINF:-1 tvg-name="DAZN RingSide" tvg-logo="https://avatars.mds.yandex.net/i?id=2f129d551c512dfaa59fbb04b62b22cc1058685e-16331225-images-thumbs&n=13" group-title="Спорт", DAZN RingSide
 #EXTGRP:Спорт
 https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/playlist.m3u8
+#EXTINF:-1 tvg-id="digisport1" tvg-name="DIGI Sport 1 HD RO" tvg-logo="http://epg.one/img/2907.png" group-title="Спорт", DIGI Sport 1 HD RO
+#EXTGRP:Спорт
+http://91.201.172.14:35005
+#EXTINF:-1 tvg-id="digisport2" tvg-name="DIGI Sport 2 HD RO" tvg-logo="http://epg.one/img/2906.png" group-title="Спорт", DIGI Sport 2 HD RO
+#EXTGRP:Спорт
+http://91.201.172.14:35006
 #EXTINF:-1 tvg-id="espn-us" tvg-name="ESPN USA" tvg-logo="http://epg.one/img/6582.png" group-title="Спорт", ESPN HD US
 #EXTGRP:Спорт
 http://cord-cutter.net:8080/LeeAv21/AvantL12/14197
