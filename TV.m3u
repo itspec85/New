@@ -1182,7 +1182,7 @@ https://fs.uplink.kz/kinomix/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 http://hls127.freeott.top:8080/Kinopokaz_HD/video.m3u8
 #EXTINF:-1 tvg-id="kinopremiera-hd" tvg-name="Кинопремьера" tvg-logo="http://epg.one/img/566.png" group-title="Кино", Кинопремьера
 #EXTGRP:Кино
-http://5.188.159.128:8070/KINOPREMIERA/index.m3u8
+http://157.90.0.245:8070/KINOPREMIERA/index.m3u8
 #EXTINF:-1 tvg-id="kinosat" tvg-name="Киносат" tvg-logo="http://epg.one/img/2407.png" group-title="Кино", Киносат
 #EXTGRP:Кино
 https://flussonic.mkpnet.ru/tv-e055808223a74709/video.m3u8
@@ -1210,9 +1210,6 @@ https://flussonic.mkpnet.ru/tv-513b9c22f4277475/video.m3u8
 #EXTINF:-1 tvg-id="klassika-kino" tvg-name="Классика Кино" tvg-logo="https://epg.iptvx.one/picons/klassika-kino.png" group-title="Кино", Классика Кино
 #EXTGRP:Кино
 http://stitch.teletarget.ru/vintera/movieclassic/index.m3u8
-#EXTINF:-1 tvg-id="legenda" tvg-name="Легенда" tvg-logo="https://epg.iptvx.one/picons/legenda.png" group-title="Кино", Легенда
-#EXTGRP:Кино
-https://flussonic.mkpnet.ru/tv-7a5f996197077375/video.m3u8
 #EXTINF:-1 tvg-id="lubimoe-kino" tvg-name="Любимое кино" tvg-logo="http://epg.one/img/477.png" group-title="Кино", Любимое Кино
 #EXTGRP:Кино
 http://176.118.197.101/LubimoeKino/mono.m3u8
@@ -1380,9 +1377,6 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/93
 #EXTINF:-1 tvg-id="insomnia-hd" tvg-name="Insomnia HD" tvg-logo="http://epg.one/img/6836.png" group-title="Кино", Insomnia HD
 #EXTGRP:Кино
 http://hls127.freeott.top:8080/PG_Insomnia_HD/mono.m3u8
-#EXTINF:-1 tvg-id="kino-24" tvg-name="Kino 24" tvg-logo="https://avatars.mds.yandex.net/i?id=bcb344db8e930caadd7dda8f42123ff8073d584c-5607498-images-thumbs&n=13" group-title="Кино", Kino 24
-#EXTGRP:Кино
-http://85.192.10.131/hls/Kino24Ru/playlist.m3u8
 #EXTINF:-1 tvg-id="movify-kino" tvg-name="Movify Kino" tvg-logo="https://epg.iptvx.one/picons/movify-kino.png" group-title="Кино", Movify Kino
 #EXTGRP:Кино
 http://void.greenhosting.ru/MovifyKino_Mpeg4/index.m3u8
@@ -1451,16 +1445,16 @@ https://ucdn.beetv.kz/bpk-tv/000003910/tve/index.m3u8
 https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="viju-tv1000-romantica" tvg-name="Viju TV1000 Romantica HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/97/Viju_TV1000_Romantica.svg/revision/latest/scale-to-width-down/284?cb=20240928200507" group-title="Кино", Viju TV1000 Romantica HD
 #EXTGRP:Кино
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/playlist.m3u8?e=1786354280&md5=E407L3IMENzkOenvDUxMMw
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/playlist.m3u8?e=1787735892&md5=FA9TWICpcyr3-FTdFlwh4Q
 #EXTINF:-1 tvg-id="vip-comedy" tvg-name="viju+ Comedy HD" tvg-logo="http://epg.one/img/1011.png" group-title="Кино", Viju+ Comedy HD
 #EXTGRP:Кино
-https://flussonic.mkpnet.ru/tv-c385ec3bab3a3605/video.m3u8
+http://s70378.cdn.ngenix.net/vip_comedy/4/index.m3u8
 #EXTINF:-1 tvg-id="vip-megahit" tvg-name="viju+ Megahit HD" tvg-logo="http://epg.one/img/1012.png" group-title="Кино", Viju+ Megahit HD
 #EXTGRP:Кино
 http://hls127.freeott.top:8080/ViP_Megahit/video.m3u8
 #EXTINF:-1 tvg-id="vip-premiere" tvg-name="viju+ Premiere HD" tvg-logo="http://epg.one/img/1013.png" group-title="Кино", Viju+ Premiere HD
 #EXTGRP:Кино
-https://flussonic.mkpnet.ru/tv-e107d21a90cb808f/video.m3u8
+http://185.46.16.239:8000/VIP_Premiere
 #EXTINF:-1 tvg-id="vip-serial" tvg-name="viju+ Serial HD" tvg-logo="http://epg.one/img/2838.png" group-title="Кино", Viju+ Serial HD
 #EXTGRP:Кино
 https://s70378.cdn.ngenix.net/vip_serial/2/index.m3u8
