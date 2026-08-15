@@ -852,7 +852,7 @@ https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-67642f277c5e3b38af72dcdb.m3u8
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
 #EXTINF:-1 tvg-id="discovery-channel" tvg-name="Discovery Channel" tvg-logo="http://epg.one/img/325.png" group-title="Познавательные", Discovery Channel
 #EXTGRP:Познавательные
-http://5.188.159.128:8070/DiscoveryChannel/index.m3u8
+https://ucdn.beetv.kz/bpk-tv/000001496/tve/index.m3u8
 #EXTINF:-1 tvg-id="euronews" tvg-name="Euronews Россия" tvg-logo="http://epg.one/img/2266.png" group-title="Познавательные", Euronews Россия
 #EXTGRP:Познавательные
 https://stream8.cinerama.uz/1024/index.m3u8
