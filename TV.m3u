@@ -1002,7 +1002,7 @@ https://stream8.cinerama.uz/1270/tracks-v1a1/mono.m3u8
 https://s70378.cdn.ngenix.net/detskij_mir/2/index.m3u8
 #EXTINF:-1 tvg-id="ginger-hd" tvg-name="Капитан Фантастика" tvg-logo="http://epg.one/img/2438.png" group-title="Детские", Капитан Фантастика
 #EXTGRP:Детские
-https://stream8.cinerama.uz/1406/tracks-v1a1/mono.m3u8
+https://stream1.cinerama.uz/1406/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="karusel" tvg-name="Карусель" tvg-logo="http://epg.one/img/740.png" group-title="Детские", Карусель
 #EXTGRP:Детские
 http://194.152.35.17/Karusel/index.m3u8
