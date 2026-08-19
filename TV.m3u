@@ -26,7 +26,7 @@ https://ucdn.beetv.kz/bpk-tv/000001689/tve/index.m3u8
 http://stream.kaztrk.kz/regional/aktobetv/index.m3u8
 #EXTINF:-1 tvg-id="alautv" tvg-name="Алау" tvg-logo="https://iptvx.one/picons/alautv.png" group-title="Казахстан", Алау
 #EXTGRP:Казахстан
-https://otv.wotom.net/alau/stream.m3u8
+https://ucdn.beetv.kz/bpk-tv/000001511/tve/index.m3u8
 #EXTINF:-1 tvg-id="almaty" tvg-name="Алматы" tvg-logo="https://avatars.mds.yandex.net/i?id=068ad38a8d9d4c4967a35be571ab6716cbf893a4-9289427-images-thumbs&n=13" group-title="Казахстан", Алматы
 #EXTGRP:Казахстан
 https://ucdn.beetv.kz/bpk-tv/000000667/tve/index.m3u8
