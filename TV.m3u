@@ -1212,7 +1212,7 @@ https://flussonic.mkpnet.ru/tv-513b9c22f4277475/video.m3u8
 http://stitch.teletarget.ru/vintera/movieclassic/index.m3u8
 #EXTINF:-1 tvg-id="lubimoe-kino" tvg-name="Любимое кино" tvg-logo="http://epg.one/img/477.png" group-title="Кино", Любимое Кино
 #EXTGRP:Кино
-http://176.118.197.101/LubimoeKino/mono.m3u8
+http://hls127.freeott.top:8080/Lubimoe_Kino/video.m3u8
 #EXTINF:-1 tvg-id="mir-seriala" tvg-name="Мир сериала" tvg-logo="http://epg.one/img/2275.png" group-title="Кино", Мир Сериала
 #EXTGRP:Кино
 https://s70378.cdn.ngenix.net/mir_seriala/2/index.m3u8
