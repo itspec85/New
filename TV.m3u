@@ -1075,9 +1075,6 @@ http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:-1 tvg-id="ani" tvg-name="Ani" tvg-logo="http://epg.one/img/2011.png" group-title="Детские", Ani
 #EXTGRP:Детские
 http://185.46.16.239:8000/Ani
-#EXTINF:-1 tvg-name="animation" tvg-logo="https://avatars.mds.yandex.net/i?id=2a0000017a16a1bd96b9dc40c85205c4d998-4245511-images-thumbs&n=13" group-title="Детские", animation
-#EXTGRP:Детские
-http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
 #EXTINF:-1 tvg-id="baby-time" tvg-name="Baby Time" tvg-logo="http://epg.one/img/9029.png" group-title="Детские", Baby Time
 #EXTGRP:Детские
 http://109.248.236.51/baby_time/video.m3u8
