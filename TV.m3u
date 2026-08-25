@@ -798,7 +798,7 @@ https://s70378.cdn.ngenix.net/telecafe/2/index.m3u8
 http://stitch.teletarget.ru/vintera/terra/index.m3u8
 #EXTINF:-1 tvg-id="tochka-otryva" tvg-name="Точка отрыва" tvg-logo="http://epg.one/img/617.png" group-title="Познавательные", Точка отрыва
 #EXTGRP:Познавательные
-https://flussonic.mkpnet.ru/tv-025f6f42ae5bcfc6/video.m3u8
+https://fs.uplink.kz/tochka_otriva/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="hd-life" tvg-name="Точка РФ" tvg-logo="https://avatars.mds.yandex.net/i?id=d3b4f009021411116670c7dc32b450eb1677e5c6-3574038-images-thumbs&n=13" group-title="Познавательные", Точка РФ
 #EXTGRP:Познавательные
 https://s70378.cdn.ngenix.net/hd_life/2/index.m3u8
@@ -907,9 +907,6 @@ https://ucdn.beetv.kz/bpk-tv/000002722/tve/index.m3u8
 #EXTINF:-1 tvg-id="insight-tv-hd" tvg-name="Insight TV HD" tvg-logo="https://epg.iptvx.one/picons/insight-tv-hd.png" group-title="Познавательные", Insight TV HD
 #EXTGRP:Познавательные
 https://stream8.cinerama.uz/1416/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Jarmarka" tvg-logo="https://i.ytimg.com/an/23MIFU9IMsNtE2K6FfBBCQ/featured_channel.jpg" group-title="Познавательные", Jarmarka
-#EXTGRP:Познавательные
-https://api.alpaca.t62a.com/hls/9104/stream0.m3u8
 #EXTINF:-1 tvg-name="Kulinar TV" tvg-logo="https://bem-media.de/wp-content/uploads/Kulinar.png" group-title="Познавательные", Kulinar TV
 #EXTGRP:Познавательные
 http://api.alpaca.t62a.com/hls/9110/stream0.m3u8
