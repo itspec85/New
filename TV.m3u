@@ -72,6 +72,9 @@ https://ucdn.beetv.kz/bpk-tv/000003021/tve/index.m3u8
 #EXTINF:-1 tvg-id="koktem-kz" tvg-name="Köktem" tvg-logo="https://iptvx.one/picons/koktem-kz.png" group-title="Казахстан", Köktem
 #EXTGRP:Казахстан
 https://ucdn.beetv.kz/bpk-tv/000008934/tve/index.m3u8
+#EXTINF:-1 tvg-name="Qonaev Media" tvg-logo="https://avatars.mds.yandex.net/i?id=a970fa565fe449b31e4051c9b51d2f9b58eac7fc-4835315-images-thumbs&n=13" group-title="Казахстан", Qonaev Media
+#EXTGRP:Казахстан
+https://v.qonaevtv.kz/qonaev/index.m3u8
 #EXTINF:-1 tvg-id="qostanai-kz" tvg-name="Qostanai" tvg-logo="https://avatars.mds.yandex.net/i?id=b9c5446aad6bfc54fe6b4d7495cfd38a1d94d795-5628812-images-thumbs&n=13" group-title="Казахстан", Qostanai
 #EXTGRP:Казахстан
 https://ucdn.beetv.kz/bpk-tv/000001521/tve/index.m3u8
