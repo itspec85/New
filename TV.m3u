@@ -1128,7 +1128,7 @@ http://flussonic.mkpnet.ru/tv-3848dd8604a262e0/video.m3u8
 https://lbgo.bozztv.com/ssh101/ssh101/livebest90e/chunks.m3u8?lb_backend_hint=7
 #EXTINF:-1 tvg-id="domkino" tvg-name="Дом кино" tvg-logo="http://epg.one/img/834.png" group-title="Кино", Дом Кино
 #EXTGRP:Кино
-https://s70378.cdn.ngenix.net/dom_kino/2/index.m3u8
+http://185.121.1.163:8083/DomKino/index.m3u8
 #EXTINF:-1 tvg-id="domkino-premium" tvg-name="Дом Кино Премиум HD" tvg-logo="http://epg.one/img/2020.png" group-title="Кино", Дом Кино Премиум HD
 #EXTGRP:Кино
 http://s70378.cdn.ngenix.net/dom_kino_premium_hd/4/index.m3u8
@@ -1137,16 +1137,16 @@ http://s70378.cdn.ngenix.net/dom_kino_premium_hd/4/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000003392/tve/index.m3u8
 #EXTINF:-1 tvg-id="evrokino" tvg-name="Еврокино" tvg-logo="http://epg.one/img/352.png" group-title="Кино", Еврокино
 #EXTGRP:Кино
-https://s70378.cdn.ngenix.net/evrokino/2/index.m3u8
+http://89.33.29.115:8080/Evrokino/index.m3u8
 #EXTINF:-1 tvg-name="Иллюзион+" tvg-logo="http://epg.one/img/2403.png" group-title="Кино", Иллюзион +
 #EXTGRP:Кино
-https://s70378.cdn.ngenix.net/illusion_plus/2/index.m3u8
+http://185.46.16.239:8000/Illyuzion+
 #EXTINF:-1 tvg-id="indiyskoe-kino" tvg-name="Индийское кино" tvg-logo="http://epg.one/img/798.png" group-title="Кино", ИНДИЙСКОЕ КИНО
 #EXTGRP:Кино
 http://188.113.190.12/329/index.m3u8
 #EXTINF:-1 tvg-id="zee-tv" tvg-name="Индия" tvg-logo="http://epg.one/img/2233.png" group-title="Кино", Индия
 #EXTGRP:Кино
-https://s70378.cdn.ngenix.net/zee_tv/2/index.m3u8
+http://89.33.29.115:8080/ZeeTV/index.m3u8
 #EXTINF:-1 tvg-id="kineko" tvg-name="Кинеко" tvg-logo="http://epg.one/img/7314.png" group-title="Кино", Кинеко
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000008136/tve/index.m3u8
