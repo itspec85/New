@@ -194,7 +194,7 @@ http://185.46.16.239:8000/Mir
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="mir-24" tvg-name="Мир 24" tvg-logo="http://epg.one/img/2078.png" group-title="Россия", Мир 24
 #EXTGRP:Россия
-https://s70378.cdn.ngenix.net/mir_24/2/index.m3u8
+http://178.134.1.158:8081/MIR24/index.m3u8
 #EXTINF:-1 tvg-id="mir-24" tvg-name="Мир 24 HD" tvg-logo="http://epg.one/img/2078.png" group-title="Россия", Мир 24 HD
 #EXTGRP:Россия
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
@@ -254,7 +254,7 @@ http://flussonic.mkpnet.ru/tv-44dfec2799c5738e/video.m3u8
 http://194.152.35.17/ren_tv/index.m3u8
 #EXTINF:-1 tvg-name="Рен ТВ International" tvg-logo="https://i.postimg.cc/SsRGs7Y7/International.png" group-title="Россия", Рен ТВ International
 #EXTGRP:Россия
-https://s70378.cdn.ngenix.net/ren_tv/2/index.m3u8
+http://178.134.1.158:8081/RENTV/index.m3u8
 #EXTINF:-1 tvg-id="rossia1" tvg-name="Россия 1" tvg-logo="http://epg.one/img/711.png" group-title="Россия", Россия 1
 #EXTGRP:Россия
 http://185.46.16.239:8000/Rossiya_1
@@ -525,10 +525,10 @@ https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/play
 https://ucdn.beetv.kz/bpk-tv/000000195/tve/index.m3u8
 #EXTINF:-1 tvg-id="vremia" tvg-name="Время" tvg-logo="http://epg.one/img/669.png" group-title="Познавательные", Время
 #EXTGRP:Познавательные
-https://s70378.cdn.ngenix.net/vremia/2/index.m3u8
+https://fs.uplink.kz/vremya/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="glazami-turista" tvg-name="Глазами туриста HD" tvg-logo="http://epg.one/img/2508.png" group-title="Познавательные", Глазами туриста HD
 #EXTGRP:Познавательные
-https://s70378.cdn.ngenix.net/glazami_turista/1/index.m3u8
+http://89.33.29.115:8080/Glazami_turista_HD/index.m3u8
 #EXTINF:-1 tvg-id="dialogi-o-rybalke" tvg-name="Диалоги о рыбалке" tvg-logo="http://epg.one/img/2627.png" group-title="Познавательные", Диалоги о рыбалке
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000003174/tve/index.m3u8
@@ -540,7 +540,7 @@ http://stream.mcquack.net/274/index.m3u8
 http://stream.mcquack.net/275/index.m3u8
 #EXTINF:-1 tvg-id="dikiy" tvg-name="Дикий" tvg-logo="http://epg.one/img/2283.png" group-title="Познавательные", Дикий
 #EXTGRP:Познавательные
-https://s70378.cdn.ngenix.net/dikiy/2/index.m3u8
+http://hls127.freeott.top:8080/Dikiy/mono.m3u8
 #EXTINF:-1 tvg-id="dozhd" tvg-name="Дождь" tvg-logo="http://epg.one/img/2399.png" group-title="Познавательные", Дождь
 #EXTGRP:Познавательные
 http://portal.ott.pink/C5UK_DozhdSD/mpegts?token=9ED1CC22511FE66191AD465072EEE8DF
@@ -564,7 +564,7 @@ https://ucdn.beetv.kz/bpk-tv/000008065/tve/index.m3u8
 http://185.46.16.239:8000/Zhivaya_Planeta
 #EXTINF:-1 tvg-id="zhivi" tvg-name="ЖИВИ!" tvg-logo="http://epg.one/img/113.png" group-title="Познавательные", ЖИВИ!
 #EXTGRP:Познавательные
-https://s70378.cdn.ngenix.net/jivi/2/index.m3u8
+http://46.8.46.14/zhivi/index.m3u8
 #EXTINF:-1 tvg-id="zhivi-aktivno" tvg-name="Живи активно" tvg-logo="https://epg.iptvx.one/picons/zhivi-aktivno.png" group-title="Познавательные", Живи активно
 #EXTGRP:Познавательные
 https://flussonic.mkpnet.ru/tv-fa810958620d77d8/video.m3u8
@@ -661,7 +661,7 @@ http://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
 https://ucdn.beetv.kz/bpk-tv/000008615/tve/index.m3u8
 #EXTINF:-1 tvg-id="nostalgia" tvg-name="Ностальгия" tvg-logo="http://epg.one/img/783.png" group-title="Познавательные", Ностальгия
 #EXTGRP:Познавательные
-https://s70378.cdn.ngenix.net/nostalgia/2/index.m3u8
+http://176.118.197.101/Nostalgiya/mono.m3u8
 #EXTINF:-1 tvg-id="ntv-pravo" tvg-name="НТВ Право" tvg-logo="http://epg.one/img/1753.png" group-title="Познавательные", НТВ Право
 #EXTGRP:Познавательные
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
