@@ -1203,7 +1203,7 @@ https://ucdn.beetv.kz/bpk-tv/000005450/tve/index.m3u8
 http://hls127.freeott.top:8080/Kinoseriya_HD/video.m3u8
 #EXTINF:-1 tvg-id="kinouzhas" tvg-name="Киноужас" tvg-logo="http://epg.one/img/2493.png" group-title="Кино", Киноужас
 #EXTGRP:Кино
-https://s70378.cdn.ngenix.net/kinouzhas/index.m3u8
+https://fs.uplink.kz/kinouzhas/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="kinoxit" tvg-name="Кинохит" tvg-logo="http://epg.one/img/542.png" group-title="Кино", КИНОХИТ
 #EXTGRP:Кино
 https://flussonic.mkpnet.ru/tv-513b9c22f4277475/video.m3u8
@@ -1215,7 +1215,7 @@ http://stitch.teletarget.ru/vintera/movieclassic/index.m3u8
 http://hls127.freeott.top:8080/Lubimoe_Kino/video.m3u8
 #EXTINF:-1 tvg-id="mir-seriala" tvg-name="Мир сериала" tvg-logo="http://epg.one/img/2275.png" group-title="Кино", Мир Сериала
 #EXTGRP:Кино
-https://s70378.cdn.ngenix.net/mir_seriala/2/index.m3u8
+http://176.118.197.101/MirSeriala/index.m3u8
 #EXTINF:-1 tvg-id="mirovoe-kino-kz" tvg-name="Мировое кино KZ" tvg-logo="https://iptvx.one/picons/mirovoe-kino-kz.png" group-title="Кино", Мировое кино KZ
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000008488/tve/index.m3u8
@@ -1301,7 +1301,7 @@ http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5
 http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8
 #EXTINF:-1 tvg-id="tv21m" tvg-name="ТВ-21M" tvg-logo="http://epg.one/img/309.png" group-title="Кино", ТВ-21M
 #EXTGRP:Кино
-https://s70378.cdn.ngenix.net/tv_xxi/2/index.m3u8
+https://fs.uplink.kz/tvxxi/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="feniks-plus-kino" tvg-name="Феникс плюс Кино" tvg-logo="http://epg.one/img/2404.png" group-title="Кино", Феникс плюс Кино
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000000125/tve/index.m3u8
