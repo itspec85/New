@@ -165,6 +165,9 @@ https://ucdn.beetv.kz/bpk-tv/000001213/tve/index.m3u8
 #EXTINF:-1 tvg-id="domashny" tvg-name="Домашний" tvg-logo="http://epg.one/img/304.png" group-title="Россия", Домашний
 #EXTGRP:Россия
 http://185.46.16.239:8000/Domashniy
+#EXTINF:-1 tvg-id="domashny" tvg-name="Домашний" tvg-logo="http://epg.one/img/304.png" group-title="Россия", Домашний HD
+#EXTGRP:Россия
+https://stream1.cinerama.uz/1436/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="domashny-int" tvg-name="Домашний International" tvg-logo="https://iptvx.one/picons/domashny-int.png" group-title="Россия", Домашний International
 #EXTGRP:Россия
 https://ucdn.beetv.kz/bpk-tv/000002348/tve/index.m3u8
@@ -288,6 +291,9 @@ https://ucdn.beetv.kz/bpk-tv/000000428/tve/index.m3u8
 #EXTINF:-1 tvg-id="sts-love" tvg-name="СТС Love" tvg-logo="http://epg.one/img/1322.png" group-title="Россия", СТС Love
 #EXTGRP:Россия
 https://flussonic.mkpnet.ru/tv-b9f0884f9a81b8c6/video.m3u8
+#EXTINF:-1 tvg-id="sts-love" tvg-name="СТС Love" tvg-logo="http://epg.one/img/1322.png" group-title="Россия", СТС Love HD
+#EXTGRP:Россия
+https://bl.rutube.ru/livestream/32dc45cf878497abe1c9695e228f039b/index.m3u8?s=raluVYOY1SoIpPrT1oVFtg&e=2087864588&scheme=https
 #EXTINF:-1 tvg-id="super" tvg-name="Суббота" tvg-logo="http://epg.one/img/2288.png" group-title="Россия", Суббота
 #EXTGRP:Россия
 http://217.114.191.150/Subbota/index.m3u8
@@ -308,7 +314,7 @@ https://ucdn.beetv.kz/bpk-tv/000004712/tve/index.m3u8
 http://stitch.teletarget.ru/vintera/tvcsd/index.m3u8
 #EXTINF:-1 tvg-id="tvci" tvg-name="ТВЦ International" tvg-logo="http://epg.one/img/5691.png" group-title="Россия", ТВЦ International
 #EXTGRP:Россия
-https://ucdn.beetv.kz/bpk-tv/000000112/tve/index.m3u8
+https://fs.uplink.kz/tvc/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="tnt" tvg-name="ТНТ" tvg-logo="http://epg.one/img/353.png" group-title="Россия", ТНТ
 #EXTGRP:Россия
 http://194.152.35.17/tnt/index.m3u8
@@ -330,6 +336,9 @@ https://ucdn.beetv.kz/bpk-tv/000002926/tve/index.m3u8
 #EXTINF:-1 tvg-id="che" tvg-name="Че" tvg-logo="http://epg.one/img/1598.png" group-title="Россия", Че
 #EXTGRP:Россия
 https://flussonic.mkpnet.ru/tv-cf5a26a180f402ef/video.m3u8
+#EXTINF:-1 tvg-id="che" tvg-name="Че" tvg-logo="http://epg.one/img/1598.png" group-title="Россия", Че HD
+#EXTGRP:Россия
+https://bl.rutube.ru/livestream/5bbff90167d1b1d88fda92376ec7a651/index.m3u8?s=KhkVE-jTrXLg-IMurO0eqg&e=2087864587&scheme=https
 #EXTINF:-1 tvg-id="yu" tvg-name="Ю" tvg-logo="http://epg.one/img/898.png" group-title="Россия", Ю
 #EXTGRP:Россия
 https://flussonic.mkpnet.ru/tv-3b21847ece4b1c19/video.m3u8
@@ -634,6 +643,9 @@ https://ucdn.beetv.kz/bpk-tv/000000286/tve/index.m3u8
 #EXTINF:-1 tvg-id="muzsoyuz" tvg-name="МузСоюз" tvg-logo="http://epg.one/img/2413.png" group-title="Познавательные", МузСоюз
 #EXTGRP:Познавательные
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
+#EXTINF:-1 tvg-id="myy" tvg-name="МЫ" tvg-logo="https://avatars.mds.yandex.net/i?id=ad2bf38f03c825e203f466a41d855e1d_sr-12541653-images-thumbs&n=13" group-title="Познавательные", Мы
+#EXTGRP:Познавательные
+https://bl.rutube.ru/livestream/ee431650738a594119c3516ceda72775/index.m3u8?s=H0V9B3_uYP4W9yrXMO7nBQ&e=2087864621&scheme=https
 #EXTINF:-1 tvg-id="nadezhda" tvg-name="Надежда" tvg-logo="http://epg.one/img/1732.png" group-title="Познавательные", Надежда
 #EXTGRP:Познавательные
 http://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
@@ -958,6 +970,9 @@ https://ucdn.beetv.kz/bpk-tv/000008142/tve/index.m3u8
 #EXTINF:-1 tvg-id="tlc" tvg-name="TLC" tvg-logo="http://epg.one/img/2345.png" group-title="Познавательные", TLC
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000001498/tve/index.m3u8
+#EXTINF:-1 tvg-id="tlc" tvg-name="TLC" tvg-logo="http://epg.one/img/2345.png" group-title="Познавательные", TLC HD
+#EXTGRP:Познавательные
+https://bl.rutube.ru/livestream/7c3d1a4cc0b4dff1176aa2dbb0b90000/index.m3u8?s=TxBVz6mbvHUETLQSTnOgpA&e=2087864590&scheme=https
 #EXTINF:-1 tvg-id="travel-adventure" tvg-name="travel+adventure" tvg-logo="http://epg.one/img/1035.png" group-title="Познавательные", travel+adventure
 #EXTGRP:Познавательные
 http://77.232.131.211/TravelAdventureHD/index.m3u8
@@ -1452,6 +1467,12 @@ https://ucdn.beetv.kz/bpk-tv/000004375/tve/index.m3u8
 
 
 
+#EXTINF:-1 tvg-name="Вселенная Гарри Поттера" tvg-logo="https://avatars.mds.yandex.net/i?id=3bcfa37101d0bd2fe896b06ee89bcb8086f3404a-8341266-images-thumbs&n=13" group-title="Кинозал", Вселенная Гарри Поттера
+#EXTGRP:Кинозал
+https://bl.rutube.ru/livestream/f6a3656e5ef574982994ddf2e5003341/index.m3u8?s=TfA7XRFDikN0wvdPn2qRRQ&e=2087864591&scheme=https
+#EXTINF:-1 tvg-name="Вселенная Marvel" tvg-logo="https://avatars.mds.yandex.net/i?id=36d60cadb4dc305993522f68e9733e8467871990-12473946-images-thumbs&n=13" group-title="Кинозал", Вселенная Marvel
+#EXTGRP:Кинозал
+https://bl.rutube.ru/livestream/3abeb7577fd38ac4b8130bb8e03418f2/index.m3u8?s=qOeLwJURbU7zgkTxwYIk9A&e=2087864591&scheme=https
 #EXTINF:-1 tvg-name="НТВ сериалы. Балабол" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20251021/balabol_vse_vert.jpg" group-title="Кинозал", НТВ сериалы. Балабол
 #EXTGRP:Кинозал
 https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/rewind-240.ts.m3u8
@@ -2561,7 +2582,7 @@ https://rost.mediacdn.ru/cdn/rostov1/tracks-v1a1/mono.m3u8
 http://1tvtula.ru/tula/1tv_hi/index.m3u8
 #EXTINF:-1 tvg-id="pervy-yaroslavsky" tvg-name="Первый Ярославский FHD" tvg-logo="https://cdn.epg.one/img/7711.png" group-title="Региональные РФ", Первый Ярославский FHD
 #EXTGRP:Региональные РФ
-http://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/tracks-v1a1/mono.ts.m3u8
+https://bl.rutube.ru/livestream/b7d879feefadde4e04e516dde89012cd/index.m3u8?s=26j_tL7b1_FSMU3tSDGFnA&e=2087864627&scheme=https
 #EXTINF:-1 tvg-id="prima" tvg-name="Прима ТВ FHD" tvg-logo="https://cdn.epg.one/img/5818.png" group-title="Региональные РФ", Прима ТВ FHD
 #EXTGRP:Региональные РФ
 http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1920x1080@4504/playlist.m3u8
