@@ -260,19 +260,19 @@ http://178.134.1.158:8081/RENTV/index.m3u8
 http://185.46.16.239:8000/Rossiya_1
 #EXTINF:-1 tvg-id="rossia1" tvg-name="Россия 1 HD" tvg-logo="http://epg.one/img/984.png" group-title="Россия", Россия 1 HD
 #EXTGRP:Россия
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+https://stream.smotrim.ru/hls2/russia_hd/playlist_6.m3u8
 #EXTINF:-1 tvg-id="rossia-24" tvg-name="Россия-24" tvg-logo="http://epg.one/img/1683.png" group-title="Россия", Россия-24
 #EXTGRP:Россия
 https://stream.smotrim.ru/hls2/russia_24/playlist_3.m3u8
 #EXTINF:-1 tvg-id="rossia-24" tvg-name="Россия-24 HD" tvg-logo="http://epg.one/img/1683.png" group-title="Россия", Россия-24 HD
 #EXTGRP:Россия
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
+http://77.232.131.211/Rossiya24/index.m3u8
 #EXTINF:-1 tvg-id="kultura" tvg-name="Россия К" tvg-logo="http://epg.one/img/187.png" group-title="Россия", Россия-Культура
 #EXTGRP:Россия
 http://185.46.16.239:8000/Rossiya_K
 #EXTINF:-1 tvg-id="kultura" tvg-name="Россия К HD" tvg-logo="http://epg.one/img/187.png" group-title="Россия", Россия-Культура HD
 #EXTGRP:Россия
-http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
+https://bl.rutube.ru/livestream/d0c0d69362edfbe706cb82d973439bb5/index.m3u8?s=qgidODiouDK8hVnpFwEf-A&e=2087864592&scheme=https
 #EXTINF:-1 tvg-id="rtr-planeta-eu" tvg-name="РТР-Планета Европа" tvg-logo="http://epg.one/img/2547.png" group-title="Россия", РТР Планета Европа
 #EXTGRP:Россия
 https://streaming.thestream.cyou/live/211.m3u8
@@ -2318,7 +2318,7 @@ http://stream01.bgu.ru:8081/1/1/playlist.m3u8
 https://bl.rutube.ru/livestream/f79ff24ad16cf5f5eb52994647596d13/index.m3u8?s=TUopaW8CoTT-LSwqNomY9A&e=2074209229&scheme=https
 #EXTINF:-1 tvg-id="bashkortostan24" tvg-name="Башкортостан 24" tvg-logo="http://epg.one/img/7707.png" group-title="Региональные РФ", Башкортостан 24
 #EXTGRP:Региональные РФ
-http://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/bashkortostan24-hd/index.m3u8
+https://bl.rutube.ru/livestream/cf7e6ad2c24ce743b5b60478c176037b/index.m3u8?s=W6wFxU_m74HaRyqsR_xCVQ&e=2087864625&scheme=https
 #EXTINF:-1 tvg-id="belgorod24" tvg-name="Белгород 24" tvg-logo="http://epg.one/img/5831.png" group-title="Региональные РФ", Белгород 24
 #EXTGRP:Региональные РФ
 https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8
