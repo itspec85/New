@@ -1878,12 +1878,24 @@ https://ucdn.beetv.kz/bpk-tv/000002649/tve/index.m3u8
 #EXTINF:-1 tvg-id="setanta-plus-kz" tvg-name="Setanta Sport+ [KZ]" tvg-logo="http://epg.one/img/6860.png" group-title="Спорт", Setanta Sport+
 #EXTGRP:Спорт
 https://ucdn.beetv.kz/bpk-tv/000008786/tve/index.m3u8
+#EXTINF:-1 tvg-id="setanta1-lt" tvg-name="Setanta Sports 1 Lietuva" tvg-logo="http://epg.one/img/7238.png" group-title="Спорт", Setanta Sports 1
+#EXTGRP:Спорт
+http://stream.mcquack.net/234/index.m3u8
 #EXTINF:-1 tvg-id="setanta1-kz" tvg-name="Setanta Sports 1 HD KZ" tvg-logo="http://epg.one/img/7238.png" group-title="Спорт", Setanta Sports 1 HD KZ
 #EXTGRP:Спорт
 https://ucdn.beetv.kz/bpk-tv/000004498/tve/index.m3u8
+#EXTINF:-1 tvg-id="setanta2-lt" tvg-name="Setanta Sports 2 Lietuva" tvg-logo="http://epg.one/img/7238.png" group-title="Спорт", Setanta Sports 2
+#EXTGRP:Спорт
+http://stream.mcquack.net/235/index.m3u8
 #EXTINF:-1 tvg-id="setanta2-kz" tvg-name="Setanta Sports 2 HD KZ" tvg-logo="http://epg.one/img/2363.png" group-title="Спорт", Setanta Sports 2 HD KZ
 #EXTGRP:Спорт
 https://ucdn.beetv.kz/bpk-tv/000004499/tve/index.m3u8
+#EXTINF:-1 tvg-id="setanta-ua" tvg-name="Setanta Sports Ukraine" tvg-logo="http://epg.one/img/2363.png" group-title="Спорт", Setanta Sports Ukraine HD
+#EXTGRP:Спорт
+http://stream.mcquack.net/313/index.m3u8
+#EXTINF:-1 tvg-id="setanta-plus-ua" tvg-name="Setanta Sports+ Ukraine" tvg-logo="http://epg.one/img/2363.png" group-title="Спорт", Setanta Sports+ Ukraine HD
+#EXTGRP:Спорт
+http://stream.mcquack.net/390/index.m3u8
 #EXTINF:-1 tvg-id="sky-sports-apl" tvg-name="Sky Sports Premier League [UK]" tvg-logo="http://epg.one/img/4569.png" group-title="Спорт", Sky Sports Premier League UK
 #EXTGRP:Спорт
 https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=oObmp1dO48FmEKhyszr1rQ&e=2074209265&scheme=https
