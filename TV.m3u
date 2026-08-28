@@ -1709,7 +1709,7 @@ https://flussonic.mkpnet.ru/tv-9dda1dd9d740a9a4/video.m3u8
 http://stream.mcquack.net/112/index.m3u8
 #EXTINF:-1 tvg-id="match-igra" tvg-name="Матч! Игра" tvg-logo="http://epg.one/img/2050.png" group-title="Спорт", Матч! Игра
 #EXTGRP:Спорт
-http://185.46.16.239:8000/Match_Igra
+https://flussonic.mkpnet.ru/tv-1bfac9df3d938c1f/video.m3u8
 #EXTINF:-1 tvg-id="match-igra" tvg-name="Матч! Игра" tvg-logo="http://epg.one/img/2050.png" group-title="Спорт", Матч! Игра HD
 #EXTGRP:Спорт
 http://185.37.150.38/test/index.m3u8
@@ -1736,7 +1736,7 @@ http://45.145.32.13:20440/match_football2/index.m3u8?token=test
 http://stream.mcquack.net/142/index.m3u8
 #EXTINF:-1 tvg-id="match-football3" tvg-name="Матч! Футбол 3" tvg-logo="http://epg.one/img/2005.png" group-title="Спорт", Матч! Футбол 3
 #EXTGRP:Спорт
-http://185.57.68.33:80/110/index.m3u8
+http://tv.ttk.mx:9112
 #EXTINF:-1 tvg-id="match-football3" tvg-name="Матч! Футбол 3 HD" tvg-logo="http://epg.one/img/2005.png" group-title="Спорт", Матч! Футбол 3 HD
 #EXTGRP:Спорт
 http://176.100.46.245:90/matchfootball3/index.m3u8
@@ -1818,9 +1818,6 @@ https://webtvstream.bhtelecom.ba/fightbox.m3u8
 #EXTINF:-1 tvg-name="FITE 24/7" tvg-logo="https://i.imgur.com/ESV6qgH.png" group-title="Спорт", FITE 24/7
 #EXTGRP:Спорт
 https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8
-#EXTINF:-1 tvg-id="futbol-tv-uz" tvg-name="Futbol TV Telekanali [UZ]" tvg-logo="https://epg.iptvx.one/picons/futbol-tv-uz.png" group-title="Спорт", Futbol TV Telekanali UZ
-#EXTGRP:Спорт
-http://stream3.cinerama.uz/1010/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Glory Kickboxing" tvg-logo="https://avatars.mds.yandex.net/i?id=abf21721486b2e4657813651412bc1e1a1a854a9-10304277-images-thumbs&n=13" group-title="Спорт", Glory Kickboxing
 #EXTGRP:Спорт
 https://6f972d29.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0dsb3J5S2lja2JveGluZ19ITFM/playlist.m3u8
@@ -1884,18 +1881,9 @@ https://ucdn.beetv.kz/bpk-tv/000008786/tve/index.m3u8
 #EXTINF:-1 tvg-id="setanta1-kz" tvg-name="Setanta Sports 1 HD KZ" tvg-logo="http://epg.one/img/7238.png" group-title="Спорт", Setanta Sports 1 HD KZ
 #EXTGRP:Спорт
 https://ucdn.beetv.kz/bpk-tv/000004498/tve/index.m3u8
-#EXTINF:-1 tvg-id="setanta1-ge" tvg-name="Setanta Sports 1 GE" tvg-logo="http://epg.one/img/6806.png" group-title="Спорт", Setanta Sports 1 GE
-#EXTGRP:Спорт
-http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
 #EXTINF:-1 tvg-id="setanta2-kz" tvg-name="Setanta Sports 2 HD KZ" tvg-logo="http://epg.one/img/2363.png" group-title="Спорт", Setanta Sports 2 HD KZ
 #EXTGRP:Спорт
 https://ucdn.beetv.kz/bpk-tv/000004499/tve/index.m3u8
-#EXTINF:-1 tvg-id="setanta2-ge" tvg-name="Setanta Sports 2 GE" tvg-logo="http://epg.one/img/6805.png" group-title="Спорт", Setanta Sports 2 GE
-#EXTGRP:Спорт
-http://158.101.222.193:88/georgia_play.php?id=setanta_sports_plus_georgia
-#EXTINF:-1 tvg-id="setanta3-ge" tvg-name="Setanta Sports 3 GE" tvg-logo="http://epg.one/img/7783.png" group-title="Спорт", Setanta Sports 3 GE
-#EXTGRP:Спорт
-http://158.101.222.193:88/georgia_play.php?id=setanta_sports_3
 #EXTINF:-1 tvg-id="sky-sports-apl" tvg-name="Sky Sports Premier League [UK]" tvg-logo="http://epg.one/img/4569.png" group-title="Спорт", Sky Sports Premier League UK
 #EXTGRP:Спорт
 https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=oObmp1dO48FmEKhyszr1rQ&e=2074209265&scheme=https
