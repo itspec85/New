@@ -727,6 +727,12 @@ https://cityeden.catcast.tv/content/47519/index.m3u8?password=
 #EXTINF:-1 tvg-name="Сити Эдем - Рецепты Гурмана" tvg-logo="https://www.cityeden.info/logotv/logotip_receptygurmana1.png" group-title="Познавательные", Сити Эдем - Рецепты Гурмана
 #EXTGRP:Познавательные
 https://cityeden.catcast.tv/content/47516/index.m3u8?password=
+#EXTINF:-1 tvg-id="smotrim-100-prazdnik" tvg-name="Смотрим 100% Праздник" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-prazdnik.png" group-title="Познавательные", Смотрим 100% Праздник
+#EXTGRP:Познавательные
+https://stream.smotrim.ru/fasttv_hls/fasttv04/playlist_3.m3u8
+#EXTINF:-1 tvg-id="smotrim-100-fakty" tvg-name="Смотрим 100% Факты" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-fakty.png" group-title="Познавательные", Смотрим 100% Факты
+#EXTGRP:Познавательные
+https://stream.smotrim.ru/fasttv_hls/fasttv06/playlist_3.m3u8
 #EXTINF:-1 tvg-id="solovjinypomiot" tvg-name="Соловьев.Live" tvg-logo="http://epg.one/img/13.png" group-title="Познавательные", Соловьев.Live
 #EXTGRP:Познавательные
 https://stream.smotrim.ru/hls/solovievlive/playlist_6.m3u8
@@ -1015,6 +1021,9 @@ https://stream8.cinerama.uz/1407/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="smaylik-tv" tvg-name="Смайл ТВ" tvg-logo="http://epg.one/img/2442.png" group-title="Детские", Смайл ТВ
 #EXTGRP:Детские
 https://5d23269b3ec0c.streamlock.net/WEB_Smilik/Smilik.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="smotrim-100-detskoe" tvg-name="Смотрим 100% Детское" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-detskoe.png" group-title="Детские", Смотрим 100% Детское
+#EXTGRP:Детские
+https://stream.smotrim.ru/fasttv_hls/fasttv05/playlist_3.m3u8
 #EXTINF:-1 tvg-id="solnce" tvg-name="Солнце" tvg-logo="http://epg.one/img/7669.png" group-title="Детские", Солнце
 #EXTGRP:Детские
 http://tv.mediacdn.ru/live/solntse/playlist_3000k.m3u8
@@ -1254,6 +1263,15 @@ https://ucdn.beetv.kz/bpk-tv/000008135/tve/index.m3u8
 #EXTINF:-1 tvg-id="semejnoe-kino-kz" tvg-name="Семейное кино KZ" tvg-logo="https://iptvx.one/picons/semejnoe-kino-kz.png" group-title="Кино", Семейное кино KZ
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000008489/tve/index.m3u8
+#EXTINF:-1 tvg-id="smotrim-100-klassika" tvg-name="Смотрим 100% Классика" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-klassika.png" group-title="Кино", Смотрим 100% Классика
+#EXTGRP:Кино
+https://stream.smotrim.ru/fasttv_hls/fasttv03/playlist_3.m3u8
+#EXTINF:-1 tvg-id="smotrim-100-lubov" tvg-name="Смотрим 100% Любовь" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-lubov.png" group-title="Кино", Смотрим 100% Любовь
+#EXTGRP:Кино
+https://stream.smotrim.ru/fasttv_hls/fasttv01/playlist_3.m3u8
+#EXTINF:-1 tvg-id="smotrim-100-muzhskoe" tvg-name="Смотрим 100% Мужское" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-muzhskoe.png" group-title="Кино", Смотрим 100% Мужское
+#EXTGRP:Кино
+https://stream.smotrim.ru/fasttv_hls/fasttv02/playlist_3.m3u8
 #EXTINF:-1 tvg-id="chestny-detektiv" tvg-name="Честный детектив" tvg-logo="https://cdn-st3.smotrim.ru/vh/pictures/r/444/241/8.png" group-title="Кино", Смотрим Честный детектив
 #EXTGRP:Кино
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
