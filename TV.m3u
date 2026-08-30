@@ -1446,10 +1446,10 @@ https://bl.rutube.ru/livestream/dcd36c7833f9431e6e6c902515c6c3ac/index.m3u8?s=uw
 #EXTINF:-1 tvg-id="kino-i-zhizn" tvg-name="Кино и Жизнь" tvg-logo="https://epg.iptvx.one/picons/kino-i-zhizn.png" group-title="Кинозал", Кино и Жизнь
 #EXTGRP:Кинозал
 https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=rguudX-088KMchE_oKxn4g&e=2074209221&scheme=https
-#EXTINF:-1 tvg-name="Киножелезо" tvg-logo="https://avatars.mds.yandex.net/i?id=1ef33650d426407089682099e8bb1486be69400b-5916570-images-thumbs&n=13" group-title="Кинозал", Киножелезо
+#EXTINF:-1 tvg-name="Киножелезо" tvg-logo="https://avatars.mds.yandex.net/i?id=3e9d8f8283b516af5855cce121d43a4d1228fc9e-13490011-images-thumbs&n=13" group-title="Кинозал", Киножелезо
 #EXTGRP:Кинозал
 https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=0jJC8KRAJzL-k6C375NH3g&e=2074209219&scheme=https
-#EXTINF:-1 tvg-name="Кинолаффка" tvg-logo="https://avatars.mds.yandex.net/i?id=1ef33650d426407089682099e8bb1486be69400b-5916570-images-thumbs&n=13" group-title="Кинозал", Кинолаффка
+#EXTINF:-1 tvg-name="Кинолаффка" tvg-logo="https://avatars.mds.yandex.net/i?id=34fc9cd559ec9717fda811e4c567ca3c996a282c-5388624-images-thumbs&n=13" group-title="Кинозал", Кинолаффка
 #EXTGRP:Кинозал
 https://bl.rutube.ru/livestream/3b7d1499da9396462bfd17282d758d30/index.m3u8?s=1LbhK_E1BiUoBBs7aq7PHQ&e=2074209219&scheme=https
 #EXTINF:-1 tvg-name="Кинотеатр" tvg-logo="https://avatars.mds.yandex.net/i?id=065ec8d385a26525ba452b13aaa5ab583d470388-5450106-images-thumbs&n=13" group-title="Кинозал", Кинотеатр
