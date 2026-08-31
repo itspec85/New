@@ -880,6 +880,9 @@ https://stream8.cinerama.uz/1416/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Kulinar TV" tvg-logo="https://bem-media.de/wp-content/uploads/Kulinar.png" group-title="Познавательные", Kulinar TV
 #EXTGRP:Познавательные
 http://api.alpaca.t62a.com/hls/9110/stream0.m3u8
+#EXTINF:-1 tvg-name="Love Nature" tvg-logo="https://avatars.mds.yandex.net/i?id=7310c2884ed456e1128e487d05ab804087dae9c5-7570549-images-thumbs&n=13" group-title="Познавательные", Love Nature
+#EXTGRP:Познавательные
+http://195.64.140.147:10214/214
 #EXTINF:-1 tvg-id="love-nature-4k" tvg-name="Love Nature 4K" tvg-logo="http://epg.one/img/2801.png" group-title="Познавательные", Love Nature 4K
 #EXTGRP:Познавательные
 https://jmp2.uk/stvp-USBA3400003IP
@@ -2253,6 +2256,9 @@ http://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-id="41region" tvg-name="41 регион" tvg-logo="https://avatars.mds.yandex.net/i?id=7f1219a323cdc6cb127722da52b91cd1838cec20-3193980-images-thumbs&n=13" group-title="Региональные РФ", 41 регион
 #EXTGRP:Региональные РФ
 https://bl.rutube.ru/livestream/aff0a2b356d2e1eef55bdb868be4dcc3/index.m3u8?s=fYaC21JKllUYEwp3KQ2dAA&e=2074209232&scheme=https
+#EXTINF:-1 tvg-id="78kanal" tvg-name="Канал 78" tvg-logo="https://epg.iptvx.one/picons/78.png" group-title="Региональные РФ", 78 канал
+#EXTGRP:Региональные РФ
+http://195.64.140.147:10038/38
 #EXTINF:-1 tvg-id="360-podmoskovie" tvg-name="360°" tvg-logo="http://epg.one/img/2265.png" group-title="Региональные РФ", 360°
 #EXTGRP:Региональные РФ
 http://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1080.m3u8
