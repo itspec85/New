@@ -1111,9 +1111,6 @@ http://flussonic.mkpnet.ru/tv-3848dd8604a262e0/video.m3u8
 
 
 
-#EXTINF:-1 tvg-name="Видеокассета" tvg-logo="https://avatars.mds.yandex.net/i?id=a80f84b3a9713ddafc984e09aaafea0b05bde063-4907652-images-thumbs&n=13" group-title="Кино", Видеокассета
-#EXTGRP:Кино
-https://lbgo.bozztv.com/ssh101/ssh101/livebest90e/chunks.m3u8?lb_backend_hint=7
 #EXTINF:-1 tvg-id="domkino" tvg-name="Дом кино" tvg-logo="http://epg.one/img/834.png" group-title="Кино", Дом Кино
 #EXTGRP:Кино
 http://185.121.1.163:8083/DomKino/index.m3u8
@@ -1512,6 +1509,9 @@ https://cityeden.catcast.tv/content/41333/index.m3u8?password=
 #EXTINF:-1 tvg-id="cityedem-telenov" tvg-name="Сити Эдем - ТелеНовелла" tvg-logo="https://www.cityeden.info/logotv/logotip_telenovella.png" group-title="Кинозал", Сити Эдем - ТелеНовелла
 #EXTGRP:Кинозал
 https://cityeden.catcast.tv/content/46209/index.m3u8?password=
+#EXTINF:-1 tvg-name="Стримканал. Видеокассета VHS" tvg-logo="https://avatars.mds.yandex.net/i?id=555d891d488c5365011716af505489b85bf0170c-9044089-images-thumbs&n=13" group-title="Кинозал", Стримканал. Видеокассета VHS
+#EXTGRP:Кинозал
+http://kinowalk.hopto.org/vhs90e_live
 #EXTINF:-1 tvg-name="Стримканал. 𝕂𝔸ℂℂ𝔼𝕋𝔸" tvg-logo="https://avatars.mds.yandex.net/i?id=555d891d488c5365011716af505489b85bf0170c-9044089-images-thumbs&n=13" group-title="Кинозал", Стримканал. 𝕂𝔸ℂℂ𝔼𝕋𝔸
 #EXTGRP:Кинозал
 http://kinowalk.hopto.org/kasseta_live
