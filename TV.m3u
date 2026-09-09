@@ -1830,6 +1830,9 @@ https://bl.rutube.ru/livestream/7a485ef5da9fe50ba939f36ca3e6ed96/index.m3u8?s=h-
 #EXTINF:-1 tvg-name="Pac 12 Insider USA" tvg-logo="https://i.imgur.com/736QREy.png" group-title="Спорт", Pac 12 Insider USA
 #EXTGRP:Спорт
 https://pac12-roku-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Poker Night in America" tvg-logo="https://avatars.mds.yandex.net/i?id=bb6f4a8b91be8ba701a2d420ae22fc18b394a1f2-8312047-images-thumbs&n=13" group-title="Спорт", Poker Night in America
+#EXTGRP:Спорт
+https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-60afc726623f2f002c5bb49f.m3u8
 #EXTINF:-1 tvg-name="Prosto Drive" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00349.png" group-title="Спорт", Prosto Drive
 #EXTGRP:Спорт
 http://iptv.prosto.tv:7000/ch326/video.m3u8
@@ -1902,6 +1905,9 @@ https://ucdn.beetv.kz/bpk-tv/000000135/tve/index.m3u8
 #EXTINF:-1 tvg-id="viasat-sport" tvg-name="Viju+ Sport" tvg-logo="http://epg.one/img/2055.png" group-title="Спорт", Viju+ Sport HD
 #EXTGRP:Спорт
 http://stream.mcquack.net/333/index.m3u8
+#EXTINF:-1 tvg-name="World Billiards TV" tvg-logo="https://avatars.mds.yandex.net/i?id=e13a38f5a2db8c962d2b9eda0f7d933b17baa11b-5299794-images-thumbs&n=13" group-title="Спорт", World Billiards TV
+#EXTGRP:Спорт
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-68b9f334fc12601028c5651e.m3u8
 #EXTINF:-1 tvg-name="World Poker Tour USA" tvg-logo="https://avatars.mds.yandex.net/i?id=bc2003e45785f22c83853338865075e9c9638944-9877580-images-thumbs&n=13" group-title="Спорт", World Poker Tour USA
 #EXTGRP:Спорт
 https://d2e00kr7m9coe4.cloudfront.net/scheduler/scheduleMaster/406.m3u8
