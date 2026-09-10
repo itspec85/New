@@ -1697,7 +1697,7 @@ https://flussonic.mkpnet.ru/tv-9dda1dd9d740a9a4/video.m3u8
 http://45.145.32.13:20440/match_arena_hd/index.m3u8?token=test
 #EXTINF:-1 tvg-id="match-boets" tvg-name="Матч! Боец" tvg-logo="http://epg.one/img/2054.png" group-title="Спорт", Матч! Боец
 #EXTGRP:Спорт
-http://195.64.140.147:10097/97
+http://46.32.176.50/boets/index.m3u8
 #EXTINF:-1 tvg-id="match-boets" tvg-name="Матч! Боец" tvg-logo="http://epg.one/img/2054.png" group-title="Спорт", Матч! Боец HD
 #EXTGRP:Спорт
 http://stream.mcquack.net/112/index.m3u8
@@ -1722,13 +1722,13 @@ http://ukr.ukrainske.tv/134/keytvainua/video.m3u8
 #EXTINF:-1 tvg-id="match-football1" tvg-name="Матч! Футбол 1" tvg-logo="http://epg.one/img/2044.png" group-title="Спорт", Матч! Футбол 1
 #EXTGRP:Спорт
 http://45.145.32.13:20440/match_football1/index.m3u8?token=test
-#EXTINF:-1 tvg-id="match-football1" tvg-name="Матч! Футбол 1" tvg-logo="http://epg.one/img/2044.png" group-title="Спорт", Матч! Футбол 1 HD
+#EXTINF:-1 tvg-id="match-football1" tvg-name="Матч! Футбол 1 HD" tvg-logo="http://epg.one/img/2044.png" group-title="Спорт", Матч! Футбол 1 HD
 #EXTGRP:Спорт
-http://195.64.140.147:10100/100
+http://tv.ttk.mx:9114
 #EXTINF:-1 tvg-id="match-football2" tvg-name="Матч! Футбол 2" tvg-logo="http://epg.one/img/1042.png" group-title="Спорт", Матч! Футбол 2
 #EXTGRP:Спорт
 http://45.145.32.13:20440/match_football2/index.m3u8?token=test
-#EXTINF:-1 tvg-id="match-football2" tvg-name="Матч! Футбол 2" tvg-logo="http://epg.one/img/1042.png" group-title="Спорт", Матч! Футбол 2 HD
+#EXTINF:-1 tvg-id="match-football2" tvg-name="Матч! Футбол 2 HD" tvg-logo="http://epg.one/img/1042.png" group-title="Спорт", Матч! Футбол 2 HD
 #EXTGRP:Спорт
 http://stream.mcquack.net/142/index.m3u8
 #EXTINF:-1 tvg-id="match-football3" tvg-name="Матч! Футбол 3" tvg-logo="http://epg.one/img/2005.png" group-title="Спорт", Матч! Футбол 3
@@ -1742,7 +1742,7 @@ http://176.100.46.245:90/matchfootball3/index.m3u8
 http://45.145.32.13:20440/mir_basketbola/index.m3u8?token=test
 #EXTINF:-1 tvg-id="okko-sport-2" tvg-name="Окко.Прайм Спорт" tvg-logo="http://epg.one/img/9324.png" group-title="Спорт", Окко Прайм Спорт
 #EXTGRP:Спорт
-http://185.221.213.254:8080/Okko/tracks-v1a1/index.m3u8
+http://stream.mcquack.net/493/index.m3u8
 #EXTINF:-1 tvg-id="okko-sport" tvg-name="Окко Спорт HD" tvg-logo="http://epg.one/img/7889.png" group-title="Спорт", Окко Спорт HD
 #EXTGRP:Спорт
 http://stream.mcquack.net/492/index.m3u8
@@ -1781,7 +1781,7 @@ http://91.201.172.14:35006
 http://cord-cutter.net:8080/LeeAv21/AvantL12/14197
 #EXTINF:-1 tvg-id="espn-u-us" tvg-name="ESPN U [US]" tvg-logo="http://epg.one/img/8396.png" group-title="Спорт", ESPNU HD US
 #EXTGRP:Спорт
-http://23.237.104.106:8080/USA_ESPNU/index.m3u8
+http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
 #EXTINF:-1 tvg-id="eurosport1" tvg-name="Eurosport 1" tvg-logo="http://epg.one/img/2052.png" group-title="Спорт", Eurosport 1
 #EXTGRP:Спорт
 http://stream.mcquack.net/176/index.m3u8
