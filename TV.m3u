@@ -943,6 +943,9 @@ https://ucdn.beetv.kz/bpk-tv/000001498/tve/index.m3u8
 #EXTINF:-1 tvg-id="tlc" tvg-name="TLC" tvg-logo="http://epg.one/img/2345.png" group-title="Познавательные", TLC HD
 #EXTGRP:Познавательные
 https://bl.rutube.ru/livestream/7c3d1a4cc0b4dff1176aa2dbb0b90000/index.m3u8?s=TxBVz6mbvHUETLQSTnOgpA&e=2087864590&scheme=https
+#EXTINF:-1 tvg-id="travel-channel" tvg-name="Travel Channel" tvg-logo="http://epg.one/img/3696.png" group-title="Познавательные", Travel Channel HD
+#EXTGRP:Познавательные
+https://bl.rutube.ru/livestream/4196566bc9c3b7b854074ad1a9a2db36/index.m3u8?s=oym8EGprMYZzIVSxcXzkkw&e=2088987798&scheme=https
 #EXTINF:-1 tvg-id="travel-adventure" tvg-name="travel+adventure" tvg-logo="http://epg.one/img/1035.png" group-title="Познавательные", travel+adventure
 #EXTGRP:Познавательные
 http://77.232.131.211/TravelAdventureHD/index.m3u8
@@ -1012,6 +1015,9 @@ http://194.152.35.17/Mult/index.m3u8
 #EXTINF:-1 tvg-id="multimania" tvg-name="Мультиландия" tvg-logo="http://epg.one/img/2757.png" group-title="Детские", Мультиландия
 #EXTGRP:Детские
 http://fs.uplink.kz/multilandia/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 tvg-name="Мультимейшн" tvg-logo="https://avatars.mds.yandex.net/i?id=eb23c6faa11d804cb953398b520831db3b26e90f-8497159-images-thumbs&n=13" group-title="Детские", Мультимейшн
+#EXTGRP:Детские
+https://bl.rutube.ru/livestream/bc2933d28daf33f5a68257ebc72787cd/index.m3u8?s=LtE57DY6RDS7I_8b8y37fg&e=2088987796&scheme=https
 #EXTINF:-1 tvg-id="multimuzyka" tvg-name="Мульт и Музыка" tvg-logo="http://epg.one/img/284.png" group-title="Детские", Мультимузыка
 #EXTGRP:Детские
 http://hls127.freeott.top:8080/Mult_Muzika/video.m3u8
@@ -1614,6 +1620,18 @@ http://kinowalk.hopto.org/video_prokat_live
 #EXTINF:-1 tvg-name="Стримканал. Wfliq" tvg-logo="https://avatars.mds.yandex.net/i?id=555d891d488c5365011716af505489b85bf0170c-9044089-images-thumbs&n=13" group-title="Кинозал", Стримканал. Wfliq
 #EXTGRP:Кинозал
 http://kinowalk.hopto.org/wfliq_live
+#EXTINF:-1 tvg-name="Amazon Prime Video Men's Club" tvg-logo="https://avatars.mds.yandex.net/i?id=e2cc1d6ee8e68530414381c6f6a8c36778cff274-9050054-images-thumbs&n=13" group-title="Кинозал", Amazon Prime Video Men's Club
+#EXTGRP:Кинозал
+https://bl.rutube.ru/livestream/99f8f1d827641b766de62fe9023642fa/index.m3u8?s=XXz2qu4lgOX2chNEdUyCqA&e=2088987800&scheme=https
+#EXTINF:-1 tvg-name="Amazon Prime Video Romance" tvg-logo="https://avatars.mds.yandex.net/i?id=3a3dbd0a8f053c7df0af610d1ad60e3844eb9a73-10247323-images-thumbs&n=13" group-title="Кинозал", Amazon Prime Video Romance
+#EXTGRP:Кинозал
+https://bl.rutube.ru/livestream/7758ac4d77fac95e187144ee2c8b368d/index.m3u8?s=0LMicqEb31lJUDzJFaNZAw&e=2088987810&scheme=https
+#EXTINF:-1 tvg-name="Apple Tv+ Action Time" tvg-logo="https://avatars.mds.yandex.net/i?id=9ab2c1202cf2b97a189e492333bad6e39a685243-4033630-images-thumbs&n=13" group-title="Кинозал", Apple Tv+ Action Time
+#EXTGRP:Кинозал
+https://bl.rutube.ru/livestream/74bb437ef478a52f42198c50d4241dc7/index.m3u8?s=pHyBCxUjCykgJxVh3fo52g&e=2088987797&scheme=https
+#EXTINF:-1 tvg-name="Apple Tv+ Woman's Stories" tvg-logo="https://avatars.mds.yandex.net/i?id=9ab2c1202cf2b97a189e492333bad6e39a685243-4033630-images-thumbs&n=13" group-title="Кинозал", Apple Tv+ Woman's Stories
+#EXTGRP:Кинозал
+https://bl.rutube.ru/livestream/680dfe110840cf882437082b948578d6/index.m3u8?s=NNQiXNJHRd_LRUXPyYwTlA&e=2088987798&scheme=https
 #EXTINF:-1 tvg-name="CPS Action" tvg-logo="https://avatars.mds.yandex.net/i?id=d0cd0536644c44380ed9a5f1fc4f51bd2169a5dd-5335451-images-thumbs&n=13" group-title="Кинозал", CPS Action
 #EXTGRP:Кинозал
 http://hls127.freeott.top:8080/CPS_Action/video.m3u8
@@ -2208,6 +2226,9 @@ http://iptv.prosto.tv:7000/ch310/video.m3u8
 #EXTINF:-1 tvg-name="AviaStream" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00549.jpg" group-title="Релакс", AviaStream
 #EXTGRP:Релакс
 http://iptv.prosto.tv:7000/ch306/video.m3u8
+#EXTINF:-1 tvg-id="home-4k" tvg-name="Home 4K" tvg-logo="http://epg.one/img/2745.png" group-title="Релакс", Home 4K
+#EXTGRP:Релакс
+https://bl.rutube.ru/livestream/b403a74c344e520d7313c4b73b1b0aff/index.m3u8?s=duiodbX__h8oNV8VRx8FSg&e=2088987800&scheme=https
 #EXTINF:-1 tvg-name="Prosto Night" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00555.jpg" group-title="Релакс", Prosto Night
 #EXTGRP:Релакс
 http://iptv.prosto.tv:7000/ch349/video.m3u8
