@@ -988,9 +988,6 @@ https://stream8.cinerama.uz/1270/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="detsky-mir" tvg-name="Детский мир" tvg-logo="http://epg.one/img/923.png" group-title="Детские", Детский мир
 #EXTGRP:Детские
 http://46.32.176.50/detskiymir/index.m3u8
-#EXTINF:-1 tvg-id="detkinoint-tviksel" tvg-name="Детское кино International" tvg-logo="http://epg.one/img/6261.png" group-title="Детские", Детское кино International
-#EXTGRP:Детские
-https://v2.catcast.tv/content/38720/index.m3u8
 #EXTINF:-1 tvg-id="ginger-hd" tvg-name="Капитан Фантастика" tvg-logo="http://epg.one/img/2438.png" group-title="Детские", Капитан Фантастика
 #EXTGRP:Детские
 https://stream1.cinerama.uz/1406/tracks-v1a1/mono.m3u8
@@ -1210,9 +1207,6 @@ http://hls127.freeott.top:8080/Nash_kinomir/video.m3u8
 #EXTINF:-1 tvg-id="nashe-novoe-kino" tvg-name="Наше новое кино" tvg-logo="http://epg.one/img/485.png" group-title="Кино", Наше новое кино
 #EXTGRP:Кино
 http://hls127.freeott.top:8080/Nashe_Novoe_Kino_HD/video.m3u8
-#EXTINF:-1 tvg-name="Новый Русский" tvg-logo="https://avatars.mds.yandex.net/i?id=1eedb8c625e7b85493a1d9da3720b0bc40a0db82-5858730-images-thumbs&n=13" group-title="Кино", Новый Русский
-#EXTGRP:Кино
-https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1_output_0.m3u8?session=U3YFrmmaaXDngd96fHTti7
 #EXTINF:-1 tvg-id="nst" tvg-name="НСТ" tvg-logo="http://epg.one/img/518.png" group-title="Кино", НСТ
 #EXTGRP:Кино
 http://hls127.freeott.top:8080/HCTV/mono.m3u8
@@ -1347,12 +1341,6 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/93
 #EXTINF:-1 tvg-id="insomnia-hd" tvg-name="Insomnia HD" tvg-logo="http://epg.one/img/6836.png" group-title="Кино", Insomnia HD
 #EXTGRP:Кино
 http://hls127.freeott.top:8080/PG_Insomnia_HD/mono.m3u8
-#EXTINF:-1 tvg-id="movify-kino" tvg-name="Movify Kino" tvg-logo="https://epg.iptvx.one/picons/movify-kino.png" group-title="Кино", Movify Kino
-#EXTGRP:Кино
-http://void.greenhosting.ru/MovifyKino_Mpeg4/index.m3u8
-#EXTINF:-1 tvg-name="nsc+" tvg-logo="https://avatars.mds.yandex.net/i?id=9e0e17abb257685d9b30fcdc31730c0ef3723ad5-4797777-images-thumbs&n=13" group-title="Кино", nsc+
-#EXTGRP:Кино
-http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
 #EXTINF:-1 tvg-id="paradise-hd" tvg-name="Paradise HD" tvg-logo="http://epg.one/img/4725.png" group-title="Кино", Paradise HD
 #EXTGRP:Кино
 http://hls127.freeott.top:8080/PG_Paradise_HD/mono.m3u8
@@ -1400,7 +1388,7 @@ http://flussonic.mkpnet.ru/tv-aab84159a39fbe84/video.m3u8
 https://ucdn.beetv.kz/bpk-tv/000003747/tve/index.m3u8
 #EXTINF:-1 tvg-id="viju-tv1000-novella" tvg-name="Viju TV1000 Новелла HD" tvg-logo="http://epg.one/img/9057.png" group-title="Кино", Viju TV1000 Новелла HD
 #EXTGRP:Кино
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Novella_HD.smil/playlist.m3u8?e=1788883087&md5=K8BFCTXsihNq6woWm7HetQ
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Novella_HD.smil/playlist.m3u8?e=1790065829&md5=qs5uQjKmbSJpg0zkZJBUlw
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino" tvg-name="Viju TV1000 Русское" tvg-logo="http://epg.one/img/267.png" group-title="Кино", Viju TV1000 Русское
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000003748/tve/index.m3u8
