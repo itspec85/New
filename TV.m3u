@@ -582,7 +582,7 @@ https://live-4.otcnet.ru/504/135/1080p/index.m3u8
 https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="kto-est-kto" tvg-name="Кто есть кто" tvg-logo="http://epg.one/img/2456.png" group-title="Познавательные", Кто есть кто
 #EXTGRP:Познавательные
-https://vpn.onair8k.xyz/play/live.php?mac=00:1A:79:00:13:94&stream=300815&extension=ts
+http://46.32.176.50/ktoestkto/index.m3u8
 #EXTINF:-1 tvg-id="mir-uvlecheniy" tvg-name="Кто куда" tvg-logo="http://epg.one/img/2467.png" group-title="Познавательные", Кто куда
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000001377/tve/index.m3u8
@@ -631,7 +631,7 @@ http://stitch.teletarget.ru/api/v1/hls/vintera/neplaneta/index.m3u8
 #EXTINF:-1 tvg-id="neizvestnaya-rosia" tvg-name="Неизвестная Россия HD" tvg-logo="http://epg.one/img/9015.png" group-title="Познавательные", Неизвестная Россия HD
 #EXTGRP:Познавательные
 #EXTVLCOPT:http-user-agent=ntv
-http://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
+http://185.23.80.23:8080/NeizvestnayaRossia/index.m3u8
 #EXTINF:-1 tvg-id="nowy-igrowoj" tvg-name="Новый игровой канал" tvg-logo="https://iptvx.one/picons/nowy-igrowoj.png" group-title="Познавательные", Новый игровой канал
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000008615/tve/index.m3u8
@@ -640,15 +640,13 @@ https://ucdn.beetv.kz/bpk-tv/000008615/tve/index.m3u8
 http://176.118.197.101/Nostalgiya/mono.m3u8
 #EXTINF:-1 tvg-id="ntv-pravo" tvg-name="НТВ Право" tvg-logo="http://epg.one/img/1753.png" group-title="Познавательные", НТВ Право
 #EXTGRP:Познавательные
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://cdn.ntv.ru/th_pravo/mono.m3u8
+http://hls127.freeott.top:8080/NTV_PRAVO_TV/video.m3u8
 #EXTINF:-1 tvg-name="НТВ Своя игра" tvg-logo="https://avatars.mds.yandex.net/i?id=ef621d1d2fdd97905e41f9ee0e62e296cfb23278-10702699-images-thumbs&n=13" group-title="Познавательные", НТВ Своя игра
 #EXTGRP:Познавательные
 https://cdn-dvr.ntv.ru/svoya_igra/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1 tvg-id="ntv-style" tvg-name="НТВ Стиль" tvg-logo="http://epg.one/img/1755.png" group-title="Познавательные", НТВ Стиль
 #EXTGRP:Познавательные
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-https://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
+http://hls127.freeott.top:8080/NTV_STIL_TV/video.m3u8
 #EXTINF:-1 tvg-name="НТВ Ты супер" tvg-logo="https://avatars.mds.yandex.net/i?id=8ab257cdd08cf18588e858ab2a9fb51e67fb18ed-9293428-images-thumbs&n=13" group-title="Познавательные", НТВ Ты супер
 #EXTGRP:Познавательные
 https://cdn-dvr.ntv.ru/Super/tracks-v1a1/rewind-240.ts.m3u8
@@ -768,7 +766,7 @@ https://v2.catcast.tv/content/34114/index.m3u8
 http://tvspas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="telekafe" tvg-name="Телекафе" tvg-logo="http://epg.one/img/2304.png" group-title="Познавательные", Телекафе
 #EXTGRP:Познавательные
-https://fs.uplink.kz/telecafe/mono.m3u8?token=onlinetv
+http://46.32.176.50/telekafe/index.m3u8
 #EXTINF:-1 tvg-id="terra-inkognita" tvg-name="Терра Инкогнита" tvg-logo="https://epg.iptvx.one/picons/terra-inkognita.png" group-title="Познавательные", Терра Инкогнита
 #EXTGRP:Познавательные
 http://stitch.teletarget.ru/vintera/terra/index.m3u8
@@ -823,9 +821,6 @@ http://english-livetx.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMH
 #EXTINF:-1 tvg-id="cnn" tvg-name="CNN USA" tvg-logo="http://epg.one/img/3641.png" group-title="Познавательные", CNN USA
 #EXTGRP:Познавательные
 https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE
-#EXTINF:-1 tvg-name="Cirque du Soleil" tvg-logo="https://provider-static.plex.tv/3/epg/channels/logos/gracenote/38945a2afcb8ce8ae6b5fe557e908b2f.png" group-title="Познавательные", Cirque du Soleil
-#EXTGRP:Познавательные
-https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-67642f277c5e3b38af72dcdb.m3u8
 #EXTINF:-1 tvg-id="deutsche-welle-ru" tvg-name="Deutsche Welle Russia" tvg-logo="https://avatars.mds.yandex.net/i?id=dda236ab5b048258b8c49f5ceb446c5fecbcd7d3a9ea305b-13290936-images-thumbs&n=13" group-title="Познавательные", Deutsche Welle Russia
 #EXTGRP:Познавательные
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
@@ -888,7 +883,7 @@ https://jmp2.uk/stvp-USBA3400003IP
 http://s1.tv-nano.com/Luxury_rec/video.m3u8
 #EXTINF:-1 tvg-id="nano-hd" tvg-name="NANO TV" tvg-logo="http://epg.one/img/2428.png" group-title="Познавательные", NANO TV HD
 #EXTGRP:Познавательные
-https://bl.rutube.ru/livestream/cf958b6c9ae4504be5fc2c1de358a017/index.m3u8?s=kKbhu1vYzqzcMtLBPGjOPQ&e=2074209218&scheme=https
+http://185.23.80.23:8080/NANO_HD/index.m3u8
 #EXTINF:-1 tvg-id="nat-geo-wild" tvg-name="Nat Geo Wild" tvg-logo="http://epg.one/img/223.png" group-title="Познавательные", Nat Geo Wild
 #EXTGRP:Познавательные
 http://hls127.freeott.top:8080/Nat_Geo_Wild_SD/video.m3u8
@@ -918,10 +913,10 @@ https://iptv.prosto.tv/id532/video.m3u8
 https://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
 #EXTINF:-1 tvg-id="rt-news" tve="RT News" tvg-logo="http://epg.one/img/2269.png" group-title="Познавательные", RT News
 #EXTGRP:Познавательные
-http://rt-glb.rttv.com/dvr/rtnews/playlist_2500Kb.m3u8
+http://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
 #EXTINF:-1 tvg-id="rtg-hd" tvg-name="RTG HD" tvg-logo="http://epg.one/img/648.png" group-title="Познавательные", RTG HD
 #EXTGRP:Познавательные
-http://pvr-spb-08.tlgx.ru:8987/CH_S08_RST_LEGTV_RTG/index.m3u8?clckid=55fcb46d
+http://195.64.140.147:10159/159
 #EXTINF:-1 tvg-id="rtg-tv" tvg-name="RTG TV" tvg-logo="http://epg.one/img/2280.png" group-title="Познавательные", RTG TV
 #EXTGRP:Познавательные
 http://hls127.freeott.top:8080/RTG_TV/mono.m3u8
