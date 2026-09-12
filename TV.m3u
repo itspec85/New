@@ -2785,7 +2785,7 @@ https://bl.rutube.ru/livestream/673b559e08f8b99d65a4e8fbbceb911b/index.m3u8?s=a0
 http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=380871&extension=ts
 #EXTINF:-1 tvg-name="ARB 24" tvg-logo="http://epg.one/img/2551.png" group-title="Азербайджан", ARB 24
 #EXTGRP:Азербайджан
-https://arb24.tvstream.az/hls/stream/stream.m3u8
+https://arb24.tvstream.az/hls/stream/index.m3u8
 #EXTINF:-1 tvg-name="ARB Canli Az" tvg-logo="http://epg.one/img/2635.png" group-title="Азербайджан", ARB Canli AZ
 #EXTGRP:Азербайджан
 http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=380870&extension=ts
@@ -2828,12 +2828,12 @@ https://cdn4.yayin.com.tr/bakixebertv/video.m3u8
 #EXTINF:-1 tvg-name="LiveTV" tvg-logo="https://i.postimg.cc/9Xnf67CM/livetv-az-turk-and-azerbaijan-logo.webp" group-title="Азербайджан", LiveTV
 #EXTGRP:Азербайджан
 http://tv.mobyservice.ru/livetv/index.m3u8
-#EXTINF:-1 tvg-name="Mədəniyyət TV" tvg-logo="http://epg.one/img/2557.png" group-title="Азербайджан", Mədəniyyət TV
-#EXTGRP:Азербайджан
-http://str.yodacdn.net/medeniyyettele/playlist.m3u8
 #EXTINF:-1 tvg-name="Mahni TV" tvg-logo="https://pokitv.com/wp-content/uploads/2026/05/mahni-tv.png" group-title="Азербайджан", Mahni TV
 #EXTGRP:Азербайджан
 https://mahnitvonline.xyz/mahnitv/index.m3u8
+#EXTINF:-1 tvg-name="Mədəniyyət TV" tvg-logo="http://epg.one/img/2557.png" group-title="Азербайджан", Mədəniyyət TV
+#EXTGRP:Азербайджан
+http://str.yodacdn.net/medeniyyettele/playlist.m3u8
 #EXTINF:-1 tvg-name="Musi̇c Azerbaycan" tvg-logo="https://avatars.mds.yandex.net/i?id=c800412a2dc527ac7e5333394e5c9190abed29a9-4055050-images-thumbs&n=13" group-title="Азербайджан", Musi̇c Azerbaycan
 #EXTGRP:Азербайджан
 http://cdn-sinematv.yayin.com.tr/sinematv/sinematv/playlist.m3u8
