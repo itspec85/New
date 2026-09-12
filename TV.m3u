@@ -2945,12 +2945,18 @@ http://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-name="8 канал KG" tvg-logo="https://res.cloudinary.com/drtfotkc8/image/upload/v1764115010/mwtcvccxcptemhopdzmu.jpg" group-title="Киргизия", 8 канал KG
+#EXTGRP:Киргизия
+https://kgtv.online/live/8_kanal/0.m3u8
 #EXTINF:-1 tvg-id="312-kino" tvg-name="312 Кино" tvg-logo="https://epg.iptvx.one/picons/312-kino.png" group-title="Киргизия", 312 Кино
 #EXTGRP:Киргизия
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
 #EXTINF:-1 tvg-id="312-serial" tvg-name="312 Сериал" tvg-logo="https://epg.iptvx.one/picons/312-serial.png" group-title="Киргизия", 312 Сериал
 #EXTGRP:Киргизия
 http://176.126.166.43:1935/live/312musik/chunklist_w1516016500.m3u8
+#EXTINF:-1 tvg-name="Nur TV KG" tvg-logo="https://avatars.mds.yandex.net/i?id=2f4c45c544bf038ffd6424ebf516d636467b94d2-12324541-images-thumbs&n=13" group-title="Киргизия", Nur TV KG
+#EXTGRP:Киргизия
+https://kgtv.online/live/nur_tv/index.m3u8
 #EXTINF:-1 tvg-id="osh-pirim-kg" tvg-name="Ош Пирим [KG]" tvg-logo="https://avatars.mds.yandex.net/i?id=a1923f0bff90c1211a4dc6fa37c169b3fc9ca4d5-6996969-images-thumbs&n=13" group-title="Киргизия", Ош Пирим KG
 #EXTGRP:Киргизия
 https://kgtv.online/live/oshpirim/index.m3u8
