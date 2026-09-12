@@ -2785,7 +2785,7 @@ https://bl.rutube.ru/livestream/673b559e08f8b99d65a4e8fbbceb911b/index.m3u8?s=a0
 http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=380871&extension=ts
 #EXTINF:-1 tvg-name="ARB 24" tvg-logo="http://epg.one/img/2551.png" group-title="Азербайджан", ARB 24
 #EXTGRP:Азербайджан
-https://arb24.tvstream.az/hls/stream/index.m3u8
+https://helga.iptv2022.com/arb24_az/index.m3u8
 #EXTINF:-1 tvg-name="ARB Canli Az" tvg-logo="http://epg.one/img/2635.png" group-title="Азербайджан", ARB Canli AZ
 #EXTGRP:Азербайджан
 http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=380870&extension=ts
