@@ -1070,6 +1070,9 @@ http://45.132.87.69:8080/cartoon_network/index.m3u8
 #EXTINF:-1 tvg-id="boomerang" tvg-name="Cartoonito" tvg-logo="http://epg.one/img/929.png" group-title="Детские", Cartoonito
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000000160/tve/index.m3u8
+#EXTINF:-1 tvg-name="Cartoons VHS-ка" tvg-logo="https://avatars.mds.yandex.net/i?id=479a391a47b0316ce26cc6a808cd2dd933a307d1-9147160-images-thumbs&n=13" group-title="Детские", Cartoons VHS-ка
+#EXTGRP:Детские
+http://kinowalk.hopto.org/myvhs_live
 #EXTINF:-1 tvg-name="CPS Anime" tvg-logo="https://avatars.mds.yandex.net/i?id=d0cd0536644c44380ed9a5f1fc4f51bd2169a5dd-5335451-images-thumbs&n=13" group-title="Детские", CPS Anime
 #EXTGRP:Детские
 http://hls127.freeott.top:8080/CPS_Anime/video.m3u8
@@ -1079,6 +1082,9 @@ http://hls127.freeott.top:8080/CPS_Cartoon/video.m3u8
 #EXTINF:-1 tvg-id="da-vinci" tvg-name="Da Vinci HD" tvg-logo="http://epg.one/img/8908.png" group-title="Детские", Da Vinci HD
 #EXTGRP:Детские
 http://hls127.freeott.top:8080/Da_Vinci_Learning/video.m3u8
+#EXTINF:-1 tvg-id="disney-xd" tvg-name="Disney XD [PL]" tvg-logo="http://epg.one/img/3645.png" group-title="Детские", Disney XD
+#EXTGRP:Детские
+http://kinowalk.hopto.org/disneyxd_live
 #EXTINF:-1 tvg-id="gulli-girl" tvg-name="Gulli" tvg-logo="http://epg.one/img/810.png" group-title="Детские", Gulli
 #EXTGRP:Детские
 https://flussonic.mkpnet.ru/tv-d66fcf59f2f4c966/video.m3u8
