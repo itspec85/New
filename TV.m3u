@@ -2057,9 +2057,6 @@ https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="now80s" tvg-name="Now 80's" tvg-logo="http://epg.one/img/6627.png" group-title="Музыка", Now 80s HD UK
 #EXTGRP:Музыка
 https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="NR1 HD TR" tvg-logo="http://epg.one/img/3929.png" group-title="Музыка", NR1 HD TR
-#EXTGRP:Музыка
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e17cd6360b_1/playlist.m3u8
 #EXTINF:-1 tvg-name="NR1 Damar" tvg-logo="https://avatars.mds.yandex.net/i?id=45f8f13fcd0fd87485b6f5371cc28bfb51cc0dea-9181120-images-thumbs&n=13" group-title="Музыка", NR1 Damar
 #EXTGRP:Музыка
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e19877b340.smil/chunks.m3u8
@@ -2840,9 +2837,6 @@ http://str.yodacdn.net/medeniyyettele/playlist.m3u8
 #EXTINF:-1 tvg-name="Musi̇c Azerbaycan" tvg-logo="https://avatars.mds.yandex.net/i?id=c800412a2dc527ac7e5333394e5c9190abed29a9-4055050-images-thumbs&n=13" group-title="Азербайджан", Musi̇c Azerbaycan
 #EXTGRP:Азербайджан
 http://cdn-sinematv.yayin.com.tr/sinematv/sinematv/playlist.m3u8
-#EXTINF:-1 tvg-name="Music Azerbaycan Hit" tvg-logo="https://avatars.mds.yandex.net/i?id=c800412a2dc527ac7e5333394e5c9190abed29a9-4055050-images-thumbs&n=13" group-title="Азербайджан", Music Azerbaycan Hit
-#EXTGRP:Азербайджан
-https://cdn4.yayin.com.tr/musicazhit/video.m3u8
 #EXTINF:-1 tvg-name="Real TV" tvg-logo="https://avatars.mds.yandex.net/i?id=ae8d81adcc8b8f1d646ed5f4d1952c2a26087897-12940477-images-thumbs&n=13" group-title="Азербайджан", Real TV
 #EXTGRP:Азербайджан
 http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=380854&extension=ts
