@@ -466,6 +466,9 @@ http://fs.uplink.kz/avto24/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="avto-plus" tvg-name="Авто Плюс" tvg-logo="http://epg.one/img/153.png" group-title="Познавательные", Авто Плюс
 #EXTGRP:Познавательные
 https://stream1.cinerama.uz/1036/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="akwatv" tvg-name="Аква ТВ" tvg-logo="https://epg.iptvx.one/picons/akwatv.png" group-title="Познавательные", Аква ТВ
+#EXTGRP:Познавательные
+http://stitch.teletarget.ru/vintera/aquatv/index.m3u8
 #EXTINF:-1 tvg-id="anekdottv" tvg-name="Анекдот тв" tvg-logo="http://epg.one/img/2760.png" group-title="Познавательные", Анекдот тв
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000001921/tve/index.m3u8
