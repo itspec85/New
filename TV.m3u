@@ -252,6 +252,9 @@ http://online.video.rbc.ru/online/rbctv_1080p/index.m3u8
 #EXTINF:-1 tvg-id="rentv" tvg-name="Рен ТВ" tvg-logo="http://epg.one/img/18.png" group-title="Россия", РЕН ТВ
 #EXTGRP:Россия
 http://flussonic.mkpnet.ru/tv-44dfec2799c5738e/video.m3u8
+#EXTINF:-1 tvg-id="rentv" tvg-name="Рен ТВ" tvg-logo="http://epg.one/img/2487.png" group-title="Россия", Рен ТВ HD
+#EXTGRP:Россия
+http://89.33.29.115:8080/REN_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Рен ТВ International" tvg-logo="https://i.postimg.cc/SsRGs7Y7/International.png" group-title="Россия", Рен ТВ International
 #EXTGRP:Россия
 http://178.134.1.158:8081/RENTV/index.m3u8
@@ -677,6 +680,9 @@ https://rq3qltxnbx1.a.trbcdn.net/livemaster/8hwxnq4s0v_efir0_tcode1080p/playlist
 #EXTINF:-1 tvg-id="prnk-tv" tvg-name="Первый российский национальный канал HD" tvg-logo="http://epg.one/img/6029.png" group-title="Познавательные", Первый российский национальный канал HD
 #EXTGRP:Познавательные
 https://serv25.vintera.tv/1pnk/prnk/chunks.m3u8
+#EXTINF:-1 tvg-name="Первый туристический" tvg-logo="https://avatars.mds.yandex.net/i?id=3485b2482d473e004bf55357fa4939fdab932af1-5313698-images-thumbs&n=13" group-title="Познавательные", Первый туристический
+#EXTGRP:Познавательные
+http://91.186.196.185/hls/hotels/stream.m3u8
 #EXTINF:-1 tvg-id="perec-int" tvg-name="Перец International" tvg-logo="http://epg.one/img/5651.png" group-title="Познавательные", Перец International
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000001248/tve/index.m3u8
