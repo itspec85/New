@@ -1718,7 +1718,7 @@ http://5.188.158.65:4040/IPTVPLAY10KOROLEVSTVO.tv/video.m3u8?token=lqRGka5-YwwqF
 #EXTINF:-1 tvg-id="liberty-netflix" tvg-name="Liberty Netflix" tvg-logo="http://epg.one/img/6855.png" group-title="Кинозал", Liberty Netflix
 #EXTGRP:Кинозал
 http://89.33.29.115:8080/Paramount_Comedy/tracks-v1a1/mono.m3u8
-EXTINF:-1 tvg-name="MYTV" tvg-logo="http://epg.one/img/104.png" group-title="Кинозал", MYTV
+#EXTINF:-1 tvg-name="MYTV" tvg-logo="http://epg.one/img/104.png" group-title="Кинозал", MYTV
 #EXTGRP:Кинозал
 http://hls127.freeott.top:8080/MyTV/mono.m3u8
 #EXTINF:-1 tvg-name="MYTV 2" tvg-logo="http://epg.one/img/105.png" group-title="Кинозал", MYTV 2
