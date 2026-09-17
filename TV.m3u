@@ -1130,6 +1130,9 @@ https://ucdn.beetv.kz/bpk-tv/000002943/tve/index.m3u8
 #EXTINF:-1 tvg-id="dorama" tvg-name="Дорама" tvg-logo="http://epg.one/img/2174.png" group-title="Кино", Дорама
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000003392/tve/index.m3u8
+#EXTINF:-1 tvg-id="dushevnoe-hd" tvg-name="Душевное HD" tvg-logo="http://epg.one/img/2019.png" group-title="Кино", Душевное HD
+#EXTGRP:Кино
+http://89.33.29.115:8080/Semeynoe_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="evrokino" tvg-name="Еврокино" tvg-logo="http://epg.one/img/352.png" group-title="Кино", Еврокино
 #EXTGRP:Кино
 http://89.33.29.115:8080/Evrokino/index.m3u8
@@ -1157,6 +1160,9 @@ https://ucdn.beetv.kz/bpk-tv/000008490/tve/index.m3u8
 #EXTINF:-1 tvg-id="q-kino-hit" tvg-name="Кинодрама KZ" tvg-logo="https://iptvx.one/picons/q-kino-hit.png" group-title="Кино", Кинодрама KZ
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000005449/tve/index.m3u8
+#EXTINF:-1 tvg-name="Кинозал! СССР" tvg-logo="http://epg.one/img/4695.png" group-title="Кино", Кинозал! СССР
+#EXTGRP:Кино
+http://89.33.29.115:8080/sssr_kino/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="kinokomedia" tvg-name="Кинокомедия" tvg-logo="http://epg.one/img/821.png" group-title="Кино", КИНОКОМЕДИЯ
 #EXTGRP:Кино
 http://5.9.11.197:57419/chu-119/mpegts
@@ -1196,6 +1202,9 @@ https://flussonic.mkpnet.ru/tv-513b9c22f4277475/video.m3u8
 #EXTINF:-1 tvg-id="klassika-kino" tvg-name="Классика Кино" tvg-logo="https://epg.iptvx.one/picons/klassika-kino.png" group-title="Кино", Классика Кино
 #EXTGRP:Кино
 http://stitch.teletarget.ru/vintera/movieclassic/index.m3u8
+#EXTINF:-1 tvg-id="komedijnoe-hd" tvg-name="Комедийное HD" tvg-logo="http://epg.one/img/138.png" group-title="Кино", Комедийное HD
+#EXTGRP:Кино
+http://89.33.29.115:8080/Kinopokaz_HD2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="lubimoe-kino" tvg-name="Любимое кино" tvg-logo="http://epg.one/img/477.png" group-title="Кино", Любимое Кино
 #EXTGRP:Кино
 http://hls127.freeott.top:8080/Lubimoe_Kino/video.m3u8
@@ -1214,6 +1223,9 @@ https://fs.uplink.kz/muzhskoe_kino/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 tvg-name="Наш киномир" tvg-logo="https://avatars.mds.yandex.net/i?id=b948c22c207c0e3a4e8301e7231b42b39a836461-5883734-images-thumbs&n=13" group-title="Кино", Наш киномир
 #EXTGRP:Кино
 http://hls127.freeott.top:8080/Nash_kinomir/video.m3u8
+#EXTINF:-1 tvg-id="nashehd" tvg-name="Наше крутое HD" tvg-logo="http://epg.one/img/2018.png" group-title="Кино", Наше крутое HD
+#EXTGRP:Кино
+http://89.33.29.115:8080/Nashe_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="nashe-novoe-kino" tvg-name="Наше новое кино" tvg-logo="http://epg.one/img/485.png" group-title="Кино", Наше новое кино
 #EXTGRP:Кино
 http://hls127.freeott.top:8080/Nashe_Novoe_Kino_HD/video.m3u8
@@ -1226,9 +1238,15 @@ http://5.9.11.197:57419/chu-129/mpegts
 #EXTINF:-1 tvg-id="ntv-xit" tvg-name="НТВ Хит" tvg-logo="http://epg.one/img/2041.png" group-title="Кино", НТВ Хит HD
 #EXTGRP:Кино
 http://195.64.140.147:10074/74
+#EXTINF:-1 tvg-id="ostrosiuzhetnoe-hd" tvg-name="Остросюжетное HD" tvg-logo="http://epg.one/img/1588.png" group-title="Кино", Остросюжетное HD
+#EXTGRP:Кино
+http://89.33.29.115:8080/Ostrosyuzhetnoe_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="pobeda" tvg-name="Победа" tvg-logo="http://epg.one/img/2447.png" group-title="Кино", Победа
 #EXTGRP:Кино
 http://fs.uplink.kz/pobeda/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="premialnoe-hd" tvg-name="Премиальное HD" tvg-logo="http://epg.one/img/2732.png" group-title="Кино", Премиальное HD
+#EXTGRP:Кино
+http://89.33.29.115:8080/Kino_premium_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="premium-kino-kz" tvg-name="Премиум кино KZ" tvg-logo="https://iptvx.one/picons/premium-kino-kz.png" group-title="Кино", Премиум кино KZ
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000008491/tve/index.m3u8
@@ -1280,6 +1298,12 @@ http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5
 #EXTINF:-1 tvg-id="sovkino" tvg-name="Советское кино" tvg-logo="http://epg.one/img/9399.png" group-title="Кино", Советское кино
 #EXTGRP:Кино
 http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8
+#EXTINF:-1 tvg-name="СТРАХ HD" tvg-logo="http://epg.one/img/4779.png" group-title="Кино", СТРАХ HD
+#EXTGRP:Кино
+http://89.33.29.115:8080/strah_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="strashnoe-hd" tvg-name="Страшное HD" tvg-logo="http://epg.one/img/2857.png" group-title="Кино", Страшное HD
+#EXTGRP:Кино
+http://89.33.29.115:8080/StrashnoeHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tv21m" tvg-name="ТВ-21M" tvg-logo="http://epg.one/img/309.png" group-title="Кино", ТВ-21M
 #EXTGRP:Кино
 https://fs.uplink.kz/tvxxi/mono.m3u8?token=onlinetv
@@ -1289,6 +1313,9 @@ https://ucdn.beetv.kz/bpk-tv/000000125/tve/index.m3u8
 #EXTINF:-1 tvg-id="khit-hd" tvg-name="Хит HD" tvg-logo="http://epg.one/img/2833.png" group-title="Кино", Хит HD
 #EXTGRP:Кино
 http://hls127.freeott.top:8080/XitHD/video.m3u8
+#EXTINF:-1 tvg-id="shokiruyushchee-hd" tvg-name="Шокирующее HD" tvg-logo="http://epg.one/img/2309.png" group-title="Кино", Шокирующее HD
+#EXTGRP:Кино
+http://89.33.29.115:8080/Kinopokaz_HD1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="sony-turbo" tvg-name=".black" tvg-logo="http://epg.one/img/935.png" group-title="Кино", .black
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000000520/tve/index.m3u8
