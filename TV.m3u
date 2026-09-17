@@ -1394,6 +1394,9 @@ http://hls127.freeott.top:8080/PG_Premium_HD/mono.m3u8
 #EXTINF:-1 tvg-id="romance" tvg-name="Romance HD" tvg-logo="http://epg.one/img/9179.png" group-title="Кино", Romance HD
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000008780/tve/index.m3u8
+#EXTINF:-1 tvg-id="star-family" tvg-name="Star Family HD" tvg-logo="http://epg.one/img/9162.png" group-title="Кино", Star Family Россия HD
+#EXTGRP:Кино
+http://89.33.29.115:8080/112Ukraina/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="start-air" tvg-name="START Air" tvg-logo="http://epg.one/img/6241.png" group-title="Кино", START Air HD
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000007815/tve/index.m3u8
