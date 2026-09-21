@@ -579,7 +579,7 @@ http://cdn-01.bonus-tv.ru/Kaleidoskop_edge/index.m3u8
 http://radio.tvs.by:8080/KVN-TV/index.m3u8
 #EXTINF:-1 tvg-id="kluch" tvg-name="Ключ HD" tvg-logo="http://epg.one/img/9156.png" group-title="Познавательные", Ключ HD
 #EXTGRP:Познавательные
-http://hls127.freeott.top:8080/Kluch/mono.m3u8
+http://178.65.81.67:81/play/a014
 #EXTINF:-1 tvg-id="kongresstv" tvg-name="Конгресс ТВ HD" tvg-logo="http://epg.one/img/9078.png" group-title="Познавательные", Конгресс ТВ HD
 #EXTGRP:Познавательные
 https://live-4.otcnet.ru/504/135/1080p/index.m3u8
@@ -867,7 +867,7 @@ http://tv14s.xyz:8080/4bYr9R/770632/135794
 http://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="gags-network" tvg-name="Gags Network" tvg-logo="http://epg.one/img/3551.png" group-title="Познавательные", Gags Network
 #EXTGRP:Познавательные
-http://hls127.freeott.top:8080/Gagsnetwork/mono.m3u8
+https://ucdn.beetv.kz/bpk-tv/000006639/tve/index.m3u8
 #EXTINF:-1 tvg-id="galaxy-tv" tvg-name="Galaxy TV" tvg-logo="http://epg.one/img/2418.png" group-title="Познавательные", Galaxy
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000000332/tve/index.m3u8
