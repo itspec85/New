@@ -1177,7 +1177,7 @@ https://ucdn.beetv.kz/bpk-tv/000008490/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000005449/tve/index.m3u8
 #EXTINF:-1 tvg-name="Кинозал! СССР" tvg-logo="http://epg.one/img/4695.png" group-title="Кино", Кинозал! СССР
 #EXTGRP:Кино
-http://89.33.29.115:8080/sssr_kino/tracks-v1a1/mono.m3u8
+http://str2.iptvhd.ru:8080/sssr_kino/index.m3u8
 #EXTINF:-1 tvg-id="kinokomedia" tvg-name="Кинокомедия" tvg-logo="http://epg.one/img/821.png" group-title="Кино", КИНОКОМЕДИЯ
 #EXTGRP:Кино
 http://5.9.11.197:57419/chu-119/mpegts
@@ -1415,9 +1415,12 @@ http://89.33.29.115:8080/Sky1000_India/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Sky2000 VHS HD" tvg-logo="https://avatars.mds.yandex.net/i?id=4a389c820d2fe657140c4511e4be33f5_sr-4303250-images-thumbs&n=13" group-title="Кино", Sky2000 VHS HD
 #EXTGRP:Кино
 http://89.33.29.115:8080/sky2000_VHS/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="star-cinema" tvg-name="Star Cinema Россия" tvg-logo="http://epg.one/img/9162.png" group-title="Кино", Star Cinema Россия HD
+#EXTGRP:Кино
+https://dash2.antik.sk/live/test_star_cinema_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="star-family" tvg-name="Star Family HD" tvg-logo="http://epg.one/img/9162.png" group-title="Кино", Star Family Россия HD
 #EXTGRP:Кино
-http://89.33.29.115:8080/112Ukraina/tracks-v1a1/mono.m3u8
+https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="start-air" tvg-name="START Air" tvg-logo="http://epg.one/img/6241.png" group-title="Кино", START Air HD
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000007815/tve/index.m3u8
