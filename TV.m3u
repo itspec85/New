@@ -245,7 +245,7 @@ http://94.250.255.172/ptv/vitrina/ch.php?id=aHR0cHM6Ly9tZWRpYS5tZWRpYXZpdHJpbmEu
 https://ucdn.beetv.kz/bpk-tv/000003718/tve/index.m3u8
 #EXTINF:-1 tvg-id="rbk" tvg-name="РБК" tvg-logo="http://epg.one/img/743.png" group-title="Россия", РБК
 #EXTGRP:Россия
-http://hls127.freeott.top:8080/RBK/mono.m3u8
+http://92.50.128.180/utv/1358/index.m3u8
 #EXTINF:-1 tvg-id="rbk" tvg-name="РБК HD" tvg-logo="http://epg.one/img/743.png" group-title="Россия", РБК HD
 #EXTGRP:Россия
 http://online.video.rbc.ru/online/rbctv_1080p/index.m3u8
@@ -519,7 +519,7 @@ http://stream.mcquack.net/274/index.m3u8
 http://stream.mcquack.net/275/index.m3u8
 #EXTINF:-1 tvg-id="dikiy" tvg-name="Дикий" tvg-logo="http://epg.one/img/2283.png" group-title="Познавательные", Дикий
 #EXTGRP:Познавательные
-http://hls127.freeott.top:8080/Dikiy/mono.m3u8
+http://46.32.176.50/dikiy/index.m3u8
 #EXTINF:-1 tvg-id="dozhd" tvg-name="Дождь" tvg-logo="http://epg.one/img/2399.png" group-title="Познавательные", Дождь
 #EXTGRP:Познавательные
 http://portal.ott.pink/C5UK_DozhdSD/mpegts?token=9ED1CC22511FE66191AD465072EEE8DF
@@ -567,7 +567,7 @@ https://ucdn.beetv.kz/bpk-tv/000006638/tve/index.m3u8
 http://stream1.cinerama.uz/1428/index.m3u8
 #EXTINF:-1 tvg-id="istoria" tvg-name="История" tvg-logo="http://epg.one/img/1036.png" group-title="Познавательные", История
 #EXTGRP:Познавательные
-http://hls127.freeott.top:8080/Istoriya/video.m3u8
+https://fs.uplink.kz/istoriya/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-name="Каббала ТВ" tvg-logo="https://avatars.mds.yandex.net/i?id=0212fb5c11225b6ff52b28a86438b19edf271916-5219731-images-thumbs&n=13" group-title="Познавательные", Каббала ТВ
 #EXTGRP:Познавательные
 http://edge2.uk.kab.tv/rtplive/kabtv-rus-medium.stream/playlist.m3u8
@@ -594,7 +594,7 @@ http://46.32.176.50/ktoestkto/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000001377/tve/index.m3u8
 #EXTINF:-1 tvg-id="kuxnia-tv" tvg-name="Кухня ТВ" tvg-logo="http://epg.one/img/614.png" group-title="Познавательные", Кухня ТВ
 #EXTGRP:Познавательные
-http://hls127.freeott.top:8080/Kuhnya_TV/mono.m3u8
+http://46.32.176.50/kuxnyatv/index.m3u8
 #EXTINF:-1 tvg-id="ldpr-tv" tvg-name="ЛДПР ТВ" tvg-logo="http://epg.one/img/2465.png" group-title="Познавательные", ЛДПР ТВ
 #EXTGRP:Познавательные
 http://46.46.143.222:1935/live/mp4:ldpr.stream_480p/playlist.m3u8
@@ -627,7 +627,7 @@ https://ucdn.beetv.kz/bpk-tv/000008614/tve/index.m3u8
 https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
 #EXTINF:-1 tvg-id="nauka-20" tvg-name="Наука 2.0" tvg-logo="http://epg.one/img/723.png" group-title="Познавательные", Наука 2.0
 #EXTGRP:Познавательные
-http://hls127.freeott.top:8080/NAUKA/mono.m3u8
+http://89.33.29.115:8080/Nauka_2.0/index.m3u8
 #EXTINF:-1 tvg-id="nasha-tema" tvg-name="Наша тема" tvg-logo="http://epg.one/img/2433.png" group-title="Познавательные", Наша тема
 #EXTGRP:Познавательные
 http://live-3.otcnet.ru/nashatema/index.m3u8
@@ -646,13 +646,15 @@ https://ucdn.beetv.kz/bpk-tv/000008615/tve/index.m3u8
 http://176.118.197.101/Nostalgiya/mono.m3u8
 #EXTINF:-1 tvg-id="ntv-pravo" tvg-name="НТВ Право" tvg-logo="http://epg.one/img/1753.png" group-title="Познавательные", НТВ Право
 #EXTGRP:Познавательные
-http://hls127.freeott.top:8080/NTV_PRAVO_TV/video.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://cdn.ntv.ru/th_pravo/mono.m3u8
 #EXTINF:-1 tvg-name="НТВ Своя игра" tvg-logo="https://avatars.mds.yandex.net/i?id=ef621d1d2fdd97905e41f9ee0e62e296cfb23278-10702699-images-thumbs&n=13" group-title="Познавательные", НТВ Своя игра
 #EXTGRP:Познавательные
 https://cdn-dvr.ntv.ru/svoya_igra/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1 tvg-id="ntv-style" tvg-name="НТВ Стиль" tvg-logo="http://epg.one/img/1755.png" group-title="Познавательные", НТВ Стиль
 #EXTGRP:Познавательные
-http://hls127.freeott.top:8080/NTV_STIL_TV/video.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://cdn.ntv.ru/th_style/mono.m3u8
 #EXTINF:-1 tvg-name="НТВ Ты супер" tvg-logo="https://avatars.mds.yandex.net/i?id=8ab257cdd08cf18588e858ab2a9fb51e67fb18ed-9293428-images-thumbs&n=13" group-title="Познавательные", НТВ Ты супер
 #EXTGRP:Познавательные
 https://cdn-dvr.ntv.ru/Super/tracks-v1a1/rewind-240.ts.m3u8
@@ -766,7 +768,7 @@ https://tvoetv.space/tvoetv/video.m3u8
 https://tvoetv.space/tvoetv_humor/video.m3u8
 #EXTINF:-1 tvg-id="teatr" tvg-name="Театр" tvg-logo="http://epg.one/img/2827.png" group-title="Познавательные", Театр
 #EXTGRP:Познавательные
-http://hls127.freeott.top:8080/Teatr/video.m3u8
+http://195.26.83.96:7005/play/16/index.m3u8
 #EXTINF:-1 tvg-name="Телеканал Андийцы" tvg-logo="https://avatars.mds.yandex.net/i?id=315311df530d8d11766b8df0094fccbcb49d92d3-11004153-images-thumbs&n=13" group-title="Познавательные", Телеканал Андийцы
 #EXTGRP:Познавательные
 https://v2.catcast.tv/content/34114/index.m3u8
@@ -937,7 +939,7 @@ http://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
 http://195.64.140.147:10159/159
 #EXTINF:-1 tvg-id="rtg-tv" tvg-name="RTG TV" tvg-logo="http://epg.one/img/2280.png" group-title="Познавательные", RTG TV
 #EXTGRP:Познавательные
-http://hls127.freeott.top:8080/RTG_TV/mono.m3u8
+http://195.26.83.96:7007/play/a00n/index.m3u8
 #EXTINF:-1 tvg-id="rtvi" tvg-name="RTVi" tvg-logo="http://epg.one/img/2401.png" group-title="Познавательные", RTVi
 #EXTGRP:Познавательные
 http://89.33.29.115:8080/RTVi/index.m3u8
@@ -1030,7 +1032,7 @@ http://flussonic.mkpnet.ru/tv-89530153f25733fe/video.m3u8
 https://bl.rutube.ru/livestream/bc2933d28daf33f5a68257ebc72787cd/index.m3u8?s=LtE57DY6RDS7I_8b8y37fg&e=2088987796&scheme=https
 #EXTINF:-1 tvg-id="multimuzyka" tvg-name="Мульт и Музыка" tvg-logo="http://epg.one/img/284.png" group-title="Детские", Мультимузыка
 #EXTGRP:Детские
-http://hls127.freeott.top:8080/Mult_Muzika/video.m3u8
+http://195.64.140.147:10134/134
 #EXTINF:-1 tvg-name="Мультфильмы СССР" tvg-logo="https://avatars.mds.yandex.net/i?id=e793f0057d98d2c9a8bd2536740412cb7c3a2982-4444989-images-thumbs&n=13" group-title="Детские", Мультфильмы СССР
 #EXTGRP:Детские
 https://live20.bozztv.com/giatvplayout7/ushba80/tracks-v1a1/mono.ts.m3u8
@@ -1054,7 +1056,7 @@ http://tv.mediacdn.ru/live/solntse/playlist_3000k.m3u8
 http://194.26.229.213/souzmultfilm/index.m3u8
 #EXTINF:-1 tvg-id="sts-kids-hd" tvg-name="СТС Kids HD" tvg-logo="http://epg.one/img/2481.png" group-title="Детские", СТС Kids
 #EXTGRP:Детские
-http://hls127.freeott.top:8080/STS_Kids/mono.m3u8
+http://flussonic.mkpnet.ru/tv-4af112c31b77e2a8/video.m3u8
 #EXTINF:-1 tvg-id="malysh" tvg-name="СуперГерои" tvg-logo="http://epg.one/img/2239.png" group-title="Детские", СуперГерои
 #EXTGRP:Детские
 http://109.94.1.3:8080/132/index.m3u8
@@ -1099,7 +1101,7 @@ http://hls127.freeott.top:8080/CPS_Anime/video.m3u8
 http://hls127.freeott.top:8080/CPS_Cartoon/video.m3u8
 #EXTINF:-1 tvg-id="da-vinci" tvg-name="Da Vinci HD" tvg-logo="http://epg.one/img/8908.png" group-title="Детские", Da Vinci HD
 #EXTGRP:Детские
-http://hls127.freeott.top:8080/Da_Vinci_Learning/video.m3u8
+https://fs.uplink.kz/da_vinci/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="disney-xd" tvg-name="Disney XD [PL]" tvg-logo="http://epg.one/img/3645.png" group-title="Детские", Disney XD
 #EXTGRP:Детские
 http://kinowalk.hopto.org/disneyxd_live
@@ -1831,7 +1833,7 @@ http://5.188.159.128:8070/udar/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000007802/tve/index.m3u8
 #EXTINF:-1 tvg-id="football-ru" tvg-name="Футбол" tvg-logo="http://epg.one/img/2782.png" group-title="Спорт", Футбол
 #EXTGRP:Спорт
-http://hls127.freeott.top:8080/Football/mono.m3u8
+http://195.64.140.147:10107/107
 #EXTINF:-1 tvg-name="1TV Sport GE" tvg-logo="https://avatars.mds.yandex.net/i?id=49ca460f5223191d3603351e5e7de169453b298c-12714922-images-thumbs&n=13" group-title="Спорт", 1TV Sport GE
 #EXTGRP:Спорт
 https://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.ts.m3u8
