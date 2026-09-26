@@ -1119,6 +1119,9 @@ http://flussonic.mkpnet.ru/tv-3848dd8604a262e0/video.m3u8
 
 #EXTINF:-1 tvg-id="domkino" tvg-name="Дом кино" tvg-logo="http://epg.one/img/834.png" group-title="Кино", Дом Кино
 #EXTGRP:Кино
+
+#EXTINF:-1 tvg-id="domkino" tvg-name="Дом кино" tvg-logo="http://epg.one/img/834.png" group-title="Кино", Дом Кино
+#EXTGRP:Кино
 http://185.121.1.163:8083/DomKino/index.m3u8
 #EXTINF:-1 tvg-id="domkino-premium" tvg-name="Дом Кино Премиум HD" tvg-logo="http://epg.one/img/2020.png" group-title="Кино", Дом Кино Премиум HD
 #EXTGRP:Кино
@@ -1200,7 +1203,7 @@ https://flussonic.mkpnet.ru/tv-513b9c22f4277475/video.m3u8
 http://stitch.teletarget.ru/vintera/movieclassic/index.m3u8
 #EXTINF:-1 tvg-id="komedijnoe-hd" tvg-name="Комедийное HD" tvg-logo="http://epg.one/img/138.png" group-title="Кино", Комедийное HD
 #EXTGRP:Кино
-http://vipl.one/hls/4rfv5je97z/906.m3u8
+http://stream.mcquack.net/74/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="lubimoe-kino" tvg-name="Любимое кино" tvg-logo="http://epg.one/img/477.png" group-title="Кино", Любимое Кино
 #EXTGRP:Кино
 http://46.32.176.50/lubimoekino/index.m3u8
@@ -1282,6 +1285,9 @@ https://fs.uplink.kz/tvxxi/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="feniks-plus-kino" tvg-name="Феникс плюс Кино" tvg-logo="http://epg.one/img/2404.png" group-title="Кино", Феникс плюс Кино
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000000125/tve/index.m3u8
+#EXTINF:-1 tvg-id="khit-hd" tvg-name="Хит HD" tvg-logo="http://epg.one/img/2833.png" group-title="Кино", Хит HD
+#EXTGRP:Кино
+http://stream.mcquack.net/363/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="shokiruyushchee-hd" tvg-name="Шокирующее HD" tvg-logo="http://epg.one/img/2309.png" group-title="Кино", Шокирующее HD
 #EXTGRP:Кино
 http://stream.mcquack.net/75/tracks-v1a1/mono.ts.m3u8
