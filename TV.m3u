@@ -952,6 +952,9 @@ https://bl.rutube.ru/livestream/7c3d1a4cc0b4dff1176aa2dbb0b90000/index.m3u8?s=Tx
 #EXTINF:-1 tvg-id="travel-channel" tvg-name="Travel Channel" tvg-logo="http://epg.one/img/3696.png" group-title="Познавательные", Travel Channel HD
 #EXTGRP:Познавательные
 https://bl.rutube.ru/livestream/4196566bc9c3b7b854074ad1a9a2db36/index.m3u8?s=oym8EGprMYZzIVSxcXzkkw&e=2088987798&scheme=https
+#EXTINF:-1 tvg-id="travel-xp-hd" tvg-name="Travel XP HD" tvg-logo="http://epg.one/img/9155.png" group-title="Познавательные", TravelXP HD
+#EXTGRP:Познавательные
+http://stream.mcquack.net/451/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="travel-adventure" tvg-name="travel+adventure" tvg-logo="http://epg.one/img/1035.png" group-title="Познавательные", travel+adventure
 #EXTGRP:Познавательные
 http://77.232.131.211/TravelAdventureHD/index.m3u8
@@ -1117,9 +1120,9 @@ http://flussonic.mkpnet.ru/tv-3848dd8604a262e0/video.m3u8
 
 
 
-#EXTINF:-1 tvg-id="domkino" tvg-name="Дом кино" tvg-logo="http://epg.one/img/834.png" group-title="Кино", Дом Кино
+#EXTINF:-1 tvg-id="blokbaster-hd" tvg-name="Блокбастер HD" tvg-logo="http://epg.one/img/2832.png" group-title="Кино", Блокбастер HD
 #EXTGRP:Кино
-
+http://stream.mcquack.net/364/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="domkino" tvg-name="Дом кино" tvg-logo="http://epg.one/img/834.png" group-title="Кино", Дом Кино
 #EXTGRP:Кино
 http://185.121.1.163:8083/DomKino/index.m3u8
