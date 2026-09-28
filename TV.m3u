@@ -1615,6 +1615,28 @@ https://bl.rutube.ru/livestream/74bb437ef478a52f42198c50d4241dc7/index.m3u8?s=pH
 #EXTINF:-1 tvg-name="Apple Tv+ Woman's Stories" tvg-logo="https://avatars.mds.yandex.net/i?id=9ab2c1202cf2b97a189e492333bad6e39a685243-4033630-images-thumbs&n=13" group-title="Кинозал", Apple Tv+ Woman's Stories
 #EXTGRP:Кинозал
 https://bl.rutube.ru/livestream/680dfe110840cf882437082b948578d6/index.m3u8?s=NNQiXNJHRd_LRUXPyYwTlA&e=2088987798&scheme=https
+
+#EXTINF:-1 tvg-id="fresh-adventure" tvg-name="Fresh Adventure" tvg-logo="http://epg.one/img/2541.png" group-title="Кинозал", Fresh Adventure
+#EXTGRP:Кинозал
+http://stream.mcquack.net/432/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="fresh-fantastic" tvg-name="Fresh Fantastic" tvg-logo="http://epg.one/img/2541.png" group-title="Кинозал", Fresh Fantastic
+#EXTGRP:Кинозал
+http://stream.mcquack.net/429/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="fresh-horror" tvg-name="Fresh Horror" tvg-logo="http://epg.one/img/2541.png" group-title="Кинозал", Fresh Horror
+#EXTGRP:Кинозал
+http://stream.mcquack.net/431/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="fresh-romatic" tvg-name="Fresh Romantic" tvg-logo="http://epg.one/img/2541.png" group-title="Кинозал", Fresh Romantic
+#EXTGRP:Кинозал
+http://stream.mcquack.net/433/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="fresh-series" tvg-name="Fresh Series" tvg-logo="http://epg.one/img/2541.png" group-title="Кинозал", Fresh Series
+#EXTGRP:Кинозал
+http://stream.mcquack.net/430/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="fresh-thriller" tvg-name="Fresh Thriller" tvg-logo="http://epg.one/img/2541.png" group-title="Кинозал", Fresh Thriller
+#EXTGRP:Кинозал
+http://stream.mcquack.net/434/tracks-v1a1/mono.ts.m3u8
+
+
+
 #EXTINF:-1 tvg-name="IPTVPLAY Ведьмак" tvg-logo="https://i123.fastpic.org/big/2024/0826/01/adbb4692281cf3cc6540f47f4460c701.png" group-title="Кинозал", IPTVPLAY Ведьмак
 #EXTGRP:Кинозал
 http://5.188.158.65:4040/IPTVPLAYVEDMAK.tv/video.m3u8?token=lqRGka5-YwwqF0
