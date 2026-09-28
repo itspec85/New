@@ -1618,6 +1618,39 @@ https://bl.rutube.ru/livestream/74bb437ef478a52f42198c50d4241dc7/index.m3u8?s=pH
 #EXTINF:-1 tvg-name="Apple Tv+ Woman's Stories" tvg-logo="https://avatars.mds.yandex.net/i?id=9ab2c1202cf2b97a189e492333bad6e39a685243-4033630-images-thumbs&n=13" group-title="Кинозал", Apple Tv+ Woman's Stories
 #EXTGRP:Кинозал
 https://bl.rutube.ru/livestream/680dfe110840cf882437082b948578d6/index.m3u8?s=NNQiXNJHRd_LRUXPyYwTlA&e=2088987798&scheme=https
+
+#EXTINF:-1 tvg-id="cineman" tvg-name="CineMan" tvg-logo="http://epg.one/img/6719.png" group-title="Кинозал", CineMan
+#EXTGRP:Кинозал
+http://stream.mcquack.net/349/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="cineman-katastrofy" tvg-name="Cineman Катастрофы" tvg-logo="http://epg.one/img/6719.png" group-title="Кинозал", Cineman Катастрофы
+#EXTGRP:Кинозал
+http://stream.mcquack.net/471/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="cineman-comedy" tvg-name="Cineman Комедия" tvg-logo="http://epg.one/img/6719.png" group-title="Кинозал", Cineman Комедия
+#EXTGRP:Кинозал
+http://stream.mcquack.net/356/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="cineman-svaty" tvg-name="Cineman Сваты" tvg-logo="http://epg.one/img/6719.png" group-title="Кинозал", Cineman Сваты
+#EXTGRP:Кинозал
+http://stream.mcquack.net/359/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="cineman-skorpom" tvg-name="Cineman Скорая помощь" tvg-logo="http://epg.one/img/6719.png" group-title="Кинозал", Cineman Скорая помощь
+#EXTGRP:Кинозал
+http://stream.mcquack.net/475/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="cineman-uzhasy" tvg-name="Cineman Ужасы" tvg-logo="http://epg.one/img/6719.png" group-title="Кинозал", Cineman Ужасы
+#EXTGRP:Кинозал
+http://stream.mcquack.net/355/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="cineman-action" tvg-name="Cineman Action" tvg-logo="http://epg.one/img/6719.png" group-title="Кинозал", Cineman Action
+#EXTGRP:Кинозал
+http://stream.mcquack.net/351/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="cineman-thriller" tvg-name="Cineman Thriller" tvg-logo="http://epg.one/img/6719.png" group-title="Кинозал", Cineman Thriller
+#EXTGRP:Кинозал
+http://stream.mcquack.net/352/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="cineman-melodrama" tvg-name="CineMan Melodrama" tvg-logo="http://epg.one/img/6719.png" group-title="Кинозал", CineMan Melodrama
+#EXTGRP:Кинозал
+http://stream.mcquack.net/472/tracks-v1a1/mono.ts.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-id="fresh-adventure" tvg-name="Fresh Adventure" tvg-logo="http://epg.one/img/6719.png" group-title="Кинозал", Fresh Adventure
 #EXTGRP:Кинозал
 http://stream.mcquack.net/432/tracks-v1a1/mono.ts.m3u8
