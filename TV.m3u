@@ -1640,14 +1640,21 @@ http://stream.mcquack.net/355/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="cineman-action" tvg-name="Cineman Action" tvg-logo="http://epg.one/img/6719.png" group-title="Кинозал", Cineman Action
 #EXTGRP:Кинозал
 http://stream.mcquack.net/351/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="cineman-thriller" tvg-name="Cineman Thriller" tvg-logo="http://epg.one/img/6719.png" group-title="Кинозал", Cineman Thriller
+#EXTINF:-1 tvg-id="cineman-marvel" tvg-name="CineMan Marvel" tvg-logo="http://epg.one/img/6719.png" group-title="Кинозал", CineMan Marvel
 #EXTGRP:Кинозал
-http://stream.mcquack.net/352/tracks-v1a1/mono.ts.m3u8
+http://stream.mcquack.net/354/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="cineman-melodrama" tvg-name="CineMan Melodrama" tvg-logo="http://epg.one/img/6719.png" group-title="Кинозал", CineMan Melodrama
 #EXTGRP:Кинозал
 http://stream.mcquack.net/472/tracks-v1a1/mono.ts.m3u8
-
-
+#EXTINF:-1 tvg-id="cineman-premium" tvg-name="Cineman Premium" tvg-logo="http://epg.one/img/6719.png" group-title="Кинозал", Cineman Premium
+#EXTGRP:Кинозал
+http://stream.mcquack.net/470/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="cineman-thriller" tvg-name="Cineman Thriller" tvg-logo="http://epg.one/img/6719.png" group-title="Кинозал", Cineman Thriller
+#EXTGRP:Кинозал
+http://stream.mcquack.net/352/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="cineman-top" tvg-name="Cineman Top" tvg-logo="http://epg.one/img/6719.png" group-title="Кинозал", Cineman Top
+#EXTGRP:Кинозал
+http://stream.mcquack.net/350/tracks-v1a1/mono.ts.m3u8
 
 
 
