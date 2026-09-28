@@ -1655,8 +1655,9 @@ http://stream.mcquack.net/352/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="cineman-top" tvg-name="Cineman Top" tvg-logo="http://epg.one/img/6719.png" group-title="Кинозал", Cineman Top
 #EXTGRP:Кинозал
 http://stream.mcquack.net/350/tracks-v1a1/mono.ts.m3u8
-
-
+#EXTINF:-1 tvg-id="cineman-vhs" tvg-name="Cineman VHS" tvg-logo="http://epg.one/img/6719.png" group-title="Кинозал", Cineman VHS
+#EXTGRP:Кинозал
+http://stream.mcquack.net/474/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="fresh-adventure" tvg-name="Fresh Adventure" tvg-logo="http://epg.one/img/6719.png" group-title="Кинозал", Fresh Adventure
 #EXTGRP:Кинозал
