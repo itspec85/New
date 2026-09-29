@@ -1069,9 +1069,6 @@ http://109.248.236.51/baby_time/video.m3u8
 #EXTINF:-1 tvg-id="balapan" tvg-name="Balapan" tvg-logo="https://epg.iptvx.one/picons/balapan.png" group-title="Детские", Balapan
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000005178/tve/index.m3u8
-#EXTINF:-1 tvg-name="Balapan International" tvg-logo="https://epg.iptvx.one/picons/balapan.png" group-title="Детские", Balapan International
-#EXTGRP:Детские
-http://194.190.78.80/Balapan/index.m3u8
 #EXTINF:-1 tvg-id="cartoon-classics" tvg-name="Cartoon Classics" tvg-logo="http://epg.one/img/9183.png" group-title="Детские", Cartoon Classics
 #EXTGRP:Детские
 http://5.188.159.128:8070/Cartoon_Network/index.m3u8
@@ -1099,6 +1096,9 @@ https://flussonic.mkpnet.ru/tv-d66fcf59f2f4c966/video.m3u8
 #EXTINF:-1 tvg-name="IPTVPLAY МультСказки" tvg-logo="https://i122.fastpic.org/big/2024/0112/65/b20ebb09af08ef55dbdffa919a047c65.png" group-title="Детские", IPTVPLAY МультСказки
 #EXTGRP:Детские
 http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 tvg-id="jimjam" tvg-name="JimJam" tvg-logo="http://epg.one/img/494.png" group-title="Детские", JimJam
+#EXTGRP:Детские
+http://stream.mcquack.net/150/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="JTX Online" tvg-logo="https://avatars.mds.yandex.net/i?id=990c233d43556f00f1c7f93bfffa9b0ba44ae70b-3693917-images-thumbs&n=13" group-title="Детские", JTX Online
 #EXTGRP:Детские
 http://kinowalk.hopto.org/jtxonline_live
