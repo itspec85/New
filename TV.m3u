@@ -165,12 +165,9 @@ https://ucdn.beetv.kz/bpk-tv/000001213/tve/index.m3u8
 #EXTINF:-1 tvg-id="domashny" tvg-name="Домашний" tvg-logo="http://epg.one/img/304.png" group-title="Россия", Домашний
 #EXTGRP:Россия
 http://185.46.16.239:8000/Domashniy
-#EXTINF:-1 tvg-id="domashny" tvg-name="Домашний" tvg-logo="http://epg.one/img/304.png" group-title="Россия", Домашний HD
-#EXTGRP:Россия
-https://stream1.cinerama.uz/1436/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="domashny-int" tvg-name="Домашний International" tvg-logo="https://iptvx.one/picons/domashny-int.png" group-title="Россия", Домашний International
 #EXTGRP:Россия
-https://ucdn.beetv.kz/bpk-tv/000002348/tve/index.m3u8
+https://stream1.cinerama.uz/1436/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="zvezda" tvg-name="Звезда" tvg-logo="http://epg.one/img/405.png" group-title="Россия", Звезда
 #EXTGRP:Россия
 http://185.46.16.239:8000/Zvezda
@@ -266,7 +263,7 @@ https://stream.smotrim.ru/hls2/russia_hd/playlist_6.m3u8
 https://stream.smotrim.ru/hls2/russia_24/playlist_3.m3u8
 #EXTINF:-1 tvg-id="rossia-24" tvg-name="Россия-24 HD" tvg-logo="http://epg.one/img/1683.png" group-title="Россия", Россия-24 HD
 #EXTGRP:Россия
-http://77.232.131.211/Rossiya24/index.m3u8
+https://live.smotrim.ru/vgtrk/0/russia24-hd/1080p.m3u8
 #EXTINF:-1 tvg-id="kultura" tvg-name="Россия К" tvg-logo="http://epg.one/img/187.png" group-title="Россия", Россия-Культура
 #EXTGRP:Россия
 http://185.46.16.239:8000/Rossiya_K
