@@ -272,7 +272,10 @@ http://185.46.16.239:8000/Rossiya_K
 https://bl.rutube.ru/livestream/d0c0d69362edfbe706cb82d973439bb5/index.m3u8?s=qgidODiouDK8hVnpFwEf-A&e=2087864592&scheme=https
 #EXTINF:-1 tvg-id="rtr-planeta-azia" tvg-name="РТР-Планета Азия" tvg-logo="http://epg.one/img/2547.png" group-title="Россия", РТР Планета Азия
 #EXTGRP:Россия
-https://streaming.thestream.cyou/live/211.m3u8
+https://fs.uplink.kz/rtr_planeta/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="rtr-planeta-eu" tvg-name="РТР-Планета Европа" tvg-logo="http://epg.one/img/2547.png" group-title="Россия", РТР Планета Европа
+#EXTGRP:Россия
+http://46.32.176.50/rtrplaneta/index.m3u8
 #EXTINF:-1 tvg-id="sts" tvg-name="СТС" tvg-logo="http://epg.one/img/79.png" group-title="Россия", СТС
 #EXTGRP:Россия
 http://194.152.35.17/sts/index.m3u8
@@ -1354,6 +1357,9 @@ https://ucdn.beetv.kz/bpk-tv/000007818/tve/index.m3u8
 #EXTINF:-1 tvg-id="suspense" tvg-name="Suspense HD" tvg-logo="http://epg.one/img/9180.png" group-title="Кино", Suspense HD
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000008739/tve/index.m3u8
+#EXTINF:-1 tvg-id="trashtv" tvg-name="Trash" tvg-logo="http://epg.one/img/3361.png" group-title="Кино", Trash HD
+#EXTGRP:Кино
+http://5.188.159.128:8070/Trash_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tvboomvip" tvg-name="TVBoom.VIP" tvg-logo="https://pro-tv.biz/upload/iblock/73f/ayutphynkxbrb9vuykb2a75scq66z9zx.jpg" group-title="Кино", TVBoom.VIP
 #EXTGRP:Кино
 https://kb.catcast.tv/content/49702/index.m3u8
@@ -1837,6 +1843,9 @@ https://fs.uplink.kz/telekanal_khl/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="kxl-hd" tvg-name="KHL Prime HD" tvg-logo="http://epg.one/img/1038.png" group-title="Спорт", KHL Prime HD
 #EXTGRP:Спорт
 http://stream.mcquack.net/178/index.m3u8
+#EXTINF:-1 tvg-id="megogo-sport" tvg-name="Megogo Спорт" tvg-logo="http://epg.one/img/3654.png" group-title="Спорт", Megogo Спорт
+#EXTGRP:Спорт
+http://5.188.159.128:8070/megogo_sport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="mlb-network-us" tvg-name="MLB Network HD CA" tvg-logo="http://epg.one/img/3654.png" group-title="Спорт", MLB Network HD CA
 #EXTGRP:Спорт
 https://aegis-cloudfront-1.tubi.video/36ef2f9d-7100-4c4d-b41a-dbf41ab7e461/playlist.m3u8
