@@ -1021,7 +1021,7 @@ https://bl.rutube.ru/livestream/bc2933d28daf33f5a68257ebc72787cd/index.m3u8?s=Lt
 #EXTINF:-1 tvg-id="multimuzyka" tvg-name="Мульт и Музыка" tvg-logo="http://epg.one/img/284.png" group-title="Детские", Мультимузыка
 #EXTGRP:Детские
 http://195.64.140.147:10134/134
-#EXTINF:-1 tvg-name="Мультфильмы без перерыва" tvg-logo="https://avatars.mds.yandex.net/i?id=c6393fc936d5ae863409664abf53340adc222a50-7736363-images-thumbs&n=13" group-title="Детские", Мультфильмы без перерыва
+#EXTINF:-1 tvg-name="Мультфильмы" tvg-logo="https://avatars.mds.yandex.net/i?id=c6393fc936d5ae863409664abf53340adc222a50-7736363-images-thumbs&n=13" group-title="Детские", Мультфильмы
 #EXTGRP:Детские
 https://bl.rutube.ru/livestream/76de13007ff82a001f786f148e9fd39a/index.m3u8?s=NBYBDC52DbN96xlOj4a7mw&e=2090758998&scheme=https
 #EXTINF:-1 tvg-name="Мультфильмы СССР" tvg-logo="https://avatars.mds.yandex.net/i?id=e793f0057d98d2c9a8bd2536740412cb7c3a2982-4444989-images-thumbs&n=13" group-title="Детские", Мультфильмы СССР
