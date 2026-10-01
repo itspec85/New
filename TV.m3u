@@ -1448,43 +1448,43 @@ https://cdn-dvr.ntv.ru/sledstvie/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="НТВ сериалы. Шеф" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/shef_vert_live_1.jpg" group-title="Кинозал", НТВ сериалы. Шеф
 #EXTGRP:Кинозал
 https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="Рутубе. Вселенная Властелина колец" tvg-logo="https://avatars.mds.yandex.net/i?id=edcd9ed7ce5ec9eb247da32dc917cbce6acd9e92-9720926-images-thumbs&n=13" group-title="Кинозал", Рутубе. Вселенная Властелина колец
+#EXTINF:-1 tvg-name="Рутюб. Вселенная Властелина колец" tvg-logo="https://avatars.mds.yandex.net/i?id=edcd9ed7ce5ec9eb247da32dc917cbce6acd9e92-9720926-images-thumbs&n=13" group-title="Кинозал", Рутюб. Вселенная Властелина колец
 #EXTGRP:Кинозал
 https://bl.rutube.ru/livestream/6f99d2a36810a41acc8f66af25441ae3/index.m3u8?s=5ofFLMYn_42d1O5ppp_-Ow&e=2090758988&scheme=https
-#EXTINF:-1 tvg-name="Рутубе. Вселенная Гарри Поттера" tvg-logo="https://avatars.mds.yandex.net/i?id=3bcfa37101d0bd2fe896b06ee89bcb8086f3404a-8341266-images-thumbs&n=13" group-title="Кинозал", Рутубе. Вселенная Гарри Поттера
+#EXTINF:-1 tvg-name="Рутюб. Вселенная Гарри Поттера" tvg-logo="https://avatars.mds.yandex.net/i?id=3bcfa37101d0bd2fe896b06ee89bcb8086f3404a-8341266-images-thumbs&n=13" group-title="Кинозал", Рутюб. Вселенная Гарри Поттера
 #EXTGRP:Кинозал
 https://bl.rutube.ru/livestream/f6a3656e5ef574982994ddf2e5003341/index.m3u8?s=TfA7XRFDikN0wvdPn2qRRQ&e=2087864591&scheme=https
-#EXTINF:-1 tvg-name="Рутубе. Вселенная Звёздных войн" tvg-logo="https://avatars.mds.yandex.net/i?id=3d9fa6ed5d06b7adf56b63adace6fd54f7f44606-5094289-images-thumbs&n=13" group-title="Кинозал", Рутубе. Вселенная Звёздных войн
+#EXTINF:-1 tvg-name="Рутюб. Вселенная Звёздных войн" tvg-logo="https://avatars.mds.yandex.net/i?id=3d9fa6ed5d06b7adf56b63adace6fd54f7f44606-5094289-images-thumbs&n=13" group-title="Кинозал", Рутюб. Вселенная Звёздных войн
 #EXTGRP:Кинозал
 https://bl.rutube.ru/livestream/dcd36c7833f9431e6e6c902515c6c3ac/index.m3u8?s=uw_RGXyG8jCm28fLjgGqfw&e=2088030691&scheme=https
-#EXTINF:-1 tvg-name="Рутубе. Вселенная Marvel" tvg-logo="https://avatars.mds.yandex.net/i?id=36d60cadb4dc305993522f68e9733e8467871990-12473946-images-thumbs&n=13" group-title="Кинозал", Рутубе. Вселенная Marvel
+#EXTINF:-1 tvg-name="Рутюб. Вселенная Marvel" tvg-logo="https://avatars.mds.yandex.net/i?id=36d60cadb4dc305993522f68e9733e8467871990-12473946-images-thumbs&n=13" group-title="Кинозал", Рутюб. Вселенная Marvel
 #EXTGRP:Кинозал
 https://bl.rutube.ru/livestream/3abeb7577fd38ac4b8130bb8e03418f2/index.m3u8?s=qOeLwJURbU7zgkTxwYIk9A&e=2087864591&scheme=https
-#EXTINF:-1 tvg-name="Рутубе. Детективы каждый день" tvg-logo="https://avatars.mds.yandex.net/i?id=b9eaeb4c8baa28d03cb5b931986fa06bd0d58abe-5031045-images-thumbs&n=13" group-title="Кинозал", Рутубе. Детективы каждый день
+#EXTINF:-1 tvg-name="Рутюб. Детективы каждый день" tvg-logo="https://avatars.mds.yandex.net/i?id=b9eaeb4c8baa28d03cb5b931986fa06bd0d58abe-5031045-images-thumbs&n=13" group-title="Кинозал", Рутюб. Детективы каждый день
 #EXTGRP:Кинозал
 https://bl.rutube.ru/livestream/e05401be60a9cc719fa7075b6e77b86d/index.m3u8?s=GafXsInh08C6Y29YFK5IdA&e=2088030690&scheme=https
-#EXTINF:-1 tvg-name="Рутубе. Дорамы" tvg-logo="https://avatars.mds.yandex.net/i?id=83126455c95d139f5f83cb2020c0976866341b69-5865917-images-thumbs&n=13" group-title="Кинозал", Рутубе. Дорамы
+#EXTINF:-1 tvg-name="Рутюб. Дорамы" tvg-logo="https://avatars.mds.yandex.net/i?id=83126455c95d139f5f83cb2020c0976866341b69-5865917-images-thumbs&n=13" group-title="Кинозал", Рутюб. Дорамы
 #EXTGRP:Кинозал
 https://bl.rutube.ru/livestream/5e3edd063411550ed6b67a8c0d7c96ea/index.m3u8?s=NBfAGF19b_3k9ZoIH0_hYQ&e=2090758999&scheme=https
-#EXTINF:-1 tvg-name="Рутубе. Индийские фильмы и сериалы" tvg-logo="https://avatars.mds.yandex.net/i?id=9d3244bae411a660eb202ffd2aa78b9a48fad1d0-5383195-images-thumbs&n=13" group-title="Кинозал", Рутубе. Индийские фильмы и сериалы
+#EXTINF:-1 tvg-name="Рутюб. Индийские фильмы и сериалы" tvg-logo="https://avatars.mds.yandex.net/i?id=9d3244bae411a660eb202ffd2aa78b9a48fad1d0-5383195-images-thumbs&n=13" group-title="Кинозал", Рутюб. Индийские фильмы и сериалы
 #EXTGRP:Кинозал
 https://bl.rutube.ru/livestream/8b077d20877c0cd70b5bc4a090b9f37e/index.m3u8?s=RI2wD5LgzalmaGOhziVUeA&e=2090759011&scheme=https
-#EXTINF:-1 tvg-name="Рутубе. Киножелезо" tvg-logo="https://avatars.mds.yandex.net/i?id=3e9d8f8283b516af5855cce121d43a4d1228fc9e-13490011-images-thumbs&n=13" group-title="Кинозал", Рутубе. Киножелезо
+#EXTINF:-1 tvg-name="Рутюб. Киножелезо" tvg-logo="https://avatars.mds.yandex.net/i?id=3e9d8f8283b516af5855cce121d43a4d1228fc9e-13490011-images-thumbs&n=13" group-title="Кинозал", Рутюб. Киножелезо
 #EXTGRP:Кинозал
 https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=0jJC8KRAJzL-k6C375NH3g&e=2074209219&scheme=https
-#EXTINF:-1 tvg-name="Рутубе. Кинолаффка" tvg-logo="https://avatars.mds.yandex.net/i?id=34fc9cd559ec9717fda811e4c567ca3c996a282c-5388624-images-thumbs&n=13" group-title="Кинозал", Рутубе. Кинолаффка
+#EXTINF:-1 tvg-name="Рутюб. Кинолаффка" tvg-logo="https://avatars.mds.yandex.net/i?id=34fc9cd559ec9717fda811e4c567ca3c996a282c-5388624-images-thumbs&n=13" group-title="Кинозал", Рутюб. Кинолаффка
 #EXTGRP:Кинозал
 https://bl.rutube.ru/livestream/3b7d1499da9396462bfd17282d758d30/index.m3u8?s=1LbhK_E1BiUoBBs7aq7PHQ&e=2074209219&scheme=https
-#EXTINF:-1 tvg-name="Рутубе. Кинотеатр" tvg-logo="https://avatars.mds.yandex.net/i?id=065ec8d385a26525ba452b13aaa5ab583d470388-5450106-images-thumbs&n=13" group-title="Кинозал", Рутубе. Кинотеатр
+#EXTINF:-1 tvg-name="Рутюб. Кинотеатр" tvg-logo="https://avatars.mds.yandex.net/i?id=065ec8d385a26525ba452b13aaa5ab583d470388-5450106-images-thumbs&n=13" group-title="Кинозал", Рутюб. Кинотеатр
 #EXTGRP:Кинозал
 https://bl.rutube.ru/livestream/e08e513c4e33f52fce3a975b5cb6932c/index.m3u8?s=fO01BXEDvq7Gxf_mU-Ko-A&e=2088030691&scheme=https
-#EXTINF:-1 tvg-name="Рутубе. Латиноамериканские фильмы и сериалы" tvg-logo="https://avatars.mds.yandex.net/i?id=a822d1094fba92d1a3819589c45741b1628a6ae0-10158687-images-thumbs&n=13" group-title="Кинозал", Рутубе. Латиноамериканские фильмы и сериалы
+#EXTINF:-1 tvg-name="Рутюб. Латиноамериканские фильмы и сериалы" tvg-logo="https://avatars.mds.yandex.net/i?id=a822d1094fba92d1a3819589c45741b1628a6ae0-10158687-images-thumbs&n=13" group-title="Кинозал", Рутюб. Латиноамериканские фильмы и сериалы
 #EXTGRP:Кинозал
 https://bl.rutube.ru/livestream/4d06d4d152d087f3792a5b15dc729562/index.m3u8?s=RCxONQOqlMWHt-1-q4Tudw&e=2090759011&scheme=https
-#EXTINF:-1 tvg-name="Рутубе. Турецкие фильмы и сериалы" tvg-logo="https://avatars.mds.yandex.net/i?id=560581684d5bbe03ec73e272b2696c9bb7a11310-5175041-images-thumbs&n=13" group-title="Кинозал", Рутубе. Турецкие фильмы и сериалы
+#EXTINF:-1 tvg-name="Рутюб. Турецкие фильмы и сериалы" tvg-logo="https://avatars.mds.yandex.net/i?id=560581684d5bbe03ec73e272b2696c9bb7a11310-5175041-images-thumbs&n=13" group-title="Кинозал", Рутюб. Турецкие фильмы и сериалы
 #EXTGRP:Кинозал
 https://bl.rutube.ru/livestream/2814e12b4ef6c528967736441c2e2803/index.m3u8?s=cdtvqpalJ8XdR6HDnZ5TyA&e=2090759002&scheme=https
-#EXTINF:-1 tvg-name="Рутубе. Фильмач" tvg-logo="https://avatars.mds.yandex.net/i?id=e4db9a91b756c8248d7e307915b509a61b0ad4dc-16401089-images-thumbs&n=13" group-title="Кинозал", Рутубе. Фильмач
+#EXTINF:-1 tvg-name="Рутюб. Фильмач" tvg-logo="https://avatars.mds.yandex.net/i?id=e4db9a91b756c8248d7e307915b509a61b0ad4dc-16401089-images-thumbs&n=13" group-title="Кинозал", Рутюб. Фильмач
 #EXTGRP:Кинозал
 https://bl.rutube.ru/livestream/300560a65014ec501a25b1f79df9ad90/index.m3u8?s=cz06a5kwn0GEiavS1q7rNQ&e=2089541535&scheme=https
 #EXTINF:-1 tvg-id="cityedem-kinoazia" tvg-name="Сити Эдем - КиноАзия" tvg-logo="https://www.cityeden.info/logotv/kinoazija_logotip.png" group-title="Кинозал", Сити Эдем - КиноАзия
