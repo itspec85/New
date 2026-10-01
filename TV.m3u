@@ -273,9 +273,15 @@ https://bl.rutube.ru/livestream/d0c0d69362edfbe706cb82d973439bb5/index.m3u8?s=qg
 #EXTINF:-1 tvg-id="rtr-planeta-azia" tvg-name="РТР-Планета Азия" tvg-logo="http://epg.one/img/2547.png" group-title="Россия", РТР Планета Азия
 #EXTGRP:Россия
 https://fs.uplink.kz/rtr_planeta/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="rtr-planeta-amerika" tvg-name="РТР-Планета Америка" tvg-logo="http://epg.one/img/2547.png" group-title="Россия", РТР Планета Америка
+#EXTGRP:Россия
+http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_PLANETARTRHD720_USA.m3u8
 #EXTINF:-1 tvg-id="rtr-planeta-eu" tvg-name="РТР-Планета Европа" tvg-logo="http://epg.one/img/2547.png" group-title="Россия", РТР Планета Европа
 #EXTGRP:Россия
-http://46.32.176.50/rtrplaneta/index.m3u8
+http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_PLANETARTRHD720_EURO.m3u8
+#EXTINF:-1 tvg-name="РТР-Планета СНГ" tvg-logo="http://epg.one/img/2547.png" group-title="Россия", РТР Планета СНГ
+#EXTGRP:Россия
+http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_PLANETARTRHD720_SNG.m3u8
 #EXTINF:-1 tvg-id="sts" tvg-name="СТС" tvg-logo="http://epg.one/img/79.png" group-title="Россия", СТС
 #EXTGRP:Россия
 http://194.152.35.17/sts/index.m3u8
@@ -810,7 +816,7 @@ https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?s=ZB
 https://ucdn.beetv.kz/bpk-tv/000000216/tve/index.m3u8
 #EXTINF:-1 tvg-id="animal-planet-eu" tvg-name="Animal Planet HD" tvg-logo="http://epg.one/img/365.png" group-title="Познавательные", Animal Planet HD
 #EXTGRP:Познавательные
-http://46.32.176.50/AnimalPlanetHD/index.m3u8
+http://stream.mcquack.net/114/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="bbc" tvg-name="BBC World News" tvg-logo="http://epg.one/img/828.png" group-title="Познавательные", BBC World News
 #EXTGRP:Познавательные
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
@@ -895,15 +901,15 @@ http://185.23.80.23:8080/NANO_HD/index.m3u8
 #EXTINF:-1 tvg-id="nat-geo-wild" tvg-name="Nat Geo Wild" tvg-logo="http://epg.one/img/223.png" group-title="Познавательные", Nat Geo Wild
 #EXTGRP:Познавательные
 https://fs.uplink.kz/nat_geo_wild/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="nat-geo-wild" tvg-name="Nat Geo Wild" tvg-logo="http://epg.one/img/223.png" group-title="Познавательные", Nat Geo Wild HD
+#EXTINF:-1 tvg-id="nat-geo-wild" tvg-name="Nat Geo Wild HD" tvg-logo="http://epg.one/img/223.png" group-title="Познавательные", Nat Geo Wild HD
 #EXTGRP:Познавательные
 http://stream1.cinerama.uz/1042/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="national-geographic" tvg-name="National Geographic" tvg-logo="http://epg.one/img/102.png" group-title="Познавательные", National Geographic
 #EXTGRP:Познавательные
 https://fs.uplink.kz/nat_geo/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="national-geographic" tvg-name="National Geographic" tvg-logo="http://epg.one/img/102.png" group-title="Познавательные", National Geographic HD
+#EXTINF:-1 tvg-id="national-geographic" tvg-name="National Geographic HD" tvg-logo="http://epg.one/img/102.png" group-title="Познавательные", National Geographic HD
 #EXTGRP:Познавательные
-http://46.32.176.50/NationalGeographicHD/index.m3u8
+http://stream.mcquack.net/116/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="NewsFront TV" tvg-logo="https://avatars.mds.yandex.net/i?id=438695821ac3854ef8c55ba4b6ff5cadf2dbde15-4473780-images-thumbs&n=13" group-title="Познавательные", NewsFront TV
 #EXTGRP:Познавательные
 https://tv.2kita.com/stream/index.m3u8
@@ -990,7 +996,7 @@ http://178.134.1.158:8081/zoopark/index.m3u8
 https://stream8.cinerama.uz/1270/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="detsky-mir" tvg-name="Детский мир" tvg-logo="http://epg.one/img/923.png" group-title="Детские", Детский мир
 #EXTGRP:Детские
-http://46.32.176.50/detskiymir/index.m3u8
+https://ucdn.beetv.kz/bpk-tv/000000049/tve/index.m3u8
 #EXTINF:-1 tvg-id="ginger-hd" tvg-name="Капитан Фантастика" tvg-logo="http://epg.one/img/2438.png" group-title="Детские", Капитан Фантастика
 #EXTGRP:Детские
 https://stream1.cinerama.uz/1406/tracks-v1a1/mono.m3u8
@@ -1212,7 +1218,7 @@ http://stitch.teletarget.ru/vintera/movieclassic/index.m3u8
 http://stream.mcquack.net/74/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="lubimoe-kino" tvg-name="Любимое кино" tvg-logo="http://epg.one/img/477.png" group-title="Кино", Любимое Кино
 #EXTGRP:Кино
-http://46.32.176.50/lubimoekino/index.m3u8
+http://176.118.197.101/LubimoeKino/index.m3u8
 #EXTINF:-1 tvg-id="mir-seriala" tvg-name="Мир сериала" tvg-logo="http://epg.one/img/2275.png" group-title="Кино", Мир Сериала
 #EXTGRP:Кино
 http://5.9.11.197:57419/chu-127/mpegts
@@ -1356,7 +1362,7 @@ https://bl.rutube.ru/livestream/f27b804a6f805cb66ff83d4930bd17ff/index.m3u8?s=tn
 http://stream1.cinerama.uz/1443/index.m3u8
 #EXTINF:-1 tvg-id="hollywood-hd" tvg-name="Hollywood HD" tvg-logo="http://epg.one/img/934.png" group-title="Кино", Hollywood HD
 #EXTGRP:Кино
-http://46.32.176.50/HollywoodHD/index.m3u8
+http://stream.mcquack.net/268/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Horror TV" tvg-logo="http://epg.one/img/8792.png" group-title="Кино", Horror TV
 #EXTGRP:Кино
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/93dc292b-cbcf-4988-ab97-94feced4c14b/manifest.m3u8
