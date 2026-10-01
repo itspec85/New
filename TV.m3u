@@ -977,6 +977,9 @@ http://178.134.1.158:8081/zoopark/index.m3u8
 
 
 
+#EXTINF:-1 tvg-name="Аниме без перерыва" tvg-logo="https://avatars.mds.yandex.net/i?id=5590b2da72f1b453c216b0fa08bda48e6e407993-5235076-images-thumbs&n=13" group-title="Детские", Аниме без перерыва
+#EXTGRP:Детские
+https://bl.rutube.ru/livestream/b3019a8983105f5e33f038246f860c32/index.m3u8?s=H9EGYRWJNprAB7Eu22lUaA&e=2090759003&scheme=https
 #EXTINF:-1 tvg-id="v-gostiax-u-skazki" tvg-name="В гостях у сказки" tvg-logo="http://epg.one/img/2027.png" group-title="Детские", В гостях у сказки
 #EXTGRP:Детские
 https://stream8.cinerama.uz/1270/tracks-v1a1/mono.m3u8
@@ -1013,6 +1016,9 @@ https://bl.rutube.ru/livestream/bc2933d28daf33f5a68257ebc72787cd/index.m3u8?s=Lt
 #EXTINF:-1 tvg-id="multimuzyka" tvg-name="Мульт и Музыка" tvg-logo="http://epg.one/img/284.png" group-title="Детские", Мультимузыка
 #EXTGRP:Детские
 http://195.64.140.147:10134/134
+#EXTINF:-1 tvg-name="Мультфильмы без перерыва" tvg-logo="https://avatars.mds.yandex.net/i?id=c6393fc936d5ae863409664abf53340adc222a50-7736363-images-thumbs&n=13" group-title="Детские", Мультфильмы без перерыва
+#EXTGRP:Детские
+https://bl.rutube.ru/livestream/76de13007ff82a001f786f148e9fd39a/index.m3u8?s=NBYBDC52DbN96xlOj4a7mw&e=2090758998&scheme=https
 #EXTINF:-1 tvg-name="Мультфильмы СССР" tvg-logo="https://avatars.mds.yandex.net/i?id=e793f0057d98d2c9a8bd2536740412cb7c3a2982-4444989-images-thumbs&n=13" group-title="Детские", Мультфильмы СССР
 #EXTGRP:Детские
 https://live20.bozztv.com/giatvplayout7/ushba80/tracks-v1a1/mono.ts.m3u8
@@ -1325,9 +1331,15 @@ https://ucdn.beetv.kz/bpk-tv/000004466/tve/index.m3u8
 #EXTINF:-1 tvg-id="fox" tvg-name="FX" tvg-logo="http://epg.one/img/1031.png" group-title="Кино", FX
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000004472/tve/index.m3u8
+#EXTINF:-1 tvg-id="fox" tvg-name="FX" tvg-logo="http://epg.one/img/1031.png" group-title="Кино", FX HD
+#EXTGRP:Кино
+https://bl.rutube.ru/livestream/bcf8e82a331067e567f765d65ed52b21/index.m3u8?s=7YAgGpaWYvlig4n0qY4n9g&e=2090759000&scheme=https
 #EXTINF:-1 tvg-id="foxlife" tvg-name="FX Life" tvg-logo="http://epg.one/img/615.png" group-title="Кино", FX Life
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000004471/tve/index.m3u8
+#EXTINF:-1 tvg-id="foxlife" tvg-name="FX Life" tvg-logo="http://epg.one/img/615.png" group-title="Кино", FX Life HD
+#EXTGRP:Кино
+https://bl.rutube.ru/livestream/f27b804a6f805cb66ff83d4930bd17ff/index.m3u8?s=tnOGHOH66U0n6jjxpY4Q7Q&e=2090759004&scheme=https
 #EXTINF:-1 tvg-id="hollywood" tvg-name="Hollywood" tvg-logo="http://epg.one/img/608.png" group-title="Кино", Hollywood
 #EXTGRP:Кино
 http://stream1.cinerama.uz/1443/index.m3u8
