@@ -1137,7 +1137,7 @@ https://ucdn.beetv.kz/bpk-tv/000002943/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000003392/tve/index.m3u8
 #EXTINF:-1 tvg-id="evrokino" tvg-name="Еврокино" tvg-logo="http://epg.one/img/352.png" group-title="Кино", Еврокино
 #EXTGRP:Кино
-http://46.32.176.50/eurokino/index.m3u8
+http://178.134.1.158:8081/eurokino/index.m3u8
 #EXTINF:-1 tvg-id="evrokino" tvg-name="Еврокино" tvg-logo="http://epg.one/img/352.png" group-title="Кино", Еврокино HD
 #EXTGRP:Кино
 http://5.9.11.197:57419/chu-113/mpegts
@@ -1233,7 +1233,7 @@ http://46.53.200.153:7777/play/SRT_Nash_kinopokaz/index.m3u8
 http://185.121.1.163:8083/NasheNovoeKino/index.m3u8
 #EXTINF:-1 tvg-id="nst" tvg-name="НСТ" tvg-logo="http://epg.one/img/518.png" group-title="Кино", НСТ
 #EXTGRP:Кино
-http://46.32.176.50/nst/index.m3u8
+http://176.118.197.101/HCT/mono.m3u8
 #EXTINF:-1 tvg-id="ntv-serial" tvg-name="НТВ Сериал" tvg-logo="http://epg.one/img/1754.png" group-title="Кино", НТВ Сериал
 #EXTGRP:Кино
 http://5.9.11.197:57419/chu-129/mpegts
@@ -1311,7 +1311,7 @@ https://ucdn.beetv.kz/bpk-tv/000000213/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000000134/tve/index.m3u8
 #EXTINF:-1 tvg-id="amedia1" tvg-name="Amedia 1" tvg-logo="http://epg.one/img/1371.png" group-title="Кино", Amedia 1
 #EXTGRP:Кино
-http://46.32.176.50/amedia1/index.m3u8
+http://5.9.11.197:57419/chu-401/mpegts
 #EXTINF:-1 tvg-id="amedia2" tvg-name="Amedia 2" tvg-logo="http://epg.one/img/2492.png" group-title="Кино", Amedia 2
 #EXTGRP:Кино
 http://flussonic.mkpnet.ru/tv-cad19a32f4a82824/video.m3u8
@@ -1413,7 +1413,7 @@ http://46.53.200.153:7777/play/Viju_Drama/index.m3u8
 http://flussonic.mkpnet.ru/tv-c385ec3bab3a3605/video.m3u8
 #EXTINF:-1 tvg-id="vip-megahit" tvg-name="viju+ Megahit HD" tvg-logo="http://epg.one/img/1012.png" group-title="Кино", Viju+ Megahit HD
 #EXTGRP:Кино
-http://46.32.176.50/VIPMegahitHD/index.m3u8
+http://46.53.200.153:7777/play/Viju_Megahit_HD/index.m3u8
 #EXTINF:-1 tvg-id="vip-premiere" tvg-name="viju+ Premiere HD" tvg-logo="http://epg.one/img/1013.png" group-title="Кино", Viju+ Premiere HD
 #EXTGRP:Кино
 http://flussonic.mkpnet.ru/tv-e107d21a90cb808f/video.m3u8
@@ -1734,7 +1734,7 @@ http://5.188.158.65:4040/IPTVPLAY10KOROLEVSTVO.tv/video.m3u8?token=lqRGka5-YwwqF
 https://edge55.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/chunklist_w654405596_b2660000_sleng.m3u8
 #EXTINF:-1 tvg-id="box-tv" tvg-name="Бокс ТВ" tvg-logo="http://epg.one/img/2285.png" group-title="Спорт", Бокс ТВ
 #EXTGRP:Спорт
-http://46.32.176.50/bokstv/index.m3u8
+http://185.46.16.239:8000/Eurosport_1
 #EXTINF:-1 tvg-id="voleybol" tvg-name="Волейбол" tvg-logo="https://epg.iptvx.one/picons/voleybol.png" group-title="Спорт", Волейбол HD
 #EXTGRP:Спорт
 https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=4rfg4hzvwhuOkxvKpOgKTA&e=2074209265&scheme=https
@@ -1752,7 +1752,7 @@ https://flussonic.mkpnet.ru/tv-9dda1dd9d740a9a4/video.m3u8
 http://46.32.176.50/MatchArenaHD/index.m3u8
 #EXTINF:-1 tvg-id="match-boets" tvg-name="Матч! Боец" tvg-logo="http://epg.one/img/2054.png" group-title="Спорт", Матч! Боец
 #EXTGRP:Спорт
-http://46.32.176.50/boets/index.m3u8
+http://195.64.140.147:10097/97
 #EXTINF:-1 tvg-id="match-boets" tvg-name="Матч! Боец" tvg-logo="http://epg.one/img/2054.png" group-title="Спорт", Матч! Боец HD
 #EXTGRP:Спорт
 http://stream.mcquack.net/112/index.m3u8
