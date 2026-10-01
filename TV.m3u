@@ -1424,6 +1424,30 @@ https://ucdn.beetv.kz/bpk-tv/000004375/tve/index.m3u8
 
 
 
+#EXTINF:-1 tvg-name="НТВ сериалы. Балабол" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20251021/balabol_vse_vert.jpg" group-title="Кинозал", НТВ сериалы. Балабол
+#EXTGRP:Кинозал
+https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 tvg-name="НТВ сериалы. Невский" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/nevs_black_live3.jpg" group-title="Кинозал", НТВ сериалы. Невский
+#EXTGRP:Кинозал
+https://cdn-dvr.ntv.ru/Nevskiy/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="НТВ сериалы. Первый отдел" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/1st_otdel_vert_live.jpg" group-title="Кинозал", НТВ сериалы. Первый отдел
+#EXTGRP:Кинозал
+https://cdn-dvr.ntv.ru/Perviy_otdel/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="НТВ сериалы. Пёс" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/pes_live_vert.jpg" group-title="Кинозал", НТВ сериалы. Пёс
+#EXTGRP:Кинозал
+https://cdn-dvr.ntv.ru/Pes/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="НТВ сериалы. Пять минут тишины" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20251021/5minut_vert.jpg" group-title="Кинозал", НТВ сериалы. Пять минут тишины
+#EXTGRP:Кинозал
+https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 tvg-name="НТВ сериалы. Скорая помощь" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/sp_vert_live8.jpg" group-title="Кинозал", НТВ сериалы. Скорая помощь
+#EXTGRP:Кинозал
+https://cdn-dvr.ntv.ru/Skoraja_pomosh/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="НТВ сериалы. Следствие вели..." tvg-logo="https://avatars.mds.yandex.net/i?id=b2c39da0b7ef15d5857a0f98904fd13b7b18f325-5876583-images-thumbs&n=13" group-title="Кинозал", НТВ сериалы. Следствие вели...
+#EXTGRP:Кинозал
+https://cdn-dvr.ntv.ru/sledstvie/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="НТВ сериалы. Шеф" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/shef_vert_live_1.jpg" group-title="Кинозал", НТВ сериалы. Шеф
+#EXTGRP:Кинозал
+https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Рутубе. Вселенная Властелина колец" tvg-logo="https://avatars.mds.yandex.net/i?id=edcd9ed7ce5ec9eb247da32dc917cbce6acd9e92-9720926-images-thumbs&n=13" group-title="Кинозал", Рутубе. Вселенная Властелина колец
 #EXTGRP:Кинозал
 https://bl.rutube.ru/livestream/6f99d2a36810a41acc8f66af25441ae3/index.m3u8?s=5ofFLMYn_42d1O5ppp_-Ow&e=2090758988&scheme=https
@@ -1463,30 +1487,6 @@ https://bl.rutube.ru/livestream/2814e12b4ef6c528967736441c2e2803/index.m3u8?s=cd
 #EXTINF:-1 tvg-name="Рутубе. Фильмач" tvg-logo="https://avatars.mds.yandex.net/i?id=e4db9a91b756c8248d7e307915b509a61b0ad4dc-16401089-images-thumbs&n=13" group-title="Кинозал", Рутубе. Фильмач
 #EXTGRP:Кинозал
 https://bl.rutube.ru/livestream/300560a65014ec501a25b1f79df9ad90/index.m3u8?s=cz06a5kwn0GEiavS1q7rNQ&e=2089541535&scheme=https
-#EXTINF:-1 tvg-name="НТВ сериалы. Балабол" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20251021/balabol_vse_vert.jpg" group-title="Кинозал", НТВ сериалы. Балабол
-#EXTGRP:Кинозал
-https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:-1 tvg-name="НТВ сериалы. Невский" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/nevs_black_live3.jpg" group-title="Кинозал", НТВ сериалы. Невский
-#EXTGRP:Кинозал
-https://cdn-dvr.ntv.ru/Nevskiy/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="НТВ сериалы. Первый отдел" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/1st_otdel_vert_live.jpg" group-title="Кинозал", НТВ сериалы. Первый отдел
-#EXTGRP:Кинозал
-https://cdn-dvr.ntv.ru/Perviy_otdel/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="НТВ сериалы. Пёс" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/pes_live_vert.jpg" group-title="Кинозал", НТВ сериалы. Пёс
-#EXTGRP:Кинозал
-https://cdn-dvr.ntv.ru/Pes/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="НТВ сериалы. Пять минут тишины" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20251021/5minut_vert.jpg" group-title="Кинозал", НТВ сериалы. Пять минут тишины
-#EXTGRP:Кинозал
-https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:-1 tvg-name="НТВ сериалы. Скорая помощь" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/sp_vert_live8.jpg" group-title="Кинозал", НТВ сериалы. Скорая помощь
-#EXTGRP:Кинозал
-https://cdn-dvr.ntv.ru/Skoraja_pomosh/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="НТВ сериалы. Следствие вели..." tvg-logo="https://avatars.mds.yandex.net/i?id=b2c39da0b7ef15d5857a0f98904fd13b7b18f325-5876583-images-thumbs&n=13" group-title="Кинозал", НТВ сериалы. Следствие вели...
-#EXTGRP:Кинозал
-https://cdn-dvr.ntv.ru/sledstvie/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="НТВ сериалы. Шеф" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/shef_vert_live_1.jpg" group-title="Кинозал", НТВ сериалы. Шеф
-#EXTGRP:Кинозал
-https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="cityedem-kinoazia" tvg-name="Сити Эдем - КиноАзия" tvg-logo="https://www.cityeden.info/logotv/kinoazija_logotip.png" group-title="Кинозал", Сити Эдем - КиноАзия
 #EXTGRP:Кинозал
 https://cityeden.catcast.tv/content/34393/index.m3u8?password=
