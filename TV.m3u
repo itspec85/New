@@ -518,6 +518,9 @@ http://portal.ott.pink/C5UK_DozhdSD/mpegts?token=9ED1CC22511FE66191AD465072EEE8D
 #EXTINF:-1 tvg-id="doktor" tvg-name="Доктор" tvg-logo="http://epg.one/img/16.png" group-title="Познавательные", Доктор
 #EXTGRP:Познавательные
 http://45.11.139.43:8555/doctor/index.m3u8
+#EXTINF:-1 tvg-name="Документалки и позновательное шоу" tvg-logo="https://avatars.mds.yandex.net/i?id=28177a8e022f24344e50d804d35a1f9b945cea15-5314793-images-thumbs&n=13" group-title="Познавательные", Документалки и позновательное шоу
+#EXTGRP:Познавательные
+https://bl.rutube.ru/livestream/eddcc86d1dee0b5def546ea388eb38ea/index.m3u8?s=K8oV0wBK3fSc0rHkVx_KLA&e=2090759000&scheme=https
 #EXTINF:-1 tvg-id="domashnie-zhivotnye" tvg-name="Домашние Животные" tvg-logo="http://epg.one/img/520.png" group-title="Познавательные", Домашние Животные
 #EXTGRP:Познавательные
 https://stream1.cinerama.uz/1426/tracks-v1a1/mono.m3u8
@@ -569,6 +572,9 @@ http://cdn-01.bonus-tv.ru/Kaleidoskop_edge/index.m3u8
 #EXTINF:-1 tvg-id="kvn-tv" tvg-name="КВН ТВ" tvg-logo="http://epg.one/img/1700.png" group-title="Познавательные", КВН ТВ
 #EXTGRP:Познавательные
 http://radio.tvs.by:8080/KVN-TV/index.m3u8
+#EXTINF:-1 tvg-id="kluch" tvg-name="Ключ" tvg-logo="http://epg.one/img/9156.png" group-title="Познавательные", Ключ HD
+#EXTGRP:Познавательные
+http://178.68.244.231:81/play/a014
 #EXTINF:-1 tvg-id="kongresstv" tvg-name="Конгресс ТВ HD" tvg-logo="http://epg.one/img/9078.png" group-title="Познавательные", Конгресс ТВ HD
 #EXTGRP:Познавательные
 https://live-4.otcnet.ru/504/135/1080p/index.m3u8
