@@ -589,9 +589,6 @@ https://live-4.otcnet.ru/504/135/1080p/index.m3u8
 #EXTINF:-1 tvg-id="krasnaya-linia" tvg-name="Красная линия" tvg-logo="http://epg.one/img/2476.png" group-title="Познавательные", Красная линия
 #EXTGRP:Познавательные
 https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="kto-est-kto" tvg-name="Кто есть кто" tvg-logo="http://epg.one/img/2456.png" group-title="Познавательные", Кто есть кто
-#EXTGRP:Познавательные
-http://46.32.176.50/ktoestkto/index.m3u8
 #EXTINF:-1 tvg-id="mir-uvlecheniy" tvg-name="Кто куда" tvg-logo="http://epg.one/img/2467.png" group-title="Познавательные", Кто куда
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000001377/tve/index.m3u8
@@ -871,9 +868,6 @@ https://ucdn.beetv.kz/bpk-tv/000000332/tve/index.m3u8
 #EXTINF:-1 tvg-name="HHQ" tvg-logo="https://avatars.mds.yandex.net/i?id=6cb84ede2c647c11d26a36c4aa2a3f880d6b9365-7679814-images-thumbs&n=13" group-title="Познавательные", HHQ
 #EXTGRP:Познавательные
 https://bl.rutube.ru/livestream/2d7fa51716500fba52586d594201777f/index.m3u8?s=5RC_YHZXg5CPq7KrrCIO3w&e=2074209227&scheme=https
-#EXTINF:-1 tvg-id="history" tvg-name="History" tvg-logo="http://epg.one/img/1394.png" group-title="Познавательные", History
-#EXTGRP:Познавательные
-http://46.32.176.50/HistoryHD/index.m3u8
 #EXTINF:-1 tvg-id="h2" tvg-name="History2" tvg-logo="http://epg.one/img/2356.png" group-title="Познавательные", History2
 #EXTGRP:Познавательные
 http://95.67.12.81:10620
@@ -1753,9 +1747,6 @@ https://bl.rutube.ru/livestream/11bbbec75a2ceb8cf446ad16813c6eec/index.m3u8?s=OP
 #EXTINF:-1 tvg-id="match-arena" tvg-name="Матч! Арена" tvg-logo="http://epg.one/img/2003.png" group-title="Спорт", Матч! Арена
 #EXTGRP:Спорт
 https://flussonic.mkpnet.ru/tv-9dda1dd9d740a9a4/video.m3u8
-#EXTINF:-1 tvg-id="match-arena" tvg-name="Матч! Арена" tvg-logo="http://epg.one/img/2003.png" group-title="Спорт", Матч! Арена HD
-#EXTGRP:Спорт
-http://46.32.176.50/MatchArenaHD/index.m3u8
 #EXTINF:-1 tvg-id="match-boets" tvg-name="Матч! Боец" tvg-logo="http://epg.one/img/2054.png" group-title="Спорт", Матч! Боец
 #EXTGRP:Спорт
 http://195.64.140.147:10097/97
@@ -2932,9 +2923,6 @@ http://timeshift.arpinet.am/236/index.m3u8
 #EXTINF:-1 tvg-name="Armenia Premium 6" tvg-logo="https://avatars.mds.yandex.net/i?id=b91704a77b2f46e29749ff37370d15bb5bb07e3a-10113106-images-thumbs&n=13" group-title="Армения", Armenia Premium 6
 #EXTGRP:Армения
 http://timeshift.arpinet.am/255/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="artn-am" tvg-name="ARTN" tvg-logo="https://epg.iptvx.one/picons/artn-am.png" group-title="Армения", ARTN TV
-#EXTGRP:Армения
-https://streamer1.connectto.com/ARTN_mobile/index.m3u8
 #EXTINF:-1 tvg-name="ATV Cineman" tvg-logo="https://avatars.mds.yandex.net/i?id=20556f25c9b1ceb58cfd3c7482aad9e99cb8f471-5248034-images-thumbs&n=13" group-title="Армения", ATV Cineman
 #EXTGRP:Армения
 http://185.57.68.33:80/255/index.m3u8
@@ -3091,9 +3079,6 @@ https://lbl.netmedya.net/hls/lalegultv.m3u8
 #EXTINF:-1 tvg-id="ntv-hd-tr" tvg-name="NTV FHD TR" tvg-logo="http://epg.one/img/3976.png" group-title="Турция", NTV FHD TR
 #EXTGRP:Турция
 http://dygvideo.dygdigital.com/live/hls/puhuntvdai?m3u8
-#EXTINF:-1 tvg-name="On4 TV" tvg-logo="https://www.on4.com.tr/imgs/180x80x2/logoon44.png" group-title="Турция", On4 TV
-#EXTGRP:Турция
-https://edge1.socialsmart.tv/on4/bant1/playlist.m3u8
 #EXTINF:-1 tvg-name="SAT 7 Türk" tvg-logo="https://i.ibb.co/Cm1kp8f/sat7turk.png" group-title="Турция", SAT 7 Türk
 #EXTGRP:Турция
 https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist.m3u8
