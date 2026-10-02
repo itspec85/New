@@ -880,6 +880,9 @@ https://stream8.cinerama.uz/1416/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="id-xtra-eu" tvg-name="ID Xtra Европа" tvg-logo="http://epg.one/img/2507.png" group-title="Познавательные", Investigation Discovery
 #EXTGRP:Познавательные
 http://195.64.140.147:10152/152
+#EXTINF:-1 tvg-id="foodman-club" tvg-name="Joy Cook" tvg-logo="https://avatars.mds.yandex.net/i?id=3be2313cf01994908be7c660e1cc280cd8a0d1ba-5334622-images-thumbs&n=13" group-title="Познавательные", Joy Cook
+#EXTGRP:Познавательные
+http://stitch.teletarget.ru/vintera/joycook/index.m3u8
 #EXTINF:-1 tvg-name="Kulinar TV" tvg-logo="https://bem-media.de/wp-content/uploads/Kulinar.png" group-title="Познавательные", Kulinar TV
 #EXTGRP:Познавательные
 http://api.alpaca.t62a.com/hls/9110/stream0.m3u8
