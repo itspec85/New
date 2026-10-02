@@ -299,7 +299,7 @@ https://flussonic.mkpnet.ru/tv-b9f0884f9a81b8c6/video.m3u8
 https://bl.rutube.ru/livestream/32dc45cf878497abe1c9695e228f039b/index.m3u8?s=raluVYOY1SoIpPrT1oVFtg&e=2087864588&scheme=https
 #EXTINF:-1 tvg-id="super" tvg-name="Суббота" tvg-logo="http://epg.one/img/2288.png" group-title="Россия", Суббота
 #EXTGRP:Россия
-http://217.114.191.150/Subbota/index.m3u8
+http://flussonic.mkpnet.ru/tv-2e0a7cc949958b60/video.m3u8
 #EXTINF:-1 tvg-id="super" tvg-name="Суббота HD" tvg-logo="http://epg.one/img/2288.png" group-title="Россия", Суббота HD
 #EXTGRP:Россия
 https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=XOeppIXq80B31LaV1xZkRA&e=2074209217&scheme=https
@@ -314,7 +314,7 @@ https://bl.rutube.ru/livestream/7bf12d9c050f9a7ef3728db5730432ae/index.m3u8?s=wN
 https://ucdn.beetv.kz/bpk-tv/000004712/tve/index.m3u8
 #EXTINF:-1 tvg-id="tvcentr" tvg-name="ТВЦ" tvg-logo="http://epg.one/img/649.png" group-title="Россия", ТВЦ
 #EXTGRP:Россия
-http://stitch.teletarget.ru/vintera/tvcsd/index.m3u8
+http://194.152.35.17/tvc/index.m3u8
 #EXTINF:-1 tvg-id="tvci" tvg-name="ТВЦ International" tvg-logo="http://epg.one/img/5691.png" group-title="Россия", ТВЦ International
 #EXTGRP:Россия
 https://fs.uplink.kz/tvc/mono.m3u8?token=onlinetv
