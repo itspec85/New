@@ -1384,6 +1384,9 @@ http://5.188.159.128:8070/Trash_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tvboomvip" tvg-name="TVBoom.VIP" tvg-logo="https://pro-tv.biz/upload/iblock/73f/ayutphynkxbrb9vuykb2a75scq66z9zx.jpg" group-title="Кино", TVBoom.VIP
 #EXTGRP:Кино
 https://kb.catcast.tv/content/49702/index.m3u8
+#EXTINF:-1 tvg-id="ultra-hd-cinema" tvg-name="Ultra HD Cinema" tvg-logo="http://epg.one/img/2743.png" group-title="Кино", Ultra HD Cinema 4K
+#EXTGRP:Кино
+http://5.9.11.197:57419/chu-387/mpegts
 #EXTINF:-1 tvg-id="tv1000" tvg-name="Viju TV1000" tvg-logo="http://epg.one/img/127.png" group-title="Кино", Viju TV1000
 #EXTGRP:Кино
 http://flussonic.mkpnet.ru/tv-aab84159a39fbe84/video.m3u8
