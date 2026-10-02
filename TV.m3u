@@ -1174,6 +1174,9 @@ https://ucdn.beetv.kz/bpk-tv/000005449/tve/index.m3u8
 #EXTINF:-1 tvg-id="kinokomedia" tvg-name="Кинокомедия" tvg-logo="http://epg.one/img/821.png" group-title="Кино", КИНОКОМЕДИЯ
 #EXTGRP:Кино
 http://176.118.197.101/Kinokomediya/mono.m3u8
+#EXTINF:-1 tvg-name="Киноменю" tvg-logo="https://avatars.mds.yandex.net/i?id=35f314f59887961a3f34aae4457b8f94_sr-9236689-images-thumbs&n=13" group-title="Кино", Киноменю HD
+#EXTGRP:Кино
+http://stitch.teletarget.ru/vintera/kinomenu/index.m3u8
 #EXTINF:-1 tvg-id="kinomiks" tvg-name="Киномикс" tvg-logo="http://epg.one/img/644.png" group-title="Кино", КИНОМИКС
 #EXTGRP:Кино
 https://fs.uplink.kz/kinomix/tracks-v1a1/mono.ts.m3u8?token=onlinetv
