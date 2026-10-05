@@ -1785,19 +1785,19 @@ http://stream.mcquack.net/193/index.m3u8
 https://flussonic.mkpnet.ru/tv-6db4f59c21aec361/video.m3u8
 #EXTINF:-1 tvg-id="match-football1" tvg-name="Матч! Футбол 1" tvg-logo="http://epg.one/img/2044.png" group-title="Спорт", Матч! Футбол 1
 #EXTGRP:Спорт
-http://185.195.184.30:8000/play/a00m/index.m3u8
+http://31.148.5.241/Match_Football_1_HD/index.m3u8
 #EXTINF:-1 tvg-id="match-football1" tvg-name="Матч! Футбол 1 HD" tvg-logo="http://epg.one/img/2044.png" group-title="Спорт", Матч! Футбол 1 HD
 #EXTGRP:Спорт
 http://tv.ttk.mx:9114
 #EXTINF:-1 tvg-id="match-football2" tvg-name="Матч! Футбол 2" tvg-logo="http://epg.one/img/1042.png" group-title="Спорт", Матч! Футбол 2
 #EXTGRP:Спорт
-http://185.195.184.30:8000/play/a00n/index.m3u8
+http://31.148.5.241/Match_Football_2_HD/index.m3u8
 #EXTINF:-1 tvg-id="match-football2" tvg-name="Матч! Футбол 2 HD" tvg-logo="http://epg.one/img/1042.png" group-title="Спорт", Матч! Футбол 2 HD
 #EXTGRP:Спорт
 http://stream.mcquack.net/142/index.m3u8
 #EXTINF:-1 tvg-id="match-football3" tvg-name="Матч! Футбол 3" tvg-logo="http://epg.one/img/2005.png" group-title="Спорт", Матч! Футбол 3
 #EXTGRP:Спорт
-http://185.195.184.30:8000/play/a00o/index.m3u8
+http://31.148.5.241/Match_Football_3_HD/index.m3u8
 #EXTINF:-1 tvg-id="match-football3" tvg-name="Матч! Футбол 3 HD" tvg-logo="http://epg.one/img/2005.png" group-title="Спорт", Матч! Футбол 3 HD
 #EXTGRP:Спорт
 http://176.100.46.245:90/matchfootball3/index.m3u8
