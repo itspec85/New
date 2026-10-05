@@ -1804,9 +1804,6 @@ http://176.100.46.245:90/matchfootball3/index.m3u8
 #EXTINF:-1 tvg-name="Медиа спорт" tvg-logo="https://avatars.mds.yandex.net/i?id=26dc1b054f57f5b6b17241e5f5e01a4d2a217923-13201131-images-thumbs&n=13" group-title="Спорт", Медиа спорт
 #EXTGRP:Спорт
 http://stitch.teletarget.ru/vintera/mediasport/index.m3u8
-#EXTINF:-1 tvg-id="mir-basketbola" tvg-name="Мир баскетбола" tvg-logo="http://epg.one/img/4629.png" group-title="Спорт", Мир Баскетбола
-#EXTGRP:Спорт
-http://185.195.184.30:8000/play/a014/index.m3u8
 #EXTINF:-1 tvg-id="okko-sport-2" tvg-name="Окко.Прайм Спорт" tvg-logo="http://epg.one/img/9324.png" group-title="Спорт", Окко Прайм Спорт
 #EXTGRP:Спорт
 http://stream.mcquack.net/493/index.m3u8
