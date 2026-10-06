@@ -474,7 +474,7 @@ http://185.46.16.239:8000/Paramount_Comedy
 http://fs.uplink.kz/avto24/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="avto-plus" tvg-name="Авто Плюс" tvg-logo="http://epg.one/img/153.png" group-title="Познавательные", Авто Плюс
 #EXTGRP:Познавательные
-https://stream1.cinerama.uz/1036/tracks-v1a1/mono.m3u8
+http://80.245.95.243:8888/play/a003/index.m3u8
 #EXTINF:-1 tvg-id="akwatv" tvg-name="Аква ТВ" tvg-logo="https://epg.iptvx.one/picons/akwatv.png" group-title="Познавательные", Аква ТВ
 #EXTGRP:Познавательные
 http://stitch.teletarget.ru/vintera/aquatv/index.m3u8
@@ -534,7 +534,7 @@ http://45.11.139.43:8555/doctor/index.m3u8
 https://bl.rutube.ru/livestream/eddcc86d1dee0b5def546ea388eb38ea/index.m3u8?s=K8oV0wBK3fSc0rHkVx_KLA&e=2090759000&scheme=https
 #EXTINF:-1 tvg-id="domashnie-zhivotnye" tvg-name="Домашние Животные" tvg-logo="http://epg.one/img/520.png" group-title="Познавательные", Домашние Животные
 #EXTGRP:Познавательные
-https://stream1.cinerama.uz/1426/tracks-v1a1/mono.m3u8
+https://fs.uplink.kz/domashnie_zhivotnie/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="drive" tvg-name="Драйв" tvg-logo="http://epg.one/img/2443.png" group-title="Познавательные", Драйв
 #EXTGRP:Познавательные
 http://185.46.16.239:8000/Drayv
@@ -570,7 +570,7 @@ https://bl.rutube.ru/livestream/406973c72e9d0449feef05ef7811ad01/index.m3u8?s=fG
 https://ucdn.beetv.kz/bpk-tv/000006638/tve/index.m3u8
 #EXTINF:-1 tvg-id="zdorovoe-tv" tvg-name="Здоровое ТВ" tvg-logo="http://epg.one/img/2449.png" group-title="Познавательные", Здоровое ТВ
 #EXTGRP:Познавательные
-http://stream1.cinerama.uz/1428/index.m3u8
+http://flussonic.mkpnet.ru/tv-92fa9d648cab0f3f/video.m3u8
 #EXTINF:-1 tvg-id="istoria" tvg-name="История" tvg-logo="http://epg.one/img/1036.png" group-title="Познавательные", История
 #EXTGRP:Познавательные
 https://fs.uplink.kz/istoriya/mono.m3u8?token=onlinetv
@@ -630,7 +630,7 @@ https://ucdn.beetv.kz/bpk-tv/000008614/tve/index.m3u8
 https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
 #EXTINF:-1 tvg-id="nauka-20" tvg-name="Наука 2.0" tvg-logo="http://epg.one/img/723.png" group-title="Познавательные", Наука 2.0
 #EXTGRP:Познавательные
-http://stream1.cinerama.uz/1248/tracks-v1a1/mono.m3u8
+http://80.245.95.243:8888/play/a00q/index.m3u8
 #EXTINF:-1 tvg-id="nasha-tema" tvg-name="Наша тема" tvg-logo="http://epg.one/img/2433.png" group-title="Познавательные", Наша тема
 #EXTGRP:Познавательные
 http://live-3.otcnet.ru/nashatema/index.m3u8
@@ -672,10 +672,10 @@ https://ucdn.beetv.kz/bpk-tv/000000308/tve/index.m3u8
 http://v4.proofix.ru/0mir/index.m3u8
 #EXTINF:-1 tvg-id="oxota-i-rybalka" tvg-name="Охота и Рыбалка" tvg-logo="http://epg.one/img/2419.png" group-title="Познавательные", Охота и Рыбалка
 #EXTGRP:Познавательные
-https://stream1.cinerama.uz/1038/tracks-v1a1/mono.m3u8
+http://185.121.1.163:8083/OhotaRybalka/index.m3u8
 #EXTINF:-1 tvg-id="oxotnik-i-rybolov-hd" tvg-name="Охотник и рыболов" tvg-logo="http://epg.one/img/1681.png" group-title="Познавательные", Охотник и рыболов
 #EXTGRP:Познавательные
-https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
+http://80.245.95.243:8888/play/a00y/index.m3u8
 #EXTINF:-1 tvg-id="oxotnik-i-rybolov-int" tvg-name="Охотник и Рыболов International" tvg-logo="https://epg.iptvx.one/picons/oxotnik-i-rybolov-int.png" group-title="Познавательные", Охотник и Рыболов International
 #EXTGRP:Познавательные
 https://bl.rutube.ru/livestream/1da5d92af8c55b16241f1eb12a27f00c/index.m3u8?s=k3XzMAcprnWLf7qzlawecA&e=2074209218&scheme=https
@@ -993,7 +993,7 @@ http://178.134.1.158:8081/zoopark/index.m3u8
 
 #EXTINF:-1 tvg-id="v-gostiax-u-skazki" tvg-name="В гостях у сказки" tvg-logo="http://epg.one/img/2027.png" group-title="Детские", В гостях у сказки
 #EXTGRP:Детские
-https://stream8.cinerama.uz/1270/tracks-v1a1/mono.m3u8
+http://80.245.95.243:8888/play/wert0987/index.m3u8
 #EXTINF:-1 tvg-id="detsky-mir" tvg-name="Детский мир" tvg-logo="http://epg.one/img/923.png" group-title="Детские", Детский мир
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000000049/tve/index.m3u8
@@ -1014,7 +1014,7 @@ https://bl.rutube.ru/livestream/ed497bdb28846536f3928849f8f7e469/index.m3u8?s=XM
 https://ucdn.beetv.kz/bpk-tv/000008003/tve/index.m3u8
 #EXTINF:-1 tvg-id="mama" tvg-name="Мама" tvg-logo="http://epg.one/img/618.png" group-title="Детские", Мама
 #EXTGRP:Детские
-https://stream1.cinerama.uz/1244/tracks-v1a1/mono.m3u8
+http://flussonic.linkintel.ru/mama/index.m3u8
 #EXTINF:-1 tvg-id="mult" tvg-name="Мульт" tvg-logo="http://epg.one/img/1332.png" group-title="Детские", Мульт
 #EXTGRP:Детские
 http://194.152.35.17/Mult/index.m3u8
