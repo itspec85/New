@@ -876,7 +876,7 @@ https://bl.rutube.ru/livestream/2d7fa51716500fba52586d594201777f/index.m3u8?s=5R
 http://95.67.12.81:10620
 #EXTINF:-1 tvg-id="insight-tv-hd" tvg-name="Insight TV HD" tvg-logo="https://epg.iptvx.one/picons/insight-tv-hd.png" group-title="Познавательные", Insight TV HD
 #EXTGRP:Познавательные
-https://stream8.cinerama.uz/1416/tracks-v1a1/mono.m3u8
+http://stream.mcquack.net/361/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="id-xtra-eu" tvg-name="ID Xtra Европа" tvg-logo="http://epg.one/img/2507.png" group-title="Познавательные", Investigation Discovery
 #EXTGRP:Познавательные
 http://195.64.140.147:10152/152
@@ -903,7 +903,7 @@ http://185.23.80.23:8080/NANO_HD/index.m3u8
 https://fs.uplink.kz/nat_geo_wild/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="nat-geo-wild" tvg-name="Nat Geo Wild HD" tvg-logo="http://epg.one/img/223.png" group-title="Познавательные", Nat Geo Wild HD
 #EXTGRP:Познавательные
-http://stream1.cinerama.uz/1042/tracks-v1a1/mono.m3u8
+http://stream.mcquack.net/149/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="national-geographic" tvg-name="National Geographic" tvg-logo="http://epg.one/img/102.png" group-title="Познавательные", National Geographic
 #EXTGRP:Познавательные
 https://fs.uplink.kz/nat_geo/mono.m3u8?token=onlinetv
