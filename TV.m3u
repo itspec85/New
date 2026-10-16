@@ -1768,7 +1768,7 @@ https://flussonic.mkpnet.ru/tv-1bfac9df3d938c1f/video.m3u8
 http://185.37.150.38/test/index.m3u8
 #EXTINF:-1 tvg-id="match-planeta" tvg-name="Матч! Планета" tvg-logo="http://epg.one/img/2043.png" group-title="Спорт", Матч! Планета
 #EXTGRP:Спорт
-https://fs.uplink.kz/match_planeta/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+http://80.245.95.243:8888/play/a01b/index.m3u8
 #EXTINF:-1 tvg-id="match-premier" tvg-name="Матч! Премьер" tvg-logo="http://epg.one/img/2250.png" group-title="Спорт", МАТЧ ПРЕМЬЕР
 #EXTGRP:Спорт
 https://flussonic.mkpnet.ru/tv-ee3651e1e7ce5cbf/video.m3u8
@@ -1879,7 +1879,7 @@ https://hncfree-samsungau.amagi.tv/playlist720-p.m3u8
 https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="kxl" tvg-name="KHL" tvg-logo="http://epg.one/img/2048.png" group-title="Спорт", KHL TV Channel
 #EXTGRP:Спорт
-https://fs.uplink.kz/telekanal_khl/mono.m3u8?token=onlinetv
+https://flussonic.mkpnet.ru/tv-e3d23fc7511b5fcd/video.m3u8
 #EXTINF:-1 tvg-id="kxl-hd" tvg-name="KHL Prime HD" tvg-logo="http://epg.one/img/1038.png" group-title="Спорт", KHL Prime HD
 #EXTGRP:Спорт
 https://fs.uplink.kz/khl_prime/mono.m3u8?token=onlinetv
@@ -1891,7 +1891,7 @@ http://5.188.159.128:8070/megogo_sport/tracks-v1a1/mono.m3u8
 https://aegis-cloudfront-1.tubi.video/36ef2f9d-7100-4c4d-b41a-dbf41ab7e461/playlist.m3u8
 #EXTINF:-1 tvg-id="m1global" tvg-name="MMA-TV.com" tvg-logo="http://epg.one/img/2326.png" group-title="Спорт", MMA-TV.com
 #EXTGRP:Спорт
-https://fs.uplink.kz/mma/mono.m3u8?token=onlinetv
+http://195.64.140.147:10110/110
 #EXTINF:-1 tvg-id="nba-tv" tvg-name="NBA TV HD US" tvg-logo="http://epg.one/img/4587.png" group-title="Спорт", NBA TV HD US
 #EXTGRP:Спорт
 https://bl.rutube.ru/livestream/d01241e9fd2bc2d65dbf6d74cca02f89/index.m3u8?s=tosWxEeYUB0mx8rAHJ_Pqg&e=2074209262&scheme=https
@@ -2092,7 +2092,7 @@ http://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
 #EXTINF:-1 tvg-id="europa-plus-tv" tvg-name="Europa Plus TV" tvg-logo="http://epg.one/img/681.png" group-title="Музыка", Europa Plus TV
 #EXTGRP:Музыка
-http://fs.uplink.kz/europa_plus/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+http://flussonic.mkpnet.ru/tv-0f5fe3eb19ad83d9/video.m3u8
 #EXTINF:-1 tvg-id="tnt-music" tvg-name="FON music" tvg-logo="http://epg.one/img/680.png" group-title="Музыка", FON music
 #EXTGRP:Музыка
 http://185.46.16.239:8000/Nashe_TV
