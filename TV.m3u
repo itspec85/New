@@ -1149,7 +1149,7 @@ http://185.46.16.239:8000/Illyuzion+
 http://188.113.190.12/329/index.m3u8
 #EXTINF:-1 tvg-id="zee-tv" tvg-name="Индия" tvg-logo="http://epg.one/img/2233.png" group-title="Кино", Индия
 #EXTGRP:Кино
-https://fs.uplink.kz/india/mono.m3u8?token=onlinetv
+http://80.245.95.243:8888/play/a00v/index.m3u8
 #EXTINF:-1 tvg-id="kineko" tvg-name="Кинеко" tvg-logo="http://epg.one/img/7314.png" group-title="Кино", Кинеко
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000008136/tve/index.m3u8
@@ -1176,7 +1176,7 @@ http://176.118.197.101/Kinokomediya/mono.m3u8
 http://stitch.teletarget.ru/vintera/kinomenu/index.m3u8
 #EXTINF:-1 tvg-id="kinomiks" tvg-name="Киномикс" tvg-logo="http://epg.one/img/644.png" group-title="Кино", КИНОМИКС
 #EXTGRP:Кино
-https://fs.uplink.kz/kinomix/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+http://185.121.1.163:8083/Kinomiks/index.m3u8
 #EXTINF:-1 tvg-id="kinopokaz" tvg-name="Кинопоказ" tvg-logo="http://epg.one/img/2834.png" group-title="Кино", Кинопоказ
 #EXTGRP:Кино
 http://176.118.197.101/Kinopokaz/mono.m3u8
@@ -1194,7 +1194,7 @@ http://80.245.95.243:8888/play/a02i/index.m3u8
 http://stitch.teletarget.ru/vintera/movieseason/index.m3u8
 #EXTINF:-1 tvg-id="kinosemiya" tvg-name="Киносемья" tvg-logo="http://epg.one/img/987.png" group-title="Кино", КИНОСЕМЬЯ
 #EXTGRP:Кино
-https://fs.uplink.kz/kinosemya/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+http://185.121.1.163:8083/Kinosemya/index.m3u8
 #EXTINF:-1 tvg-id="q-kino-alem" tvg-name="Киносериал KZ" tvg-logo="https://iptvx.one/picons/q-kino-alem.png" group-title="Кино", Киносериал KZ
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000005450/tve/index.m3u8
@@ -1203,7 +1203,7 @@ https://ucdn.beetv.kz/bpk-tv/000005450/tve/index.m3u8
 http://176.118.197.101/Kinoseria/mono.m3u8
 #EXTINF:-1 tvg-id="kinouzhas" tvg-name="Киноужас" tvg-logo="http://epg.one/img/2493.png" group-title="Кино", Киноужас
 #EXTGRP:Кино
-https://fs.uplink.kz/kinouzhas/mono.m3u8?token=onlinetv
+http://195.64.140.147:10043/43
 #EXTINF:-1 tvg-id="kinoxit" tvg-name="Кинохит" tvg-logo="http://epg.one/img/542.png" group-title="Кино", КИНОХИТ
 #EXTGRP:Кино
 https://flussonic.mkpnet.ru/tv-513b9c22f4277475/video.m3u8
@@ -1227,7 +1227,7 @@ https://ucdn.beetv.kz/bpk-tv/000008488/tve/index.m3u8
 http://185.121.1.163:8083/Mosfilm/index.m3u8
 #EXTINF:-1 tvg-id="muzhskoe-kino" tvg-name="Мужское кино" tvg-logo="http://epg.one/img/1584.png" group-title="Кино", МУЖСКОЕ КИНО
 #EXTGRP:Кино
-https://fs.uplink.kz/muzhskoe_kino/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+http://185.121.1.163:8083/MuzhskoeKino/index.m3u8
 #EXTINF:-1 tvg-id="nash-kinopokaz-hd" tvg-name="Наш Кинопоказ HD" tvg-logo="http://epg.one/img/2831.png" group-title="Кино", Наш Кинопоказ HD
 #EXTGRP:Кино
 http://46.53.200.153:7777/play/SRT_Nash_kinopokaz/index.m3u8
@@ -1246,7 +1246,10 @@ http://195.64.140.147:10073/73
 http://cdn.ntv.ru/th_hit/mono.m3u8
 #EXTINF:-1 tvg-id="pobeda" tvg-name="Победа" tvg-logo="http://epg.one/img/2447.png" group-title="Кино", Победа
 #EXTGRP:Кино
-http://fs.uplink.kz/pobeda/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+https://ucdn.beetv.kz/bpk-tv/000004534/tve/index.m3u8
+#EXTINF:-1 tvg-id="pobeda" tvg-name="Победа" tvg-logo="http://epg.one/img/2447.png" group-title="Кино", Победа HD
+#EXTGRP:Кино
+http://195.64.140.147:10141/141
 #EXTINF:-1 tvg-id="premium-kino-kz" tvg-name="Премиум кино KZ" tvg-logo="https://iptvx.one/picons/premium-kino-kz.png" group-title="Кино", Премиум кино KZ
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000008491/tve/index.m3u8
@@ -1324,7 +1327,7 @@ http://flussonic.mkpnet.ru/tv-cad19a32f4a82824/video.m3u8
 https://flussonic.mkpnet.ru/tv-8f04998179283ee5/video.m3u8
 #EXTINF:-1 tvg-id="amedia-premium" tvg-name="Amedia Premium" tvg-logo="http://epg.one/img/1372.png" group-title="Кино", Amedia Premium
 #EXTGRP:Кино
-https://fs.uplink.kz/amedia_premium_hd/mono.m3u8?token=onlinetv
+https://ucdn.beetv.kz/bpk-tv/000000709/tve/index.m3u8
 #EXTINF:-1 tvg-id="bollywood-hd" tvg-name="Bollywood HD" tvg-logo="http://epg.one/img/1395.png" group-title="Кино", Bollywood HD
 #EXTGRP:Кино
 http://176.118.197.101/Bollywood_HD/index.m3u8
