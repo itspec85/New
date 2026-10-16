@@ -1882,7 +1882,7 @@ https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
 https://flussonic.mkpnet.ru/tv-e3d23fc7511b5fcd/video.m3u8
 #EXTINF:-1 tvg-id="kxl-hd" tvg-name="KHL Prime HD" tvg-logo="http://epg.one/img/1038.png" group-title="Спорт", KHL Prime HD
 #EXTGRP:Спорт
-https://fs.uplink.kz/khl_prime/mono.m3u8?token=onlinetv
+http://stream.mcquack.net/178/index.m3u8
 #EXTINF:-1 tvg-id="megogo-sport" tvg-name="Megogo Спорт" tvg-logo="http://epg.one/img/3654.png" group-title="Спорт", Megogo Спорт
 #EXTGRP:Спорт
 http://5.188.159.128:8070/megogo_sport/tracks-v1a1/mono.m3u8
