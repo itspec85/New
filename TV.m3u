@@ -1245,7 +1245,8 @@ http://176.118.197.101/HCT/mono.m3u8
 http://195.64.140.147:10073/73
 #EXTINF:-1 tvg-id="ntv-xit" tvg-name="НТВ Хит" tvg-logo="http://epg.one/img/2041.png" group-title="Кино", НТВ Хит HD
 #EXTGRP:Кино
-http://195.64.140.147:10074/74
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://cdn.ntv.ru/th_hit/mono.m3u8
 #EXTINF:-1 tvg-id="pobeda" tvg-name="Победа" tvg-logo="http://epg.one/img/2447.png" group-title="Кино", Победа
 #EXTGRP:Кино
 http://fs.uplink.kz/pobeda/tracks-v1a1/mono.ts.m3u8?token=onlinetv
@@ -1257,7 +1258,7 @@ https://ucdn.beetv.kz/bpk-tv/000008491/tve/index.m3u8
 http://176.118.197.101/Retro/mono.m3u8
 #EXTINF:-1 tvg-id="rodnoe-kino" tvg-name="Родное кино" tvg-logo="http://epg.one/img/12.png" group-title="Кино", РОДНОЕ КИНО
 #EXTGRP:Кино
-https://fs.uplink.kz/rodnoe_kino/mono.m3u8?token=onlinetv
+http://80.245.95.243:8888/play/age988/index.m3u8
 #EXTINF:-1 tvg-id="russky-bestseller" tvg-name="Русский бестселлер" tvg-logo="http://epg.one/img/994.png" group-title="Кино", Русский бестселлер
 #EXTGRP:Кино
 https://flussonic.mkpnet.ru/tv-ccf8c891702508a7/video.m3u8
