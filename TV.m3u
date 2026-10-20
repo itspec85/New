@@ -1328,6 +1328,15 @@ https://ucdn.beetv.kz/bpk-tv/000000213/tve/index.m3u8
 #EXTINF:-1 tvg-id="sony-scifi" tvg-name=".sci-fi" tvg-logo="http://epg.one/img/516.png" group-title="Кино", .sci-fi
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000000134/tve/index.m3u8
+#EXTINF:-1 tvg-id="4ever-cinema" tvg-name="4ever Cinema" tvg-logo="http://epg.one/img/8900.png" group-title="Кино", 4ever Cinema hD
+#EXTGRP:Кино
+http://stream.mcquack.net/258/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="4ever-drama" tvg-name="4ever Drama" tvg-logo="http://epg.one/img/9149.png" group-title="Кино", 4ever Drama hD
+#EXTGRP:Кино
+http://stream.mcquack.net/260/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="4ever-theater" tvg-name="4ever Theater" tvg-logo="http://epg.one/img/11864.png" group-title="Кино", 4ever Theater hD
+#EXTGRP:Кино
+http://stream.mcquack.net/259/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="amedia1" tvg-name="Amedia 1" tvg-logo="http://epg.one/img/1371.png" group-title="Кино", Amedia 1
 #EXTGRP:Кино
 http://195.64.140.147:10059/59
@@ -1343,6 +1352,9 @@ https://ucdn.beetv.kz/bpk-tv/000000709/tve/index.m3u8
 #EXTINF:-1 tvg-id="bollywood-hd" tvg-name="Bollywood HD" tvg-logo="http://epg.one/img/1395.png" group-title="Кино", Bollywood HD
 #EXTGRP:Кино
 http://176.118.197.101/Bollywood_HD/index.m3u8
+#EXTINF:-1 tvg-id="bolt-ru" tvg-name="Bolt Россия" tvg-logo="http://epg.one/img/2138.png" group-title="Кино", Bolt Россия HD
+#EXTGRP:Кино
+http://stream.mcquack.net/73/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="cinema-ru" tvg-name="Cinema HD" tvg-logo="http://epg.one/img/2754.png" group-title="Кино", Cinema HD
 #EXTGRP:Кино
 http://80.245.95.243:8888/play/a02w/index.m3u8
@@ -1352,6 +1364,9 @@ https://bl.rutube.ru/livestream/21f3993ed8291b70208aa06c982c731f/index.m3u8?s=q4
 #EXTINF:-1 tvg-name="Epic Media" tvg-logo="https://web.archive.org/web/20200528011832im_/https://yt3.ggpht.com/a/AATXAJwZj2wFpUD5QftkEWWxIafi70oUlKtt0awqVg=s900-c-k-c0xffffffff-no-rj-mo" group-title="Кино", Epic Media
 #EXTGRP:Кино
 https://bl.rutube.ru/livestream/0ed0696149c131d3a7349372d730d4e6/index.m3u8?s=4f-cgc_8_IY34Q1h-Jje-A&e=2085488596&scheme=https
+#EXTINF:-1 tvg-id="fanhd" tvg-name="FAN HD" tvg-logo="http://epg.one/img/2359.png" group-title="Кино", FAN HD
+#EXTGRP:Кино
+http://stream.mcquack.net/420/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="filmua-drama" tvg-name="Film.UA Drama" tvg-logo="http://epg.one/img/8911.png" group-title="Кино", Film UA Drama
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000003028/tve/index.m3u8
@@ -1376,9 +1391,21 @@ http://stream1.cinerama.uz/1443/index.m3u8
 #EXTINF:-1 tvg-id="hollywood-hd" tvg-name="Hollywood HD" tvg-logo="http://epg.one/img/934.png" group-title="Кино", Hollywood HD
 #EXTGRP:Кино
 http://stream.mcquack.net/268/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="Horror TV" tvg-logo="http://epg.one/img/8792.png" group-title="Кино", Horror TV
+#EXTINF:-1 tvg-id="horrortv" tvg-name="Horror TV" tvg-logo="http://epg.one/img/8792.png" group-title="Кино", Horror TV
 #EXTGRP:Кино
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/93dc292b-cbcf-4988-ab97-94feced4c14b/manifest.m3u8
+#EXTINF:-1 tvg-id="kino-1" tvg-name="Kino 1" tvg-logo="https://epg.iptvx.one/picons/kino-1.png" group-title="Кино", Kino 1
+#EXTGRP:Кино
+http://stream.mcquack.net/395/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="kino-1-hd" tvg-name="Kino 2" tvg-logo="https://epg.iptvx.one/picons/kino-1-hd.png" group-title="Кино", Kino 2
+#EXTGRP:Кино
+http://stream.mcquack.net/465/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="kinoliving" tvg-name="KinoLiving" tvg-logo="http://epg.one/img/9123.png" group-title="Кино", KinoLiving
+#EXTGRP:Кино
+http://stream.mcquack.net/445/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="kinowood" tvg-name="Kinowood" tvg-logo="http://epg.one/img/8921.png" group-title="Кино", Kinowood HD
+#EXTGRP:Кино
+http://stream.mcquack.net/446/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="romance" tvg-name="Romance HD" tvg-logo="http://epg.one/img/9179.png" group-title="Кино", Romance HD
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000008780/tve/index.m3u8
@@ -1478,6 +1505,9 @@ https://bl.rutube.ru/livestream/dcd36c7833f9431e6e6c902515c6c3ac/index.m3u8?s=uw
 #EXTINF:-1 tvg-name="Рутюб. Вселенная Рика и Морти" tvg-logo="https://avatars.mds.yandex.net/i?id=989dfe0ca2926d839dd3664e8209e6110e92dfa2-4719550-images-thumbs&n=13" group-title="Кинозал", Рутюб. Вселенная Рика и Морти
 #EXTGRP:Кинозал
 https://bl.rutube.ru/livestream/478a825bfd784e1e9de08ceceb3d2121/index.m3u8?s=5LLU9ijUlSelNtujswFXsw&e=2090758997&scheme=https
+#EXTINF:-1 tvg-name="Рутюб. Вселенная DC" tvg-logo="https://avatars.mds.yandex.net/i?id=78fdf0a8799558d3625f70ac87e2eccc4959b95d-5260040-images-thumbs&n=13" group-title="Кинозал", Рутюб. Вселенная DC
+#EXTGRP:Кинозал
+https://bl.rutube.ru/livestream/31cd70d4054fbbde3b169d9a6972515c/index.m3u8?s=qkn64RQhG1lP2oZ14TOlRA&e=2092486993&scheme=https
 #EXTINF:-1 tvg-name="Рутюб. Вселенная Marvel" tvg-logo="https://avatars.mds.yandex.net/i?id=36d60cadb4dc305993522f68e9733e8467871990-12473946-images-thumbs&n=13" group-title="Кинозал", Рутюб. Вселенная Marvel
 #EXTGRP:Кинозал
 https://bl.rutube.ru/livestream/3abeb7577fd38ac4b8130bb8e03418f2/index.m3u8?s=qOeLwJURbU7zgkTxwYIk9A&e=2087864591&scheme=https
