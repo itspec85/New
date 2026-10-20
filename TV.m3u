@@ -745,6 +745,9 @@ https://stream.smotrim.ru/hls3/fasttv06/playlist_3.m3u8
 #EXTINF:-1 tvg-id="solovjinypomiot" tvg-name="Соловьев.Live" tvg-logo="http://epg.one/img/13.png" group-title="Познавательные", Соловьев.Live
 #EXTGRP:Познавательные
 https://stream.smotrim.ru/hls/solovievlive/playlist_6.m3u8
+#EXTINF:-1 tvg-id="sol" tvg-name="Соль" tvg-logo="https://epg.iptvx.one/picons/sol.png" group-title="Познавательные", Соль
+#EXTGRP:Познавательные
+http://stream.mcquack.net/398/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="soyuz" tvg-name="Союз" tvg-logo="http://epg.one/img/2448.png" group-title="Познавательные", Союз
 #EXTGRP:Познавательные
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
@@ -913,16 +916,25 @@ https://tv.2kita.com/stream/index.m3u8
 #EXTINF:-1 tvg-id="ocean-tv" tvg-name="OCEAN-TV" tvg-logo="http://epg.one/img/55.png" group-title="Познавательные", OCEAN-TV
 #EXTGRP:Познавательные
 http://85.192.24.253:8080/AA2126W/video.m3u8
+#EXTINF:-1 tvg-id="one-planet" tvg-name="One Planet" tvg-logo="https://epg.iptvx.one/picons/one-planet.png" group-title="Познавательные", One Planet
+#EXTGRP:Познавательные
+http://stream.mcquack.net/448/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Pro Факт" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00301.png" group-title="Познавательные", Pro Факт
 #EXTGRP:Познавательные
 https://iptv.prosto.tv/id301/video.m3u8
 #EXTINF:-1 tvg-name="Prosto Fishing" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00532.jpg" group-title="Познавательные", Prosto Fishing
 #EXTGRP:Познавательные
 https://iptv.prosto.tv/id532/video.m3u8
-#EXTINF:-1 tvg-name="RTД" tvg-logo="http://epg.one/img/2295.png" group-title="Познавательные", RT Док
+#EXTINF:-1 tvg-id="raz1" tvg-name="RAZ 1" tvg-logo="https://epg.iptvx.one/picons/raz1.png" group-title="Познавательные", RAZ 1
+#EXTGRP:Познавательные
+http://stream.mcquack.net/463/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="raz2" tvg-name="RAZ 2" tvg-logo="https://epg.iptvx.one/picons/raz2.png" group-title="Познавательные", RAZ 2
+#EXTGRP:Познавательные
+http://stream.mcquack.net/464/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="rtd-ru" tvg-name="RTД" tvg-logo="http://epg.one/img/2295.png" group-title="Познавательные", RT Док
 #EXTGRP:Познавательные
 https://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
-#EXTINF:-1 tvg-id="rt-news" tve="RT News" tvg-logo="http://epg.one/img/2269.png" group-title="Познавательные", RT News
+#EXTINF:-1 tvg-id="rt-news" tvg-name="RT News" tvg-logo="http://epg.one/img/2269.png" group-title="Познавательные", RT News
 #EXTGRP:Познавательные
 http://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
 #EXTINF:-1 tvg-id="rtg-hd" tvg-name="RTG HD" tvg-logo="http://epg.one/img/648.png" group-title="Познавательные", RTG HD
@@ -1108,6 +1120,9 @@ http://stream.mcquack.net/150/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="JTX Online" tvg-logo="https://avatars.mds.yandex.net/i?id=990c233d43556f00f1c7f93bfffa9b0ba44ae70b-3693917-images-thumbs&n=13" group-title="Детские", JTX Online
 #EXTGRP:Детские
 http://kinowalk.hopto.org/jtxonline_live
+#EXTINF:-1 tvg-id="kinokazka" tvg-name="KinoKazka" tvg-logo="http://epg.one/img/9092.png" group-title="Детские", KinoKazka
+#EXTGRP:Детские
+http://stream.mcquack.net/167/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="nick-jr" tvg-name="Nick Jr" tvg-logo="http://epg.one/img/917.png" group-title="Детские", Nick Jr
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000000449/tve/index.m3u8
