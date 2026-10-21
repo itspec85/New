@@ -489,7 +489,7 @@ https://stream8.cinerama.uz/1414/tracks-v1a1/mono.m3u8
 http://89.104.114.24:8080/art/index.m3u8?token=test
 #EXTINF:-1 tvg-id="bobior" tvg-name="Бобёр" tvg-logo="http://epg.one/img/2026.png" group-title="Познавательные", Бобёр
 #EXTGRP:Познавательные
-https://flussonic.mkpnet.ru/tv-319cadb3fff5fb3e/video.m3u8
+http://195.64.140.147:10163/163
 #EXTINF:-1 tvg-id="bolshaya-azia" tvg-name="Большая Азия HD" tvg-logo="http://epg.one/img/2417.png" group-title="Познавательные", Большая Азия HD
 #EXTGRP:Познавательные
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
@@ -549,7 +549,7 @@ http://185.46.16.239:8000/Zhivaya_Planeta
 http://195.64.140.147:10178/178
 #EXTINF:-1 tvg-id="zhivi-aktivno" tvg-name="Живи активно" tvg-logo="https://epg.iptvx.one/picons/zhivi-aktivno.png" group-title="Познавательные", Живи активно
 #EXTGRP:Познавательные
-https://flussonic.mkpnet.ru/tv-fa810958620d77d8/video.m3u8
+https://stream1.cinerama.uz/1405/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="За!ТВ" tvg-logo="https://avatars.mds.yandex.net/i?id=3392ef595a598b716b3a9c5e8939f4338114f599-5287388-images-thumbs&n=13" group-title="Познавательные", За!ТВ
 #EXTGRP:Познавательные
 https://streaming.televizor-24-tochka.ru/live/25-req_offset_28000000-req_window_0-1k_v5.m3u8
@@ -567,7 +567,7 @@ https://bl.rutube.ru/livestream/406973c72e9d0449feef05ef7811ad01/index.m3u8?s=fG
 https://ucdn.beetv.kz/bpk-tv/000006638/tve/index.m3u8
 #EXTINF:-1 tvg-id="zdorovoe-tv" tvg-name="Здоровое ТВ" tvg-logo="http://epg.one/img/2449.png" group-title="Познавательные", Здоровое ТВ
 #EXTGRP:Познавательные
-http://flussonic.mkpnet.ru/tv-92fa9d648cab0f3f/video.m3u8
+http://195.64.140.147:10171/171
 #EXTINF:-1 tvg-id="istoria" tvg-name="История" tvg-logo="http://epg.one/img/1036.png" group-title="Познавательные", История
 #EXTGRP:Познавательные
 https://stream1.cinerama.uz/1266/tracks-v1a1/mono.m3u8
@@ -606,7 +606,7 @@ http://stitch.teletarget.ru/vintera/motodrive/index.m3u8
 http://91.226.120.120/chid210/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="muzhskoy" tvg-name="Мужской" tvg-logo="http://epg.one/img/2444.png" group-title="Познавательные", Мужской
 #EXTGRP:Познавательные
-https://flussonic.mkpnet.ru/tv-55c94e838b306657/video.m3u8
+http://80.245.95.243:8888/play/sgg798/index.m3u8
 #EXTINF:-1 tvg-id="muzhskoy" tvg-name="Мужской HD" tvg-logo="http://epg.one/img/2444.png" group-title="Познавательные", Мужской HD
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000000286/tve/index.m3u8
@@ -972,19 +972,19 @@ http://77.232.131.211/TravelAdventureHD/index.m3u8
 http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="viasat-explore" tvg-name="Viju Explore" tvg-logo="http://epg.one/img/521.png" group-title="Познавательные", Viju Explore
 #EXTGRP:Познавательные
-http://flussonic.mkpnet.ru/tv-7c57a4c3f9a896ea/video.m3u8
+http://80.245.95.243:8888/play/eryh897/index.m3u8
 #EXTINF:-1 tvg-id="viasat-explore" tvg-name="Viju Explore" tvg-logo="http://epg.one/img/521.png" group-title="Познавательные", Viju Explore HD
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000004157/tve/index.m3u8
 #EXTINF:-1 tvg-id="viasat-history" tvg-name="Viju History" tvg-logo="http://epg.one/img/277.png" group-title="Познавательные", Viju History
 #EXTGRP:Познавательные
-http://flussonic.mkpnet.ru/tv-687ba838ca927b9a/video.m3u8
+http://radio.tvs.by:8088/HistoryHD/index.m3u8
 #EXTINF:-1 tvg-id="viasat-history" tvg-name="Viju History" tvg-logo="http://epg.one/img/277.png" group-title="Познавательные", Viju History HD
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000005528/tve/index.m3u8
 #EXTINF:-1 tvg-id="viasat-nature" tvg-name="Viju Nature" tvg-logo="http://epg.one/img/765.png" group-title="Познавательные", Viju Nature
 #EXTGRP:Познавательные
-http://flussonic.mkpnet.ru/tv-7a85ea25208f5bf7/video.m3u8
+http://80.245.95.243:8888/play/skljg987/index.m3u8
 #EXTINF:-1 tvg-id="viasat-nature" tvg-name="Viju Nature" tvg-logo="http://epg.one/img/765.png" group-title="Познавательные", Viju Nature HD
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000006482/tve/index.m3u8
@@ -1029,7 +1029,7 @@ http://flussonic.linkintel.ru/mama/index.m3u8
 http://194.152.35.17/Mult/index.m3u8
 #EXTINF:-1 tvg-id="multimania" tvg-name="Мультиландия" tvg-logo="http://epg.one/img/2757.png" group-title="Детские", Мультиландия
 #EXTGRP:Детские
-http://flussonic.mkpnet.ru/tv-89530153f25733fe/video.m3u8
+http://217.11.177.55/streams/media/multilandiya_720x576/index.m3u8
 #EXTINF:-1 tvg-name="Мультимейшн" tvg-logo="https://avatars.mds.yandex.net/i?id=eb23c6faa11d804cb953398b520831db3b26e90f-8497159-images-thumbs&n=13" group-title="Детские", Мультимейшн
 #EXTGRP:Детские
 https://bl.rutube.ru/livestream/bc2933d28daf33f5a68257ebc72787cd/index.m3u8?s=LtE57DY6RDS7I_8b8y37fg&e=2088987796&scheme=https
@@ -1065,7 +1065,7 @@ http://tv.mediacdn.ru/live/solntse/playlist_3000k.m3u8
 http://194.26.229.213/souzmultfilm/index.m3u8
 #EXTINF:-1 tvg-id="sts-kids-hd" tvg-name="СТС Kids HD" tvg-logo="http://epg.one/img/2481.png" group-title="Детские", СТС Kids
 #EXTGRP:Детские
-http://flussonic.mkpnet.ru/tv-4af112c31b77e2a8/video.m3u8
+http://178.124.153.123:44400/stskids
 #EXTINF:-1 tvg-id="malysh" tvg-name="СуперГерои" tvg-logo="http://epg.one/img/2239.png" group-title="Детские", СуперГерои
 #EXTGRP:Детские
 http://109.94.1.3:8080/132/index.m3u8
@@ -1110,7 +1110,7 @@ http://kinowalk.hopto.org/disneyxd_live
 http://stream.mcquack.net/425/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="gulli-girl" tvg-name="Gulli" tvg-logo="http://epg.one/img/810.png" group-title="Детские", Gulli
 #EXTGRP:Детские
-https://flussonic.mkpnet.ru/tv-d66fcf59f2f4c966/video.m3u8
+http://stream1.cinerama.uz/1445/index.m3u8
 #EXTINF:-1 tvg-name="IPTVPLAY МультСказки" tvg-logo="https://i122.fastpic.org/big/2024/0112/65/b20ebb09af08ef55dbdffa919a047c65.png" group-title="Детские", IPTVPLAY МультСказки
 #EXTGRP:Детские
 http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
@@ -1137,7 +1137,7 @@ https://ucdn.beetv.kz/bpk-tv/000004365/tve/index.m3u8
 https://hostrec.ru/live/wic2AtEFCLwsZcUkAgtZcjlYgjc.m3u8
 #EXTINF:-1 tvg-id="tiji" tvg-name="Tiji TV" tvg-logo="http://epg.one/img/555.png" group-title="Детские", Tiji TV
 #EXTGRP:Детские
-http://flussonic.mkpnet.ru/tv-3848dd8604a262e0/video.m3u8
+https://stream1.cinerama.uz/1441/tracks-v1a1/mono.m3u8
 
 
 
