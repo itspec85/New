@@ -200,7 +200,7 @@ http://178.134.1.158:8081/MIR24/index.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="ntv" tvg-name="НТВ" tvg-logo="http://epg.one/img/162.png" group-title="Россия", НТВ
 #EXTGRP:Россия
-http://flussonic.mkpnet.ru/tv-1bc5d712ea5ace74/video.m3u8
+http://185.46.16.239:8000/NTV
 #EXTINF:-1 tvg-id="ntv" tvg-name="НТВ HD" tvg-logo="http://epg.one/img/2001.png" group-title="Россия", НТВ HD
 #EXTGRP:Россия
 http://194.152.35.17/ntv/index.m3u8
@@ -215,7 +215,7 @@ http://185.46.16.239:8000/OTR
 https://bl.rutube.ru/livestream/faa934385b83f9e8a92f5484defae5fa/index.m3u8?s=A2y3x2QJum0Y9JnlHOW0Mw&e=2074209249&scheme=https
 #EXTINF:-1 tvg-id="pervy" tvg-name="Первый канал" tvg-logo="http://epg.one/img/146.png" group-title="Россия", Первый канал
 #EXTGRP:Россия
-http://flussonic.mkpnet.ru/tv-4f9598ab5f91dca4/video.m3u8
+http://195.64.140.147:10001/991
 #EXTINF:-1 tvg-id="pervy" tvg-name="Первый канал HD" tvg-logo="http://epg.one/img/983.png" group-title="Россия", Первый канал FHD
 #EXTGRP:Россия
 https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=bL7xY2b2QJQGUdTyzW4Mqg&e=2074209214&scheme=https
@@ -236,7 +236,7 @@ https://bl.rutube.ru/livestream/9f87a9a0cecbe773be6fddcbd93585ac/index.m3u8?s=TO
 https://ucdn.beetv.kz/bpk-tv/000007816/tve/index.m3u8
 #EXTINF:-1 tvg-id="5kanal-ru" tvg-name="Пятый канал" tvg-logo="http://epg.one/img/427.png" group-title="Россия", Пятый канал
 #EXTGRP:Россия
-http://flussonic.mkpnet.ru/tv-a5ff8c7a86c8b951/video.m3u8
+http://194.152.35.17/5-kanal/index.m3u8
 #EXTINF:-1 tvg-id="5kanal-ru" tvg-name="Пятый канал" tvg-logo="http://epg.one/img/427.png" group-title="Россия", Пятый канал HD
 #EXTGRP:Россия
 http://94.250.255.172/ptv/vitrina/ch.php?id=aHR0cHM6Ly9tZWRpYS5tZWRpYXZpdHJpbmEucnUvYmFsYW5jZXIvdjEvdHY1LzV0di9zdHJlYW1zLmpzb24=
@@ -251,7 +251,7 @@ http://92.50.128.180/utv/1358/index.m3u8
 http://online.video.rbc.ru/online/rbctv_1080p/index.m3u8
 #EXTINF:-1 tvg-id="rentv" tvg-name="Рен ТВ" tvg-logo="http://epg.one/img/18.png" group-title="Россия", РЕН ТВ
 #EXTGRP:Россия
-http://flussonic.mkpnet.ru/tv-44dfec2799c5738e/video.m3u8
+http://185.46.16.239:8000/REN_TV
 #EXTINF:-1 tvg-name="Рен ТВ International" tvg-logo="https://i.postimg.cc/SsRGs7Y7/International.png" group-title="Россия", Рен ТВ International
 #EXTGRP:Россия
 http://178.134.1.158:8081/RENTV/index.m3u8
@@ -293,13 +293,13 @@ http://stream.mcquack.net/138/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000000428/tve/index.m3u8
 #EXTINF:-1 tvg-id="sts-love" tvg-name="СТС Love" tvg-logo="http://epg.one/img/1322.png" group-title="Россия", СТС Love
 #EXTGRP:Россия
-https://flussonic.mkpnet.ru/tv-b9f0884f9a81b8c6/video.m3u8
+http://195.64.140.147:10140/140
 #EXTINF:-1 tvg-id="sts-love" tvg-name="СТС Love" tvg-logo="http://epg.one/img/1322.png" group-title="Россия", СТС Love HD
 #EXTGRP:Россия
 https://bl.rutube.ru/livestream/32dc45cf878497abe1c9695e228f039b/index.m3u8?s=raluVYOY1SoIpPrT1oVFtg&e=2087864588&scheme=https
 #EXTINF:-1 tvg-id="super" tvg-name="Суббота" tvg-logo="http://epg.one/img/2288.png" group-title="Россия", Суббота
 #EXTGRP:Россия
-http://flussonic.mkpnet.ru/tv-2e0a7cc949958b60/video.m3u8
+http://217.114.191.150/Subbota/index.m3u8
 #EXTINF:-1 tvg-id="super" tvg-name="Суббота HD" tvg-logo="http://epg.one/img/2288.png" group-title="Россия", Суббота HD
 #EXTGRP:Россия
 https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=XOeppIXq80B31LaV1xZkRA&e=2074209217&scheme=https
@@ -329,7 +329,7 @@ https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=--
 https://ucdn.beetv.kz/bpk-tv/000007833/tve/index.m3u8
 #EXTINF:-1 tvg-id="tnt4" tvg-name="ТНТ4" tvg-logo="http://epg.one/img/1649.png" group-title="Россия", ТНТ4
 #EXTGRP:Россия
-https://flussonic.mkpnet.ru/tv-5f6d3cfda1af8989/video.m3u8
+http://flussonic.linkintel.ru/tnt4/index.m3u8
 #EXTINF:-1 tvg-id="tnt4" tvg-name="ТНТ4 HD" tvg-logo="http://epg.one/img/1649.png" group-title="Россия", ТНТ4 HD
 #EXTGRP:Россия
 https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=fDLHkeQFZszOkQ36Or8vsQ&e=2074209215&scheme=https
@@ -338,13 +338,13 @@ https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=fD
 https://ucdn.beetv.kz/bpk-tv/000002926/tve/index.m3u8
 #EXTINF:-1 tvg-id="che" tvg-name="Че" tvg-logo="http://epg.one/img/1598.png" group-title="Россия", Че
 #EXTGRP:Россия
-https://flussonic.mkpnet.ru/tv-cf5a26a180f402ef/video.m3u8
+http://176.118.197.101/Che/index.m3u8
 #EXTINF:-1 tvg-id="che" tvg-name="Че" tvg-logo="http://epg.one/img/1598.png" group-title="Россия", Че HD
 #EXTGRP:Россия
 https://bl.rutube.ru/livestream/5bbff90167d1b1d88fda92376ec7a651/index.m3u8?s=KhkVE-jTrXLg-IMurO0eqg&e=2087864587&scheme=https
 #EXTINF:-1 tvg-id="yu" tvg-name="Ю" tvg-logo="http://epg.one/img/898.png" group-title="Россия", Ю
 #EXTGRP:Россия
-https://flussonic.mkpnet.ru/tv-3b21847ece4b1c19/video.m3u8
+http://194.152.35.17/yu/index.m3u8
 #EXTINF:-1 tvg-id="yu" tvg-name="Ю" tvg-logo="http://epg.one/img/898.png" group-title="Россия", Ю HD
 #EXTGRP:Россия
 https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?s=7PFV3wq6oYYpWGA5Z3go2Q&e=2074209217&scheme=https
