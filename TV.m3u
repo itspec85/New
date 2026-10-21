@@ -9,9 +9,6 @@ https://ucdn.beetv.kz/bpk-tv/000005177/tve/index.m3u8
 #EXTINF:-1 tvg-id="31-kanal-kz" tvg-name="31 канал KZ" tvg-logo="http://epg.one/img/2639.png" group-title="Казахстан", 31 канал KZ
 #EXTGRP:Казахстан
 https://ucdn.beetv.kz/bpk-tv/000000663/tve/index.m3u8
-#EXTINF:-1 tvg-id="77tv-kz" tvg-name="77 TV" tvg-logo="https://iptvx.one/picons/77tv-kz.png" group-title="Казахстан", 77 TV
-#EXTGRP:Казахстан
-https://ucdn.beetv.kz/bpk-tv/000002851/tve/index.m3u8
 #EXTINF:-1 tvg-id="abaitv" tvg-name="Abai TV" tvg-logo="https://iptvx.one/picons/abaitv.png" group-title="Казахстан", Abai TV
 #EXTGRP:Казахстан
 https://ucdn.beetv.kz/bpk-tv/000006116/tve/index.m3u8
@@ -1348,7 +1345,7 @@ http://flussonic.mkpnet.ru/tv-cad19a32f4a82824/video.m3u8
 https://flussonic.mkpnet.ru/tv-8f04998179283ee5/video.m3u8
 #EXTINF:-1 tvg-id="amedia-premium" tvg-name="Amedia Premium" tvg-logo="http://epg.one/img/1372.png" group-title="Кино", Amedia Premium
 #EXTGRP:Кино
-https://ucdn.beetv.kz/bpk-tv/000000709/tve/index.m3u8
+http://stream.mcquack.net/151/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="bollywood-hd" tvg-name="Bollywood HD" tvg-logo="http://epg.one/img/1395.png" group-title="Кино", Bollywood HD
 #EXTGRP:Кино
 http://176.118.197.101/Bollywood_HD/index.m3u8
@@ -1795,7 +1792,7 @@ http://194.152.35.17/match/index.m3u8
 https://bl.rutube.ru/livestream/11bbbec75a2ceb8cf446ad16813c6eec/index.m3u8?s=OPWhHjvzFdhW_V7TfzG1TQ&e=2074209261&scheme=https
 #EXTINF:-1 tvg-id="match-arena" tvg-name="Матч! Арена" tvg-logo="http://epg.one/img/2003.png" group-title="Спорт", Матч! Арена
 #EXTGRP:Спорт
-https://flussonic.mkpnet.ru/tv-9dda1dd9d740a9a4/video.m3u8
+http://195.64.140.147:10096/96
 #EXTINF:-1 tvg-id="match-boets" tvg-name="Матч! Боец" tvg-logo="http://epg.one/img/2054.png" group-title="Спорт", Матч! Боец
 #EXTGRP:Спорт
 http://195.64.140.147:10097/97
@@ -1804,7 +1801,7 @@ http://195.64.140.147:10097/97
 http://stream.mcquack.net/112/index.m3u8
 #EXTINF:-1 tvg-id="match-igra" tvg-name="Матч! Игра" tvg-logo="http://epg.one/img/2050.png" group-title="Спорт", Матч! Игра
 #EXTGRP:Спорт
-https://flussonic.mkpnet.ru/tv-1bfac9df3d938c1f/video.m3u8
+http://185.46.16.239:8000/Match_Igra
 #EXTINF:-1 tvg-id="match-igra" tvg-name="Матч! Игра" tvg-logo="http://epg.one/img/2050.png" group-title="Спорт", Матч! Игра HD
 #EXTGRP:Спорт
 http://185.37.150.38/test/index.m3u8
@@ -1813,13 +1810,13 @@ http://185.37.150.38/test/index.m3u8
 http://80.245.95.243:8888/play/a01b/index.m3u8
 #EXTINF:-1 tvg-id="match-premier" tvg-name="Матч! Премьер" tvg-logo="http://epg.one/img/2250.png" group-title="Спорт", МАТЧ ПРЕМЬЕР
 #EXTGRP:Спорт
-https://flussonic.mkpnet.ru/tv-ee3651e1e7ce5cbf/video.m3u8
+http://185.23.80.23:8080/MATCH_PREMIER/index.m3u8
 #EXTINF:-1 tvg-id="match-premier" tvg-name="Матч! Премьер" tvg-logo="http://epg.one/img/2250.png" group-title="Спорт", МАТЧ ПРЕМЬЕР HD
 #EXTGRP:Спорт
 http://stream.mcquack.net/193/index.m3u8
 #EXTINF:-1 tvg-id="match-nash-sport" tvg-name="Матч! Страна" tvg-logo="http://epg.one/img/2042.png" group-title="Спорт", МАТЧ! СТРАНА
 #EXTGRP:Спорт
-https://flussonic.mkpnet.ru/tv-6db4f59c21aec361/video.m3u8
+http://185.46.16.239:8000/Match_Nash_Sport
 #EXTINF:-1 tvg-id="match-football1" tvg-name="Матч! Футбол 1" tvg-logo="http://epg.one/img/2044.png" group-title="Спорт", Матч! Футбол 1
 #EXTGRP:Спорт
 http://31.148.5.241/Match_Football_1_HD/index.m3u8
@@ -1897,7 +1894,7 @@ http://stream.mcquack.net/192/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000002479/tve/index.m3u8
 #EXTINF:-1 tvg-id="extreme-sports" tvg-name="Extreme Sports" tvg-logo="http://epg.one/img/2053.png" group-title="Спорт", Extreme Sports
 #EXTGRP:Спорт
-https://flussonic.mkpnet.ru/tv-1a9441fd32d63873/video.m3u8
+http://stream.mcquack.net/148/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="fastfunbox-hd" tvg-name="Fast&FunBox HD" tvg-logo="http://epg.one/img/2362.png" group-title="Спорт", Fast&FunBox HD
 #EXTGRP:Спорт
 https://iptv.prosto.tv/ch120/tracks-v2a1/mono.m3u8?live=1&amp;ip=178.136.40.86&amp;id=921233&amp;secret=9szoe89y&amp;21yo=0&amp;e=1783249561&amp;st=-CNEhLDi2VkEY_caCemBGQ
@@ -1921,7 +1918,7 @@ https://hncfree-samsungau.amagi.tv/playlist720-p.m3u8
 https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="kxl" tvg-name="KHL" tvg-logo="http://epg.one/img/2048.png" group-title="Спорт", KHL TV Channel
 #EXTGRP:Спорт
-https://flussonic.mkpnet.ru/tv-e3d23fc7511b5fcd/video.m3u8
+http://176.118.197.101/KHL/mono.m3u8
 #EXTINF:-1 tvg-id="kxl-hd" tvg-name="KHL Prime HD" tvg-logo="http://epg.one/img/1038.png" group-title="Спорт", KHL Prime HD
 #EXTGRP:Спорт
 http://stream.mcquack.net/178/index.m3u8
@@ -2035,7 +2032,7 @@ http://911play.ru:3456/live/VostokSite/cdnVostaoc911tv123456/489.m3u8
 https://bl.rutube.ru/livestream/c93be53cba8a4ba6ac311b395a00f4d5/index.m3u8?s=h-fppD9WZKbcD0ZIZls2sg&e=2074209252&scheme=https
 #EXTINF:-1 tvg-id="zhara" tvg-name="Жара" tvg-logo="http://epg.one/img/165.png" group-title="Музыка", ЖАРА
 #EXTGRP:Музыка
-http://flussonic.mkpnet.ru/tv-3cdc33d3606ba23f/video.m3u8
+http://195.64.140.147:10202/202
 #EXTINF:-1 tvg-id="muztv" tvg-name="Муз-ТВ" tvg-logo="http://epg.one/img/897.png" group-title="Музыка", МУЗ-ТВ
 #EXTGRP:Музыка
 http://185.46.16.239:8000/Muz_TV
@@ -2134,7 +2131,7 @@ http://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
 #EXTINF:-1 tvg-id="europa-plus-tv" tvg-name="Europa Plus TV" tvg-logo="http://epg.one/img/681.png" group-title="Музыка", Europa Plus TV
 #EXTGRP:Музыка
-http://flussonic.mkpnet.ru/tv-0f5fe3eb19ad83d9/video.m3u8
+http://46.53.200.153:7777/play/EuropaPlus/index.m3u8
 #EXTINF:-1 tvg-id="tnt-music" tvg-name="FON music" tvg-logo="http://epg.one/img/680.png" group-title="Музыка", FON music
 #EXTGRP:Музыка
 http://185.46.16.239:8000/Nashe_TV
@@ -2206,7 +2203,7 @@ https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
 rtmp://stream.mediawork.cz/retrotv/retrotvHQ1
 #EXTINF:-1 tvg-id="ru-tv" tvg-name="RU TV HD" tvg-logo="http://epg.one/img/2277.png" group-title="Музыка", RU TV HD
 #EXTGRP:Музыка
-http://flussonic.mkpnet.ru/tv-64b2c4ff13365817/video.m3u8
+https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?s=zXnBXA_pmSdC_G3Edlt8yw&e=2092530198&scheme=https
 #EXTINF:-1 tvg-name="RU TV Kids" tvg-logo="https://rutvkids.ru/brand/logo-kids.png" group-title="Музыка", RU TV Kids
 #EXTGRP:Музыка
 https://rutvkids.ru/live/efir/index.m3u8
