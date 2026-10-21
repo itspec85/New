@@ -1789,7 +1789,7 @@ http://185.46.16.239:8000/Eurosport_1
 https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=4rfg4hzvwhuOkxvKpOgKTA&e=2074209265&scheme=https
 #EXTINF:-1 tvg-id="match-tv" tvg-name="Матч ТВ" tvg-logo="http://epg.one/img/2051.png" group-title="Спорт", Матч ТВ
 #EXTGRP:Спорт
-https://flussonic.mkpnet.ru/tv-d3098523a4409835/video.m3u8
+http://194.152.35.17/match/index.m3u8
 #EXTINF:-1 tvg-id="match-tv" tvg-name="Матч ТВ HD" tvg-logo="http://epg.one/img/2051.png" group-title="Спорт", Матч ТВ HD
 #EXTGRP:Спорт
 https://bl.rutube.ru/livestream/11bbbec75a2ceb8cf446ad16813c6eec/index.m3u8?s=OPWhHjvzFdhW_V7TfzG1TQ&e=2074209261&scheme=https
