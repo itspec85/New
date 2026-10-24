@@ -804,7 +804,7 @@ https://bl.rutube.ru/livestream/91815da4edb167b5bd617bae490e57da/index.m3u8?s=fX
 https://ucdn.beetv.kz/bpk-tv/000001880/tve/index.m3u8
 #EXTINF:-1 tvg-id="2na2" tvg-name="2x2" tvg-logo="http://epg.one/img/323.png" group-title="Познавательные", 2x2
 #EXTGRP:Познавательные
-http://194.152.35.17/2x2/index.m3u8
+http://185.23.80.23:8080/2x2/index.m3u8
 #EXTINF:-1 tvg-id="2na2" tvg-name="2x2" tvg-logo="http://epg.one/img/323.png" group-title="Познавательные", 2x2 HD
 #EXTGRP:Познавательные
 https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?s=ZBpjlEhdXYWSfKfKizUGSg&e=2074209217&scheme=https
@@ -1008,7 +1008,7 @@ https://ucdn.beetv.kz/bpk-tv/000000049/tve/index.m3u8
 https://stream1.cinerama.uz/1406/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="karusel" tvg-name="Карусель" tvg-logo="http://epg.one/img/740.png" group-title="Детские", Карусель
 #EXTGRP:Детские
-http://194.152.35.17/Karusel/index.m3u8
+https://stream.smotrim.ru/hls2/karusel/playlist_3.m3u8
 #EXTINF:-1 tvg-id="karusel-int" tvg-name="Карусель International" tvg-logo="https://iptvx.one/picons/karusel.png" group-title="Детские", Карусель International
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000000781/tve/index.m3u8
@@ -1023,7 +1023,7 @@ https://ucdn.beetv.kz/bpk-tv/000008003/tve/index.m3u8
 http://flussonic.linkintel.ru/mama/index.m3u8
 #EXTINF:-1 tvg-id="mult" tvg-name="Мульт" tvg-logo="http://epg.one/img/1332.png" group-title="Детские", Мульт
 #EXTGRP:Детские
-http://194.152.35.17/Mult/index.m3u8
+http://185.46.16.239:8000/Mir_24
 #EXTINF:-1 tvg-id="multimania" tvg-name="Мультиландия" tvg-logo="http://epg.one/img/2757.png" group-title="Детские", Мультиландия
 #EXTGRP:Детские
 http://217.11.177.55/streams/media/multilandiya_720x576/index.m3u8
@@ -1152,7 +1152,7 @@ https://ucdn.beetv.kz/bpk-tv/000002943/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000003392/tve/index.m3u8
 #EXTINF:-1 tvg-id="evrokino" tvg-name="Еврокино" tvg-logo="http://epg.one/img/352.png" group-title="Кино", Еврокино
 #EXTGRP:Кино
-http://178.134.1.158:8081/eurokino/index.m3u8
+http://176.118.197.101/Evrokino/mono.m3u8
 #EXTINF:-1 tvg-name="Иллюзион+" tvg-logo="http://epg.one/img/2403.png" group-title="Кино", Иллюзион +
 #EXTGRP:Кино
 http://185.46.16.239:8000/Illyuzion+
@@ -1173,7 +1173,7 @@ https://kino-1.catcast.tv/content/38617/index.m3u8
 https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=rguudX-088KMchE_oKxn4g&e=2074209221&scheme=https
 #EXTINF:-1 tvg-id="kino-tv" tvg-name="Кино ТВ" tvg-logo="http://epg.one/img/1037.png" group-title="Кино", КИНО ТВ
 #EXTGRP:Кино
-http://194.152.35.17/kino-tv/index.m3u8
+http://80.245.95.243:8888/play/a01e/index.m3u8
 #EXTINF:-1 tvg-id="kinoboevik-kz" tvg-name="Кинобоевик KZ" tvg-logo="https://iptvx.one/picons/kinoboevik-kz.png" group-title="Кино", Кинобоевик KZ
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000008490/tve/index.m3u8
@@ -1786,7 +1786,7 @@ http://185.46.16.239:8000/Eurosport_1
 https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=4rfg4hzvwhuOkxvKpOgKTA&e=2074209265&scheme=https
 #EXTINF:-1 tvg-id="match-tv" tvg-name="Матч ТВ" tvg-logo="http://epg.one/img/2051.png" group-title="Спорт", Матч ТВ
 #EXTGRP:Спорт
-http://194.152.35.17/match/index.m3u8
+http://45.132.87.69:8080/match/index.m3u8
 #EXTINF:-1 tvg-id="match-tv" tvg-name="Матч ТВ HD" tvg-logo="http://epg.one/img/2051.png" group-title="Спорт", Матч ТВ HD
 #EXTGRP:Спорт
 https://bl.rutube.ru/livestream/11bbbec75a2ceb8cf446ad16813c6eec/index.m3u8?s=OPWhHjvzFdhW_V7TfzG1TQ&e=2074209261&scheme=https
