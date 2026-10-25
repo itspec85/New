@@ -1270,7 +1270,7 @@ http://176.118.197.101/Retro/mono.m3u8
 http://80.245.95.243:8888/play/age988/index.m3u8
 #EXTINF:-1 tvg-id="russky-bestseller" tvg-name="Русский бестселлер" tvg-logo="http://epg.one/img/994.png" group-title="Кино", Русский бестселлер
 #EXTGRP:Кино
-http://195.64.140.147:10075/75
+https://flussonic.mkpnet.ru/tv-ccf8c891702508a7/video.m3u8
 #EXTINF:-1 tvg-id="russky-detektiv" tvg-name="Русский детектив" tvg-logo="http://epg.one/img/1570.png" group-title="Кино", Русский детектив
 #EXTGRP:Кино
 http://195.64.140.147:10077/77
