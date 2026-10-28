@@ -75,9 +75,6 @@ https://v.qonaevtv.kz/qonaev/index.m3u8
 #EXTINF:-1 tvg-id="qostanai-kz" tvg-name="Qostanai" tvg-logo="https://avatars.mds.yandex.net/i?id=b9c5446aad6bfc54fe6b4d7495cfd38a1d94d795-5628812-images-thumbs&n=13" group-title="Казахстан", Qostanai
 #EXTGRP:Казахстан
 https://ucdn.beetv.kz/bpk-tv/000001521/tve/index.m3u8
-#EXTINF:-1 tvg-name="КСК ТВ" tvg-logo="https://avatars.mds.yandex.net/i?id=27ca1b72b765d2578935a4001eea1ed35c0ed276-9147217-images-thumbs&n=13" group-title="Казахстан", КСК ТВ
-#EXTGRP:Казахстан
-https://otv.wotom.net/ksk/stream.m3u8
 #EXTINF:-1 tvg-id="ktk-kz" tvg-name="КТК" tvg-logo="http://epg.one/img/2570.png" group-title="Казахстан", КТК
 #EXTGRP:Казахстан
 https://ucdn.beetv.kz/bpk-tv/000000672/tve/index.m3u8
@@ -1081,9 +1078,6 @@ http://5.188.159.128:8070/Cartoon_Network/index.m3u8
 #EXTINF:-1 tvg-id="cartoon-network" tvg-name="Cartoon Network" tvg-logo="http://epg.one/img/601.png" group-title="Детские", Cartoon Network
 #EXTGRP:Детские
 http://45.132.87.69:8080/cartoon_network/index.m3u8
-#EXTINF:-1 tvg-id="boomerang" tvg-name="Cartoonito" tvg-logo="http://epg.one/img/929.png" group-title="Детские", Cartoonito
-#EXTGRP:Детские
-https://ucdn.beetv.kz/bpk-tv/000000160/tve/index.m3u8
 #EXTINF:-1 tvg-name="Cartoons VHS-ка" tvg-logo="https://avatars.mds.yandex.net/i?id=479a391a47b0316ce26cc6a808cd2dd933a307d1-9147160-images-thumbs&n=13" group-title="Детские", Cartoons VHS-ка
 #EXTGRP:Детские
 http://kinowalk.hopto.org/myvhs_live
@@ -1768,7 +1762,7 @@ http://5.188.158.65:4040/IPTVPLAY10KOROLEVSTVO.tv/video.m3u8?token=lqRGka5-YwwqF
 
 #EXTINF:-1 tvg-id="belarus5" tvg-name="Беларусь 5 HD" tvg-logo="http://epg.one/img/2541.png" group-title="Спорт", Беларусь 5 HD
 #EXTGRP:Спорт
-https://edge55.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/chunklist_w654405596_b2660000_sleng.m3u8
+https://edge50.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="box-tv" tvg-name="Бокс ТВ" tvg-logo="http://epg.one/img/2285.png" group-title="Спорт", Бокс ТВ
 #EXTGRP:Спорт
 http://185.46.16.239:8000/Eurosport_1
@@ -1864,13 +1858,13 @@ http://cord-cutter.net:8080/LeeAv21/AvantL12/14197
 http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
 #EXTINF:-1 tvg-id="eurosport1" tvg-name="Eurosport 1" tvg-logo="http://epg.one/img/2052.png" group-title="Спорт", Eurosport 1
 #EXTGRP:Спорт
-http://stream.mcquack.net/176/index.m3u8
+http://5.188.159.128:8070/eurosport1/index.m3u8
 #EXTINF:-1 tvg-id="eurosport1" tvg-name="Eurosport 1 HD" tvg-logo="http://epg.one/img/2052.png" group-title="Спорт", Eurosport 1 HD
 #EXTGRP:Спорт
 https://ucdn.beetv.kz/bpk-tv/000002478/tve/index.m3u8
 #EXTINF:-1 tvg-id="eurosport2" tvg-name="Eurosport 2" tvg-logo="http://epg.one/img/4313.png" group-title="Спорт", Eurosport 2
 #EXTGRP:Спорт
-http://stream.mcquack.net/192/index.m3u8
+http://5.188.159.128:8070/eurosport2/index.m3u8
 #EXTINF:-1 tvg-id="eurosport2" tvg-name="Eurosport 2 HD" tvg-logo="http://epg.one/img/4313.png" group-title="Спорт", Eurosport 2 HD
 #EXTGRP:Спорт
 https://ucdn.beetv.kz/bpk-tv/000002479/tve/index.m3u8
