@@ -1062,7 +1062,7 @@ http://tv.mediacdn.ru/live/solntse/playlist_3000k.m3u8
 http://194.26.229.213/souzmultfilm/index.m3u8
 #EXTINF:-1 tvg-id="sts-kids-hd" tvg-name="СТС Kids HD" tvg-logo="http://epg.one/img/2481.png" group-title="Детские", СТС Kids
 #EXTGRP:Детские
-http://178.124.153.123:44400/stskids
+http://80.245.95.243:8888/play/tpi8789/index.m3u8
 #EXTINF:-1 tvg-id="malysh" tvg-name="СуперГерои" tvg-logo="http://epg.one/img/2239.png" group-title="Детские", СуперГерои
 #EXTGRP:Детские
 http://109.94.1.3:8080/132/index.m3u8
