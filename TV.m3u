@@ -573,7 +573,7 @@ http://edge2.uk.kab.tv/rtplive/kabtv-rus-medium.stream/playlist.m3u8
 http://cdn-01.bonus-tv.ru/Kaleidoskop_edge/index.m3u8
 #EXTINF:-1 tvg-id="kvn-tv" tvg-name="КВН ТВ" tvg-logo="http://epg.one/img/1700.png" group-title="Познавательные", КВН ТВ
 #EXTGRP:Познавательные
-http://radio.tvs.by:8080/KVN-TV/index.m3u8
+http://80.245.95.243:8888/play/a02t/index.m3u8
 #EXTINF:-1 tvg-id="kongresstv" tvg-name="Конгресс ТВ HD" tvg-logo="http://epg.one/img/9078.png" group-title="Познавательные", Конгресс ТВ HD
 #EXTGRP:Познавательные
 https://live-4.otcnet.ru/504/135/1080p/index.m3u8
