@@ -197,7 +197,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 http://185.46.16.239:8000/NTV
 #EXTINF:-1 tvg-id="ntv" tvg-name="НТВ HD" tvg-logo="http://epg.one/img/2001.png" group-title="Россия", НТВ HD
 #EXTGRP:Россия
-http://flussonic.linkintel.ru/ntv/index.m3u8
+https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=e7Y-JU7UbY8DOv4ZcEY11A&e=2093437414&scheme=https
 #EXTINF:-1 tvg-id="ntv-mir" tvg-name="НТВ Мир" tvg-logo="http://epg.one/img/7258.png" group-title="Россия", НТВ Мир
 #EXTGRP:Россия
 http://5.188.159.128:8070/ntvmir_TV/index.m3u8
@@ -1012,6 +1012,9 @@ http://flussonic.linkintel.ru/mama/index.m3u8
 #EXTINF:-1 tvg-id="mult" tvg-name="Мульт" tvg-logo="http://epg.one/img/1332.png" group-title="Детские", Мульт
 #EXTGRP:Детские
 http://185.46.16.239:8000/Mir_24
+#EXTINF:-1 tvg-name="Мультаташечки" tvg-logo="https://avatars.mds.yandex.net/i?id=ddda3e6f4fc17ed35b97275e05f144f881f368ee-10135049-images-thumbs&n=13" group-title="Детские", Мультаташечки
+#EXTGRP:Детские
+https://bl.rutube.ru/livestream/25a96d214a176541fba1d342ac760ee9/index.m3u8?s=xlreixIRhaDJaSYjOjrN5Q&e=2093437425&scheme=https
 #EXTINF:-1 tvg-id="multimania" tvg-name="Мультиландия" tvg-logo="http://epg.one/img/2757.png" group-title="Детские", Мультиландия
 #EXTGRP:Детские
 http://217.11.177.55/streams/media/multilandiya_720x576/index.m3u8
@@ -1496,9 +1499,15 @@ https://bl.rutube.ru/livestream/e05401be60a9cc719fa7075b6e77b86d/index.m3u8?s=Ga
 #EXTINF:-1 tvg-name="Рутюб. Дорамы" tvg-logo="https://avatars.mds.yandex.net/i?id=83126455c95d139f5f83cb2020c0976866341b69-5865917-images-thumbs&n=13" group-title="Кинозал", Рутюб. Дорамы
 #EXTGRP:Кинозал
 https://bl.rutube.ru/livestream/5e3edd063411550ed6b67a8c0d7c96ea/index.m3u8?s=NBfAGF19b_3k9ZoIH0_hYQ&e=2090758999&scheme=https
+#EXTINF:-1 tvg-name="Рутюб. Драмы" tvg-logo="https://avatars.mds.yandex.net/i?id=a193437a5b3e4015c1df08c9c22b206956dc073b-13019720-images-thumbs&n=13" group-title="Кинозал", Рутюб. Драмы
+#EXTGRP:Кинозал
+https://bl.rutube.ru/livestream/680dfe110840cf882437082b948578d6/index.m3u8?s=IHAH5fuRxCcsLv_lq_JMbA&e=2093437427&scheme=https
 #EXTINF:-1 tvg-name="Рутюб. Индийские фильмы и сериалы" tvg-logo="https://avatars.mds.yandex.net/i?id=9d3244bae411a660eb202ffd2aa78b9a48fad1d0-5383195-images-thumbs&n=13" group-title="Кинозал", Рутюб. Индийские фильмы и сериалы
 #EXTGRP:Кинозал
 https://bl.rutube.ru/livestream/8b077d20877c0cd70b5bc4a090b9f37e/index.m3u8?s=RI2wD5LgzalmaGOhziVUeA&e=2090759011&scheme=https
+#EXTINF:-1 tvg-name="Рутюб. Кино и сериалы" tvg-logo="https://avatars.mds.yandex.net/i?id=13f60529416be74cff6abd90740547dc8e4c22d8-4881188-images-thumbs&n=13" group-title="Кинозал", Рутюб. Кино и сериалы
+#EXTGRP:Кинозал
+https://bl.rutube.ru/livestream/300560a65014ec501a25b1f79df9ad90/index.m3u8?s=q0I4XmcxXAor92aJvFfRRw&e=2093437434&scheme=https
 #EXTINF:-1 tvg-name="Рутюб. Киножелезо" tvg-logo="https://avatars.mds.yandex.net/i?id=3e9d8f8283b516af5855cce121d43a4d1228fc9e-13490011-images-thumbs&n=13" group-title="Кинозал", Рутюб. Киножелезо
 #EXTGRP:Кинозал
 https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=0jJC8KRAJzL-k6C375NH3g&e=2074209219&scheme=https
@@ -1511,6 +1520,9 @@ https://bl.rutube.ru/livestream/e08e513c4e33f52fce3a975b5cb6932c/index.m3u8?s=fO
 #EXTINF:-1 tvg-name="Рутюб. Латиноамериканские фильмы и сериалы" tvg-logo="https://avatars.mds.yandex.net/i?id=a822d1094fba92d1a3819589c45741b1628a6ae0-10158687-images-thumbs&n=13" group-title="Кинозал", Рутюб. Латиноамериканские фильмы и сериалы
 #EXTGRP:Кинозал
 https://bl.rutube.ru/livestream/4d06d4d152d087f3792a5b15dc729562/index.m3u8?s=RCxONQOqlMWHt-1-q4Tudw&e=2090759011&scheme=https
+#EXTINF:-1 tvg-name="Рутюб. Лучшие комедийные фильмы" tvg-logo="https://avatars.mds.yandex.net/i?id=cd0c6d3daa4964690ff8c1cb6add009b1c2259a1-5065420-images-thumbs&n=13" group-title="Кинозал", Рутюб. Лучшие комедийные фильмы
+#EXTGRP:Кинозал
+https://bl.rutube.ru/livestream/7758ac4d77fac95e187144ee2c8b368d/index.m3u8?s=wRwgyp06Bc_4yJcWXM5U2w&e=2093437426&scheme=https
 #EXTINF:-1 tvg-name="Рутюб. Турецкие фильмы и сериалы" tvg-logo="https://avatars.mds.yandex.net/i?id=560581684d5bbe03ec73e272b2696c9bb7a11310-5175041-images-thumbs&n=13" group-title="Кинозал", Рутюб. Турецкие фильмы и сериалы
 #EXTGRP:Кинозал
 https://bl.rutube.ru/livestream/2814e12b4ef6c528967736441c2e2803/index.m3u8?s=cdtvqpalJ8XdR6HDnZ5TyA&e=2090759002&scheme=https
@@ -2015,6 +2027,9 @@ https://bl.rutube.ru/livestream/965a025e4ebbaf0957415f80c6de8534/index.m3u8?s=Z0
 #EXTINF:-1 tvg-id="la-minor" tvg-name="Музыка Live" tvg-logo="https://epg.iptvx.one/picons/la-minor.png" group-title="Музыка", Музыка Live
 #EXTGRP:Музыка
 http://80.245.95.243:8888/play/a03s/index.m3u8
+#EXTINF:-1 tvg-name="Музыкальные клипы" tvg-logo="https://epg.iptvx.one/picons/la-minor.png" group-title="Музыка", Музыкальные клипы
+#EXTGRP:Музыка
+https://bl.rutube.ru/livestream/e7e04192431a24a750fd8704fa221461/index.m3u8?s=UNKY57D7nuTncgKIq5S9Ew&e=2093437432&scheme=https
 #EXTINF:-1 tvg-id="o2tv" tvg-name="О2 ТВ" tvg-logo="http://epg.one/img/2412.png" group-title="Музыка", О2 ТВ
 #EXTGRP:Музыка
 http://77.232.131.211/O2TV/index.m3u8
