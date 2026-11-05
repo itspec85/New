@@ -1502,9 +1502,6 @@ https://bl.rutube.ru/livestream/e05401be60a9cc719fa7075b6e77b86d/index.m3u8?s=Ga
 #EXTINF:-1 tvg-name="Рутюб. Дорамы" tvg-logo="https://avatars.mds.yandex.net/i?id=83126455c95d139f5f83cb2020c0976866341b69-5865917-images-thumbs&n=13" group-title="Кинозал", Рутюб. Дорамы
 #EXTGRP:Кинозал
 https://bl.rutube.ru/livestream/5e3edd063411550ed6b67a8c0d7c96ea/index.m3u8?s=NBfAGF19b_3k9ZoIH0_hYQ&e=2090758999&scheme=https
-#EXTINF:-1 tvg-name="Рутюб. Драмы" tvg-logo="https://avatars.mds.yandex.net/i?id=a193437a5b3e4015c1df08c9c22b206956dc073b-13019720-images-thumbs&n=13" group-title="Кинозал", Рутюб. Драмы
-#EXTGRP:Кинозал
-https://bl.rutube.ru/livestream/680dfe110840cf882437082b948578d6/index.m3u8?s=IHAH5fuRxCcsLv_lq_JMbA&e=2093437427&scheme=https
 #EXTINF:-1 tvg-name="Рутюб. Индийские фильмы и сериалы" tvg-logo="https://avatars.mds.yandex.net/i?id=9d3244bae411a660eb202ffd2aa78b9a48fad1d0-5383195-images-thumbs&n=13" group-title="Кинозал", Рутюб. Индийские фильмы и сериалы
 #EXTGRP:Кинозал
 https://bl.rutube.ru/livestream/8b077d20877c0cd70b5bc4a090b9f37e/index.m3u8?s=RI2wD5LgzalmaGOhziVUeA&e=2090759011&scheme=https
@@ -1523,9 +1520,15 @@ https://bl.rutube.ru/livestream/e08e513c4e33f52fce3a975b5cb6932c/index.m3u8?s=fO
 #EXTINF:-1 tvg-name="Рутюб. Латиноамериканские фильмы и сериалы" tvg-logo="https://avatars.mds.yandex.net/i?id=a822d1094fba92d1a3819589c45741b1628a6ae0-10158687-images-thumbs&n=13" group-title="Кинозал", Рутюб. Латиноамериканские фильмы и сериалы
 #EXTGRP:Кинозал
 https://bl.rutube.ru/livestream/4d06d4d152d087f3792a5b15dc729562/index.m3u8?s=RCxONQOqlMWHt-1-q4Tudw&e=2090759011&scheme=https
+#EXTINF:-1 tvg-name="Рутюб. Лучшие драматические фильмы" tvg-logo="https://avatars.mds.yandex.net/i?id=a193437a5b3e4015c1df08c9c22b206956dc073b-13019720-images-thumbs&n=13" group-title="Кинозал", Рутюб. Лучшие драматические фильмы
+#EXTGRP:Кинозал
+https://bl.rutube.ru/livestream/680dfe110840cf882437082b948578d6/index.m3u8?s=IHAH5fuRxCcsLv_lq_JMbA&e=2093437427&scheme=https
 #EXTINF:-1 tvg-name="Рутюб. Лучшие комедийные фильмы" tvg-logo="https://avatars.mds.yandex.net/i?id=cd0c6d3daa4964690ff8c1cb6add009b1c2259a1-5065420-images-thumbs&n=13" group-title="Кинозал", Рутюб. Лучшие комедийные фильмы
 #EXTGRP:Кинозал
 https://bl.rutube.ru/livestream/7758ac4d77fac95e187144ee2c8b368d/index.m3u8?s=wRwgyp06Bc_4yJcWXM5U2w&e=2093437426&scheme=https
+#EXTINF:-1 tvg-name="Рутюб. Лучшие экшн фильмы" tvg-logo="https://cdn.creativefabrica.com/2020/09/04/Film-logo-design-Graphics-5280362-1.jpg" group-title="Кинозал", Рутюб. Лучшие экшн фильмы
+#EXTGRP:Кинозал
+https://bl.rutube.ru/livestream/1786622e52a6864eb3fd66b83733fef5/index.m3u8?s=t0dssajpgAx6jWaZj9qEDQ&e=2093739790&scheme=https
 #EXTINF:-1 tvg-name="Рутюб. Турецкие фильмы и сериалы" tvg-logo="https://avatars.mds.yandex.net/i?id=560581684d5bbe03ec73e272b2696c9bb7a11310-5175041-images-thumbs&n=13" group-title="Кинозал", Рутюб. Турецкие фильмы и сериалы
 #EXTGRP:Кинозал
 https://bl.rutube.ru/livestream/2814e12b4ef6c528967736441c2e2803/index.m3u8?s=cdtvqpalJ8XdR6HDnZ5TyA&e=2090759002&scheme=https
