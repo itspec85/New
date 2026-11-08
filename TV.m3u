@@ -248,7 +248,7 @@ http://online.video.rbc.ru/online/rbctv_1080p/index.m3u8
 http://185.46.16.239:8000/REN_TV
 #EXTINF:-1 tvg-name="Рен ТВ International" tvg-logo="https://i.postimg.cc/SsRGs7Y7/International.png" group-title="Россия", Рен ТВ International
 #EXTGRP:Россия
-http://178.134.1.158:8081/RENTV/index.m3u8
+https://ucdn.beetv.kz/bpk-tv/000002472/tve/index.m3u8
 #EXTINF:-1 tvg-id="rossia1" tvg-name="Россия 1" tvg-logo="http://epg.one/img/711.png" group-title="Россия", Россия 1
 #EXTGRP:Россия
 http://185.46.16.239:8000/Rossiya_1
