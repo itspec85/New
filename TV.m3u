@@ -1200,10 +1200,10 @@ https://ucdn.beetv.kz/bpk-tv/000005450/tve/index.m3u8
 http://176.118.197.101/Kinoseria/mono.m3u8
 #EXTINF:-1 tvg-id="kinouzhas" tvg-name="Киноужас" tvg-logo="http://epg.one/img/2493.png" group-title="Кино", Киноужас
 #EXTGRP:Кино
-http://195.64.140.147:10043/43
+https://fs.uplink.kz/kinouzhas/mono.m3u8?token=onlinetv2
 #EXTINF:-1 tvg-id="kinoxit" tvg-name="Кинохит" tvg-logo="http://epg.one/img/542.png" group-title="Кино", КИНОХИТ
 #EXTGRP:Кино
-http://195.64.140.147:10046/46
+https://fs.uplink.kz/kinohit/mono.m3u8?token=onlinetv2
 #EXTINF:-1 tvg-id="klassika-kino" tvg-name="Классика Кино" tvg-logo="https://epg.iptvx.one/picons/klassika-kino.png" group-title="Кино", Классика Кино
 #EXTGRP:Кино
 http://stitch.teletarget.ru/vintera/movieclassic/index.m3u8
@@ -1236,7 +1236,8 @@ http://185.121.1.163:8083/NasheNovoeKino/index.m3u8
 http://176.118.197.101/HCT/mono.m3u8
 #EXTINF:-1 tvg-id="ntv-serial" tvg-name="НТВ Сериал" tvg-logo="http://epg.one/img/1754.png" group-title="Кино", НТВ Сериал
 #EXTGRP:Кино
-http://195.64.140.147:10073/73
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://cdn.ntv.ru/th_serial/mono.m3u8
 #EXTINF:-1 tvg-id="ntv-xit" tvg-name="НТВ Хит" tvg-logo="http://epg.one/img/2041.png" group-title="Кино", НТВ Хит HD
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
@@ -1258,7 +1259,7 @@ http://176.118.197.101/RodnoeKino/index.m3u8
 https://flussonic.mkpnet.ru/tv-ccf8c891702508a7/video.m3u8
 #EXTINF:-1 tvg-id="russky-detektiv" tvg-name="Русский детектив" tvg-logo="http://epg.one/img/1570.png" group-title="Кино", Русский детектив
 #EXTGRP:Кино
-http://195.64.140.147:10077/77
+http://flussonic.mkpnet.ru/tv-2997fed720614567/video.m3u8
 #EXTINF:-1 tvg-id="russky-illuzion" tvg-name="Русский иллюзион" tvg-logo="http://epg.one/img/53.png" group-title="Кино", Русский Иллюзион
 #EXTGRP:Кино
 http://185.46.16.239:8000/Russkiy_Illyuzion
@@ -1321,7 +1322,7 @@ http://stream.mcquack.net/260/tracks-v1a1/mono.ts.m3u8
 http://stream.mcquack.net/259/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="amedia1" tvg-name="Amedia 1" tvg-logo="http://epg.one/img/1371.png" group-title="Кино", Amedia 1
 #EXTGRP:Кино
-http://195.64.140.147:10059/59
+https://fs.uplink.kz/amedia_1/mono.m3u8?token=onlinetv2
 #EXTINF:-1 tvg-id="amedia2" tvg-name="Amedia 2" tvg-logo="http://epg.one/img/2492.png" group-title="Кино", Amedia 2
 #EXTGRP:Кино
 http://flussonic.mkpnet.ru/tv-cad19a32f4a82824/video.m3u8
@@ -1340,9 +1341,6 @@ http://stream.mcquack.net/73/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="cinema-ru" tvg-name="Cinema HD" tvg-logo="http://epg.one/img/2754.png" group-title="Кино", Cinema
 #EXTGRP:Кино
 http://flussonic.linkintel.ru/cinema/index.m3u8
-#EXTINF:-1 tvg-id="cinema-ru" tvg-name="Cinema HD" tvg-logo="http://epg.one/img/2754.png" group-title="Кино", Cinema HD
-#EXTGRP:Кино
-http://195.64.140.147:10055/55
 #EXTINF:-1 tvg-name="Epic Love" tvg-logo="https://avatars.mds.yandex.net/i?id=6a5b5ca9b0b5ceffc30e756b6b29bb114210023b-9652646-images-thumbs&n=13" group-title="Кино", Epic Love
 #EXTGRP:Кино
 https://bl.rutube.ru/livestream/21f3993ed8291b70208aa06c982c731f/index.m3u8?s=q43CHXfM9SRjuCkuGaoydQ&e=2085488597&scheme=https
@@ -1912,7 +1910,7 @@ http://5.188.159.128:8070/megogo_sport/tracks-v1a1/mono.m3u8
 https://aegis-cloudfront-1.tubi.video/36ef2f9d-7100-4c4d-b41a-dbf41ab7e461/playlist.m3u8
 #EXTINF:-1 tvg-id="m1global" tvg-name="MMA-TV.com" tvg-logo="http://epg.one/img/2326.png" group-title="Спорт", MMA-TV.com
 #EXTGRP:Спорт
-http://195.64.140.147:10110/110
+https://fs.uplink.kz/mma/mono.m3u8?token=onlinetv2
 #EXTINF:-1 tvg-id="nba-tv" tvg-name="NBA TV HD US" tvg-logo="http://epg.one/img/4587.png" group-title="Спорт", NBA TV HD US
 #EXTGRP:Спорт
 https://bl.rutube.ru/livestream/d01241e9fd2bc2d65dbf6d74cca02f89/index.m3u8?s=tosWxEeYUB0mx8rAHJ_Pqg&e=2074209262&scheme=https
@@ -2011,7 +2009,7 @@ http://911play.ru:3456/live/VostokSite/cdnVostaoc911tv123456/489.m3u8
 https://bl.rutube.ru/livestream/c93be53cba8a4ba6ac311b395a00f4d5/index.m3u8?s=h-fppD9WZKbcD0ZIZls2sg&e=2074209252&scheme=https
 #EXTINF:-1 tvg-id="zhara" tvg-name="Жара" tvg-logo="http://epg.one/img/165.png" group-title="Музыка", ЖАРА
 #EXTGRP:Музыка
-http://195.64.140.147:10202/202
+http://flussonic.mkpnet.ru/tv-3cdc33d3606ba23f/video.m3u8
 #EXTINF:-1 tvg-id="muztv" tvg-name="Муз-ТВ" tvg-logo="http://epg.one/img/897.png" group-title="Музыка", МУЗ-ТВ
 #EXTGRP:Музыка
 http://185.46.16.239:8000/Muz_TV
