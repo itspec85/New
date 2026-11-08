@@ -338,7 +338,7 @@ http://176.118.197.101/Che/index.m3u8
 https://bl.rutube.ru/livestream/5bbff90167d1b1d88fda92376ec7a651/index.m3u8?s=KhkVE-jTrXLg-IMurO0eqg&e=2087864587&scheme=https
 #EXTINF:-1 tvg-id="yu" tvg-name="Ю" tvg-logo="http://epg.one/img/898.png" group-title="Россия", Ю
 #EXTGRP:Россия
-http://178.134.1.158:8081/U/index.m3u8
+http://flussonic.mkpnet.ru/tv-3b21847ece4b1c19/video.m3u8
 #EXTINF:-1 tvg-id="yu" tvg-name="Ю" tvg-logo="http://epg.one/img/898.png" group-title="Россия", Ю HD
 #EXTGRP:Россия
 https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?s=7PFV3wq6oYYpWGA5Z3go2Q&e=2074209217&scheme=https
