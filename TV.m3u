@@ -332,7 +332,7 @@ https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=fD
 https://ucdn.beetv.kz/bpk-tv/000002926/tve/index.m3u8
 #EXTINF:-1 tvg-id="che" tvg-name="Че" tvg-logo="http://epg.one/img/1598.png" group-title="Россия", Че
 #EXTGRP:Россия
-http://176.118.197.101/Che/index.m3u8
+http://flussonic.mkpnet.ru/tv-cf5a26a180f402ef/video.m3u8
 #EXTINF:-1 tvg-id="che" tvg-name="Че" tvg-logo="http://epg.one/img/1598.png" group-title="Россия", Че HD
 #EXTGRP:Россия
 https://bl.rutube.ru/livestream/5bbff90167d1b1d88fda92376ec7a651/index.m3u8?s=KhkVE-jTrXLg-IMurO0eqg&e=2087864587&scheme=https
@@ -1197,7 +1197,7 @@ http://185.121.1.163:8083/Kinosemya/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000005450/tve/index.m3u8
 #EXTINF:-1 tvg-id="kinoseria" tvg-name="Киносерия" tvg-logo="http://epg.one/img/799.png" group-title="Кино", КИНОСЕРИЯ
 #EXTGRP:Кино
-http://176.118.197.101/Kinoseria/mono.m3u8
+https://fs.uplink.kz/kinoseria/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="kinouzhas" tvg-name="Киноужас" tvg-logo="http://epg.one/img/2493.png" group-title="Кино", Киноужас
 #EXTGRP:Кино
 https://fs.uplink.kz/kinouzhas/mono.m3u8?token=onlinetv2
@@ -1233,7 +1233,7 @@ http://46.53.200.153:7777/play/SRT_Nash_kinopokaz/index.m3u8
 http://185.121.1.163:8083/NasheNovoeKino/index.m3u8
 #EXTINF:-1 tvg-id="nst" tvg-name="НСТ" tvg-logo="http://epg.one/img/518.png" group-title="Кино", НСТ
 #EXTGRP:Кино
-http://176.118.197.101/HCT/mono.m3u8
+http://178.134.1.158:8081/nst/index.m3u8
 #EXTINF:-1 tvg-id="ntv-serial" tvg-name="НТВ Сериал" tvg-logo="http://epg.one/img/1754.png" group-title="Кино", НТВ Сериал
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
@@ -1253,7 +1253,7 @@ https://ucdn.beetv.kz/bpk-tv/000008491/tve/index.m3u8
 http://176.118.197.101/Retro/mono.m3u8
 #EXTINF:-1 tvg-id="rodnoe-kino" tvg-name="Родное кино" tvg-logo="http://epg.one/img/12.png" group-title="Кино", РОДНОЕ КИНО
 #EXTGRP:Кино
-http://176.118.197.101/RodnoeKino/index.m3u8
+http://s1.merlive.am/rodnoekino/index.m3u8
 #EXTINF:-1 tvg-id="russky-bestseller" tvg-name="Русский бестселлер" tvg-logo="http://epg.one/img/994.png" group-title="Кино", Русский бестселлер
 #EXTGRP:Кино
 https://flussonic.mkpnet.ru/tv-ccf8c891702508a7/video.m3u8
@@ -1334,7 +1334,7 @@ https://flussonic.mkpnet.ru/tv-8f04998179283ee5/video.m3u8
 http://stream.mcquack.net/151/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="bollywood-hd" tvg-name="Bollywood HD" tvg-logo="http://epg.one/img/1395.png" group-title="Кино", Bollywood HD
 #EXTGRP:Кино
-http://176.118.197.101/Bollywood_HD/index.m3u8
+http://185.121.1.163:8083/Bollywood/index.m3u8
 #EXTINF:-1 tvg-id="bolt-ru" tvg-name="Bolt Россия" tvg-logo="http://epg.one/img/2138.png" group-title="Кино", Bolt Россия HD
 #EXTGRP:Кино
 http://stream.mcquack.net/73/tracks-v1a1/mono.ts.m3u8
@@ -1898,7 +1898,7 @@ https://hncfree-samsungau.amagi.tv/playlist720-p.m3u8
 https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="kxl" tvg-name="KHL" tvg-logo="http://epg.one/img/2048.png" group-title="Спорт", KHL TV Channel
 #EXTGRP:Спорт
-http://176.118.197.101/KHL/mono.m3u8
+https://fs.uplink.kz/telekanal_khl/mono.m3u8?token=onlinetv2
 #EXTINF:-1 tvg-id="kxl-hd" tvg-name="KHL Prime HD" tvg-logo="http://epg.one/img/1038.png" group-title="Спорт", KHL Prime HD
 #EXTGRP:Спорт
 http://stream.mcquack.net/178/index.m3u8
