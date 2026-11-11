@@ -1008,7 +1008,7 @@ https://bl.rutube.ru/livestream/ed497bdb28846536f3928849f8f7e469/index.m3u8?s=XM
 https://ucdn.beetv.kz/bpk-tv/000008003/tve/index.m3u8
 #EXTINF:-1 tvg-id="mama" tvg-name="Мама" tvg-logo="http://epg.one/img/618.png" group-title="Детские", Мама
 #EXTGRP:Детские
-http://flussonic.linkintel.ru/mama/index.m3u8
+https://stream1.cinerama.uz/1244/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="mult" tvg-name="Мульт" tvg-logo="http://epg.one/img/1332.png" group-title="Детские", Мульт
 #EXTGRP:Детские
 http://185.46.16.239:8000/Mir_24
@@ -1340,7 +1340,7 @@ http://185.121.1.163:8083/Bollywood/index.m3u8
 http://stream.mcquack.net/73/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="cinema-ru" tvg-name="Cinema HD" tvg-logo="http://epg.one/img/2754.png" group-title="Кино", Cinema
 #EXTGRP:Кино
-http://flussonic.linkintel.ru/cinema/index.m3u8
+http://176.118.197.101/Cinema/index.m3u8
 #EXTINF:-1 tvg-name="Epic Love" tvg-logo="https://avatars.mds.yandex.net/i?id=6a5b5ca9b0b5ceffc30e756b6b29bb114210023b-9652646-images-thumbs&n=13" group-title="Кино", Epic Love
 #EXTGRP:Кино
 https://bl.rutube.ru/livestream/21f3993ed8291b70208aa06c982c731f/index.m3u8?s=q43CHXfM9SRjuCkuGaoydQ&e=2085488597&scheme=https
