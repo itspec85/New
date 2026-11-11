@@ -793,6 +793,9 @@ https://bl.rutube.ru/livestream/91815da4edb167b5bd617bae490e57da/index.m3u8?s=fX
 #EXTINF:-1 tvg-id="centralnoye-tv" tvg-name="Центральное телевидение" tvg-logo="http://epg.one/img/2400.png" group-title="Познавательные", Центральное телевидение
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000001880/tve/index.m3u8
+#EXTINF:-1 tvg-name="Чемодан ТВ" tvg-logo="https://avatars.mds.yandex.net/i?id=76082907a55cf96b23bac81fb3eaf6ecbf4ec3a3-5592183-images-thumbs&n=13" group-title="Познавательные", Чемодан ТВ
+#EXTGRP:Познавательные
+http://stream.mcquack.net/399/index.m3u8
 #EXTINF:-1 tvg-id="2na2" tvg-name="2x2" tvg-logo="http://epg.one/img/323.png" group-title="Познавательные", 2x2
 #EXTGRP:Познавательные
 http://185.23.80.23:8080/2x2/index.m3u8
@@ -823,6 +826,9 @@ http://english-livetx.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMH
 #EXTINF:-1 tvg-id="cnn" tvg-name="CNN USA" tvg-logo="http://epg.one/img/3641.png" group-title="Познавательные", CNN USA
 #EXTGRP:Познавательные
 https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE
+#EXTINF:-1 tvg-id="continent-e" tvg-name="Continent E" tvg-logo="https://avatars.mds.yandex.net/i?id=306b37d11ec48708f867dea8a7ae56fb8c3587a3-5869035-images-thumbs&n=13" group-title="Познавательные", Continent E
+#EXTGRP:Познавательные
+http://stream.mcquack.net/449/index.m3u8
 #EXTINF:-1 tvg-id="deutsche-welle-ru" tvg-name="Deutsche Welle Russia" tvg-logo="https://avatars.mds.yandex.net/i?id=dda236ab5b048258b8c49f5ceb446c5fecbcd7d3a9ea305b-13290936-images-thumbs&n=13" group-title="Познавательные", Deutsche Welle Russia
 #EXTGRP:Познавательные
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
@@ -1081,6 +1087,9 @@ http://5.188.159.128:8070/Cartoon_Network/index.m3u8
 #EXTINF:-1 tvg-id="cartoon-network" tvg-name="Cartoon Network" tvg-logo="http://epg.one/img/601.png" group-title="Детские", Cartoon Network
 #EXTGRP:Детские
 http://45.132.87.69:8080/cartoon_network/index.m3u8
+#EXTINF:-1 tvg-id="cartoons-90" tvg-name="Cartoons 90" tvg-logo="http://epg.one/img/4728.png" group-title="Детские", Cartoons 90
+#EXTGRP:Детские
+http://stream.mcquack.net/484/index.m3u8
 #EXTINF:-1 tvg-name="Cartoons VHS-ка" tvg-logo="https://avatars.mds.yandex.net/i?id=479a391a47b0316ce26cc6a808cd2dd933a307d1-9147160-images-thumbs&n=13" group-title="Детские", Cartoons VHS-ка
 #EXTGRP:Детские
 http://kinowalk.hopto.org/myvhs_live
@@ -1383,9 +1392,15 @@ http://stream.mcquack.net/395/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="kino-1-hd" tvg-name="Kino 2" tvg-logo="https://epg.iptvx.one/picons/kino-1-hd.png" group-title="Кино", Kino 2
 #EXTGRP:Кино
 http://stream.mcquack.net/465/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="Kinogrande" tvg-logo="https://avatars.mds.yandex.net/i?id=a4767156b0fc3c302c9e163b228c05573e7f00bd-4217685-images-thumbs&n=13" group-title="Кино", Kinogrande
+#EXTGRP:Кино
+http://stream.mcquack.net/456/index.m3u8
 #EXTINF:-1 tvg-id="kinoliving" tvg-name="KinoLiving" tvg-logo="http://epg.one/img/9123.png" group-title="Кино", KinoLiving
 #EXTGRP:Кино
 http://stream.mcquack.net/445/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="kinosweet" tvg-name="Kinosweet" tvg-logo="http://epg.one/img/8920.png" group-title="Кино", Kinosweet HD
+#EXTGRP:Кино
+http://stream.mcquack.net/447/index.m3u8
 #EXTINF:-1 tvg-id="kinowood" tvg-name="Kinowood" tvg-logo="http://epg.one/img/8921.png" group-title="Кино", Kinowood HD
 #EXTGRP:Кино
 http://stream.mcquack.net/446/tracks-v1a1/mono.ts.m3u8
@@ -1689,22 +1704,25 @@ http://kinowalk.hopto.org/wfliq_live
 #EXTINF:-1 tvg-id="cineman" tvg-name="CineMan" tvg-logo="http://epg.one/img/4682.png" group-title="Кинозал", CineMan
 #EXTGRP:Кинозал
 http://stream.mcquack.net/349/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="cineman-katastrofy" tvg-name="Cineman Катастрофы" tvg-logo="http://epg.one/img/5585.png" group-title="Кинозал", Cineman Катастрофы
+#EXTINF:-1 tvg-id="cineman-katastrofy" tvg-name="Cineman Катастрофы" tvg-logo="http://epg.one/img/5585.png" group-title="Кинозал", CineMan Катастрофы
 #EXTGRP:Кинозал
 http://stream.mcquack.net/471/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="cineman-comedy" tvg-name="Cineman Комедия" tvg-logo="http://epg.one/img/4689.png" group-title="Кинозал", Cineman Комедия
+#EXTINF:-1 tvg-id="cineman-comedy" tvg-name="Cineman Комедия" tvg-logo="http://epg.one/img/4689.png" group-title="Кинозал", CineMan Комедия
 #EXTGRP:Кинозал
 http://stream.mcquack.net/356/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="cineman-svaty" tvg-name="Cineman Сваты" tvg-logo="http://epg.one/img/4692.png" group-title="Кинозал", Cineman Сваты
+#EXTINF:-1 tvg-id="cineman-lesnik" tvg-name="Cineman Лесник" tvg-logo="http://epg.one/img/6053.png" group-title="Кинозал", CineMan Лесник
+#EXTGRP:Кинозал
+http://stream.mcquack.net/115/index.m3u8
+#EXTINF:-1 tvg-id="cineman-svaty" tvg-name="Cineman Сваты" tvg-logo="http://epg.one/img/4692.png" group-title="Кинозал", CineMan Сваты
 #EXTGRP:Кинозал
 http://stream.mcquack.net/359/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="cineman-skorpom" tvg-name="Cineman Скорая помощь" tvg-logo="http://epg.one/img/5524.png" group-title="Кинозал", Cineman Скорая помощь
+#EXTINF:-1 tvg-id="cineman-skorpom" tvg-name="Cineman Скорая помощь" tvg-logo="http://epg.one/img/5524.png" group-title="Кинозал", CineMan Скорая помощь
 #EXTGRP:Кинозал
 http://stream.mcquack.net/475/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="cineman-uzhasy" tvg-name="Cineman Ужасы" tvg-logo="http://epg.one/img/4688.png" group-title="Кинозал", Cineman Ужасы
+#EXTINF:-1 tvg-id="cineman-uzhasy" tvg-name="Cineman Ужасы" tvg-logo="http://epg.one/img/4688.png" group-title="Кинозал", CineMan Ужасы
 #EXTGRP:Кинозал
 http://stream.mcquack.net/355/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="cineman-action" tvg-name="Cineman Action" tvg-logo="http://epg.one/img/4684.png" group-title="Кинозал", Cineman Action
+#EXTINF:-1 tvg-id="cineman-action" tvg-name="Cineman Action" tvg-logo="http://epg.one/img/4684.png" group-title="Кинозал", CineMan Action
 #EXTGRP:Кинозал
 http://stream.mcquack.net/351/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="cineman-marvel" tvg-name="CineMan Marvel" tvg-logo="http://epg.one/img/4687.png" group-title="Кинозал", CineMan Marvel
@@ -1713,16 +1731,19 @@ http://stream.mcquack.net/354/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="cineman-melodrama" tvg-name="CineMan Melodrama" tvg-logo="http://epg.one/img/4686.png" group-title="Кинозал", CineMan Melodrama
 #EXTGRP:Кинозал
 http://stream.mcquack.net/472/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="cineman-premium" tvg-name="Cineman Premium" tvg-logo="http://epg.one/img/7485.png" group-title="Кинозал", Cineman Premium
+#EXTINF:-1 tvg-id="cineman-miniseries" tvg-name="CineMan Miniseries" tvg-logo="http://epg.one/img/7150.png" group-title="Кинозал", CineMan Miniseries
+#EXTGRP:Кинозал
+http://stream.mcquack.net/122/index.m3u8
+#EXTINF:-1 tvg-id="cineman-premium" tvg-name="Cineman Premium" tvg-logo="http://epg.one/img/7485.png" group-title="Кинозал", CineMan Premium
 #EXTGRP:Кинозал
 http://stream.mcquack.net/470/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="cineman-thriller" tvg-name="Cineman Thriller" tvg-logo="http://epg.one/img/4685.png" group-title="Кинозал", Cineman Thriller
+#EXTINF:-1 tvg-id="cineman-thriller" tvg-name="Cineman Thriller" tvg-logo="http://epg.one/img/4685.png" group-title="Кинозал", CineMan Thriller
 #EXTGRP:Кинозал
 http://stream.mcquack.net/352/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="cineman-top" tvg-name="Cineman Top" tvg-logo="http://epg.one/img/4683.png" group-title="Кинозал", Cineman Top
+#EXTINF:-1 tvg-id="cineman-top" tvg-name="Cineman Top" tvg-logo="http://epg.one/img/4683.png" group-title="Кинозал", CineMan Top
 #EXTGRP:Кинозал
 http://stream.mcquack.net/350/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="cineman-vhs" tvg-name="Cineman VHS" tvg-logo="http://epg.one/img/4690.png" group-title="Кинозал", Cineman VHS
+#EXTINF:-1 tvg-id="cineman-vhs" tvg-name="Cineman VHS" tvg-logo="http://epg.one/img/4690.png" group-title="Кинозал", CineMan VHS
 #EXTGRP:Кинозал
 http://stream.mcquack.net/474/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="fresh-adventure" tvg-name="Fresh Adventure" tvg-logo="http://epg.one/img/6719.png" group-title="Кинозал", Fresh Adventure
