@@ -200,7 +200,7 @@ http://185.46.16.239:8000/NTV
 https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=e7Y-JU7UbY8DOv4ZcEY11A&e=2093437414&scheme=https
 #EXTINF:-1 tvg-id="ntv-mir" tvg-name="НТВ Мир" tvg-logo="http://epg.one/img/7258.png" group-title="Россия", НТВ Мир
 #EXTGRP:Россия
-http://5.188.159.128:8070/ntvmir_TV/index.m3u8
+https://fs.uplink.kz/ntv_mir/mono.m3u8?token=onlinetv2
 #EXTINF:-1 tvg-id="otr" tvg-name="ОТР" tvg-logo="http://epg.one/img/1000.png" group-title="Россия", ОТР
 #EXTGRP:Россия
 http://185.46.16.239:8000/OTR
@@ -278,7 +278,7 @@ http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_PLANETARTRHD720_EURO.m3u8
 http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_PLANETARTRHD720_SNG.m3u8
 #EXTINF:-1 tvg-id="sts" tvg-name="СТС" tvg-logo="http://epg.one/img/79.png" group-title="Россия", СТС
 #EXTGRP:Россия
-http://flussonic.linkintel.ru/sts/index.m3u8
+http://31.131.141.195:8000/play/2030/index.m3u8
 #EXTINF:-1 tvg-id="sts" tvg-name="СТС HD" tvg-logo="http://epg.one/img/79.png" group-title="Россия", СТС HD
 #EXTGRP:Россия
 http://stream.mcquack.net/138/index.m3u8
@@ -323,7 +323,7 @@ https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=--
 https://ucdn.beetv.kz/bpk-tv/000007833/tve/index.m3u8
 #EXTINF:-1 tvg-id="tnt4" tvg-name="ТНТ4" tvg-logo="http://epg.one/img/1649.png" group-title="Россия", ТНТ4
 #EXTGRP:Россия
-http://flussonic.linkintel.ru/tnt4/index.m3u8
+http://flussonic.mkpnet.ru/tv-5f6d3cfda1af8989/video.m3u8
 #EXTINF:-1 tvg-id="tnt4" tvg-name="ТНТ4 HD" tvg-logo="http://epg.one/img/1649.png" group-title="Россия", ТНТ4 HD
 #EXTGRP:Россия
 https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=fDLHkeQFZszOkQ36Or8vsQ&e=2074209215&scheme=https
