@@ -1273,6 +1273,9 @@ http://46.53.200.153:7777/play/SRT_Nash_kinopokaz/index.m3u8
 #EXTINF:-1 tvg-id="nashe-novoe-kino" tvg-name="Наше новое кино" tvg-logo="http://epg.one/img/485.png" group-title="Кино", Наше новое кино
 #EXTGRP:Кино
 http://185.121.1.163:8083/NasheNovoeKino/index.m3u8
+#EXTINF:-1 tvg-id="nashe-novoe-kino-int" tvg-name="Наше новое кино International" tvg-logo="http://epg.one/img/485.png" group-title="Кино", Наше новое кино International
+#EXTGRP:Кино
+https://fs.uplink.kz/nashe_novoe_kino/mono.m3u8?token=onlinetv2
 #EXTINF:-1 tvg-id="nst" tvg-name="НСТ" tvg-logo="http://epg.one/img/518.png" group-title="Кино", НСТ
 #EXTGRP:Кино
 http://178.134.1.158:8081/nst/index.m3u8
@@ -1296,6 +1299,9 @@ http://176.118.197.101/Retro/mono.m3u8
 #EXTINF:-1 tvg-id="rodnoe-kino" tvg-name="Родное кино" tvg-logo="http://epg.one/img/12.png" group-title="Кино", РОДНОЕ КИНО
 #EXTGRP:Кино
 http://s1.merlive.am/rodnoekino/index.m3u8
+#EXTINF:-1 tvg-id="rodnoe-kino-int" tvg-name="Родное кино International" tvg-logo="http://epg.one/img/12.png" group-title="Кино", Родное кино International
+#EXTGRP:Кино
+https://fs.uplink.kz/rodnoe_kino/mono.m3u8?token=onlinetv2
 #EXTINF:-1 tvg-id="russky-bestseller" tvg-name="Русский бестселлер" tvg-logo="http://epg.one/img/994.png" group-title="Кино", Русский бестселлер
 #EXTGRP:Кино
 https://flussonic.mkpnet.ru/tv-ccf8c891702508a7/video.m3u8
