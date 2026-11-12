@@ -1380,10 +1380,10 @@ https://ucdn.beetv.kz/bpk-tv/000000213/tve/index.m3u8
 #EXTINF:-1 tvg-id="sony-scifi" tvg-name=".sci-fi" tvg-logo="http://epg.one/img/516.png" group-title="Кино", .sci-fi
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000000134/tve/index.m3u8
-#EXTINF:-1 tvg-id="4ever-cinema" tvg-name="4ever Cinema" tvg-logo="http://epg.one/img/8900.png" group-title="Кино", 4ever Cinema hD
+#EXTINF:-1 tvg-id="4ever-cinema" tvg-name="4ever Cinema" tvg-logo="http://epg.one/img/8900.png" group-title="Кино", 4Ever Cinema HD
 #EXTGRP:Кино
 http://stream.mcquack.net/258/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="4ever-drama" tvg-name="4ever Drama" tvg-logo="http://epg.one/img/9149.png" group-title="Кино", 4ever Drama hD
+#EXTINF:-1 tvg-id="4ever-drama" tvg-name="4ever Drama" tvg-logo="http://epg.one/img/9149.png" group-title="Кино", 4Ever Drama HD UA
 #EXTGRP:Кино
 http://stream.mcquack.net/260/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="4ever-theater" tvg-name="4ever Theater" tvg-logo="http://epg.one/img/11864.png" group-title="Кино", 4ever Theater hD
@@ -1407,7 +1407,7 @@ http://185.121.1.163:8083/Bollywood/index.m3u8
 #EXTINF:-1 tvg-id="bolt-ru" tvg-name="Bolt Россия" tvg-logo="http://epg.one/img/2138.png" group-title="Кино", Bolt Россия HD
 #EXTGRP:Кино
 http://stream.mcquack.net/73/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="cinema-ru" tvg-name="Cinema HD" tvg-logo="http://epg.one/img/2754.png" group-title="Кино", Cinema
+#EXTINF:-1 tvg-id="cinema-ru" tvg-name="Cinema HD" tvg-logo="http://epg.one/img/2754.png" group-title="Кино", Cinema HD
 #EXTGRP:Кино
 http://176.118.197.101/Cinema/index.m3u8
 #EXTINF:-1 tvg-name="Epic Love" tvg-logo="https://avatars.mds.yandex.net/i?id=6a5b5ca9b0b5ceffc30e756b6b29bb114210023b-9652646-images-thumbs&n=13" group-title="Кино", Epic Love
@@ -1422,7 +1422,7 @@ http://stream.mcquack.net/420/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="filmua-drama" tvg-name="Film.UA Drama" tvg-logo="http://epg.one/img/8911.png" group-title="Кино", Film UA Drama
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000003028/tve/index.m3u8
-#EXTINF:-1 tvg-id="flixsnip" tvg-name="FlixSnip" tvg-logo="http://epg.one/img/774.png" group-title="Кино", FlixSnip
+#EXTINF:-1 tvg-id="flixsnip" tvg-name="FlixSnip" tvg-logo="http://epg.one/img/774.png" group-title="Кино", FlixSnip HD
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000004466/tve/index.m3u8
 #EXTINF:-1 tvg-id="fox" tvg-name="FX" tvg-logo="http://epg.one/img/1031.png" group-title="Кино", FX
