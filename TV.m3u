@@ -1153,6 +1153,9 @@ http://185.46.16.239:8000/Illyuzion+
 #EXTINF:-1 tvg-id="indiyskoe-kino" tvg-name="Индийское кино" tvg-logo="http://epg.one/img/798.png" group-title="Кино", ИНДИЙСКОЕ КИНО
 #EXTGRP:Кино
 http://188.113.190.12/329/index.m3u8
+#EXTINF:-1 tvg-id="indiyskoe-kino-int" tvg-name="Индийское кино International" tvg-logo="http://epg.one/img/798.png" group-title="Кино", Индийское кино International
+#EXTGRP:Кино
+https://fs.uplink.kz/indiyskoe_kino/mono.m3u8?token=onlinetv2
 #EXTINF:-1 tvg-id="zee-tv" tvg-name="Индия" tvg-logo="http://epg.one/img/2233.png" group-title="Кино", Индия
 #EXTGRP:Кино
 https://fs.uplink.kz/india/mono.m3u8?token=onlinetv2
@@ -1177,18 +1180,27 @@ https://ucdn.beetv.kz/bpk-tv/000005449/tve/index.m3u8
 #EXTINF:-1 tvg-id="kinokomedia" tvg-name="Кинокомедия" tvg-logo="http://epg.one/img/821.png" group-title="Кино", КИНОКОМЕДИЯ
 #EXTGRP:Кино
 http://176.118.197.101/Kinokomediya/mono.m3u8
+#EXTINF:-1 tvg-id="kinokomedia-int" tvg-name="Кинокомедия International" tvg-logo="http://epg.one/img/821.png" group-title="Кино", Кинокомедия International
+#EXTGRP:Кино
+https://fs.uplink.kz/kinokomedia/mono.m3u8?token=onlinetv2
 #EXTINF:-1 tvg-name="Киноменю" tvg-logo="https://avatars.mds.yandex.net/i?id=35f314f59887961a3f34aae4457b8f94_sr-9236689-images-thumbs&n=13" group-title="Кино", Киноменю HD
 #EXTGRP:Кино
 http://stitch.teletarget.ru/vintera/kinomenu/index.m3u8
 #EXTINF:-1 tvg-id="kinomiks" tvg-name="Киномикс" tvg-logo="http://epg.one/img/644.png" group-title="Кино", КИНОМИКС
 #EXTGRP:Кино
 http://185.121.1.163:8083/Kinomiks/index.m3u8
+#EXTINF:-1 tvg-id="kinomiks-int" tvg-name="Киномикс International" tvg-logo="http://epg.one/img/644.png" group-title="Кино", Киномикс International
+#EXTGRP:Кино
+https://fs.uplink.kz/kinomix/mono.m3u8?token=onlinetv2
 #EXTINF:-1 tvg-id="kinopokaz" tvg-name="Кинопоказ" tvg-logo="http://epg.one/img/2834.png" group-title="Кино", Кинопоказ
 #EXTGRP:Кино
 http://176.118.197.101/Kinopokaz/mono.m3u8
 #EXTINF:-1 tvg-id="kinopremiera-hd" tvg-name="Кинопремьера" tvg-logo="http://epg.one/img/566.png" group-title="Кино", Кинопремьера
 #EXTGRP:Кино
 http://185.121.1.163:8083/Kinopremyera/index.m3u8
+#EXTINF:-1 tvg-id="kinopremiera-int" tvg-name="Кинопремьера International" tvg-logo="http://epg.one/img/566.png" group-title="Кино", Кинопремьера International
+#EXTGRP:Кино
+https://fs.uplink.kz/kinopremiera_hd/mono.m3u8?token=onlinetv2
 #EXTINF:-1 tvg-id="kinosat" tvg-name="Киносат" tvg-logo="http://epg.one/img/2407.png" group-title="Кино", Киносат
 #EXTGRP:Кино
 http://185.121.1.163:8083/Kinoman/index.m3u8
@@ -1204,6 +1216,9 @@ http://stitch.teletarget.ru/vintera/movieseason/index.m3u8
 #EXTINF:-1 tvg-id="kinosemiya" tvg-name="Киносемья" tvg-logo="http://epg.one/img/987.png" group-title="Кино", КИНОСЕМЬЯ
 #EXTGRP:Кино
 http://185.121.1.163:8083/Kinosemya/index.m3u8
+#EXTINF:-1 tvg-id="kinosemia-int" tvg-name="Киносемья International" tvg-logo="http://epg.one/img/987.png" group-title="Кино", Киносемья International
+#EXTGRP:Кино
+https://fs.uplink.kz/kinosemya/mono.m3u8?token=onlinetv2
 #EXTINF:-1 tvg-id="q-kino-alem" tvg-name="Киносериал KZ" tvg-logo="https://iptvx.one/picons/q-kino-alem.png" group-title="Кино", Киносериал KZ
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000005450/tve/index.m3u8
@@ -1243,9 +1258,15 @@ https://ucdn.beetv.kz/bpk-tv/000008488/tve/index.m3u8
 #EXTINF:-1 tvg-id="mosfilm" tvg-name="Мосфильм. Золотая коллекция" tvg-logo="http://epg.one/img/3357.png" group-title="Кино", Мосфильм. Золотая коллекция
 #EXTGRP:Кино
 http://185.121.1.163:8083/Mosfilm/index.m3u8
+#EXTINF:-1 tvg-id="mosfilm-int" tvg-name="Мосфильм. Золотая коллекция Int" tvg-logo="http://epg.one/img/3357.png" group-title="Кино", Мосфильм. Золотая коллекция Int
+#EXTGRP:Кино
+https://fs.uplink.kz/mosfilm/mono.m3u8?token=onlinetv2
 #EXTINF:-1 tvg-id="muzhskoe-kino" tvg-name="Мужское кино" tvg-logo="http://epg.one/img/1584.png" group-title="Кино", МУЖСКОЕ КИНО
 #EXTGRP:Кино
 http://185.121.1.163:8083/MuzhskoeKino/index.m3u8
+#EXTINF:-1 tvg-id="muzhskoe-kino-int" tvg-name="Мужское кино International" tvg-logo="http://epg.one/img/1584.png" group-title="Кино", Мужское кино International
+#EXTGRP:Кино
+https://fs.uplink.kz/muzhskoe_kino/mono.m3u8?token=onlinetv2
 #EXTINF:-1 tvg-id="nash-kinopokaz-hd" tvg-name="Наш Кинопоказ HD" tvg-logo="http://epg.one/img/2831.png" group-title="Кино", Наш Кинопоказ HD
 #EXTGRP:Кино
 http://46.53.200.153:7777/play/SRT_Nash_kinopokaz/index.m3u8
