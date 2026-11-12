@@ -1209,11 +1209,20 @@ http://185.121.1.163:8083/Kinosemya/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000005450/tve/index.m3u8
 #EXTINF:-1 tvg-id="kinoseria" tvg-name="Киносерия" tvg-logo="http://epg.one/img/799.png" group-title="Кино", КИНОСЕРИЯ
 #EXTGRP:Кино
+http://176.118.197.101/Kinoseria/mono.m3u8
+#EXTINF:-1 tvg-id="kinoseria-int" tvg-name="Киносерия International" tvg-logo="http://epg.one/img/799.png" group-title="Кино", Киносерия International
+#EXTGRP:Кино
 https://fs.uplink.kz/kinoseria/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="kinouzhas" tvg-name="Киноужас" tvg-logo="http://epg.one/img/2493.png" group-title="Кино", Киноужас
 #EXTGRP:Кино
+http://s1.merlive.am/Kinoujas/index.m3u8
+#EXTINF:-1 tvg-id="kinouzhas-int" tvg-name="Киноужас International" tvg-logo="http://epg.one/img/2493.png" group-title="Кино", Киноужас International
+#EXTGRP:Кино
 https://fs.uplink.kz/kinouzhas/mono.m3u8?token=onlinetv2
 #EXTINF:-1 tvg-id="kinoxit" tvg-name="Кинохит" tvg-logo="http://epg.one/img/542.png" group-title="Кино", КИНОХИТ
+#EXTGRP:Кино
+http://s1.merlive.am/KinoxitHD/index.m3u8
+#EXTINF:-1 tvg-id="kinoxit-int" tvg-name="Кинохит International" tvg-logo="http://epg.one/img/542.png" group-title="Кино", Кинохит International
 #EXTGRP:Кино
 https://fs.uplink.kz/kinohit/mono.m3u8?token=onlinetv2
 #EXTINF:-1 tvg-id="klassika-kino" tvg-name="Классика Кино" tvg-logo="https://epg.iptvx.one/picons/klassika-kino.png" group-title="Кино", Классика Кино
