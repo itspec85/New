@@ -529,7 +529,7 @@ https://stream1.cinerama.uz/1426/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="drive" tvg-name="Драйв" tvg-logo="http://epg.one/img/2443.png" group-title="Познавательные", Драйв
 #EXTGRP:Познавательные
 http://185.46.16.239:8000/Drayv
-#EXTINF:-1 tvg-id="eda-hd-int" tvg-name="ЕДА Премиум" tvg-logo="http://epg.one/img/930.png" group-title="Познавательные", ЕДА Премиум
+#EXTINF:-1 tvg-id="eda-hd-int" tvg-name="Еда Премиум International" tvg-logo="http://epg.one/img/930.png" group-title="Познавательные", ЕДА Премиум
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000000588/tve/index.m3u8
 #EXTINF:-1 tvg-id="womens-magazine" tvg-name="Женский Журнал" tvg-logo="http://epg.one/img/9040.png" group-title="Познавательные", Женский Журнал
