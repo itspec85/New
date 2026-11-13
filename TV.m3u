@@ -1020,7 +1020,7 @@ http://185.46.16.239:8000/Mir_24
 https://bl.rutube.ru/livestream/25a96d214a176541fba1d342ac760ee9/index.m3u8?s=xlreixIRhaDJaSYjOjrN5Q&e=2093437425&scheme=https
 #EXTINF:-1 tvg-id="multimania" tvg-name="Мультиландия" tvg-logo="http://epg.one/img/2757.png" group-title="Детские", Мультиландия
 #EXTGRP:Детские
-http://217.11.177.55/streams/media/multilandiya_720x576/index.m3u8
+http://flussonic.mkpnet.ru/tv-89530153f25733fe/video.m3u8
 #EXTINF:-1 tvg-name="Мультимейшн" tvg-logo="https://avatars.mds.yandex.net/i?id=eb23c6faa11d804cb953398b520831db3b26e90f-8497159-images-thumbs&n=13" group-title="Детские", Мультимейшн
 #EXTGRP:Детские
 https://bl.rutube.ru/livestream/bc2933d28daf33f5a68257ebc72787cd/index.m3u8?s=LtE57DY6RDS7I_8b8y37fg&e=2088987796&scheme=https
@@ -1030,9 +1030,6 @@ http://195.64.140.147:10134/134
 #EXTINF:-1 tvg-name="Мультфильмы" tvg-logo="https://avatars.mds.yandex.net/i?id=c6393fc936d5ae863409664abf53340adc222a50-7736363-images-thumbs&n=13" group-title="Детские", Мультфильмы
 #EXTGRP:Детские
 https://bl.rutube.ru/livestream/76de13007ff82a001f786f148e9fd39a/index.m3u8?s=NBYBDC52DbN96xlOj4a7mw&e=2090758998&scheme=https
-#EXTINF:-1 tvg-name="Мультфильмы СССР" tvg-logo="https://avatars.mds.yandex.net/i?id=e793f0057d98d2c9a8bd2536740412cb7c3a2982-4444989-images-thumbs&n=13" group-title="Детские", Мультфильмы СССР
-#EXTGRP:Детские
-https://live20.bozztv.com/giatvplayout7/ushba80/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Наше аниме" tvg-logo="https://avatars.mds.yandex.net/i?id=64094fc56529aca523bcad2fc9fda43977178f6e-8230897-images-thumbs&n=13" group-title="Детские", Наше аниме
 #EXTGRP:Детские
 https://bl.rutube.ru/livestream/ec5267347fa50d03edba227906eba679/index.m3u8?s=3-7Xus3ZUM6eRf7YnVXbGg&e=2089974240&scheme=https
@@ -1080,7 +1077,7 @@ http://109.248.236.51/baby_time/video.m3u8
 https://ucdn.beetv.kz/bpk-tv/000005178/tve/index.m3u8
 #EXTINF:-1 tvg-id="cartoon-classics" tvg-name="Cartoon Classics" tvg-logo="http://epg.one/img/9183.png" group-title="Детские", Cartoon Classics
 #EXTGRP:Детские
-http://5.188.159.128:8070/Cartoon_Network/index.m3u8
+http://88.218.242.237:8001/Cartoon_Classics
 #EXTINF:-1 tvg-id="cartoon-network" tvg-name="Cartoon Network" tvg-logo="http://epg.one/img/601.png" group-title="Детские", Cartoon Network
 #EXTGRP:Детские
 http://45.132.87.69:8080/cartoon_network/index.m3u8
@@ -1092,7 +1089,7 @@ http://stream.mcquack.net/484/index.m3u8
 http://kinowalk.hopto.org/myvhs_live
 #EXTINF:-1 tvg-id="da-vinci" tvg-name="Da Vinci HD" tvg-logo="http://epg.one/img/8908.png" group-title="Детские", Da Vinci HD
 #EXTGRP:Детские
-http://s1.merlive.am/DaVinci/index.m3u8
+https://fs.uplink.kz/da_vinci/mono.m3u8?token=onlinetv2
 #EXTINF:-1 tvg-id="disney-xd" tvg-name="Disney XD [PL]" tvg-logo="http://epg.one/img/3645.png" group-title="Детские", Disney XD
 #EXTGRP:Детские
 http://kinowalk.hopto.org/disneyxd_live
