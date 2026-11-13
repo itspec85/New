@@ -1189,9 +1189,6 @@ http://stitch.teletarget.ru/vintera/kinomenu/index.m3u8
 #EXTINF:-1 tvg-id="kinomiks" tvg-name="Киномикс" tvg-logo="http://epg.one/img/644.png" group-title="Кино", КИНОМИКС
 #EXTGRP:Кино
 http://185.121.1.163:8083/Kinomiks/index.m3u8
-#EXTINF:-1 tvg-id="kinomiks" tvg-name="Киномикс" tvg-logo="http://epg.one/img/644.png" group-title="Кино", Киномикс HD
-#EXTGRP:Кино
-http://s1.merlive.am/kinomix/index.m3u8
 #EXTINF:-1 tvg-id="kinomiks-int" tvg-name="Киномикс International" tvg-logo="http://epg.one/img/644.png" group-title="Кино", Киномикс International
 #EXTGRP:Кино
 https://fs.uplink.kz/kinomix/mono.m3u8?token=onlinetv2
@@ -1201,9 +1198,6 @@ http://176.118.197.101/Kinopokaz/mono.m3u8
 #EXTINF:-1 tvg-id="kinopremiera-hd" tvg-name="Кинопремьера" tvg-logo="http://epg.one/img/566.png" group-title="Кино", Кинопремьера
 #EXTGRP:Кино
 http://185.121.1.163:8083/Kinopremyera/index.m3u8
-#EXTINF:-1 tvg-id="kinopremiera-hd" tvg-name="Кинопремьера" tvg-logo="http://epg.one/img/566.png" group-title="Кино", КИНОПРЕМЬЕРА HD
-#EXTGRP:Кино
-http://s1.merlive.am/KinopremeraHD/index.m3u8
 #EXTINF:-1 tvg-id="kinopremiera-int" tvg-name="Кинопремьера International" tvg-logo="http://epg.one/img/566.png" group-title="Кино", Кинопремьера International
 #EXTGRP:Кино
 https://fs.uplink.kz/kinopremiera_hd/mono.m3u8?token=onlinetv2
@@ -1222,9 +1216,6 @@ http://stitch.teletarget.ru/vintera/movieseason/index.m3u8
 #EXTINF:-1 tvg-id="kinosemiya" tvg-name="Киносемья" tvg-logo="http://epg.one/img/987.png" group-title="Кино", КИНОСЕМЬЯ
 #EXTGRP:Кино
 http://185.121.1.163:8083/Kinosemya/index.m3u8
-#EXTINF:-1 tvg-id="kinosemiya" tvg-name="Киносемья" tvg-logo="http://epg.one/img/987.png" group-title="Кино", Киносемья HD
-#EXTGRP:Кино
-http://195.64.140.147:10042/42
 #EXTINF:-1 tvg-id="kinosemia-int" tvg-name="Киносемья International" tvg-logo="http://epg.one/img/987.png" group-title="Кино", Киносемья International
 #EXTGRP:Кино
 https://fs.uplink.kz/kinosemya/mono.m3u8?token=onlinetv2
@@ -1234,27 +1225,18 @@ https://ucdn.beetv.kz/bpk-tv/000005450/tve/index.m3u8
 #EXTINF:-1 tvg-id="kinoseria" tvg-name="Киносерия" tvg-logo="http://epg.one/img/799.png" group-title="Кино", КИНОСЕРИЯ
 #EXTGRP:Кино
 https://stream1.cinerama.uz/1235/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="kinoseria" tvg-name="Киносерия" tvg-logo="http://epg.one/img/799.png" group-title="Кино", КИНОСЕРИЯ HD
-#EXTGRP:Кино
-http://176.118.197.101/Kinoseria/mono.m3u8
 #EXTINF:-1 tvg-id="kinoseria-int" tvg-name="Киносерия International" tvg-logo="http://epg.one/img/799.png" group-title="Кино", Киносерия International
 #EXTGRP:Кино
 https://fs.uplink.kz/kinoseria/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="kinouzhas" tvg-name="Киноужас" tvg-logo="http://epg.one/img/2493.png" group-title="Кино", Киноужас
 #EXTGRP:Кино
 http://195.64.140.147:10043/43
-#EXTINF:-1 tvg-id="kinouzhas" tvg-name="Киноужас" tvg-logo="http://epg.one/img/2493.png" group-title="Кино", Киноужас HD
-#EXTGRP:Кино
-http://s1.merlive.am/Kinoujas/index.m3u8
 #EXTINF:-1 tvg-id="kinouzhas-int" tvg-name="Киноужас International" tvg-logo="http://epg.one/img/2493.png" group-title="Кино", Киноужас International
 #EXTGRP:Кино
 https://fs.uplink.kz/kinouzhas/mono.m3u8?token=onlinetv2
 #EXTINF:-1 tvg-id="kinoxit" tvg-name="Кинохит" tvg-logo="http://epg.one/img/542.png" group-title="Кино", КИНОХИТ
 #EXTGRP:Кино
 https://flussonic.mkpnet.ru/tv-513b9c22f4277475/video.m3u8
-#EXTINF:-1 tvg-id="kinoxit" tvg-name="Кинохит" tvg-logo="http://epg.one/img/542.png" group-title="Кино", Кинохит HD
-#EXTGRP:Кино
-http://s1.merlive.am/KinoxitHD/index.m3u8
 #EXTINF:-1 tvg-id="kinoxit-int" tvg-name="Кинохит International" tvg-logo="http://epg.one/img/542.png" group-title="Кино", Кинохит International
 #EXTGRP:Кино
 https://fs.uplink.kz/kinohit/mono.m3u8?token=onlinetv2
@@ -1282,9 +1264,6 @@ https://fs.uplink.kz/mosfilm/mono.m3u8?token=onlinetv2
 #EXTINF:-1 tvg-id="muzhskoe-kino" tvg-name="Мужское кино" tvg-logo="http://epg.one/img/1584.png" group-title="Кино", МУЖСКОЕ КИНО
 #EXTGRP:Кино
 http://185.121.1.163:8083/MuzhskoeKino/index.m3u8
-#EXTINF:-1 tvg-id="muzhskoe-kino" tvg-name="Мужское кино" tvg-logo="http://epg.one/img/1584.png" group-title="Кино", Мужское Кино HD orig
-#EXTGRP:Кино
-http://s1.merlive.am/mujskoekino/index.m3u8
 #EXTINF:-1 tvg-id="muzhskoe-kino-int" tvg-name="Мужское кино International" tvg-logo="http://epg.one/img/1584.png" group-title="Кино", Мужское кино International
 #EXTGRP:Кино
 https://fs.uplink.kz/muzhskoe_kino/mono.m3u8?token=onlinetv2
@@ -1319,7 +1298,7 @@ https://ucdn.beetv.kz/bpk-tv/000008491/tve/index.m3u8
 http://176.118.197.101/Retro/mono.m3u8
 #EXTINF:-1 tvg-id="rodnoe-kino" tvg-name="Родное кино" tvg-logo="http://epg.one/img/12.png" group-title="Кино", РОДНОЕ КИНО
 #EXTGRP:Кино
-http://s1.merlive.am/rodnoekino/index.m3u8
+http://176.118.197.101/RodnoeKino/index.m3u8
 #EXTINF:-1 tvg-id="rodnoe-kino-int" tvg-name="Родное кино International" tvg-logo="http://epg.one/img/12.png" group-title="Кино", Родное кино International
 #EXTGRP:Кино
 https://fs.uplink.kz/rodnoe_kino/mono.m3u8?token=onlinetv2
