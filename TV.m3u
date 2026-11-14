@@ -586,9 +586,6 @@ https://ucdn.beetv.kz/bpk-tv/000001377/tve/index.m3u8
 #EXTINF:-1 tvg-id="kuxnia-tv" tvg-name="Кухня ТВ" tvg-logo="http://epg.one/img/614.png" group-title="Познавательные", Кухня ТВ
 #EXTGRP:Познавательные
 https://stream1.cinerama.uz/1236/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ldpr-tv" tvg-name="ЛДПР ТВ" tvg-logo="http://epg.one/img/2465.png" group-title="Познавательные", ЛДПР ТВ
-#EXTGRP:Познавательные
-http://46.46.143.222:1935/live/mp4:ldpr.stream_480p/playlist.m3u8
 #EXTINF:-1 tvg-name="Мото Драйв" tvg-logo="https://avatars.mds.yandex.net/i?id=b0871a2e7a83f61d5ccefe8126253efee7818fc0-10807817-images-thumbs&n=13" group-title="Познавательные", Мото Драйв
 #EXTGRP:Познавательные
 http://stitch.teletarget.ru/vintera/motodrive/index.m3u8
@@ -715,18 +712,12 @@ https://ucdn.beetv.kz/bpk-tv/000002510/tve/index.m3u8
 #EXTINF:-1 tvg-id="sarafan" tvg-name="Сарафан" tvg-logo="http://epg.one/img/663.png" group-title="Познавательные", Сарафан
 #EXTGRP:Познавательные
 https://stream1.cinerama.uz/1249/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Сити Эдем - АвтоГид" tvg-logo="https://www.cityeden.info/logotv/logotip_avtogid1.png" group-title="Познавательные", Сити Эдем - АвтоГид
-#EXTGRP:Познавательные
-https://cityeden.catcast.tv/content/47515/index.m3u8?password=
 #EXTINF:-1 tvg-name="Сити Эдем - КиноДок" tvg-logo="https://www.cityeden.info/logotv/logotip_kinodok1.png" group-title="Познавательные", Сити Эдем - КиноДок
 #EXTGRP:Познавательные
 https://cityeden.catcast.tv/content/38354/index.m3u8?password=
 #EXTINF:-1 tvg-name="Сити Эдем - МедЗдрав" tvg-logo="https://www.cityeden.info/logotv/logotip_medzdrav1.png" group-title="Познавательные", Сити Эдем - МедЗдрав
 #EXTGRP:Познавательные
 https://cityeden.catcast.tv/content/47519/index.m3u8?password=
-#EXTINF:-1 tvg-name="Сити Эдем - Рецепты Гурмана" tvg-logo="https://www.cityeden.info/logotv/logotip_receptygurmana1.png" group-title="Познавательные", Сити Эдем - Рецепты Гурмана
-#EXTGRP:Познавательные
-https://cityeden.catcast.tv/content/47516/index.m3u8?password=
 #EXTINF:-1 tvg-id="smotrim-100-prazdnik" tvg-name="Смотрим 100% Праздник" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-prazdnik.png" group-title="Познавательные", Смотрим 100% Праздник
 #EXTGRP:Познавательные
 https://stream.smotrim.ru/hls3/fasttv04/playlist_3.m3u8
@@ -1859,7 +1850,7 @@ http://185.46.16.239:8000/Match_Nash_Sport
 http://31.148.5.241/Match_Football_1_HD/index.m3u8
 #EXTINF:-1 tvg-id="match-football1" tvg-name="Матч! Футбол 1 HD" tvg-logo="http://epg.one/img/2044.png" group-title="Спорт", Матч! Футбол 1 HD
 #EXTGRP:Спорт
-http://tv.ttk.mx:9114
+http://195.64.140.147:10100/100
 #EXTINF:-1 tvg-id="match-football2" tvg-name="Матч! Футбол 2" tvg-logo="http://epg.one/img/1042.png" group-title="Спорт", Матч! Футбол 2
 #EXTGRP:Спорт
 http://31.148.5.241/Match_Football_2_HD/index.m3u8
@@ -1879,9 +1870,6 @@ http://stitch.teletarget.ru/vintera/mediasport/index.m3u8
 #EXTGRP:Спорт
 http://live-3.otcnet.ru/sportivny/index.m3u8
 #EXTINF:-1 tvg-id="ufc" tvg-name="Удар" tvg-logo="http://epg.one/img/2480.png" group-title="Спорт", Удар
-#EXTGRP:Спорт
-http://5.188.159.128:8070/udar/index.m3u8
-#EXTINF:-1 tvg-id="ufc" tvg-name="Удар" tvg-logo="http://epg.one/img/2480.png" group-title="Спорт", Удар HD
 #EXTGRP:Спорт
 https://ucdn.beetv.kz/bpk-tv/000007802/tve/index.m3u8
 #EXTINF:-1 tvg-id="football-ru" tvg-name="Футбол" tvg-logo="http://epg.one/img/2782.png" group-title="Спорт", Футбол
@@ -1910,13 +1898,13 @@ http://cord-cutter.net:8080/LeeAv21/AvantL12/14197
 http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
 #EXTINF:-1 tvg-id="eurosport1" tvg-name="Eurosport 1" tvg-logo="http://epg.one/img/2052.png" group-title="Спорт", Eurosport 1
 #EXTGRP:Спорт
-http://5.188.159.128:8070/eurosport1/index.m3u8
+http://178.134.1.158:8081/eurosport/index.m3u8
 #EXTINF:-1 tvg-id="eurosport1" tvg-name="Eurosport 1 HD" tvg-logo="http://epg.one/img/2052.png" group-title="Спорт", Eurosport 1 HD
 #EXTGRP:Спорт
 https://ucdn.beetv.kz/bpk-tv/000002478/tve/index.m3u8
 #EXTINF:-1 tvg-id="eurosport2" tvg-name="Eurosport 2" tvg-logo="http://epg.one/img/4313.png" group-title="Спорт", Eurosport 2
 #EXTGRP:Спорт
-http://5.188.159.128:8070/eurosport2/index.m3u8
+http://31.148.5.241/Eurosport_2_HD/index.m3u8
 #EXTINF:-1 tvg-id="eurosport2" tvg-name="Eurosport 2 HD" tvg-logo="http://epg.one/img/4313.png" group-title="Спорт", Eurosport 2 HD
 #EXTGRP:Спорт
 https://ucdn.beetv.kz/bpk-tv/000002479/tve/index.m3u8
@@ -1941,18 +1929,12 @@ https://6f972d29.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 #EXTINF:-1 tvg-name="HORSE & COUNTRY HD SE" tvg-logo="http://epg.one/img/4850.png" group-title="Спорт", HORSE & COUNTRY HD SE
 #EXTGRP:Спорт
 https://hncfree-samsungau.amagi.tv/playlist720-p.m3u8
-#EXTINF:-1 tvg-name="Horse TV" tvg-logo="https://i.imgur.com/9lctpnP.png" group-title="Спорт", Horse TV
-#EXTGRP:Спорт
-https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="kxl" tvg-name="KHL" tvg-logo="http://epg.one/img/2048.png" group-title="Спорт", KHL TV Channel
 #EXTGRP:Спорт
 https://fs.uplink.kz/telekanal_khl/mono.m3u8?token=onlinetv2
 #EXTINF:-1 tvg-id="kxl-hd" tvg-name="KHL Prime HD" tvg-logo="http://epg.one/img/1038.png" group-title="Спорт", KHL Prime HD
 #EXTGRP:Спорт
 http://stream.mcquack.net/178/index.m3u8
-#EXTINF:-1 tvg-id="megogo-sport" tvg-name="Megogo Спорт" tvg-logo="http://epg.one/img/3654.png" group-title="Спорт", Megogo Спорт
-#EXTGRP:Спорт
-http://5.188.159.128:8070/megogo_sport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="mlb-network-us" tvg-name="MLB Network HD CA" tvg-logo="http://epg.one/img/3654.png" group-title="Спорт", MLB Network HD CA
 #EXTGRP:Спорт
 https://aegis-cloudfront-1.tubi.video/36ef2f9d-7100-4c4d-b41a-dbf41ab7e461/playlist.m3u8
@@ -2043,7 +2025,7 @@ https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-68b9f334fc12601028c5651e.m3u8
 #EXTINF:-1 tvg-name="World Poker Tour USA" tvg-logo="https://avatars.mds.yandex.net/i?id=bc2003e45785f22c83853338865075e9c9638944-9877580-images-thumbs&n=13" group-title="Спорт", World Poker Tour USA
 #EXTGRP:Спорт
 https://d2e00kr7m9coe4.cloudfront.net/scheduler/scheduleMaster/406.m3u8
-#EXTINF:-1 tvg-name="X-Stream" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00296.png" group-title="Спорт", X-Stream
+#EXTINF:-1 tvg-name="X-Stream" tvg-logo="https://avatars.mds.yandex.net/i?id=ef30c0768c4c867b34890afb227410c0_sr-5204918-images-thumbs&n=13" group-title="Спорт", X-Stream
 #EXTGRP:Спорт
 http://iptv.prosto.tv:7000/ch313/video.m3u8
 
