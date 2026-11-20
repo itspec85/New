@@ -2262,9 +2262,6 @@ http://streaming.astrakhan.ru/astrakhan24/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="atv-stavropol" tvg-name="АТВ Ставрополь" tvg-logo="http://epg.one/img/5767.png" group-title="Региональные РФ", АТВ Ставрополь
 #EXTGRP:Региональные РФ
 http://hls.atvmedia.ru/atv.m3u8
-#EXTINF:-1 tvg-id="afontovo-kr" tvg-name="Афонтово Красноярск" tvg-logo="http://epg.one/img/7879.png" group-title="Региональные РФ", Афонтово Красноярск
-#EXTGRP:Региональные РФ
-https://stream.afontovo.ru/hd.m3u8
 #EXTINF:-1 tvg-id="bars" tvg-name="Барс Иваново" tvg-logo="https://iptvx.one/picons/bars.png" group-title="Региональные РФ", Барс Иваново
 #EXTGRP:Региональные РФ
 https://bl.rutube.ru/livestream/f79ff24ad16cf5f5eb52994647596d13/index.m3u8?s=TUopaW8CoTT-LSwqNomY9A&e=2074209229&scheme=https
@@ -2328,7 +2325,7 @@ http://devyatka.iptv2022.com/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="dzenzhinsk-tv" tvg-name="Дзержинск ТВ" tvg-logo="https://avatars.mds.yandex.net/i?id=969df4578a1c507db12444d1dbf5b1e263787acc-12491508-images-thumbs&n=13" group-title="Региональные РФ", Дзержинск ТВ
 #EXTGRP:Региональные РФ
 https://v.dzertv.ru:8588/dzertv/live_yandex/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="ДимГрад 24" tvg-logo="https://avatars.mds.yandex.net/i?id=7fc19b14b710e372c6a68b608c4d4f9957162797-12475602-images-thumbs&n=13" group-title="Региональные РФ", ДимГрад 24
+#EXTINF:-1 tvg-id="dimgrad24" tvg-name="ДимГрад 24" tvg-logo="https://epg.iptvx.one/picons/dimgrad24.png" group-title="Региональные РФ", ДимГрад 24
 #EXTGRP:Региональные РФ
 http://live-3.otcnet.ru/dimgrad/index.m3u8
 #EXTINF:-1 tvg-id="don-24" tvg-name="ДОН 24" tvg-logo="http://epg.one/img/2299.png" group-title="Региональные РФ", ДОН 24
@@ -2412,9 +2409,6 @@ https://live1.1tvcrimea.ru/milletlive.m3u8
 #EXTINF:-1 tvg-id="mir-belogoria" tvg-name="Мир Белогорья" tvg-logo="http://epg.one/img/5830.png" group-title="Региональные РФ", Мир Белогорья
 #EXTGRP:Региональные РФ
 http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8
-#EXTINF:-1 tvg-name="Мой город Кушва" tvg-logo="https://avatars.mds.yandex.net/i?id=8acb0213b0cc51258e082ed9af0884fab1fac6bf-5865925-images-thumbs&n=13" group-title="Региональные РФ", Мой город Кушва
-#EXTGRP:Региональные РФ
-http://85.208.223.249:8888/play/a033
 #EXTINF:-1 tvg-id="mordovia-24" tvg-name="Мордовия 24" tvg-logo="https://iptvx.one/picons/mordovia-24.png" group-title="Региональные РФ", Мордовия 24
 #EXTGRP:Региональные РФ
 https://live-mordovia24.cdnvideo.ru/mordovia24/streamtr/playlist.m3u8
@@ -2517,9 +2511,6 @@ https://bl.rutube.ru/livestream/b7d879feefadde4e04e516dde89012cd/index.m3u8?s=26
 #EXTINF:-1 tvg-id="prima" tvg-name="Прима ТВ FHD" tvg-logo="https://cdn.epg.one/img/5818.png" group-title="Региональные РФ", Прима ТВ FHD
 #EXTGRP:Региональные РФ
 http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1920x1080@4504/playlist.m3u8
-#EXTINF:-1 tvg-id="pro-zhizn" tvg-name="Про жизнь Прокопьевск" tvg-logo="https://avatars.mds.yandex.net/i?id=09267442282b9f21ece824bc736cd0965f828a32-10160381-images-thumbs&n=13" group-title="Региональные РФ", Про жизнь Прокопьевск
-#EXTGRP:Региональные РФ
-https://27trk.iptv2022.com/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ramenskoe-tv" tvg-name="Раменское ТВ HD" tvg-logo="https://cdn.epg.one/img/6763.png" group-title="Региональные РФ", Раменское ТВ HD
 #EXTGRP:Региональные РФ
 https://e10-ll.facecast.net/rtv/0.m3u8
@@ -2574,18 +2565,12 @@ https://cloud-seym.ru/hls/seym.m3u8
 #EXTINF:-1 tvg-name="СИ ТВ Новый Уренгой" tvg-logo="https://avatars.mds.yandex.net/i?id=7984a8b1ec45cd5bf423af48e5007004_sr-5888430-images-thumbs&n=13" group-title="Региональные РФ", СИ ТВ Новый Уренгой
 #EXTGRP:Региональные РФ
 http://lifecam.sigma-ktv.ru/ctv/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="Сибай ТВ Башкортостан" tvg-logo="https://avatars.mds.yandex.net/i?id=5ae1154a749aa1154a48e8f7a103fb5ff23d0f58-8191562-images-thumbs&n=13" group-title="Региональные РФ", Сибай ТВ Башкортостан
-#EXTGRP:Региональные РФ
-http://stvserver.sibaytv.ru:10082/canals/canal1/stream.m3u8
 #EXTINF:-1 tvg-id="sibir24" tvg-name="Сибирь 24 HD" tvg-logo="https://cdn.epg.one/img/9079.png" group-title="Региональные РФ", Сибирь 24 HD
 #EXTGRP:Региональные РФ
 https://live-gtrk.smotrim.ru/vgtrk/novosibirsk/sibir24-hd/track_105_2da7a401/chunklist.m3u8
 #EXTINF:-1 tvg-name="Сок ТВ Санкт-Петербург" tvg-logo="https://avatars.mds.yandex.net/i?id=2987ee64d134d18bd8069434a1b73b7470e7ce6b-8497734-images-thumbs&n=13" group-title="Региональные РФ", Сок ТВ Санкт-Петербург
 #EXTGRP:Региональные РФ
 http://sok.ath.cx:8080/941f070df772290824bdf3906afc01f9/video.m3u8
-#EXTINF:-1 tvg-id="sochi24" tvg-name="Сочи 24 HD" tvg-logo="https://cdn.epg.one/img/2830.png" group-title="Региональные РФ", Сочи 24 HD
-#EXTGRP:Региональные РФ
-http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="sreda" tvg-name="Среда" tvg-logo="http://epg.one/img/9083.png" group-title="Региональные РФ", Среда HD
 #EXTGRP:Региональные РФ
 https://bl.rutube.ru/livestream/5fa486bf465c8735fff9f41b372610cc/index.m3u8?s=VZ49BrTsHbD13QC7g4WHLA&e=2074209232&scheme=https
@@ -2616,9 +2601,6 @@ http://air.tvk6.ru/tvk24/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="teledom" tvg-name="Теледом" tvg-logo="https://cdn.epg.one/img/2139.png" group-title="Региональные РФ", ТелеДом HD
 #EXTGRP:Региональные РФ
 https://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
-#EXTINF:-1 tvg-id="teotv" tvg-name="ТЕО ТВ HD" tvg-logo="https://cdn.epg.one/img/6783.png" group-title="Региональные РФ", ТЕО ТВ HD
-#EXTGRP:Региональные РФ
-https://stream.teotv.ru/live/site360/chunklist.m3u8
 #EXTINF:-1 tvg-id="tivisi-hd" tvg-name="ТиВиСи HD" tvg-logo="https://epg.iptvx.one/picons/tivisi-hd.png" group-title="Региональные РФ", ТиВиСи HD
 #EXTGRP:Региональные РФ
 https://zrnr369ssda.a.trbcdn.net/livemaster/rpwpuqsjap_tvstv/tracks-v1a1/mono.m3u8
@@ -2658,18 +2640,12 @@ https://stream1.cinerama.uz/1261/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tumenskoe-vremia" tvg-name="Тюменское время" tvg-logo="https://cdn.epg.one/img/4639.png" group-title="Региональные РФ", Тюменское Время
 #EXTGRP:Региональные РФ
 https://hls-sibinformburo.cdnvideo.ru/sibinformburo-srt/sibinformburo001/playlist.m3u8
-#EXTINF:-1 tvg-id="ulianovskaya-pravda" tvg-name="Ульяновская правда" tvg-logo="https://iptvx.one/picons/ulianovskaya-pravda.png" group-title="Региональные РФ", Ульяновская правда
-#EXTGRP:Региональные РФ
-http://live-3.otcnet.ru/ulpravdatv/index.m3u8
 #EXTINF:-1 tvg-id="ural24" tvg-name="Урал 24" tvg-logo="https://iptvx.one/picons/ural24.png" group-title="Региональные РФ", Урал 24
 #EXTGRP:Региональные РФ
 https://live-gtrk.smotrim.ru/vgtrk/chelyabinsk/ural24-hd/track_105_4e9e7e3b/chunklist.m3u8
 #EXTINF:-1 tvg-id="xuzur-tv" tvg-name="Хузур ТВ" tvg-logo="http://epg.one/img/2478.png" group-title="Региональные РФ", Хузур ТВ
 #EXTGRP:Региональные РФ
 http://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
-#EXTINF:-1 tvg-id="chavash-en" tvg-name="Чаваш ЕН Чебоксары" tvg-logo="https://iptvx.one/picons/chavash-en.png" group-title="Региональные РФ", Чаваш ЕН Чебоксары
-#EXTGRP:Региональные РФ
-https://mhd122.iptv2022.com/ntrk/chavashen/324/1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="schelkovo" tvg-name="Щёлково" tvg-logo="https://lime-tv.ru/wp-content/uploads/2020/10/1532276954_shelkovskoe-tv.jpg" group-title="Региональные РФ", Щёлково
 #EXTGRP:Региональные РФ
 http://stream0.tv41.ru/live.m3u8
