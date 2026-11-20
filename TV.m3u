@@ -1317,15 +1317,6 @@ https://ucdn.beetv.kz/bpk-tv/000000213/tve/index.m3u8
 #EXTINF:-1 tvg-id="sony-scifi" tvg-name=".sci-fi" tvg-logo="http://epg.one/img/516.png" group-title="Кино", .sci-fi
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000000134/tve/index.m3u8
-#EXTINF:-1 tvg-id="4ever-cinema" tvg-name="4ever Cinema" tvg-logo="http://epg.one/img/8900.png" group-title="Кино", 4Ever Cinema HD
-#EXTGRP:Кино
-http://stream.mcquack.net/258/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="4ever-drama" tvg-name="4ever Drama" tvg-logo="http://epg.one/img/9149.png" group-title="Кино", 4Ever Drama HD UA
-#EXTGRP:Кино
-http://stream.mcquack.net/260/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="4ever-theater" tvg-name="4ever Theater" tvg-logo="http://epg.one/img/11864.png" group-title="Кино", 4ever Theater hD
-#EXTGRP:Кино
-http://stream.mcquack.net/259/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="amedia1" tvg-name="Amedia 1" tvg-logo="http://epg.one/img/1371.png" group-title="Кино", Amedia 1
 #EXTGRP:Кино
 https://fs.uplink.kz/amedia_1/mono.m3u8?token=onlinetv2
@@ -1377,24 +1368,6 @@ http://stream.mcquack.net/268/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="horrortv" tvg-name="Horror TV" tvg-logo="http://epg.one/img/8792.png" group-title="Кино", Horror TV
 #EXTGRP:Кино
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/93dc292b-cbcf-4988-ab97-94feced4c14b/manifest.m3u8
-#EXTINF:-1 tvg-id="kino-1" tvg-name="Kino 1" tvg-logo="https://epg.iptvx.one/picons/kino-1.png" group-title="Кино", Kino 1
-#EXTGRP:Кино
-http://stream.mcquack.net/395/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="kino-1-hd" tvg-name="Kino 2" tvg-logo="https://epg.iptvx.one/picons/kino-1-hd.png" group-title="Кино", Kino 2
-#EXTGRP:Кино
-http://stream.mcquack.net/465/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="Kinogrande" tvg-logo="https://avatars.mds.yandex.net/i?id=a4767156b0fc3c302c9e163b228c05573e7f00bd-4217685-images-thumbs&n=13" group-title="Кино", Kinogrande
-#EXTGRP:Кино
-http://stream.mcquack.net/456/index.m3u8
-#EXTINF:-1 tvg-id="kinoliving" tvg-name="KinoLiving" tvg-logo="http://epg.one/img/9123.png" group-title="Кино", KinoLiving
-#EXTGRP:Кино
-http://stream.mcquack.net/445/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="kinosweet" tvg-name="Kinosweet" tvg-logo="http://epg.one/img/8920.png" group-title="Кино", Kinosweet HD
-#EXTGRP:Кино
-http://stream.mcquack.net/447/index.m3u8
-#EXTINF:-1 tvg-id="kinowood" tvg-name="Kinowood" tvg-logo="http://epg.one/img/8921.png" group-title="Кино", Kinowood HD
-#EXTGRP:Кино
-http://stream.mcquack.net/446/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="romance" tvg-name="Romance HD" tvg-logo="http://epg.one/img/9179.png" group-title="Кино", Romance HD
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000008780/tve/index.m3u8
