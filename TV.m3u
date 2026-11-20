@@ -1081,6 +1081,9 @@ https://hostrec.ru/live/wic2AtEFCLwsZcUkAgtZcjlYgjc.m3u8
 #EXTINF:-1 tvg-id="tiji" tvg-name="Tiji TV" tvg-logo="http://epg.one/img/555.png" group-title="Детские", Tiji TV
 #EXTGRP:Детские
 https://stream1.cinerama.uz/1441/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="TVON Kids" tvg-logo="https://avatars.mds.yandex.net/i?id=417a817c5058c46c713927b57b73df79e48343c0-12661486-images-thumbs&n=13" group-title="Детские", TVON Kids
+#EXTGRP:Детские
+http://188.208.197.173:2580/tvonkids/video.m3u8?token=or1g1nall
 
 
 
@@ -1329,6 +1332,9 @@ http://185.121.1.163:8083/Bollywood/index.m3u8
 #EXTINF:-1 tvg-id="cinema-ru" tvg-name="Cinema HD" tvg-logo="http://epg.one/img/2754.png" group-title="Кино", Cinema HD
 #EXTGRP:Кино
 http://176.118.197.101/Cinema/index.m3u8
+#EXTINF:-1 tvg-id="detectivejam" tvg-name="DetectiveJam" tvg-logo="http://epg.one/img/7901.png" group-title="Кино", DetectiveJam HD
+#EXTGRP:Кино
+http://88.218.242.237:8001/DetectiveJam_HD
 #EXTINF:-1 tvg-name="Epic Love" tvg-logo="https://avatars.mds.yandex.net/i?id=6a5b5ca9b0b5ceffc30e756b6b29bb114210023b-9652646-images-thumbs&n=13" group-title="Кино", Epic Love
 #EXTGRP:Кино
 https://bl.rutube.ru/livestream/21f3993ed8291b70208aa06c982c731f/index.m3u8?s=q43CHXfM9SRjuCkuGaoydQ&e=2085488597&scheme=https
@@ -1359,6 +1365,9 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/93
 #EXTINF:-1 tvg-id="romance" tvg-name="Romance HD" tvg-logo="http://epg.one/img/9179.png" group-title="Кино", Romance HD
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000008780/tve/index.m3u8
+#EXTINF:-1 tvg-id="scream" tvg-name="Scream HD" tvg-logo="http://epg.one/img/9179.png" group-title="Кино", Scream HD
+#EXTGRP:Кино
+http://88.218.242.237:8001/Scream_HD
 #EXTINF:-1 tvg-id="star-cinema" tvg-name="Star Cinema Россия" tvg-logo="http://epg.one/img/9162.png" group-title="Кино", Star Cinema Россия HD
 #EXTGRP:Кино
 https://dash2.antik.sk/live/test_star_cinema_atktv/playlist.m3u8
@@ -1374,6 +1383,9 @@ https://ucdn.beetv.kz/bpk-tv/000007818/tve/index.m3u8
 #EXTINF:-1 tvg-id="suspense" tvg-name="Suspense HD" tvg-logo="http://epg.one/img/9180.png" group-title="Кино", Suspense HD
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000008739/tve/index.m3u8
+#EXTINF:-1 tvg-name="TVON Action" tvg-logo="http://epg.one/img/9180.png" group-title="Кино", TVON Action
+#EXTGRP:Кино
+http://188.208.197.173:2580/tvonfilm/video.m3u8?token=or1g1nall
 #EXTINF:-1 tvg-id="tv1000" tvg-name="Viju TV1000" tvg-logo="http://epg.one/img/127.png" group-title="Кино", Viju TV1000
 #EXTGRP:Кино
 http://46.53.200.153:7777/play/TV_1000/index.m3
