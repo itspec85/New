@@ -1742,16 +1742,16 @@ http://cord-cutter.net:8080/LeeAv21/AvantL12/14197
 http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
 #EXTINF:-1 tvg-id="eurosport1" tvg-name="Eurosport 1" tvg-logo="http://epg.one/img/2052.png" group-title="Спорт", Eurosport 1
 #EXTGRP:Спорт
-http://178.134.1.158:8081/eurosport/index.m3u8
+https://ucdn.beetv.kz/bpk-tv/000002478/tve/index.m3u8
 #EXTINF:-1 tvg-id="eurosport1" tvg-name="Eurosport 1 HD" tvg-logo="http://epg.one/img/2052.png" group-title="Спорт", Eurosport 1 HD
 #EXTGRP:Спорт
-https://ucdn.beetv.kz/bpk-tv/000002478/tve/index.m3u8
+http://31.148.5.241/Eurosport_1_HD/index.m3u8
 #EXTINF:-1 tvg-id="eurosport2" tvg-name="Eurosport 2" tvg-logo="http://epg.one/img/4313.png" group-title="Спорт", Eurosport 2
 #EXTGRP:Спорт
-http://31.148.5.241/Eurosport_2_HD/index.m3u8
+https://ucdn.beetv.kz/bpk-tv/000002479/tve/index.m3u8
 #EXTINF:-1 tvg-id="eurosport2" tvg-name="Eurosport 2 HD" tvg-logo="http://epg.one/img/4313.png" group-title="Спорт", Eurosport 2 HD
 #EXTGRP:Спорт
-https://ucdn.beetv.kz/bpk-tv/000002479/tve/index.m3u8
+http://31.148.5.241/Eurosport_2_HD/index.m3u8
 #EXTINF:-1 tvg-id="extreme-sports" tvg-name="Extreme Sports" tvg-logo="http://epg.one/img/2053.png" group-title="Спорт", Extreme Sports
 #EXTGRP:Спорт
 https://flussonic.mkpnet.ru/tv-1a9441fd32d63873/video.m3u8
