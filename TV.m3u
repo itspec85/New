@@ -1003,6 +1003,9 @@ https://bl.rutube.ru/livestream/ec5267347fa50d03edba227906eba679/index.m3u8?s=3-
 #EXTINF:-1 tvg-id="o_" tvg-name="О!" tvg-logo="http://epg.one/img/1757.png" group-title="Детские", О!
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000002928/tve/index.m3u8
+#EXTINF:-1 tvg-name="Ретро Аниме" tvg-logo="https://avatars.mds.yandex.net/i?id=933aa038d6a7bd94ad2e71fd42ba511dbfa11fc1-12427807-images-thumbs&n=13" group-title="Детские", Ретро Аниме
+#EXTGRP:Детские
+https://bl.rutube.ru/livestream/5cc3ad508ccf825b275c2815ba05d2f7/index.m3u8?s=xgmmCt7T2qPa3qJyzMPHOA&e=2095122207&scheme=https
 #EXTINF:-1 tvg-id="ryzhy" tvg-name="Рыжий" tvg-logo="http://epg.one/img/2437.png" group-title="Детские", Рыжий
 #EXTGRP:Детские
 https://stream8.cinerama.uz/1407/tracks-v1a1/mono.m3u8
@@ -1482,6 +1485,24 @@ https://bl.rutube.ru/livestream/680dfe110840cf882437082b948578d6/index.m3u8?s=IH
 #EXTINF:-1 tvg-name="Рутюб. Лучшие комедийные фильмы" tvg-logo="https://avatars.mds.yandex.net/i?id=cd0c6d3daa4964690ff8c1cb6add009b1c2259a1-5065420-images-thumbs&n=13" group-title="Кинозал", Рутюб. Лучшие комедийные фильмы
 #EXTGRP:Кинозал
 https://bl.rutube.ru/livestream/7758ac4d77fac95e187144ee2c8b368d/index.m3u8?s=wRwgyp06Bc_4yJcWXM5U2w&e=2093437426&scheme=https
+#EXTINF:-1 tvg-name="Рутюб. Лучшие криминальные фильмы" tvg-logo="https://avatars.mds.yandex.net/i?id=0a7ab6674da066b711689e141d07c99c1e16d740-4550932-images-thumbs&n=13" group-title="Кинозал", Рутюб. Лучшие криминальные фильмы
+#EXTGRP:Кинозал
+https://bl.rutube.ru/livestream/87d8eb5aac1c9edae08717331f2adf3a/index.m3u8?s=tTfnxxlE-q-_7bBTHQ2bqA&e=2095122193&scheme=https
+#EXTINF:-1 tvg-name="Рутюб. Лучшие мелодрамы" tvg-logo="https://avatars.mds.yandex.net/i?id=cf8ebc9a23839f20a7ad496f9527ae65b1b2e07c-5210178-images-thumbs&n=13" group-title="Кинозал", Рутюб. Лучшие мелодрамы
+#EXTGRP:Кинозал
+https://bl.rutube.ru/livestream/73cbe695b3c624629c2ff056e38ead75/index.m3u8?s=jHHrtepsce8vemBXkk3veQ&e=2095122201&scheme=https
+#EXTINF:-1 tvg-name="Рутюб. Лучшие приключенческие фильмы" tvg-logo="https://avatars.mds.yandex.net/i?id=8fd59f1aac1db0e8d796edd3009490bb_sr-5242655-images-thumbs&n=13" group-title="Кинозал", Рутюб. Лучшие приключенческие фильмы
+#EXTGRP:Кинозал
+https://bl.rutube.ru/livestream/202d41c36b5ed9245216f5288be3a235/index.m3u8?s=7fVcolFBkGi52Z9GAi_eSw&e=2095122190&scheme=https
+#EXTINF:-1 tvg-name="Рутюб. Лучшие триллеры" tvg-logo="https://avatars.mds.yandex.net/i?id=1a24923cd5d6fe21b1ca887b2d8f0754f3935790-9831149-images-thumbs&n=13" group-title="Кинозал", Рутюб. Лучшие триллеры
+#EXTGRP:Кинозал
+https://bl.rutube.ru/livestream/f7c1387e288223779b2b53937843233a/index.m3u8?s=fc8xN2bHiYp9lk0oKATaOQ&e=2095122197&scheme=https
+#EXTINF:-1 tvg-name="Рутюб. Лучшие ужасы и хорроры" tvg-logo="https://avatars.mds.yandex.net/i?id=ea25c04614cba71de09010f5dce85a3a07a072cb-12569860-images-thumbs&n=13" group-title="Кинозал", Рутюб. Лучшие ужасы и хорроры
+#EXTGRP:Кинозал
+https://bl.rutube.ru/livestream/1e74326173960505fb60f107e132fe6f/index.m3u8?s=zLbQ6Nzhabw9hH4WtLcdJA&e=2095122198&scheme=https
+#EXTINF:-1 tvg-name="Рутюб. Лучшие фэнтези фильмы" tvg-logo="https://avatars.mds.yandex.net/i?id=1890ee072304a0fb1df0fa677fb4e77ccdf45255-11744606-images-thumbs&n=13" group-title="Кинозал", Рутюб. Лучшие фэнтези фильмы
+#EXTGRP:Кинозал
+https://bl.rutube.ru/livestream/40fce8bc38735c864c0369228a72e59b/index.m3u8?s=gr3-8UrlEiji8kCCIm-4pw&e=2095122197&scheme=https
 #EXTINF:-1 tvg-name="Рутюб. Лучшие экшн фильмы" tvg-logo="https://cdn.creativefabrica.com/2020/09/04/Film-logo-design-Graphics-5280362-1.jpg" group-title="Кинозал", Рутюб. Лучшие экшн фильмы
 #EXTGRP:Кинозал
 https://bl.rutube.ru/livestream/1786622e52a6864eb3fd66b83733fef5/index.m3u8?s=t0dssajpgAx6jWaZj9qEDQ&e=2093739790&scheme=https
