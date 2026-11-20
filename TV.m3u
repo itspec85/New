@@ -792,7 +792,7 @@ https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?s=ZB
 https://ucdn.beetv.kz/bpk-tv/000000216/tve/index.m3u8
 #EXTINF:-1 tvg-id="animal-planet-eu" tvg-name="Animal Planet HD" tvg-logo="http://epg.one/img/365.png" group-title="Познавательные", Animal Planet HD
 #EXTGRP:Познавательные
-http://stream.mcquack.net/114/tracks-v1a1/mono.ts.m3u8
+http://s7.merlive.am/animalplanet/index.m3u8
 #EXTINF:-1 tvg-id="bbc" tvg-name="BBC World News" tvg-logo="http://epg.one/img/828.png" group-title="Познавательные", BBC World News
 #EXTGRP:Познавательные
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
@@ -808,9 +808,6 @@ http://english-livetx.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMH
 #EXTINF:-1 tvg-id="cnn" tvg-name="CNN USA" tvg-logo="http://epg.one/img/3641.png" group-title="Познавательные", CNN USA
 #EXTGRP:Познавательные
 https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE
-#EXTINF:-1 tvg-id="continent-e" tvg-name="Continent E" tvg-logo="https://avatars.mds.yandex.net/i?id=306b37d11ec48708f867dea8a7ae56fb8c3587a3-5869035-images-thumbs&n=13" group-title="Познавательные", Continent E
-#EXTGRP:Познавательные
-http://stream.mcquack.net/449/index.m3u8
 #EXTINF:-1 tvg-id="deutsche-welle-ru" tvg-name="Deutsche Welle Russia" tvg-logo="https://avatars.mds.yandex.net/i?id=dda236ab5b048258b8c49f5ceb446c5fecbcd7d3a9ea305b-13290936-images-thumbs&n=13" group-title="Познавательные", Deutsche Welle Russia
 #EXTGRP:Познавательные
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
@@ -850,12 +847,9 @@ https://bl.rutube.ru/livestream/2d7fa51716500fba52586d594201777f/index.m3u8?s=5R
 #EXTINF:-1 tvg-id="h2" tvg-name="History2" tvg-logo="http://epg.one/img/2356.png" group-title="Познавательные", History2
 #EXTGRP:Познавательные
 http://95.67.12.81:10620
-#EXTINF:-1 tvg-id="insight-tv-hd" tvg-name="Insight TV HD" tvg-logo="https://epg.iptvx.one/picons/insight-tv-hd.png" group-title="Познавательные", Insight TV HD
-#EXTGRP:Познавательные
-http://stream.mcquack.net/361/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="id-xtra-eu" tvg-name="ID Xtra Европа" tvg-logo="http://epg.one/img/2507.png" group-title="Познавательные", Investigation Discovery
 #EXTGRP:Познавательные
-http://stream.mcquack.net/205/tracks-v1a1/mono.ts.m3u8
+http://195.64.140.147:10152/152
 #EXTINF:-1 tvg-id="foodman-club" tvg-name="Joy Cook" tvg-logo="https://avatars.mds.yandex.net/i?id=3be2313cf01994908be7c660e1cc280cd8a0d1ba-5334622-images-thumbs&n=13" group-title="Познавательные", Joy Cook
 #EXTGRP:Познавательные
 http://stitch.teletarget.ru/vintera/joycook/index.m3u8
@@ -876,37 +870,28 @@ http://s1.tv-nano.com/Luxury_rec/video.m3u8
 http://185.23.80.23:8080/NANO_HD/index.m3u8
 #EXTINF:-1 tvg-id="nat-geo-wild" tvg-name="Nat Geo Wild" tvg-logo="http://epg.one/img/223.png" group-title="Познавательные", Nat Geo Wild
 #EXTGRP:Познавательные
-https://ucdn.beetv.kz/bpk-tv/000004474/tve/index.m3u8
+http://stream1.cinerama.uz/1041/mono.m3u8
 #EXTINF:-1 tvg-id="nat-geo-wild" tvg-name="Nat Geo Wild HD" tvg-logo="http://epg.one/img/223.png" group-title="Познавательные", Nat Geo Wild HD
 #EXTGRP:Познавательные
-http://stream.mcquack.net/149/tracks-v1a1/mono.ts.m3u8
+https://ucdn.beetv.kz/bpk-tv/000004474/tve/index.m3u8
 #EXTINF:-1 tvg-id="national-geographic" tvg-name="National Geographic" tvg-logo="http://epg.one/img/102.png" group-title="Познавательные", National Geographic
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000000034/tve/index.m3u8
 #EXTINF:-1 tvg-id="national-geographic" tvg-name="National Geographic HD" tvg-logo="http://epg.one/img/102.png" group-title="Познавательные", National Geographic HD
 #EXTGRP:Познавательные
-http://stream.mcquack.net/116/tracks-v1a1/mono.ts.m3u8
+http://s7.merlive.am/NationalGeographic/index.m3u8
 #EXTINF:-1 tvg-name="NewsFront TV" tvg-logo="https://avatars.mds.yandex.net/i?id=438695821ac3854ef8c55ba4b6ff5cadf2dbde15-4473780-images-thumbs&n=13" group-title="Познавательные", NewsFront TV
 #EXTGRP:Познавательные
 https://tv.2kita.com/stream/index.m3u8
 #EXTINF:-1 tvg-id="ocean-tv" tvg-name="OCEAN-TV" tvg-logo="http://epg.one/img/55.png" group-title="Познавательные", OCEAN-TV
 #EXTGRP:Познавательные
 http://85.192.24.253:8080/AA2126W/video.m3u8
-#EXTINF:-1 tvg-id="one-planet" tvg-name="One Planet" tvg-logo="https://epg.iptvx.one/picons/one-planet.png" group-title="Познавательные", One Planet
-#EXTGRP:Познавательные
-http://stream.mcquack.net/448/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Pro Факт" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00301.png" group-title="Познавательные", Pro Факт
 #EXTGRP:Познавательные
 https://iptv.prosto.tv/id301/video.m3u8
 #EXTINF:-1 tvg-name="Prosto Fishing" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00532.jpg" group-title="Познавательные", Prosto Fishing
 #EXTGRP:Познавательные
 https://iptv.prosto.tv/id532/video.m3u8
-#EXTINF:-1 tvg-id="raz1" tvg-name="RAZ 1" tvg-logo="https://epg.iptvx.one/picons/raz1.png" group-title="Познавательные", RAZ 1
-#EXTGRP:Познавательные
-http://stream.mcquack.net/463/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="raz2" tvg-name="RAZ 2" tvg-logo="https://epg.iptvx.one/picons/raz2.png" group-title="Познавательные", RAZ 2
-#EXTGRP:Познавательные
-http://stream.mcquack.net/464/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="rtd-ru" tvg-name="RTД" tvg-logo="http://epg.one/img/2295.png" group-title="Познавательные", RT Док
 #EXTGRP:Познавательные
 http://rt-glb.rttv.com/dvr/rtnews/playlist_2500Kb.m3u8
@@ -936,7 +921,7 @@ https://ucdn.beetv.kz/bpk-tv/000001498/tve/index.m3u8
 https://bl.rutube.ru/livestream/7c3d1a4cc0b4dff1176aa2dbb0b90000/index.m3u8?s=TxBVz6mbvHUETLQSTnOgpA&e=2087864590&scheme=https
 #EXTINF:-1 tvg-id="travel-channel" tvg-name="Travel Channel" tvg-logo="http://epg.one/img/3696.png" group-title="Познавательные", Travel Channel HD
 #EXTGRP:Познавательные
-http://stream.mcquack.net/231/tracks-v1a1/mono.ts.m3u8
+http://195.64.140.147:10158/158
 #EXTINF:-1 tvg-id="travel-xp-hd" tvg-name="Travel XP HD" tvg-logo="http://epg.one/img/9155.png" group-title="Познавательные", TravelXP HD
 #EXTGRP:Познавательные
 http://stream.mcquack.net/451/tracks-v1a1/mono.ts.m3u8
@@ -963,7 +948,7 @@ http://flussonic.mkpnet.ru/tv-7a85ea25208f5bf7/video.m3u8
 https://ucdn.beetv.kz/bpk-tv/000006482/tve/index.m3u8
 #EXTINF:-1 tvg-id="viasat-nature-history-hd" tvg-name="viju+ Planet" tvg-logo="http://epg.one/img/2012.png" group-title="Познавательные", Viju+ Planet HD
 #EXTGRP:Познавательные
-http://stream.mcquack.net/240/index.m3u8
+http://195.64.140.147:10147/147
 #EXTINF:-1 tvg-id="world-fashion-channel" tvg-name="World Fashion Channel" tvg-logo="http://epg.one/img/2242.png" group-title="Познавательные", World Fashion Channel
 #EXTGRP:Познавательные
 http://live-3.otcnet.ru/wfcrus/index.m3u8
@@ -1066,9 +1051,6 @@ http://88.218.242.237:8001/Cartoon_Classics
 #EXTINF:-1 tvg-id="cartoon-network" tvg-name="Cartoon Network" tvg-logo="http://epg.one/img/601.png" group-title="Детские", Cartoon Network
 #EXTGRP:Детские
 http://45.132.87.69:8080/cartoon_network/index.m3u8
-#EXTINF:-1 tvg-id="cartoons-90" tvg-name="Cartoons 90" tvg-logo="http://epg.one/img/4728.png" group-title="Детские", Cartoons 90
-#EXTGRP:Детские
-http://stream.mcquack.net/484/index.m3u8
 #EXTINF:-1 tvg-name="Cartoons VHS-ка" tvg-logo="https://avatars.mds.yandex.net/i?id=479a391a47b0316ce26cc6a808cd2dd933a307d1-9147160-images-thumbs&n=13" group-title="Детские", Cartoons VHS-ка
 #EXTGRP:Детские
 http://kinowalk.hopto.org/myvhs_live
@@ -1078,21 +1060,12 @@ https://fs.uplink.kz/da_vinci/mono.m3u8?token=onlinetv2
 #EXTINF:-1 tvg-id="disney-xd" tvg-name="Disney XD [PL]" tvg-logo="http://epg.one/img/3645.png" group-title="Детские", Disney XD
 #EXTGRP:Детские
 http://kinowalk.hopto.org/disneyxd_live
-#EXTINF:-1 tvg-id="fresh-kids" tvg-name="Fresh Kids" tvg-logo="http://epg.one/img/6128.png" group-title="Детские", Fresh Kids
-#EXTGRP:Детские
-http://stream.mcquack.net/425/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="gulli-girl" tvg-name="Gulli" tvg-logo="http://epg.one/img/810.png" group-title="Детские", Gulli
 #EXTGRP:Детские
 http://stream1.cinerama.uz/1445/index.m3u8
-#EXTINF:-1 tvg-id="jimjam" tvg-name="JimJam" tvg-logo="http://epg.one/img/494.png" group-title="Детские", JimJam
-#EXTGRP:Детские
-http://stream.mcquack.net/150/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="JTX Online" tvg-logo="https://avatars.mds.yandex.net/i?id=990c233d43556f00f1c7f93bfffa9b0ba44ae70b-3693917-images-thumbs&n=13" group-title="Детские", JTX Online
 #EXTGRP:Детские
 http://kinowalk.hopto.org/jtxonline_live
-#EXTINF:-1 tvg-id="kinokazka" tvg-name="KinoKazka" tvg-logo="http://epg.one/img/9092.png" group-title="Детские", KinoKazka
-#EXTGRP:Детские
-http://stream.mcquack.net/167/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="nick-jr" tvg-name="Nick Jr" tvg-logo="http://epg.one/img/917.png" group-title="Детские", Nick Jr
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000000449/tve/index.m3u8
@@ -1713,87 +1686,6 @@ http://kinowalk.hopto.org/video_prokat_live
 #EXTINF:-1 tvg-name="Стримканал. Wfliq" tvg-logo="https://avatars.mds.yandex.net/i?id=555d891d488c5365011716af505489b85bf0170c-9044089-images-thumbs&n=13" group-title="Кинозал", Стримканал. Wfliq
 #EXTGRP:Кинозал
 http://kinowalk.hopto.org/wfliq_live
-#EXTINF:-1 tvg-id="cineman" tvg-name="CineMan" tvg-logo="http://epg.one/img/4682.png" group-title="Кинозал", CineMan
-#EXTGRP:Кинозал
-http://stream.mcquack.net/349/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="cineman-katastrofy" tvg-name="Cineman Катастрофы" tvg-logo="http://epg.one/img/5585.png" group-title="Кинозал", CineMan Катастрофы
-#EXTGRP:Кинозал
-http://stream.mcquack.net/471/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="cineman-comedy" tvg-name="Cineman Комедия" tvg-logo="http://epg.one/img/4689.png" group-title="Кинозал", CineMan Комедия
-#EXTGRP:Кинозал
-http://stream.mcquack.net/356/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="cineman-lesnik" tvg-name="Cineman Лесник" tvg-logo="http://epg.one/img/6053.png" group-title="Кинозал", CineMan Лесник
-#EXTGRP:Кинозал
-http://stream.mcquack.net/115/index.m3u8
-#EXTINF:-1 tvg-id="cineman-svaty" tvg-name="Cineman Сваты" tvg-logo="http://epg.one/img/4692.png" group-title="Кинозал", CineMan Сваты
-#EXTGRP:Кинозал
-http://stream.mcquack.net/359/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="cineman-skorpom" tvg-name="Cineman Скорая помощь" tvg-logo="http://epg.one/img/5524.png" group-title="Кинозал", CineMan Скорая помощь
-#EXTGRP:Кинозал
-http://stream.mcquack.net/475/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="cineman-uzhasy" tvg-name="Cineman Ужасы" tvg-logo="http://epg.one/img/4688.png" group-title="Кинозал", CineMan Ужасы
-#EXTGRP:Кинозал
-http://stream.mcquack.net/355/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="cineman-action" tvg-name="Cineman Action" tvg-logo="http://epg.one/img/4684.png" group-title="Кинозал", CineMan Action
-#EXTGRP:Кинозал
-http://stream.mcquack.net/351/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="cineman-marvel" tvg-name="CineMan Marvel" tvg-logo="http://epg.one/img/4687.png" group-title="Кинозал", CineMan Marvel
-#EXTGRP:Кинозал
-http://stream.mcquack.net/354/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="cineman-melodrama" tvg-name="CineMan Melodrama" tvg-logo="http://epg.one/img/4686.png" group-title="Кинозал", CineMan Melodrama
-#EXTGRP:Кинозал
-http://stream.mcquack.net/472/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="cineman-miniseries" tvg-name="CineMan Miniseries" tvg-logo="http://epg.one/img/7150.png" group-title="Кинозал", CineMan Miniseries
-#EXTGRP:Кинозал
-http://stream.mcquack.net/122/index.m3u8
-#EXTINF:-1 tvg-id="cineman-premium" tvg-name="Cineman Premium" tvg-logo="http://epg.one/img/7485.png" group-title="Кинозал", CineMan Premium
-#EXTGRP:Кинозал
-http://stream.mcquack.net/470/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="cineman-thriller" tvg-name="Cineman Thriller" tvg-logo="http://epg.one/img/4685.png" group-title="Кинозал", CineMan Thriller
-#EXTGRP:Кинозал
-http://stream.mcquack.net/352/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="cineman-top" tvg-name="Cineman Top" tvg-logo="http://epg.one/img/4683.png" group-title="Кинозал", CineMan Top
-#EXTGRP:Кинозал
-http://stream.mcquack.net/350/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="cineman-vhs" tvg-name="Cineman VHS" tvg-logo="http://epg.one/img/4690.png" group-title="Кинозал", CineMan VHS
-#EXTGRP:Кинозал
-http://stream.mcquack.net/474/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="fresh-adventure" tvg-name="Fresh Adventure" tvg-logo="http://epg.one/img/6719.png" group-title="Кинозал", Fresh Adventure
-#EXTGRP:Кинозал
-http://stream.mcquack.net/432/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="fresh-cinema" tvg-name="Fresh Cinema" tvg-logo="http://epg.one/img/6105.png" group-title="Кинозал", Fresh Cinema
-#EXTGRP:Кинозал
-http://stream.mcquack.net/423/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="fresh-comedy" tvg-name="Fresh Comedy" tvg-logo="http://epg.one/img/6711.png" group-title="Кинозал", Fresh Comedy
-#EXTGRP:Кинозал
-http://stream.mcquack.net/426/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="fresh-family" tvg-name="Fresh Family" tvg-logo="http://epg.one/img/6713.png" group-title="Кинозал", Fresh Family
-#EXTGRP:Кинозал
-http://stream.mcquack.net/427/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="fresh-fantastic" tvg-name="Fresh Fantastic" tvg-logo="http://epg.one/img/6716.png" group-title="Кинозал", Fresh Fantastic
-#EXTGRP:Кинозал
-http://stream.mcquack.net/429/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="fresh-horror" tvg-name="Fresh Horror" tvg-logo="http://epg.one/img/6718.png" group-title="Кинозал", Fresh Horror
-#EXTGRP:Кинозал
-http://stream.mcquack.net/431/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="fresh-premiere" tvg-name="Fresh Premiere" tvg-logo="http://epg.one/img/6712.png" group-title="Кинозал", Fresh Premiere
-#EXTGRP:Кинозал
-http://stream.mcquack.net/424/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="fresh-rating" tvg-name="Fresh Rating" tvg-logo="http://epg.one/img/6714.png" group-title="Кинозал", Fresh Rating
-#EXTGRP:Кинозал
-http://stream.mcquack.net/422/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="fresh-romatic" tvg-name="Fresh Romantic" tvg-logo="http://epg.one/img/6720.png" group-title="Кинозал", Fresh Romantic
-#EXTGRP:Кинозал
-http://stream.mcquack.net/433/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="fresh-series" tvg-name="Fresh Series" tvg-logo="http://epg.one/img/6717.png" group-title="Кинозал", Fresh Series
-#EXTGRP:Кинозал
-http://stream.mcquack.net/430/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="fresh-thriller" tvg-name="Fresh Thriller" tvg-logo="http://epg.one/img/6722.png" group-title="Кинозал", Fresh Thriller
-#EXTGRP:Кинозал
-http://stream.mcquack.net/434/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="fresh-thriller" tvg-name="Fresh VHS" tvg-logo="http://epg.one/img/6715.png" group-title="Кинозал", Fresh VHS
-#EXTGRP:Кинозал
-http://stream.mcquack.net/428/tracks-v1a1/mono.ts.m3u8
 
 
 
