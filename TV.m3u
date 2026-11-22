@@ -1330,7 +1330,7 @@ http://85.117.61.97:8000/play/a013/index.m3u8
 http://185.121.1.163:8083/Bollywood/index.m3u8
 #EXTINF:-1 tvg-id="cinema-ru" tvg-name="Cinema HD" tvg-logo="http://epg.one/img/2754.png" group-title="Кино", Cinema HD
 #EXTGRP:Кино
-http://176.118.197.101/Cinema/index.m3u8
+https://ucdn.beetv.kz/bpk-tv/000000239/tve/index.m3u8
 #EXTINF:-1 tvg-id="detectivejam" tvg-name="DetectiveJam" tvg-logo="http://epg.one/img/7901.png" group-title="Кино", DetectiveJam HD
 #EXTGRP:Кино
 http://88.218.242.237:8001/DetectiveJam_HD
