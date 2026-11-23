@@ -1673,6 +1673,9 @@ http://kinowalk.hopto.org/movietoper_live
 #EXTINF:-1 tvg-name="Стримканал. Play 4 Fun" tvg-logo="https://avatars.mds.yandex.net/i?id=555d891d488c5365011716af505489b85bf0170c-9044089-images-thumbs&n=13" group-title="Кинозал", Стримканал. Play 4 Fun
 #EXTGRP:Кинозал
 http://kinowalk.hopto.org/play4fun_live
+#EXTINF:-1 tvg-name="Стримканал. RE_BOOT" tvg-logo="https://avatars.mds.yandex.net/i?id=555d891d488c5365011716af505489b85bf0170c-9044089-images-thumbs&n=13" group-title="Кинозал", Стримканал. RE_BOOT
+#EXTGRP:Кинозал
+http://kinowalk.hopto.org/re_boot_live
 #EXTINF:-1 tvg-name="Стримканал. Scripach TV" tvg-logo="https://avatars.mds.yandex.net/i?id=555d891d488c5365011716af505489b85bf0170c-9044089-images-thumbs&n=13" group-title="Кинозал", Стримканал. Scripach TV
 #EXTGRP:Кинозал
 http://kinowalk.hopto.org/scripachtv_live
