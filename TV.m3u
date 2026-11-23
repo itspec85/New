@@ -999,6 +999,9 @@ http://195.64.140.147:10134/134
 #EXTINF:-1 tvg-name="Мультфильмы" tvg-logo="https://avatars.mds.yandex.net/i?id=c6393fc936d5ae863409664abf53340adc222a50-7736363-images-thumbs&n=13" group-title="Детские", Мультфильмы
 #EXTGRP:Детские
 https://bl.rutube.ru/livestream/76de13007ff82a001f786f148e9fd39a/index.m3u8?s=NBYBDC52DbN96xlOj4a7mw&e=2090758998&scheme=https
+#EXTINF:-1 tvg-name="Мультфильмы VHS" tvg-logo="https://avatars.mds.yandex.net/i?id=447493dd8a7bfcdc5e698176198b09a67d145443-4981525-images-thumbs&n=13" group-title="Детские", Мультфильмы VHS
+#EXTGRP:Детские
+http://kinowalk.hopto.org/myvhs_live
 #EXTINF:-1 tvg-name="Наше аниме" tvg-logo="https://avatars.mds.yandex.net/i?id=64094fc56529aca523bcad2fc9fda43977178f6e-8230897-images-thumbs&n=13" group-title="Детские", Наше аниме
 #EXTGRP:Детские
 https://bl.rutube.ru/livestream/ec5267347fa50d03edba227906eba679/index.m3u8?s=3-7Xus3ZUM6eRf7YnVXbGg&e=2089974240&scheme=https
@@ -1062,9 +1065,12 @@ http://kinowalk.hopto.org/myvhs_live
 #EXTINF:-1 tvg-id="da-vinci" tvg-name="Da Vinci HD" tvg-logo="http://epg.one/img/8908.png" group-title="Детские", Da Vinci HD
 #EXTGRP:Детские
 https://fs.uplink.kz/da_vinci/mono.m3u8?token=onlinetv2
-#EXTINF:-1 tvg-id="disney-xd" tvg-name="Disney XD [PL]" tvg-logo="http://epg.one/img/3645.png" group-title="Детские", Disney XD
+#EXTINF:-1 tvg-name="Disney Online" tvg-logo="https://avatars.mds.yandex.net/i?id=a0bc89886b6904601736490a6c2a3e5128206384-5617472-images-thumbs&n=13" group-title="Детские", Disney Online
 #EXTGRP:Детские
-http://kinowalk.hopto.org/disneyxd_live
+http://kinowalk.hopto.org/kanaldisneyonline_live
+#EXTINF:-1 tvg-name="FoxKids-Remastered" tvg-logo="https://avatars.mds.yandex.net/i?id=b2f58b3d821b9493e37b9aad8e744a272b566a61-4076614-images-thumbs&n=13" group-title="Детские", FoxKids-Remastered
+#EXTGRP:Детские
+http://kinowalk.hopto.org/foxkids_remastered_live
 #EXTINF:-1 tvg-id="gulli-girl" tvg-name="Gulli" tvg-logo="http://epg.one/img/810.png" group-title="Детские", Gulli
 #EXTGRP:Детские
 http://stream1.cinerama.uz/1445/index.m3u8
@@ -1580,18 +1586,24 @@ https://cityeden.catcast.tv/content/41333/index.m3u8?password=
 #EXTINF:-1 tvg-id="cityedem-telenov" tvg-name="Сити Эдем - ТелеНовелла" tvg-logo="https://www.cityeden.info/logotv/logotip_telenovella.png" group-title="Кинозал", Сити Эдем - ТелеНовелла
 #EXTGRP:Кинозал
 https://cityeden.catcast.tv/content/46209/index.m3u8?password=
+#EXTINF:-1 tvg-name="Стримканал. ВАСЬКИНЫ ЗАБАВЫ" tvg-logo="https://avatars.mds.yandex.net/i?id=555d891d488c5365011716af505489b85bf0170c-9044089-images-thumbs&n=13" group-title="Кинозал", Стримканал. ВАСЬКИНЫ ЗАБАВЫ
+#EXTGRP:Кинозал
+http://kinowalk.hopto.org/poe2proxodim_live
 #EXTINF:-1 tvg-name="Стримканал. Видеокассета VHS" tvg-logo="https://avatars.mds.yandex.net/i?id=555d891d488c5365011716af505489b85bf0170c-9044089-images-thumbs&n=13" group-title="Кинозал", Стримканал. Видеокассета VHS
 #EXTGRP:Кинозал
 http://kinowalk.hopto.org/vhs90e_live
-#EXTINF:-1 tvg-name="Стримканал. 𝕂𝔸ℂℂ𝔼𝕋𝔸" tvg-logo="https://avatars.mds.yandex.net/i?id=555d891d488c5365011716af505489b85bf0170c-9044089-images-thumbs&n=13" group-title="Кинозал", Стримканал. 𝕂𝔸ℂℂ𝔼𝕋𝔸
-#EXTGRP:Кинозал
-http://kinowalk.hopto.org/kasseta_live
-#EXTINF:-1 tvg-name="Стримканал. КиноНонСтоп" tvg-logo="https://avatars.mds.yandex.net/i?id=555d891d488c5365011716af505489b85bf0170c-9044089-images-thumbs&n=13" group-title="Кинозал", Стримканал. КиноНонСтоп
-#EXTGRP:Кинозал
-http://kinowalk.hopto.org/nonestopmovie_live
 #EXTINF:-1 tvg-name="Стримканал. Комедии 24/7" tvg-logo="https://avatars.mds.yandex.net/i?id=555d891d488c5365011716af505489b85bf0170c-9044089-images-thumbs&n=13" group-title="Кинозал", Стримканал. Комедии 24/7
 #EXTGRP:Кинозал
 http://kinowalk.hopto.org/cmexye4ku_live
+#EXTINF:-1 tvg-name="Стримканал. MилаШ" tvg-logo="https://avatars.mds.yandex.net/i?id=555d891d488c5365011716af505489b85bf0170c-9044089-images-thumbs&n=13" group-title="Кинозал", Стримканал. MилаШ
+#EXTGRP:Кинозал
+http://kinowalk.hopto.org/milah_live
+#EXTINF:-1 tvg-name="Стримканал. Мы из 90-х" tvg-logo="https://avatars.mds.yandex.net/i?id=555d891d488c5365011716af505489b85bf0170c-9044089-images-thumbs&n=13" group-title="Кинозал", Стримканал. Мы из 90-х
+#EXTGRP:Кинозал
+http://kinowalk.hopto.org/miiz90x_live
+#EXTINF:-1 tvg-name="Стримканал. Назад в СССР" tvg-logo="https://avatars.mds.yandex.net/i?id=555d891d488c5365011716af505489b85bf0170c-9044089-images-thumbs&n=13" group-title="Кинозал", Стримканал. Назад в СССР
+#EXTGRP:Кинозал
+http://kinowalk.hopto.org/backtotheussr_live
 #EXTINF:-1 tvg-name="Стримканал. Паранормальный" tvg-logo="https://avatars.mds.yandex.net/i?id=555d891d488c5365011716af505489b85bf0170c-9044089-images-thumbs&n=13" group-title="Кинозал", Стримканал. Паранормальный
 #EXTGRP:Кинозал
 http://kinowalk.hopto.org/paranormal404_live
@@ -1607,21 +1619,36 @@ http://kinowalk.hopto.org/toxa_stream_live
 #EXTINF:-1 tvg-name="Стримканал. У края бездны 24/7" tvg-logo="https://avatars.mds.yandex.net/i?id=555d891d488c5365011716af505489b85bf0170c-9044089-images-thumbs&n=13" group-title="Кинозал", Стримканал. У края бездны 24/7
 #EXTGRP:Кинозал
 http://kinowalk.hopto.org/ddator_live
+#EXTINF:-1 tvg-name="Стримканал. Фильмоскоп" tvg-logo="https://avatars.mds.yandex.net/i?id=555d891d488c5365011716af505489b85bf0170c-9044089-images-thumbs&n=13" group-title="Кинозал", Стримканал. Фильмоскоп
+#EXTGRP:Кинозал
+http://kinowalk.hopto.org/filmscope_live
+#EXTINF:-1 tvg-name="Стримканал. Фильмы сериалы трансляции" tvg-logo="https://avatars.mds.yandex.net/i?id=555d891d488c5365011716af505489b85bf0170c-9044089-images-thumbs&n=13" group-title="Кинозал", Стримканал. Фильмы сериалы трансляции
+#EXTGRP:Кинозал
+http://kinowalk.hopto.org/id582512126_live
 #EXTINF:-1 tvg-name="Стримканал. Эквилибриум" tvg-logo="https://avatars.mds.yandex.net/i?id=555d891d488c5365011716af505489b85bf0170c-9044089-images-thumbs&n=13" group-title="Кинозал", Стримканал. Эквилибриум
 #EXTGRP:Кинозал
 http://kinowalk.hopto.org/equilibrium_live
-#EXTINF:-1 tvg-name="Стримканал. Aleksey_24RUS" tvg-logo="https://avatars.mds.yandex.net/i?id=555d891d488c5365011716af505489b85bf0170c-9044089-images-thumbs&n=13" group-title="Кинозал", Стримканал. Aleksey_24RUS
+#EXTINF:-1 tvg-name="Стримканал. 1st_witch" tvg-logo="https://avatars.mds.yandex.net/i?id=555d891d488c5365011716af505489b85bf0170c-9044089-images-thumbs&n=13" group-title="Кинозал", Стримканал. 1st_witch
 #EXTGRP:Кинозал
-http://kinowalk.hopto.org/aleksey_24rus_live
+http://kinowalk.hopto.org/witch_live
 #EXTINF:-1 tvg-name="Стримканал. АPRICUS" tvg-logo="https://avatars.mds.yandex.net/i?id=555d891d488c5365011716af505489b85bf0170c-9044089-images-thumbs&n=13" group-title="Кинозал", Стримканал. АPRICUS
 #EXTGRP:Кинозал
 http://kinowalk.hopto.org/apricus_live
+#EXTINF:-1 tvg-name="Стримканал. Baragozz TV" tvg-logo="https://avatars.mds.yandex.net/i?id=555d891d488c5365011716af505489b85bf0170c-9044089-images-thumbs&n=13" group-title="Кинозал", Стримканал. Baragozz TV
+#EXTGRP:Кинозал
+http://kinowalk.hopto.org/baragozz_tv_live
 #EXTINF:-1 tvg-name="Стримканал. Blockbusters Time" tvg-logo="https://avatars.mds.yandex.net/i?id=555d891d488c5365011716af505489b85bf0170c-9044089-images-thumbs&n=13" group-title="Кинозал", Стримканал. Blockbusters Time
 #EXTGRP:Кинозал
 http://kinowalk.hopto.org/blockbusterstime_live
 #EXTINF:-1 tvg-name="Стримканал. Cinema Time" tvg-logo="https://avatars.mds.yandex.net/i?id=555d891d488c5365011716af505489b85bf0170c-9044089-images-thumbs&n=13" group-title="Кинозал", Стримканал. Cinema Time
 #EXTGRP:Кинозал
 http://kinowalk.hopto.org/cinematime_live
+#EXTINF:-1 tvg-name="Стримканал. dj Zour" tvg-logo="https://avatars.mds.yandex.net/i?id=555d891d488c5365011716af505489b85bf0170c-9044089-images-thumbs&n=13" group-title="Кинозал", Стримканал. dj Zour
+#EXTGRP:Кинозал
+http://kinowalk.hopto.org/zsmedia_live
+#EXTINF:-1 tvg-name="Стримканал. FRXNKL1N" tvg-logo="https://avatars.mds.yandex.net/i?id=555d891d488c5365011716af505489b85bf0170c-9044089-images-thumbs&n=13" group-title="Кинозал", Стримканал. FRXNKL1N
+#EXTGRP:Кинозал
+http://kinowalk.hopto.org/frxnkl1n_live
 #EXTINF:-1 tvg-name="Стримканал. Kycman" tvg-logo="https://avatars.mds.yandex.net/i?id=555d891d488c5365011716af505489b85bf0170c-9044089-images-thumbs&n=13" group-title="Кинозал", Стримканал. Kycman
 #EXTGRP:Кинозал
 http://kinowalk.hopto.org/kycman_live
@@ -1676,6 +1703,9 @@ http://kinowalk.hopto.org/topmomentlive_live
 #EXTINF:-1 tvg-name="Стримканал. VHS Forever" tvg-logo="https://avatars.mds.yandex.net/i?id=555d891d488c5365011716af505489b85bf0170c-9044089-images-thumbs&n=13" group-title="Кинозал", Стримканал. VHS Forever
 #EXTGRP:Кинозал
 http://kinowalk.hopto.org/vhs-forever_live
+#EXTINF:-1 tvg-name="Стримканал. VHS Power" tvg-logo="https://avatars.mds.yandex.net/i?id=555d891d488c5365011716af505489b85bf0170c-9044089-images-thumbs&n=13" group-title="Кинозал", Стримканал. VHS Power
+#EXTGRP:Кинозал
+http://kinowalk.hopto.org/noir_live
 #EXTINF:-1 tvg-name="Стримканал. Video Arsenal" tvg-logo="https://avatars.mds.yandex.net/i?id=555d891d488c5365011716af505489b85bf0170c-9044089-images-thumbs&n=13" group-title="Кинозал", Стримканал. Video Arsenal
 #EXTGRP:Кинозал
 http://kinowalk.hopto.org/videoarsenal_live
