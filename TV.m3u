@@ -2636,7 +2636,7 @@ https://live-gtrk.smotrim.ru/vgtrk/novosibirsk/sibir24-hd/track_105_2da7a401/chu
 #EXTINF:-1 tvg-name="Сок ТВ Санкт-Петербург" tvg-logo="https://avatars.mds.yandex.net/i?id=2987ee64d134d18bd8069434a1b73b7470e7ce6b-8497734-images-thumbs&n=13" group-title="Региональные РФ", Сок ТВ Санкт-Петербург
 #EXTGRP:Региональные РФ
 http://sok.ath.cx:8080/941f070df772290824bdf3906afc01f9/video.m3u8
-#EXTINF:-1 tvg-id="sreda" tvg-name="Среда" tvg-logo="http://epg.one/img/9083.png" group-title="Региональные РФ", Среда HD
+#EXTINF:-1 tvg-id="sreda" tvg-name="Среда" tvg-logo="https://epg.iptvx.one/picons/sreda.png" group-title="Региональные РФ", Среда HD
 #EXTGRP:Региональные РФ
 https://ucdn.beetv.kz/bpk-tv/000008039/tve/index.m3u8
 #EXTINF:-1 tvg-name="СТВ Стрежевой" tvg-logo="https://avatars.mds.yandex.net/i?id=113b7551c6dc229fd57e8eca49baf2a9f2d84054-9243502-images-thumbs&n=13" group-title="Региональные РФ", СТВ Стрежевой
