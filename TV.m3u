@@ -1432,16 +1432,16 @@ https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8
 http://46.53.200.153:7777/play/Viju_Drama/index.m3u8
 #EXTINF:-1 tvg-id="vip-comedy" tvg-name="viju+ Comedy HD" tvg-logo="http://epg.one/img/1011.png" group-title="Кино", Viju+ Comedy HD
 #EXTGRP:Кино
-http://185.46.16.239:8000/VIP_Comedy
+http://46.53.200.153:7777/play/Viju_Comedy_HD/index.m3u8
 #EXTINF:-1 tvg-id="vip-megahit" tvg-name="viju+ Megahit HD" tvg-logo="http://epg.one/img/1012.png" group-title="Кино", Viju+ Megahit HD
 #EXTGRP:Кино
-http://185.46.16.239:8000/VIP_Megahit
+http://46.53.200.153:7777/play/Viju_Megahit_HD/index.m3u8
 #EXTINF:-1 tvg-id="vip-premiere" tvg-name="viju+ Premiere HD" tvg-logo="http://epg.one/img/1013.png" group-title="Кино", Viju+ Premiere HD
 #EXTGRP:Кино
-http://185.46.16.239:8000/VIP_Premiere
+http://46.53.200.153:7777/play/Viju_Premiere/index.m3u8
 #EXTINF:-1 tvg-id="vip-serial" tvg-name="viju+ Serial HD" tvg-logo="http://epg.one/img/2838.png" group-title="Кино", Viju+ Serial HD
 #EXTGRP:Кино
-https://ucdn.beetv.kz/bpk-tv/000004375/tve/index.m3u8
+http://46.53.200.153:7777/play/Viju_Serial_HD/index.m3u8
 
 
 
