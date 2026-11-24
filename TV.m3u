@@ -432,6 +432,9 @@ http://176.118.197.101/CTC/index.m3u8
 #EXTINF:-1 tvg-id="sts-pl4" tvg-name="СТС +4" tvg-logo="http://epg.one/img/3008.png" group-title="Россия плюсовые", СТС +4
 #EXTGRP:Россия плюсовые
 http://vod.tuva.ru/sts/index.m3u8
+#EXTINF:-1 tvg-id="super" tvg-shift="-2" tvg-name="Суббота +2" tvg-logo="http://epg.one/img/7976.png" group-title="Россия плюсовые", Суббота +2
+#EXTGRP:Россия плюсовые
+http://217.114.191.150/Subbota/index.m3u8
 #EXTINF:-1 tvg-id="tv3-ru-pl2" tvg-name="ТВ3 +2" tvg-logo="http://epg.one/img/3013.png" group-title="Россия плюсовые", ТВ3 +2
 #EXTGRP:Россия плюсовые
 http://176.118.197.101/TB3/index.m3u8
