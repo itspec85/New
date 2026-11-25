@@ -515,7 +515,7 @@ http://s7.merlive.am/dikayaoxota/index.m3u8
 http://s7.merlive.am/dikayaribalka/index.m3u8
 #EXTINF:-1 tvg-id="dikiy" tvg-name="Дикий" tvg-logo="http://epg.one/img/2283.png" group-title="Познавательные", Дикий
 #EXTGRP:Познавательные
-http://195.64.140.147:10139/139
+https://stream3.cinerama.uz/1230/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="dozhd" tvg-name="Дождь" tvg-logo="http://epg.one/img/2399.png" group-title="Познавательные", Дождь
 #EXTGRP:Познавательные
 http://portal.ott.pink/C5UK_DozhdSD/mpegts?token=9ED1CC22511FE66191AD465072EEE8DF
@@ -1208,7 +1208,7 @@ https://stream1.cinerama.uz/1235/tracks-v1a1/mono.m3u8
 https://fs.uplink.kz/kinoseria/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="kinouzhas" tvg-name="Киноужас" tvg-logo="http://epg.one/img/2493.png" group-title="Кино", Киноужас
 #EXTGRP:Кино
-http://195.64.140.147:10043/43
+https://flussonic.mkpnet.ru/tv-acc3891ba863f790/video.m3u8
 #EXTINF:-1 tvg-id="kinouzhas-int" tvg-name="Киноужас International" tvg-logo="http://epg.one/img/2493.png" group-title="Кино", Киноужас International
 #EXTGRP:Кино
 https://fs.uplink.kz/kinouzhas/mono.m3u8?token=onlinetv2
@@ -1780,7 +1780,7 @@ http://195.64.140.147:10100/100
 http://31.148.5.241/Match_Football_2_HD/index.m3u8
 #EXTINF:-1 tvg-id="match-football2" tvg-name="Матч! Футбол 2 HD" tvg-logo="http://epg.one/img/1042.png" group-title="Спорт", Матч! Футбол 2 HD
 #EXTGRP:Спорт
-http://tv.ttk.mx:9111
+http://195.64.140.147:10101/101
 #EXTINF:-1 tvg-id="match-football3" tvg-name="Матч! Футбол 3" tvg-logo="http://epg.one/img/2005.png" group-title="Спорт", Матч! Футбол 3
 #EXTGRP:Спорт
 http://31.148.5.241/Match_Football_3_HD/index.m3u8
