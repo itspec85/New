@@ -1067,7 +1067,7 @@ https://ucdn.beetv.kz/bpk-tv/000005178/tve/index.m3u8
 http://88.218.242.237:8001/Cartoon_Classics
 #EXTINF:-1 tvg-id="cartoon-network" tvg-name="Cartoon Network" tvg-logo="http://epg.one/img/601.png" group-title="Детские", Cartoon Network
 #EXTGRP:Детские
-http://45.132.87.69:8080/cartoon_network/index.m3u8
+http://s7.merlive.am/CartoonNetwork/index.m3u8
 #EXTINF:-1 tvg-name="Cartoons VHS-ка" tvg-logo="https://avatars.mds.yandex.net/i?id=479a391a47b0316ce26cc6a808cd2dd933a307d1-9147160-images-thumbs&n=13" group-title="Детские", Cartoons VHS-ка
 #EXTGRP:Детские
 http://kinowalk.hopto.org/myvhs_live
@@ -1744,7 +1744,7 @@ http://185.46.16.239:8000/Eurosport_1
 https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=4rfg4hzvwhuOkxvKpOgKTA&e=2074209265&scheme=https
 #EXTINF:-1 tvg-id="match-tv" tvg-name="Матч ТВ" tvg-logo="http://epg.one/img/2051.png" group-title="Спорт", Матч ТВ
 #EXTGRP:Спорт
-http://45.132.87.69:8080/match/index.m3u8
+http://tv.tuva.ru/machtv/index.m3u8
 #EXTINF:-1 tvg-id="match-tv" tvg-name="Матч ТВ HD" tvg-logo="http://epg.one/img/2051.png" group-title="Спорт", Матч ТВ HD
 #EXTGRP:Спорт
 https://bl.rutube.ru/livestream/11bbbec75a2ceb8cf446ad16813c6eec/index.m3u8?s=OPWhHjvzFdhW_V7TfzG1TQ&e=2074209261&scheme=https
