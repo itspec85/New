@@ -720,10 +720,16 @@ https://cityeden.catcast.tv/content/38354/index.m3u8?password=
 #EXTINF:-1 tvg-name="Сити Эдем - МедЗдрав" tvg-logo="https://www.cityeden.info/logotv/logotip_medzdrav1.png" group-title="Познавательные", Сити Эдем - МедЗдрав
 #EXTGRP:Познавательные
 https://cityeden.catcast.tv/content/47519/index.m3u8?password=
-#EXTINF:-1 tvg-id="smotrim-100-prazdnik" tvg-name="Смотрим 100% Праздник" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-prazdnik.png" group-title="Познавательные", Смотрим 100% Праздник
+#EXTINF:-1 tvg-id="smotrim-100-k-odnomu" tvg-name="Смотрим 100% К одному" tvg-logo="https://cdn.smotrim.ru/photobank/prod/large/156/263/96.jpg" group-title="Познавательные", Смотрим 100% К одному
+#EXTGRP:Познавательные
+https://stream.smotrim.ru/hls2/fasttv08/playlist_2.m3u8
+#EXTINF:-1 tvg-id="smotrim-100-prazdnik" tvg-name="Смотрим 100% Праздник" tvg-logo="https://i.imgur.com/NEcqFse.png" group-title="Познавательные", Смотрим 100% Праздник
 #EXTGRP:Познавательные
 https://stream.smotrim.ru/hls3/fasttv04/playlist_3.m3u8
-#EXTINF:-1 tvg-id="smotrim-100-fakty" tvg-name="Смотрим 100% Факты" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-fakty.png" group-title="Познавательные", Смотрим 100% Факты
+#EXTINF:-1 tvg-id="smotrim-100-talkshow" tvg-name="Смотрим 100% Ток-шоу" tvg-logo="https://cdn.smotrim.ru/photobank/prod/large/156/431/82.jpg" group-title="Познавательные", Смотрим 100% Ток-шоу
+#EXTGRP:Познавательные
+https://stream.smotrim.ru/hls2/fasttv09/playlist_3.m3u8
+#EXTINF:-1 tvg-id="smotrim-100-fakty" tvg-name="Смотрим 100% Факты" tvg-logo="https://i.imgur.com/dB3cJzO.png" group-title="Познавательные", Смотрим 100% Факты
 #EXTGRP:Познавательные
 https://stream.smotrim.ru/hls3/fasttv06/playlist_3.m3u8
 #EXTINF:-1 tvg-id="solovjinypomiot" tvg-name="Соловьев.Live" tvg-logo="http://epg.one/img/13.png" group-title="Познавательные", Соловьев.Live
@@ -960,6 +966,9 @@ http://178.134.1.158:8081/zoopark/index.m3u8
 #EXTINF:-1 tvg-id="v-gostiax-u-skazki" tvg-name="В гостях у сказки" tvg-logo="http://epg.one/img/2027.png" group-title="Детские", В гостях у сказки
 #EXTGRP:Детские
 http://s7.merlive.am/vgostyaxuskazki/index.m3u8
+#EXTINF:-1 tvg-id="detsky" tvg-name="Детский" tvg-logo="https://epg.iptvx.one/picons/detsky.png" group-title="Детские", Детский
+#EXTGRP:Детские
+http://185.46.16.239:8000/Detskiy
 #EXTINF:-1 tvg-id="detsky-mir" tvg-name="Детский мир" tvg-logo="http://epg.one/img/923.png" group-title="Детские", Детский мир
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000000049/tve/index.m3u8
@@ -1020,7 +1029,7 @@ https://stream8.cinerama.uz/1407/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="smaylik-tv" tvg-name="Смайл ТВ" tvg-logo="http://epg.one/img/2442.png" group-title="Детские", Смайл ТВ
 #EXTGRP:Детские
 https://5d23269b3ec0c.streamlock.net/WEB_Smilik/Smilik.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="smotrim-100-detskoe" tvg-name="Смотрим 100% Детское" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-detskoe.png" group-title="Детские", Смотрим 100% Детское
+#EXTINF:-1 tvg-id="smotrim-100-detskoe" tvg-name="Смотрим 100% Детское" tvg-logo="https://i.imgur.com/1hsNeTa.png" group-title="Детские", Смотрим 100% Детское
 #EXTGRP:Детские
 https://stream.smotrim.ru/hls3/fasttv05/playlist_3.m3u8
 #EXTINF:-1 tvg-id="solnce" tvg-name="Солнце" tvg-logo="http://epg.one/img/7669.png" group-title="Детские", Солнце
@@ -1038,9 +1047,6 @@ http://109.94.1.3:8080/132/index.m3u8
 #EXTINF:-1 tvg-id="umka" tvg-name="Умка" tvg-logo="https://epg.iptvx.one/picons/umka.png" group-title="Детские", Умка
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000009436/tve/index.m3u8
-#EXTINF:-1 tvg-id="detsky" tvg-name="Уникум" tvg-logo="http://epg.one/img/66.png" group-title="Детские", Уникум
-#EXTGRP:Детские
-http://185.46.16.239:8000/Detskiy
 #EXTINF:-1 tvg-name="Чип и Дейл" tvg-logo="https://i.postimg.cc/BvqS8HVV/1.png" group-title="Детские", Чип и Дейл
 #EXTGRP:Детские
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
@@ -1295,13 +1301,16 @@ https://ucdn.beetv.kz/bpk-tv/000008135/tve/index.m3u8
 #EXTINF:-1 tvg-id="semejnoe-kino-kz" tvg-name="Семейное кино KZ" tvg-logo="https://iptvx.one/picons/semejnoe-kino-kz.png" group-title="Кино", Семейное кино KZ
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000008489/tve/index.m3u8
-#EXTINF:-1 tvg-id="smotrim-100-klassika" tvg-name="Смотрим 100% Классика" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-klassika.png" group-title="Кино", Смотрим 100% Классика
+#EXTINF:-1 tvg-id="smotrim-100-gorkogo" tvg-name="Смотрим 100% Горького" tvg-logo="https://cdn.smotrim.ru/photobank/prod/large/156/126/56.jpg" group-title="Кино", Смотрим 100% Горького
+#EXTGRP:Кино
+https://stream.smotrim.ru/hls2/fasttv07/playlist_3.m3u8
+#EXTINF:-1 tvg-id="smotrim-100-klassika" tvg-name="Смотрим 100% Классика" tvg-logo="https://i.imgur.com/aASNpKq.png" group-title="Кино", Смотрим 100% Классика
 #EXTGRP:Кино
 https://stream.smotrim.ru/hls3/fasttv03/playlist_3.m3u8
-#EXTINF:-1 tvg-id="smotrim-100-lubov" tvg-name="Смотрим 100% Любовь" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-lubov.png" group-title="Кино", Смотрим 100% Любовь
+#EXTINF:-1 tvg-id="smotrim-100-lubov" tvg-name="Смотрим 100% Любовь" tvg-logo="https://i.imgur.com/4EFh0nu.png" group-title="Кино", Смотрим 100% Любовь
 #EXTGRP:Кино
 https://stream.smotrim.ru/hls3/fasttv01/playlist_3.m3u8
-#EXTINF:-1 tvg-id="smotrim-100-muzhskoe" tvg-name="Смотрим 100% Мужское" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-muzhskoe.png" group-title="Кино", Смотрим 100% Мужское
+#EXTINF:-1 tvg-id="smotrim-100-muzhskoe" tvg-name="Смотрим 100% Мужское" tvg-logo="https://i.imgur.com/UY3fjYU.png" group-title="Кино", Смотрим 100% Мужское
 #EXTGRP:Кино
 https://stream.smotrim.ru/hls3/fasttv02/playlist_3.m3u8
 #EXTINF:-1 tvg-id="chestny-detektiv" tvg-name="Честный детектив" tvg-logo="https://cdn-st3.smotrim.ru/vh/pictures/r/444/241/8.png" group-title="Кино", Смотрим Честный детектив
