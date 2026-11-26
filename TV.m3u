@@ -495,6 +495,9 @@ http://stream8.cinerama.uz/1404/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Вера 24" tvg-logo="https://i.imgur.com/Qer5Lnh.png" group-title="Познавательные", Вера 24
 #EXTGRP:Познавательные
 https://5d23269b3ec0c.streamlock.net/WEB_Vera24/Vera24.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Вести FM" tvg-logo="https://avatars.mds.yandex.net/i?id=c401ca7dc979b7e64e40a0dfb1e2b28d11ef81d6-4445204-images-thumbs&n=13" group-title="Познавательные", Вести FM
+#EXTGRP:Познавательные
+https://stream.smotrim.ru/hls2/vesti_fm/playlist_4.m3u8
 #EXTINF:-1 tvg-id="vmeste-rf" tvg-name="Вместе-РФ" tvg-logo="http://epg.one/img/2398.png" group-title="Познавательные", Вместе-РФ
 #EXTGRP:Познавательные
 https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
