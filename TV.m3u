@@ -872,7 +872,7 @@ http://s1.tv-nano.com/Luxury_rec/video.m3u8
 http://185.23.80.23:8080/NANO_HD/index.m3u8
 #EXTINF:-1 tvg-id="nat-geo-wild" tvg-name="Nat Geo Wild" tvg-logo="http://epg.one/img/223.png" group-title="Познавательные", Nat Geo Wild
 #EXTGRP:Познавательные
-http://stream1.cinerama.uz/1041/mono.m3u8
+http://stream8.cinerama.uz/1041/mono.m3u8
 #EXTINF:-1 tvg-id="nat-geo-wild" tvg-name="Nat Geo Wild HD" tvg-logo="http://epg.one/img/223.png" group-title="Познавательные", Nat Geo Wild HD
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000004474/tve/index.m3u8
@@ -959,13 +959,13 @@ http://178.134.1.158:8081/zoopark/index.m3u8
 
 #EXTINF:-1 tvg-id="v-gostiax-u-skazki" tvg-name="В гостях у сказки" tvg-logo="http://epg.one/img/2027.png" group-title="Детские", В гостях у сказки
 #EXTGRP:Детские
-https://stream1.cinerama.uz/1270/tracks-v1a1/mono.m3u8
+https://stream8.cinerama.uz/1270/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="detsky-mir" tvg-name="Детский мир" tvg-logo="http://epg.one/img/923.png" group-title="Детские", Детский мир
 #EXTGRP:Детские
 https://ucdn.beetv.kz/bpk-tv/000000049/tve/index.m3u8
 #EXTINF:-1 tvg-id="ginger-hd" tvg-name="Капитан Фантастика" tvg-logo="http://epg.one/img/2438.png" group-title="Детские", Капитан Фантастика
 #EXTGRP:Детские
-https://stream1.cinerama.uz/1406/tracks-v1a1/mono.m3u8
+https://stream8.cinerama.uz/1406/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="karusel" tvg-name="Карусель" tvg-logo="http://epg.one/img/740.png" group-title="Детские", Карусель
 #EXTGRP:Детские
 https://stream.smotrim.ru/hls2/karusel/playlist_3.m3u8
@@ -983,7 +983,7 @@ https://bl.rutube.ru/livestream/ed497bdb28846536f3928849f8f7e469/index.m3u8?s=XM
 https://ucdn.beetv.kz/bpk-tv/000008003/tve/index.m3u8
 #EXTINF:-1 tvg-id="mama" tvg-name="Мама" tvg-logo="http://epg.one/img/618.png" group-title="Детские", Мама
 #EXTGRP:Детские
-https://stream1.cinerama.uz/1244/tracks-v1a1/mono.m3u8
+https://stream8.cinerama.uz/1244/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="mult" tvg-name="Мульт" tvg-logo="http://epg.one/img/1332.png" group-title="Детские", Мульт
 #EXTGRP:Детские
 http://185.46.16.239:8000/Mir_24
@@ -1076,7 +1076,7 @@ http://kinowalk.hopto.org/kanaldisneyonline_live
 http://kinowalk.hopto.org/foxkids_remastered_live
 #EXTINF:-1 tvg-id="gulli-girl" tvg-name="Gulli" tvg-logo="http://epg.one/img/810.png" group-title="Детские", Gulli
 #EXTGRP:Детские
-http://stream1.cinerama.uz/1445/index.m3u8
+http://stream8.cinerama.uz/1445/index.m3u8
 #EXTINF:-1 tvg-name="JTX Online" tvg-logo="https://avatars.mds.yandex.net/i?id=990c233d43556f00f1c7f93bfffa9b0ba44ae70b-3693917-images-thumbs&n=13" group-title="Детские", JTX Online
 #EXTGRP:Детские
 http://kinowalk.hopto.org/jtxonline_live
@@ -1097,10 +1097,7 @@ https://ucdn.beetv.kz/bpk-tv/000004365/tve/index.m3u8
 https://hostrec.ru/live/wic2AtEFCLwsZcUkAgtZcjlYgjc.m3u8
 #EXTINF:-1 tvg-id="tiji" tvg-name="Tiji TV" tvg-logo="http://epg.one/img/555.png" group-title="Детские", Tiji TV
 #EXTGRP:Детские
-https://stream1.cinerama.uz/1441/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="TVON Kids" tvg-logo="https://avatars.mds.yandex.net/i?id=417a817c5058c46c713927b57b73df79e48343c0-12661486-images-thumbs&n=13" group-title="Детские", TVON Kids
-#EXTGRP:Детские
-http://188.208.197.173:2580/tvonkids/video.m3u8?token=or1g1nall
+https://stream8.cinerama.uz/1441/tracks-v1a1/mono.m3u8
 
 
 
@@ -1202,7 +1199,7 @@ https://fs.uplink.kz/kinosemya/mono.m3u8?token=onlinetv2
 https://ucdn.beetv.kz/bpk-tv/000005450/tve/index.m3u8
 #EXTINF:-1 tvg-id="kinoseria" tvg-name="Киносерия" tvg-logo="http://epg.one/img/799.png" group-title="Кино", КИНОСЕРИЯ
 #EXTGRP:Кино
-https://stream1.cinerama.uz/1235/tracks-v1a1/mono.m3u8
+https://stream8.cinerama.uz/1235/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="kinoseria-int" tvg-name="Киносерия International" tvg-logo="http://epg.one/img/799.png" group-title="Кино", Киносерия International
 #EXTGRP:Кино
 https://fs.uplink.kz/kinoseria/mono.m3u8?token=onlinetv
@@ -1375,7 +1372,7 @@ https://ucdn.beetv.kz/bpk-tv/000004472/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000004471/tve/index.m3u8
 #EXTINF:-1 tvg-id="hollywood" tvg-name="Hollywood" tvg-logo="http://epg.one/img/608.png" group-title="Кино", Hollywood
 #EXTGRP:Кино
-http://stream1.cinerama.uz/1443/index.m3u8
+http://stream8.cinerama.uz/1443/index.m3u8
 #EXTINF:-1 tvg-id="horrortv" tvg-name="Horror TV" tvg-logo="http://epg.one/img/8792.png" group-title="Кино", Horror TV
 #EXTGRP:Кино
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/93dc292b-cbcf-4988-ab97-94feced4c14b/manifest.m3u8
@@ -1984,7 +1981,7 @@ http://kino-1.catcast.tv/content/37739/index.m3u8
 https://bl.rutube.ru/livestream/965a025e4ebbaf0957415f80c6de8534/index.m3u8?s=Z0uYbkYrPj4f4UsbEk-CAg&e=2074209253&scheme=https
 #EXTINF:-1 tvg-id="la-minor" tvg-name="Музыка Live" tvg-logo="https://epg.iptvx.one/picons/la-minor.png" group-title="Музыка", Музыка Live
 #EXTGRP:Музыка
-http://stream1.cinerama.uz/1238/tracks-v1a1/mono.m3u8
+http://stream8.cinerama.uz/1238/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Музыкальные клипы" tvg-logo="https://avatars.mds.yandex.net/i?id=be282ff9246cbc8d2d4ec1a8eed292bef4cf3cd5-4012465-images-thumbs&n=13" group-title="Музыка", Музыкальные клипы
 #EXTGRP:Музыка
 https://bl.rutube.ru/livestream/e7e04192431a24a750fd8704fa221461/index.m3u8?s=UNKY57D7nuTncgKIq5S9Ew&e=2093437432&scheme=https
@@ -2740,7 +2737,7 @@ http://185.185.69.62:8084/hls/tuapse24.m3u8
 http://tv.tuva.ru/tuva24/index.m3u8
 #EXTINF:-1 tvg-id="tugan-tel" tvg-name="Туган Тел Уфа" tvg-logo="https://iptvx.one/picons/tugan-tel.png" group-title="Региональные РФ", Туган Тел Уфа
 #EXTGRP:Региональные РФ
-https://stream1.cinerama.uz/1261/tracks-v1a1/mono.m3u8
+https://stream8.cinerama.uz/1261/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tumenskoe-vremia" tvg-name="Тюменское время" tvg-logo="https://cdn.epg.one/img/4639.png" group-title="Региональные РФ", Тюменское Время
 #EXTGRP:Региональные РФ
 https://hls-sibinformburo.cdnvideo.ru/sibinformburo-srt/sibinformburo001/playlist.m3u8
@@ -3121,7 +3118,7 @@ https://stream8.cinerama.uz/1211/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1007/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Cinema UZ" tvg-logo="https://avatars.mds.yandex.net/i?id=e5ee56800d74c5c266b0dc76ffc8fae4cada1ce2-8497136-images-thumbs&n=13" group-title="Узбекистан", Cinema UZ
 #EXTGRP:Узбекистан
-https://stream1.cinerama.uz/1498/tracks-v1a1/mono.m3u8
+https://stream8.cinerama.uz/1498/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Dasturxon TV UZ" tvg-logo="http://epg.one/img/7917.png" group-title="Узбекистан", Dasturxon TV UZ
 #EXTGRP:Узбекистан
 https://stream8.cinerama.uz/1206/tracks-v1a1/playlist.m3u8
@@ -3130,7 +3127,7 @@ https://stream8.cinerama.uz/1206/tracks-v1a1/playlist.m3u8
 https://stream8.cinerama.uz/1006/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-name="Farg'ona MTRK" tvg-logo="https://avatars.mds.yandex.net/i?id=474b117219506c81f58eec2d212992a9caa42c35-5869551-images-thumbs&n=13" group-title="Узбекистан", Farg'ona MTRK
 #EXTGRP:Узбекистан
-https://stream1.cinerama.uz/1458/tracks-v1a1/mono.m3u8
+https://stream8.cinerama.uz/1458/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Gold UZ TV" tvg-logo="https://avatars.mds.yandex.net/i?id=32cd505cede0d08f91cf0c75e69419a99931412c-5160870-images-thumbs&n=13" group-title="Узбекистан", Gold UZ TV
 #EXTGRP:Узбекистан
 https://stream8.cinerama.uz/4007/tracks-v1a1/mono.m3u8
@@ -3220,7 +3217,7 @@ https://stream8.cinerama.uz/1003/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1015/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Xorazm MTRK" tvg-logo="https://avatars.mds.yandex.net/i?id=7b429a3fee1bce6eee03aab984da4d7e80af7d57-5288148-images-thumbs&n=13" group-title="Узбекистан", Xorazm MTRK
 #EXTGRP:Узбекистан
-https://stream1.cinerama.uz/1464/tracks-v1a1/mono.m3u8
+https://stream8.cinerama.uz/1464/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Yoshlar UZ" tvg-logo="http://epg.one/img/2645.png" group-title="Узбекистан", Yoshlar UZ
 #EXTGRP:Узбекистан
 https://stream8.cinerama.uz/1002/tracks-v1a1/mono.m3u8
