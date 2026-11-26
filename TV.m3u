@@ -1205,7 +1205,7 @@ https://fs.uplink.kz/kinosemya/mono.m3u8?token=onlinetv2
 https://ucdn.beetv.kz/bpk-tv/000005450/tve/index.m3u8
 #EXTINF:-1 tvg-id="kinoseria" tvg-name="Киносерия" tvg-logo="http://epg.one/img/799.png" group-title="Кино", КИНОСЕРИЯ
 #EXTGRP:Кино
-https://stream8.cinerama.uz/1235/tracks-v1a1/mono.m3u8
+https://flussonic.mkpnet.ru/tv-0d68bd6ff79ee87d/video.m3u8
 #EXTINF:-1 tvg-id="kinoseria-int" tvg-name="Киносерия International" tvg-logo="http://epg.one/img/799.png" group-title="Кино", Киносерия International
 #EXTGRP:Кино
 https://fs.uplink.kz/kinoseria/mono.m3u8?token=onlinetv
@@ -1276,7 +1276,7 @@ https://ucdn.beetv.kz/bpk-tv/000008491/tve/index.m3u8
 http://176.118.197.101/Retro/mono.m3u8
 #EXTINF:-1 tvg-id="rodnoe-kino" tvg-name="Родное кино" tvg-logo="http://epg.one/img/12.png" group-title="Кино", РОДНОЕ КИНО
 #EXTGRP:Кино
-https://stream8.cinerama.uz/1052/tracks-v1a1/mono.m3u8
+https://flussonic.mkpnet.ru/tv-a25657d7773c0f12/video.m3u8
 #EXTINF:-1 tvg-id="rodnoe-kino-int" tvg-name="Родное кино International" tvg-logo="http://epg.one/img/12.png" group-title="Кино", Родное кино International
 #EXTGRP:Кино
 https://fs.uplink.kz/rodnoe_kino/mono.m3u8?token=onlinetv2
@@ -1429,10 +1429,10 @@ http://flussonic.mkpnet.ru/tv-7510472b0133abb2/video.m3u8
 https://ucdn.beetv.kz/bpk-tv/000003748/tve/index.m3u8
 #EXTINF:-1 tvg-id="tv1000-action" tvg-name="Viju TV1000 Action" tvg-logo="http://epg.one/img/125.png" group-title="Кино", Viju TV1000 Action
 #EXTGRP:Кино
-https://ucdn.beetv.kz/bpk-tv/000003910/tve/index.m3u8
+http://185.121.1.163:8083/TV1000/index.m3u8
 #EXTINF:-1 tvg-id="tv1000-action" tvg-name="Viju TV1000 Action HD" tvg-logo="http://epg.one/img/125.png" group-title="Кино", Viju TV1000 Action HD
 #EXTGRP:Кино
-https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8
+https://ucdn.beetv.kz/bpk-tv/000003910/tve/index.m3u8
 #EXTINF:-1 tvg-id="viju-tv1000-romantica" tvg-name="Viju TV1000 Romantica HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/97/Viju_TV1000_Romantica.svg/revision/latest/scale-to-width-down/284?cb=20240928200507" group-title="Кино", Viju TV1000 Romantica HD
 #EXTGRP:Кино
 http://46.53.200.153:7777/play/Viju_Drama/index.m3u8
