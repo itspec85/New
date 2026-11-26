@@ -188,7 +188,7 @@ http://185.46.16.239:8000/Mir
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="mir-24" tvg-name="Мир 24" tvg-logo="http://epg.one/img/2078.png" group-title="Россия", Мир 24
 #EXTGRP:Россия
-https://flussonic.mkpnet.ru/tv-d76fe26181666459/video.m3u8
+http://178.134.1.158:8081/MIR24/index.m3u8
 #EXTINF:-1 tvg-id="mir-24" tvg-name="Мир 24 HD" tvg-logo="http://epg.one/img/2078.png" group-title="Россия", Мир 24 HD
 #EXTGRP:Россия
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
@@ -242,7 +242,7 @@ https://ucdn.beetv.kz/bpk-tv/000003718/tve/index.m3u8
 http://e6.online.video.rbc.ru/online2/rbctv_576p/index.m3u8
 #EXTINF:-1 tvg-id="rbk" tvg-name="РБК HD" tvg-logo="http://epg.one/img/743.png" group-title="Россия", РБК HD
 #EXTGRP:Россия
-http://online.video.rbc.ru/online/rbctv_1080p/index.m3u8
+http://e8-online-video.rbc.ru/online2/rbctvhd_1080p/index.m3u8
 #EXTINF:-1 tvg-id="rentv" tvg-name="Рен ТВ" tvg-logo="http://epg.one/img/18.png" group-title="Россия", РЕН ТВ
 #EXTGRP:Россия
 http://185.46.16.239:8000/REN_TV
@@ -251,7 +251,7 @@ http://185.46.16.239:8000/REN_TV
 https://ucdn.beetv.kz/bpk-tv/000002472/tve/index.m3u8
 #EXTINF:-1 tvg-id="rossia1" tvg-name="Россия 1" tvg-logo="http://epg.one/img/711.png" group-title="Россия", Россия 1
 #EXTGRP:Россия
-http://185.46.16.239:8000/Rossiya_1
+http://31.131.141.195:8000/play/1020/index.m3u8
 #EXTINF:-1 tvg-id="rossia1" tvg-name="Россия 1 HD" tvg-logo="http://epg.one/img/984.png" group-title="Россия", Россия 1 HD
 #EXTGRP:Россия
 https://stream.smotrim.ru/hls2/russia_hd/playlist_6.m3u8
@@ -1409,9 +1409,6 @@ https://ucdn.beetv.kz/bpk-tv/000007818/tve/index.m3u8
 #EXTINF:-1 tvg-id="suspense" tvg-name="Suspense HD" tvg-logo="http://epg.one/img/9180.png" group-title="Кино", Suspense HD
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000008739/tve/index.m3u8
-#EXTINF:-1 tvg-name="TVON Action" tvg-logo="http://epg.one/img/9180.png" group-title="Кино", TVON Action
-#EXTGRP:Кино
-http://188.208.197.173:2580/tvonfilm/video.m3u8?token=or1g1nall
 #EXTINF:-1 tvg-id="tv1000" tvg-name="Viju TV1000" tvg-logo="http://epg.one/img/127.png" group-title="Кино", Viju TV1000
 #EXTGRP:Кино
 http://46.53.200.153:7777/play/TV_1000/index.m3
