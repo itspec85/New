@@ -827,7 +827,7 @@ https://ucdn.beetv.kz/bpk-tv/000001496/tve/index.m3u8
 https://bl.rutube.ru/livestream/6422d62f7e1f87bc3aec45b462cd89ea/index.m3u8?s=NeJzNivWMTMXqfAf1N071w&e=2094517389&scheme=https
 #EXTINF:-1 tvg-id="euronews" tvg-name="Euronews Россия" tvg-logo="http://epg.one/img/2266.png" group-title="Познавательные", Euronews Россия
 #EXTGRP:Познавательные
-https://stream8.cinerama.uz/1024/index.m3u8
+http://s7.merlive.am/EURONEWS/index.m3u8
 #EXTINF:-1 tvg-id="euronews-en" tvg-name="Euronews English" tvg-logo="http://epg.one/img/2266.png" group-title="Познавательные", Euronews English
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000002455/tve/index.m3u8
