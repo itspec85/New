@@ -852,6 +852,9 @@ https://ucdn.beetv.kz/bpk-tv/000006639/tve/index.m3u8
 #EXTINF:-1 tvg-id="galaxy-tv" tvg-name="Galaxy TV" tvg-logo="http://epg.one/img/2418.png" group-title="Познавательные", Galaxy
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000000332/tve/index.m3u8
+#EXTINF:-1 tvg-id="hgtv" tvg-name="HGTV [EU]" tvg-logo="http://epg.one/img/2377.png" group-title="Познавательные", HGTV HD
+#EXTGRP:Познавательные
+http://88.212.15.50/live/test_hgtv_hevc_25p/playlist.m3u8
 #EXTINF:-1 tvg-name="HHQ" tvg-logo="https://avatars.mds.yandex.net/i?id=6cb84ede2c647c11d26a36c4aa2a3f880d6b9365-7679814-images-thumbs&n=13" group-title="Познавательные", HHQ
 #EXTGRP:Познавательные
 https://bl.rutube.ru/livestream/2d7fa51716500fba52586d594201777f/index.m3u8?s=5RC_YHZXg5CPq7KrrCIO3w&e=2074209227&scheme=https
