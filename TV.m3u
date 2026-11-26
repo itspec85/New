@@ -458,7 +458,7 @@ http://176.118.197.101/Che/mono.m3u8
 
 #EXTINF:-1 tvg-id="texno-24" tvg-name="24 Техно" tvg-logo="http://epg.one/img/2762.png" group-title="Познавательные", 24 Техно
 #EXTGRP:Познавательные
-https://stream1.cinerama.uz/1037/tracks-v1a1/mono.m3u8
+https://stream8.cinerama.uz/1037/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="365-dnej" tvg-name="365 дней ТВ" tvg-logo="http://epg.one/img/2423.png" group-title="Познавательные", 365 дней ТВ
 #EXTGRP:Познавательные
 http://185.46.16.239:8000/Paramount_Comedy
@@ -467,7 +467,7 @@ http://185.46.16.239:8000/Paramount_Comedy
 http://185.121.1.163:8083/Avto24/index.m3u8
 #EXTINF:-1 tvg-id="avto-plus" tvg-name="Авто Плюс" tvg-logo="http://epg.one/img/153.png" group-title="Познавательные", Авто Плюс
 #EXTGRP:Познавательные
-https://stream1.cinerama.uz/1036/tracks-v1a1/mono.m3u8
+https://stream8.cinerama.uz/1036/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="akwatv" tvg-name="Аква ТВ" tvg-logo="https://epg.iptvx.one/picons/akwatv.png" group-title="Познавательные", Аква ТВ
 #EXTGRP:Познавательные
 http://stitch.teletarget.ru/vintera/aquatv/index.m3u8
@@ -491,7 +491,7 @@ http://flussonic.mkpnet.ru/tv-319cadb3fff5fb3e/video.m3u8
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="v-mire-zhivotnyx-hd" tvg-name="В мире животных HD" tvg-logo="http://epg.one/img/2498.png" group-title="Познавательные", В мире животных HD
 #EXTGRP:Познавательные
-http://stream1.cinerama.uz/1404/tracks-v1a1/mono.m3u8
+http://stream8.cinerama.uz/1404/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Вера 24" tvg-logo="https://i.imgur.com/Qer5Lnh.png" group-title="Познавательные", Вера 24
 #EXTGRP:Познавательные
 https://5d23269b3ec0c.streamlock.net/WEB_Vera24/Vera24.stream/playlist.m3u8
@@ -527,7 +527,7 @@ http://45.11.139.43:8555/doctor/index.m3u8
 https://bl.rutube.ru/livestream/eddcc86d1dee0b5def546ea388eb38ea/index.m3u8?s=K8oV0wBK3fSc0rHkVx_KLA&e=2090759000&scheme=https
 #EXTINF:-1 tvg-id="domashnie-zhivotnye" tvg-name="Домашние Животные" tvg-logo="http://epg.one/img/520.png" group-title="Познавательные", Домашние Животные
 #EXTGRP:Познавательные
-https://stream1.cinerama.uz/1426/tracks-v1a1/mono.m3u8
+https://stream8.cinerama.uz/1426/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="drive" tvg-name="Драйв" tvg-logo="http://epg.one/img/2443.png" group-title="Познавательные", Драйв
 #EXTGRP:Познавательные
 http://185.46.16.239:8000/Drayv
@@ -542,10 +542,10 @@ https://ucdn.beetv.kz/bpk-tv/000008065/tve/index.m3u8
 http://185.46.16.239:8000/Zhivaya_Planeta
 #EXTINF:-1 tvg-id="zhivi" tvg-name="ЖИВИ!" tvg-logo="http://epg.one/img/113.png" group-title="Познавательные", ЖИВИ!
 #EXTGRP:Познавательные
-https://stream1.cinerama.uz/1419/tracks-v1a1/mono.m3u8
+https://stream8.cinerama.uz/1419/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="zhivi-aktivno" tvg-name="Живи активно" tvg-logo="https://epg.iptvx.one/picons/zhivi-aktivno.png" group-title="Познавательные", Живи активно
 #EXTGRP:Познавательные
-https://stream1.cinerama.uz/1405/tracks-v1a1/mono.m3u8
+https://stream8.cinerama.uz/1405/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="За!ТВ" tvg-logo="https://avatars.mds.yandex.net/i?id=3392ef595a598b716b3a9c5e8939f4338114f599-5287388-images-thumbs&n=13" group-title="Познавательные", За!ТВ
 #EXTGRP:Познавательные
 https://streaming.televizor-24-tochka.ru/live/25-req_offset_28000000-req_window_0-1k_v5.m3u8
@@ -566,7 +566,7 @@ https://ucdn.beetv.kz/bpk-tv/000006638/tve/index.m3u8
 http://flussonic.mkpnet.ru/tv-92fa9d648cab0f3f/video.m3u8
 #EXTINF:-1 tvg-id="istoria" tvg-name="История" tvg-logo="http://epg.one/img/1036.png" group-title="Познавательные", История
 #EXTGRP:Познавательные
-https://stream1.cinerama.uz/1266/tracks-v1a1/mono.m3u8
+https://stream8.cinerama.uz/1266/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Каббала ТВ" tvg-logo="https://avatars.mds.yandex.net/i?id=0212fb5c11225b6ff52b28a86438b19edf271916-5219731-images-thumbs&n=13" group-title="Познавательные", Каббала ТВ
 #EXTGRP:Познавательные
 http://edge2.uk.kab.tv/rtplive/kabtv-rus-medium.stream/playlist.m3u8
@@ -587,7 +587,7 @@ https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3
 https://ucdn.beetv.kz/bpk-tv/000001377/tve/index.m3u8
 #EXTINF:-1 tvg-id="kuxnia-tv" tvg-name="Кухня ТВ" tvg-logo="http://epg.one/img/614.png" group-title="Познавательные", Кухня ТВ
 #EXTGRP:Познавательные
-https://stream1.cinerama.uz/1236/tracks-v1a1/mono.m3u8
+https://stream8.cinerama.uz/1236/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Мото Драйв" tvg-logo="https://avatars.mds.yandex.net/i?id=b0871a2e7a83f61d5ccefe8126253efee7818fc0-10807817-images-thumbs&n=13" group-title="Познавательные", Мото Драйв
 #EXTGRP:Познавательные
 http://stitch.teletarget.ru/vintera/motodrive/index.m3u8
@@ -662,7 +662,7 @@ http://v4.proofix.ru/0mir/index.m3u8
 http://185.121.1.163:8083/OhotaRybalka/index.m3u8
 #EXTINF:-1 tvg-id="oxotnik-i-rybolov-hd" tvg-name="Охотник и рыболов" tvg-logo="http://epg.one/img/1681.png" group-title="Познавательные", Охотник и рыболов
 #EXTGRP:Познавательные
-https://stream1.cinerama.uz/1413/tracks-v1a1/mono.m3u8
+https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="oxotnik-i-rybolov-int" tvg-name="Охотник и Рыболов International" tvg-logo="https://epg.iptvx.one/picons/oxotnik-i-rybolov-int.png" group-title="Познавательные", Охотник и Рыболов International
 #EXTGRP:Познавательные
 https://bl.rutube.ru/livestream/1da5d92af8c55b16241f1eb12a27f00c/index.m3u8?s=k3XzMAcprnWLf7qzlawecA&e=2074209218&scheme=https
@@ -692,7 +692,7 @@ https://fs.uplink.kz/poehali/mono.m3u8?token=onlinetv2
 http://stitch.teletarget.ru/vintera/flighttv/index.m3u8
 #EXTINF:-1 tvg-id="prikluchenia-hd" tvg-name="Приключения HD" tvg-logo="http://epg.one/img/2311.png" group-title="Познавательные", Приключения HD
 #EXTGRP:Познавательные
-http://stream1.cinerama.uz/1420/tracks-v1a1/mono.m3u8
+http://stream8.cinerama.uz/1420/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="pro-business" tvg-name="ПРО бизнес" tvg-logo="http://epg.one/img/2753.png" group-title="Познавательные", ПРО Бизнес
 #EXTGRP:Познавательные
 https://tv-streaming.bsh.ru:21938/probusiness/probusiness.stream/chunklist.m3u8
@@ -713,7 +713,7 @@ http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
 https://ucdn.beetv.kz/bpk-tv/000002510/tve/index.m3u8
 #EXTINF:-1 tvg-id="sarafan" tvg-name="Сарафан" tvg-logo="http://epg.one/img/663.png" group-title="Познавательные", Сарафан
 #EXTGRP:Познавательные
-https://stream1.cinerama.uz/1249/tracks-v1a1/mono.m3u8
+https://stream8.cinerama.uz/1249/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Сити Эдем - КиноДок" tvg-logo="https://www.cityeden.info/logotv/logotip_kinodok1.png" group-title="Познавательные", Сити Эдем - КиноДок
 #EXTGRP:Познавательные
 https://cityeden.catcast.tv/content/38354/index.m3u8?password=
@@ -755,16 +755,16 @@ https://tvoetv.space/tvoetv_humor/video.m3u8
 http://tvspas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="telekafe" tvg-name="Телекафе" tvg-logo="http://epg.one/img/2304.png" group-title="Познавательные", Телекафе
 #EXTGRP:Познавательные
-https://stream1.cinerama.uz/1035/tracks-v1a1/mono.m3u8
+https://stream8.cinerama.uz/1035/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="terra-inkognita" tvg-name="Терра Инкогнита" tvg-logo="https://epg.iptvx.one/picons/terra-inkognita.png" group-title="Познавательные", Терра Инкогнита
 #EXTGRP:Познавательные
 http://stitch.teletarget.ru/vintera/terra/index.m3u8
 #EXTINF:-1 tvg-id="tochka-otryva" tvg-name="Точка отрыва" tvg-logo="http://epg.one/img/617.png" group-title="Познавательные", Точка отрыва
 #EXTGRP:Познавательные
-http://stream1.cinerama.uz/1031/tracks-v1a1/mono.m3u8
+http://stream8.cinerama.uz/1031/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="hd-life" tvg-name="Точка РФ" tvg-logo="https://avatars.mds.yandex.net/i?id=d3b4f009021411116670c7dc32b450eb1677e5c6-3574038-images-thumbs&n=13" group-title="Познавательные", Точка РФ
 #EXTGRP:Познавательные
-https://stream1.cinerama.uz/1222/tracks-v1a1/mono.m3u8
+https://stream8.cinerama.uz/1222/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tri-angela" tvg-name="Три ангела" tvg-logo="http://epg.one/img/2469.png" group-title="Познавательные", Три ангела
 #EXTGRP:Познавательные
 https://hls.tv.3angels.ru/stream/HQ.m3u8
