@@ -702,6 +702,9 @@ https://tv-streaming.bsh.ru:21938/probusiness/probusiness.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="prosveschenie" tvg-name="Просвещение" tvg-logo="http://epg.one/img/2296.png" group-title="Познавательные", Просвещение
 #EXTGRP:Познавательные
 http://cdn-01.bonus-tv.ru/prosveschenie_edge/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-name="Радио Sputnik" tvg-logo="https://avatars.mds.yandex.net/i?id=8e88583863c3f39778f92aa2913d7de98ff3f304-12422633-images-thumbs&n=13" group-title="Познавательные", Радио Sputnik
+#EXTGRP:Познавательные
+https://live-rian.cdnvideo.ru/rian/rus-radio/playlist.m3u8
 #EXTINF:-1 tvg-id="radost-moya" tvg-name="Радость моя" tvg-logo="http://epg.one/img/2287.png" group-title="Познавательные", Радость моя
 #EXTGRP:Познавательные
 https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
