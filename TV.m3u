@@ -599,7 +599,7 @@ http://stitch.teletarget.ru/vintera/motodrive/index.m3u8
 http://185.46.16.239:8000/Planeta_HD
 #EXTINF:-1 tvg-id="muzhskoy" tvg-name="Мужской" tvg-logo="http://epg.one/img/2444.png" group-title="Познавательные", Мужской
 #EXTGRP:Познавательные
-http://flussonic.mkpnet.ru/tv-55c94e838b306657/video.m3u8
+https://fonbet.mediacdn.ru/live/muzhskoi/playlist.m3u8
 #EXTINF:-1 tvg-id="muzhskoy" tvg-name="Мужской HD" tvg-logo="http://epg.one/img/2444.png" group-title="Познавательные", Мужской HD
 #EXTGRP:Познавательные
 https://ucdn.beetv.kz/bpk-tv/000000286/tve/index.m3u8
@@ -1260,9 +1260,6 @@ http://185.121.1.163:8083/MuzhskoeKino/index.m3u8
 #EXTINF:-1 tvg-id="muzhskoe-kino-int" tvg-name="Мужское кино International" tvg-logo="http://epg.one/img/1584.png" group-title="Кино", Мужское кино International
 #EXTGRP:Кино
 https://fs.uplink.kz/muzhskoe_kino/mono.m3u8?token=onlinetv2
-#EXTINF:-1 tvg-id="nash-kinopokaz-hd" tvg-name="Наш Кинопоказ HD" tvg-logo="http://epg.one/img/2831.png" group-title="Кино", Наш Кинопоказ HD
-#EXTGRP:Кино
-http://46.53.200.153:7777/play/SRT_Nash_kinopokaz/index.m3u8
 #EXTINF:-1 tvg-id="nashe-novoe-kino" tvg-name="Наше новое кино" tvg-logo="http://epg.one/img/485.png" group-title="Кино", Наше новое кино
 #EXTGRP:Кино
 http://185.121.1.163:8083/NasheNovoeKino/index.m3u8
